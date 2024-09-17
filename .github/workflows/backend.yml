@@ -6,7 +6,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: Java CI with Maven
+name: Build Backend
 
 on:
   push:
@@ -43,10 +43,7 @@ jobs:
           cache: maven
       - name: Create Maven settings.xml
         run: |
-          echo "<settings xmlns=\"http://maven.apache.org/SETTINGS/1.0.0\"
-                  xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"
-                  xsi:schemaLocation=\"http://maven.apache.org/SETTINGS/1.0.0
-                                      http://maven.apache.org/xsd/settings-1.0.0.xsd\">
+          echo "<settings>
             <servers>
               <server>
                 <id>github</id>
