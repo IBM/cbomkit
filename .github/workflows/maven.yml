@@ -41,8 +41,8 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
           cache: maven
-      - name: Configure Maven settings
-        uses: s4u/maven-settings-action@v3
+      - name: maven-settings-action
+        uses: s4u/maven-settings-action@v3.0.0
         with:
           servers: |
             [{
