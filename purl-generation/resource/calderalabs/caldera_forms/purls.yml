@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/calderawp/caldera-forms
+  - pkg:github/wp-plugins/caldera-forms
+  - pkg:github/wpplugins/caldera-forms

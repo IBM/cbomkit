@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:phpheaven:phpmychat:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpheaven:phpmychat:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpheaven:phpmychat:0.14.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpheaven:phpmychat:0.14.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpheaven:phpmychat:0.14.6:*:*:*:*:*:*:*

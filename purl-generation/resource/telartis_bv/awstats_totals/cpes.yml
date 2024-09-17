@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:telartis_bv:awstats_totals:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:telartis_bv:awstats_totals:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:telartis_bv:awstats_totals:1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:telartis_bv:awstats_totals:1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:telartis_bv:awstats_totals:1.14:*:*:*:*:*:*:*

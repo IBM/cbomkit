@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:fanpress_cm_project:fanpress_cm:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:fanpress_cm_project:fanpress_cm:3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fanpress_cm_project:fanpress_cm:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fanpress_cm_project:fanpress_cm:3.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fanpress_cm_project:fanpress_cm:3.6.3:*:*:*:*:*:*:*

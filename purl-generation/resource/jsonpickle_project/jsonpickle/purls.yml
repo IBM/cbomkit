@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/jsonpickle
+  - pkg:deb/ubuntu/jsonpickle
+  - pkg:github/jsonpickle/jsonpickle
+  - pkg:pypi/jsonpickle
+  - pkg:rpm/fedora/python-jsonpickle
+  - pkg:rpm/opensuse/python-jsonpickle

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/scilab
+  - pkg:deb/ubuntu/scilab
+  - pkg:github/scilab/scilab
+  - pkg:gitlab/scilab/scilab

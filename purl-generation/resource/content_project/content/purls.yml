@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/hapijs/content
+  - pkg:npm/%40hapi/content

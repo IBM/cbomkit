@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/gnumeric
+  - pkg:deb/ubuntu/gnumeric
+  - pkg:github/gnome/gnumeric
+  - pkg:rpm/fedora/gnumeric
+  - pkg:rpm/opensuse/gnumeric

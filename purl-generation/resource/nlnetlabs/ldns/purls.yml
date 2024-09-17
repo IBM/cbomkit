@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ldns
+  - pkg:deb/ubuntu/ldns
+  - pkg:github/nlnetlabs/ldns
+  - pkg:rpm/centos/ldns
+  - pkg:rpm/fedora/ldns
+  - pkg:rpm/opensuse/ldns

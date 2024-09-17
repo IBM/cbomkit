@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/fracpete/vfsjfilechooser2
+  - pkg:maven/com.github.fracpete/vfsjfilechooser2
+  - pkg:maven/com.googlecode.vfsjfilechooser2/vfsjfilechooser2
+  - pkg:maven/org.bidib.com.github.fracpete/vfsjfilechooser2

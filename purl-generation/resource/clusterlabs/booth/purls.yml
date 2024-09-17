@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/booth
+  - pkg:deb/ubuntu/booth
+  - pkg:github/clusterlabs/booth
+  - pkg:github/jjzhang/booth
+  - pkg:rpm/centos/booth
+  - pkg:rpm/fedora/booth
+  - pkg:rpm/opensuse/booth

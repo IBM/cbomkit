@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-nokogiri
+  - pkg:deb/ubuntu/ruby-nokogiri
+  - pkg:gem/nokogiri
+  - pkg:github/sparklemotion/nokogiri
+  - pkg:rpm/fedora/rubygem-nokogiri
+  - pkg:rpm/opensuse/rubygem-nokogiri

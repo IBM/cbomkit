@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/postfix
+  - pkg:deb/ubuntu/postfix
+  - pkg:github/vdukhovni/postfix
+  - pkg:gitlab/redhat/postfix
+  - pkg:rpm/fedora/postfix
+  - pkg:rpm/opensuse/postfix

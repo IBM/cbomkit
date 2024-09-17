@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/util-linux
+  - pkg:deb/ubuntu/util-linux
+  - pkg:github/util-linux/util-linux
+  - pkg:rpm/centos/util-linux
+  - pkg:rpm/fedora/util-linux
+  - pkg:rpm/opensuse/util-linux

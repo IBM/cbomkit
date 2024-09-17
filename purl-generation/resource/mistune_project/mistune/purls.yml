@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/mistune
+  - pkg:deb/ubuntu/mistune
+  - pkg:github/lepture/mistune
+  - pkg:pypi/mistune
+  - pkg:rpm/fedora/python-mistune
+  - pkg:rpm/opensuse/python-mistune

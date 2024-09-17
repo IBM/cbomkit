@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jhipster/jhipster-kotlin
+  - pkg:npm/generator-jhipster-kotlin

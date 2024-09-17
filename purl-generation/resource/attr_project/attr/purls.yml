@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/attr
+  - pkg:deb/ubuntu/attr
+  - pkg:gitlab/redhat/attr
+  - pkg:gnu/attr
+  - pkg:rpm/centos/attr
+  - pkg:rpm/fedora/attr
+  - pkg:rpm/opensuse/attr

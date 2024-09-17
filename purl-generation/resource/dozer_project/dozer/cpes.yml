@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:dozer_project:dozer:5.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dozer_project:dozer:5.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dozer_project:dozer:5.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dozer_project:dozer:5.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dozer_project:dozer:5.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dozer_project:dozer:5.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dozer_project:dozer:5.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dozer_project:dozer:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dozer_project:dozer:6.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dozer_project:dozer:6.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dozer_project:dozer:6.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dozer_project:dozer:6.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dozer_project:dozer:6.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dozer_project:dozer:6.5.0:*:*:*:*:*:*:*

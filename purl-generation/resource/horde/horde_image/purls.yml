@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-image
+  - pkg:deb/ubuntu/php-horde-image
+  - pkg:github/horde/image
+  - pkg:rpm/fedora/php-horde-horde-image

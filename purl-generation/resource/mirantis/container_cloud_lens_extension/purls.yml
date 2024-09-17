@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mirantis/lens-extension-cc
+  - pkg:npm/%40mirantis/lens-extension-cc

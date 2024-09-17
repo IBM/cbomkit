@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mholt/archiver
+  - pkg:rpm/fedora/golang-github-mholt-archiver

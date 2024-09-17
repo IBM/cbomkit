@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:iter-http_project:iter-http:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:iter-http_project:iter-http:1.0.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:iter-http_project:iter-http:1.0.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:iter-http_project:iter-http:1.0.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:iter-http_project:iter-http:1.0.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:iter-http_project:iter-http:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:iter-http_project:iter-http:1.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:iter-http_project:iter-http:1.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:iter-http_project:iter-http:1.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:iter-http_project:iter-http:1.0.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:iter-http_project:iter-http:1.0.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:iter-http_project:iter-http:1.0.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:iter-http_project:iter-http:1.0.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:iter-http_project:iter-http:1.0.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:iter-http_project:iter-http:-:*:*:*:*:node.js:*:*

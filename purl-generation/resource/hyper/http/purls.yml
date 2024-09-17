@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-http
+  - pkg:deb/ubuntu/rust-http
+  - pkg:github/hyperium/http
+  - pkg:rpm/fedora/rust-http
+  - pkg:rpm/opensuse/rust-http

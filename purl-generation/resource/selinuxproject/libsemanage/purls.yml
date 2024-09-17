@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libsemanage
+  - pkg:deb/ubuntu/libsemanage
+  - pkg:github/selinuxproject/selinux
+  - pkg:gitlab/redhat/libsemanage
+  - pkg:rpm/centos/libsemanage
+  - pkg:rpm/fedora/libsemanage
+  - pkg:rpm/opensuse/libsemanage

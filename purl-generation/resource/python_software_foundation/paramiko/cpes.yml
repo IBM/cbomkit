@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:python_software_foundation:paramiko:1.7.1:*:*:*:*:*:*:*

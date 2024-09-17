@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-superagent
+  - pkg:deb/ubuntu/node-superagent
+  - pkg:github/visionmedia/superagent
+  - pkg:maven/org.webjars.npm/superagent
+  - pkg:npm/superagent
+  - pkg:sourceforge/superagent.mirror

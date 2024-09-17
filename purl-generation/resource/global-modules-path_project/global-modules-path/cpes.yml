@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:global-modules-path_project:global-modules-path:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:global-modules-path_project:global-modules-path:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:global-modules-path_project:global-modules-path:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:global-modules-path_project:global-modules-path:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:global-modules-path_project:global-modules-path:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:global-modules-path_project:global-modules-path:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:global-modules-path_project:global-modules-path:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:global-modules-path_project:global-modules-path:2.3.1:*:*:*:*:*:*:*

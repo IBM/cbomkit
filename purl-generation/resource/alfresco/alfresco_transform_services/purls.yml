@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/alfresco/acs-packaging
+  - pkg:maven/org.alfresco/alfresco-packaging

@@ -1,0 +1,10 @@
+purls:
+  - pkg:cpan/module-metadata
+  - pkg:deb/debian/libmodule-metadata-perl
+  - pkg:deb/ubuntu/libmodule-metadata-perl
+  - pkg:github/gitpan/module-metadata
+  - pkg:github/perl-toolchain-gang/module-metadata
+  - pkg:gitlab/redhat/perl-module-metadata
+  - pkg:rpm/centos/perl-module-metadata
+  - pkg:rpm/fedora/perl-module-metadata
+  - pkg:rpm/opensuse/perl-module-metadata

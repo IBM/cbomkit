@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:nirweb:nirweb_support:2.7.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nirweb:nirweb_support:2.7.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nirweb:nirweb_support:2.7.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nirweb:nirweb_support:2.7.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nirweb:nirweb_support:2.7.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nirweb:nirweb_support:2.7.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nirweb:nirweb_support:2.7.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nirweb:nirweb_support:2.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nirweb:nirweb_support:2.8.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nirweb:nirweb_support:2.8.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nirweb:nirweb_support:2.8.6:*:*:*:*:wordpress:*:*

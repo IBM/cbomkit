@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:springblade_project:springblade:2.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:springblade_project:springblade:3.2.0:*:*:*:*:*:*:*

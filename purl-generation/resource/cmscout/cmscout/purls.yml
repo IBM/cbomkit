@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/cmscout/cmscout-2.x
+  - pkg:github/russgray/cmscout
+  - pkg:sourceforge/cmscout

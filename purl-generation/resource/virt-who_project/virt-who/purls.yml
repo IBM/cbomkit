@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/candlepin/virt-who
+  - pkg:gitlab/redhat/virt-who
+  - pkg:rpm/centos/virt-who
+  - pkg:rpm/fedora/virt-who
+  - pkg:rpm/opensuse/virt-who

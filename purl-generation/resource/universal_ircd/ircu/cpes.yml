@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:universal_ircd:ircu:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:universal_ircd:ircu:2.10.12.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:universal_ircd:ircu:2.10.12.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:universal_ircd:ircu:2.10.12.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:universal_ircd:ircu:2.10.12.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:universal_ircd:ircu:2.10.12.05:*:*:*:*:*:*:*

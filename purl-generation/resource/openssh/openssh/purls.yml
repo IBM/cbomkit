@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/openssh
+  - pkg:deb/ubuntu/openssh
+  - pkg:github/openssh/openssh-portable
+  - pkg:rpm/centos/openssh
+  - pkg:rpm/fedora/openssh
+  - pkg:rpm/opensuse/openssh

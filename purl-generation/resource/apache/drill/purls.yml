@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/drill
+  - pkg:docker/apache/drill
+  - pkg:github/apache/drill
+  - pkg:maven/org.apache.drill/drill-root

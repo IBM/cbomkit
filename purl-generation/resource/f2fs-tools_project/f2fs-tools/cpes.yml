@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:f2fs-tools_project:f2fs-tools:1.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:f2fs-tools_project:f2fs-tools:1.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:f2fs-tools_project:f2fs-tools:1.14.0:*:*:*:*:*:*:*

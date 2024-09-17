@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:async-coap_project:async-coap:2020-12-08:*:*:*:*:rust:*:*

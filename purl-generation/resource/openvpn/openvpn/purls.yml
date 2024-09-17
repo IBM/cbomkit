@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/openvpn
+  - pkg:deb/ubuntu/openvpn
+  - pkg:github/openvpn/openvpn

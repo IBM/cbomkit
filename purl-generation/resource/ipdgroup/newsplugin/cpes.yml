@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:ipdgroup:newsplugin:1.0.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ipdgroup:newsplugin:-:*:*:*:*:wordpress:*:*

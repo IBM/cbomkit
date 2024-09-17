@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/sane-backends
+  - pkg:deb/ubuntu/sane-backends
+  - pkg:github/kkaempf/sane-backends
+  - pkg:gitlab/redhat/sane-backends
+  - pkg:rpm/fedora/sane-backends
+  - pkg:rpm/opensuse/sane-backends

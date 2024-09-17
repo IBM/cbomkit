@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/khuey/lazy-init
+  - pkg:rpm/fedora/rust-lazy-init
+  - pkg:rpm/opensuse/rust-lazy-init

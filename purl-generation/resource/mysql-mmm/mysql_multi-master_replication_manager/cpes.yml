@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:mysql-mmm:mysql_multi-master_replication_manager:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysql-mmm:mysql_multi-master_replication_manager:2.2.1:*:*:*:*:freebsd:*:*
+  - cpe:2.3:a:mysql-mmm:mysql_multi-master_replication_manager:2.2.1:*:*:*:*:linux:*:*
+  - cpe:2.3:a:mysql-mmm:mysql_multi-master_replication_manager:2.2.1:*:*:*:*:solaris:*:*

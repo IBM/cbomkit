@@ -1,0 +1,4 @@
+purls:
+  - pkg:fedora/python-tgcaptcha
+  - pkg:pypi/tgcaptcha
+  - pkg:rpm/fedora/python-tgcaptcha2

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/tylergarlick/angular-redactor
+  - pkg:maven/org.webjars.bower/angular-redactor
+  - pkg:npm/angular-redactor

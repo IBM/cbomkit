@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:eaccelerator:eaccelerator:0.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:eaccelerator:eaccelerator:0.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:eaccelerator:eaccelerator:0.9.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:eaccelerator:eaccelerator:0.9.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:eaccelerator:eaccelerator:0.9.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:eaccelerator:eaccelerator:0.9.5:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:eaccelerator:eaccelerator:0.9.5:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:eaccelerator:eaccelerator:0.9.5:rc1:*:*:*:*:*:*

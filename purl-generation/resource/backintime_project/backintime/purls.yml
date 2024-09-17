@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/backintime
+  - pkg:deb/ubuntu/backintime
+  - pkg:github/bit-team/backintime
+  - pkg:rpm/fedora/backintime
+  - pkg:rpm/opensuse/backintime

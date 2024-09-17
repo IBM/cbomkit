@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/ubuntu/yubikey-piv-manager
+  - pkg:github/yubico/yubikey-piv-manager
+  - pkg:rpm/fedora/yubikey-piv-manager
+  - pkg:rpm/opensuse/yubikey-piv-manager

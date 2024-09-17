@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:livro_python_project:livro_python:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:livro_python_project:livro_python:2018-06-06:*:*:*:*:*:*:*

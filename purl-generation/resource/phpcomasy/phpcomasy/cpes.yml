@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:phpcomasy:phpcomasy:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcomasy:phpcomasy:0.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcomasy:phpcomasy:0.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcomasy:phpcomasy:0.7.9pre:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcomasy:phpcomasy:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcomasy:phpcomasy:0.9.1:*:*:*:*:*:*:*

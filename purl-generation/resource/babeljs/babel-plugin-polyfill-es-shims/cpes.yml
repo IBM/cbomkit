@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:babeljs:babel-plugin-polyfill-es-shims:*:*:*:*:*:nodejs:*:*

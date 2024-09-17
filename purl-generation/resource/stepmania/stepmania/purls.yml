@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/stepmania/stepmania
+  - pkg:rpm/opensuse/stepmania
+  - pkg:sourceforge/stepmania

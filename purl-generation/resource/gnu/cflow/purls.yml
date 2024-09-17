@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/cflow
+  - pkg:deb/ubuntu/cflow
+  - pkg:github/darfux/cflow
+  - pkg:github/gnu-mirror-unofficial/cflow
+  - pkg:github/lizh06/cflow
+  - pkg:gnu/cflow
+  - pkg:rpm/fedora/cflow
+  - pkg:rpm/opensuse/cflow

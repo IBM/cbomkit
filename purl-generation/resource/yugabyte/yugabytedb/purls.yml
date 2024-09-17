@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/yugabytedb/yugabyte
+  - pkg:github/yugabyte/yugabyte-db
+  - pkg:sourceforge/yugabytedb.mirror

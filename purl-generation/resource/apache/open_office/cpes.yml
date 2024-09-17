@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:apache:open_office:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:open_office:4.1.5:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/rssowl/rssowl
+  - pkg:maven/org.rssowl.core/org.rssowl.core
+  - pkg:sourceforge/rssowl

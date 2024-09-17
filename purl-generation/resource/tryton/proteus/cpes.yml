@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:tryton:proteus:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tryton:proteus:5.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:tryton:proteus:5.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:tryton:proteus:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tryton:proteus:6.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:tryton:proteus:6.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:tryton:proteus:6.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tryton:proteus:6.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tryton:proteus:6.2.2:*:*:*:*:*:*:*

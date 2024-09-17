@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/youkol/kaptcha
+  - pkg:github/zxyle/kaptcha
+  - pkg:maven/dev.zhengxiang/kaptcha

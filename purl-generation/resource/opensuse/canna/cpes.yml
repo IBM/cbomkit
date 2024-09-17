@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:opensuse:canna:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:canna:3.7p3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:canna:3.7p3-bp153.2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:canna:3.7p3-bp154.3.3.1:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/openlayers/closure-util
+  - pkg:maven/org.webjars.npm/closure-util
+  - pkg:npm/closure-util

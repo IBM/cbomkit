@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/diffoscope
+  - pkg:deb/ubuntu/diffoscope
+  - pkg:docker/tianon/diffoscope
+  - pkg:github/prototypefund/reproducible-builds-diffoscope-website
+  - pkg:pypi/diffoscope
+  - pkg:rpm/fedora/diffoscope
+  - pkg:rpm/opensuse/diffoscope

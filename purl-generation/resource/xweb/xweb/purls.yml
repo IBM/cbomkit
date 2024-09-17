@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/go-xweb/xweb
+  - pkg:golang/github.com/go-xweb/xweb

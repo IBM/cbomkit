@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/muaz-khan/reliable-signaler
+  - pkg:npm/datachannel-client

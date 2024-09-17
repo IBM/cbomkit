@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/upload-pgyer-plugin
+  - pkg:github/myroid/jenkins-upload-pgyer-plugin

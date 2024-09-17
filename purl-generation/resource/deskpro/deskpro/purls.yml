@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/deskpro/deskpro
+  - pkg:github/deskpro/deskpro.github.io

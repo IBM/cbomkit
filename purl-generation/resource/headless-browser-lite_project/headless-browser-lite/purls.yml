@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kaizhu256/node-phantomjs-lite
+  - pkg:npm/phantomjs-lite

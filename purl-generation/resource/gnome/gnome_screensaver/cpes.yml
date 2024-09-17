@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:gnome:gnome_screensaver:3.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome_screensaver:3.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome_screensaver:3.6.0:*:*:*:*:*:*:*

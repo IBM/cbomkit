@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/node-uuid
+  - pkg:deb/ubuntu/node-uuid
+  - pkg:github/uuidjs/uuid
+  - pkg:maven/org.webjars.bowergithub.kelektiv/node-uuid
+  - pkg:maven/org.webjars.npm/node-uuid
+  - pkg:npm/uuid
+  - pkg:nuget/node-uuid
+  - pkg:rpm/fedora/nodejs-node-uuid

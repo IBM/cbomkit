@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/acecile/ewbf-cuda-zcash-miner
+  - pkg:github/caiqinghua/ewbf
+  - pkg:github/djenriquez/ewbf-cuda-miner

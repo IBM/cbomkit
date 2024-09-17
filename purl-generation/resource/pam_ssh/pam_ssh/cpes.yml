@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:pam_ssh:pam_ssh:1.91:*:*:*:*:*:*:*

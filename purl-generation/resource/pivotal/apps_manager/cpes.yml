@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:pivotal:apps_manager:666.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:apps_manager:666.0.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:apps_manager:667.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:apps_manager:667.0.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:apps_manager:668.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:apps_manager:668.0.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:apps_manager:669.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:apps_manager:669.0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:apps_manager:670.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:apps_manager:670.0.7:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:twistedmatrix:twistedweb:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:twistedmatrix:twistedweb:2.5.0:*:*:*:*:*:*:*

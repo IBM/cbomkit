@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/gnugk
+  - pkg:deb/ubuntu/gnugk
+  - pkg:github/distrotech/gnugk
+  - pkg:github/willamowius/gnugk
+  - pkg:rpm/opensuse/gnugk

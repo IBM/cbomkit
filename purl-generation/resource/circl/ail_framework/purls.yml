@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/lifenz/ail-framework
+  - pkg:github/circl/ail-framework
+  - pkg:github/ngsimon/ail-framework

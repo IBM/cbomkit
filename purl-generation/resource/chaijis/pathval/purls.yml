@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-pathval
+  - pkg:deb/ubuntu/node-pathval
+  - pkg:github/chaijs/pathval
+  - pkg:maven/org.webjars.npm/pathval
+  - pkg:npm/pathval

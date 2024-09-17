@@ -1,0 +1,10 @@
+purls:
+  - pkg:bitbucket/oisinglynn/sofia-sip
+  - pkg:deb/debian/sofia-sip
+  - pkg:deb/ubuntu/sofia-sip
+  - pkg:github/belledonnecommunications/sofia-sip
+  - pkg:github/davehorton/sofia-sip
+  - pkg:github/freeswitch/sofia-sip
+  - pkg:rpm/fedora/sofia-sip
+  - pkg:rpm/opensuse/sofia-sip
+  - pkg:sourceforge/sofia-sip

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-sized-chunks
+  - pkg:deb/ubuntu/rust-sized-chunks
+  - pkg:github/bodil/sized-chunks
+  - pkg:rpm/fedora/rust-sized-chunks
+  - pkg:rpm/opensuse/rust-sized-chunks

@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:jenkins:azure_container_service:0.1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_container_service:0.1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_container_service:0.1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_container_service:0.2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_container_service:0.3.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_container_service:0.4.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_container_service:0.4.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_container_service:1.0.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_container_service:1.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_container_service:1.1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_container_service:1.1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_container_service:1.2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_container_service:1.2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:azure_container_service:1.2.2:*:*:*:*:jenkins:*:*

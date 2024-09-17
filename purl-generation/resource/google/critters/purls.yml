@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/googlechromelabs/critters
+  - pkg:npm/critters

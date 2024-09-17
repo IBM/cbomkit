@@ -1,0 +1,9 @@
+purls:
+  - pkg:apache/httpd
+  - pkg:github/apache/httpd-mod_fcgid
+  - pkg:github/pagespeed/mod_fcgid
+  - pkg:gitlab/redhat/mod_fcgid
+  - pkg:googlesource/mod_fcgid
+  - pkg:rpm/fedora/mod_fcgid
+  - pkg:rpm/opensuse/mod_fcgid
+  - pkg:sourceforge/mod-fcgid

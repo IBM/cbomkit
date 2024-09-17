@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-pykmip
+  - pkg:deb/ubuntu/python-pykmip
+  - pkg:github/openkmip/pykmip
+  - pkg:pypi/pykmip
+  - pkg:rpm/fedora/python-pykmip
+  - pkg:rpm/opensuse/python-pykmip

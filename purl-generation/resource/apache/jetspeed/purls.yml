@@ -1,0 +1,3 @@
+purls:
+  - pkg:apache/jetspeed-2
+  - pkg:maven/org.apache.portals.jetspeed-2/jetspeed

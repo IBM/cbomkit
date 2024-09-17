@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/privatebin/privatebin
+  - pkg:rpm/opensuse/privatebin

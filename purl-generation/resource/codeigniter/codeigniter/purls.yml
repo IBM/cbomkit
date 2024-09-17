@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/codeigniter4/codeigniter4
+  - pkg:npm/codeigniter4

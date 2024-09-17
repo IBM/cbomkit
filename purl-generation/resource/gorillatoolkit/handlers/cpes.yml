@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:gorillatoolkit:handlers:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gorillatoolkit:handlers:1.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:gorillatoolkit:handlers:1.2.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:gorillatoolkit:handlers:1.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:gorillatoolkit:handlers:*:*:*:*:*:go:*:*
+  - cpe:2.3:a:gorillatoolkit:handlers:-:*:*:*:*:go:*:*

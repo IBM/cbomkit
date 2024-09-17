@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/fairwaves/pcapsipdump
+  - pkg:rpm/opensuse/pcapsipdump
+  - pkg:sourceforge/pcapsipdump

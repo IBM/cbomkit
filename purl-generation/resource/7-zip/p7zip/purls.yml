@@ -1,0 +1,8 @@
+purls:
+  - pkg:gitee/han_jin_fei/p7zip
+  - pkg:github/freayd/p7zip
+  - pkg:github/jbdemonte/p7zip
+  - pkg:github/jinfeihan57/p7zip
+  - pkg:github/mcmilk/7-zip
+  - pkg:sourceforge/p7zip
+  - pkg:sourceforge/sevenzip

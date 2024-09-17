@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-log4js
+  - pkg:deb/ubuntu/node-log4js
+  - pkg:github/log4js-node/log4js-node
+  - pkg:maven/org.webjars.npm/log4js
+  - pkg:npm/log4js

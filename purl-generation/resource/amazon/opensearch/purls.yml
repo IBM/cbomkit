@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/opensearch-ruby
+  - pkg:github/opensearch-project/opensearch-ruby

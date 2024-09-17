@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/kde-cli-tools
+  - pkg:deb/ubuntu/kde-cli-tools
+  - pkg:github/kde/kde-cli-tools
+  - pkg:rpm/fedora/kde-cli-tools
+  - pkg:rpm/opensuse/kde-cli-tools

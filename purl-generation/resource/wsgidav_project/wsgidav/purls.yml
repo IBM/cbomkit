@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/mar10/wsgidav
+  - pkg:github/mar10/wsgidav
+  - pkg:pypi/wsgidav
+  - pkg:rpm/opensuse/python-wsgidav

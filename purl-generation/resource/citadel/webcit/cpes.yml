@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:citadel:webcit:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:7.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:7.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:7.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:7.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:7.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:7.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:7.86:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:7.87:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:8.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:8.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:8.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:8.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:8.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:8.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:8.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:8.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:8.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:8.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:8.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:8.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:8.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:9.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:902:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:webcit:926:*:*:*:*:*:*:*

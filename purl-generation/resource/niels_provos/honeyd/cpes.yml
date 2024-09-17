@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:niels_provos:honeyd:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:niels_provos:honeyd:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:niels_provos:honeyd:0.6a:*:*:*:*:*:*:*
+  - cpe:2.3:a:niels_provos:honeyd:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:niels_provos:honeyd:0.7a:*:*:*:*:*:*:*
+  - cpe:2.3:a:niels_provos:honeyd:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:niels_provos:honeyd:0.8a:*:*:*:*:*:*:*
+  - cpe:2.3:a:niels_provos:honeyd:0.8b:*:*:*:*:*:*:*
+  - cpe:2.3:a:niels_provos:honeyd:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:niels_provos:honeyd:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:niels_provos:honeyd:1.5a:*:*:*:*:*:*:*

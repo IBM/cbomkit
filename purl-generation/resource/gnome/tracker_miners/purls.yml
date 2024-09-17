@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/gnome/tracker-miners
+  - pkg:gitlab/gnome/tracker-miners
+  - pkg:rpm/opensuse/tracker-miners

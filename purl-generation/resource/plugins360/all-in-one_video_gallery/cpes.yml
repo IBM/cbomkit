@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:2.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:2.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:2.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:2.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:2.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:2.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:2.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:2.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:2.4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:2.4.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:2.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:2.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:2.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:2.5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:2.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:2.5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:2.5.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:2.5.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:2.5.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:2.5.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:2.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:2.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugins360:all-in-one_video_gallery:-:*:*:*:*:wordpress:*:*

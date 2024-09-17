@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/python-imaging
+  - pkg:deb/debian/python-pil
+  - pkg:deb/ubuntu/python-imaging
+  - pkg:deb/ubuntu/python-pil
+  - pkg:github/python-pillow/pillow
+  - pkg:gitlab/redhat/python-pillow
+  - pkg:pypi/pillow
+  - pkg:rpm/fedora/python-pillow
+  - pkg:rpm/opensuse/python-pillow
+  - pkg:sourceforge/pillow.mirror

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/xchat
+  - pkg:deb/ubuntu/xchat
+  - pkg:github/elrina/xchat
+  - pkg:github/tycho/xchat
+  - pkg:github/xchataqua/xchat
+  - pkg:rpm/centos/xchat
+  - pkg:rpm/opensuse/xchat
+  - pkg:sourceforge/xchat

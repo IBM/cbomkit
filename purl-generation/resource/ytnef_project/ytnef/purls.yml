@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/yeraze/ytnef
+  - pkg:rpm/fedora/ytnef
+  - pkg:rpm/opensuse/ytnef

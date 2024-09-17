@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/spice-gtk
+  - pkg:deb/ubuntu/spice-gtk
+  - pkg:github/freedesktop/spice-gtk
+  - pkg:gitlab/redhat/spice-gtk
+  - pkg:rpm/fedora/spice-gtk
+  - pkg:rpm/opensuse/spice-gtk

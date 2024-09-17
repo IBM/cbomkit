@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jaegertracing/jaeger
+  - pkg:gitlab/gitlab-org/jaeger
+  - pkg:sourceforge/jaeger.mirror

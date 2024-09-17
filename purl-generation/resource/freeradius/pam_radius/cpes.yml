@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:freeradius:pam_radius:1.3.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:freeradius:pam_radius:1.4.0:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/crowdfavorite-mirrors/wp-gpx-maps
+  - pkg:github/espenmn/wp-gpx-maps
+  - pkg:github/wp-plugins/wp-gpx-maps

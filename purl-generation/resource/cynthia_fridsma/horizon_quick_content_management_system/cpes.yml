@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:cynthia_fridsma:horizon_quick_content_management_system:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:cynthia_fridsma:horizon_quick_content_management_system:3.2:a:*:*:*:*:*:*
+  - cpe:2.3:a:cynthia_fridsma:horizon_quick_content_management_system:3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cynthia_fridsma:horizon_quick_content_management_system:3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:cynthia_fridsma:horizon_quick_content_management_system:3.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cynthia_fridsma:horizon_quick_content_management_system:3.5.2:*:*:*:*:*:*:*

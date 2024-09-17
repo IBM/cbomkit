@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/nodejs/llhttp
+  - pkg:npm/llhttp
+  - pkg:rpm/fedora/llhttp

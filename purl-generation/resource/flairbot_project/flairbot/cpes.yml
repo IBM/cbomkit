@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:flairbot_project:flairbot:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:flairbot_project:flairbot:-:*:*:*:*:*:*:*

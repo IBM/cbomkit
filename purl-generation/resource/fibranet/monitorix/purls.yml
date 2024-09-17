@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/monitorix
+  - pkg:deb/ubuntu/monitorix
+  - pkg:github/mikaku/monitorix
+  - pkg:rpm/fedora/monitorix
+  - pkg:rpm/opensuse/monitorix
+  - pkg:sourceforge/monitorix

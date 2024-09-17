@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/e2fsprogs
+  - pkg:deb/ubuntu/e2fsprogs
+  - pkg:github/distrotech/e2fsprogs
+  - pkg:github/tytso/e2fsprogs
+  - pkg:rpm/centos/e2fsprogs
+  - pkg:rpm/fedora/e2fsprogs
+  - pkg:rpm/opensuse/e2fsprogs
+  - pkg:sourceforge/e2fsprogs

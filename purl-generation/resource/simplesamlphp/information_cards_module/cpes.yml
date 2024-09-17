@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:simplesamlphp:information_cards_module:1.0.1:*:*:*:*:simplesamlphp:*:*
+  - cpe:2.3:a:simplesamlphp:information_cards_module:1.0.2:*:*:*:*:simplesamlphp:*:*
+  - cpe:2.3:a:simplesamlphp:information_cards_module:1.0:*:*:*:*:simplesamlphp:*:*
+  - cpe:2.3:a:simplesamlphp:information_cards_module:*:*:*:*:*:simplesamlphp:*:*
+  - cpe:2.3:a:simplesamlphp:information_cards_module:-:*:*:*:*:simplesamlphp:*:*

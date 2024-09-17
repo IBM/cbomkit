@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:untrunc_project:untrunc:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:untrunc_project:untrunc:2018-06-07:*:*:*:*:*:*:*

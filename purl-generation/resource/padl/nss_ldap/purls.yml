@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/padl/nss_ldap
+  - pkg:rpm/opensuse/nss_ldap

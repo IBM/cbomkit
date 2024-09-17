@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/openafs
+  - pkg:deb/ubuntu/openafs
+  - pkg:github/openafs/openafs
+  - pkg:rpm/opensuse/openafs

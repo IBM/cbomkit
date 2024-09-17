@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:epikur:epikur:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:epikur:epikur:20.1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:epikur:epikur:20.1.1:*:*:*:*:*:*:*

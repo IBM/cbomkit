@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/angular/angular
+  - pkg:googlesource/angular
+  - pkg:maven/org.webjars.npm/angular__core
+  - pkg:npm/%40angular/core
+  - pkg:sourceforge/angular.mirror

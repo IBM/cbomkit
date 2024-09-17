@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:apache:formatting_objects_processor:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:formatting_objects_processor:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:formatting_objects_processor:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:formatting_objects_processor:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:formatting_objects_processor:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:formatting_objects_processor:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:formatting_objects_processor:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:formatting_objects_processor:2.5:*:*:*:*:*:*:*

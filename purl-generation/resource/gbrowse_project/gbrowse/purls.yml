@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/gbrowse
+  - pkg:deb/ubuntu/gbrowse
+  - pkg:github/gmod/gbrowse
+  - pkg:sourceforge/gmod

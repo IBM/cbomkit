@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/build-with-parameters-plugin
+  - pkg:github/jessicaaustin/jenkins-build-with-parameters-plugin

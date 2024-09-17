@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:videowhisper:live_streaming_integration_plugin:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:videowhisper:live_streaming_integration_plugin:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:videowhisper:live_streaming_integration_plugin:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:videowhisper:live_streaming_integration_plugin:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:videowhisper:live_streaming_integration_plugin:4.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:videowhisper:live_streaming_integration_plugin:4.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:videowhisper:live_streaming_integration_plugin:4.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:videowhisper:live_streaming_integration_plugin:4.25.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:videowhisper:live_streaming_integration_plugin:4.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:videowhisper:live_streaming_integration_plugin:4.27.3:*:*:*:*:*:*:*

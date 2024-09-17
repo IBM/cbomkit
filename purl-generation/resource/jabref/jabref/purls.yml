@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/jabref
+  - pkg:deb/ubuntu/jabref
+  - pkg:github/jabref/jabref
+  - pkg:rpm/opensuse/jabref
+  - pkg:sourceforge/jabref

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:drupal:organic_groups_module:5:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:organic_groups_module:6:*:*:*:*:*:*:*

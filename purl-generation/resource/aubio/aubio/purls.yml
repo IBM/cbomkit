@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/aubio
+  - pkg:deb/ubuntu/aubio
+  - pkg:github/aubio/aubio
+  - pkg:pypi/aubio
+  - pkg:rpm/fedora/aubio
+  - pkg:rpm/opensuse/aubio
+  - pkg:sourceforge/aubio

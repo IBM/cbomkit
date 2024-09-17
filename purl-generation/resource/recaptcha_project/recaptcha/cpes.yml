@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:recaptcha_project:recaptcha:1.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:recaptcha_project:recaptcha:1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:recaptcha_project:recaptcha:1.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:recaptcha_project:recaptcha:-:*:*:*:*:wordpress:*:*

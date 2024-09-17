@@ -1,0 +1,12 @@
+purls:
+  - pkg:bitbucket/succotash/harfbuzz
+  - pkg:deb/debian/harfbuzz
+  - pkg:deb/ubuntu/harfbuzz
+  - pkg:docker/harfbuzzpackn/harfbuzz
+  - pkg:github/harfbuzz/harfbuzz
+  - pkg:gitlab/redhat/harfbuzz
+  - pkg:nuget/harfbuzz
+  - pkg:rpm/centos/harfbuzz
+  - pkg:rpm/fedora/harfbuzz
+  - pkg:rpm/opensuse/harfbuzz
+  - pkg:sourceforge/harfbuzz.mirror

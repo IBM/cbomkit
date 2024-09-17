@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/slapi-nis
+  - pkg:deb/ubuntu/slapi-nis
+  - pkg:github/gooselinux/slapi-nis
+  - pkg:gitlab/redhat/slapi-nis
+  - pkg:rpm/fedora/slapi-nis
+  - pkg:rpm/opensuse/slapi-nis

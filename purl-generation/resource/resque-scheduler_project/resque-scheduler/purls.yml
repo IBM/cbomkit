@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/resque-scheduler
+  - pkg:github/resque/resque-scheduler
+  - pkg:rpm/opensuse/rubygem-resque-scheduler

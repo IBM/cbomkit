@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/kata-containers
+  - pkg:github/kata-containers/kata-containers
+  - pkg:golang/github.com/kata-containers/kata-containers
+  - pkg:rpm/fedora/kata-containers

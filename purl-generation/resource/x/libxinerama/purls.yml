@@ -1,0 +1,7 @@
+purls:
+  - pkg:github/freedesktop/libxinerama
+  - pkg:github/freedesktop/xorg-libxinerama
+  - pkg:github/val-verde/libxinerama
+  - pkg:rpm/centos/libxinerama
+  - pkg:rpm/fedora/libxinerama
+  - pkg:rpm/opensuse/libxinerama

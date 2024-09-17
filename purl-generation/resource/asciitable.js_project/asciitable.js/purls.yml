@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/victornpb/asciitable.js
+  - pkg:npm/asciitable.js

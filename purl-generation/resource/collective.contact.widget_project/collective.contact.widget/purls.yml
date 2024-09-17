@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/collective/collective.contact.widget
+  - pkg:pypi/collective.contact.widget

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/clusterlabs/cluster-glue
+  - pkg:rpm/opensuse/cluster-glue

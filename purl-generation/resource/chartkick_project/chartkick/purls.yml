@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/chartkick
+  - pkg:github/ankane/chartkick
+  - pkg:rpm/opensuse/rubygem-chartkick

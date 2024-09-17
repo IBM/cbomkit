@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:simpleledger:slpjs:0.10.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:0.10.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:0.10.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:0.11.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:0.11.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:0.11.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:0.12.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:0.14.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:0.15.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:0.15.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:0.16.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:0.16.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:0.16.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:0.16.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:0.17.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:0.18.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:0.18.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:0.18.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:0.21.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:0.21.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:0.22.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:0.27.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:0.27.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simpleledger:slpjs:-:*:*:*:*:node.js:*:*

@@ -1,0 +1,6 @@
+purls:
+  - pkg:apache/avro
+  - pkg:github/apache/avro
+  - pkg:maven/org.apache.avro/avro
+  - pkg:pypi/avro
+  - pkg:sourceforge/apache-avro.mirror

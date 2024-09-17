@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/autopsy
+  - pkg:deb/ubuntu/autopsy
+  - pkg:github/sleuthkit/autopsy
+  - pkg:rpm/opensuse/autopsy
+  - pkg:sourceforge/autopsy

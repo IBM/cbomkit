@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tootallnate/node-http-proxy-agent
+  - pkg:npm/http-proxy-agent

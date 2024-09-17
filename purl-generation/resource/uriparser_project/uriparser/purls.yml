@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/uriparser
+  - pkg:deb/ubuntu/uriparser
+  - pkg:github/uriparser/uriparser
+  - pkg:nuget/uriparser
+  - pkg:rpm/fedora/uriparser
+  - pkg:rpm/opensuse/uriparser
+  - pkg:sourceforge/uriparser

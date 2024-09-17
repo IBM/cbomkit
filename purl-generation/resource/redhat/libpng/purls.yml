@@ -1,0 +1,11 @@
+purls:
+  - pkg:bitbucket/qtip/libpng
+  - pkg:cpan/image-png-ibpng
+  - pkg:deb/debian/libpng1.6
+  - pkg:deb/ubuntu/libpng1.6
+  - pkg:gem/libpng-ruby
+  - pkg:github/glennrp/libpng
+  - pkg:gitlab/redhat/libpng
+  - pkg:rpm/fedora/libpng
+  - pkg:rpm/opensuse/libpng
+  - pkg:sourceforge/libpng

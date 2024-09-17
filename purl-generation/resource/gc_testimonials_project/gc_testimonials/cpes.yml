@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:gc_testimonials_project:gc_testimonials:1.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gc_testimonials_project:gc_testimonials:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gc_testimonials_project:gc_testimonials:-:*:*:*:*:wordpress:*:*

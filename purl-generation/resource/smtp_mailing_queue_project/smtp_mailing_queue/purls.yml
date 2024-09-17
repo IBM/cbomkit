@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/hildende/smtp-mailing-queue
+  - pkg:github/wp-plugins/smtp-mailing-queue
+  - pkg:github/wpplugins/smtp-mailing-queue

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-rubygems
+  - pkg:deb/ubuntu/ruby-rubygems
+  - pkg:gem/rubygems
+  - pkg:github/rubygems/rubygems
+  - pkg:rpm/fedora/rubygems
+  - pkg:rpm/opensuse/rubygems

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:sphpblog:sphpblog:0.4_.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sphpblog:sphpblog:0.4.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:sphpblog:sphpblog:0.4.9:*:*:*:*:*:*:*

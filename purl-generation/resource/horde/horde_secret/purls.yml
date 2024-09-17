@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-secret
+  - pkg:deb/ubuntu/php-horde-secret
+  - pkg:github/horde/secret
+  - pkg:rpm/fedora/php-horde-horde-secret

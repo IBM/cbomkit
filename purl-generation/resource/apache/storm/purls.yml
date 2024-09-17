@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/storm
+  - pkg:github/apache/storm
+  - pkg:maven/org.apache.storm/storm

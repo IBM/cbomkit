@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/kvirc
+  - pkg:deb/ubuntu/kvirc
+  - pkg:github/kvirc/kvirc
+  - pkg:rpm/fedora/kvirc
+  - pkg:rpm/opensuse/kvirc
+  - pkg:sourceforge/kvirc

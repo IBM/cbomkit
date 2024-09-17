@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:gnustep:gnustep_base:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnustep:gnustep_base:1.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnustep:gnustep_base:1.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnustep:gnustep_base:1.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnustep:gnustep_base:1.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnustep:gnustep_base:1.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnustep:gnustep_base:1.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnustep:gnustep_base:1.15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnustep:gnustep_base:1.15.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnustep:gnustep_base:1.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnustep:gnustep_base:1.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnustep:gnustep_base:1.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnustep:gnustep_base:1.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnustep:gnustep_base:1.19.2:*:*:*:*:*:*:*

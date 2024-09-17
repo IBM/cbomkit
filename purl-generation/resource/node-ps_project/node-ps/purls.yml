@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/fortruce/node-ps
+  - pkg:npm/node-ps

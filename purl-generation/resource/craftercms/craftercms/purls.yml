@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/craftercms/craftercms
+  - pkg:maven/org.craftercms/craftercms

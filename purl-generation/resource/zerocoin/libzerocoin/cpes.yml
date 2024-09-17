@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:zerocoin:libzerocoin:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:zerocoin:libzerocoin:-:*:*:*:*:*:*:*

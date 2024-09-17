@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:enumstringvalues_project:enumstringvalues:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:enumstringvalues_project:enumstringvalues:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:enumstringvalues_project:enumstringvalues:0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:enumstringvalues_project:enumstringvalues:0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:enumstringvalues_project:enumstringvalues:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:enumstringvalues_project:enumstringvalues:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:enumstringvalues_project:enumstringvalues:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:enumstringvalues_project:enumstringvalues:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:enumstringvalues_project:enumstringvalues:4.0.1:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/quartz-scheduler/quartz
+  - pkg:maven/org.quartz-scheduler/quartz

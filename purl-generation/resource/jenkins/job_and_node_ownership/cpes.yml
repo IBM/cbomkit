@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:jenkins:job_and_node_ownership:0.10.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_and_node_ownership:0.1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_and_node_ownership:0.11.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_and_node_ownership:0.12.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_and_node_ownership:0.12.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_and_node_ownership:0.13.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_and_node_ownership:0.2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_and_node_ownership:0.2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_and_node_ownership:0.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_and_node_ownership:0.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_and_node_ownership:0.5.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_and_node_ownership:0.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_and_node_ownership:0.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_and_node_ownership:0.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_and_node_ownership:0.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_and_node_ownership:0.9.0:beta1:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_and_node_ownership:0.9.0:-:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_and_node_ownership:0.9.1:*:*:*:*:jenkins:*:*

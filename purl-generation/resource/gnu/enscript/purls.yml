@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/enscript
+  - pkg:deb/ubuntu/enscript
+  - pkg:github/gitgnu/gnu_enscript
+  - pkg:github/gnu-mirror-unofficial/enscript
+  - pkg:gitlab/redhat/enscript
+  - pkg:gnu/enscript
+  - pkg:rpm/centos/enscript
+  - pkg:rpm/fedora/enscript
+  - pkg:rpm/opensuse/enscript

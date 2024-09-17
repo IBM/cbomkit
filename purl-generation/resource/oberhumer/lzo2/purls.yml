@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/lzo2
+  - pkg:deb/ubuntu/lzo2
+  - pkg:github/damageboy/lzo2
+  - pkg:gitlab/redhat/lzo
+  - pkg:rpm/fedora/lzo
+  - pkg:rpm/opensuse/liblzo2-2
+  - pkg:rpm/opensuse/liblzo2-2-x86
+  - pkg:rpm/opensuse/lzo

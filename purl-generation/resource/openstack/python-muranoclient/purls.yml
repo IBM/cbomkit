@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openstack/python-muranoclient
+  - pkg:pypi/python-muranoclient

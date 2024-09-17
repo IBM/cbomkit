@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jcsirot/ansible-plugin
+  - pkg:github/jenkinsci/ansible-plugin

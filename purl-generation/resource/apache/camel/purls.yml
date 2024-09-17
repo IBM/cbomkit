@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/camel
+  - pkg:docker/apache/camel
+  - pkg:github/apache/camel
+  - pkg:maven/org.apache.camel/camel

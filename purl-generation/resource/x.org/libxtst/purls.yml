@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libxtst
+  - pkg:deb/ubuntu/libxtst
+  - pkg:github/conda-forge/xorg-libxtst-feedstock
+  - pkg:gitlab/redhat/libxtst
+  - pkg:rpm/fedora/libxtst
+  - pkg:rpm/opensuse/libxtst

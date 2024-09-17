@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/glewlwyd
+  - pkg:deb/ubuntu/glewlwyd
+  - pkg:docker/babelouest/glewlwyd
+  - pkg:github/babelouest/glewlwyd
+  - pkg:sourceforge/glewlwyd-sso-server

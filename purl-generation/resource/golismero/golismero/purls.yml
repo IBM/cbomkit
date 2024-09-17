@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/golismero/golismero
+  - pkg:gitlab/kalilinux/golismero
+  - pkg:pypi/golismero

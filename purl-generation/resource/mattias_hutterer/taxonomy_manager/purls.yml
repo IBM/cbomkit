@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/drupalprojects/taxonomy_manager
+  - pkg:github/envisionme/taxonomy_manager

@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:getcomposer:composer-setup:2.1:*:*:*:*:windows:*:*
+  - cpe:2.3:a:getcomposer:composer-setup:2.2:*:*:*:*:windows:*:*
+  - cpe:2.3:a:getcomposer:composer-setup:2.3:*:*:*:*:windows:*:*
+  - cpe:2.3:a:getcomposer:composer-setup:2.4:*:*:*:*:windows:*:*
+  - cpe:2.3:a:getcomposer:composer-setup:2.5:*:*:*:*:windows:*:*
+  - cpe:2.3:a:getcomposer:composer-setup:2.6:*:*:*:*:windows:*:*
+  - cpe:2.3:a:getcomposer:composer-setup:2.7:*:*:*:*:windows:*:*
+  - cpe:2.3:a:getcomposer:composer-setup:2.8:*:*:*:*:windows:*:*
+  - cpe:2.3:a:getcomposer:composer-setup:3.0:*:*:*:*:windows:*:*
+  - cpe:2.3:a:getcomposer:composer-setup:4.10.0:*:*:*:*:windows:*:*
+  - cpe:2.3:a:getcomposer:composer-setup:4.1.0:*:*:*:*:windows:*:*
+  - cpe:2.3:a:getcomposer:composer-setup:4.2.0:*:*:*:*:windows:*:*
+  - cpe:2.3:a:getcomposer:composer-setup:4.3.0:*:*:*:*:windows:*:*
+  - cpe:2.3:a:getcomposer:composer-setup:4.4.0:*:*:*:*:windows:*:*
+  - cpe:2.3:a:getcomposer:composer-setup:4.5.0:*:*:*:*:windows:*:*
+  - cpe:2.3:a:getcomposer:composer-setup:4.6.0:*:*:*:*:windows:*:*
+  - cpe:2.3:a:getcomposer:composer-setup:4.7.0:*:*:*:*:windows:*:*
+  - cpe:2.3:a:getcomposer:composer-setup:4.8.0:*:*:*:*:windows:*:*
+  - cpe:2.3:a:getcomposer:composer-setup:4.9.0:*:*:*:*:windows:*:*
+  - cpe:2.3:a:getcomposer:composer-setup:5.0.0:*:*:*:*:windows:*:*
+  - cpe:2.3:a:getcomposer:composer-setup:5.1.0:*:*:*:*:windows:*:*
+  - cpe:2.3:a:getcomposer:composer-setup:6.0.0:*:*:*:*:windows:*:*

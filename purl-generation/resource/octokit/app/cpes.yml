@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:octokit:app:14.0.1:*:*:*:*:node.js:*:*

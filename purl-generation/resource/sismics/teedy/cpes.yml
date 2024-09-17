@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:sismics:teedy:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sismics:teedy:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sismics:teedy:1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:sismics:teedy:1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:sismics:teedy:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sismics:teedy:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sismics:teedy:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sismics:teedy:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:sismics:teedy:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:sismics:teedy:1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:sismics:teedy:1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:sismics:teedy:1.9:*:*:*:*:*:*:*

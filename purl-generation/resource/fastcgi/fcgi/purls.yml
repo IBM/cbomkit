@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libfcgi
+  - pkg:deb/ubuntu/libfcgi
+  - pkg:github/fastcgi-archives/fcgi2
+  - pkg:rpm/fedora/fcgi
+  - pkg:rpm/opensuse/fcgi

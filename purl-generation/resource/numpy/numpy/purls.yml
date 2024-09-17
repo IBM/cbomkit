@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/numpy
+  - pkg:deb/ubuntu/numpy
+  - pkg:github/numpy/numpy
+  - pkg:rpm/centos/numpy
+  - pkg:rpm/fedora/numpy
+  - pkg:sourceforge/numpy.mirror

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/traefik/traefik
+  - pkg:rpm/opensuse/traefik
+  - pkg:sourceforge/traefik.mirror

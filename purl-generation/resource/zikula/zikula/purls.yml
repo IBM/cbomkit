@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/zikula/core
+  - pkg:github/zikula/core

@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/hammer_cli
+  - pkg:github/theforeman/hammer-cli-foreman

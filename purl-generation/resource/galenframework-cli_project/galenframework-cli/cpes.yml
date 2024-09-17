@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:galenframework-cli_project:galenframework-cli:*:*:*:*:*:node.js:*:*

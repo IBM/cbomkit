@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:arjohn_kampman:sesame_rdf_container:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arjohn_kampman:sesame_rdf_container:1.0_pre1:*:*:*:*:*:*:*
+  - cpe:2.3:a:arjohn_kampman:sesame_rdf_container:1.0_pre2:*:*:*:*:*:*:*
+  - cpe:2.3:a:arjohn_kampman:sesame_rdf_container:1.0_pre3:*:*:*:*:*:*:*
+  - cpe:2.3:a:arjohn_kampman:sesame_rdf_container:1.0_pre4:*:*:*:*:*:*:*

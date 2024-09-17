@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:pannellum:pannellum:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pannellum:pannellum:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pannellum:pannellum:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pannellum:pannellum:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pannellum:pannellum:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pannellum:pannellum:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pannellum:pannellum:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pannellum:pannellum:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pannellum:pannellum:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pannellum:pannellum:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pannellum:pannellum:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pannellum:pannellum:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pannellum:pannellum:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pannellum:pannellum:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pannellum:pannellum:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pannellum:pannellum:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pannellum:pannellum:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pannellum:pannellum:2.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pannellum:pannellum:2.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pannellum:pannellum:2.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pannellum:pannellum:2.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:pannellum:pannellum:2.5.6:*:*:*:*:*:*:*

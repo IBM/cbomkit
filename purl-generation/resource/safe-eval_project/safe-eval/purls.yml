@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/commenthol/safer-eval
+  - pkg:maven/org.webjars.npm/safer-eval
+  - pkg:npm/safer-eval

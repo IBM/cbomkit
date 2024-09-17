@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:horde:horde_socket_client:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_socket_client:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_socket_client:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_socket_client:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_socket_client:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_socket_client:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_socket_client:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_socket_client:2.1.2:*:*:*:*:*:*:*

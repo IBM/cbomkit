@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:openfabrics:ibacm:1.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:openfabrics:ibacm:1.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:openfabrics:ibacm:1.0.7:*:*:*:*:*:*:*

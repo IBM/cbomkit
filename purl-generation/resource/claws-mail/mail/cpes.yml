@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:claws-mail:mail:3.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:claws-mail:mail:3.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:claws-mail:mail:3.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:claws-mail:mail:3.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:claws-mail:mail:3.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:claws-mail:mail:3.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:claws-mail:mail:3.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:claws-mail:mail:3.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:claws-mail:mail:3.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:claws-mail:mail:3.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:claws-mail:mail:3.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:claws-mail:mail:3.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:claws-mail:mail:3.17.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:claws-mail:mail:3.17.4:*:*:*:*:*:*:*

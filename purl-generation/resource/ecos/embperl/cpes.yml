@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:ecos:embperl:1.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ecos:embperl:1.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:ecos:embperl:2.0:*:*:*:*:*:*:*

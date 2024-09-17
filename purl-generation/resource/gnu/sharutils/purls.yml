@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/sharutils
+  - pkg:deb/ubuntu/sharutils
+  - pkg:github/gitgnu/gnu_sharutils
+  - pkg:github/neverware-mirrors/sharutils
+  - pkg:gitlab/redhat/sharutils
+  - pkg:gnu/sharutils
+  - pkg:rpm/centos/sharutils
+  - pkg:rpm/fedora/sharutils
+  - pkg:rpm/opensuse/sharutils

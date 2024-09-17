@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:gravity-gtd:gravity-gtd:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gravity-gtd:gravity-gtd:0.2:beta:*:*:*:*:*:*
+  - cpe:2.3:a:gravity-gtd:gravity-gtd:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gravity-gtd:gravity-gtd:0.4:*:*:*:*:*:*:*

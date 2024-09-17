@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/npm/cli
+  - pkg:maven/org.webjars.npm/npm
+  - pkg:npm/npm

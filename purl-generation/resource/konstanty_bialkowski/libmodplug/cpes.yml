@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:konstanty_bialkowski:libmodplug:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:konstanty_bialkowski:libmodplug:0.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:konstanty_bialkowski:libmodplug:0.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:konstanty_bialkowski:libmodplug:0.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:konstanty_bialkowski:libmodplug:0.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:konstanty_bialkowski:libmodplug:0.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:konstanty_bialkowski:libmodplug:0.8.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:konstanty_bialkowski:libmodplug:0.8.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:konstanty_bialkowski:libmodplug:0.8.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:konstanty_bialkowski:libmodplug:0.8.8.4:*:*:*:*:*:*:*

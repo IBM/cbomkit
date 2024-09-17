@@ -1,0 +1,9 @@
+purls:
+  - pkg:bitbucket/sonictk/blender
+  - pkg:deb/debian/blender
+  - pkg:deb/ubuntu/blender
+  - pkg:github/blender/blender
+  - pkg:github/sobotka/blender
+  - pkg:rpm/fedora/blender
+  - pkg:rpm/opensuse/blender
+  - pkg:sourceforge/blender

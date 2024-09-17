@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/rust-ripgrep
+  - pkg:deb/ubuntu/rust-ripgrep
+  - pkg:github/burntsushi/ripgrep
+  - pkg:rpm/fedora/rust-ripgrep
+  - pkg:rpm/opensuse/rust-ripgrep
+  - pkg:sourceforge/ripgrep.mirror

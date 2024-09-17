@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:selectize-plugin-a11y_project:selectize-plugin-a11y:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:selectize-plugin-a11y_project:selectize-plugin-a11y:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:selectize-plugin-a11y_project:selectize-plugin-a11y:1.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:selectize-plugin-a11y_project:selectize-plugin-a11y:1.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:selectize-plugin-a11y_project:selectize-plugin-a11y:1.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:selectize-plugin-a11y_project:selectize-plugin-a11y:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:selectize-plugin-a11y_project:selectize-plugin-a11y:-:*:*:*:*:node.js:*:*

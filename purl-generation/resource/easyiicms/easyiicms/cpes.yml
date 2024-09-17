@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:easyiicms:easyiicms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:easyiicms:easyiicms:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:easyiicms:easyiicms:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:easyiicms:easyiicms:0.9:*:*:*:*:*:*:*

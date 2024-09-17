@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:tri:panel_builder:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tri:panel_builder:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tri:panel_builder:3.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tri:panel_builder:3.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tri:panel_builder:3.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tri:panel_builder:3.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tri:panel_builder:3.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tri:panel_builder:4.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tri:panel_builder:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tri:panel_builder:-:*:*:*:*:wordpress:*:*

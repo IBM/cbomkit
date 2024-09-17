@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/lsegal/yard
+  - pkg:deb/debian/yard
+  - pkg:deb/ubuntu/yard
+  - pkg:gem/yard
+  - pkg:github/lsegal/yard
+  - pkg:rpm/fedora/rubygem-yard
+  - pkg:rpm/opensuse/rubygem-yard

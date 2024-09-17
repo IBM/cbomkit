@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/mongodb-plugin
+  - pkg:github/kiy0taka/mongodb-plugin

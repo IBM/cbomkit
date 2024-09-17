@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/sysstat
+  - pkg:deb/ubuntu/sysstat
+  - pkg:github/neverware-mirrors/sysstat
+  - pkg:github/sysstat/sysstat
+  - pkg:gitlab/redhat/sysstat
+  - pkg:rpm/centos/sysstat
+  - pkg:rpm/fedora/sysstat
+  - pkg:rpm/opensuse/sysstat

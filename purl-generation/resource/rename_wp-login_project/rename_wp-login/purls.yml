@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ellatrix/rename-wp-login
+  - pkg:github/wp-plugins/rename-wp-login
+  - pkg:github/wpplugins/rename-wp-login

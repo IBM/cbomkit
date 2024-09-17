@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:limny:limny:1.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:limny:limny:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:limny:limny:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:limny:limny:3.0.1:*:*:*:*:*:*:*

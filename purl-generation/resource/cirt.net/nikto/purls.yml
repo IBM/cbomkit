@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/nikto
+  - pkg:deb/ubuntu/nikto
+  - pkg:github/sullo/nikto
+  - pkg:gitlab/kalilinux/nikto
+  - pkg:rpm/fedora/nikto
+  - pkg:rpm/opensuse/nikto

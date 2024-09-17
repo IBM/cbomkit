@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:cryptopro:csp:5.0.0.10004:*:*:*:*:*:x64:*
+  - cpe:2.3:a:cryptopro:csp:5.0.0.10004:*:*:*:*:*:x86:*
+  - cpe:2.3:a:cryptopro:csp:-:*:*:*:*:*:x64:*
+  - cpe:2.3:a:cryptopro:csp:-:*:*:*:*:*:x86:*

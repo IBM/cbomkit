@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:go-cvss_project:go-cvss:0.1.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:go-cvss_project:go-cvss:0.1.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:go-cvss_project:go-cvss:0.2.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:go-cvss_project:go-cvss:0.3.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:go-cvss_project:go-cvss:0.4.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:go-cvss_project:go-cvss:0.4.1:*:*:*:*:go:*:*

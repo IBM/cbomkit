@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:empire_server:empire_server:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:empire_server:empire_server:4.2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:empire_server:empire_server:4.2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:empire_server:empire_server:4.2.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:empire_server:empire_server:4.2.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:empire_server:empire_server:4.2.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:empire_server:empire_server:4.2.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:empire_server:empire_server:4.2.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:empire_server:empire_server:4.2.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:empire_server:empire_server:4.2.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:empire_server:empire_server:4.2.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:empire_server:empire_server:4.2.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:empire_server:empire_server:4.2.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:empire_server:empire_server:4.2.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:empire_server:empire_server:4.2.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:empire_server:empire_server:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:empire_server:empire_server:4.3.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:empire_server:empire_server:4.3.2:*:*:*:*:*:*:*

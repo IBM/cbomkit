@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:opt-net:ng-netms:3.3:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:opt-net:ng-netms:3.3:beta7:*:*:*:*:*:*
+  - cpe:2.3:a:opt-net:ng-netms:3.5:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:opt-net:ng-netms:3.6-2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opt-net:ng-netms:3.70:beta:*:*:*:*:*:*

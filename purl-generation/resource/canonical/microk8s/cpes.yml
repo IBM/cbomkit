@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:canonical:microk8s:1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:microk8s:1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:microk8s:1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:microk8s:1.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:microk8s:1.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:microk8s:1.15.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:microk8s:1.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:microk8s:1.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:microk8s:1.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:microk8s:1.19:*:*:*:*:*:*:*

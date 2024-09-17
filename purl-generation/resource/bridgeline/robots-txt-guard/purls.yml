@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/woorank/robots-txt-guard
+  - pkg:npm/robots-txt-guard

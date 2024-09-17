@@ -1,0 +1,9 @@
+purls:
+  - pkg:bitbucket/boardwaalk/jansson
+  - pkg:deb/debian/jansson
+  - pkg:deb/ubuntu/jansson
+  - pkg:github/akheron/jansson
+  - pkg:gitlab/redhat/jansson
+  - pkg:rpm/centos/jansson
+  - pkg:rpm/fedora/jansson
+  - pkg:rpm/opensuse/jansson

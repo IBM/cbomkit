@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:liyujing_project:liyujing:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:liyujing_project:liyujing:1.1.0:*:*:*:*:node.js:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/axiomatic-systems/bento4
+  - pkg:npm/bento4
+  - pkg:sourceforge/bento4

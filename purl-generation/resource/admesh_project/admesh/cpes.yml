@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:admesh_project:admesh:0.95:*:*:*:*:*:*:*
+  - cpe:2.3:a:admesh_project:admesh:0.97.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:admesh_project:admesh:0.97.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:admesh_project:admesh:0.97.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:admesh_project:admesh:0.97.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:admesh_project:admesh:0.97.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:admesh_project:admesh:0.97.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:admesh_project:admesh:0.98.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:admesh_project:admesh:0.98.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:admesh_project:admesh:0.98.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:admesh_project:admesh:0.98.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:admesh_project:admesh:0.98.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:admesh_project:admesh:0.98.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:admesh_project:admesh:0.98.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:admesh_project:admesh:0.98.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:admesh_project:admesh:2022-11-18:*:*:*:*:*:*:*
+  - cpe:2.3:a:admesh_project:admesh:767a105:*:*:*:*:*:*:*

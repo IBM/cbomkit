@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:ctolog:thinkadmin:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ctolog:thinkadmin:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ctolog:thinkadmin:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ctolog:thinkadmin:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ctolog:thinkadmin:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ctolog:thinkadmin:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ctolog:thinkadmin:6.0:*:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:github/codelibs/libdxfrw
+  - pkg:github/librecad/libdxfrw
+  - pkg:github/qgis/libdxfrw
+  - pkg:rpm/fedora/libdxfrw
+  - pkg:rpm/opensuse/libdxfrw
+  - pkg:sourceforge/libdxfrw

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:ozone_project:ozone:0.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:ozone_project:ozone:0.1.0:*:*:*:*:rust:*:*

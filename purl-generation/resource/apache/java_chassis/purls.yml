@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/servicecomb
+  - pkg:github/apache/servicecomb-java-chassis
+  - pkg:maven/org.apache.servicecomb/java-chassis

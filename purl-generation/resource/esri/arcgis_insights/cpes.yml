@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:esri:arcgis_insights:2022.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:esri:arcgis_insights:2022.1:*:*:*:*:arcgis_enterprise:*:*

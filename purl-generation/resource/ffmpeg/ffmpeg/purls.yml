@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ffmpeg
+  - pkg:deb/ubuntu/ffmpeg
+  - pkg:ffmpeg/ffmpeg
+  - pkg:github/ffmpeg/ffmpeg
+  - pkg:opensuse/ffmpeg

@@ -1,0 +1,9 @@
+purls:
+  - pkg:bitbucket/yangkit/redcarpet
+  - pkg:deb/debian/ruby-redcarpet
+  - pkg:deb/ubuntu/ruby-redcarpet
+  - pkg:gem/redcarpet
+  - pkg:github/vmg/redcarpet
+  - pkg:rpm/fedora/rubygem-redcarpet
+  - pkg:rpm/opensuse/rubygem-redcarpet
+  - pkg:sourceforge/redcarpet.mirror

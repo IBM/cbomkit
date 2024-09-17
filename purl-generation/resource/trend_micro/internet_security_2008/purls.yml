@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/trendmicro/new-release-version
+  - pkg:golang/github.com/trendmicro/new-release-version
+  - pkg:golang/github.com/trendmicro/new-release-version/v2

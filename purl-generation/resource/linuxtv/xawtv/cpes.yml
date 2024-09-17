@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:linuxtv:xawtv:3.100:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxtv:xawtv:3.101:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxtv:xawtv:3.102:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxtv:xawtv:3.103:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxtv:xawtv:3.104:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxtv:xawtv:3.105:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxtv:xawtv:3.106:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxtv:xawtv:3.107:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxtv:xawtv:3.97:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxtv:xawtv:3.98:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxtv:xawtv:3.99:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:linuxtv:xawtv:3.99:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:linuxtv:xawtv:3.99:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:linuxtv:xawtv:3.99:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:linuxtv:xawtv:3.99:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:linuxtv:xawtv:3.99:rc6:*:*:*:*:*:*

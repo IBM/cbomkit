@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:phpids:phpids:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpids:phpids:0.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpids:phpids:0.6.5:*:*:*:*:*:*:*

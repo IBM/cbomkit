@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openssh/openssh-portable
+  - pkg:golang/github.com/openssh/openssh-portable

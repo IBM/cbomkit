@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/netofficefw/netoffice
+  - pkg:golang/github.com/netofficefw/netoffice
+  - pkg:nuget/netoffice.core

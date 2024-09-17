@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:dynamicpagelist3_project:dynamicpagelist3:3.3.5:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:dynamicpagelist3_project:dynamicpagelist3:3.3.6:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:dynamicpagelist3_project:dynamicpagelist3:3.3.7:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:dynamicpagelist3_project:dynamicpagelist3:-:*:*:*:*:mediawiki:*:*

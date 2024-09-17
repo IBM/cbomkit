@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:rbenv_project:rbenv:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:rbenv_project:rbenv:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rbenv_project:rbenv:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rbenv_project:rbenv:0.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rbenv_project:rbenv:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rbenv_project:rbenv:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rbenv_project:rbenv:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rbenv_project:rbenv:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rbenv_project:rbenv:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rbenv_project:rbenv:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rbenv_project:rbenv:1.1.2:*:*:*:*:*:*:*

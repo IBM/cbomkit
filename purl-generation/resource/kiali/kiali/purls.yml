@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/kiali/kiali
+  - pkg:github/kiali/kiali

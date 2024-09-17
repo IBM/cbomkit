@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:verse-o-matic_project:verse-o-matic:4.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:verse-o-matic_project:verse-o-matic:4.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:verse-o-matic_project:verse-o-matic:4.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:verse-o-matic_project:verse-o-matic:-:*:*:*:*:wordpress:*:*

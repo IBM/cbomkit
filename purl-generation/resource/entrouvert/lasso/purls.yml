@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/lasso
+  - pkg:deb/ubuntu/lasso
+  - pkg:github/adieu/lasso
+  - pkg:github/johnmar33/lasso
+  - pkg:github/mdutton3/lasso
+  - pkg:gitlab/redhat/lasso
+  - pkg:rpm/centos/lasso
+  - pkg:rpm/fedora/lasso
+  - pkg:rpm/opensuse/lasso

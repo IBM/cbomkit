@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gophergala/sqldump
+  - pkg:golang/gophergala/sqldump

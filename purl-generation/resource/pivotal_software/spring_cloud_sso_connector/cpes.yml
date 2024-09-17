@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:pivotal_software:spring_cloud_sso_connector:2.1.2:*:*:*:*:*:*:*

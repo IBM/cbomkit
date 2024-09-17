@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/loaderio-plugin
+  - pkg:github/sendgridlabs/loaderio-jenkins-plugin

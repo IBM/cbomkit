@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/maciejhirsz/beef
+  - pkg:rpm/fedora/rust-beef

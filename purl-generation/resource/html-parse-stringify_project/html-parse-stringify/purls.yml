@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/henrikjoreteg/html-parse-stringify
+  - pkg:npm/html-parse-stringify

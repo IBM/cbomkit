@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/proxychains-ng
+  - pkg:deb/ubuntu/proxychains-ng
+  - pkg:github/rofl0r/proxychains-ng
+  - pkg:rpm/fedora/proxychains-ng
+  - pkg:rpm/opensuse/proxychains-ng
+  - pkg:sourceforge/proxychains-ng

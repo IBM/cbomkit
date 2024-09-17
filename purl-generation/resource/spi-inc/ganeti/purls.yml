@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/ganeti
+  - pkg:deb/ubuntu/ganeti
+  - pkg:github/ganeti/ganeti
+  - pkg:googlesource/ganeti

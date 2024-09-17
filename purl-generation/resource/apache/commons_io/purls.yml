@@ -1,0 +1,8 @@
+purls:
+  - pkg:apache/commons
+  - pkg:deb/debian/commons-io
+  - pkg:deb/ubuntu/commons-io
+  - pkg:github/apache/commons-io
+  - pkg:maven/org.apache.commons/commons-io
+  - pkg:rpm/fedora/apache-commons-io
+  - pkg:rpm/opensuse/apache-commons-io

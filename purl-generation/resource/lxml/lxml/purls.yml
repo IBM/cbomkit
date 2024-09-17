@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/lxml
+  - pkg:deb/ubuntu/lxml
+  - pkg:github/lxml/lxml
+  - pkg:pypi/lxml
+  - pkg:rpm/fedora/python-lxml
+  - pkg:rpm/opensuse/python-lxml

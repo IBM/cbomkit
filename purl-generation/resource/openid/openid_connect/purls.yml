@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/doorkeeper-openid_connect
+  - pkg:github/doorkeeper-gem/doorkeeper-openid_connect
+  - pkg:rpm/opensuse/rubygem-doorkeeper-openid_connect

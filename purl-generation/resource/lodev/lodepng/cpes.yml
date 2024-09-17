@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:lodev:lodepng:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:lodev:lodepng:2019-09-28:*:*:*:*:*:*:*
+  - cpe:2.3:a:lodev:lodepng:2022-07-17:*:*:*:*:*:*:*

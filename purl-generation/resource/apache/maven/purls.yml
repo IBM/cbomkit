@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/maven
+  - pkg:deb/debian/maven
+  - pkg:deb/ubuntu/maven
+  - pkg:github/apache/maven
+  - pkg:maven/org.apache.maven/maven
+  - pkg:rpm/opensuse/maven

@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/aikchar/seagull
+  - pkg:docker/atesgoral/seagull
+  - pkg:github/codeghar/seagull
+  - pkg:sourceforge/gull

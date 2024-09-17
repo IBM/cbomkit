@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:robodk:robodk:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:robodk:robodk:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:robodk:robodk:5.5.3:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:gitee/mlogclub/bbs-go
+  - pkg:github/mlogclub/bbs-go
+  - pkg:golang/github.com/mlogclub/bbs-go

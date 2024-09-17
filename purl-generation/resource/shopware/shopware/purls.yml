@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/shopware/platform
+  - pkg:shopware/shopware-6

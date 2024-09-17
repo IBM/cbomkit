@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/latex2rtf
+  - pkg:deb/ubuntu/latex2rtf
+  - pkg:github/magsilva/latex2rtf
+  - pkg:rpm/fedora/latex2rtf
+  - pkg:rpm/opensuse/latex2rtf
+  - pkg:sourceforge/latex2rtf

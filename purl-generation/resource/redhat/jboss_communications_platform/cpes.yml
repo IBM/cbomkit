@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:redhat:jboss_communications_platform:1.2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_communications_platform:5.1.1:*:*:*:*:*:*:*

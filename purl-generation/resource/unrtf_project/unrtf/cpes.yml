@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:unrtf_project:unrtf:0.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:unrtf_project:unrtf:0.21.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:unrtf_project:unrtf:0.21.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:unrtf_project:unrtf:0.21.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:unrtf_project:unrtf:0.21.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:unrtf_project:unrtf:0.21.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:unrtf_project:unrtf:0.21.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:unrtf_project:unrtf:0.21.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:unrtf_project:unrtf:0.21.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:unrtf_project:unrtf:0.21.9:*:*:*:*:*:*:*

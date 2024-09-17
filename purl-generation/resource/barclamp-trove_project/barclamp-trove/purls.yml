@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/crowbar/barclamp-trove
+  - pkg:github/crowbar/crowbar-openstack

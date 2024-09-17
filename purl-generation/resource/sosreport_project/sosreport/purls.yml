@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/sosreport
+  - pkg:deb/ubuntu/sosreport
+  - pkg:github/sosreport/sos

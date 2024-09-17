@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:nootka_project:nootka:1.0.1:*:*:*:*:android:*:*
+  - cpe:2.3:a:nootka_project:nootka:1.2.7:*:*:*:*:android:*:*
+  - cpe:2.3:a:nootka_project:nootka:1.4.4:*:*:*:*:android:*:*
+  - cpe:2.3:a:nootka_project:nootka:1.4.5:*:*:*:*:android:*:*
+  - cpe:2.3:a:nootka_project:nootka:1.4.6:*:*:*:*:android:*:*

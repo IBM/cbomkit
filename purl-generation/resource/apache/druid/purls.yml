@@ -1,0 +1,9 @@
+purls:
+  - pkg:apache/druid
+  - pkg:docker/apache/druid
+  - pkg:github/apache/druid
+  - pkg:maven/org.apache.druid/druid
+  - pkg:maven/org.apache.druid/druid-core
+  - pkg:rpm/opensuse/druid
+  - pkg:sourceforge/apache-druid
+  - pkg:sourceforge/apache-druid.mirror

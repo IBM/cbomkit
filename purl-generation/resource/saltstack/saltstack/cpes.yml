@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:saltstack:saltstack:0.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:saltstack:saltstack:0.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:saltstack:saltstack:0.15.0:*:*:*:*:*:*:*

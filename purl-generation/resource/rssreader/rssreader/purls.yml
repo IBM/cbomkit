@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/w3stling/rssreader
+  - pkg:maven/pl.domyno/rssreader-android
+  - pkg:sourceforge/flingrssreader

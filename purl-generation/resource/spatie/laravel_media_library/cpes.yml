@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:spatie:laravel_media_library:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:spatie:laravel_media_library:1.17.10:*:*:*:pro:*:*:*
+  - cpe:2.3:a:spatie:laravel_media_library:2.0.0:*:*:*:pro:*:*:*
+  - cpe:2.3:a:spatie:laravel_media_library:2.1.6:*:*:*:pro:*:*:*
+  - cpe:2.3:a:spatie:laravel_media_library:-:*:*:*:pro:*:*:*

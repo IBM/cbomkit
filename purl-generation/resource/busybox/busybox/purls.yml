@@ -1,0 +1,8 @@
+purls:
+  - pkg:busybox/busybox
+  - pkg:deb/debian/busybox
+  - pkg:deb/ubuntu/busybox
+  - pkg:docker/busybox/busybox
+  - pkg:github/mirror/busybox
+  - pkg:rpm/fedora/busybox
+  - pkg:rpm/opensuse/busybox

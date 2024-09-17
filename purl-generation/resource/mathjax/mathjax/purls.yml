@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/mathjax
+  - pkg:deb/ubuntu/mathjax
+  - pkg:github/mathjax/mathjax
+  - pkg:maven/org.webjars.npm/mathjax
+  - pkg:npm/mathjax
+  - pkg:nuget/MathJax
+  - pkg:rpm/fedora/mathjax
+  - pkg:rpm/opensuse/mathjax
+  - pkg:sourceforge/mathjax.mirror

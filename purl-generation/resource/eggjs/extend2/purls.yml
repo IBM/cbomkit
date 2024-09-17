@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/eggjs/extend2
+  - pkg:github/justmoon/node-extend
+  - pkg:npm/extend2

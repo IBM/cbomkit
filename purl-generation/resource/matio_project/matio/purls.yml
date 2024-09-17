@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libmatio
+  - pkg:deb/ubuntu/libmatio
+  - pkg:github/tbeu/matio
+  - pkg:rpm/fedora/matio
+  - pkg:sourceforge/matio

@@ -1,0 +1,4 @@
+purls:
+  - pkg:cpan/app-netdisco
+  - pkg:docker/netdisco/netdisco
+  - pkg:github/netdisco/netdisco

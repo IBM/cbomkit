@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:1.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:1.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:1.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:1.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:1.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:1.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:1.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:1.9.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:1.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:1.9.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:1.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_performance_score_booster_project:wp_performance_score_booster:-:*:*:*:*:wordpress:*:*

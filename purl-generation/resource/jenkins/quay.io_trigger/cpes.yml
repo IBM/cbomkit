@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jenkins:quay.io_trigger:0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:quay.io_trigger:*:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:quay.io_trigger:-:*:*:*:*:jenkins:*:*

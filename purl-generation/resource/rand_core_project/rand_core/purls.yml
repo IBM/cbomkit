@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-rand-core
+  - pkg:deb/ubuntu/rust-rand-core
+  - pkg:github/rust-random/rand
+  - pkg:rpm/fedora/rust-rand_core
+  - pkg:rpm/opensuse/rust-rand_core

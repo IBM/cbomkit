@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:bblfshd_project:bblfshd:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:bblfshd_project:bblfshd:2021-08-11:*:*:*:*:*:*:*

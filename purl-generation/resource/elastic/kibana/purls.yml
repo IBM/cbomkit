@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/elastic/kibana
+  - pkg:github/elastic/kibana
+  - pkg:rpm/opensuse/kibana

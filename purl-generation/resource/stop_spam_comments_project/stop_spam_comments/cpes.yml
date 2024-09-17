@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:stop_spam_comments_project:stop_spam_comments:0.2.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stop_spam_comments_project:stop_spam_comments:-:*:*:*:*:wordpress:*:*

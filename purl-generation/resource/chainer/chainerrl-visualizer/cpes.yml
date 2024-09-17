@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:chainer:chainerrl-visualizer:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:chainer:chainerrl-visualizer:0.1.1:*:*:*:*:*:*:*

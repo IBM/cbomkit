@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/remctl
+  - pkg:deb/ubuntu/remctl
+  - pkg:github/rra/remctl
+  - pkg:rpm/fedora/remctl

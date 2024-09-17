@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/csrf-magic/csrf-magic
+  - pkg:github/ezyang/csrf-magic

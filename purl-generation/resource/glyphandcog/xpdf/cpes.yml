@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:glyphandcog:xpdf:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:glyphandcog:xpdf:3.02-19:*:*:*:*:*:*:*
+  - cpe:2.3:a:glyphandcog:xpdf:4.01.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:glyphandcog:xpdf:4.04:*:*:*:*:*:*:*

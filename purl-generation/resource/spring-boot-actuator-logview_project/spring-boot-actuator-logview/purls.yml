@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/lukashinsch/spring-boot-actuator-logview
+  - pkg:maven/eu.hinsch/spring-boot-actuator-logview

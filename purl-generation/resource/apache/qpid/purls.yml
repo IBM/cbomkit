@@ -1,0 +1,3 @@
+purls:
+  - pkg:apache/qpid
+  - pkg:github/apache/qpid

@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:serialize-to-js_project:serialize-to-js:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serialize-to-js_project:serialize-to-js:0.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serialize-to-js_project:serialize-to-js:0.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serialize-to-js_project:serialize-to-js:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serialize-to-js_project:serialize-to-js:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serialize-to-js_project:serialize-to-js:0.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serialize-to-js_project:serialize-to-js:0.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serialize-to-js_project:serialize-to-js:0.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serialize-to-js_project:serialize-to-js:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serialize-to-js_project:serialize-to-js:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serialize-to-js_project:serialize-to-js:1.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serialize-to-js_project:serialize-to-js:1.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serialize-to-js_project:serialize-to-js:1.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serialize-to-js_project:serialize-to-js:1.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serialize-to-js_project:serialize-to-js:1.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serialize-to-js_project:serialize-to-js:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serialize-to-js_project:serialize-to-js:2.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serialize-to-js_project:serialize-to-js:3.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serialize-to-js_project:serialize-to-js:3.0.1:*:*:*:*:node.js:*:*

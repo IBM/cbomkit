@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/tardiff
+  - pkg:deb/ubuntu/tardiff

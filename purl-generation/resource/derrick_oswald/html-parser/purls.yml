@@ -1,0 +1,5 @@
+purls:
+  - pkg:cpan/html-parser
+  - pkg:github/gisle/html-parser
+  - pkg:rpm/fedora/perl-html-parser
+  - pkg:rpm/opensuse/perl-HTML-Parser

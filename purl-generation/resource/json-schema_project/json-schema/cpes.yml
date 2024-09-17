@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:json-schema_project:json-schema:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-schema_project:json-schema:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-schema_project:json-schema:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-schema_project:json-schema:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-schema_project:json-schema:0.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-schema_project:json-schema:0.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-schema_project:json-schema:0.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-schema_project:json-schema:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-schema_project:json-schema:0.4.0:*:*:*:*:*:*:*

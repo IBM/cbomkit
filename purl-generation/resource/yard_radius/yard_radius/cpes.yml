@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:yard_radius:yard_radius:1.0.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:yard_radius:yard_radius:1.0.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:yard_radius:yard_radius:1.0.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:yard_radius:yard_radius:1.0.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:yard_radius:yard_radius:1.0_pre13:*:*:*:*:*:*:*
+  - cpe:2.3:a:yard_radius:yard_radius:1.0_pre14:*:*:*:*:*:*:*
+  - cpe:2.3:a:yard_radius:yard_radius:1.0_pre15:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/ludflu/akka-http-test
+  - pkg:github/akka/akka-http
+  - pkg:maven/com.typesafe.akka/akka-http

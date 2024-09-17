@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/squidex/squidex
+  - pkg:github/squidex/squidex
+  - pkg:golang/github.com/squidex/squidex
+  - pkg:sourceforge/squidex.mirror

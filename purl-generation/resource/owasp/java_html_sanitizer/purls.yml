@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/owasp-java-html-sanitizer
+  - pkg:deb/ubuntu/owasp-java-html-sanitizer
+  - pkg:github/owasp/java-html-sanitizer
+  - pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer

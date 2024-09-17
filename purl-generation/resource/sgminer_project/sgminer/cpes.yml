@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:sgminer_project:sgminer:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sgminer_project:sgminer:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sgminer_project:sgminer:4.1.153:*:*:*:*:*:*:*
+  - cpe:2.3:a:sgminer_project:sgminer:4.1.242:*:*:*:*:*:*:*
+  - cpe:2.3:a:sgminer_project:sgminer:4.1.271:*:*:*:*:*:*:*
+  - cpe:2.3:a:sgminer_project:sgminer:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sgminer_project:sgminer:4.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sgminer_project:sgminer:4.2.2:*:*:*:*:*:*:*

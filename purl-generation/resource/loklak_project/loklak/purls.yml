@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/loklak/loklak_server
+  - pkg:github/loklak/loklak_server

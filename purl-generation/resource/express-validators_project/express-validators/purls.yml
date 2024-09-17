@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/scopdrag/express-validators
+  - pkg:npm/express-validators

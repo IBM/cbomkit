@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:sthttpd_project:sthttpd:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:sthttpd_project:sthttpd:2.27.1:*:*:*:*:*:*:*

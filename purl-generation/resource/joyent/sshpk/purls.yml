@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-sshpk
+  - pkg:deb/ubuntu/node-sshpk
+  - pkg:github/joyent/node-sshpk#readme
+  - pkg:maven/org.webjars.npm/sshpk
+  - pkg:npm/sshpk

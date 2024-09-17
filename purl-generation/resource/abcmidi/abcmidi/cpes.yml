@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:abcmidi:abcmidi:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:abcmidi:abcmidi:2004-12-04:*:*:*:*:*:*:*
+  - cpe:2.3:a:abcmidi:abcmidi:2005-01-01:*:*:*:*:*:*:*

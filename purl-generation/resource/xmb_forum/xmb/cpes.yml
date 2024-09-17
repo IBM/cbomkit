@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:xmb_forum:xmb:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmb_forum:xmb:1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmb_forum:xmb:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmb_forum:xmb:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmb_forum:xmb:1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmb_forum:xmb:1.8_sp1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmb_forum:xmb:1.8_sp2:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmb_forum:xmb:1.8_sp3:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmb_forum:xmb:1.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmb_forum:xmb:1.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmb_forum:xmb:1.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmb_forum:xmb:1.9_beta:*:*:*:*:*:*:*

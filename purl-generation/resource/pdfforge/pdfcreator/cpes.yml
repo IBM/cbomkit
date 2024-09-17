@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:pdfforge:pdfcreator:0.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pdfforge:pdfcreator:0.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:pdfforge:pdfcreator:0.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:pdfforge:pdfcreator:0.9.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:pdfforge:pdfcreator:1.2.1:*:*:*:*:*:*:*

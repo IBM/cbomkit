@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mysqljs/mysql
+  - pkg:golang/github.com/mysqljs/mysql

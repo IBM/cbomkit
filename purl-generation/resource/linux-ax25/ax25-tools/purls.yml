@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ax25-tools
+  - pkg:deb/ubuntu/ax25-tools
+  - pkg:github/dbrooke/ax25-tools
+  - pkg:github/nwdigitalradio/ax25-tools
+  - pkg:github/sdpinpdx/ax25-tools
+  - pkg:rpm/opensuse/ax25-tools

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:jenkins:jira_pipeline_steps:2.0.165.v8846cf59f3db:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jira_pipeline_steps:*:*:*:*:*:jenkins:*:*

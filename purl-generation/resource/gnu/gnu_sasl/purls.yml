@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/gsasl
+  - pkg:deb/ubuntu/gsasl
+  - pkg:github/20centaurifux/gsasl
+  - pkg:github/gnu-mirror-unofficial/gsasl
+  - pkg:github/markpizz/gsasl
+  - pkg:gitlab/gsasl/gsasl
+  - pkg:gnu/gsasl
+  - pkg:rpm/fedora/libgsasl
+  - pkg:rpm/opensuse/libgsasl

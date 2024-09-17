@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/jupyterhub/jupyterhub
+  - pkg:github/jupyterhub/jupyterhub
+  - pkg:pypi/jupyterhub

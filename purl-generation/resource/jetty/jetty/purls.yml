@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/jetty
+  - pkg:github/eclipse/jetty.project
+  - pkg:golang/github.com/eclipse/jetty.project
+  - pkg:rpm/fedora/jetty
+  - pkg:sourceforge/jetty

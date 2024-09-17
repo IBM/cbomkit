@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-hyper
+  - pkg:deb/ubuntu/rust-hyper
+  - pkg:github/hyperium/hyper
+  - pkg:rpm/fedora/rust-hyper
+  - pkg:rpm/opensuse/rust-hyper

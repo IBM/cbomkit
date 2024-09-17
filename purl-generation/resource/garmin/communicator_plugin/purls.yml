@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/adiesner/garminplugin
+  - pkg:rpm/fedora/garminplugin

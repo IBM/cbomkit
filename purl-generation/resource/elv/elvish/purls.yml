@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/elvish
+  - pkg:deb/ubuntu/elvish
+  - pkg:docker/theelves/elvish
+  - pkg:github/elves/elvish
+  - pkg:rpm/fedora/golang-github-elves-elvish
+  - pkg:rpm/opensuse/elvish

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/olm
+  - pkg:deb/ubuntu/olm
+  - pkg:github/alinradut/olm
+  - pkg:github/jenmei/olm
+  - pkg:github/xinsight/olm
+  - pkg:gitlab/famedly/olm
+  - pkg:rpm/opensuse/olm

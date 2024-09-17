@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/hookii/anonymous-post
+  - pkg:github/wp-plugins/accesspress-anonymous-post
+  - pkg:github/wpplugins/accesspress-anonymous-post

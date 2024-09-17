@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/magento/magento2
+  - pkg:sourceforge/magento-open-source.mirror

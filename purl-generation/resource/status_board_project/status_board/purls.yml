@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jameswlane/status-board
+  - pkg:npm/status-board

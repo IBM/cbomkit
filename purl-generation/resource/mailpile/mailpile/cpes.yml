@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:mailpile:mailpile:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mailpile:mailpile:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mailpile:mailpile:0.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mailpile:mailpile:1.0.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:mailpile:mailpile:1.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mailpile:mailpile:1.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mailpile:mailpile:1.0.0:rc3:*:*:*:*:*:*

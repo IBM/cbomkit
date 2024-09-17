@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libgetdata
+  - pkg:deb/ubuntu/libgetdata
+  - pkg:github/ketiltrout/getdata
+  - pkg:rpm/fedora/getdata
+  - pkg:rpm/opensuse/getdata
+  - pkg:sourceforge/getdata

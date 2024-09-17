@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/crowcpp/crow
+  - pkg:rpm/opensuse/crow

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:sternenblog_project:sternenblog:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:sternenblog_project:sternenblog:-:*:*:*:*:*:*:*

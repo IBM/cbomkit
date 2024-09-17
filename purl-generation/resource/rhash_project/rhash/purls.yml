@@ -1,0 +1,9 @@
+purls:
+  - pkg:cpan/rhash
+  - pkg:deb/debian/rhash
+  - pkg:deb/ubuntu/rhash
+  - pkg:github/rhash/rhash
+  - pkg:pypi/rhash-rhash
+  - pkg:rpm/fedora/rhash
+  - pkg:rpm/opensuse/rhash
+  - pkg:sourceforge/rhash

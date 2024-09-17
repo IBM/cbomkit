@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/sbacquer/ungit
+  - pkg:github/fredriknoren/ungit
+  - pkg:npm/ungit
+  - pkg:sourceforge/ungit.mirror

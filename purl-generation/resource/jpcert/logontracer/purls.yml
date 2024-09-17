@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/jpcertcc/docker-logontracer
+  - pkg:github/jpcertcc/logontracer

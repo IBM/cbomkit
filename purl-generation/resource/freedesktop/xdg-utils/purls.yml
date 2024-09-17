@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/xdg-utils
+  - pkg:deb/ubuntu/xdg-utils
+  - pkg:github/freedesktop/xdg-utils
+  - pkg:gitlab/redhat/xdg-utils
+  - pkg:rpm/centos/xdg-utils
+  - pkg:rpm/fedora/xdg-utils
+  - pkg:rpm/opensuse/xdg-utils

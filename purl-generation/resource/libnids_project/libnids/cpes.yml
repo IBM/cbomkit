@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:libnids_project:libnids:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnids_project:libnids:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnids_project:libnids:1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnids_project:libnids:1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnids_project:libnids:1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnids_project:libnids:1.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnids_project:libnids:1.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnids_project:libnids:1.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnids_project:libnids:1.17:-:*:*:*:*:*:*
+  - cpe:2.3:a:libnids_project:libnids:1.17:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:libnids_project:libnids:1.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnids_project:libnids:1.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnids_project:libnids:1.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnids_project:libnids:1.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnids_project:libnids:1.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnids_project:libnids:1.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnids_project:libnids:1.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnids_project:libnids:1.25:*:*:*:*:*:*:*

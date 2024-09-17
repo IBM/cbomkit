@@ -1,0 +1,5 @@
+purls:
+  - pkg:github//linvjw/unzoo
+  - pkg:github/museoa/unzoo
+  - pkg:rpm/fedora/unzoo
+  - pkg:rpm/opensuse/unzoo

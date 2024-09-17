@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:pivotal:cloud_foundry_autoscaling_release:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:cloud_foundry_autoscaling_release:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:cloud_foundry_autoscaling_release:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:cloud_foundry_autoscaling_release:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:cloud_foundry_autoscaling_release:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:cloud_foundry_autoscaling_release:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:cloud_foundry_autoscaling_release:1.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:cloud_foundry_autoscaling_release:1.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:cloud_foundry_autoscaling_release:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:cloud_foundry_autoscaling_release:3.0.0:*:*:*:*:*:*:*

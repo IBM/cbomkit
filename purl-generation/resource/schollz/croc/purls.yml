@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/schollz/croc
+  - pkg:golang/github.com/schollz/croc
+  - pkg:sourceforge/croc.mirror

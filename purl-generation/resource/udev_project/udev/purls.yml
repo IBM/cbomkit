@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mfwitten/udev
+  - pkg:rpm/opensuse/udev

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/goharbor/harbor
+  - pkg:golang/github.com/goharbor/harbor

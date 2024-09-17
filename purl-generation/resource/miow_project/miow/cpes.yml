@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:miow_project:miow:0.1.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:miow_project:miow:0.1.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:miow_project:miow:0.1.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:miow_project:miow:0.1.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:miow_project:miow:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:miow_project:miow:0.2.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:miow_project:miow:0.2.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:miow_project:miow:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:miow_project:miow:0.3.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:miow_project:miow:0.3.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:miow_project:miow:0.3.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:miow_project:miow:0.3.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:miow_project:miow:0.3.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:miow_project:miow:-:*:*:*:*:rust:*:*

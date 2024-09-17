@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:opensuse:rmt-server:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:rmt-server:2.5.2-3.26.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:rmt-server:2.5.2-3.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:rmt-server:2.5.2-lp151.2.9.1:*:*:*:*:*:*:*

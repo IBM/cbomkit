@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/arasatasaygin/is.js
+  - pkg:maven/org.webjars.bowergithub.arasatasaygin/is.js

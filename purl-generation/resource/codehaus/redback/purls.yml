@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/codehaus/redback
+  - pkg:github/redback/redback
+  - pkg:maven/org.codehaus.redback/redback

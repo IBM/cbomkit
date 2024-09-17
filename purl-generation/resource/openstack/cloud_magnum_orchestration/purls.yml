@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/openstackhelm/magnum
+  - pkg:github/openstack/magnum
+  - pkg:pypi/magnum
+  - pkg:rpm/opensuse/openstack-magnum

@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:go-ldap_project:ldap:2.5.0:*:*:*:*:*:*:*

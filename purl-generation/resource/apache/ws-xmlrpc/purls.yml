@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/ws
+  - pkg:github/fillzero/apache-xmlrpc
+  - pkg:maven/org.apache.ws.xmlrpc/xmlrpc

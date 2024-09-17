@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:redhat:openshift_machine-config-operator:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_machine-config-operator:4.9.0:*:*:*:*:*:*:*

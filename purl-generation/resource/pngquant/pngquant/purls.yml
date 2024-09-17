@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/pngquant
+  - pkg:deb/ubuntu/pngquant
+  - pkg:github/pornel/pngquant
+  - pkg:pypi/pngquant
+  - pkg:rpm/fedora/pngquant
+  - pkg:rpm/opensuse/pngquant

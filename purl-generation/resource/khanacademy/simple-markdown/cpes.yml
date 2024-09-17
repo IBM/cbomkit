@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:khanacademy:simple-markdown:0.0.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:khanacademy:simple-markdown:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:khanacademy:simple-markdown:0.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:khanacademy:simple-markdown:0.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:khanacademy:simple-markdown:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:khanacademy:simple-markdown:0.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:khanacademy:simple-markdown:0.3.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:khanacademy:simple-markdown:0.3.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:khanacademy:simple-markdown:0.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:khanacademy:simple-markdown:0.4.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:khanacademy:simple-markdown:0.4.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:khanacademy:simple-markdown:0.4.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:khanacademy:simple-markdown:0.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:khanacademy:simple-markdown:0.6.0:*:*:*:*:node.js:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/actix/actix-web
+  - pkg:rpm/fedora/rust-actix-web
+  - pkg:rpm/opensuse/rust-actix-web

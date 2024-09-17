@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/pngcheck
+  - pkg:deb/ubuntu/pngcheck
+  - pkg:github/wkliu19/pngcheck
+  - pkg:rpm/fedora/pngcheck
+  - pkg:rpm/opensuse/pngcheck

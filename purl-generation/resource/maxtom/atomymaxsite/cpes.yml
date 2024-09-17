@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:maxtom:atomymaxsite:1.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:maxtom:atomymaxsite:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:maxtom:atomymaxsite:2.5:*:*:*:*:*:*:*

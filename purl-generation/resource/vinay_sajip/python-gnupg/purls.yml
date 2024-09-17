@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/vinay.sajip/python-gnupg
+  - pkg:deb/debian/python-gnupg
+  - pkg:deb/ubuntu/python-gnupg
+  - pkg:github/vsajip/python-gnupg
+  - pkg:pypi/python-gnupg
+  - pkg:rpm/fedora/python-gnupg
+  - pkg:rpm/opensuse/python-python-gnupg

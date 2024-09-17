@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:cscope:cscope:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:cscope:cscope:13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cscope:cscope:15.0bl2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cscope:cscope:15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cscope:cscope:15.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cscope:cscope:15.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:cscope:cscope:15.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:cscope:cscope:15.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:cscope:cscope:15.7:*:*:*:*:*:*:*

@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:apache:sling_xss_protection_api_compat:1.1.0:*:*:*:*:*:*:*

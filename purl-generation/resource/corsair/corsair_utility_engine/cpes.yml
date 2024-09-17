@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:corsair:corsair_utility_engine:3.2.87:*:*:*:*:*:*:*
+  - cpe:2.3:a:corsair:corsair_utility_engine:3.3.103:*:*:*:*:*:*:*
+  - cpe:2.3:a:corsair:corsair_utility_engine:3.4.95:*:*:*:*:*:*:*
+  - cpe:2.3:a:corsair:corsair_utility_engine:3.6.109:*:*:*:*:*:*:*
+  - cpe:2.3:a:corsair:corsair_utility_engine:3.7.99:*:*:*:*:*:*:*

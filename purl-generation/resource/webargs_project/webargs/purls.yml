@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-webargs
+  - pkg:deb/ubuntu/python-webargs
+  - pkg:github/marshmallow-code/webargs
+  - pkg:gitlab/kalilinux/python-webargs
+  - pkg:pypi/webargs
+  - pkg:rpm/opensuse/python-webargs

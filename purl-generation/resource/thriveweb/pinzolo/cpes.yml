@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:thriveweb:pinzolo:1.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:thriveweb:pinzolo:1.0.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:thriveweb:pinzolo:1.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:thriveweb:pinzolo:1.1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:thriveweb:pinzolo:1.1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:thriveweb:pinzolo:1.1.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:thriveweb:pinzolo:1.1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:thriveweb:pinzolo:1.1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:thriveweb:pinzolo:1.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:thriveweb:pinzolo:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:thriveweb:pinzolo:1.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:thriveweb:pinzolo:1.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:thriveweb:pinzolo:1.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:thriveweb:pinzolo:1.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:thriveweb:pinzolo:1.2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:thriveweb:pinzolo:1.2.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:thriveweb:pinzolo:1.2.9:*:*:*:*:wordpress:*:*

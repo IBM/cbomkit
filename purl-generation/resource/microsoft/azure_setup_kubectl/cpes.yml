@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:microsoft:azure_setup_kubectl:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_setup_kubectl:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_setup_kubectl:1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_setup_kubectl:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:azure_setup_kubectl:2.1:*:*:*:*:*:*:*

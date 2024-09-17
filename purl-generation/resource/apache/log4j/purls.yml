@@ -1,0 +1,8 @@
+purls:
+  - pkg:apache/logging
+  - pkg:deb/debian/apache-log4j2
+  - pkg:deb/ubuntu/apache-log4j2
+  - pkg:github/apache/log4j
+  - pkg:maven/org.apache.logging.log4j/log4j
+  - pkg:rpm/fedora/log4j
+  - pkg:rpm/opensuse/log4j

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:apache:submarine:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:submarine:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:submarine:0.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:submarine:0.7.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:apache:submarine:0.7.0:rc1:*:*:*:*:*:*

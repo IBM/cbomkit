@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/processmaker/processmaker
+  - pkg:github/processmaker-cloudops/docker
+  - pkg:github/processmaker/processmaker
+  - pkg:sourceforge/processmaker

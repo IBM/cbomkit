@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gentoo/soko
+  - pkg:golang/github.com/gentoo/soko

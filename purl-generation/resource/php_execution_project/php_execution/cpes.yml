@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:php_execution_project:php_execution:0.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:php_execution_project:php_execution:0.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:php_execution_project:php_execution:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:php_execution_project:php_execution:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:php_execution_project:php_execution:-:*:*:*:*:wordpress:*:*

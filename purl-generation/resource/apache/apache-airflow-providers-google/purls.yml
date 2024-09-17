@@ -1,0 +1,6 @@
+purls:
+  - pkg:apache/airflow
+  - pkg:docker/apache/airflow
+  - pkg:github/apache/airflow
+  - pkg:github/apache/airflow-ci
+  - pkg:pypi/apache-airflow-backport-providers-google

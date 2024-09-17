@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:minidlna_project:minidlna:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:minidlna_project:minidlna:1.1.0:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:gitee/jumpserver/jumpserver
+  - pkg:golang/github.com/jumpserver/jumpserver
+  - pkg:pypi/jumpserver-sync2

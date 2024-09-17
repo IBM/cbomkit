@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:soy_cms_project:soy_cms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:soy_cms_project:soy_cms:3.0.2.328:*:*:*:*:*:*:*

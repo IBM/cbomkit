@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/laminas/laminas-diactoros
+  - pkg:github/zendframework/zend-diactoros
+  - pkg:rpm/fedora/php-laminas-diactoros

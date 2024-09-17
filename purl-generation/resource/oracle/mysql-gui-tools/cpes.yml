@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:oracle:mysql-gui-tools:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:mysql-gui-tools:5.0r14\+opensuse-2.3:*:*:*:*:*:*:*

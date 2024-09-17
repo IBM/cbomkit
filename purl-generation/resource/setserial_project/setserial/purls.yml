@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/setserial
+  - pkg:deb/ubuntu/setserial
+  - pkg:github/distrotech/setserial
+  - pkg:github/openeuler-networking/setserial
+  - pkg:gitlab/redhat/setserial
+  - pkg:rpm/fedora/setserial
+  - pkg:rpm/opensuse/setserial
+  - pkg:sourceforge/setserial

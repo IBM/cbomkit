@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/lionello/secp256k1-js
+  - pkg:npm/%40lionello/secp256k1-js

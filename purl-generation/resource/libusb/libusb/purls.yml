@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libusb-1.0
+  - pkg:deb/ubuntu/libusb-1.0
+  - pkg:github/libusb/libusb
+  - pkg:nuget/libusb
+  - pkg:rpm/fedora/libusb1
+  - "pkg:rpm/opensuse/libusb-1\u2080"
+  - pkg:sourceforge/libusb

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sintefmanufacturing/python-urx
+  - pkg:pypi/urx

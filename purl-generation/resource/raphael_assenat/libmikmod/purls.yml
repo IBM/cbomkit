@@ -1,0 +1,7 @@
+purls:
+  - pkg:cpan/audio-mikmod
+  - pkg:github/mistydemeo/libmikmod
+  - pkg:gitlab/redhat/libmikmod
+  - pkg:rpm/fedora/libmikmod
+  - pkg:rpm/opensuse/libmikmod
+  - pkg:sourceforge/mikmod

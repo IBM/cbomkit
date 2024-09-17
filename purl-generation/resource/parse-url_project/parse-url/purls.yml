@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ionicabizau/parse-url
+  - pkg:maven/org.webjars.npm/parse-url
+  - pkg:npm/parse-url

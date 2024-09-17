@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/ubuntu/subiquity
+  - pkg:github/canonical/subiquity

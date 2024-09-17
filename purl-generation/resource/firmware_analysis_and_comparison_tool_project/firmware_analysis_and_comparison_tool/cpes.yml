@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:firmware_analysis_and_comparison_tool_project:firmware_analysis_and_comparison_tool:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:firmware_analysis_and_comparison_tool_project:firmware_analysis_and_comparison_tool:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:firmware_analysis_and_comparison_tool_project:firmware_analysis_and_comparison_tool:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:firmware_analysis_and_comparison_tool_project:firmware_analysis_and_comparison_tool:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:firmware_analysis_and_comparison_tool_project:firmware_analysis_and_comparison_tool:2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:firmware_analysis_and_comparison_tool_project:firmware_analysis_and_comparison_tool:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:firmware_analysis_and_comparison_tool_project:firmware_analysis_and_comparison_tool:3.2:*:*:*:*:*:*:*

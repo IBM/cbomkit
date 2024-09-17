@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jtrulson/conquest
+  - pkg:rpm/opensuse/conquest

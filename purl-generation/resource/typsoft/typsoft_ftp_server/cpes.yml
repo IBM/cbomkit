@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:typsoft:typsoft_ftp_server:0.85:*:*:*:*:*:*:*
+  - cpe:2.3:a:typsoft:typsoft_ftp_server:0.93:*:*:*:*:*:*:*
+  - cpe:2.3:a:typsoft:typsoft_ftp_server:0.95:*:*:*:*:*:*:*
+  - cpe:2.3:a:typsoft:typsoft_ftp_server:0.96:*:*:*:*:*:*:*
+  - cpe:2.3:a:typsoft:typsoft_ftp_server:0.97:*:*:*:*:*:*:*
+  - cpe:2.3:a:typsoft:typsoft_ftp_server:0.97.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:typsoft:typsoft_ftp_server:0.99.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:typsoft:typsoft_ftp_server:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:typsoft:typsoft_ftp_server:1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:typsoft:typsoft_ftp_server:1.11:*:*:*:*:*:*:*

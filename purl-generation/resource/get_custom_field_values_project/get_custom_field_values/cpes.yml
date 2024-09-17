@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:get_custom_field_values_project:get_custom_field_values:3.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:get_custom_field_values_project:get_custom_field_values:3.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:get_custom_field_values_project:get_custom_field_values:3.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:get_custom_field_values_project:get_custom_field_values:3.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:get_custom_field_values_project:get_custom_field_values:3.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:get_custom_field_values_project:get_custom_field_values:3.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:get_custom_field_values_project:get_custom_field_values:3.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:get_custom_field_values_project:get_custom_field_values:3.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:get_custom_field_values_project:get_custom_field_values:3.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:get_custom_field_values_project:get_custom_field_values:3.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:get_custom_field_values_project:get_custom_field_values:4.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:get_custom_field_values_project:get_custom_field_values:4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:get_custom_field_values_project:get_custom_field_values:-:*:*:*:*:wordpress:*:*

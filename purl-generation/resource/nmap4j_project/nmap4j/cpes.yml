@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:nmap4j_project:nmap4j:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nmap4j_project:nmap4j:1.1.0:*:*:*:*:*:*:*

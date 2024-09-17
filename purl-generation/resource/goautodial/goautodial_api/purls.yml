@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/view_component
+  - pkg:github/goautodial/goapiv2
+  - pkg:rpm/opensuse/rubygem-view_component

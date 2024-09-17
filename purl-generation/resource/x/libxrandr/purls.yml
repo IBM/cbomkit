@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/freedesktop/xorg-libxrandr
+  - pkg:github/neverware-mirrors/libxrandr
+  - pkg:rpm/centos/libxrandr
+  - pkg:rpm/fedora/libxrandr
+  - pkg:rpm/opensuse/libxrandr

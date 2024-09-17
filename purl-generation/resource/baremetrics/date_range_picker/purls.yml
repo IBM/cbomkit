@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/baremetrics/calendar
+  - pkg:npm/baremetrics-calendar

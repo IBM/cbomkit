@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/elastic/elastic-agent
+  - pkg:golang/github.com/elastic/elastic-agent

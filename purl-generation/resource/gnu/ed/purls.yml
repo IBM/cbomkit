@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/ed
+  - pkg:deb/ubuntu/ed
+  - pkg:github/dtung2008/ed
+  - pkg:github/happy5214/gnu-ed
+  - pkg:github/val-verde/ed
+  - pkg:gitlab/redhat/ed
+  - pkg:gnu/ed
+  - pkg:rpm/centos/ed
+  - pkg:rpm/fedora/ed
+  - pkg:rpm/opensuse/ed

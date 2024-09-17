@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:ezxml_project:ezxml:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:ezxml_project:ezxml:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:ezxml_project:ezxml:0.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ezxml_project:ezxml:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ezxml_project:ezxml:0.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ezxml_project:ezxml:0.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ezxml_project:ezxml:0.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ezxml_project:ezxml:0.8.6:*:*:*:*:*:*:*

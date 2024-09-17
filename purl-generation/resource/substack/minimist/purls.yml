@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/substack/minimist
+  - pkg:maven/org.webjars.npm/minimist
+  - pkg:npm/minimist
+  - pkg:rpm/fedora/nodejs-minimist

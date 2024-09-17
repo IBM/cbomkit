@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ethereum/go-ethereum
+  - pkg:opensuse/go-ethereum
+  - pkg:sourceforge/go-ethereum.mirror

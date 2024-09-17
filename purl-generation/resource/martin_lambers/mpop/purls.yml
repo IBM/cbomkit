@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/mpop
+  - pkg:deb/ubuntu/mpop
+  - pkg:github/marlam/mpop-mirror
+  - pkg:rpm/fedora/mpop
+  - pkg:rpm/opensuse/mpop

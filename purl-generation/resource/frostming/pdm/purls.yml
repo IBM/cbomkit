@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pdm-project/pdm
+  - pkg:pypi/pdm

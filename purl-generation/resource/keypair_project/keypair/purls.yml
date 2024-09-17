@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/juliangruber/keypair
+  - pkg:npm/keypair

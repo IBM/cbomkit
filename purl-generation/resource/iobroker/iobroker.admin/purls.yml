@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/iobroker/iobroker.admin
+  - pkg:npm/iobroker.admin

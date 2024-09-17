@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:gappointments:gappointments:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.8.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.8.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.8.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.8.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.8.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.8.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.9.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.9.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.9.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.9.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gappointments:gappointments:1.9.7:*:*:*:*:wordpress:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:gamerpolls:gamerpolls:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gamerpolls:gamerpolls:0.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gamerpolls:gamerpolls:0.5.0:*:*:*:*:*:*:*

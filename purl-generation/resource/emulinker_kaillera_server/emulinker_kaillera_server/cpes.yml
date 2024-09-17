@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:emulinker_kaillera_server:emulinker_kaillera_server:0.97.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:emulinker_kaillera_server:emulinker_kaillera_server:0.98.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:emulinker_kaillera_server:emulinker_kaillera_server:0.98.5:*:*:*:*:*:*:*

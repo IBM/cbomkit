@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libsass0
+  - pkg:deb/debian/libsass1
+  - pkg:deb/ubuntu/libsass0
+  - pkg:deb/ubuntu/libsass1
+  - pkg:github/sass/libsass
+  - pkg:rpm/fedora/libsass
+  - pkg:rpm/opensuse/libsass

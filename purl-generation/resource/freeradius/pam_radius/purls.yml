@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libpam-radius-auth
+  - pkg:deb/ubuntu/libpam-radius-auth
+  - pkg:github/freeradius/pam-radius
+  - pkg:rpm/fedora/pam-radius
+  - pkg:rpm/opensuse/pam-radius

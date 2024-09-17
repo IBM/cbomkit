@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:webdav:cadaver:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:webdav:cadaver:0.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:webdav:cadaver:0.22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:webdav:cadaver:0.22.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:webdav:cadaver:0.22.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:webdav:cadaver:0.22.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:webdav:cadaver:0.22.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:webdav:cadaver:0.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:webdav:cadaver:0.23.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:webdav:cadaver:0.23.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:webdav:cadaver:0.23.3:*:*:*:*:*:*:*

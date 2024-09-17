@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:libsdl:sdl_image:1.2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:libsdl:sdl_image:1.2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:libsdl:sdl_image:1.2.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:libsdl:sdl_image:1.2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:libsdl:sdl_image:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libsdl:sdl_image:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libsdl:sdl_image:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libsdl:sdl_image:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:libsdl:sdl_image:2.0.5:*:*:*:*:*:*:*

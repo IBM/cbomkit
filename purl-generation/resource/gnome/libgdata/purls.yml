@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libgdata
+  - pkg:deb/ubuntu/libgdata
+  - pkg:github/gnome/libgdata
+  - pkg:gnome/libgdata
+  - pkg:rpm/fedora/libgdata
+  - pkg:rpm/opensuse/libgdata

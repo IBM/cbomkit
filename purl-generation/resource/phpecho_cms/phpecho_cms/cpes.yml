@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:phpecho_cms:phpecho_cms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpecho_cms:phpecho_cms:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpecho_cms:phpecho_cms:2.0-rc3:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sigstore/rekor
+  - pkg:golang/github.com/sigstore/rekor

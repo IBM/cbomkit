@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:shiva-server_project:shiva-server:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:shiva-server_project:shiva-server:0.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shiva-server_project:shiva-server:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shiva-server_project:shiva-server:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shiva-server_project:shiva-server:0.9.0:*:*:*:*:*:*:*

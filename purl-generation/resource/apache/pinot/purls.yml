@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/pinot
+  - pkg:docker/apachepinot/pinot
+  - pkg:github/apache/pinot
+  - pkg:maven/org.apache.pinot/pinot

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/rake
+  - pkg:deb/ubuntu/rake
+  - pkg:gem/rake
+  - pkg:github/ruby/rake
+  - pkg:rpm/centos/rubygem-rake
+  - pkg:rpm/fedora/rubygem-rake
+  - pkg:rpm/opensuse/rubygem-rake

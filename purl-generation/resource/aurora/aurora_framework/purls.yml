@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/apache/aurora
+  - pkg:golang/github.com/apache/aurora

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/most
+  - pkg:deb/ubuntu/most
+  - pkg:rpm/fedora/most
+  - pkg:rpm/opensuse/most

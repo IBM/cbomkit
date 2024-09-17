@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/marcelraschke/cyberchef
+  - pkg:docker/mpepping/cyberchef
+  - pkg:github/gchq/cyberchef
+  - pkg:npm/cyberchef

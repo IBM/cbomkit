@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/selenium-portal/portal
+  - pkg:npm/selenium-portal

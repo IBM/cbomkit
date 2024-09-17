@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:davide_libenzi:xmail:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:davide_libenzi:xmail:0.58:*:*:*:*:*:*:*
+  - cpe:2.3:a:davide_libenzi:xmail:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:davide_libenzi:xmail:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:davide_libenzi:xmail:1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:davide_libenzi:xmail:1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:davide_libenzi:xmail:1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:davide_libenzi:xmail:1.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:davide_libenzi:xmail:1.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:davide_libenzi:xmail:1.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:davide_libenzi:xmail:1.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:davide_libenzi:xmail:1.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:davide_libenzi:xmail:1.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:davide_libenzi:xmail:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:davide_libenzi:xmail:1.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:davide_libenzi:xmail:1.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:davide_libenzi:xmail:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:davide_libenzi:xmail:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:davide_libenzi:xmail:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:davide_libenzi:xmail:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:davide_libenzi:xmail:1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:davide_libenzi:xmail:1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:davide_libenzi:xmail:1.9:*:*:*:*:*:*:*

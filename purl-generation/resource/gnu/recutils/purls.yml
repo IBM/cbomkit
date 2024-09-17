@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/recutils
+  - pkg:deb/ubuntu/recutils
+  - pkg:github/gitgnu/gnu_recutils
+  - pkg:github/gnu-mirror-unofficial/recutils
+  - pkg:gnu/recutils
+  - pkg:rpm/fedora/recutils
+  - pkg:rpm/opensuse/recutils

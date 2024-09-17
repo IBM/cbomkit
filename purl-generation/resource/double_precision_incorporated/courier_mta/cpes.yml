@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:double_precision_incorporated:courier_mta:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:double_precision_incorporated:courier_mta:0.37.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:double_precision_incorporated:courier_mta:0.38.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:double_precision_incorporated:courier_mta:0.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:double_precision_incorporated:courier_mta:0.43:*:*:*:*:*:*:*
+  - cpe:2.3:a:double_precision_incorporated:courier_mta:0.43.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:double_precision_incorporated:courier_mta:0.43.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:double_precision_incorporated:courier_mta:0.44:*:*:*:*:*:*:*
+  - cpe:2.3:a:double_precision_incorporated:courier_mta:0.44.2:*:*:*:*:*:*:*

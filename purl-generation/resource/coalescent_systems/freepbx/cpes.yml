@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:coalescent_systems:freepbx:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:coalescent_systems:freepbx:2.1.3:*:*:*:*:*:*:*

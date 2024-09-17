@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/auth0/auth0.js
+  - pkg:maven/org.webjars.npm/auth0-js
+  - pkg:npm/auth0-js

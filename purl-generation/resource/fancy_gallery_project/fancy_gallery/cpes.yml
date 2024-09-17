@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:fancy_gallery_project:fancy_gallery:1.5.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fancy_gallery_project:fancy_gallery:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fancy_gallery_project:fancy_gallery:-:*:*:*:*:wordpress:*:*

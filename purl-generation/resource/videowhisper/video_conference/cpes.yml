@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:videowhisper:video_conference:1.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:videowhisper:video_conference:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:videowhisper:video_conference:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:videowhisper:video_conference:3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:videowhisper:video_conference:3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:videowhisper:video_conference:4.51:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:videowhisper:video_conference:4.72.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:videowhisper:video_conference:4.91.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:videowhisper:video_conference:4.91.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:videowhisper:video_conference:4.91:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:videowhisper:video_conference:5.05.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:videowhisper:video_conference:5.07.1:*:*:*:*:wordpress:*:*

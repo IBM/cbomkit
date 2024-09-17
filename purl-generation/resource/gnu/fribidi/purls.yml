@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/fribidi
+  - pkg:deb/ubuntu/fribidi
+  - pkg:github/fribidi/fribidi
+  - pkg:rpm/centos/fribidi
+  - pkg:rpm/fedora/fribidi
+  - pkg:rpm/opensuse/fribidi
+  - pkg:sourceforge/fribidi

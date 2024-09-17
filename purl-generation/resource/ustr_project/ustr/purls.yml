@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/ustr
+  - pkg:deb/ubuntu/ustr
+  - pkg:github/certik/ustr
+  - pkg:github/distrotech/ustr
+  - pkg:github/james-antill/ustr
+  - pkg:gitlab/redhat/ustr
+  - pkg:rpm/centos/ustr
+  - pkg:rpm/fedora/ustr
+  - pkg:rpm/opensuse/ustr

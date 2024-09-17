@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:maps-js-icoads_project:maps-js-icoads:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:maps-js-icoads_project:maps-js-icoads:-:*:*:*:*:*:*:*

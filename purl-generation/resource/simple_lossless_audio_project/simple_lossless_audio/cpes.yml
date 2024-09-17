@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:simple_lossless_audio_project:simple_lossless_audio:0.1.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:simple_lossless_audio_project:simple_lossless_audio:0.1.2:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:simple_lossless_audio_project:simple_lossless_audio:0.1:alpha:*:*:*:*:*:*

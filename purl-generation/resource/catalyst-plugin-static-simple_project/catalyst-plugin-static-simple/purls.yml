@@ -1,0 +1,9 @@
+purls:
+  - pkg:cpan/catalyst-plugin-static-simple
+  - pkg:deb/debian/libcatalyst-plugin-static-simple-perl
+  - pkg:deb/ubuntu/libcatalyst-plugin-static-simple-perl
+  - pkg:github/deanshapira/catalyst-plugin-static-simple
+  - pkg:github/gitpan/catalyst-plugin-static-simple
+  - pkg:github/git-the-cpan/catalyst-plugin-static-simple
+  - pkg:rpm/fedora/perl-catalyst-plugin-static-simple
+  - pkg:rpm/opensuse/perl-catalyst-plugin-static-simple

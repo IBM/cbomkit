@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:project_todolist_project:project_todolist:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:project_todolist_project:project_todolist:-:*:*:*:*:*:*:*

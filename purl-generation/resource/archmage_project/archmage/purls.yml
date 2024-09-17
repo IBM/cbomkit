@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/archmage
+  - pkg:deb/ubuntu/archmage
+  - pkg:github/dottedmag/archmage
+  - pkg:pypi/archmage
+  - pkg:rpm/fedora/archmage
+  - pkg:rpm/opensuse/archmage
+  - pkg:sourceforge/archmage

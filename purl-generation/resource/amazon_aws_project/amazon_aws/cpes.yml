@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:amazon_aws_project:amazon_aws:7.x-1.2:*:*:*:*:drupal:*:*

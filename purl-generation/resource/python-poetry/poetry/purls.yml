@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/poetry
+  - pkg:deb/ubuntu/poetry
+  - pkg:github/python-poetry/poetry
+  - pkg:pypi/poetry
+  - pkg:rpm/fedora/poetry
+  - pkg:rpm/opensuse/python-poetry

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:django_project:django:0.91:*:*:*:*:*:*:*
+  - cpe:2.3:a:django_project:django:0.95:*:*:*:*:*:*:*
+  - cpe:2.3:a:django_project:django:0.95.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:django_project:django:0.96:*:*:*:*:*:*:*
+  - cpe:2.3:a:django_project:django:1.0:*:*:*:*:*:*:*

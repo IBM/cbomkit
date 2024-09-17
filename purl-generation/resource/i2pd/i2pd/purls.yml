@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/orignal/i2pd
+  - pkg:deb/debian/i2pd
+  - pkg:deb/ubuntu/i2pd
+  - pkg:docker/purplei2p/i2pd
+  - pkg:github/purplei2p/i2pd
+  - pkg:rpm/opensuse/i2pd

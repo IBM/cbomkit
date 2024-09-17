@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-extend
+  - pkg:deb/ubuntu/node-extend
+  - pkg:github/justmoon/node-extend
+  - pkg:maven/org.webjars.npm/extend
+  - pkg:npm/extend
+  - pkg:rpm/fedora/nodejs-extend

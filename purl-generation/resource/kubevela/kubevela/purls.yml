@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kubevela/kubevela
+  - pkg:golang/github.com/kubevela/kubevela

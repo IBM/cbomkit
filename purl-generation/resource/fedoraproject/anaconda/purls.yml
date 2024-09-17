@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/rhinstaller/anaconda
+  - pkg:gitlab/redhat/anaconda
+  - pkg:rpm/centos/anaconda
+  - pkg:rpm/fedora/anaconda
+  - pkg:rpm/opensuse/anaconda

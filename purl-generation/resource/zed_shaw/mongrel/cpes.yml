@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:zed_shaw:mongrel:0.3.13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:zed_shaw:mongrel:0.3.13.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:zed_shaw:mongrel:0.3.13.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:zed_shaw:mongrel:1.0.1:*:*:*:*:*:*:*

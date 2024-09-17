@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:doubleclick_for_publishers_project:doubleclick_for_publishers:7.x-1.0:alpha1:*:*:*:drupal:*:*
+  - cpe:2.3:a:doubleclick_for_publishers_project:doubleclick_for_publishers:7.x-1.0:alpha2:*:*:*:drupal:*:*
+  - cpe:2.3:a:doubleclick_for_publishers_project:doubleclick_for_publishers:7.x-1.0:alpha3:*:*:*:drupal:*:*
+  - cpe:2.3:a:doubleclick_for_publishers_project:doubleclick_for_publishers:7.x-1.0:beta1:*:*:*:drupal:*:*
+  - cpe:2.3:a:doubleclick_for_publishers_project:doubleclick_for_publishers:7.x-1.0:beta2:*:*:*:drupal:*:*
+  - cpe:2.3:a:doubleclick_for_publishers_project:doubleclick_for_publishers:7.x-1.0:-:*:*:*:drupal:*:*
+  - cpe:2.3:a:doubleclick_for_publishers_project:doubleclick_for_publishers:7.x-1.0:rc1:*:*:*:drupal:*:*
+  - cpe:2.3:a:doubleclick_for_publishers_project:doubleclick_for_publishers:7.x-1.0:rc2:*:*:*:drupal:*:*
+  - cpe:2.3:a:doubleclick_for_publishers_project:doubleclick_for_publishers:7.x-1.1:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:doubleclick_for_publishers_project:doubleclick_for_publishers:7.x-1.2:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:doubleclick_for_publishers_project:doubleclick_for_publishers:7.x-1.3:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:doubleclick_for_publishers_project:doubleclick_for_publishers:7.x-1.4:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:doubleclick_for_publishers_project:doubleclick_for_publishers:7.x-1.5:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:doubleclick_for_publishers_project:doubleclick_for_publishers:7.x-1.x:dev:*:*:*:drupal:*:*
+  - cpe:2.3:a:doubleclick_for_publishers_project:doubleclick_for_publishers:7.x-2.x:dev:*:*:*:drupal:*:*
+  - cpe:2.3:a:doubleclick_for_publishers_project:doubleclick_for_publishers:8.x-1.0:alpha1:*:*:*:drupal:*:*
+  - cpe:2.3:a:doubleclick_for_publishers_project:doubleclick_for_publishers:8.x-1.x:dev:*:*:*:drupal:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/atlassian/atlassian-connect-spring-boot
+  - pkg:github/pghoshal/atlassian-connect-spring-boot
+  - pkg:maven/com.atlassian.connect/atlassian-connect-spring-boot

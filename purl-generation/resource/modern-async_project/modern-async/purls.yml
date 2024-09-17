@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nicolas-van/modern-async
+  - pkg:npm/modern-async

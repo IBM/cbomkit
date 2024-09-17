@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:logilab:logilab-common:0.58.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:logilab:logilab-common:0.59.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:logilab:logilab-common:0.59.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:logilab:logilab-common:0.60.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:logilab:logilab-common:0.61.0:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/open-liberty
+  - pkg:github/openliberty/open-liberty

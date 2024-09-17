@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/krb5/krb5
+  - pkg:gitlab/redhat/krb5
+  - pkg:rpm/fedora/krb5

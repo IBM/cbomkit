@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/software-mansion/react-native-reanimated
+  - pkg:npm/react-native-reanimated

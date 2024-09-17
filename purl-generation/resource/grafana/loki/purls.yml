@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/grafana/loki
+  - pkg:github/grafana/loki
+  - pkg:rpm/opensuse/loki
+  - pkg:sourceforge/grafana-loki.mirror

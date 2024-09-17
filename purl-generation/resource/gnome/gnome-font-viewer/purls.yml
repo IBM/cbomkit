@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/gnome-font-viewer
+  - pkg:deb/ubuntu/gnome-font-viewer
+  - pkg:github/gnome/gnome-font-viewer
+  - pkg:rpm/centos/gnome-font-viewer
+  - pkg:rpm/fedora/gnome-font-viewer
+  - pkg:rpm/opensuse/gnome-font-viewer

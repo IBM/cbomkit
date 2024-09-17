@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-wicked
+  - pkg:deb/ubuntu/php-horde-wicked
+  - pkg:github/horde/wicked
+  - pkg:rpm/fedora/php-horde-wicked

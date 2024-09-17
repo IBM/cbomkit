@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/louischatriot/nedb
+  - pkg:npm/nedb

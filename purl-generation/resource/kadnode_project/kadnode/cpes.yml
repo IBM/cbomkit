@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:kadnode_project:kadnode:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:kadnode_project:kadnode:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:kadnode_project:kadnode:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:kadnode_project:kadnode:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:kadnode_project:kadnode:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:kadnode_project:kadnode:0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:kadnode_project:kadnode:0.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kadnode_project:kadnode:0.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kadnode_project:kadnode:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kadnode_project:kadnode:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kadnode_project:kadnode:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kadnode_project:kadnode:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kadnode_project:kadnode:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kadnode_project:kadnode:2.2.0:*:*:*:*:*:*:*

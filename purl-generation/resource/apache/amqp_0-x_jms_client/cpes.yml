@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:apache:amqp_0-x_jms_client:6.0.3:*:*:*:*:*:*:*

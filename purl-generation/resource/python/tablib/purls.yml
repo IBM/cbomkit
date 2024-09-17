@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/python-tablib
+  - pkg:deb/ubuntu/python-tablib
+  - pkg:pypi/tablib
+  - pkg:rpm/fedora/python-tablib
+  - pkg:rpm/opensuse/python-tablib

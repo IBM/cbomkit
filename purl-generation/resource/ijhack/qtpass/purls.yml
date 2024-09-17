@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/qtpass
+  - pkg:deb/ubuntu/qtpass
+  - pkg:github/ijhack/qtpass
+  - pkg:rpm/fedora/qtpass
+  - pkg:rpm/opensuse/qtpass

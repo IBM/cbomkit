@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/calamares
+  - pkg:deb/ubuntu/calamares
+  - pkg:github/calamares/calamares
+  - pkg:rpm/fedora/calamares
+  - pkg:rpm/opensuse/calamares

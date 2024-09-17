@@ -1,0 +1,9 @@
+purls:
+  - pkg:bitbucket/samuellehaneq1/janus-gateway
+  - pkg:deb/debian/janus
+  - pkg:deb/ubuntu/janus
+  - pkg:docker/canyan/janus-gateway
+  - pkg:github/meetecho/janus-gateway
+  - pkg:maven/org.webjars.bowergithub.meetecho/janus-gateway
+  - pkg:npm/janus-gateway
+  - pkg:rpm/opensuse/janus-gateway

@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:plugin-planet:prismatic:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:prismatic:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:prismatic:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:prismatic:1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:prismatic:1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:prismatic:1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:prismatic:1.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:prismatic:1.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:prismatic:1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:prismatic:1.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:prismatic:1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:prismatic:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:prismatic:2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:prismatic:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:prismatic:2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:prismatic:2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:prismatic:2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:prismatic:2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:prismatic:2.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:prismatic:2.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plugin-planet:prismatic:-:*:*:*:*:wordpress:*:*

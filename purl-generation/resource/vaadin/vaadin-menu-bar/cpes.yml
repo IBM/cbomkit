@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:vaadin:vaadin-menu-bar:1.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-menu-bar:1.0.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-menu-bar:1.0.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-menu-bar:1.0.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-menu-bar:1.0.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-menu-bar:1.0.0:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-menu-bar:1.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-menu-bar:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-menu-bar:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-menu-bar:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-menu-bar:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-menu-bar:1.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-menu-bar:1.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-menu-bar:1.1.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-menu-bar:1.1.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-menu-bar:1.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-menu-bar:1.2.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-menu-bar:1.2.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-menu-bar:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-menu-bar:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-menu-bar:2.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-menu-bar:2.0.0:alpha1:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-rack
+  - pkg:deb/ubuntu/ruby-rack
+  - pkg:gem/rack
+  - pkg:github/rack/rack
+  - pkg:rpm/fedora/rubygem-rack
+  - pkg:rpm/opensuse/rubygem-rack

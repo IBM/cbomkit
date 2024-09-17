@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/goj/coreutils
+  - pkg:github/homer6/gnu_coreutils
+  - pkg:github/nqct/coreutils
+  - pkg:gnu/fileutils

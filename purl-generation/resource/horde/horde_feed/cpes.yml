@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:horde:horde_feed:1.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_feed:1.0.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_feed:1.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_feed:1.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_feed:1.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_feed:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_feed:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_feed:2.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_feed:2.0.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_feed:2.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_feed:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_feed:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_feed:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_feed:2.0.4:*:*:*:*:*:*:*

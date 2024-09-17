@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/elasticsearch-query-plugin
+  - pkg:github/mikee805/elasticsearch-query-plugin

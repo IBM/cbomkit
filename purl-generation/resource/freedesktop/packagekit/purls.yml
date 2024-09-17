@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/packagekit
+  - pkg:deb/ubuntu/packagekit
+  - pkg:github/freedesktop/packagekit
+  - pkg:github/packagekit/packagekit
+  - pkg:gitlab/redhat/packagekit
+  - pkg:rpm/fedora/packagekit

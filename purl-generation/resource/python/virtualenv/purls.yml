@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/pypa/virtualenv
+  - pkg:golang/github.com/pypa/virtualenv
+  - pkg:pypi/virtualenv

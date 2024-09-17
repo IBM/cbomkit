@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/minio/console
+  - pkg:golang/github.com/minio/console

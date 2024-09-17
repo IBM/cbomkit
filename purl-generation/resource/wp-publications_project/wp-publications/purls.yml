@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/monperrus/wp-publications
+  - pkg:github/wp-plugins/wp-publications
+  - pkg:github/wpplugins/wp-publications

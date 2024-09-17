@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/florianpiesche/mailpile
+  - pkg:github/mailpile/mailpile
+  - pkg:pypi/mailpile

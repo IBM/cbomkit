@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/falcon
+  - pkg:github/socketry/falcon

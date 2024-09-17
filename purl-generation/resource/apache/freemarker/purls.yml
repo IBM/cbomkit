@@ -1,0 +1,8 @@
+purls:
+  - pkg:apache/freemarker
+  - pkg:deb/debian/libfreemarker-java
+  - pkg:deb/ubuntu/libfreemarker-java
+  - pkg:github/apache/freemarker
+  - pkg:rpm/fedora/freemarker
+  - pkg:rpm/opensuse/freemarker
+  - pkg:sourceforge/freemarker

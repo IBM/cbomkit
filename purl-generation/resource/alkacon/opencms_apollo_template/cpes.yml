@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:alkacon:opencms_apollo_template:10.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:alkacon:opencms_apollo_template:10.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:alkacon:opencms_apollo_template:10.5.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:alkacon:opencms_apollo_template:10.5.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:alkacon:opencms_apollo_template:10.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:alkacon:opencms_apollo_template:10.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:alkacon:opencms_apollo_template:10.5.5:*:*:*:*:*:*:*

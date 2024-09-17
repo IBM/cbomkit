@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/memtester
+  - pkg:deb/ubuntu/memtester
+  - pkg:github/jnavila/memtester
+  - pkg:rpm/fedora/memtester
+  - pkg:rpm/opensuse/memtester

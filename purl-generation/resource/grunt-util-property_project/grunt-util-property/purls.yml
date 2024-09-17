@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mikaelkaron/grunt-util-property
+  - pkg:npm/grunt-util-property
+  - pkg:rpm/fedora/nodejs-grunt-util-property

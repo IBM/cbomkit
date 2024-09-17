@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:averta:master_slider:3.2.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:averta:master_slider:3.5.1:*:*:*:*:wordpress:*:*

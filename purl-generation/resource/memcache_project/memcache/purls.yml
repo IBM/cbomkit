@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/deminy/memcache
+  - pkg:github/digitalist-se/memcache
+  - pkg:github/drupalprojects/memcache

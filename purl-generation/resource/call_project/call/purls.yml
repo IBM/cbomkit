@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/hapijs/call
+  - pkg:npm/%40hapi/call

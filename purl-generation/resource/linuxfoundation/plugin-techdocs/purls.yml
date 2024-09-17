@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/backstage/mkdocs-techdocs-core
+  - pkg:pypi/mkdocs-techdocs-core

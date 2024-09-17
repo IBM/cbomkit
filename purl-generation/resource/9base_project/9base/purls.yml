@@ -1,0 +1,6 @@
+purls:
+  - pkg:alpine/9base
+  - pkg:alpinelinux/9base
+  - pkg:deb/debian/9base
+  - pkg:github/z101/9base
+  - pkg:suckless/9base

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jefferyhus/es6-crawler-detect
+  - pkg:npm/es6-crawler-detect

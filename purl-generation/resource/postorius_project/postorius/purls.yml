@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/postorius
+  - pkg:deb/ubuntu/postorius
+  - pkg:github/amusement/postorius
+  - pkg:github/inonit/postorius
+  - pkg:gitlab/mailman/postorius
+  - pkg:pypi/postorius
+  - pkg:rpm/fedora/python-postorius
+  - pkg:rpm/opensuse/python-postorius

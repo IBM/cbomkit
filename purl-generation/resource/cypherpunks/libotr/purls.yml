@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libotr
+  - pkg:deb/ubuntu/libotr
+  - pkg:github/decrypto-org/libotr
+  - pkg:github/off-the-record/libotr
+  - pkg:rpm/centos/libotr
+  - pkg:rpm/fedora/libotr
+  - pkg:rpm/opensuse/libotr

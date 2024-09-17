@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/spectracom/pam-tacplus
+  - pkg:github/kravietz/pam_tacplus
+  - pkg:rpm/opensuse/pam_tacplus

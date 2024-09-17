@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:debian:cfingerd:1.4.3-3:*:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/smb4k
+  - pkg:deb/ubuntu/smb4k
+  - pkg:github/kde/smb4k
+  - pkg:rpm/fedora/smb4k
+  - pkg:rpm/opensuse/smb4k
+  - pkg:sourceforge/smb4k

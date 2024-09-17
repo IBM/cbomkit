@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/gst-plugins-base1.0
+  - pkg:deb/ubuntu/gst-plugins-base1.0
+  - pkg:github/gstreamer/gst-plugins-base
+  - pkg:gnome/gst-plugins-base1.0
+  - pkg:golang/github.com/gstreamer/gst-plugins-base
+  - pkg:rpm/opensuse/gst-plugins-base

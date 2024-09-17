@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/pdfforge/pdfcreator
+  - pkg:github/zopitirik/pdfcreator
+  - pkg:sourceforge/pdfcreator

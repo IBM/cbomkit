@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-service-weather
+  - pkg:deb/ubuntu/php-horde-service-weather
+  - pkg:github/horde/service_weather
+  - pkg:rpm/fedora/php-horde-horde-service-weather

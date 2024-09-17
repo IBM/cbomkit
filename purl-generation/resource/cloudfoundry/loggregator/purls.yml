@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cloudfoundry/loggregator
+  - pkg:github/cloudfoundry/loggregator-release

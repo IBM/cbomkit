@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:mijnpress:simple_add_pages_or_posts:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mijnpress:simple_add_pages_or_posts:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mijnpress:simple_add_pages_or_posts:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mijnpress:simple_add_pages_or_posts:1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mijnpress:simple_add_pages_or_posts:1.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mijnpress:simple_add_pages_or_posts:1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mijnpress:simple_add_pages_or_posts:1.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mijnpress:simple_add_pages_or_posts:1.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mijnpress:simple_add_pages_or_posts:1.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mijnpress:simple_add_pages_or_posts:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mijnpress:simple_add_pages_or_posts:-:*:*:*:*:wordpress:*:*

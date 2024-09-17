@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/es128/ssl-utils
+  - pkg:npm/ssl-utils

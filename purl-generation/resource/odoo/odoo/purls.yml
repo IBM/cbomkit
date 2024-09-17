@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/jelitox/odoo
+  - pkg:deb/debian/odoo
+  - pkg:deb/ubuntu/odoo
+  - pkg:docker/odoo
+  - pkg:github/odoo/odoo
+  - pkg:rpm/opensuse/odoo
+  - pkg:rpm/opensuse/odoo-release

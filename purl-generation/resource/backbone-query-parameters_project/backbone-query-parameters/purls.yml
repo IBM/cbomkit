@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jhudson8/backbone-query-parameters
+  - pkg:npm/backbone-query-parameters

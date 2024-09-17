@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:jenkins:health_advisor_by_cloudbees:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:health_advisor_by_cloudbees:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:health_advisor_by_cloudbees:1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:health_advisor_by_cloudbees:1.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:health_advisor_by_cloudbees:1.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:health_advisor_by_cloudbees:1.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:health_advisor_by_cloudbees:2.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:health_advisor_by_cloudbees:2.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:health_advisor_by_cloudbees:3.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:health_advisor_by_cloudbees:3.0.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:health_advisor_by_cloudbees:3.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:health_advisor_by_cloudbees:3.1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:health_advisor_by_cloudbees:3.1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:health_advisor_by_cloudbees:3.2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:health_advisor_by_cloudbees:3.2.1:*:*:*:*:jenkins:*:*

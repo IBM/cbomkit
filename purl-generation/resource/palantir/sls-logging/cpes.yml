@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:palantir:sls-logging:*:*:*:*:*:palantir:*:*

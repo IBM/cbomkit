@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:freemedsoftware:openclinic_ga:5.09.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:freemedsoftware:openclinic_ga:5.173.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:freemedsoftware:openclinic_ga:5.89.05b:*:*:*:*:*:*:*

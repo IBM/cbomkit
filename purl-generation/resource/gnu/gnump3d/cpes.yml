@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:gnu:gnump3d:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnump3d:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnump3d:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnump3d:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnump3d:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnump3d:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnump3d:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnump3d:2.5b:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnump3d:2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnump3d:2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnump3d:2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnump3d:2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnump3d:2.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnump3d:2.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnump3d:2.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnump3d:2.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnump3d:2.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnump3d:2.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnump3d:2.9.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnump3d:2.9:final:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnump3d:3.0:*:*:*:*:*:*:*

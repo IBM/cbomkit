@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/gz/rust-cpuid
+  - pkg:opensuse/rust-raw-cpuid
+  - pkg:rpm/opensuse/raw-cpuid

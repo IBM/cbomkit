@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/cfengine3
+  - pkg:deb/ubuntu/cfengine3
+  - pkg:github/cfengine/core
+  - pkg:gnu/cfengine
+  - pkg:rpm/opensuse/cfengine

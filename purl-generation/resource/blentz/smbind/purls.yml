@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/hispanico/smbind
+  - pkg:sourceforge/smbind

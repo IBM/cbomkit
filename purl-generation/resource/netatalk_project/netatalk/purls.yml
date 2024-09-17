@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/netatalk
+  - pkg:deb/ubuntu/netatalk
+  - pkg:github/netatalk/netatalk
+  - pkg:rpm/fedora/netatalk
+  - pkg:rpm/opensuse/netatalk
+  - pkg:sourceforge/netatalk

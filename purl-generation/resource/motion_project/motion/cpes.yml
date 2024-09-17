@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:motion_project:motion:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:motion_project:motion:3.2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:motion_project:motion:3.2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:motion_project:motion:3.2.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:motion_project:motion:3.2.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:motion_project:motion:3.2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:motion_project:motion:3.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:motion_project:motion:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:motion_project:motion:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:motion_project:motion:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:motion_project:motion:4.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:motion_project:motion:4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:motion_project:motion:4.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:motion_project:motion:4.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:motion_project:motion:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:motion_project:motion:4.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:motion_project:motion:4.3.2:*:*:*:*:*:*:*

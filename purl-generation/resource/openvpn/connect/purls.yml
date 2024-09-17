@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/diadebeltphy/openvpn-connect-mac-download
+  - pkg:docker/zhujintao/openvpn-connect

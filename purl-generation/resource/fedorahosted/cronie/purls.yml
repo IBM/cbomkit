@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/cronie
+  - pkg:github/henrysher/cronie
+  - pkg:gitlab/redhat/cronie
+  - pkg:rpm/fedora/cronie
+  - pkg:rpm/opensuse/cronie

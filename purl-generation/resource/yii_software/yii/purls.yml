@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/yiisoft/yii2
+  - pkg:sourceforge/yii-2.mirror

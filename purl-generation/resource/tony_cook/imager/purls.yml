@@ -1,0 +1,4 @@
+purls:
+  - pkg:cpan/imager
+  - pkg:github/tonycoz/imager
+  - pkg:gitlab/tonycoz/imager

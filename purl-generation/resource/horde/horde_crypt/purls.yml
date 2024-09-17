@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-crypt
+  - pkg:deb/ubuntu/php-horde-crypt
+  - pkg:github/horde/crypt
+  - pkg:rpm/fedora/php-horde-horde-crypt

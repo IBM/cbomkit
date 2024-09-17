@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:tastyigniter:tastyigniter:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:1.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:2.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:2.1.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:3.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:3.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:3.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:3.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:3.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:3.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:3.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:3.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tastyigniter:tastyigniter:3.3.0:*:*:*:*:*:*:*

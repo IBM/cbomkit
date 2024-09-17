@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/mcstrans
+  - pkg:deb/ubuntu/mcstrans
+  - pkg:github/joenall/mcstrans
+  - pkg:github/selinuxproject/selinux
+  - pkg:gitlab/redhat/mcstrans
+  - pkg:rpm/fedora/mcstrans
+  - pkg:rpm/opensuse/mcstrans

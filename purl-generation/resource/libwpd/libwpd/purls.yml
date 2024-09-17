@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libwpd
+  - pkg:deb/ubuntu/libwpd
+  - pkg:github/chlorm-forks/libwpd
+  - pkg:github/cpjreynolds/libwpd
+  - pkg:rpm/centos/libwpd
+  - pkg:rpm/fedora/libwpd
+  - pkg:rpm/opensuse/libwpd
+  - pkg:sourceforge/libwpd

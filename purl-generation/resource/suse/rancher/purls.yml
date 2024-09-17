@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/rancher/rancher
+  - pkg:github/rancher/rancher
+  - pkg:sourceforge/rancher.mirror

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/stetic/stetic-wordpress-plugin
+  - pkg:github/wp-plugins/stetic
+  - pkg:github/WPPlugins/stetic

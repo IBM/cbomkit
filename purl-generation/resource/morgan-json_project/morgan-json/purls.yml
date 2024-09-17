@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/indexzero/morgan-json
+  - pkg:npm/morgan-json

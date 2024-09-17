@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-loader-utils
+  - pkg:deb/ubuntu/node-loader-utils
+  - pkg:github/webpack/loader-utils
+  - pkg:maven/org.webjars.npm/loader-utils
+  - pkg:npm/loader-utils

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:lustre:lustre-tests:1.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:lustre:lustre-tests:1.6.5.1:*:*:*:*:*:*:*

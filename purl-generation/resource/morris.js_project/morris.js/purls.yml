@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/jrunion/morris.js
+  - pkg:github/morrisjs/morris.js
+  - pkg:maven/org.webjars.bowergithub.morrisjs/morris.js
+  - pkg:maven/org.webjars.npm/morris.js
+  - pkg:npm/morris.js

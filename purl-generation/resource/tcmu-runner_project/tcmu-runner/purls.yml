@@ -1,0 +1,6 @@
+purls:
+  - 'pkg:deb/debian/tcmu  '
+  - 'pkg:deb/ubuntu/tcmu  '
+  - pkg:github/open-iscsi/tcmu-runner
+  - pkg:rpm/fedora/tcmu-runner
+  - pkg:rpm/opensuse/tcmu-runner

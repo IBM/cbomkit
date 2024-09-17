@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:microsoft:powershell_extension:1.7.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:powershell_extension:*:*:*:*:*:visual_studio_code:*:*

@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:bitchx:bitchx:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitchx:bitchx:1.0_c16:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitchx:bitchx:1.0_c19:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitchx:bitchx:1.0_c20cvs:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitchx:bitchx:1.1a:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitchx:bitchx:1.1-final:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitchx:bitchx:75p3:*:*:*:*:*:*:*

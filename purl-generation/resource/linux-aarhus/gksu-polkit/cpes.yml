@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:linux-aarhus:gksu-polkit:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux-aarhus:gksu-polkit:0.0.3:*:*:*:*:*:*:*

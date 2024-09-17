@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/lhasa
+  - pkg:deb/ubuntu/lhasa
+  - pkg:github/fragglet/lhasa
+  - pkg:rpm/opensuse/lhasa

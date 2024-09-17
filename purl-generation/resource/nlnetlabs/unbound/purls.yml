@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/unbound
+  - pkg:deb/ubuntu/unbound
+  - pkg:github/nlnetlabs/unbound
+  - pkg:nlnetlabs/unbound
+  - pkg:rpm/opensuse/unbound

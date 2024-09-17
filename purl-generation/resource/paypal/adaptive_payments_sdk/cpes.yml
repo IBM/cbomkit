@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:paypal:adaptive_payments_sdk:2.1.96:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:adaptive_payments_sdk:2.2.98:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:adaptive_payments_sdk:2.3.100:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:adaptive_payments_sdk:2.3.101:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:adaptive_payments_sdk:2.4.103:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:adaptive_payments_sdk:2.5.106:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:adaptive_payments_sdk:2.6.110:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:adaptive_payments_sdk:2.7.117:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:adaptive_payments_sdk:2.8.117:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:adaptive_payments_sdk:2.8.118:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:adaptive_payments_sdk:3.4.102:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:adaptive_payments_sdk:3.5.103:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:adaptive_payments_sdk:3.6.106:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:adaptive_payments_sdk:3.7.106:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:adaptive_payments_sdk:3.8.106:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:adaptive_payments_sdk:3.8.107:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:adaptive_payments_sdk:3.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:adaptive_payments_sdk:3.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:adaptive_payments_sdk:3.9.2:*:*:*:*:*:*:*

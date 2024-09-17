@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/ubuntu/nova-lxd
+  - pkg:pypi/nova-lxd

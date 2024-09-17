@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/foo2zjs
+  - pkg:deb/ubuntu/foo2zjs
+  - pkg:github/gigahawk/foo2zjs
+  - pkg:github/koenkooi/foo2zjs
+  - pkg:rpm/fedora/foo2zjs
+  - pkg:rpm/opensuse/foo2zjs

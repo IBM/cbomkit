@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ubuntu/microk8s
+  - pkg:sourceforge/microk8s.mirror

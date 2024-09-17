@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/tinymce
+  - pkg:deb/ubuntu/tinymce
+  - pkg:github/tinymce/tinymce
+  - pkg:maven/org.webjars.bower/tinymce
+  - pkg:maven/org.webjars.npm/tinymce
+  - pkg:maven/org.webjars/tinymce
+  - pkg:npm/tinymce
+  - pkg:nuget/TinyMCE

@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:p5-encode_project:p5-encode:3.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:p5-encode_project:p5-encode:3.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:p5-encode_project:p5-encode:3.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:p5-encode_project:p5-encode:3.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:p5-encode_project:p5-encode:3.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:p5-encode_project:p5-encode:3.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:p5-encode_project:p5-encode:3.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:p5-encode_project:p5-encode:3.12:*:*:*:*:*:*:*

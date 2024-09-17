@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/studio-42/elfinder
+  - pkg:maven/org.webjars.bower/elfinder
+  - pkg:maven/org.webjars.bowergithub.studio-42/elfinder
+  - pkg:sourceforge/elfinder

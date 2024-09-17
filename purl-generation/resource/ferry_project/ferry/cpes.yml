@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:ferry_project:ferry:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:ferry_project:ferry:1.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:ferry_project:ferry:1.0.0:beta1:*:*:*:*:*:*

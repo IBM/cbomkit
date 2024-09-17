@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/golang-gopkg-square-go-jose.v1
+  - pkg:deb/ubuntu/golang-gopkg-square-go-jose.v1
+  - pkg:github/go-jose/go-jose
+  - pkg:github/square/go-jose

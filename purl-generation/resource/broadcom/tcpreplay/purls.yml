@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/tcpreplay
+  - pkg:deb/ubuntu/tcpreplay
+  - pkg:github/appneta/tcpreplay
+  - pkg:rpm/fedora/tcpreplay
+  - pkg:rpm/opensuse/tcpreplay
+  - pkg:sourceforge/tcpreplay

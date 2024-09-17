@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/amitmerchant1990/electron-markdownify
+  - pkg:gitlab/lwbrown/electron-markdownify
+  - pkg:sourceforge/markdownify.mirror

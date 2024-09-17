@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/distrotech/sysklogd
+  - pkg:github/qunixorg/sysklogd

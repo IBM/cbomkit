@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/node-saml/node-saml
+  - pkg:npm/%40node-saml/node-saml

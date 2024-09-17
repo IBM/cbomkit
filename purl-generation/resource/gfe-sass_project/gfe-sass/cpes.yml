@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:gfe-sass_project:gfe-sass:1.0.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gfe-sass_project:gfe-sass:1.0.17:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gfe-sass_project:gfe-sass:1.0.18:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gfe-sass_project:gfe-sass:1.0.19:*:*:*:*:node.js:*:*

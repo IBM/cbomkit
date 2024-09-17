@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-socket.io-parser
+  - pkg:deb/ubuntu/node-socket.io-parser
+  - pkg:github/socketio/socket.io-parser
+  - pkg:maven/org.webjars.npm/socket.io-parser
+  - pkg:npm/socket.io-parser

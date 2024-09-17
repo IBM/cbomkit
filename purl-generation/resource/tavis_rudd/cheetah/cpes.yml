@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:tavis_rudd:cheetah:0.9.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:tavis_rudd:cheetah:0.9.16:*:*:*:*:*:*:*

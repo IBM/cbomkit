@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/mongo-c-driver
+  - pkg:deb/ubuntu/mongo-c-driver
+  - pkg:github/mongodb/mongo-c-driver
+  - pkg:rpm/fedora/mongo-c-driver
+  - pkg:rpm/opensuse/mongo-c-driver

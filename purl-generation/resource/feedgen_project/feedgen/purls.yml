@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/pypi/feedgen
+  - pkg:github/lkiesow/python-feedgen
+  - pkg:pypi/feedgen
+  - pkg:rpm/fedora/python-feedgen
+  - pkg:rpm/opensuse/python-feedgen

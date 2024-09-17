@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/devopsfaith/krakend
+  - pkg:github/krakendio/krakend-ce

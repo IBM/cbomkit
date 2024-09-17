@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:exponent:exponent_cms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:exponent:exponent_cms:0.94:*:*:*:*:*:*:*
+  - cpe:2.3:a:exponent:exponent_cms:0.95:*:*:*:*:*:*:*
+  - cpe:2.3:a:exponent:exponent_cms:0.96.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:exponent:exponent_cms:0.96.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:exponent:exponent_cms:0.96.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:exponent:exponent_cms:0.96.5_rc1:*:*:*:*:*:*:*
+  - cpe:2.3:a:exponent:exponent_cms:0.96.6_alpha:*:*:*:*:*:*:*

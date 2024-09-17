@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openeuler-mirror/isula-build
+  - pkg:golang/github.com/openeuler-mirror/isula-build

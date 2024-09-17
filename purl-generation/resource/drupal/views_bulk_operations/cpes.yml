@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:drupal:views_bulk_operations:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:views_bulk_operations:5.x-1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:views_bulk_operations:5.x-1.0beta1:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:views_bulk_operations:5.x-1.0beta3:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:views_bulk_operations:5.x-1.0beta4:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:views_bulk_operations:5.x-1.0beta5:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:views_bulk_operations:5.x-1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:views_bulk_operations:6.x-1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:views_bulk_operations:6.x-1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:views_bulk_operations:6.x-1.2:*:*:*:*:*:*:*

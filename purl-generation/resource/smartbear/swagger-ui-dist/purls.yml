@@ -1,0 +1,6 @@
+purls:
+  - pkg:composer/swagger-api/swagger-ui
+  - pkg:github/swagger-api/swagger-ui
+  - pkg:golang/github.com/swagger-api/swagger-ui
+  - pkg:maven/org.webjars.npm/swagger-ui-dist
+  - pkg:npm/swagger-ui-dist

@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:vaadin:vaadin-checkbox-flow:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-checkbox-flow:14.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-checkbox-flow:14.6.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-checkbox-flow:18.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-checkbox-flow:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-checkbox-flow:20.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-checkbox-flow:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vaadin:vaadin-checkbox-flow:4.0.1:*:*:*:*:*:*:*

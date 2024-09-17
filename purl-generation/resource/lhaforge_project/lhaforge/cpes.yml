@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:lhaforge_project:lhaforge:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lhaforge_project:lhaforge:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lhaforge_project:lhaforge:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lhaforge_project:lhaforge:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lhaforge_project:lhaforge:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lhaforge_project:lhaforge:1.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lhaforge_project:lhaforge:1.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:lhaforge_project:lhaforge:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lhaforge_project:lhaforge:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lhaforge_project:lhaforge:1.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:lhaforge_project:lhaforge:1.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:lhaforge_project:lhaforge:1.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:lhaforge_project:lhaforge:1.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:lhaforge_project:lhaforge:1.6.6:*:*:*:*:*:*:*

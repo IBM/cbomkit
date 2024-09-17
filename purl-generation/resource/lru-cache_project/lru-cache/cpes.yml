@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:lru-cache_project:lru-cache:0.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:lru-cache_project:lru-cache:0.0.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:lru-cache_project:lru-cache:0.0.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:lru-cache_project:lru-cache:0.0.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:lru-cache_project:lru-cache:0.0.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:lru-cache_project:lru-cache:0.0.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:lru-cache_project:lru-cache:0.0.7:*:*:*:*:rust:*:*
+  - cpe:2.3:a:lru-cache_project:lru-cache:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:lru-cache_project:lru-cache:0.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:lru-cache_project:lru-cache:0.1.2:*:*:*:*:rust:*:*

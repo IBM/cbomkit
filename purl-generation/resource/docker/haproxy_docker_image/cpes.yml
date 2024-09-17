@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:docker:haproxy_docker_image:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:haproxy_docker_image:1.5.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:haproxy_docker_image:1.8.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:haproxy_docker_image:1.8.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:haproxy_docker_image:1.8.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:haproxy_docker_image:1.8.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:haproxy_docker_image:1.8.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:haproxy_docker_image:1.8.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:haproxy_docker_image:1.8.18:*:*:*:*:*:*:*

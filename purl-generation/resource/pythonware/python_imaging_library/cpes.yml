@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:pythonware:python_imaging_library:1.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:pythonware:python_imaging_library:1.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:pythonware:python_imaging_library:1.1.7:*:*:*:*:*:*:*

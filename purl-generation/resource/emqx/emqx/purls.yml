@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/emqx/emqx
+  - pkg:github/emqx/emqx
+  - pkg:sourceforge/emqx

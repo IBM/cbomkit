@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/renante_entera/camaleon-cms
+  - pkg:gem/camaleon_cms
+  - pkg:github/owen2345/camaleon-cms

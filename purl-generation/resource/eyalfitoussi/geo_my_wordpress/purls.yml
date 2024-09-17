@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/fitoussi/geo-my-wp
+  - pkg:github/wp-plugins/geo-my-wp
+  - pkg:github/wpplugins/geo-my-wp

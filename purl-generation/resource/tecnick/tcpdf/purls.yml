@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/tcpdf
+  - pkg:deb/ubuntu/tcpdf
+  - pkg:github/tecnickcom/tcpdf
+  - pkg:rpm/fedora/php-tcpdf
+  - pkg:rpm/opensuse/php7-tcpdf
+  - pkg:sourceforge/tcpdf

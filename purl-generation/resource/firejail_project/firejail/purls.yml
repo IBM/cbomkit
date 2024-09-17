@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/firejail
+  - pkg:deb/ubuntu/firejail
+  - pkg:github/netblue30/firejail
+  - pkg:rpm/fedora/firejail
+  - pkg:rpm/opensuse/firejail
+  - pkg:sourceforge/firejail

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/manolo/gwtupload
+  - pkg:maven/com.googlecode.gwtupload/gwtupload-project

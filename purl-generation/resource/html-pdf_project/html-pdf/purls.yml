@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/marcbachmann/node-html-pdf
+  - pkg:maven/org.webjars.npm/html-pdf`
+  - pkg:npm/html-pdf

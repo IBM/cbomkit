@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:php_firstpost:php_firstpost:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:php_firstpost:php_firstpost:0.1:*:*:*:*:*:*:*

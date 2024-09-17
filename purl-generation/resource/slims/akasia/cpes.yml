@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:slims:akasia:8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:akasia:8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:akasia:8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:akasia:8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:akasia:8.3.1:*:*:*:*:*:*:*

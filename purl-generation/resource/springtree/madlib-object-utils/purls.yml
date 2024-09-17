@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/qwerios/madlib-object-utils
+  - pkg:npm/madlib-object-utils

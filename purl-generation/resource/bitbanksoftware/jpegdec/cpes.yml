@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:bitbanksoftware:jpegdec:1.2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitbanksoftware:jpegdec:2022-06-29:*:*:*:*:*:*:*

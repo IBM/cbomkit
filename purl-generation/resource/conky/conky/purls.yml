@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/conky
+  - pkg:deb/ubuntu/conky
+  - pkg:github/brndnmtthws/conky
+  - pkg:rpm/fedora/conky
+  - pkg:rpm/opensuse/conky
+  - pkg:sourceforge/conky.mirror

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:discourse:mermaid:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:discourse:mermaid:1.0.0:*:*:*:*:*:*:*

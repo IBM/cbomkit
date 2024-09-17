@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/stefankueng/tortoisesvn
+  - pkg:github/svn2github/tortoisesvn
+  - pkg:github/tortoisegit/tortoisesvn
+  - pkg:sourceforge/tortoisesvn

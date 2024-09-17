@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/dhirajbodicherla/atlassian-connect-express
+  - pkg:github/qas-labs/atlassian-connect-express
+  - pkg:npm/atlassian-connect-express

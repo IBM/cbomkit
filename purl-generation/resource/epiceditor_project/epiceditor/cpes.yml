@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:epiceditor_project:epiceditor:0.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:epiceditor_project:epiceditor:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:epiceditor_project:epiceditor:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:epiceditor_project:epiceditor:0.1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:epiceditor_project:epiceditor:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:epiceditor_project:epiceditor:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:epiceditor_project:epiceditor:0.2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:epiceditor_project:epiceditor:0.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:epiceditor_project:epiceditor:0.2.3:*:*:*:*:*:*:*

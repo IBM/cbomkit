@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:modx:fred:1.0.0:beta2:*:*:*:modx:*:*
+  - cpe:2.3:a:modx:fred:1.0.0:beta4:*:*:*:modx:*:*
+  - cpe:2.3:a:modx:fred:1.0.0:-:*:*:*:modx:*:*
+  - cpe:2.3:a:modx:fred:1.0.0:pl:*:*:*:modx:*:*
+  - cpe:2.3:a:modx:fred:1.0.0:rc1:*:*:*:modx:*:*
+  - cpe:2.3:a:modx:fred:1.0.0:rc2:*:*:*:modx:*:*
+  - cpe:2.3:a:modx:fred:1.0.0:rc:*:*:*:modx:*:*
+  - cpe:2.3:a:modx:fred:1.1.0:beta2:*:*:*:modx:*:*
+  - cpe:2.3:a:modx:fred:1.1.0:beta4:*:*:*:modx:*:*
+  - cpe:2.3:a:modx:fred:1.1.0:pl:*:*:*:modx:*:*
+  - cpe:2.3:a:modx:fred:1.1.0:rc2:*:*:*:modx:*:*
+  - cpe:2.3:a:modx:fred:1.1.0:rc3:*:*:*:modx:*:*
+  - cpe:2.3:a:modx:fred:1.1.0:rc:*:*:*:modx:*:*
+  - cpe:2.3:a:modx:fred:1.1.1:beta2:*:*:*:modx:*:*
+  - cpe:2.3:a:modx:fred:1.1.1:beta:*:*:*:modx:*:*
+  - cpe:2.3:a:modx:fred:1.1.1:pl:*:*:*:modx:*:*

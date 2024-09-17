@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/openexr
+  - pkg:deb/ubuntu/openexr
+  - pkg:github/academysoftwarefoundation/openexr
+  - pkg:github/mitsuba-renderer/openexr
+  - pkg:github/val-verde/openexr
+  - pkg:gnu/openexr
+  - pkg:rpm/centos/openexr
+  - pkg:rpm/fedora/openexr
+  - pkg:rpm/opensuse/openexr

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/aerospike/aerospike-client-java
+  - pkg:maven/com.aerospike/aerospike-client

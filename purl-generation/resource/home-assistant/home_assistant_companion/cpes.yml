@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:home-assistant:home_assistant_companion:*:*:*:*:*:android:*:*
+  - cpe:2.3:a:home-assistant:home_assistant_companion:-:*:*:*:*:android:*:*
+  - cpe:2.3:a:home-assistant:home_assistant_companion:*:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:home-assistant:home_assistant_companion:-:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:home-assistant:home_assistant_companion:*:*:*:*:*:macos:*:*
+  - cpe:2.3:a:home-assistant:home_assistant_companion:-:*:*:*:*:macos:*:*

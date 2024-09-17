@@ -1,0 +1,5 @@
+purls:
+  - pkg:cpan/net-ping-external
+  - pkg:github/chorny/net-ping-external
+  - pkg:rpm/fedora/perl-net-ping-external
+  - pkg:rpm/opensuse/perl-net-ping-external

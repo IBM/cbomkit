@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/cifs-utils
+  - pkg:deb/ubuntu/cifs-utils
+  - pkg:github/distrotech/cifs-utils
+  - pkg:github/piastry/cifs-utils
+  - pkg:gitlab/redhat/cifs-utils
+  - pkg:rpm/fedora/cifs-utils
+  - pkg:rpm/opensuse/cifs-utils

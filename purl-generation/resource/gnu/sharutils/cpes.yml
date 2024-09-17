@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:gnu:sharutils:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:sharutils:4.15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:sharutils:4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:sharutils:4.2.1:*:*:*:*:*:*:*

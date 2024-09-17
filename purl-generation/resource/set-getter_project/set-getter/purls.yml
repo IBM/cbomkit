@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-set-getter
+  - pkg:deb/ubuntu/node-set-getter
+  - pkg:github/doowb/set-getter
+  - pkg:maven/org.webjars.npm/set-getter
+  - pkg:npm/set-getter

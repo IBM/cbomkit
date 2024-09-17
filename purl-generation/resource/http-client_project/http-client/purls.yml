@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mjackson/http-client
+  - pkg:npm/http-client

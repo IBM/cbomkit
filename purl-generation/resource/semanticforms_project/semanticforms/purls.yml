@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jamesmontalvo3/semanticforms
+  - pkg:github/mediawiki4intranet/semanticforms
+  - pkg:rpm/opensuse/mediawiki_1_27-semanticforms

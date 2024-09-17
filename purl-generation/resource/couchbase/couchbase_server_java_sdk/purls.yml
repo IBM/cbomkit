@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/couchbase/couchbase-jvm-clients
+  - pkg:maven/com.couchbase.client/couchbase-jvm-clients

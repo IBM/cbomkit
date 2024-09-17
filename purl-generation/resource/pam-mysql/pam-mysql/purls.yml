@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/libpam-mysql
+  - pkg:deb/ubuntu/libpam-mysql
+  - pkg:github/nigelcunningham/pam-mysql
+  - pkg:sourceforge/pam-mysql

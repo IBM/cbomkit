@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/pallets/werkzeug
+  - pkg:pypi/werkzeug
+  - pkg:rpm/fedora/python-werkzeug
+  - pkg:rpm/opensuse/python-werkzeug
+  - pkg:sourceforge/werkzeug.mirror

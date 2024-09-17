@@ -1,0 +1,13 @@
+purls:
+  - pkg:deb/debian/protobuf
+  - pkg:deb/ubuntu/protobuf
+  - pkg:gem/google-protobuf
+  - pkg:github/protocolbuffers/protobuf
+  - pkg:googlesource/protobuf
+  - pkg:maven/com.google.protobuf/protobuf-java
+  - pkg:nuget/Google.Protobuf
+  - pkg:pypi/protobuf
+  - pkg:rpm/centos/protobuf
+  - pkg:rpm/fedora/protobuf
+  - pkg:rpm/opensuse/protobuf
+  - pkg:sourceforge/protocol-buffers.mirror

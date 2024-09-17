@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/faad2
+  - pkg:deb/ubuntu/faad2
+  - pkg:github/knik0/faad2
+  - pkg:github/ralph-irving/faad2
+  - pkg:rpm/opensuse/faad2
+  - pkg:sourceforge/faac

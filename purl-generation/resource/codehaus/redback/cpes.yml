@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:codehaus:redback:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:codehaus:redback:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:codehaus:redback:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:codehaus:redback:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:codehaus:redback:1.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:codehaus:redback:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:codehaus:redback:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:codehaus:redback:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:codehaus:redback:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:codehaus:redback:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:codehaus:redback:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:codehaus:redback:1.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:codehaus:redback:1.2:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:codehaus:redback:1.2:beta2:*:*:*:*:*:*

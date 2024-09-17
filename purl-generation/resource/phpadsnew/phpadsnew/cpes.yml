@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:phpadsnew:phpadsnew:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpadsnew:phpadsnew:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpadsnew:phpadsnew:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpadsnew:phpadsnew:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpadsnew:phpadsnew:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpadsnew:phpadsnew:2.0.4_pr1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpadsnew:phpadsnew:2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpadsnew:phpadsnew:2.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpadsnew:phpadsnew:2.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpadsnew:phpadsnew:2.0.7_rc1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpadsnew:phpadsnew:2.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpadsnew:phpadsnew:2.0_beta5:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpadsnew:phpadsnew:2.0_beta6:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpadsnew:phpadsnew:2_dev_2001-09-30:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpadsnew:phpadsnew:2_dev_2001-10-09:*:*:*:*:*:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/facebookarchive/ini4j
+  - pkg:maven/org.ini4j/ini4j
+  - pkg:rpm/opensuse/ini4j
+  - pkg:sourceforge/ini4j

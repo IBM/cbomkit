@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/directus/directus
+  - pkg:github/directus/directus
+  - pkg:golang/github.com/directus/directus

@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:wp-plugins:wp-print:2.00:a:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-plugins:wp-print:2.00:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-plugins:wp-print:2.01:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-plugins:wp-print:2.02:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-plugins:wp-print:2.03:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-plugins:wp-print:2.04:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-plugins:wp-print:2.05:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-plugins:wp-print:2.06:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-plugins:wp-print:2.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-plugins:wp-print:2.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-plugins:wp-print:2.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-plugins:wp-print:2.30:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-plugins:wp-print:2.31:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-plugins:wp-print:2.40:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-plugins:wp-print:2.50:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-plugins:wp-print:2.51:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-plugins:wp-print:2.52:*:*:*:*:wordpress:*:*

@@ -1,0 +1,8 @@
+purls:
+  - pkg:cpan/yaml-libyaml
+  - pkg:deb/debian/libyaml
+  - pkg:deb/ubuntu/libyaml
+  - pkg:github/yaml/libyaml
+  - pkg:pypi/pylibyaml
+  - pkg:rpm/fedora/libyaml
+  - pkg:rpm/opensuse/libyaml

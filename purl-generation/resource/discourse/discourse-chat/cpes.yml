@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:discourse:discourse-chat:0.3:*:*:*:*:discourse:*:*
+  - cpe:2.3:a:discourse:discourse-chat:0.4:*:*:*:*:discourse:*:*
+  - cpe:2.3:a:discourse:discourse-chat:-:*:*:*:*:discourse:*:*

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/x2goserver
+  - pkg:deb/ubuntu/x2goserver
+  - pkg:github/ahesford/x2goserver
+  - pkg:github/binao/x2goserver
+  - pkg:github/eugenesan/x2goserver
+  - pkg:rpm/fedora/x2goserver
+  - pkg:rpm/opensuse/x2goserver

@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:xakuro:xo_slider:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:xakuro:xo_slider:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xakuro:xo_slider:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xakuro:xo_slider:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xakuro:xo_slider:3.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xakuro:xo_slider:3.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xakuro:xo_slider:3.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xakuro:xo_slider:3.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xakuro:xo_slider:3.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xakuro:xo_slider:3.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xakuro:xo_slider:3.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xakuro:xo_slider:3.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xakuro:xo_slider:3.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xakuro:xo_slider:-:*:*:*:*:wordpress:*:*

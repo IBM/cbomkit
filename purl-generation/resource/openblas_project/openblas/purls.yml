@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/xianyi/openblas
+  - pkg:gitlab/molcas/openblas
+  - pkg:nuget/OpenBLAS
+  - pkg:rpm/fedora/openblas
+  - pkg:sourceforge/openblas

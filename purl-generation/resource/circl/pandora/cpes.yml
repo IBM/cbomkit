@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:circl:pandora:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:circl:pandora:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:circl:pandora:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:circl:pandora:0.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:circl:pandora:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:circl:pandora:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:circl:pandora:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:circl:pandora:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:circl:pandora:1.3.0:*:*:*:*:*:*:*

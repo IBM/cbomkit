@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/johand78/motioneyeos
+  - pkg:github/motioneye-project/motioneyeos
+  - pkg:sourceforge/motioneyeos.mirror

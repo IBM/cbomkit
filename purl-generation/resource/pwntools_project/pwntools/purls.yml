@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/pwntools/pwntools
+  - pkg:github/gallopsled/pwntools
+  - pkg:pypi/pwntools
+  - pkg:rpm/fedora/python-pwntools
+  - pkg:sourceforge/pwntools.mirror

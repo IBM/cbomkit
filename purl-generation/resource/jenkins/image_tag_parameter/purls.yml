@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/image-tag-parameter-plugin
+  - pkg:github/maduma/image-tag-parameter-jenkins

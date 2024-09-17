@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libxcursor
+  - pkg:deb/ubuntu/libxcursor
+  - pkg:github/freedesktop/libxcursor
+  - pkg:github/freedesktop/xorg-libxcursor
+  - pkg:github/val-verde/xorg-libxcursor
+  - pkg:rpm/centos/libxcursor
+  - pkg:rpm/fedora/libxcursor
+  - pkg:rpm/opensuse/libxcursor

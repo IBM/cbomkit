@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/git-lfs/git-lfs
+  - pkg:golang/github.com/git-lfs/git-lfs

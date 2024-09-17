@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:ipinfusion:ocnos:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ipinfusion:ocnos:1.3.3.145:*:*:*:*:*:*:*
+  - cpe:2.3:a:ipinfusion:ocnos:1.3.4:*:*:*:*:*:*:*

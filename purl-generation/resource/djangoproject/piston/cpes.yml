@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:djangoproject:piston:0.2.2.0:*:*:*:*:*:*:*

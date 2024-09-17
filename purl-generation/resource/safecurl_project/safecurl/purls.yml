@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/j0k3r/safecurl
+  - pkg:github/vanilla/safecurl
+  - pkg:github/wkcaj/safecurl

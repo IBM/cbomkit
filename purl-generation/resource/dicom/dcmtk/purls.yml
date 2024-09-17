@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/svetoslav_nikolov/dcmtk
+  - pkg:deb/debian/dcmtk
+  - pkg:deb/ubuntu/dcmtk
+  - pkg:github/dcmtk/dcmtk
+  - pkg:rpm/fedora/dcmtk
+  - pkg:rpm/opensuse/dcmtk

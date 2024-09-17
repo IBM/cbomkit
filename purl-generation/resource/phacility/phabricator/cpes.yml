@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:phacility:phabricator:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phacility:phabricator:2017-11-10:*:*:*:*:*:*:*

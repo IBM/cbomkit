@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:nodesforum:nodesforum:1.033:*:*:*:*:*:*:*
+  - cpe:2.3:a:nodesforum:nodesforum:1.045:*:*:*:*:*:*:*

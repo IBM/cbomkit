@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:bubble_fireworks_project:bubble_fireworks:0.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:bubble_fireworks_project:bubble_fireworks:0.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:bubble_fireworks_project:bubble_fireworks:0.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:bubble_fireworks_project:bubble_fireworks:0.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:bubble_fireworks_project:bubble_fireworks:0.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:bubble_fireworks_project:bubble_fireworks:0.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:bubble_fireworks_project:bubble_fireworks:0.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:bubble_fireworks_project:bubble_fireworks:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bubble_fireworks_project:bubble_fireworks:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bubble_fireworks_project:bubble_fireworks:2021.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:bubble_fireworks_project:bubble_fireworks:2021.build-snapshot:*:*:*:*:*:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/linux-application-whitelisting/fapolicyd
+  - pkg:rpm/centos/fapolicyd
+  - pkg:rpm/fedora/fapolicyd
+  - pkg:rpm/opensuse/fapolicyd

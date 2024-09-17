@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/strong_password
+  - pkg:github/bdmac/strong_password
+  - pkg:rpm/opensuse/rubygem-strong_password

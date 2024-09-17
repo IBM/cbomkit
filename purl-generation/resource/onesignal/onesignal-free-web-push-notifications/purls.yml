@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/onesignal/onesignal-wordpress-plugin
+  - pkg:github/wp-plugins/onesignal-free-web-push-notifications

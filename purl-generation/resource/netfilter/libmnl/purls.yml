@@ -1,0 +1,11 @@
+purls:
+  - pkg:bitbucket/lamb0145/libmnl
+  - pkg:bitbucket/xskelettx/libmnl
+  - pkg:deb/debian/libmnl
+  - pkg:deb/ubuntu/libmnl
+  - pkg:github/justmirror/libmnl
+  - pkg:github/vyos/libmnl
+  - pkg:gitlab/redhat/libmnl
+  - pkg:rpm/centos/libmnl
+  - pkg:rpm/fedora/libmnl
+  - pkg:rpm/opensuse/libmnl

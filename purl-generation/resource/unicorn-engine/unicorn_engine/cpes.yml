@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:1.0.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:1.0.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:1.0.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:1.0.2:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:1.0.2:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:1.0.2:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:1.0.2:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:1.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:1.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:2.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:2.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:2.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:2.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:2.0.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:2.0.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:2.0.0:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:unicorn-engine:unicorn_engine:2.0.0:rc7:*:*:*:*:*:*

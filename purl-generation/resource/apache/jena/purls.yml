@@ -1,0 +1,10 @@
+purls:
+  - pkg:apache/jena
+  - pkg:bitbucket/abhranilfk/jena
+  - pkg:deb/debian/libapache-jena-java
+  - pkg:deb/ubuntu/libapache-jena-java
+  - pkg:gem/jena
+  - pkg:github/apache/jena
+  - pkg:maven/org.apache.jena/jena
+  - pkg:maven/org.apache.jena/jena-core
+  - pkg:sourceforge/jena

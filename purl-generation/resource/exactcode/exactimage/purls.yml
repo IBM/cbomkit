@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/exactimage
+  - pkg:deb/ubuntu/exactimage

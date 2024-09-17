@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:poeditor:poeditor:0.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:poeditor:poeditor:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:poeditor:poeditor:-:*:*:*:*:wordpress:*:*

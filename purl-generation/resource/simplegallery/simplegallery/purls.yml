@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/simplemobiletools/simple-gallery
+  - pkg:golang/github.com/simplemobiletools/simple-gallery

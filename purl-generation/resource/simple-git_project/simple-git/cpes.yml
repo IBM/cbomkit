@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:simple-git_project:simple-git:3.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.10.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.11.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.12.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.13.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.14.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.14.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.15.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.15.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.2.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.2.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.7.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:3.9.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:simple-git_project:simple-git:-:*:*:*:*:node.js:*:*

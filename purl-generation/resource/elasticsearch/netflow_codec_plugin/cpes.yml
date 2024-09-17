@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:elasticsearch:netflow_codec_plugin:2.3.2:*:*:*:*:logstash:*:*

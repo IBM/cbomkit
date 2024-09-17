@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/eyed3
+  - pkg:deb/ubuntu/eyed3
+  - pkg:github/nicfit/eyed3
+  - pkg:pypi/eyed3
+  - pkg:rpm/fedora/python-eyed3
+  - pkg:rpm/opensuse/eyed3

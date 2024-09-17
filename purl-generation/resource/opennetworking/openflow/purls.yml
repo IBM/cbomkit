@@ -1,0 +1,6 @@
+purls:
+  - pkg:cpan/net::openflow
+  - pkg:gem/openflow-controller
+  - pkg:github/jpagex/openflow-controller
+  - pkg:maven/org.onosproject/onos-openflow
+  - pkg:npm/openflow

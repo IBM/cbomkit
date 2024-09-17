@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:jenkins:build_pipeline:1.4.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:build_pipeline:1.4.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:build_pipeline:1.4.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:build_pipeline:1.4.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:build_pipeline:1.4.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:build_pipeline:1.4.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:build_pipeline:1.4.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:build_pipeline:1.4.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:build_pipeline:1.4.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:build_pipeline:1.5.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:build_pipeline:1.5.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:build_pipeline:1.5.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:build_pipeline:1.5.3.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:build_pipeline:1.5.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:build_pipeline:1.5.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:build_pipeline:1.5.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:build_pipeline:1.5.7.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:build_pipeline:1.5.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:build_pipeline:1.5.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:build_pipeline:-:*:*:*:*:jenkins:*:*

@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:openstack:python-keystoneclient:0.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:python-keystoneclient:0.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:python-keystoneclient:0.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:python-keystoneclient:0.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:python-keystoneclient:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:python-keystoneclient:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:python-keystoneclient:0.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:python-keystoneclient:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:python-keystoneclient:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:python-keystoneclient:1.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:python-keystoneclient:1.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:python-keystoneclient:1.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:python-keystoneclient:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:python-keystoneclient:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:python-keystoneclient:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:python-keystoneclient:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:python-keystoneclient:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:python-keystoneclient:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:python-keystoneclient:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:python-keystoneclient:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:python-keystoneclient:2.3.2:*:*:*:*:*:*:*

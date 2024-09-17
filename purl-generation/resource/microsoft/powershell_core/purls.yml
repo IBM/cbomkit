@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/powershell/powershell
+  - pkg:gitlab/kalilinux/powershell
+  - pkg:nuget/PowerShell
+  - pkg:sourceforge/powershell.mirror

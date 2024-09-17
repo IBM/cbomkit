@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/orientechnologies/orientdb
+  - pkg:maven/com.orientechnologies/orientdb-parent
+  - pkg:rpm/opensuse/orientdb

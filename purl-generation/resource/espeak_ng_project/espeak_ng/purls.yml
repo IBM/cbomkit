@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/espeak-ng
+  - pkg:deb/ubuntu/espeak-ng
+  - pkg:github/espeak-ng/espeak-ng
+  - pkg:rpm/fedora/espeak-ng
+  - pkg:rpm/opensuse/espeak-ng

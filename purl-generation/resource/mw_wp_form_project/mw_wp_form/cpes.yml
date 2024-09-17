@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:mw_wp_form_project:mw_wp_form:4.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mw_wp_form_project:mw_wp_form:*:*:*:*:*:wordpress:*:*

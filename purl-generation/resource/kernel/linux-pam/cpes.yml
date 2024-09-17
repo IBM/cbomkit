@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:kernel:linux-pam:1.3.0:*:*:*:*:*:*:*

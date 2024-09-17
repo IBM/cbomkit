@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/dwisiswant0/apkleaks
+  - pkg:github/dwisiswant0/apkleaks
+  - pkg:pypi/apkleaks

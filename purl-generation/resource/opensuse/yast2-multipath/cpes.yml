@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:opensuse:yast2-multipath:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:yast2-multipath:4.1.1:*:*:*:*:*:*:*

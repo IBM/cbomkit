@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/wireless-tools
+  - pkg:deb/ubuntu/wireless-tools
+  - pkg:github/hewlettpackard/wireless-tools
+  - pkg:rpm/fedora/wireless-tools
+  - pkg:rpm/opensuse/wireless-tools

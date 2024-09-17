@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tianmajs/tianma-static
+  - pkg:npm/tianma-static

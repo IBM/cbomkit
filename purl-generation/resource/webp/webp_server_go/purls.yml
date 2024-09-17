@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/webpsh/webp_server_go
+  - pkg:github/webp-sh/webp_server_go

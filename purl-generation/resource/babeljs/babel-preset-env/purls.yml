@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/babel/babel-preset-env
+  - pkg:npm/babel-preset-env

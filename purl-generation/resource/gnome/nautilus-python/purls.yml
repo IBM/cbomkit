@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gnome/nautilus-python
+  - pkg:gitlab/gnome/nautilus-python

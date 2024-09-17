@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/python-exotel
+  - pkg:deb/ubuntu/python-exotel
+  - pkg:github/sarathsp06/exotel-py
+  - pkg:pypi/exotel

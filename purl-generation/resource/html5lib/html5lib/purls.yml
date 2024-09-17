@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/html5lib
+  - pkg:deb/ubuntu/html5lib
+  - pkg:github/html5lib/html5lib-python
+  - pkg:pypi/html5lib
+  - pkg:rpm/fedora/python-html5lib
+  - pkg:rpm/opensuse/python-html5lib

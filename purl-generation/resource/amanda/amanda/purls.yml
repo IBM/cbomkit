@@ -1,0 +1,10 @@
+purls:
+  - pkg:bitbucket/acgt/amanda
+  - pkg:deb/debian/amanda
+  - pkg:deb/ubuntu/amanda
+  - pkg:github/zmanda/amanda
+  - pkg:gitlab/redhat/amanda
+  - pkg:rpm/centos/amanda
+  - pkg:rpm/fedora/amanda
+  - pkg:rpm/opensuse/amanda
+  - pkg:sourceforge/amanda

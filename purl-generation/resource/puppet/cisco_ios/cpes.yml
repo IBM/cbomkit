@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:puppet:cisco_ios:0.1.0:*:*:*:*:puppet:*:*
+  - cpe:2.3:a:puppet:cisco_ios:0.2.0:*:*:*:*:puppet:*:*
+  - cpe:2.3:a:puppet:cisco_ios:0.3.0:*:*:*:*:puppet:*:*
+  - cpe:2.3:a:puppet:cisco_ios:0.4.0:*:*:*:*:puppet:*:*
+  - cpe:2.3:a:puppet:cisco_ios:0.5.0:*:*:*:*:puppet:*:*
+  - cpe:2.3:a:puppet:cisco_ios:0.6.0:*:*:*:*:puppet:*:*
+  - cpe:2.3:a:puppet:cisco_ios:0.6.1:*:*:*:*:puppet:*:*
+  - cpe:2.3:a:puppet:cisco_ios:0.6.2:*:*:*:*:puppet:*:*
+  - cpe:2.3:a:puppet:cisco_ios:1.0.0:*:*:*:*:puppet:*:*
+  - cpe:2.3:a:puppet:cisco_ios:1.1.0:*:*:*:*:puppet:*:*
+  - cpe:2.3:a:puppet:cisco_ios:1.2.0:*:*:*:*:puppet:*:*

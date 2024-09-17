@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:mark_pilgrim:feedparser:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mark_pilgrim:feedparser:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mark_pilgrim:feedparser:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mark_pilgrim:feedparser:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mark_pilgrim:feedparser:3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mark_pilgrim:feedparser:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mark_pilgrim:feedparser:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mark_pilgrim:feedparser:4.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mark_pilgrim:feedparser:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mark_pilgrim:feedparser:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mark_pilgrim:feedparser:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mark_pilgrim:feedparser:5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mark_pilgrim:feedparser:5.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mark_pilgrim:feedparser:5.1.2:*:*:*:*:*:*:*

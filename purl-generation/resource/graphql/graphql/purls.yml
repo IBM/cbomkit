@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/graphql/graphql-js
+  - pkg:maven/org.webjars.npm/graphql
+  - pkg:npm/graphql
+  - pkg:sourceforge/graphql.mirror

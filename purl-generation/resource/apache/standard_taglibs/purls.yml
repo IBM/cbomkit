@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/tomcat
+  - pkg:github/apache/tomcat-taglibs-standard
+  - pkg:maven/org.apache.taglibs/org.apache.taglibs.standard

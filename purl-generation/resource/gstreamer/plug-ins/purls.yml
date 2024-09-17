@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gstreamer/gst-plugins-good
+  - pkg:golang/github.com/gstreamer/gst-plugins-good

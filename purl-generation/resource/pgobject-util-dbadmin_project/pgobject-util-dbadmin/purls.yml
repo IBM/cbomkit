@@ -1,0 +1,6 @@
+purls:
+  - pkg:cpan/pgobject-util-dbadmin
+  - pkg:deb/debian/libpgobject-util-dbadmin-perl
+  - pkg:deb/ubuntu/libpgobject-util-dbadmin-perl
+  - pkg:github/ledgersmb/pgobject-util-dbadmin
+  - pkg:rpm/opensuse/perl-pgobject-util-dbadmin

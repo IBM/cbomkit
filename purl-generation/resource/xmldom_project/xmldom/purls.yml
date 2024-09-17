@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/node-xmldom
+  - pkg:deb/ubuntu/node-xmldom
+  - pkg:github/jindw/xmldom
+  - pkg:github/xmldom/xmldom
+  - pkg:maven/org.webjars.npm/xmldom
+  - pkg:maven/org.webjars.npm/xmldom__xmldom
+  - pkg:npm/xmldom
+  - pkg:npm/%xmldom/xmldom
+  - pkg:rpm/fedora/nodejs-xmldom

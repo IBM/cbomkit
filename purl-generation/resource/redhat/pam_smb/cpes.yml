@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:redhat:pam_smb:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:pam_smb:1.1.6-2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:pam_smb:1.1.6-2:*:i386:*:*:*:*:*
+  - cpe:2.3:a:redhat:pam_smb:1.1.6-2:*:ia64:*:*:*:*:*
+  - cpe:2.3:a:redhat:pam_smb:1.1.6-5:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:pam_smb:1.1.6-5:*:i386:*:*:*:*:*
+  - cpe:2.3:a:redhat:pam_smb:1.1.6-7:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:pam_smb:1.1.6-7:*:i386:*:*:*:*:*

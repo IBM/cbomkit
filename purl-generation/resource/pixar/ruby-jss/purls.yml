@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/ruby-jss
+  - pkg:github/pixaranimationstudios/ruby-jss

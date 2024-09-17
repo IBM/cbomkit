@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/relan/exfat
+  - pkg:golang/github.com/relan/exfat

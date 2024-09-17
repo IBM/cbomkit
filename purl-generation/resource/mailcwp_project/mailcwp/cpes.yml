@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:mailcwp_project:mailcwp:1.100:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mailcwp_project:mailcwp:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mailcwp_project:mailcwp:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mailcwp_project:mailcwp:1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mailcwp_project:mailcwp:1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mailcwp_project:mailcwp:1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mailcwp_project:mailcwp:1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mailcwp_project:mailcwp:1.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mailcwp_project:mailcwp:1.91:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mailcwp_project:mailcwp:1.92:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mailcwp_project:mailcwp:1.93:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mailcwp_project:mailcwp:1.95:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mailcwp_project:mailcwp:1.96:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mailcwp_project:mailcwp:1.97:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mailcwp_project:mailcwp:1.98:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mailcwp_project:mailcwp:1.99:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mailcwp_project:mailcwp:1.9:*:*:*:*:wordpress:*:*

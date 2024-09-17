@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/sqlgrey
+  - pkg:deb/ubuntu/sqlgrey
+  - pkg:github/jessereynolds/sqlgrey
+  - pkg:rpm/fedora/sqlgrey
+  - pkg:rpm/opensuse/sqlgrey
+  - pkg:sourceforge/sqlgrey

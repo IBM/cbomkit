@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/react-atomic/react-atomic-organism
+  - pkg:npm/set-object-value

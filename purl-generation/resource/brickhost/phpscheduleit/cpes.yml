@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:brickhost:phpscheduleit:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:brickhost:phpscheduleit:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:brickhost:phpscheduleit:1.0.0rc1:*:*:*:*:*:*:*
+  - cpe:2.3:a:brickhost:phpscheduleit:1.0_rc1:*:*:*:*:*:*:*
+  - cpe:2.3:a:brickhost:phpscheduleit:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:brickhost:phpscheduleit:1.2.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:brickhost:phpscheduleit:1.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:brickhost:phpscheduleit:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:brickhost:phpscheduleit:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:brickhost:phpscheduleit:1.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:brickhost:phpscheduleit:1.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:brickhost:phpscheduleit:1.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:brickhost:phpscheduleit:1.2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:brickhost:phpscheduleit:1.2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:brickhost:phpscheduleit:1.2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:brickhost:phpscheduleit:1.2.9:*:*:*:*:*:*:*

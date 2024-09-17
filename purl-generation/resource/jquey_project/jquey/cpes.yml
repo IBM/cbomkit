@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jquey_project:jquey:0.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jquey_project:jquey:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jquey_project:jquey:1.0.1:*:*:*:*:node.js:*:*

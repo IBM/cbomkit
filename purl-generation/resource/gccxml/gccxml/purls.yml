@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gccxml/gccxml
+  - pkg:rpm/fedora/gccxml

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/wayfair/git-parse
+  - pkg:maven/org.webjars.npm/git-parse
+  - pkg:npm/git-parse

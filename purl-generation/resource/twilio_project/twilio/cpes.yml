@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:twilio_project:twilio:7.x-1.1:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:twilio_project:twilio:7.x-1.2:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:twilio_project:twilio:7.x-1.4:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:twilio_project:twilio:7.x-1.5:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:twilio_project:twilio:7.x-1.6:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:twilio_project:twilio:7.x-1.8:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:twilio_project:twilio:7.x-1.9:*:*:*:*:drupal:*:*

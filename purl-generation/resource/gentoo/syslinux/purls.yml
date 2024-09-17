@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/syslinux
+  - pkg:deb/ubuntu/syslinux
+  - pkg:github/genec/syslinux
+  - pkg:github/joyent/syslinux
+  - pkg:github/sha0/syslinux
+  - pkg:gitlab/kalilinux/syslinux
+  - pkg:gitlab/redhat/syslinux
+  - pkg:rpm/centos/syslinux
+  - pkg:rpm/fedora/syslinux
+  - pkg:rpm/opensuse/syslinux

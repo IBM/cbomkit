@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/anynines/a9s-mongodb-app-old
+  - pkg:github/lucaspinto/a9s_mongodb_app

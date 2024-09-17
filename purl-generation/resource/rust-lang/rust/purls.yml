@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/rust-all
+  - pkg:deb/ubuntu/rust-src
+  - pkg:github/rust-lang/rust
+  - pkg:sourceforge/rust.mirror

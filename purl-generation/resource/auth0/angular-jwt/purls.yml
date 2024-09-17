@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/auth0/angular-jwt
+  - pkg:maven/org.webjars.bower/angular-jwt
+  - pkg:npm/angular-jwt

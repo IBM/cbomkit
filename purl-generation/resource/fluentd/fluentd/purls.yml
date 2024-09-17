@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/fluentd
+  - pkg:gem/fluentd
+  - pkg:github/fluent/fluentd
+  - pkg:maven/io.fabric8.devops.apps/fluentd
+  - pkg:rpm/opensuse/rubygem-fluentd

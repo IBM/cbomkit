@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:trailofbits:uthenticode:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:uthenticode:1.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:uthenticode:1.0.0:pre1:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:uthenticode:1.0.0:pre2:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:uthenticode:1.0.0:pre3:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:uthenticode:1.0.0:pre4:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:uthenticode:1.0.0:pre5:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:uthenticode:1.0.0:pre5.1:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:uthenticode:1.0.0:pre6:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:uthenticode:1.0.0:pre7:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:uthenticode:1.0.0:pre8:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:uthenticode:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:uthenticode:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:uthenticode:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:uthenticode:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:uthenticode:1.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:uthenticode:1.0.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:uthenticode:1.0.6:pre1:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:uthenticode:1.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:uthenticode:1.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:trailofbits:uthenticode:1.0.9:*:*:*:*:*:*:*

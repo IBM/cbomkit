@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/unrtf
+  - pkg:deb/ubuntu/unrtf
+  - pkg:github/yarnseemannsgarn/unrtf
+  - pkg:gnu/unrtf
+  - pkg:rpm/fedora/unrtf
+  - pkg:rpm/opensuse/unrtf

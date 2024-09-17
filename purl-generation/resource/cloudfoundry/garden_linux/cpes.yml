@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:cloudfoundry:garden_linux:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:garden_linux:0.332.0:*:*:*:*:*:*:*

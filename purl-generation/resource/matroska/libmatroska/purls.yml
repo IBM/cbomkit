@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libmatroska
+  - pkg:deb/ubuntu/libmatroska
+  - pkg:github/matroska-org/libmatroska
+  - pkg:rpm/fedora/libmatroska
+  - pkg:rpm/opensuse/libmatroska

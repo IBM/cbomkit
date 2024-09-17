@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/elastest/elastest-jenkins
+  - pkg:github/jenkinsci/elastest-plugin

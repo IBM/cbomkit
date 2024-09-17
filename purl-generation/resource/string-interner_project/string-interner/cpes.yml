@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:string-interner_project:string-interner:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:string-interner_project:string-interner:0.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:string-interner_project:string-interner:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:string-interner_project:string-interner:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:string-interner_project:string-interner:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:string-interner_project:string-interner:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:string-interner_project:string-interner:0.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:string-interner_project:string-interner:0.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:string-interner_project:string-interner:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:string-interner_project:string-interner:0.7.1:*:*:*:*:*:*:*

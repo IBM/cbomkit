@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/partitionmanager
+  - pkg:deb/ubuntu/partitionmanager
+  - pkg:github/kde/partitionmanager
+  - pkg:rpm/fedora/kde-partitionmanager
+  - pkg:rpm/opensuse/kde-partitionmanager

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/pithos
+  - pkg:deb/ubuntu/pithos
+  - pkg:github/pithos/pithos
+  - pkg:rpm/opensuse/pithos

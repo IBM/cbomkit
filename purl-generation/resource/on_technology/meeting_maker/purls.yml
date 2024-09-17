@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/wesleytodd/meeting-maker
+  - pkg:npm/%40wesleytodd/meeting-maker

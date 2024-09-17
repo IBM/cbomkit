@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dayvson/air-sdk
+  - pkg:npm/air-sdk

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openstack/murano-dashboard
+  - pkg:pypi/murano-dashboard

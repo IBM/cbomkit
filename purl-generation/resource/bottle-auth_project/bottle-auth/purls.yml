@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/avelino/bottle-auth
+  - pkg:pypi/bottle-auth

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:kb:digger:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:kb:digger:-:*:*:*:*:*:*:*

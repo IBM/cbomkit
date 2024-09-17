@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:op-browser_project:op-browser:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:op-browser_project:op-browser:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:op-browser_project:op-browser:1.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:op-browser_project:op-browser:1.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:op-browser_project:op-browser:1.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:op-browser_project:op-browser:1.0.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:op-browser_project:op-browser:1.0.6:*:*:*:*:node.js:*:*

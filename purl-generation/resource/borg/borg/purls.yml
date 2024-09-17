@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/borgbackup/borg
+  - pkg:golang/github.com/borgbackup/borg
+  - pkg:pypi/borgbackup

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/matrix-org/matrix-appservice-bridge
+  - pkg:npm/matrix-appservice-bridge

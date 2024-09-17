@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:anon_proxy_server:anon_proxy_server:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:anon_proxy_server:anon_proxy_server:0.100:*:*:*:*:*:*:*
+  - cpe:2.3:a:anon_proxy_server:anon_proxy_server:0.101:*:*:*:*:*:*:*

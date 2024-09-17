@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/shutter
+  - pkg:deb/ubuntu/shutter
+  - pkg:github/shutter-project/shutter
+  - pkg:rpm/fedora/shutter

@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/libnftnl
+  - pkg:deb/ubuntu/libnftnl
+  - pkg:github/anthonyryan1/libnftnl
+  - pkg:github/ozars/libnftnl
+  - pkg:github/zonque/libnftnl
+  - pkg:gitlab/redhat/libnftnl
+  - pkg:rpm/centos/libnftnl
+  - pkg:rpm/fedora/libnftnl
+  - pkg:rpm/opensuse/libnftnl

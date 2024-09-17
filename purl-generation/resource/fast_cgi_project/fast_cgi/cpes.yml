@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:fast_cgi_project:fast_cgi:0.70:*:*:*:*:perl:*:*
+  - cpe:2.3:a:fast_cgi_project:fast_cgi:0.71_01:*:*:*:*:perl:*:*
+  - cpe:2.3:a:fast_cgi_project:fast_cgi:0.71_02:*:*:*:*:perl:*:*
+  - cpe:2.3:a:fast_cgi_project:fast_cgi:0.71_03:*:*:*:*:perl:*:*
+  - cpe:2.3:a:fast_cgi_project:fast_cgi:0.71:*:*:*:*:perl:*:*
+  - cpe:2.3:a:fast_cgi_project:fast_cgi:0.72:*:*:*:*:perl:*:*
+  - cpe:2.3:a:fast_cgi_project:fast_cgi:0.73:*:*:*:*:perl:*:*

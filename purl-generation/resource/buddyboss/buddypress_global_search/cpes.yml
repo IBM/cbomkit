@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:buddyboss:buddypress_global_search:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:buddyboss:buddypress_global_search:*:*:*:*:*:wordpress:*:*

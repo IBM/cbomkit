@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:mcwebserver_minecraft_mod_for_fabric_and_quilt_project:mcwebserver_minecraft_mod_for_fabric_and_quilt:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mcwebserver_minecraft_mod_for_fabric_and_quilt_project:mcwebserver_minecraft_mod_for_fabric_and_quilt:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:mcwebserver_minecraft_mod_for_fabric_and_quilt_project:mcwebserver_minecraft_mod_for_fabric_and_quilt:0.1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mcwebserver_minecraft_mod_for_fabric_and_quilt_project:mcwebserver_minecraft_mod_for_fabric_and_quilt:0.2.0:*:*:*:*:*:*:*

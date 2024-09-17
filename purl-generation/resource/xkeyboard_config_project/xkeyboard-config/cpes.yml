@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:xkeyboard_config_project:xkeyboard-config:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:xkeyboard_config_project:xkeyboard-config:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xkeyboard_config_project:xkeyboard-config:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xkeyboard_config_project:xkeyboard-config:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:xkeyboard_config_project:xkeyboard-config:2.3:*:*:*:*:*:*:*

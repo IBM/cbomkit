@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:kill-process-on-port_project:kill-process-on-port:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:kill-process-on-port_project:kill-process-on-port:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:kill-process-on-port_project:kill-process-on-port:1.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:kill-process-on-port_project:kill-process-on-port:-:*:*:*:*:node.js:*:*

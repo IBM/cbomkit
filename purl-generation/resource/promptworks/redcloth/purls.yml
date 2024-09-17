@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-redcloth
+  - pkg:deb/ubuntu/ruby-redcloth
+  - pkg:gem/RedCloth
+  - pkg:github/jgarber/redcloth
+  - pkg:rpm/fedora/rubygem-redcloth
+  - pkg:rpm/opensuse/rubygem-redcloth

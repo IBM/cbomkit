@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/py-pdf/pypdf
+  - pkg:pypi/pypdf

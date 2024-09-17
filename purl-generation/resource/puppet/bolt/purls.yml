@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/bolt
+  - pkg:github/puppetlabs/bolt

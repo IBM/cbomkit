@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/thunar
+  - pkg:deb/ubuntu/thunar
+  - pkg:github/xfce-mirror/thunar
+  - pkg:rpm/fedora/thunar
+  - pkg:rpm/opensuse/thunar

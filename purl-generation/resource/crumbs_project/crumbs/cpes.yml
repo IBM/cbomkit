@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:crumbs_project:crumbs:7.x-2.0:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:crumbs_project:crumbs:7.x-2.1:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:crumbs_project:crumbs:7.x-2.2:*:*:*:*:drupal:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/livecd-tools/livecd-tools
+  - pkg:rpm/fedora/livecd-tools

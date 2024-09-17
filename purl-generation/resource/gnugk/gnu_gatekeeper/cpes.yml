@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:2.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:3.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:gnugk:gnu_gatekeeper:3.1:beta:*:*:*:*:*:*

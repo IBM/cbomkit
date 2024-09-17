@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/xerces
+  - pkg:deb/debian/libxerces2-java
+  - pkg:deb/ubuntu/libxerces2-java
+  - pkg:github/apache/xerces2-j

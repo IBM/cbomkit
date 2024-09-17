@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/node-handlebars
+  - pkg:deb/ubuntu/node-handlebars
+  - pkg:github/handlebars-lang/handlebars.js
+  - pkg:maven/org.webjars.npm/handlebars
+  - pkg:npm/handlebars
+  - pkg:nuget/Handlebars.js
+  - pkg:rpm/fedora/nodejs-handlebars

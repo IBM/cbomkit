@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:narou_project:narou:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:narou_project:narou:3.8.0:*:*:*:*:*:*:*

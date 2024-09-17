@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:squirrelmail:change_passwd:1.0:*:*:*:*:squirrelmail:*:*
+  - cpe:2.3:a:squirrelmail:change_passwd:1.1:*:*:*:*:squirrelmail:*:*
+  - cpe:2.3:a:squirrelmail:change_passwd:2.0:*:*:*:*:squirrelmail:*:*
+  - cpe:2.3:a:squirrelmail:change_passwd:3.0.1:*:*:*:*:squirrelmail:*:*
+  - cpe:2.3:a:squirrelmail:change_passwd:3.0:*:*:*:*:squirrelmail:*:*
+  - cpe:2.3:a:squirrelmail:change_passwd:3.1:*:*:*:*:squirrelmail:*:*
+  - cpe:2.3:a:squirrelmail:change_passwd:4.0:*:*:*:*:squirrelmail:*:*

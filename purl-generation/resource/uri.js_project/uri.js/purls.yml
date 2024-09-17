@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/medialize/uri.js
+  - pkg:maven/org.webjars.bowergithub.medialize/uri.js
+  - pkg:sourceforge/uri-js.mirror

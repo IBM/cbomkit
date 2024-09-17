@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/drhoangphuc/pomelo
+  - pkg:github/netease/pomelo
+  - pkg:npm/pomelo

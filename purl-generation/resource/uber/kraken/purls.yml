@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/uber/kraken
+  - pkg:golang/github.com/uber/kraken

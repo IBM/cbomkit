@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/lawn-login
+  - pkg:github/skalnik/lawn-login

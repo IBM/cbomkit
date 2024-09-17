@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/tahoe-lafs
+  - pkg:github/tahoe-lafs/tahoe-lafs
+  - pkg:pypi/tahoe-lafs

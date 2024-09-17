@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:esotalk:esotalk:1.0.0:g1:*:*:*:*:*:*
+  - cpe:2.3:a:esotalk:esotalk:1.0.0:g2:*:*:*:*:*:*
+  - cpe:2.3:a:esotalk:esotalk:1.0.0:g3:*:*:*:*:*:*
+  - cpe:2.3:a:esotalk:esotalk:1.0.0:g4:*:*:*:*:*:*

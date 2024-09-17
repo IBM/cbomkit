@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/horde/base
+  - pkg:rpm/fedora/horde
+  - pkg:rpm/opensuse/horde5

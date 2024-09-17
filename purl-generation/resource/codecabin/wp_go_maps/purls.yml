@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/codecabin/wp-google-maps
+  - pkg:github/wp-plugins/wp-google-maps
+  - pkg:github/wpplugins/wp-google-maps

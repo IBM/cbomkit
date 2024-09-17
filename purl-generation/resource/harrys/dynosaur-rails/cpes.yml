@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:harrys:dynosaur-rails:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:harrys:dynosaur-rails:-:*:*:*:*:*:*:*

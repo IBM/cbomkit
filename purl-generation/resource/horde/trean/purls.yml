@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/php-horde-trean
+  - pkg:deb/ubuntu/php-horde-trean
+  - pkg:github/horde/trean

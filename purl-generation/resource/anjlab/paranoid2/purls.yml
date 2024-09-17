@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/paranoid2
+  - pkg:github/anjlab/paranoid2

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ly-mem-thread/nedmalloc
+  - pkg:github/ned14/nedmalloc
+  - pkg:sourceforge/nedmalloc

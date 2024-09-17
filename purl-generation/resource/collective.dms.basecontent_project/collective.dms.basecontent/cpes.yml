@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:collective.dms.basecontent_project:collective.dms.basecontent:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:collective.dms.basecontent_project:collective.dms.basecontent:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:collective.dms.basecontent_project:collective.dms.basecontent:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:collective.dms.basecontent_project:collective.dms.basecontent:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:collective.dms.basecontent_project:collective.dms.basecontent:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:collective.dms.basecontent_project:collective.dms.basecontent:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:collective.dms.basecontent_project:collective.dms.basecontent:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:collective.dms.basecontent_project:collective.dms.basecontent:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:collective.dms.basecontent_project:collective.dms.basecontent:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:collective.dms.basecontent_project:collective.dms.basecontent:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:collective.dms.basecontent_project:collective.dms.basecontent:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:collective.dms.basecontent_project:collective.dms.basecontent:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:collective.dms.basecontent_project:collective.dms.basecontent:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:collective.dms.basecontent_project:collective.dms.basecontent:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:collective.dms.basecontent_project:collective.dms.basecontent:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:collective.dms.basecontent_project:collective.dms.basecontent:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:collective.dms.basecontent_project:collective.dms.basecontent:1.7:*:*:*:*:*:*:*

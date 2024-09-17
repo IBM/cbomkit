@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/yoehoehne/cs360_getcity
+  - pkg:npm/getcityapi.yoehoehne

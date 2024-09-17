@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:janrain:ruby-openid:2.2.0:-:-:*:-:ruby:*:*
+  - cpe:2.3:a:janrain:ruby-openid:2.2.1:-:-:*:-:ruby:*:*
+  - cpe:2.3:a:janrain:ruby-openid:2.2.2:-:-:*:-:ruby:*:*
+  - cpe:2.3:a:janrain:ruby-openid:2.2.3:-:-:*:-:ruby:*:*
+  - cpe:2.3:a:janrain:ruby-openid:2.3.0:-:-:*:-:ruby:*:*

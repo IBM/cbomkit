@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:spnego_http_authentication_module_project:spnego_http_authentication_module:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:spnego_http_authentication_module_project:spnego_http_authentication_module:1.0.0:*:*:*:*:nginx:*:*
+  - cpe:2.3:a:spnego_http_authentication_module_project:spnego_http_authentication_module:1.1.0:*:*:*:*:nginx:*:*
+  - cpe:2.3:a:spnego_http_authentication_module_project:spnego_http_authentication_module:1.1.1:*:*:*:*:nginx:*:*
+  - cpe:2.3:a:spnego_http_authentication_module_project:spnego_http_authentication_module:-:*:*:*:*:nginx:*:*

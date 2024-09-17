@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:tbdev_project:tbdev:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:tbdev_project:tbdev:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:tbdev_project:tbdev:2.1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:tbdev_project:tbdev:2.1.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:tbdev_project:tbdev:2.1.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:tbdev_project:tbdev:2.1.17:*:*:*:*:*:*:*

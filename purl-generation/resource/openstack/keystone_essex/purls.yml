@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/openstackhelm/keystone
+  - pkg:github/openstack/keystone
+  - pkg:maven/org.apache.jclouds.api/openstack-keystone
+  - pkg:pypi/keystone
+  - pkg:rpm/opensuse/openstack-keystone

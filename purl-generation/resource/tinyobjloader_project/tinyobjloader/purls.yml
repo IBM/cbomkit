@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/tinyobjloader
+  - pkg:deb/ubuntu/tinyobjloader
+  - pkg:github/tinyobjloader/tinyobjloader
+  - pkg:pypi/tinyobjloader
+  - pkg:rpm/fedora/tinyobjloader
+  - pkg:rpm/opensuse/tinyobjloader

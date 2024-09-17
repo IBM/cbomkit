@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/yosikatu/tendermint
+  - pkg:deb/ubuntu/tendermint
+  - pkg:docker/tendermint/tendermint
+  - pkg:github/tendermint/tendermint

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/sindresorhus/file-type
+  - pkg:maven/org.webjars.npm/file-type
+  - pkg:npm/file-type

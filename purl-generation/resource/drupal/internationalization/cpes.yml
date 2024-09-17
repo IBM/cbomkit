@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:drupal:internationalization:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:internationalization:5.x-1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:internationalization:5.x-2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:internationalization:*:beta1:*:*:*:*:*:*

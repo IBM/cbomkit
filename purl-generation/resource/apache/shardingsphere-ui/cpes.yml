@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:apache:shardingsphere-ui:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:shardingsphere-ui:4.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:shardingsphere-ui:5.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:shardingsphere-ui:5.0.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:apache:shardingsphere-ui:5.0.0:beta:*:*:*:*:*:*

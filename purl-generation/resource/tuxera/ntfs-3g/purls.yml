@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ntfs-3g
+  - pkg:deb/ubuntu/ntfs-3g
+  - pkg:github/tuxera/ntfs-3g
+  - pkg:github/vitalif/ntfs-3g
+  - pkg:rpm/fedora/ntfs-3g
+  - pkg:rpm/opensuse/ntfs-3g

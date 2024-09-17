@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:bag:covid_certificate:1.0.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:bag:covid_certificate:1.2.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:bag:covid_certificate:1.2.1:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:bag:covid_certificate:2.0.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:bag:covid_certificate:2.1.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:bag:covid_certificate:2.2.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:bag:covid_certificate:2.3.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:bag:covid_certificate:2.4.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:bag:covid_certificate:2.5.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:bag:covid_certificate:2.6.0:*:*:*:*:iphone_os:*:*

@@ -1,0 +1,8 @@
+purls:
+  - pkg:github/dgibson/dtc
+  - pkg:github/pantoniou/dtc
+  - pkg:github/qemu/dtc
+  - pkg:gitlab/redhat/dtc
+  - pkg:rpm/centos/dtc
+  - pkg:rpm/fedora/dtc
+  - pkg:rpm/opensuse/dtc

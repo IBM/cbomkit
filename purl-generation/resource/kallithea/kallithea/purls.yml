@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/msabramo/kallithea
+  - pkg:github/nexmirror/kallithea
+  - pkg:github/t-kenji/kallithea-mirror
+  - pkg:pypi/Kallithea

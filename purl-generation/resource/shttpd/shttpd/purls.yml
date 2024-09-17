@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/singpolyma/shttpd
+  - pkg:sourceforge/shttpd

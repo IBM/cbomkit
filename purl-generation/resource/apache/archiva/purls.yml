@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/archiva
+  - pkg:github/apache/archiva
+  - pkg:maven/org.apache.archiva/archiva

@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/spagobilabs/spagobi
+  - pkg:github/spagobilabs/spagobi

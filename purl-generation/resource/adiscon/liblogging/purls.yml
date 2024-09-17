@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/liblogging
+  - pkg:deb/ubuntu/liblogging
+  - pkg:github/rsyslog/liblogging
+  - pkg:rpm/fedora/liblogging
+  - pkg:rpm/opensuse/liblogging
+  - pkg:sourceforge/liblogging

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:asn.1_compiler:asn.1_compiler:0.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:asn.1_compiler:asn.1_compiler:0.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:asn.1_compiler:asn.1_compiler:0.9.6:*:*:*:*:*:*:*

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libast
+  - pkg:deb/ubuntu/libast
+  - pkg:github/mej/libast
+  - pkg:rpm/fedora/libast
+  - pkg:rpm/opensuse/libast

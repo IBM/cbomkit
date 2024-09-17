@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libnl3
+  - pkg:deb/ubuntu/libnl3
+  - pkg:github/tgraf/libnl
+  - pkg:github/thom311/libnl
+  - pkg:gitlab/redhat/libnl3
+  - pkg:rpm/opensuse/libnl3

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/auth0/passport-wsfed-saml2
+  - pkg:npm/passport-wsfed-saml2

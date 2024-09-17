@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:jenkins:chef_sinatra:1.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:chef_sinatra:1.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:chef_sinatra:1.12:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:chef_sinatra:1.13:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:chef_sinatra:1.14:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:chef_sinatra:1.15:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:chef_sinatra:1.17:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:chef_sinatra:1.18:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:chef_sinatra:1.20:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:chef_sinatra:1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:chef_sinatra:1.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:chef_sinatra:1.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:chef_sinatra:1.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:chef_sinatra:1.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:chef_sinatra:1.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:chef_sinatra:1.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:chef_sinatra:1.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:chef_sinatra:-:*:*:*:*:jenkins:*:*

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libxsmm
+  - pkg:deb/ubuntu/libxsmm
+  - pkg:github/hfp/libxsmm
+  - pkg:rpm/fedora/libxsmm
+  - pkg:rpm/opensuse/libxsmm

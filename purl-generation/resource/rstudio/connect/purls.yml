@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/rstudio/rsconnect
+  - pkg:pypi/rsconnect
+  - pkg:rpm/fedora/r-rsconnect
+  - pkg:rpm/opensuse/r-rsconnect

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:biscuitsec:biscuit-go:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:biscuitsec:biscuit-go:2.0.0:*:*:*:*:*:*:*

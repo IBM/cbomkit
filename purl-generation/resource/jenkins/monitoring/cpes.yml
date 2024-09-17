@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jenkins:monitoring:1.73.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:monitoring:1.73.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:monitoring:1.74.0:*:*:*:*:jenkins:*:*

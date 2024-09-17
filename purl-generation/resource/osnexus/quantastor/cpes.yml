@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:osnexus:quantastor:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:osnexus:quantastor:6.0.0.355:*:*:*:*:*:*:*

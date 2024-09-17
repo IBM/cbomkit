@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/fredg02/extra-columns-plugin
+  - pkg:github/jenkinsci/extra-columns-plugin

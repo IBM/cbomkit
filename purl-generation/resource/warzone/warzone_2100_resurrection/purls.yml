@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/warzone2100
+  - pkg:deb/ubuntu/warzone2100
+  - pkg:github/warzone2100/warzone2100
+  - pkg:rpm/fedora/warzone2100
+  - pkg:rpm/opensuse/warzone2100
+  - pkg:sourceforge/warzone2100

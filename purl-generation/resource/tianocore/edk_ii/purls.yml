@@ -1,0 +1,9 @@
+purls:
+  - pkg:bitbucket/tianocore/edk2
+  - pkg:deb/debian/edk2
+  - pkg:deb/ubuntu/edk2
+  - pkg:github/tianocore/edk2
+  - pkg:github/tianocore/tianocore.github.io
+  - pkg:rpm/centos/edk2
+  - pkg:rpm/fedora/edk2
+  - pkg:rpm/opensuse/edk2

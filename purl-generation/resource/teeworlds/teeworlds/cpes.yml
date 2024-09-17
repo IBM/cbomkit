@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:teeworlds:teeworlds:0.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:teeworlds:teeworlds:0.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:teeworlds:teeworlds:0.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:teeworlds:teeworlds:0.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:teeworlds:teeworlds:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:teeworlds:teeworlds:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:teeworlds:teeworlds:0.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:teeworlds:teeworlds:0.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:teeworlds:teeworlds:0.7.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:teeworlds:teeworlds:0.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:teeworlds:teeworlds:0.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:teeworlds:teeworlds:6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:teeworlds:teeworlds:6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:teeworlds:teeworlds:6.2:*:*:*:*:*:*:*

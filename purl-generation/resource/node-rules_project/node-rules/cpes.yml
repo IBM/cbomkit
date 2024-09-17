@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:node-rules_project:node-rules:2.2.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:node-rules_project:node-rules:3.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:node-rules_project:node-rules:4.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:node-rules_project:node-rules:5.0.0:*:*:*:*:node.js:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/axtls
+  - pkg:deb/ubuntu/axtls
+  - pkg:github/jackiexie168/axtls
+  - pkg:sourceforge/axtls

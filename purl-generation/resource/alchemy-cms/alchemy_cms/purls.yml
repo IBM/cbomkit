@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/ruby/alchemy_cms
+  - pkg:github/alchemycms/alchemy_cms
+  - pkg:npm/%40alchemy_cms/admin

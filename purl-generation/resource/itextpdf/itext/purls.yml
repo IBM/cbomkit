@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/libitext1-java
+  - pkg:deb/debian/libitext5-java
+  - pkg:deb/ubuntu/libitext1-java
+  - pkg:deb/ubuntu/libitext5-java
+  - pkg:github/itext/itext7
+  - pkg:maven/com.itextpdf/itextpdf
+  - pkg:nuget/itext7
+  - pkg:rpm/opensuse/itextpdf
+  - pkg:sourceforge/itext

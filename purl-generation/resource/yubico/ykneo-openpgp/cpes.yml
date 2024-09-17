@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:yubico:ykneo-openpgp:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:yubico:ykneo-openpgp:1.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:yubico:ykneo-openpgp:1.0.9:*:*:*:*:*:*:*

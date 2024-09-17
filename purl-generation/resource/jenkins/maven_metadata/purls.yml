@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/maven-metadata-plugin
+  - pkg:github/markov/jenkins-maven-metadata-plugin

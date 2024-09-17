@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:random_password_generator_project:random_password_generator:0.0.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:random_password_generator_project:random_password_generator:0.0.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:random_password_generator_project:random_password_generator:0.0.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:random_password_generator_project:random_password_generator:0.0.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:random_password_generator_project:random_password_generator:0.0.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:random_password_generator_project:random_password_generator:1.0.0:*:*:*:*:ruby:*:*

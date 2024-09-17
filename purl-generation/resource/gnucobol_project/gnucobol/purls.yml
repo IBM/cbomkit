@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/gnucobol
+  - pkg:deb/ubuntu/gnucobol
+  - pkg:github/hiroaki-inomata/gnucobol
+  - pkg:github/ocamlpro/gnucobol
+  - pkg:github/paulsmith/gnucobol
+  - pkg:gnu/gnucobol
+  - pkg:rpm/fedora/gnucobol
+  - pkg:rpm/opensuse/gnucobol

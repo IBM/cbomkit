@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/fasterxml/jackson
+  - pkg:maven/org.codehaus.jackson/jackson-mapper-asl

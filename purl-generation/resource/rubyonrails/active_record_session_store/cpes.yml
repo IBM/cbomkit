@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:rubyonrails:active_record_session_store:*:*:*:*:*:ruby_on_rails:*:*

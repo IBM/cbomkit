@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/accumulo
+  - pkg:github/apache/accumulo
+  - pkg:maven/org.apache.accumulo/accumulo-core

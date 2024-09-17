@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/coreos/rpm-ostree
+  - pkg:gitlab/redhat/rpm-ostree
+  - pkg:rpm/centos/rpm-ostree
+  - pkg:rpm/fedora/rpm-ostree
+  - pkg:rpm/opensuse/rpm-ostree

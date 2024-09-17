@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ecdsautils
+  - pkg:deb/ubuntu/ecdsautils
+  - pkg:github/freifunk-gluon/ecdsautils
+  - pkg:opensuse/ecdsautils
+  - pkg:rpm/fedora/ecdsautils

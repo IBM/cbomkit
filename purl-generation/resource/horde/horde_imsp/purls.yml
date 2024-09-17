@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-horde-imsp
+  - pkg:deb/ubuntu/php-horde-imsp
+  - pkg:github/horde/imsp
+  - pkg:rpm/fedora/php-horde-horde-imsp
+  - pkg:rpm/opensuse/php-horde-horde-imsp

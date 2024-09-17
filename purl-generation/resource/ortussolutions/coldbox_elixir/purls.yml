@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ortus-solutions/coldbox-elixir
+  - pkg:npm/coldbox-elixir

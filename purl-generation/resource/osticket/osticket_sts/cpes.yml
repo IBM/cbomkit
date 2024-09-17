@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:osticket:osticket_sts:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:osticket:osticket_sts:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:osticket:osticket_sts:1.2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:osticket:osticket_sts:1.3_beta:*:*:*:*:*:*:*

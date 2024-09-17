@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/gerbv/gerbv
+  - pkg:rpm/fedora/gerbv
+  - pkg:rpm/opensuse/gerbv
+  - pkg:sourceforge/gerbv

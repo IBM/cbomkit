@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:scoutnet:kalender:0.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:scoutnet:kalender:0.1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:scoutnet:kalender:0.1.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:scoutnet:kalender:0.1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:scoutnet:kalender:0.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:scoutnet:kalender:0.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:scoutnet:kalender:0.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:scoutnet:kalender:0.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:scoutnet:kalender:0.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:scoutnet:kalender:1.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:scoutnet:kalender:1.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:scoutnet:kalender:1.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:scoutnet:kalender:1.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:scoutnet:kalender:1.0.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:scoutnet:kalender:1.0.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:scoutnet:kalender:1.1.0:*:*:*:*:wordpress:*:*

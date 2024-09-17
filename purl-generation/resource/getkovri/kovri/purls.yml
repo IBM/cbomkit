@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/geti2p/kovri
+  - pkg:github/chris-barry/kovri
+  - pkg:github/monero-project/kovri

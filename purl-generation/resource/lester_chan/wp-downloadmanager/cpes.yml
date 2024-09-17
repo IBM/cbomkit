@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:lester_chan:wp-downloadmanager:1.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:lester_chan:wp-downloadmanager:1.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:lester_chan:wp-downloadmanager:1.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:lester_chan:wp-downloadmanager:1.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:lester_chan:wp-downloadmanager:1.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:lester_chan:wp-downloadmanager:1.60:*:*:*:*:*:*:*
+  - cpe:2.3:a:lester_chan:wp-downloadmanager:1.61:*:*:*:*:*:*:*
+  - cpe:2.3:a:lester_chan:wp-downloadmanager:1.68.4:*:*:*:*:*:*:*

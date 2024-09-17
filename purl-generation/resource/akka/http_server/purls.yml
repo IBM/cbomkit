@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/akka/akka-http
+  - pkg:maven/com.typesafe.akka/akka-http-bom

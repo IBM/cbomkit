@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:siri-informatica:wi400:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:siri-informatica:wi400:11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:siri-informatica:wi400:8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:siri-informatica:wi400:8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:siri-informatica:wi400:8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:siri-informatica:wi400:9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:siri-informatica:wi400:9.5:*:*:*:*:*:*:*

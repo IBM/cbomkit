@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:docker:libcontainer:1.6.0:*:*:*:*:docker:*:*
+  - cpe:2.3:a:docker:libcontainer:*:*:*:*:*:docker:*:*

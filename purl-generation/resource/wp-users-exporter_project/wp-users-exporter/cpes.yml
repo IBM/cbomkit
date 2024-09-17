@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wp-users-exporter_project:wp-users-exporter:1.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-users-exporter_project:wp-users-exporter:-:*:*:*:*:wordpress:*:*

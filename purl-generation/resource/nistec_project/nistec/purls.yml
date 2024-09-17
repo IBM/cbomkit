@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/filosottile/nistec
+  - pkg:golang/github.com/filosottile/nistec

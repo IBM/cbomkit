@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:mercury_sample_manager_project:mercury_sample_manager:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:mercury_sample_manager_project:mercury_sample_manager:2021-04-20:*:*:*:*:*:*:*

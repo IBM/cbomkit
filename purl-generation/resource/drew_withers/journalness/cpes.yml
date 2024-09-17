@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:drew_withers:journalness:1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:drew_withers:journalness:1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:drew_withers:journalness:1.12_r1:*:*:*:*:*:*:*
+  - cpe:2.3:a:drew_withers:journalness:1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:drew_withers:journalness:1.13_r1:*:*:*:*:*:*:*
+  - cpe:2.3:a:drew_withers:journalness:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:drew_withers:journalness:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:drew_withers:journalness:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:drew_withers:journalness:2.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:drew_withers:journalness:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:drew_withers:journalness:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:drew_withers:journalness:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:drew_withers:journalness:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:drew_withers:journalness:3.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:drew_withers:journalness:3.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:drew_withers:journalness:3.0.7:*:*:*:*:*:*:*

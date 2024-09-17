@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/vtk9
+  - pkg:deb/ubuntu/vtk9
+  - pkg:github/kitware/vtk
+  - pkg:gitlab/clevon/vtk7
+  - pkg:rpm/fedora/vtk
+  - pkg:rpm/opensuse/vtk

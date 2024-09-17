@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/elimendonca/wordpress-ewww-image-optimizer
+  - pkg:github/wp-plugins/ewww-image-optimizer
+  - pkg:github/wpplugins/ewww-image-optimizer

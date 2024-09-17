@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libstb
+  - pkg:deb/ubuntu/libstb
+  - pkg:github/nothings/stb
+  - pkg:rpm/fedora/stb
+  - pkg:rpm/opensuse/stb

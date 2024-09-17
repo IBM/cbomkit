@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/sysdig
+  - pkg:deb/ubuntu/sysdig
+  - pkg:docker/sysdig/sysdig
+  - pkg:github/draios/sysdig
+  - pkg:rpm/opensuse/sysdig
+  - pkg:sourceforge/sysdig.mirror

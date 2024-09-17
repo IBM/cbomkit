@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/onap/holmes-common
+  - pkg:maven/org.onap.holmes.common/holmes-actions

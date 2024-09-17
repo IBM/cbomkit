@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/jruby
+  - pkg:deb/ubuntu/jruby
+  - pkg:docker/jruby
+  - pkg:github/jruby/jruby
+  - pkg:gitlab/cleveron/jruby
+  - pkg:maven/org.jruby/jruby-parent
+  - pkg:rpm/opensuse/jruby

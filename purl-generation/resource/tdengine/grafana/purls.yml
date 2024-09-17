@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/taosdata/grafanaplugin
+  - pkg:golang/github.com/taosdata/grafanaplugin

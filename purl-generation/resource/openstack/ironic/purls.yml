@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/openstackhelm/ironic
+  - pkg:github/openstack/ironic
+  - pkg:pypi/ironic-python-agent
+  - pkg:rpm/opensuse/openstack-ironic

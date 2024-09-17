@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:calmquist.static-server_project:calmquist.static-server:0.1.1:*:*:*:*:node.js:*:*

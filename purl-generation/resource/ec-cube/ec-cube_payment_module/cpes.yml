@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:ec-cube:ec-cube_payment_module:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube_payment_module:2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube_payment_module:2.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube_payment_module:2.3.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube_payment_module:3.5.23:*:*:*:*:*:*:*

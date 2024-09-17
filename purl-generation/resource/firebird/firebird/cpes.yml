@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:firebird:firebird:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:firebird:firebird:2.0.3.12981.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:firebird:firebird:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:firebird:firebird:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:firebird:firebird:2.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:firebird:firebird:2.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:firebird:firebird:*:r5:*:*:*:*:*:*

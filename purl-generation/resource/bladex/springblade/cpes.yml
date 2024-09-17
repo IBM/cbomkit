@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:bladex:springblade:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bladex:springblade:3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bladex:springblade:3.7.0:*:*:*:*:*:*:*

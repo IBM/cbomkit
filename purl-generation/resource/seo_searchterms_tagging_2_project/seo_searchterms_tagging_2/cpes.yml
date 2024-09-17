@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:seo_searchterms_tagging_2_project:seo_searchterms_tagging_2:1.35:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seo_searchterms_tagging_2_project:seo_searchterms_tagging_2:1.51:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seo_searchterms_tagging_2_project:seo_searchterms_tagging_2:1.52:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seo_searchterms_tagging_2_project:seo_searchterms_tagging_2:1.535:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seo_searchterms_tagging_2_project:seo_searchterms_tagging_2:1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:seo_searchterms_tagging_2_project:seo_searchterms_tagging_2:-:*:*:*:*:wordpress:*:*

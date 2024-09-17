@@ -1,0 +1,7 @@
+purls:
+  - pkg:github/python-pillow/pillow
+  - pkg:gitlab/redhat/python-pillow
+  - pkg:pypi/pillow
+  - pkg:rpm/fedora/python-pillow
+  - pkg:rpm/opensuse/python-pillow
+  - pkg:sourceforge/pillow.mirror

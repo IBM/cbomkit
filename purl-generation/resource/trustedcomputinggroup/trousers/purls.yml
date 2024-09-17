@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/trousers
+  - pkg:deb/ubuntu/trousers
+  - pkg:github/srajiv/trousers
+  - pkg:rpm/centos/trousers
+  - pkg:rpm/fedora/trousers
+  - pkg:rpm/opensuse/trousers
+  - pkg:sourceforge/trousers

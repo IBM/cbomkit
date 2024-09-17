@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/padrino-contrib
+  - pkg:github/padrino/padrino-contrib
+  - pkg:rpm/opensuse/rubygem-padrino-contrib

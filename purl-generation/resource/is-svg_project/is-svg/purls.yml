@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/sindresorhus/is-svg
+  - pkg:maven/org.webjars.npm/is-svg
+  - pkg:npm/is-svg

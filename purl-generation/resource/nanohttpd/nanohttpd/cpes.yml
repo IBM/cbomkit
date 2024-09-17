@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:nanohttpd:nanohttpd:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:nanohttpd:nanohttpd:1.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:nanohttpd:nanohttpd:1.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:nanohttpd:nanohttpd:1.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:nanohttpd:nanohttpd:1.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:nanohttpd:nanohttpd:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nanohttpd:nanohttpd:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nanohttpd:nanohttpd:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nanohttpd:nanohttpd:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nanohttpd:nanohttpd:2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:nanohttpd:nanohttpd:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nanohttpd:nanohttpd:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nanohttpd:nanohttpd:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nanohttpd:nanohttpd:2.3.1:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:chat_room_project:chat_room:7.x-2.0:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:chat_room_project:chat_room:7.x-2.1:*:*:*:*:drupal:*:*

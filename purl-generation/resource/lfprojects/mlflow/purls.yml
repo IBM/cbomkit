@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mlflow/mlflow
+  - pkg:pypi/mlflow

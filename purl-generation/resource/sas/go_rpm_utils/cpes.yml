@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:sas:go_rpm_utils:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:sas:go_rpm_utils:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sas:go_rpm_utils:0.1.1:*:*:*:*:*:*:*

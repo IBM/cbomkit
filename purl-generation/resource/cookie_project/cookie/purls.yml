@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-cookie
+  - pkg:deb/ubuntu/node-cookie
+  - pkg:github/jshttp/cookie
+  - pkg:maven/org.webjars.npm/cookie
+  - pkg:npm/cookie

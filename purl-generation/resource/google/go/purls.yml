@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/google/go-attestation
+  - pkg:golang/github.com/google/go-attestation

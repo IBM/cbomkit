@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:apache:sling_commons_log:2.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_commons_log:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_commons_log:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_commons_log:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_commons_log:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_commons_log:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_commons_log:4.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_commons_log:4.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_commons_log:4.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_commons_log:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_commons_log:5.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_commons_log:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_commons_log:5.1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_commons_log:5.1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_commons_log:5.1.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_commons_log:5.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_commons_log:5.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_commons_log:5.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_commons_log:5.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_commons_log:5.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_commons_log:5.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_commons_log:5.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_commons_log:5.4.2:*:*:*:*:*:*:*

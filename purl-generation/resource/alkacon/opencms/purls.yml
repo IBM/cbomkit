@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/alkacon/opencms-core
+  - pkg:maven/org.opencms/opencms-core

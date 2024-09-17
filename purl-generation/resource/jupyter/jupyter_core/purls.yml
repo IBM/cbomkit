@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/jupyter-core
+  - pkg:deb/ubuntu/jupyter-core
+  - pkg:github/jupyter/jupyter_core
+  - pkg:pypi/jupyter-core
+  - pkg:rpm/fedora/python-jupyter-core
+  - pkg:rpm/opensuse/python-jupyter-core

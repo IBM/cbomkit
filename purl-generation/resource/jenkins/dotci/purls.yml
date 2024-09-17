@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/groupon/dotci
+  - pkg:github/jenkinsci/dotci

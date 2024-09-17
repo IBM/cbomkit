@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:readytalk:avian:0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:readytalk:avian:0.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:readytalk:avian:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:readytalk:avian:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:readytalk:avian:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:readytalk:avian:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:readytalk:avian:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:readytalk:avian:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:readytalk:avian:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:readytalk:avian:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:readytalk:avian:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:readytalk:avian:0.7.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:readytalk:avian:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:readytalk:avian:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:readytalk:avian:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:readytalk:avian:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:readytalk:avian:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:readytalk:avian:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:readytalk:avian:1.2.0:*:*:*:*:*:*:*

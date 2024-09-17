@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/dosfstools
+  - pkg:deb/ubuntu/dosfstools
+  - pkg:github/dosfstools/dosfstools
+  - pkg:gitlab/redhat/dosfstools
+  - pkg:rpm/centos/dosfstools
+  - pkg:rpm/fedora/dosfstools
+  - pkg:rpm/opensuse/dosfstools

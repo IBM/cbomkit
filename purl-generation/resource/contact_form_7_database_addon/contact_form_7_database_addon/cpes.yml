@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:contact_form_7_database_addon:contact_form_7_database_addon:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:contact_form_7_database_addon:contact_form_7_database_addon:1.2.4.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:contact_form_7_database_addon:contact_form_7_database_addon:1.2.4.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:contact_form_7_database_addon:contact_form_7_database_addon:1.2.5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:contact_form_7_database_addon:contact_form_7_database_addon:1.2.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:contact_form_7_database_addon:contact_form_7_database_addon:1.2.5:*:*:*:*:wordpress:*:*

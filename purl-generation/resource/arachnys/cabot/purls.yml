@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/cabotapp/cabot
+  - pkg:github/arachnys/cabot
+  - pkg:pypi/cabot
+  - pkg:sourceforge/cabot.mirror

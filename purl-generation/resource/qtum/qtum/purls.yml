@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/machado-rev/qtum
+  - pkg:docker/qtum/qtum
+  - pkg:github/qtumproject/qtum
+  - pkg:rpm/opensuse/qtum

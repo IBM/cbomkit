@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:juniper:contrail_cloud:13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:juniper:contrail_cloud:13.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:juniper:contrail_cloud:13.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:juniper:contrail_cloud:13.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:juniper:contrail_cloud:13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:juniper:contrail_cloud:13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:juniper:contrail_cloud:13.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:juniper:contrail_cloud:13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:juniper:contrail_cloud:13.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:juniper:contrail_cloud:13.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:juniper:contrail_cloud:13.6:*:*:*:*:*:*:*

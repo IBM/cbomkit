@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/validating-email-parameter-plugin
+  - pkg:github/szcn/validating-email-parameter-plugin

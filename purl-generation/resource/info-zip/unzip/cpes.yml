@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:info-zip:unzip:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:info-zip:unzip:5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:info-zip:unzip:5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:info-zip:unzip:5.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:info-zip:unzip:5.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:info-zip:unzip:5.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:info-zip:unzip:5.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:info-zip:unzip:5.42:*:*:*:*:*:*:*
+  - cpe:2.3:a:info-zip:unzip:5.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:info-zip:unzip:5.52:*:*:*:*:*:*:*
+  - cpe:2.3:a:info-zip:unzip:6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:info-zip:unzip:6.10b:*:*:*:*:*:*:*
+  - cpe:2.3:a:info-zip:unzip:6.10c22:*:*:*:*:*:*:*

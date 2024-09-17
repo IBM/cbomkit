@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:jquery_json-viewer_project:jquery_json-viewer:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jquery_json-viewer_project:jquery_json-viewer:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jquery_json-viewer_project:jquery_json-viewer:1.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jquery_json-viewer_project:jquery_json-viewer:1.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jquery_json-viewer_project:jquery_json-viewer:1.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jquery_json-viewer_project:jquery_json-viewer:-:*:*:*:*:node.js:*:*

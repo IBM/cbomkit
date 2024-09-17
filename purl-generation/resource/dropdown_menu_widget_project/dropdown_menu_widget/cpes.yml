@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:dropdown_menu_widget_project:dropdown_menu_widget:1.9.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dropdown_menu_widget_project:dropdown_menu_widget:-:*:*:*:*:wordpress:*:*

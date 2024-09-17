@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:swiftyedit:swiftyedit:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:swiftyedit:swiftyedit:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:swiftyedit:swiftyedit:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:swiftyedit:swiftyedit:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:swiftyedit:swiftyedit:1.1.2:*:*:*:*:*:*:*

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/cyrus-sasl2
+  - pkg:deb/ubuntu/cyrus-sasl2
+  - pkg:docker/ibmcom/cyrus-sasl
+  - pkg:github/cyrusimap/cyrus-sasl
+  - pkg:gitlab/redhat/cyrus-sasl
+  - pkg:golang/github.com/cyrusimap/cyrus-sasl
+  - pkg:rpm/fedora/cyrus-sasl
+  - pkg:rpm/opensuse/cyrus-sasl

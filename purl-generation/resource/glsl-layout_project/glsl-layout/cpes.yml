@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:glsl-layout_project:glsl-layout:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:glsl-layout_project:glsl-layout:0.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:glsl-layout_project:glsl-layout:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:glsl-layout_project:glsl-layout:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:glsl-layout_project:glsl-layout:0.3.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:glsl-layout_project:glsl-layout:0.4.0:*:*:*:*:rust:*:*

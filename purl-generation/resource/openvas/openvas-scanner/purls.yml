@@ -1,0 +1,8 @@
+purls:
+  - pkg:cpan/net::openvas
+  - pkg:deb/ubuntu/openvas-scanner
+  - pkg:docker/greenbone/openvas-scanner
+  - pkg:github/greenbone/openvas-scanner
+  - pkg:gitlab/kalilinux/openvas-scanner
+  - pkg:rpm/fedora/openvas-scanner
+  - pkg:rpm/opensuse/openvas-scanner

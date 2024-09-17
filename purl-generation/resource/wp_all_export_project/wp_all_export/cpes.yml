@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wp_all_export_project:wp_all_export:1.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_all_export_project:wp_all_export:*:*:*:*:*:wordpress:*:*

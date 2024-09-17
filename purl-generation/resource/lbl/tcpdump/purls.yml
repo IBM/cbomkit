@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/tcpdump
+  - pkg:deb/ubuntu/tcpdump
+  - pkg:github/the-tcpdump-group/tcpdump
+  - pkg:gitlab/redhat/tcpdump
+  - pkg:rpm/fedora/tcpdump
+  - pkg:rpm/opensuse/tcpdump
+  - pkg:sourceforge/tcpdump

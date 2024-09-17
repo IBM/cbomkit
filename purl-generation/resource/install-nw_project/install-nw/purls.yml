@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/davidmarkclements/install-nw
+  - pkg:npm/install-nw

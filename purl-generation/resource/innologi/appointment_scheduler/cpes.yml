@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:innologi:appointment_scheduler:1.0.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:innologi:appointment_scheduler:1.0.1:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:innologi:appointment_scheduler:2.0.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:innologi:appointment_scheduler:2.0.1:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:innologi:appointment_scheduler:2.0.2:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:innologi:appointment_scheduler:2.0.4:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:innologi:appointment_scheduler:2.0.5:*:*:*:*:typo3:*:*

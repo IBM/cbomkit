@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/munge
+  - pkg:deb/ubuntu/munge
+  - pkg:github/dun/munge
+  - pkg:gitlab/redhat/munge
+  - pkg:rpm/centos/munge
+  - pkg:rpm/fedora/munge
+  - pkg:rpm/opensuse/munge

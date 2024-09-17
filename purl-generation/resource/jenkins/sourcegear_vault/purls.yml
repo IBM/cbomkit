@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/vault-scm-plugin
+  - pkg:github/rellu/vault-scm-plugin

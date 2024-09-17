@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:libuv_project:libuv:0.10.33:*:*:*:*:*:*:*

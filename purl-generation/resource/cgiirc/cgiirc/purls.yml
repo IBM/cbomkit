@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/dgl/cgiirc
+  - pkg:rpm/opensuse/cgiirc
+  - pkg:sourceforge/cgiirc

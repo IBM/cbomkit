@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/geode
+  - pkg:github/apache/geode
+  - pkg:maven/org.apache.geode/geode-core/

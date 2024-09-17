@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/boostio/boostnote-legacy
+  - pkg:rpm/opensuse/boostnote

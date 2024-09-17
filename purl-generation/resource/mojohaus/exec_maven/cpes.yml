@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:mojohaus:exec_maven:1.1.1:*:*:*:*:maven:*:*

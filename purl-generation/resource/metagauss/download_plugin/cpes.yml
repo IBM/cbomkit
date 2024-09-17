@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:metagauss:download_plugin:1.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metagauss:download_plugin:1.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metagauss:download_plugin:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metagauss:download_plugin:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metagauss:download_plugin:2.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metagauss:download_plugin:2.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metagauss:download_plugin:2.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metagauss:download_plugin:2.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:metagauss:download_plugin:*:*:*:*:*:wordpress:*:*

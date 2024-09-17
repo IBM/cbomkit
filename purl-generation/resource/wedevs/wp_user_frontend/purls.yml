@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/wedevsofficial/wp-user-frontend
+  - pkg:github/wp-plugins/wp-user-frontend
+  - pkg:github/wpplugins/wp-user-frontend

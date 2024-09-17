@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/eurolinux-enterprise-linux-sources/redhat-upgrade-tool
+  - pkg:github/helloiamgio/redhat-upgrade-tool
+  - pkg:rpm/opensuse/redhat-upgrade-tool

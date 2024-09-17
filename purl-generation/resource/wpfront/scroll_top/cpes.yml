@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wpfront:scroll_top:2.0.6.07225:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpfront:scroll_top:-:*:*:*:*:wordpress:*:*

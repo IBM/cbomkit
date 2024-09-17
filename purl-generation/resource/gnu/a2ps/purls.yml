@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/a2ps
+  - pkg:deb/ubuntu/a2ps
+  - pkg:github/akimd/a2ps
+  - pkg:github/gitgnu/gnu_a2ps
+  - pkg:github/gnu-mirror-unofficial/a2ps
+  - pkg:gnu/a2ps
+  - pkg:rpm/centos/a2ps
+  - pkg:rpm/fedora/a2ps
+  - pkg:rpm/opensuse/a2ps

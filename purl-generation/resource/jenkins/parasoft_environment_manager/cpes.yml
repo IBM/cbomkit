@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:jenkins:parasoft_environment_manager:2.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_environment_manager:2.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_environment_manager:2.12:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_environment_manager:2.13:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_environment_manager:2.14:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_environment_manager:2.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_environment_manager:2.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_environment_manager:2.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_environment_manager:2.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_environment_manager:2.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_environment_manager:2.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_environment_manager:2.9:*:*:*:*:jenkins:*:*

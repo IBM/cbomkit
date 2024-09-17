@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:bsuite_project:bsuite:3.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bsuite_project:bsuite:4.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bsuite_project:bsuite:4.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bsuite_project:bsuite:4.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bsuite_project:bsuite:4.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bsuite_project:bsuite:4.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bsuite_project:bsuite:4.0:beta1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bsuite_project:bsuite:4.0:beta2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bsuite_project:bsuite:4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bsuite_project:bsuite:5.0:a2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bsuite_project:bsuite:5.0:alpha2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bsuite_project:bsuite:5.0:alpha3:*:*:*:wordpress:*:*

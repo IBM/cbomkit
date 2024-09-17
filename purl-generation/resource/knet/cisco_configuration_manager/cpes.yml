@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:knet:cisco_configuration_manager:2011-12-25:*:*:*:*:*:*:*
+  - cpe:2.3:a:knet:cisco_configuration_manager:2013-11-25:*:*:*:*:*:*:*
+  - cpe:2.3:a:knet:cisco_configuration_manager:2013-12-27:*:*:*:*:*:*:*
+  - cpe:2.3:a:knet:cisco_configuration_manager:2013-7-23:*:*:*:*:*:*:*
+  - cpe:2.3:a:knet:cisco_configuration_manager:2013-8-18:*:*:*:*:*:*:*
+  - cpe:2.3:a:knet:cisco_configuration_manager:2014-11-12:*:*:*:*:*:*:*
+  - cpe:2.3:a:knet:cisco_configuration_manager:2014-11-15:*:*:*:*:*:*:*
+  - cpe:2.3:a:knet:cisco_configuration_manager:2014-11-18:*:*:*:*:*:*:*
+  - cpe:2.3:a:knet:cisco_configuration_manager:2014-11-19:*:*:*:*:*:*:*

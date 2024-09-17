@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:combodo:teemip:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:combodo:teemip:2.4.0:*:*:*:*:*:*:*

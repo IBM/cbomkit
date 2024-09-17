@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:underconstruction_project:underconstruction:1.01:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:underconstruction_project:underconstruction:1.02:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:underconstruction_project:underconstruction:1.03:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:underconstruction_project:underconstruction:1.04:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:underconstruction_project:underconstruction:1.05:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:underconstruction_project:underconstruction:1.06:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:underconstruction_project:underconstruction:1.07:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:underconstruction_project:underconstruction:1.08:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:underconstruction_project:underconstruction:1.09:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:underconstruction_project:underconstruction:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:underconstruction_project:underconstruction:1.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:underconstruction_project:underconstruction:1.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:underconstruction_project:underconstruction:1.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:underconstruction_project:underconstruction:1.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:underconstruction_project:underconstruction:1.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:underconstruction_project:underconstruction:1.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:underconstruction_project:underconstruction:1.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:underconstruction_project:underconstruction:1.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:underconstruction_project:underconstruction:1.19:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:underconstruction_project:underconstruction:-:*:*:*:*:wordpress:*:*

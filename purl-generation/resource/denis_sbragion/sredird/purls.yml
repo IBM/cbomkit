@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/sredird
+  - pkg:deb/ubuntu/sredird
+  - pkg:github/msantos/sredird
+  - pkg:sourceforge/sredird

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/hstrowd/visual-form-builder
+  - pkg:github/netconstructor/visual-form-builder
+  - pkg:github/wp-plugins/visual-form-builder

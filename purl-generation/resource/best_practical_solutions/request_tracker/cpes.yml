@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:best_practical_solutions:request_tracker:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:best_practical_solutions:request_tracker:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:best_practical_solutions:request_tracker:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:best_practical_solutions:request_tracker:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:best_practical_solutions:request_tracker:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:best_practical_solutions:request_tracker:1.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:best_practical_solutions:request_tracker:1.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:best_practical_solutions:request_tracker:1.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:best_practical_solutions:request_tracker:2.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:best_practical_solutions:request_tracker:2.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:best_practical_solutions:request_tracker:2.0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:best_practical_solutions:request_tracker:2.0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:best_practical_solutions:request_tracker:2.0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:best_practical_solutions:request_tracker:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:best_practical_solutions:request_tracker:2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:best_practical_solutions:request_tracker:2.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:best_practical_solutions:request_tracker:2.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:best_practical_solutions:request_tracker:2.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:best_practical_solutions:request_tracker:2.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:best_practical_solutions:request_tracker:2.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:best_practical_solutions:request_tracker:3.5.head:*:*:*:*:*:*:*

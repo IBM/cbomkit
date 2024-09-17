@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openldap/openldap
+  - pkg:rpm/fedora/openldap

@@ -1,0 +1,5 @@
+purls:
+  - pkg:cpan/capture-tiny
+  - pkg:github/dagolden/capture-tiny
+  - pkg:rpm/fedora/perl-capture-tiny
+  - pkg:rpm/opensuse/perl-Capture-Tiny

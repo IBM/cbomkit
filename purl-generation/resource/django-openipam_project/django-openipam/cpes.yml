@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:django-openipam_project:django-openipam:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-openipam_project:django-openipam:-:*:*:*:*:*:*:*

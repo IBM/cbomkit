@@ -1,0 +1,13 @@
+purls:
+  - pkg:bitbucket/chenwencai/keepassx
+  - pkg:deb/debian/keepassx
+  - pkg:deb/ubuntu/keepassx
+  - pkg:github/keepassx/keepassx
+  - pkg:github/keepassxreboot/keepassxc-org
+  - pkg:github/keepassxreboot/keepassxc-packaging
+  - pkg:github/keepassxreboot/keepassxc-specs
+  - pkg:gnome/keepassx
+  - pkg:golang/github.com/keepassxreboot/keepassxc
+  - pkg:rpm/fedora/keepassx
+  - pkg:rpm/opensuse/keepassx
+  - pkg:sourceforge/keepassx

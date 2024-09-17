@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:saltstack:salt_2018:3.0:*:*:*:*:*:*:*

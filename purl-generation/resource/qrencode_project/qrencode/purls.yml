@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/qrencode
+  - pkg:deb/ubuntu/qrencode
+  - pkg:github/fukuchi/libqrencode
+  - pkg:rpm/fedora/qrencode
+  - pkg:rpm/opensuse/qrencode

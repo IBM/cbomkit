@@ -1,0 +1,6 @@
+purls:
+  - pkg:cpan/http-body
+  - pkg:deb/debian/libhttp-body-perl
+  - pkg:deb/ubuntu/libhttp-body-perl
+  - pkg:rpm/fedora/perl-http-body
+  - pkg:rpm/opensuse/perl-http-body

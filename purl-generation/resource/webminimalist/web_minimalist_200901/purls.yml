@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/delvelabs/vane
+  - pkg:github/delvelabs/vane2
+  - pkg:github/delvelabs/vane2-data

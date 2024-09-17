@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/multimc/launcher
+  - pkg:rpm/opensuse/multimc

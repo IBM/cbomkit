@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/golang-github-jinzhu-gorm
+  - pkg:deb/ubuntu/golang-github-jinzhu-gorm
+  - pkg:github/go-gorm/gorm
+  - pkg:rpm/fedora/golang-gorm

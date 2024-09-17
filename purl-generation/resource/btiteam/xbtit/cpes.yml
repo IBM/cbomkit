@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:btiteam:xbtit:2.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:btiteam:xbtit:2.54:*:*:*:*:*:*:*
+  - cpe:2.3:a:btiteam:xbtit:3.1:*:*:*:*:*:*:*

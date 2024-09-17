@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-horde-cssminify
+  - pkg:deb/ubuntu/php-horde-cssminify
+  - pkg:github/horde/cssminify
+  - pkg:rpm/fedora/php-horde-horde-cssminify
+  - pkg:rpm/opensuse/php-horde-horde-cssminify

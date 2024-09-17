@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/rubyzip
+  - pkg:github/rubyzip/rubyzip

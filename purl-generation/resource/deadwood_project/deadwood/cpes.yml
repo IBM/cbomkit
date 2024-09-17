@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:deadwood_project:deadwood:2.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:deadwood_project:deadwood:2.3.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:deadwood_project:deadwood:3.0.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:deadwood_project:deadwood:3.0.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:deadwood_project:deadwood:3.0.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:deadwood_project:deadwood:3.2.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:deadwood_project:deadwood:3.2.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:deadwood_project:deadwood:3.2.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:deadwood_project:deadwood:3.2.05:*:*:*:*:*:*:*

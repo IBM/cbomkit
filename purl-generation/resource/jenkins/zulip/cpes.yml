@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:jenkins:zulip:1.0.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:zulip:1.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:zulip:1.0.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:zulip:1.0.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:zulip:1.1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:zulip:1.1.1:*:*:*:*:jenkins:*:*

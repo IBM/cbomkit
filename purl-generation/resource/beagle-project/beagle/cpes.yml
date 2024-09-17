@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:beagle-project:beagle:0.2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:beagle-project:beagle:0.2.4:*:*:*:*:*:*:*

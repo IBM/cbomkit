@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mytrile/node-libnotify
+  - pkg:npm/libnotify

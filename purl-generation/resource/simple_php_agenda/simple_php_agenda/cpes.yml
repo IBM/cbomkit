@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:simple_php_agenda:simple_php_agenda:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:simple_php_agenda:simple_php_agenda:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simple_php_agenda:simple_php_agenda:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simple_php_agenda:simple_php_agenda:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simple_php_agenda:simple_php_agenda:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:simple_php_agenda:simple_php_agenda:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:simple_php_agenda:simple_php_agenda:2.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:simple_php_agenda:simple_php_agenda:2.2.8:*:*:*:*:*:*:*

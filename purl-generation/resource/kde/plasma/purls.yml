@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/plasma-workspace
+  - pkg:deb/ubuntu/plasma-workspace
+  - pkg:github/kde/plasma-workspace
+  - pkg:rpm/fedora/plasma-workspace
+  - pkg:rpm/opensuse/plasma-workspace

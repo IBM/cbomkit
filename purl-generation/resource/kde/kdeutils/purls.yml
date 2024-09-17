@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kde/kde1-kdeutils
+  - pkg:rpm/opensuse/kde1-kdeutils

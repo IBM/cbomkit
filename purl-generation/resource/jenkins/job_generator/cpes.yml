@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:jenkins:job_generator:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.01:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.02:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.03:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.04:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.05:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.06:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.07:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.08:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.09:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.12:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.13:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.14:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.15:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.16:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.17:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.18:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.19:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.20:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.21:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_generator:1.22:*:*:*:*:jenkins:*:*

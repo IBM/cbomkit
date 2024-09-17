@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/turistforeningen/node-s3-uploader
+  - pkg:npm/s3-uploader
+  - pkg:pypi/s3uploader
+  - pkg:rpm/opensuse/python-s3-uploader

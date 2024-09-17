@@ -1,0 +1,5 @@
+purls:
+  - pkg:cpan/spoon
+  - pkg:github/gitpan/spoon
+  - pkg:rpm/fedora/perl-spoon
+  - pkg:rpm/opensuse/perl-spoon

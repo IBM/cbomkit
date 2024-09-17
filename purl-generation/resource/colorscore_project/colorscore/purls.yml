@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/colorscore
+  - pkg:github/quadule/colorscore

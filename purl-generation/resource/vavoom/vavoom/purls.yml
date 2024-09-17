@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/janisl/vavoom
+  - pkg:rpm/fedora/vavoom
+  - pkg:rpm/opensuse/vavoom
+  - pkg:sourceforge/vavoom

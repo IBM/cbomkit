@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/gst-plugins-good1.0
+  - pkg:deb/gst-plugins-good
+  - pkg:deb/ubuntu/gst-plugins-good
+  - pkg:github/gstreamer/gst-plugins-good
+  - pkg:gitlab/clevon/gst-plugins-good
+  - pkg:gitlab/debian/gst-plugins-good
+  - pkg:golang/github.com/gstreamer/gst-plugins-good
+  - pkg:rpm/opensuse/gst-plugins-good

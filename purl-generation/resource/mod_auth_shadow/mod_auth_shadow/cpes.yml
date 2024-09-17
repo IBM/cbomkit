@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:mod_auth_shadow:mod_auth_shadow:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mod_auth_shadow:mod_auth_shadow:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mod_auth_shadow:mod_auth_shadow:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mod_auth_shadow:mod_auth_shadow:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mod_auth_shadow:mod_auth_shadow:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mod_auth_shadow:mod_auth_shadow:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mod_auth_shadow:mod_auth_shadow:2.0:*:*:*:*:*:*:*

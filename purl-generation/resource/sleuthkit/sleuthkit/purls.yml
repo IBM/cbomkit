@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/sleuthkit
+  - pkg:deb/ubuntu/sleuthkit
+  - pkg:docker/clausewitzbr/sleuthkit-docker
+  - pkg:github/sleuthkit/sleuthkit
+  - pkg:rpm/fedora/sleuthkit
+  - pkg:rpm/opensuse/sleuthkit
+  - pkg:sourceforge/sleuthkit

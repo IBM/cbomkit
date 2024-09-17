@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/wavpack
+  - pkg:deb/ubuntu/wavpack
+  - pkg:github/dbry/wavpack
+  - pkg:gitlab/redhat/wavpack
+  - pkg:rpm/centos/wavpack
+  - pkg:rpm/fedora/wavpack
+  - pkg:rpm/opensuse/wavpack
+  - pkg:sourceforge/wavpack

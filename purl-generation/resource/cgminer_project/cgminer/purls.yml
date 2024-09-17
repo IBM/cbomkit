@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/sjurajpuchky/cgminer
+  - pkg:deb/debian/cgminer
+  - pkg:deb/ubuntu/cgminer
+  - pkg:github/ckolivas/cgminer
+  - pkg:github/jgarzik/cpuminer
+  - pkg:rpm/opensuse/cgminer
+  - pkg:sourceforge/cgminer

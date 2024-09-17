@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/loge5/conf-cfg-ini
+  - pkg:npm/conf-cfg-ini

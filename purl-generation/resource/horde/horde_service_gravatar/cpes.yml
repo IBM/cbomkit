@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:horde:horde_service_gravatar:1.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_service_gravatar:1.0.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_service_gravatar:1.0.1:*:*:*:*:*:*:*

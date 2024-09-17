@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:jenkins:team_concert:1.0.12:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:team_concert:1.1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:team_concert:1.1.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:team_concert:1.1.9.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:team_concert:1.1.9.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:team_concert:1.1.9.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:team_concert:1.1.9.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:team_concert:1.1.9.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:team_concert:1.1.9.6.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:team_concert:1.1.9.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:team_concert:1.1.9.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:team_concert:1.1.9.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:team_concert:1.1.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:team_concert:1.2.0.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:team_concert:1.2.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:team_concert:1.2.0.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:team_concert:1.2.0.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:team_concert:1.2.0.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:team_concert:1.2.0.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:team_concert:1.3.0:*:*:*:*:jenkins:*:*

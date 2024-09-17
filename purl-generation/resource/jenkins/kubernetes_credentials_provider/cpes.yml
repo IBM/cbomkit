@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:0.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:0.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:0.12.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:0.13:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:0.14:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:0.15:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:0.16:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:0.17:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:0.18-1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:0.18.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:0.18:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:0.19:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:0.20:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:0.21:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:0.22:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:0.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:0.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:1.196.va_55f5e31e3c2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:1.199.v4a_1d1f5d074f:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:1.201.v11b_14c7a_0772:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:1.206.v7ce2cf7b_0c8b:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:1.208.v128ee9800c04:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:*:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kubernetes_credentials_provider:-:*:*:*:*:jenkins:*:*

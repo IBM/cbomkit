@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/lvmteam/lvm2
+  - pkg:gitlab/redhat/lvm2
+  - pkg:rpm/fedora/lvm2

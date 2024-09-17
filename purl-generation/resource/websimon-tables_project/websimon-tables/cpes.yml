@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:websimon-tables_project:websimon-tables:1.3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:websimon-tables_project:websimon-tables:-:*:*:*:*:wordpress:*:*

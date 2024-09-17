@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:thinx-device-api_project:thinx-device-api:2.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:thinx-device-api_project:thinx-device-api:-:*:*:*:*:node.js:*:*

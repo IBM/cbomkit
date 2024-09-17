@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:guac-dev:guacamole:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:guac-dev:guacamole:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:guac-dev:guacamole:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:guac-dev:guacamole:0.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:guac-dev:guacamole:0.9.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:guac-dev:guacamole:0.9.9:*:*:*:*:*:*:*

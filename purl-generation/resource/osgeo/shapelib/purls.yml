@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/overwatchimaging/shapelib
+  - pkg:deb/debian/shapelib
+  - pkg:deb/ubuntu/shapelib
+  - pkg:github/osgeo/shapelib
+  - pkg:rpm/fedora/shapelib
+  - pkg:rpm/opensuse/shapelib

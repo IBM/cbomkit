@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:openapi-python-client_project:openapi-python-client:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openapi-python-client_project:openapi-python-client:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openapi-python-client_project:openapi-python-client:0.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openapi-python-client_project:openapi-python-client:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openapi-python-client_project:openapi-python-client:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openapi-python-client_project:openapi-python-client:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openapi-python-client_project:openapi-python-client:0.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openapi-python-client_project:openapi-python-client:0.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openapi-python-client_project:openapi-python-client:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openapi-python-client_project:openapi-python-client:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openapi-python-client_project:openapi-python-client:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openapi-python-client_project:openapi-python-client:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openapi-python-client_project:openapi-python-client:0.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openapi-python-client_project:openapi-python-client:0.5.3:*:*:*:*:*:*:*

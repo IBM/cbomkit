@@ -1,0 +1,8 @@
+purls:
+  - pkg:cpan/clipboard
+  - pkg:deb/debian/libclipboard-perl
+  - pkg:deb/ubuntu/libclipboard-perl
+  - pkg:github/amnesiac/clipboard
+  - pkg:github/gitpan/clipboard
+  - pkg:rpm/fedora/perl-clipboard
+  - pkg:rpm/opensuse/perl-clipboard

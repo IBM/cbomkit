@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-serialize-javascript
+  - pkg:deb/ubuntu/node-serialize-javascript
+  - pkg:github/yahoo/serialize-javascript
+  - pkg:maven/org.webjars.npm/serialize-javascript
+  - pkg:npm/serialize-javascript

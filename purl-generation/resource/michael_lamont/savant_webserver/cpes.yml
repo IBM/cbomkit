@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:michael_lamont:savant_webserver:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:michael_lamont:savant_webserver:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:michael_lamont:savant_webserver:3.0:*:*:*:*:*:*:*

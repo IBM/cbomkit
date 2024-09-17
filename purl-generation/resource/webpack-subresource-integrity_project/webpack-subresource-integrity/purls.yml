@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/waysact/webpack-subresource-integrity
+  - pkg:maven/org.webjars.npm/webpack-subresource-integrity
+  - pkg:npm/webpack-subresource-integrity

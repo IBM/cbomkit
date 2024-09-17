@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:laravel-admin:laravel-admin:1.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:laravel-admin:laravel-admin:1.8.19:*:*:*:*:*:*:*

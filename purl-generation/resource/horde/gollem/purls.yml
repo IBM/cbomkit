@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-gollem
+  - pkg:deb/ubuntu/php-horde-gollem
+  - pkg:github/horde/gollem
+  - pkg:rpm/opensuse/horde5-gollem

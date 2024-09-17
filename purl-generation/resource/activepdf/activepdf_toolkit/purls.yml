@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/activepdf/toolkit
+  - pkg:nuget/ActivePDF.Toolkit

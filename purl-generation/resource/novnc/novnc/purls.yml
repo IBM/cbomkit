@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/novnc
+  - pkg:deb/ubuntu/novnc
+  - pkg:docker/carlosgaro/novnc
+  - pkg:github/novnc/novnc
+  - pkg:github/pimox/mirror-novnc
+  - pkg:maven/org.webjars.npm/github-com-novnc-novnc
+  - pkg:npm/%40novnc/novnc
+  - pkg:rpm/fedora/novnc
+  - pkg:rpm/opensuse/novnc

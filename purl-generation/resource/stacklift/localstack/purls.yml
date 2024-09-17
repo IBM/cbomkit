@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/atlassian/localstack
+  - pkg:docker/localstack/localstack
+  - pkg:github/localstack/localstack
+  - pkg:golang/github.com/localstack/localstack
+  - pkg:pypi/localstack
+  - pkg:sourceforge/localstack.mirror

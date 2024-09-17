@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/flite
+  - pkg:deb/ubuntu/flite
+  - pkg:github/bfoz/flite
+  - pkg:rpm/centos/flite
+  - pkg:rpm/fedora/flite
+  - pkg:rpm/opensuse/flite

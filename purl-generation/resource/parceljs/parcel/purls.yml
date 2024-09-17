@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/parcel-bundler/parcel
+  - pkg:npm/parceljs

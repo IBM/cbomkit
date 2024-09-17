@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:jenkins:continuous_integration_with_toad_edge:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:continuous_integration_with_toad_edge:1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:continuous_integration_with_toad_edge:2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:continuous_integration_with_toad_edge:2.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:continuous_integration_with_toad_edge:2.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:continuous_integration_with_toad_edge:*:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:continuous_integration_with_toad_edge:-:*:*:*:*:jenkins:*:*

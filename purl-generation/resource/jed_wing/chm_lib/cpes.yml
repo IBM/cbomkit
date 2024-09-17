@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:jed_wing:chm_lib:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:jed_wing:chm_lib:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jed_wing:chm_lib:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jed_wing:chm_lib:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:jed_wing:chm_lib:0.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:jed_wing:chm_lib:0.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:jed_wing:chm_lib:0.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:jed_wing:chm_lib:0.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:jed_wing:chm_lib:0.36:*:*:*:*:*:*:*

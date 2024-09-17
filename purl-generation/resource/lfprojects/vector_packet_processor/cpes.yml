@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:lfprojects:vector_packet_processor:19.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:vector_packet_processor:19.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:vector_packet_processor:20.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:vector_packet_processor:20.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:vector_packet_processor:20.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:vector_packet_processor:21.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:vector_packet_processor:21.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:vector_packet_processor:21.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:vector_packet_processor:22.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:vector_packet_processor:22.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:lfprojects:vector_packet_processor:22.10:*:*:*:*:*:*:*

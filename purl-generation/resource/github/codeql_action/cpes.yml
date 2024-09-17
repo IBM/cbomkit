@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:github:codeql_action:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:github:codeql_action:20200427:*:*:*:*:*:*:*
+  - cpe:2.3:a:github:codeql_action:20200601:*:*:*:*:*:*:*
+  - cpe:2.3:a:github:codeql_action:20200630:*:*:*:*:*:*:*
+  - cpe:2.3:a:github:codeql_action:20200812:*:*:*:*:*:*:*
+  - cpe:2.3:a:github:codeql_action:20200826:*:*:*:*:*:*:*
+  - cpe:2.3:a:github:codeql_action:20201008:*:*:*:*:*:*:*
+  - cpe:2.3:a:github:codeql_action:20201028:*:*:*:*:*:*:*
+  - cpe:2.3:a:github:codeql_action:20201106:*:*:*:*:*:*:*
+  - cpe:2.3:a:github:codeql_action:20201127:*:*:*:*:*:*:*
+  - cpe:2.3:a:github:codeql_action:20210127:*:*:*:*:*:*:*
+  - cpe:2.3:a:github:codeql_action:20210304:*:*:*:*:*:*:*

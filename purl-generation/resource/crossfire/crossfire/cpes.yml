@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:crossfire:crossfire:1.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:crossfire:crossfire:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:crossfire:crossfire:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:crossfire:crossfire:1.9.0:*:*:*:*:*:*:*

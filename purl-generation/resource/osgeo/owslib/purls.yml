@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/owslib
+  - pkg:deb/ubuntu/owslib
+  - pkg:github/geopython/owslib
+  - pkg:pypi/owslib
+  - pkg:rpm/fedora/python-owslib
+  - pkg:rpm/opensuse/python-owslib
+  - pkg:sourceforge/owslib

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mbutler/eventmanager
+  - pkg:sourceforge/phxeventmanager

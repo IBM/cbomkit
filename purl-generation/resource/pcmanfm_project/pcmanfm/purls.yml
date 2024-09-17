@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/pcmanfm
+  - pkg:deb/ubuntu/pcmanfm
+  - pkg:github/lxqt/pcmanfm-qt
+  - pkg:rpm/fedora/pcmanfm
+  - pkg:rpm/opensuse/pcmanfm
+  - pkg:sourceforge/pcmanfm

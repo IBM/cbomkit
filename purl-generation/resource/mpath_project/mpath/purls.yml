@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/aheckmann/mpath
+  - pkg:maven/org.webjars.npm/mpath
+  - pkg:npm/mpath

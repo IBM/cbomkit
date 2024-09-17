@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/colorlibhq/adminlte
+  - pkg:golang/github.com/colorlibhq/adminlte

@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/avatarin/websocket
+  - pkg:deb/debian/golang-github-gorilla-websocket
+  - pkg:deb/ubuntu/golang-github-gorilla-websocket
+  - pkg:github/gorilla/websocket
+  - pkg:rpm/fedora/golang-github-gorilla-websocket

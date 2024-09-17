@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:openam:openam:14.0.0:*:*:*:consortium:*:*:*
+  - cpe:2.3:a:openam:openam:4.1.0:*:*:*:consortium:*:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:paisterist:simple_http_scanner:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:paisterist:simple_http_scanner:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:paisterist:simple_http_scanner:0.3:*:*:*:*:*:*:*

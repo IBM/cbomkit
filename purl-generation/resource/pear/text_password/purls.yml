@@ -1,0 +1,8 @@
+purls:
+  - pkg:composer/pear/text_password
+  - pkg:deb/debian/php-pear
+  - pkg:deb/ubuntu/php-pear
+  - pkg:github/pear/text_password
+  - pkg:gitlab/redhat/php-pear
+  - pkg:rpm/fedora/php-pear
+  - pkg:rpm/opensuse/php-pear

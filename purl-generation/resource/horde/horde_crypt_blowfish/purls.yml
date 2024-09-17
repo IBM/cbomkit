@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-crypt-blowfish
+  - pkg:deb/ubuntu/php-horde-crypt-blowfish
+  - pkg:github/horde/crypt_blowfish
+  - pkg:rpm/fedora/php-horde-horde-crypt-blowfish

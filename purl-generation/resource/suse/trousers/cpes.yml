@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:suse:trousers:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:trousers:0.3.14-6.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:trousers:0.3.14-7.1:*:*:*:*:*:*:*

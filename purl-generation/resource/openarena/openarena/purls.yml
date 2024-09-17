@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/openarena
+  - pkg:deb/ubuntu/openarena
+  - pkg:github/openarena/legacy
+  - pkg:rpm/fedora/openarena
+  - pkg:rpm/opensuse/openarena
+  - pkg:sourceforge/oarena

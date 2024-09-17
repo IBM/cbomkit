@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/ardour
+  - pkg:deb/ubuntu/ardour
+  - pkg:github/ardour/ardour
+  - pkg:rpm/opensuse/ardour

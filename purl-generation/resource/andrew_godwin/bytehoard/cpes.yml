@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:andrew_godwin:bytehoard:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:andrew_godwin:bytehoard:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:andrew_godwin:bytehoard:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:andrew_godwin:bytehoard:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:andrew_godwin:bytehoard:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:andrew_godwin:bytehoard:2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:andrew_godwin:bytehoard:2.0_beta1:*:*:*:*:*:*:*
+  - cpe:2.3:a:andrew_godwin:bytehoard:2.0_beta2:*:*:*:*:*:*:*
+  - cpe:2.3:a:andrew_godwin:bytehoard:2.1_alpha:*:*:*:*:*:*:*
+  - cpe:2.3:a:andrew_godwin:bytehoard:2.1_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:andrew_godwin:bytehoard:2.1_delta:*:*:*:*:*:*:*
+  - cpe:2.3:a:andrew_godwin:bytehoard:2.1_epsilon:*:*:*:*:*:*:*
+  - cpe:2.3:a:andrew_godwin:bytehoard:2.1_gamma:*:*:*:*:*:*:*

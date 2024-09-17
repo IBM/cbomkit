@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/gpac
+  - pkg:deb/ubuntu/gpac
+  - pkg:github/gpac/gpac
+  - pkg:sourceforge/gpac

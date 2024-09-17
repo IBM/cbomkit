@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:confluent:ansible:5.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:confluent:ansible:5.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:confluent:ansible:5.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:confluent:ansible:6.0.0:*:*:*:*:*:*:*

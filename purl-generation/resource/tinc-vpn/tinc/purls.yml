@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/tinc
+  - pkg:deb/ubuntu/tinc
+  - pkg:github/gsliepen/tinc
+  - pkg:gitlab/gsliepen/tinc
+  - pkg:rpm/fedora/tinc
+  - pkg:rpm/opensuse/tinc

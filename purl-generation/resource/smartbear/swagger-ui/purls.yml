@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/swaggerapi/swagger-ui
+  - pkg:github/swagger-api/swagger-ui
+  - pkg:maven/org.webjars.npm/swagger-ui
+  - pkg:npm/swagger-ui

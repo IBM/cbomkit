@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/cycoph/atasm
+  - pkg:github/linuxha/atasm
+  - pkg:rpm/fedora/atasm
+  - pkg:rpm/opensuse/atasm
+  - pkg:sourceforge/atasm

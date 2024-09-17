@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/cisco/node-jose
+  - pkg:maven/org.webjars.npm/node-jose
+  - pkg:npm/node-jose

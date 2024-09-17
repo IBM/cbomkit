@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:openstack:juno:2014.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:juno:2014.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:juno:2014.2.3:*:*:*:*:*:*:*

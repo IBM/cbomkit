@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/owasp/dependency-check
+  - pkg:github/jeremylong/dependencycheck
+  - pkg:maven/org.owasp/dependency-check-parent

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/cryptsetup
+  - pkg:deb/ubuntu/cryptsetup
+  - pkg:github/mbroz/cryptsetup
+  - pkg:gitlab/cryptsetup/cryptsetup
+  - pkg:rpm/centos/cryptsetup
+  - pkg:rpm/fedora/cryptsetup
+  - pkg:rpm/opensuse/cryptsetup

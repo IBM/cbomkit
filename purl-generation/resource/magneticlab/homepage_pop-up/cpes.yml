@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:magneticlab:homepage_pop-up:1.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:magneticlab:homepage_pop-up:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:magneticlab:homepage_pop-up:-:*:*:*:*:wordpress:*:*

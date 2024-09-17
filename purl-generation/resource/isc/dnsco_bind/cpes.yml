@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:isc:dnsco_bind:9.9.3:s1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:dnsco_bind:9.9.3:s1-p1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:dnsco_bind:9.9.4:b1:*:*:*:*:*:*
+  - cpe:2.3:a:isc:dnsco_bind:9.9.4:s1b1:*:*:*:*:*:*

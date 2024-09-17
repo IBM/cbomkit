@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/gettext
+  - pkg:deb/ubuntu/gettext
+  - pkg:github/autotools-mirror/gettext
+  - pkg:github/distrotech/gettext
+  - pkg:github/koron/gettext
+  - pkg:gnu/gettext
+  - pkg:rpm/centos/gettext
+  - pkg:rpm/fedora/gettext
+  - pkg:rpm/opensuse/gettext

@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/advaitraut/networkmanager
+  - pkg:github/networkmanager/networkmanager
+  - pkg:gitlab/redhat/networkmanager
+  - pkg:rpm/fedora/networkmanager
+  - pkg:rpm/opensuse/networkmanager

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sherlock-project/sherlock
+  - pkg:golang/github.com/sherlock-project/sherlock

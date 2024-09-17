@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:mikebrady:not_quite_ptp:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mikebrady:not_quite_ptp:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mikebrady:not_quite_ptp:1.2.2:*:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/prboom-plus
+  - pkg:deb/ubuntu/prboom-plus
+  - pkg:github/coelckers/prboom-plus
+  - pkg:rpm/fedora/prboom-plus
+  - pkg:rpm/opensuse/prboom-plus
+  - pkg:sourceforge/prboom-plus

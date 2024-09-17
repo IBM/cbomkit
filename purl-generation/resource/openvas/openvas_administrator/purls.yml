@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/directionless/debian-packaging-openvas-administrator
+  - pkg:github/pld-linux/openvas-administrator
+  - pkg:gitlab/kalilinux/openvas-administrator
+  - pkg:pypi/openvas.oaplib
+  - pkg:rpm/opensuse/openvas-administrator

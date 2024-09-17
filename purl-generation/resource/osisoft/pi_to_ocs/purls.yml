@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/osisoft/ocs-docs
+  - pkg:github/osisoft/sample-ocs-sample_libraries-python
+  - pkg:pypi/ocs-sample-library-hub

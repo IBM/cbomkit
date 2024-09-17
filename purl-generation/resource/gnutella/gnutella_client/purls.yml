@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/gtk-gnutella/gtk-gnutella
+  - pkg:rpm/fedora/gtk-gnutella
+  - pkg:rpm/opensuse/gtk-gnutella
+  - pkg:sourceforge/gtk-gnutella

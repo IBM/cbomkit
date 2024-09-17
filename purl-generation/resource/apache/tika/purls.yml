@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/tika
+  - pkg:deb/debian/tika
+  - pkg:deb/ubuntu/tika
+  - pkg:docker/apache/tika
+  - pkg:github/apache/tika
+  - pkg:maven/org.apache.tika/tika

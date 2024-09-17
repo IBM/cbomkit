@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-spellchecker
+  - pkg:deb/ubuntu/php-horde-spellchecker
+  - pkg:github/horde/spellchecker
+  - pkg:rpm/fedora/php-horde-horde-spellchecker

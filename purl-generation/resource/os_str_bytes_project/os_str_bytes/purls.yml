@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dylni/os_str_bytes
+  - pkg:rpm/fedora/rust-os_str_bytes

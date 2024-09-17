@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:pivotal:bosh_stemcell:3146.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:bosh_stemcell:3232.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:bosh_stemcell:3232.6:*:*:*:*:*:*:*

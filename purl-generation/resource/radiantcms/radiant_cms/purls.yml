@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/radiantcms/radiant
+  - pkg:gem/radiant
+  - pkg:github/radiant/radiant

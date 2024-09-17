@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/robrichards/xmlseclibs
+  - pkg:rpm/fedora/php-xmlseclibs

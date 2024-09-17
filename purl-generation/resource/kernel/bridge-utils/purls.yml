@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/bridge-utils
+  - pkg:deb/ubuntu/bridge-utils
+  - pkg:github/gandi/bridge-utils
+  - pkg:github/itoolx/bridge-utils
+  - pkg:rpm/centos/bridge-utils
+  - pkg:rpm/fedora/bridge-utils
+  - pkg:rpm/opensuse/bridge-utils

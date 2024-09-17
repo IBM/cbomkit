@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/korteke/java-opensaml
+  - pkg:github/mayfourth/shibboleth-java-opensaml

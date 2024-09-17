@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/freelan
+  - pkg:deb/ubuntu/freelan
+  - pkg:docker/freelan/freelan
+  - pkg:github/freelan-developers/freelan

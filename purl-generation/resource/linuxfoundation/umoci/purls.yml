@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/umoci
+  - pkg:deb/ubuntu/umoci
+  - pkg:github/opencontainers/umoci
+  - pkg:github/opensuse/umoci
+  - pkg:rpm/opensuse/umoci

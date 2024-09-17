@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ocrfeeder
+  - pkg:deb/ubuntu/ocrfeeder
+  - pkg:github/ackalker/ocrfeeder
+  - pkg:github/gnome/ocrfeeder
+  - pkg:github/thuydang/ocrfeeder

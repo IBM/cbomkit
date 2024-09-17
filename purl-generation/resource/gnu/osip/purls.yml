@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libosip2
+  - pkg:deb/ubuntu/libosip2
+  - pkg:github/tangm421/osip
+  - pkg:gnu/osip
+  - pkg:rpm/fedora/libosip2
+  - pkg:rpm/opensuse/libosip2

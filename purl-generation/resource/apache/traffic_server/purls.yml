@@ -1,0 +1,8 @@
+purls:
+  - pkg:apache/trafficserver
+  - pkg:deb/debian/trafficserver
+  - pkg:deb/ubuntu/trafficserver
+  - pkg:github/alibaba/trafficserver
+  - pkg:github/apache/trafficserver
+  - pkg:maven/org.apache.trafficserver/trafficserver
+  - pkg:rpm/opensuse/apache-trafficserver

@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:reyero:messaging:6.x-2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:reyero:messaging:6.x-2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:reyero:messaging:6.x-2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:reyero:messaging:6.x-2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:reyero:messaging:6.x-4.x:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:reyero:messaging:6.x-4.x:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:reyero:messaging:6.x-4.x:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:reyero:messaging:6.x-4.x:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:reyero:messaging:6.x-4.x:beta6:*:*:*:*:*:*
+  - cpe:2.3:a:reyero:messaging:6.x-4.x:beta7:*:*:*:*:*:*

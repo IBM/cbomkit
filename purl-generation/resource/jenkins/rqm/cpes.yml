@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:jenkins:rqm:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rqm:2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rqm:2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rqm:2.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rqm:2.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rqm:2.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rqm:2.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rqm:2.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rqm:2.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rqm:2.8:*:*:*:*:jenkins:*:*

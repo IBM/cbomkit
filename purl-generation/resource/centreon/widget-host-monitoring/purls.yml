@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/centreon/centreon-widget-host-monitoring
+  - pkg:rpm/opensuse/centreon-widget-host-monitoring

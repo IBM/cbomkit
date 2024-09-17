@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-xmlhttprequest
+  - pkg:deb/ubuntu/node-xmlhttprequest
+  - pkg:github/driverdan/node-xmlhttprequest
+  - pkg:maven/org.webjars.npm/xmlhttprequest
+  - pkg:npm/xmlhttprequest
+  - pkg:rpm/opensuse/nodejs-xmlhttprequest

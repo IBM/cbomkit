@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nextcloud/news
+  - pkg:github/nextcloud/news-android

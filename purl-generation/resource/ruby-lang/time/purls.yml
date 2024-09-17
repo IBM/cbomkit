@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/time
+  - pkg:github/ruby/time

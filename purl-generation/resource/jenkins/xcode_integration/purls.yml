@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/xcode-plugin
+  - pkg:github/rayh/xcode-hudson-plugin

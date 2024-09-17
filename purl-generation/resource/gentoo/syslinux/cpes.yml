@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:gentoo:syslinux:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:syslinux:2.0.1:*:*:*:*:*:*:*

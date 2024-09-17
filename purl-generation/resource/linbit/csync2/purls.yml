@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/csync2
+  - pkg:deb/ubuntu/csync2
+  - pkg:github/linbit/csync2
+  - pkg:rpm/fedora/csync2
+  - pkg:rpm/opensuse/csync2

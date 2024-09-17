@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/waitress
+  - pkg:deb/ubuntu/waitress
+  - pkg:github/pylons/waitress
+  - pkg:pypi/waitress
+  - pkg:rpm/fedora/python-waitress
+  - pkg:rpm/opensuse/python-waitress

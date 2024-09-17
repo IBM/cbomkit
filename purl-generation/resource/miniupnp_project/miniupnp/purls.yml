@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/lioncoinlk/miniupnp
+  - pkg:deb/debian/miniupnpc
+  - pkg:deb/ubuntu/miniupnpc
+  - pkg:github/miniupnp/miniupnp
+  - pkg:github/monero-project/miniupnp
+  - pkg:rpm/Fedora/miniupnpc
+  - pkg:rpm/Opensuse/miniupnpc

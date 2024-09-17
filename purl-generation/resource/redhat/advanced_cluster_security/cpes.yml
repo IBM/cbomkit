@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:redhat:advanced_cluster_security:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:advanced_cluster_security:3.68:*:*:*:*:kubernates:*:*
+  - cpe:2.3:a:redhat:advanced_cluster_security:3.69:*:*:*:*:kubernates:*:*
+  - cpe:2.3:a:redhat:advanced_cluster_security:3.70:*:*:*:*:kubernates:*:*
+  - cpe:2.3:a:redhat:advanced_cluster_security:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:advanced_cluster_security:4.0:*:*:*:*:kubernates:*:*

@@ -1,0 +1,9 @@
+purls:
+  - pkg:bitbucket/tknauth/musl
+  - pkg:deb/debian/musl
+  - pkg:deb/ubuntu/musl
+  - pkg:github/bminor/musl
+  - pkg:github/eosio/musl
+  - pkg:github/ifduyue/musl
+  - pkg:rpm/fedora/musl
+  - pkg:rpm/opensuse/musl

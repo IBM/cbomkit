@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/mchalain/nmealib
+  - pkg:github/paulxia/nmealib
+  - pkg:github/weifengsd/nmealib
+  - pkg:sourceforge/nmea

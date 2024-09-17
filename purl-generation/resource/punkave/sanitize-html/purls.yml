@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-sanitize-html
+  - pkg:deb/ubuntu/node-sanitize-html
+  - pkg:github/apostrophecms/sanitize-html
+  - pkg:maven/org.webjars.npm/sanitize-html
+  - pkg:npm/sanitize-html

@@ -1,0 +1,6 @@
+purls:
+  - pkg:cpan/sgi-fam
+  - pkg:deb/debian/fam
+  - pkg:deb/ubuntu/fam
+  - pkg:github/gitpan/sgi-fam
+  - pkg:sourceforge/python-fam

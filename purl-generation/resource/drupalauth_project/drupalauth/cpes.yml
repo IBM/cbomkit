@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:drupalauth_project:drupalauth:1.2.1:-:-:*:-:simplesamlphp:*:*
+  - cpe:2.3:a:drupalauth_project:drupalauth:1.2.2:-:-:*:-:simplesamlphp:*:*

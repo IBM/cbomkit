@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-idna
+  - pkg:deb/ubuntu/php-horde-idna
+  - pkg:github/horde/idna
+  - pkg:rpm/fedora/php-horde-horde-idna

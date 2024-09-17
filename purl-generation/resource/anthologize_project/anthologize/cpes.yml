@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:anthologize_project:anthologize:0.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:anthologize_project:anthologize:0.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:anthologize_project:anthologize:0.7.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:anthologize_project:anthologize:0.7.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:anthologize_project:anthologize:0.7.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:anthologize_project:anthologize:0.7.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:anthologize_project:anthologize:0.7.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:anthologize_project:anthologize:0.7.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:anthologize_project:anthologize:0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:anthologize_project:anthologize:0.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:anthologize_project:anthologize:0.8.1:*:*:*:*:wordpress:*:*

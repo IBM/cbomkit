@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/php-imagick
+  - pkg:deb/ubuntu/php-imagick
+  - pkg:github/imagick/imagick
+  - pkg:nuget/PHP7_64BIT_IMAGICK_6937
+  - pkg:opensuse/php7-imagick
+  - pkg:rpm/fedora/php-pecl-imagick
+  - pkg:rpm/opensuse/php8-imagick

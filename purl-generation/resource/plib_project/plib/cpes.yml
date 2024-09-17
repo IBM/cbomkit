@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:plib_project:plib:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:plib_project:plib:1.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:plib_project:plib:1.85:*:*:*:*:*:*:*

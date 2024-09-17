@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/kio-extras
+  - pkg:deb/ubuntu/kio-extras
+  - pkg:github/kde/kio-extras
+  - pkg:rpm/fedora/kio-extras

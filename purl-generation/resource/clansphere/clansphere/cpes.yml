@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:clansphere:clansphere:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:clansphere:clansphere:2007.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:clansphere:clansphere:2007.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:clansphere:clansphere:2007.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:clansphere:clansphere:2007.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:clansphere:clansphere:2007.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:clansphere:clansphere:2007.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:clansphere:clansphere:2008:*:*:*:*:*:*:*
+  - cpe:2.3:a:clansphere:clansphere:2008.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:clansphere:clansphere:2008.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:clansphere:clansphere:2008.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:clansphere:clansphere:2009.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:clansphere:clansphere:2009.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:clansphere:clansphere:2009.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:clansphere:clansphere:2009.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:clansphere:clansphere:2009.0:rc3:*:*:*:*:*:*

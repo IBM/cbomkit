@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-horde-role
+  - pkg:deb/ubuntu/php-horde-role
+  - pkg:github/horde/role
+  - pkg:rpm/fedora/php-horde-horde-role
+  - pkg:rpm/opensuse/php-horde-horde-role

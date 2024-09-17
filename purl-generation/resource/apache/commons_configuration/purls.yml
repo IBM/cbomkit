@@ -1,0 +1,6 @@
+purls:
+  - pkg:apache/commons
+  - pkg:deb/debian/commons-configuration
+  - pkg:deb/ubuntu/commons-configuration
+  - pkg:github/apache/commons-configuration
+  - pkg:maven/org.apache.commons/commons-configuration2

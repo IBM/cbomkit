@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:supsystic:pricing_table_by_supsystic:1.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:supsystic:pricing_table_by_supsystic:1.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:supsystic:pricing_table_by_supsystic:1.8.2:*:*:*:*:wordpress:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/kawf/kawf
+  - pkg:github/kawf/kawf
+  - pkg:sourceforge/kawf

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:fileviewer_project:fileviewer:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fileviewer_project:fileviewer:-:*:*:*:*:wordpress:*:*

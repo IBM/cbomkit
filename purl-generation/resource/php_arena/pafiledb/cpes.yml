@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:php_arena:pafiledb:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:php_arena:pafiledb:1.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:php_arena:pafiledb:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:php_arena:pafiledb:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:php_arena:pafiledb:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:php_arena:pafiledb:3.0_beta_3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:php_arena:pafiledb:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:php_arena:pafiledb:3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:php_arena:pafiledb:extreme_rc_1:*:*:*:*:*:*:*
+  - cpe:2.3:a:php_arena:pafiledb:extreme_rc_2:*:*:*:*:*:*:*
+  - cpe:2.3:a:php_arena:pafiledb:extreme_rc_3:*:*:*:*:*:*:*
+  - cpe:2.3:a:php_arena:pafiledb:extreme_rc_4:*:*:*:*:*:*:*
+  - cpe:2.3:a:php_arena:pafiledb:extreme_rc_5:*:*:*:*:*:*:*

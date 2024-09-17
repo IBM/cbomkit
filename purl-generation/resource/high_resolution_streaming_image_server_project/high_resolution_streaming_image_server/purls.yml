@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/tcpan/iipsrv
+  - pkg:github/bcli4d/iipsrv
+  - pkg:github/ruven/iipsrv
+  - pkg:rpm/fedora/iipsrv
+  - pkg:sourceforge/iipimage

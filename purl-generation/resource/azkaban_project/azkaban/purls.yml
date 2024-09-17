@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/azkaban/azkaban
+  - pkg:maven/com.linkedin.azkaban/azkaban-common

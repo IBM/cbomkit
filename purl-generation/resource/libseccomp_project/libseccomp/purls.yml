@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libseccomp
+  - pkg:deb/ubuntu/libseccomp
+  - pkg:github/seccomp/libseccomp
+  - pkg:gitlab/redhat/libseccomp
+  - pkg:rpm/centos/libseccomp
+  - pkg:rpm/fedora/libseccomp
+  - pkg:rpm/opensuse/libseccomp

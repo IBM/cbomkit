@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/coreutils
+  - pkg:deb/ubuntu/coreutils
+  - pkg:github/goj/coreutils
+  - pkg:github/homer6/gnu_coreutils
+  - pkg:github/nqct/coreutils
+  - pkg:gitlab/redhat/coreutils
+  - pkg:gnu/coreutils
+  - pkg:rpm/centos/coreutils
+  - pkg:rpm/fedora/coreutils
+  - pkg:rpm/opensuse/coreutils

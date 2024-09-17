@@ -1,0 +1,4 @@
+purls:
+  - pkg:rpm/fedora/openjpeg
+  - pkg:rpm/opensuse/openjpeg
+  - pkg:sourceforge/openjpeg

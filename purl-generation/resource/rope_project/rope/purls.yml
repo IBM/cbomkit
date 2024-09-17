@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/rope
+  - pkg:deb/ubuntu/rope
+  - pkg:github/python-rope/rope
+  - pkg:pypi/rope
+  - pkg:rpm/fedora/python-rope
+  - pkg:rpm/opensuse/python-rope

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-horde-oauth
+  - pkg:deb/ubuntu/php-horde-oauth
+  - pkg:github/horde/oauth
+  - pkg:rpm/fedora/php-horde-horde-oauth
+  - pkg:rpm/opensuse/php-horde-horde-oauth

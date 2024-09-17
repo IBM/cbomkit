@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jomres:jomres:7.3.0:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:jomres:jomres:7.3.1:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:jomres:jomres:-:*:*:*:*:joomla\!:*:*

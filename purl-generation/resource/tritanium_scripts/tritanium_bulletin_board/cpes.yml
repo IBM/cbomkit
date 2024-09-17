@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:tritanium_scripts:tritanium_bulletin_board:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:tritanium_scripts:tritanium_bulletin_board:0.993_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:tritanium_scripts:tritanium_bulletin_board:0.994_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:tritanium_scripts:tritanium_bulletin_board:0.999_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:tritanium_scripts:tritanium_bulletin_board:1.0_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:tritanium_scripts:tritanium_bulletin_board:1.1_final:*:*:*:*:*:*:*
+  - cpe:2.3:a:tritanium_scripts:tritanium_bulletin_board:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tritanium_scripts:tritanium_bulletin_board:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tritanium_scripts:tritanium_bulletin_board:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tritanium_scripts:tritanium_bulletin_board:1.2.3:*:*:*:*:*:*:*

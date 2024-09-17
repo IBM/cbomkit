@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/envoyproxy/envoy
+  - pkg:github/envoyproxy/envoy
+  - pkg:sourceforge/envoy.mirror

@@ -1,0 +1,4 @@
+purls:
+  - pkg:cargo/sqlpage
+  - pkg:docker/lovasoa/sqlpage
+  - pkg:github/lovasoa/sqlpage

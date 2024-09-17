@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:suchmokuo:node-worker-threads-pool:1.4.3:*:*:*:*:node.js:*:*

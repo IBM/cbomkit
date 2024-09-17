@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/knox
+  - pkg:github/apache/knox
+  - pkg:maven/org.apache.knox/knox-cli-launcher

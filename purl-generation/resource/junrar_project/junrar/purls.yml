@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/junrar/junrar
+  - pkg:maven/com.github.junrar/junrar

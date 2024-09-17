@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:sos_project:sos:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:sos_project:sos:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sos_project:sos:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sos_project:sos:3.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:sos_project:sos:3.2:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:sos_project:sos:3.2:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:sos_project:sos:3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sos_project:sos:3.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:sos_project:sos:3.4:beta:*:*:*:*:*:*
+  - cpe:2.3:a:sos_project:sos:3.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:sos_project:sos:3.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sos_project:sos:3.5:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:sos_project:sos:3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:sos_project:sos:3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:sos_project:sos:3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:sos_project:sos:4.2-20.el8_6:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:everestthemes:mocho_blog:1.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:everestthemes:mocho_blog:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:everestthemes:mocho_blog:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:python:pyxml:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:python:pyxml:0.8.4:*:*:*:*:*:*:*

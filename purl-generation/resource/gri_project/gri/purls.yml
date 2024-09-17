@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/gri
+  - pkg:deb/ubuntu/gri
+  - pkg:github/dankelley/gri
+  - pkg:rpm/opensuse/gri
+  - pkg:sourceforge/gri

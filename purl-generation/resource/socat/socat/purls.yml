@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/socat
+  - pkg:deb/ubuntu/socat
+  - pkg:github/erluko/socat
+  - pkg:rpm/fedora/socat
+  - pkg:rpm/opensuse/socat

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:x11vnc_project:x11vnc:0.9.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:x11vnc_project:x11vnc:0.9.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:x11vnc_project:x11vnc:0.9.16:*:*:*:*:*:*:*

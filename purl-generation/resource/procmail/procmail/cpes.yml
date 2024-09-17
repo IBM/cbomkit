@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:procmail:procmail:3.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:procmail:procmail:3.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:procmail:procmail:3.22:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/golang-github-lucas-clemente-quic-go
+  - pkg:deb/ubuntu/golang-github-lucas-clemente-quic-go
+  - pkg:github/lucas-clemente/quic-go

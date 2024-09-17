@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:i-librarian:i_librarian:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:i-librarian:i_librarian:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:i-librarian:i_librarian:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:i-librarian:i_librarian:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:i-librarian:i_librarian:3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:i-librarian:i_librarian:3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:i-librarian:i_librarian:3.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:i-librarian:i_librarian:3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:i-librarian:i_librarian:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:i-librarian:i_librarian:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:i-librarian:i_librarian:4.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:i-librarian:i_librarian:4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:i-librarian:i_librarian:4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:i-librarian:i_librarian:4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:i-librarian:i_librarian:4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:i-librarian:i_librarian:4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:i-librarian:i_librarian:4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:i-librarian:i_librarian:4.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:i-librarian:i_librarian:4.9:*:*:*:*:*:*:*

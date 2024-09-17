@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:viscacha:viscacha:0.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:viscacha:viscacha:0.8.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:viscacha:viscacha:0.8:gold:*:*:*:*:*:*
+  - cpe:2.3:a:viscacha:viscacha:0.8:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:viscacha:viscacha:0.8:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:viscacha:viscacha:0.8:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:viscacha:viscacha:0.8:rc4_pl1:*:*:*:*:*:*
+  - cpe:2.3:a:viscacha:viscacha:0.8:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:viscacha:viscacha:0.8:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:viscacha:viscacha:0.8:rc7:*:*:*:*:*:*

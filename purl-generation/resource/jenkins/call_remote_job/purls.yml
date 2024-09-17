@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/call-remote-job-plugin
+  - pkg:github/ukiuni/call-remote-job-plugin

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/simpleledger/slp-validate.js
+  - pkg:npm/slp-validate

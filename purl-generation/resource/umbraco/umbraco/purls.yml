@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/umbraco/umbraco-cms
+  - pkg:nuget/UmbracoCms

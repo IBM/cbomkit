@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/isc-kea
+  - pkg:deb/ubuntu/isc-kea
+  - pkg:github/isc-projects/kea
+  - pkg:rpm/fedora/kea
+  - pkg:rpm/opensuse/kea

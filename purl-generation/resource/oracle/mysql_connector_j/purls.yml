@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/ubuntu/mysql-connector-java
+  - pkg:github/mysql/mysql-connector-j
+  - pkg:maven/mysql/mysql-connector-java
+  - pkg:rpm/fedora/mysql-connector-java
+  - pkg:rpm/opensuse/mysql-connector-java

@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:erlang:otp:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:erlang:otp:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:erlang:otp:18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:erlang:otp:23.2.2:*:*:*:*:*:*:*

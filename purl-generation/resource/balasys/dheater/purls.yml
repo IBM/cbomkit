@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/balasys/dheater
+  - pkg:github/balasys/dheater
+  - pkg:pypi/dheater

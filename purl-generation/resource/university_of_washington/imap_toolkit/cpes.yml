@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:university_of_washington:imap_toolkit:2002:*:*:*:*:*:*:*
+  - cpe:2.3:a:university_of_washington:imap_toolkit:2003:*:*:*:*:*:*:*
+  - cpe:2.3:a:university_of_washington:imap_toolkit:2004:*:*:*:*:*:*:*
+  - cpe:2.3:a:university_of_washington:imap_toolkit:2005:*:*:*:*:*:*:*
+  - cpe:2.3:a:university_of_washington:imap_toolkit:2006:*:*:*:*:*:*:*
+  - cpe:2.3:a:university_of_washington:imap_toolkit:2007:*:*:*:*:*:*:*
+  - cpe:2.3:a:university_of_washington:imap_toolkit:2007b:*:*:*:*:*:*:*
+  - cpe:2.3:a:university_of_washington:imap_toolkit:2007c:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:apache/shardingsphere
+  - pkg:github/apache/shardingsphere-elasticjob-ui

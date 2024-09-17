@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/galkn/parsejson
+  - pkg:npm/parsejson

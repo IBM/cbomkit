@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libslf4j-java
+  - pkg:deb/ubuntu/libslf4j-java
+  - pkg:github/qos-ch/slf4j
+  - pkg:gitlab/redhat/slf4j
+  - pkg:maven/org.slf4j/slf4j-parent
+  - pkg:rpm/centos/slf4j
+  - pkg:rpm/fedora/slf4j
+  - pkg:rpm/opensuse/slf4j

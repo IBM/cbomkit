@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:gopiplus:popup_with_fancybox:3.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gopiplus:popup_with_fancybox:*:*:*:*:*:wordpress:*:*

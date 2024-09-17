@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/misp/misp-maltego
+  - pkg:pypi/misp-maltego

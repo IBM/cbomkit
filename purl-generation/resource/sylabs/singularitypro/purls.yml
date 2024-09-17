@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sylabs/singularity
+  - pkg:golang/github.com/sylabs/singularity

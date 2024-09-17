@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:opensuse:openldap2:2.4.26-0.74.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:openldap2:2.4.41-18.71.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:openldap2:2.4.46-9.31.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:openldap2:2.4.46-9.37.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:openldap2:2.4.46-lp151.10.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:openldap2:2.4.46-lp152.14.9.1:*:*:*:*:*:*:*

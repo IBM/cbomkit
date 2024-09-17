@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:property-expr_project:property-expr:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:property-expr_project:property-expr:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:property-expr_project:property-expr:1.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:property-expr_project:property-expr:1.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:property-expr_project:property-expr:1.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:property-expr_project:property-expr:1.3.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:property-expr_project:property-expr:1.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:property-expr_project:property-expr:1.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:property-expr_project:property-expr:1.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:property-expr_project:property-expr:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:property-expr_project:property-expr:2.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:property-expr_project:property-expr:2.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:property-expr_project:property-expr:2.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:property-expr_project:property-expr:-:*:*:*:*:node.js:*:*

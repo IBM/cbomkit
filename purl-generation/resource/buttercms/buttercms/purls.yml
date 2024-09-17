@@ -1,0 +1,10 @@
+purls:
+  - pkg:gem/buttercms-ruby
+  - pkg:github/buttercms/buttercms-csharp
+  - pkg:github/buttercms/buttercms-js
+  - pkg:github/buttercms/buttercms-php
+  - pkg:github/buttercms/buttercms-python
+  - pkg:github/buttercms/buttercms-ruby
+  - pkg:npm/buttercms
+  - pkg:nuget/ButterCMS
+  - pkg:pypi/buttercms-python

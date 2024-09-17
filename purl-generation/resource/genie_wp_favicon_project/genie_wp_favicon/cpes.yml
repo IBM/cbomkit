@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:genie_wp_favicon_project:genie_wp_favicon:0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:genie_wp_favicon_project:genie_wp_favicon:0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:genie_wp_favicon_project:genie_wp_favicon:0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:genie_wp_favicon_project:genie_wp_favicon:0.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:genie_wp_favicon_project:genie_wp_favicon:0.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:genie_wp_favicon_project:genie_wp_favicon:0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:genie_wp_favicon_project:genie_wp_favicon:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/hcxtools
+  - pkg:deb/ubuntu/hcxtools
+  - pkg:github/zerbea/hcxtools
+  - pkg:golang/github.com/zerbea/hcxtools
+  - pkg:rpm/fedora/hcxtools
+  - pkg:rpm/opensuse/hcxtools

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:clutter_project:clutter:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:clutter_project:clutter:1.16.0:*:*:*:*:*:*:*

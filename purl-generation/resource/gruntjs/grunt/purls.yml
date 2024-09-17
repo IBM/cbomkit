@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/grunt
+  - pkg:deb/ubuntu/grunt
+  - pkg:github/gruntjs/grunt
+  - pkg:maven/org.webjars.npm/grunt
+  - pkg:npm/grunt
+  - pkg:nuget/Grunt
+  - pkg:rpm/fedora/nodejs-grunt
+  - pkg:rpm/opensuse/nodejs-grunt
+  - pkg:sourceforge/grunt.mirror

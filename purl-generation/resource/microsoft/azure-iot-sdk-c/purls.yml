@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/azure/azure-iot-sdk-c
+  - pkg:nuget/Azure.DigitalTwins.Core
+  - pkg:pypi/azure-iot-deviceupdate

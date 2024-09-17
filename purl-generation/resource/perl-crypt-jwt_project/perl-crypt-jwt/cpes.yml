@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:perl-crypt-jwt_project:perl-crypt-jwt:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:perl-crypt-jwt_project:perl-crypt-jwt:0.012:*:*:*:*:*:*:*
+  - cpe:2.3:a:perl-crypt-jwt_project:perl-crypt-jwt:0.013:*:*:*:*:*:*:*
+  - cpe:2.3:a:perl-crypt-jwt_project:perl-crypt-jwt:0.014:*:*:*:*:*:*:*
+  - cpe:2.3:a:perl-crypt-jwt_project:perl-crypt-jwt:0.015:*:*:*:*:*:*:*
+  - cpe:2.3:a:perl-crypt-jwt_project:perl-crypt-jwt:0.016:*:*:*:*:*:*:*
+  - cpe:2.3:a:perl-crypt-jwt_project:perl-crypt-jwt:0.017:*:*:*:*:*:*:*
+  - cpe:2.3:a:perl-crypt-jwt_project:perl-crypt-jwt:0.018:*:*:*:*:*:*:*
+  - cpe:2.3:a:perl-crypt-jwt_project:perl-crypt-jwt:0.019:*:*:*:*:*:*:*
+  - cpe:2.3:a:perl-crypt-jwt_project:perl-crypt-jwt:0.020:*:*:*:*:*:*:*
+  - cpe:2.3:a:perl-crypt-jwt_project:perl-crypt-jwt:0.021:*:*:*:*:*:*:*
+  - cpe:2.3:a:perl-crypt-jwt_project:perl-crypt-jwt:0.022:*:*:*:*:*:*:*
+  - cpe:2.3:a:perl-crypt-jwt_project:perl-crypt-jwt:0.023:*:*:*:*:*:*:*
+  - cpe:2.3:a:perl-crypt-jwt_project:perl-crypt-jwt:0.024:*:*:*:*:*:*:*

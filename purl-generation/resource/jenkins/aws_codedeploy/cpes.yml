@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:jenkins:aws_codedeploy:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codedeploy:1.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codedeploy:1.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codedeploy:1.12:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codedeploy:1.13:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codedeploy:1.14:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codedeploy:1.15:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codedeploy:1.17:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codedeploy:1.18:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codedeploy:1.19:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codedeploy:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codedeploy:1.20:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codedeploy:1.21:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codedeploy:1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codedeploy:1.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codedeploy:1.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codedeploy:1.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codedeploy:1.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codedeploy:1.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codedeploy:1.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codedeploy:1.9:*:*:*:*:jenkins:*:*

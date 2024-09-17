@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/golang-github-rs-cors
+  - pkg:deb/ubuntu/golang-github-rs-cors
+  - pkg:github/rs/cors
+  - pkg:rpm/fedora/golang-github-rs-cors

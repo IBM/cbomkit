@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/wildmidi
+  - pkg:deb/ubuntu/wildmidi
+  - pkg:github/breeze101792/wildmidi
+  - pkg:github/mindwerks/wildmidi
+  - pkg:rpm/fedora/wildmidi
+  - pkg:rpm/opensuse/wildmidi
+  - pkg:sourceforge/wildmidi

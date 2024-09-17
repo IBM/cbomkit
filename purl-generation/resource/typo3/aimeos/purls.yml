@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/aimeos/aimeos-typo3
+  - pkg:github/aimeos/aimeos-typo3
+  - pkg:golang/github.com/aimeos/aimeos-typo3

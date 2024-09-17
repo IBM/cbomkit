@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/ppc64-diag
+  - pkg:deb/ubuntu/ppc64-diag
+  - pkg:github/power-ras/ppc64-diag
+  - pkg:gitlab/ppc64-diag
+  - pkg:rpm/fedora/ppc64-diag
+  - pkg:rpm/opensuse/ppc64-diag
+  - pkg:sourceforge/linux-diag

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-pyramid
+  - pkg:deb/ubuntu/python-pyramid
+  - pkg:github/pylons/pyramid
+  - pkg:pypi/pyramid
+  - pkg:rpm/fedora/python-pyramid
+  - pkg:rpm/opensuse/python-pyramid

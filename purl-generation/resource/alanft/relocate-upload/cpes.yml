@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:alanft:relocate-upload:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:alanft:relocate-upload:0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:alanft:relocate-upload:0.11:*:*:*:*:*:*:*

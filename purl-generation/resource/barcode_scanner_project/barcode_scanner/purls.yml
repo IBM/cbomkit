@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/michaelfemi81/zxing
+  - pkg:deb/debian/zxing
+  - pkg:deb/ubuntu/zxing
+  - pkg:github/zxing/zxing
+  - pkg:googlesource/zxing
+  - pkg:rpm/opensuse/zxing
+  - pkg:sourceforge/zxing.mirror

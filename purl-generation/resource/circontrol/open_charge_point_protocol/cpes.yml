@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:circontrol:open_charge_point_protocol:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:circontrol:open_charge_point_protocol:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:circontrol:open_charge_point_protocol:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:circontrol:open_charge_point_protocol:2.0.0:*:*:*:*:*:*:*

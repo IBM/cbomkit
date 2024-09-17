@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/internet2/grouper
+  - pkg:maven/edu.internet2.middleware.grouper/grouper-parent

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:xibodevelopment:backupwordpress:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:xibodevelopment:backupwordpress:3.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xibodevelopment:backupwordpress:*:*:*:*:*:wordpress:*:*

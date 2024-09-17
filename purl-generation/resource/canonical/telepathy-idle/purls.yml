@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/telepathy-idle
+  - pkg:deb/ubuntu/telepathy-idle
+  - pkg:github/freedesktop-unofficial-mirror/telepathy__telepathy-idle
+  - pkg:github/telepathyim/telepathy-idle
+  - pkg:rpm/fedora/telepathy-idle
+  - pkg:rpm/opensuse/telepathy-idle
+  - pkg:sourceforge/telepathy-idle

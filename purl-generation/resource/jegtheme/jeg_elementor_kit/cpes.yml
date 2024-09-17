@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jegtheme:jeg_elementor_kit:2.5.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jegtheme:jeg_elementor_kit:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jegtheme:jeg_elementor_kit:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/ampache/ampache
+  - pkg:github/ampache/ampache

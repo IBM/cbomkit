@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/eglooca/ndpi
+  - pkg:deb/debian/ndpi
+  - pkg:deb/ubuntu/ndpi
+  - pkg:github/ntop/ndpi
+  - pkg:gitlab/kalilinux/ndpi
+  - pkg:rpm/opensuse/ndpi

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:gentoo:rootkit_hunter:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:rootkit_hunter:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:rootkit_hunter:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:rootkit_hunter:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:rootkit_hunter:1.2.3:*:*:*:*:*:*:*

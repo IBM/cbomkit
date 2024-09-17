@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/drxie/ip17mon
+  - pkg:github/ym/node-ipip
+  - pkg:npm/ipip-coffee

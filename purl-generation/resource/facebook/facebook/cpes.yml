@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:facebook:facebook:14.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:facebook:facebook:1.7.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook:1.7.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook:1.7.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook:1.7.19:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook:1.7.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook:1.7.21:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook:1.7.22:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook:1.7.23:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook:1.7.24:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook:1.7.25:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook:1.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook:2.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook:2.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook:2.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook:2.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook:3.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook:3.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook:3.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook:3.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook:3.0.4:*:*:*:*:wordpress:*:*

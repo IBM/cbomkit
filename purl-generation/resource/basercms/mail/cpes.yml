@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:basercms:mail:3.0.0:*:*:*:*:basercms:*:*
+  - cpe:2.3:a:basercms:mail:3.0.10:*:*:*:*:basercms:*:*
+  - cpe:2.3:a:basercms:mail:3.0.1:*:*:*:*:basercms:*:*
+  - cpe:2.3:a:basercms:mail:3.0.2:*:*:*:*:basercms:*:*
+  - cpe:2.3:a:basercms:mail:3.0.3:*:*:*:*:basercms:*:*
+  - cpe:2.3:a:basercms:mail:3.0.4:*:*:*:*:basercms:*:*
+  - cpe:2.3:a:basercms:mail:3.0.5:*:*:*:*:basercms:*:*
+  - cpe:2.3:a:basercms:mail:3.0.6:*:*:*:*:basercms:*:*
+  - cpe:2.3:a:basercms:mail:3.0.7:*:*:*:*:basercms:*:*
+  - cpe:2.3:a:basercms:mail:3.0.8:*:*:*:*:basercms:*:*
+  - cpe:2.3:a:basercms:mail:3.0.9:*:*:*:*:basercms:*:*

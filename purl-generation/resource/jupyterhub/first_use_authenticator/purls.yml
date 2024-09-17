@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jupyterhub/firstuseauthenticator
+  - pkg:pypi/jupyterhub-firstuseauthenticator

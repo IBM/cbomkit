@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/php-horde-javascriptminify-jsmin
+  - pkg:deb/ubuntu/php-horde-javascriptminify-jsmin
+  - pkg:github/horde/javascriptminify_jsmin

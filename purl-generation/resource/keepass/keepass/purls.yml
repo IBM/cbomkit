@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/keepass2
+  - pkg:deb/ubuntu/keepass2
+  - pkg:github/dlech/keepass2.x
+  - pkg:nuget/KeePass
+  - pkg:rpm/fedora/keepass
+  - pkg:rpm/opensuse/keepass
+  - pkg:sourceforge/keepass

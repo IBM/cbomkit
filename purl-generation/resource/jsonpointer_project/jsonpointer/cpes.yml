@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:jsonpointer_project:jsonpointer:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonpointer_project:jsonpointer:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jsonpointer_project:jsonpointer:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jsonpointer_project:jsonpointer:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jsonpointer_project:jsonpointer:3.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jsonpointer_project:jsonpointer:3.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jsonpointer_project:jsonpointer:4.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jsonpointer_project:jsonpointer:4.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jsonpointer_project:jsonpointer:4.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jsonpointer_project:jsonpointer:5.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jsonpointer_project:jsonpointer:-:*:*:*:*:node.js:*:*

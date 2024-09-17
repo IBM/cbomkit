@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/cfield/metasploit-framework
+  - pkg:gem/metasploit-framework
+  - pkg:github/rapid7/metasploit-framework
+  - pkg:gitlab/kalilinux/metasploit-framework

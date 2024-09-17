@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/gitolite3
+  - pkg:deb/ubuntu/gitolite3
+  - pkg:github/sitaramc/gitolite
+  - pkg:rpm/fedora/gitolite3
+  - pkg:rpm/opensuse/gitolite

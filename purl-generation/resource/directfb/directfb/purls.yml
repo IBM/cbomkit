@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/directfb
+  - pkg:deb/ubuntu/directfb
+  - pkg:github/deniskropp/directfb
+  - pkg:github/directfb/directfb
+  - pkg:github/distrotech/directfb
+  - pkg:rpm/opensuse/directfb

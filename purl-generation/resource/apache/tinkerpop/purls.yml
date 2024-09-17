@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/tinkerpop
+  - pkg:github/apache/tinkerpop
+  - pkg:maven/org.apache.tinkerpop/tinkerpop

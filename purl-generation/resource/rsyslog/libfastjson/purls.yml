@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libfastjson
+  - pkg:deb/ubuntu/libfastjson
+  - pkg:github/rsyslog/libfastjson
+  - pkg:gitlab/redhat/libfastjson
+  - pkg:rpm/fedora/libfastjson
+  - pkg:rpm/opensuse/libfastjson

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/pyyaml
+  - pkg:deb/ubuntu/pyyaml
+  - pkg:github/yaml/pyyaml
+  - pkg:gitlab/redhat/pyyaml
+  - pkg:pypi/pyyaml
+  - pkg:rpm/centos/pyyaml
+  - pkg:rpm/fedora/pyyaml
+  - pkg:rpm/opensuse/pyyaml

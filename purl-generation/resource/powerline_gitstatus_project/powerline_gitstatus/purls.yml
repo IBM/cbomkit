@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/powerline-gitstatus
+  - pkg:deb/ubuntu/powerline-gitstatus
+  - pkg:github/jaspernbrouwer/powerline-gitstatus
+  - pkg:pypi/powerline-gitstatus

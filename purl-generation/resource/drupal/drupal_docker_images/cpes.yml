@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:drupal:drupal_docker_images:8.3.0-fpm-alpine:-:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:drupal_docker_images:8.3.0-fpm-alpine:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:drupal_docker_images:8.3.1-fpm-alpine:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:drupal_docker_images:8.5.10-fpm-alpine:*:*:*:*:*:*:*

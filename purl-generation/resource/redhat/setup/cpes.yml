@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:redhat:setup:2.10.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:setup:2.10.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:setup:2.10.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:setup:2.10.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:setup:2.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:setup:2.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:setup:2.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:setup:2.11.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:setup:2.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:setup:2.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:setup:2.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:setup:2.12.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:setup:2.12.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:setup:2.12.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:setup:2.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:setup:2.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:setup:2.13.3:*:*:*:*:*:*:*

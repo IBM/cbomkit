@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/nzbget
+  - pkg:deb/ubuntu/nzbget
+  - pkg:github/nzbget/nzbget
+  - pkg:rpm/opensuse/nzbget

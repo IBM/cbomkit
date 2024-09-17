@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:wp_libre_form_project:wp_libre_form:2.0.0:beta0:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_libre_form_project:wp_libre_form:2.0.0:beta10:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_libre_form_project:wp_libre_form:2.0.0:beta11:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_libre_form_project:wp_libre_form:2.0.0:beta12:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_libre_form_project:wp_libre_form:2.0.0:beta1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_libre_form_project:wp_libre_form:2.0.0:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_libre_form_project:wp_libre_form:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_libre_form_project:wp_libre_form:2.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_libre_form_project:wp_libre_form:2.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_libre_form_project:wp_libre_form:2.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_libre_form_project:wp_libre_form:2.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_libre_form_project:wp_libre_form:2.0.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_libre_form_project:wp_libre_form:2.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_libre_form_project:wp_libre_form:2.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_libre_form_project:wp_libre_form:2.0.8:*:*:*:*:wordpress:*:*

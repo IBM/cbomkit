@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:xwiki:xwiki_commons:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki_commons:14.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki_commons:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki_commons:3.1:milestone1:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki_commons:3.1:milestone2:*:*:*:*:*:*

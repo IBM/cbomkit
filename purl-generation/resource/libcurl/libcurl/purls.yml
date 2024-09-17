@@ -1,0 +1,11 @@
+purls:
+  - pkg:composer/curl/curl
+  - pkg:deb/debian/curl
+  - pkg:deb/ubuntu/curl
+  - pkg:docker/curlimages/curl
+  - pkg:github/curl/curl
+  - pkg:gitlab/redhat/curl
+  - pkg:golang/github.com/curl/curl
+  - pkg:rpm/fedora/curl
+  - pkg:rpm/opensuse/curl
+  - pkg:sourceforge/curl.mirror

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:canonical:openstack_ironic:4.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:openstack_ironic:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:openstack_ironic:5.1.1:*:*:*:*:*:*:*

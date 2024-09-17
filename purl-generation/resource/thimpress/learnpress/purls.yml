@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/learnpress/learnpress
+  - pkg:github/wp-plugins/learnpress
+  - pkg:github/wpplugins/learnpress

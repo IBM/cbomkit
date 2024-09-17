@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:body-parser_project:body-parser-xml:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:body-parser_project:body-parser-xml:2.0.3:*:*:*:*:*:*:*

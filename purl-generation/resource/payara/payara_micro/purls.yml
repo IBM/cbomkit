@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/payara/payara
+  - pkg:maven/fish.payara.extras/payara-micro

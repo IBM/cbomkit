@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:sarveshmrao:wp_discord_invite:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sarveshmrao:wp_discord_invite:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sarveshmrao:wp_discord_invite:1.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sarveshmrao:wp_discord_invite:2.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sarveshmrao:wp_discord_invite:2.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sarveshmrao:wp_discord_invite:2.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sarveshmrao:wp_discord_invite:*:*:*:*:*:wordpress:*:*

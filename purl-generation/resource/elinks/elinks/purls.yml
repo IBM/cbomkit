@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/elinks
+  - pkg:deb/ubuntu/elinks
+  - pkg:github/nabetaro/elinks
+  - pkg:github/rkd77/elinks
+  - pkg:gitlab/redhat/elinks
+  - pkg:rpm/centos/elinks
+  - pkg:rpm/fedora/elinks
+  - pkg:rpm/opensuse/elinks

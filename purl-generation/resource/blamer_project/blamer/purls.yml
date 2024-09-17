@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kucherenko/blamer
+  - pkg:npm/blamer

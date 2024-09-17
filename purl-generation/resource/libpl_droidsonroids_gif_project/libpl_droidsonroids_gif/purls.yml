@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/koral--/android-gif-drawable
+  - pkg:maven/pl.droidsonroids.gif/android-gif-drawable

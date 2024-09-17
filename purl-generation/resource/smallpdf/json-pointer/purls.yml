@@ -1,0 +1,9 @@
+purls:
+  - pkg:cpan/json-pointer
+  - pkg:gem/json-pointer
+  - pkg:github/manuelstofer/json-pointer
+  - pkg:maven/net.pwall.json/json-pointer
+  - pkg:npm/json-pointer
+  - pkg:pypi/json_pointer
+  - pkg:rpm/fedora/perl-json-pointer
+  - pkg:rpm/opensuse/perl-json-pointer

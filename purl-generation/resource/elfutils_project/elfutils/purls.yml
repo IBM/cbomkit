@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/elfutils
+  - pkg:deb/ubuntu/elfutils
+  - pkg:github/cuviper/elfutils
+  - pkg:github/kushaldas/elfutils
+  - pkg:github/roolebo/elfutils
+  - pkg:gitlab/redhat/elfutils
+  - pkg:rpm/centos/elfutils
+  - pkg:rpm/fedora/elfutils
+  - pkg:rpm/opensuse/elfutils

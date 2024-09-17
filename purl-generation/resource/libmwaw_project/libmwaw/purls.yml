@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libmwaw
+  - pkg:deb/ubuntu/libmwaw
+  - pkg:github/distrotech/libmwaw
+  - pkg:gitlab/redhat/libmwaw
+  - pkg:rpm/centos/libmwaw
+  - pkg:rpm/fedora/libmwaw
+  - pkg:rpm/opensuse/libmwaw
+  - pkg:sourceforge/libmwaw

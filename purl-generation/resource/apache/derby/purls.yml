@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/db
+  - pkg:apache/derby
+  - pkg:deb/debian/derby
+  - pkg:deb/ubuntu/derby
+  - pkg:github/apache/derby
+  - pkg:maven/org.apache.derby/derby

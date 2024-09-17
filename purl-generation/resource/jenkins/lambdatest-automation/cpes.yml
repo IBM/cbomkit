@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:jenkins:lambdatest-automation:1.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:lambdatest-automation:1.14.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:lambdatest-automation:1.14.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:lambdatest-automation:1.15:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:lambdatest-automation:1.16.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:lambdatest-automation:1.16.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:lambdatest-automation:1.18:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:lambdatest-automation:1.19.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:lambdatest-automation:1.19.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:lambdatest-automation:1.19.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:lambdatest-automation:1.19:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:lambdatest-automation:1.20.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:lambdatest-automation:1.20.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:lambdatest-automation:1.20.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:lambdatest-automation:1.20.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:lambdatest-automation:1.20.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:lambdatest-automation:1.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:lambdatest-automation:*:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:lambdatest-automation:-:*:*:*:*:jenkins:*:*

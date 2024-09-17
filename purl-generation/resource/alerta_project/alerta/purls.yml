@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/alerta/alerta
+  - pkg:pypi/alerta-server

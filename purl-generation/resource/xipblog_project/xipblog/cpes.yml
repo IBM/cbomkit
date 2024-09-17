@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:xipblog_project:xipblog:2.0.1:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:xipblog_project:xipblog:*:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:xipblog_project:xipblog:-:*:*:*:*:prestashop:*:*

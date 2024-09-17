@@ -1,0 +1,6 @@
+purls:
+  - pkg:cpan/chef
+  - pkg:deb/ubuntu/chef
+  - pkg:docker/chef/chef
+  - pkg:gem/chef
+  - pkg:github/chef/chef

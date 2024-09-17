@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-kramdown
+  - pkg:deb/ubuntu/ruby-kramdown
+  - pkg:gem/kramdown
+  - pkg:github/gettalong/kramdown
+  - pkg:rpm/fedora/rubygem-kramdown
+  - pkg:rpm/opensuse/rubygem-kramdown

@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:strace_project:strace:4.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.5.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.5.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.5.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:strace_project:strace:4.9:*:*:*:*:*:*:*

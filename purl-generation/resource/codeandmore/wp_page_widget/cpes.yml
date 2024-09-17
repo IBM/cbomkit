@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:codeandmore:wp_page_widget:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codeandmore:wp_page_widget:1.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codeandmore:wp_page_widget:1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codeandmore:wp_page_widget:3.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codeandmore:wp_page_widget:3.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codeandmore:wp_page_widget:3.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codeandmore:wp_page_widget:4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:codeandmore:wp_page_widget:-:*:*:*:*:wordpress:*:*

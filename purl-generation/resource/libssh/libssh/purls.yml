@@ -1,0 +1,9 @@
+purls:
+  - pkg:bitbucket/mickael9/libssh
+  - pkg:deb/debian/libssh
+  - pkg:deb/ubuntu/libssh
+  - pkg:github/libssh/libssh-mirror
+  - pkg:github/substack/libssh
+  - pkg:rpm/centos/libssh
+  - pkg:rpm/fedora/libssh
+  - pkg:rpm/opensuse/libssh

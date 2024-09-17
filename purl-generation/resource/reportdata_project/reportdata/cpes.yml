@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:reportdata_project:reportdata:1.1:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:reportdata_project:reportdata:1.2:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:reportdata_project:reportdata:1.3:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:reportdata_project:reportdata:1.4:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:reportdata_project:reportdata:1.5:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:reportdata_project:reportdata:2.0:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:reportdata_project:reportdata:2.1:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:reportdata_project:reportdata:2.2:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:reportdata_project:reportdata:2.3:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:reportdata_project:reportdata:2.4:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:reportdata_project:reportdata:2.5:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:reportdata_project:reportdata:2.6:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:reportdata_project:reportdata:3.0:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:reportdata_project:reportdata:3.1:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:reportdata_project:reportdata:3.2:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:reportdata_project:reportdata:3.3:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:reportdata_project:reportdata:3.4:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:reportdata_project:reportdata:3.5:*:*:*:*:munkireport:*:*

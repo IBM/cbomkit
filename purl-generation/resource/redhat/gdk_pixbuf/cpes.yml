@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:redhat:gdk_pixbuf:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:gdk_pixbuf:0.18.0-7:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:gdk_pixbuf:0.18.0-7:*:i386:*:*:*:*:*
+  - cpe:2.3:a:redhat:gdk_pixbuf:0.18.0-7:*:i386_dev:*:*:*:*:*
+  - cpe:2.3:a:redhat:gdk_pixbuf:0.18.0-7:*:i386_gnome:*:*:*:*:*

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/capstone
+  - pkg:deb/ubuntu/capstone
+  - pkg:github/capstone-engine/capstone
+  - pkg:gitlab/kalilinux/capstone
+  - pkg:rpm/fedora/capstone
+  - pkg:rpm/opensuse/capstone
+  - pkg:sourceforge/capstone-engine.mirror

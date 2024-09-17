@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/gnupg2
+  - pkg:deb/ubuntu/gnupg2
+  - pkg:github/gpg/gnupg
+  - pkg:gitlab/redhat/gnupg2
+  - pkg:rpm/centos/gnupg2
+  - pkg:rpm/fedora/gnupg2
+  - pkg:rpm/opensuse/gnupg2

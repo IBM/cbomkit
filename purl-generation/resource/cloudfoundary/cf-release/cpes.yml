@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:cloudfoundary:cf-release:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:245:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:246:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:247:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:248:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:249:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:250:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:251:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:252:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:253:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:254:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:255:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:256:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:257:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:258:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:259:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:260:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:261:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:262:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:263:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:264:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:265:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:266:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundary:cf-release:267:*:*:*:*:*:*:*

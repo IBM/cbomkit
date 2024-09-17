@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:naviwebs:navigate_cms:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:1.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:1.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:1.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:1.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:1.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:1.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:1.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:1.7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:1.7.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:1.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:1.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:1.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:1.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:1.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:1.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:2.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:2.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:2.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:naviwebs:navigate_cms:2.9:r1433:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/square/squalor
+  - pkg:golang/github.com/square/squalor

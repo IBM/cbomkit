@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bits-and-blooms/bloom
+  - pkg:golang/github.com/bits-and-blooms/bloom

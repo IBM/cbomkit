@@ -1,0 +1,12 @@
+purls:
+  - pkg:cpan/sys-facter
+  - pkg:deb/debian/facter
+  - pkg:deb/ubuntu/facter
+  - pkg:docker/puppet/facter
+  - pkg:gem/facter
+  - pkg:github/puppetlabs/facter
+  - pkg:gitlab/clevon/facter
+  - pkg:golang/github.com/puppetlabs/facter
+  - pkg:rpm/fedora/facter
+  - pkg:rpm/opensuse/facter
+  - pkg:sourceforge/facter

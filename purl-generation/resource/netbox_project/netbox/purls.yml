@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/netbox-community/netbox
+  - pkg:rpm/fedora/netbox
+  - pkg:rpm/opensuse/netbox

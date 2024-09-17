@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/getmail6
+  - pkg:deb/ubuntu/getmail6
+  - pkg:github/getmail6/getmail6
+  - pkg:pypi/getmail6
+  - pkg:rpm/opensuse/getmail6

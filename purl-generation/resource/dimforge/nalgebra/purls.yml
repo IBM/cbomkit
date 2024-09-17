@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/dimforge/nalgebra
+  - pkg:rpm/fedora/rust-nalgebra
+  - pkg:rpm/opensuse/rust-nalgebra

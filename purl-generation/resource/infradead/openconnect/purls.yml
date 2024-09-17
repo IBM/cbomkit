@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/openconnect
+  - pkg:deb/ubuntu/openconnect
+  - pkg:github/openconnect/openconnect
+  - pkg:rpm/fedora/openconnect
+  - pkg:rpm/opensuse/openconnect

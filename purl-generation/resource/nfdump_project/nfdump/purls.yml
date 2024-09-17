@@ -1,0 +1,8 @@
+purls:
+  - pkg:cpan/nfdump
+  - pkg:deb/debian/nfdump
+  - pkg:deb/ubuntu/nfdump
+  - pkg:github/phaag/nfdump
+  - pkg:rpm/fedora/nfdump
+  - pkg:rpm/opensuse/nfdump
+  - pkg:sourceforge/nfdump

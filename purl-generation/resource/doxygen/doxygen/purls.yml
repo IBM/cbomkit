@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/doxygen
+  - pkg:deb/ubuntu/doxygen
+  - pkg:github/doxygen/doxygen
+  - pkg:gitlab/redhat/doxygen
+  - pkg:rpm/fedora/doxygen
+  - pkg:rpm/opensuse/doxygen
+  - pkg:sourceforge/doxygen

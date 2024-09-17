@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-decamelize
+  - pkg:deb/ubuntu/node-decamelize
+  - pkg:github/sindresorhus/decamelize
+  - pkg:maven/org.webjars.npm/decamelize
+  - pkg:npm/decamelize
+  - pkg:rpm/fedora/nodejs-decamelize

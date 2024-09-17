@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:redhat:openssl:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openssl:0.9.6-15:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openssl:0.9.6-15:*:i386:*:*:*:*:*
+  - cpe:2.3:a:redhat:openssl:0.9.6b-3:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openssl:0.9.6b-3:*:i386:*:*:*:*:*
+  - cpe:2.3:a:redhat:openssl:0.9.7a-2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openssl:0.9.7a-2:*:i386:*:*:*:*:*
+  - cpe:2.3:a:redhat:openssl:0.9.7a-2:*:i386_dev:*:*:*:*:*
+  - cpe:2.3:a:redhat:openssl:0.9.7a-2:*:i386_perl:*:*:*:*:*

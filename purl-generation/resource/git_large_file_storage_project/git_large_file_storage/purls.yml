@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/git-lfs
+  - pkg:deb/ubuntu/git-lfs
+  - pkg:github/git-lfs/git-lfs
+  - pkg:rpm/centos/git-lfs
+  - pkg:rpm/fedora/git-lfs
+  - pkg:rpm/opensuse/git-lfs

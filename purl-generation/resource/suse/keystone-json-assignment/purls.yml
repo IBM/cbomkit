@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/suse-cloud/keystone-json-assignment
+  - pkg:pypi/keystone-json-assignment
+  - pkg:rpm/opensuse/python-keystone-json-assignment

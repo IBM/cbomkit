@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/gitgnu/gnu_gama
+  - pkg:github/gnu-mirror-unofficial/gama
+  - pkg:gnu/gama
+  - pkg:rpm/opensuse/gama

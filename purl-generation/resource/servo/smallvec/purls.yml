@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-smallvec
+  - pkg:deb/ubuntu/rust-smallvec
+  - pkg:github/servo/rust-smallvec
+  - pkg:rpm/fedora/rust-smallvec
+  - pkg:rpm/opensuse/rust-smallvec

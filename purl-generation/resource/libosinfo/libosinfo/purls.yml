@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/libosinfo
+  - pkg:deb/ubuntu/libosinfo
+  - pkg:github/crobinso/libosinfo
+  - pkg:github/giuseppe/libosinfo
+  - pkg:gitlab/libosinfo/libosinfo
+  - pkg:gitlab/redhat/libosinfo
+  - pkg:rpm/centos/libosinfo
+  - pkg:rpm/fedora/libosinfo
+  - pkg:rpm/opensuse/libosinfo

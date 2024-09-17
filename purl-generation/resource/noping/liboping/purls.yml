@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/liboping
+  - pkg:deb/ubuntu/liboping
+  - pkg:github/octo/liboping
+  - pkg:rpm/fedora/liboping
+  - pkg:rpm/opensuse/liboping

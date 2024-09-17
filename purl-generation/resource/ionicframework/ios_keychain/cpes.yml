@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:ionicframework:ios_keychain:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ionicframework:ios_keychain:2.0.0:*:*:*:*:*:*:*

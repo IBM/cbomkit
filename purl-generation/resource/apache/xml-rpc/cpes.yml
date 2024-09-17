@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:apache:xml-rpc:1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xml-rpc:1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xml-rpc:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xml-rpc:1.2:a1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xml-rpc:1.2:a2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xml-rpc:1.2:b1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xml-rpc:1.2:b2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xml-rpc:2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xml-rpc:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xml-rpc:2.0:b1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xml-rpc:3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xml-rpc:3.0:a1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xml-rpc:3.0:b1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xml-rpc:3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xml-rpc:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xml-rpc:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xml-rpc:3.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xml-rpc:3.1.3:*:*:*:*:*:*:*

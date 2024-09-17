@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/epubcheck
+  - pkg:deb/ubuntu/epubcheck
+  - pkg:github/w3c/epubcheck
+  - pkg:maven/org.w3c/epubcheck

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:fetlife:rollout-ui:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:fetlife:rollout-ui:0.5:*:*:*:*:*:*:*

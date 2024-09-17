@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/lzo2
+  - pkg:deb/ubuntu/lzo2
+  - pkg:github/nemequ/lzo
+  - pkg:gitlab/redhat/lzo
+  - pkg:rpm/centos/lzo
+  - pkg:rpm/fedora/lzo
+  - pkg:rpm/opensuse/lzo

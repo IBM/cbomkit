@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/bengor-file/file
+  - pkg:github/file/file
+  - pkg:golang/github.com/file/file

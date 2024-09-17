@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/facebook/netconsd
+  - pkg:rpm/fedora/netconsd

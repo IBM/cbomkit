@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/marfarma/wp-table-reloaded
+  - pkg:github/tobiasbg/wp-table-reloaded
+  - pkg:github/wpplugins/wp-table-reloaded

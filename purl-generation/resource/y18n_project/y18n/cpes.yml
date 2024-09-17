@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:y18n_project:y18n:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:y18n_project:y18n:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:y18n_project:y18n:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:y18n_project:y18n:3.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:y18n_project:y18n:3.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:y18n_project:y18n:3.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:y18n_project:y18n:3.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:y18n_project:y18n:3.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:y18n_project:y18n:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:y18n_project:y18n:4.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:y18n_project:y18n:4.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:y18n_project:y18n:5.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:y18n_project:y18n:5.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:y18n_project:y18n:5.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:y18n_project:y18n:5.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:y18n_project:y18n:5.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:y18n_project:y18n:5.0.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:y18n_project:y18n:6.0.0:alpha0:*:*:*:node.js:*:*
+  - cpe:2.3:a:y18n_project:y18n:-:*:*:*:*:node.js:*:*

@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/gopher/iperf2
+  - pkg:github/daynix/iperf2
+  - pkg:github/justinc1/iperf2
+  - pkg:github/lynxis/iperf2
+  - pkg:sourceforge/iperf2

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:lizard_project:lizard:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizard_project:lizard:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:lizard_project:lizard:2.0:*:*:*:*:*:*:*

@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:open:open_media_player:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:open:open_media_player:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:open:open_media_player:0.85:*:*:*:*:*:*:*
+  - cpe:2.3:a:open:open_media_player:0.86:*:*:*:*:*:*:*
+  - cpe:2.3:a:open:open_media_player:0.95:beta:*:*:*:*:*:*
+  - cpe:2.3:a:open:open_media_player:0.9:beta:*:*:*:*:*:*
+  - cpe:2.3:a:open:open_media_player:1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:open:open_media_player:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:open:open_media_player:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:open:open_media_player:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:open:open_media_player:1.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:open:open_media_player:1.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:open:open_media_player:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:open:open_media_player:1.5.1:*:*:*:*:*:*:*

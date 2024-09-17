@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/jpegoptim
+  - pkg:deb/ubuntu/jpegoptim
+  - pkg:github/tjko/jpegoptim
+  - pkg:rpm/fedora/jpegoptim
+  - pkg:rpm/opensuse/jpegoptim

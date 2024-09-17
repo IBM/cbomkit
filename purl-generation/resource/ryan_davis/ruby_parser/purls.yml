@@ -1,0 +1,5 @@
+purls:
+  - pkg:gem/ruby_parser
+  - pkg:github/fabiokung/ruby_parser
+  - pkg:github/seattlerb/ruby_parser
+  - pkg:rpm/opensuse/rubygem-ruby_parser

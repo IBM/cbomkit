@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:expresscart_project:expresscart:0.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:expresscart_project:expresscart:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:expresscart_project:expresscart:1.1.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:expresscart_project:expresscart:1.1.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:expresscart_project:expresscart:1.1.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:expresscart_project:expresscart:1.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:expresscart_project:expresscart:1.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:expresscart_project:expresscart:1.1.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:expresscart_project:expresscart:1.1.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:expresscart_project:expresscart:1.1.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:expresscart_project:expresscart:1.1.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:expresscart_project:expresscart:1.1.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:expresscart_project:expresscart:1.1.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:expresscart_project:expresscart:1.1.9:*:*:*:*:node.js:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/vector-im/element-desktop
+  - pkg:rpm/opensuse/element-desktop

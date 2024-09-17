@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/blemale/gatling-jenkins-plugin
+  - pkg:github/jenkinsci/gatling-plugin

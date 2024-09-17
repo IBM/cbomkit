@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/hexchat
+  - pkg:deb/ubuntu/hexchat
+  - pkg:github/hexchat/hexchat
+  - pkg:gitlab/redhat/hexchat
+  - pkg:rpm/centos/hexchat
+  - pkg:rpm/fedora/hexchat
+  - pkg:rpm/opensuse/hexchat

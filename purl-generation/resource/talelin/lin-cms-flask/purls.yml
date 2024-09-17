@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/talelin/lin-cms-flask
+  - pkg:pypi/lin-cms

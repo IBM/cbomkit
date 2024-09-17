@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/ymcrcat/iproute2
+  - pkg:deb/debiane/iproute2
+  - pkg:deb/ubuntue/iproute2
+  - pkg:github/shemminger/iproute2
+  - pkg:rpm/opensusee/iproute2

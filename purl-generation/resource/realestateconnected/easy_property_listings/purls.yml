@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/easypropertylistings/easy-property-listings
+  - pkg:github/wp-plugins/easy-property-listings
+  - pkg:github/wpplugins/easy-property-listings

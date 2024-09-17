@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/twisted
+  - pkg:deb/ubuntu/twisted
+  - pkg:github/twisted/twisted
+  - pkg:pypi/twisted
+  - pkg:rpm/fedora/python-twisted
+  - pkg:rpm/opensuse/python-twisted

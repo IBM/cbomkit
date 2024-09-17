@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/kitchen-terraform
+  - pkg:github/newcontext-oss/kitchen-terraform

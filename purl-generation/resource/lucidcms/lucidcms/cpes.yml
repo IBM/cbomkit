@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:lucidcms:lucidcms:1.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:lucidcms:lucidcms:2.0.0_rc4:*:*:*:*:*:*:*

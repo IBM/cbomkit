@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libzapojit
+  - pkg:deb/ubuntu/libzapojit
+  - pkg:github/gnome/libzapojit
+  - pkg:rpm/centos/libzapojit
+  - pkg:rpm/fedora/libzapojit
+  - pkg:rpm/opensuse/libzapojit

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-turba
+  - pkg:deb/ubuntu/php-horde-turba
+  - pkg:github/horde/turba
+  - pkg:rpm/opensuse/horde5-turba

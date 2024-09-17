@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/facebook/proxygen
+  - pkg:rpm/fedora/proxygen
+  - pkg:sourceforge/proxygen

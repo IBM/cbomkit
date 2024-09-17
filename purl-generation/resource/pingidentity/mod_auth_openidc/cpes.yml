@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:pingidentity:mod_auth_openidc:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pingidentity:mod_auth_openidc:2.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pingidentity:mod_auth_openidc:2.1.5:*:*:*:*:*:*:*

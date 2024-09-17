@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/
+  - pkg:apache/spark
+  - pkg:github/apache/spark
+  - pkg:maven/org.apache.spark/spark-core

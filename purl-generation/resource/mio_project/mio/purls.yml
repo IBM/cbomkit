@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-mio
+  - pkg:deb/ubuntu/rust-mio
+  - pkg:github/tokio-rs/mio
+  - pkg:rpm/fedora/rust-mio
+  - pkg:rpm/opensuse/rust-mio

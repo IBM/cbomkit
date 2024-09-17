@@ -1,0 +1,18 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ .Values.regulator.name }}
+  labels:
+    app: {{ .Values.regulator.name }}
+    resource: {{ .Values.regulator.name }}
+spec:
+  ports:
+    - name: 8080-tcp
+      port: 8080
+      protocol: TCP
+      targetPort: 8080
+  selector:
+    app: {{ .Values.regulator.name }}
+    resource: {{ .Values.regulator.name }}
+  sessionAffinity: None
+  type: ClusterIP

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/tt-rss
+  - pkg:deb/ubuntu/tt-rss
+  - pkg:github/rss-org/tt-rss
+  - pkg:github/torne/tiny-tiny-rss
+  - pkg:rpm/opensuse/tt-rss

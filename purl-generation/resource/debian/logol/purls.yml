@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/logol
+  - pkg:deb/ubuntu/logol

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-mail-autoconfig
+  - pkg:deb/ubuntu/php-horde-mail-autoconfig
+  - pkg:github/horde/mail_autoconfig
+  - pkg:rpm/fedora/php-horde-horde-mail-autoconfig

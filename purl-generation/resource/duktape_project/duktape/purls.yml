@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/duktape
+  - pkg:deb/ubuntu/duktape
+  - pkg:github/svaarala/duktape
+  - pkg:rpm/fedora/duktape
+  - pkg:rpm/opensuse/duktape
+  - pkg:sourceforge/duktape.mirror

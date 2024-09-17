@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/rona-dinihari/dawnsparks-node-tesseract
+  - pkg:npm/dawnsparks-node-tesseract

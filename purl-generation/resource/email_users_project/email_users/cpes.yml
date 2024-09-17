@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:email_users_project:email_users:4.8.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:email_users_project:email_users:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/nss-pam-ldapd
+  - pkg:deb/ubuntu/nss-pam-ldapd
+  - pkg:github/arthurdejong/nss-pam-ldapd
+  - pkg:github/silkentrance/nss-pam-ldap
+  - pkg:gitlab/redhat/nss-pam-ldapd
+  - pkg:rpm/centos/nss-pam-ldapd
+  - pkg:rpm/fedora/nss-pam-ldapd
+  - pkg:rpm/opensuse/nss-pam-ldapd

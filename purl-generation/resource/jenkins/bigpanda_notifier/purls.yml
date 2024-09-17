@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bigpandaio/bigpanda-jenkins-plugin
+  - pkg:github/jenkinsci/bigpanda-plugin

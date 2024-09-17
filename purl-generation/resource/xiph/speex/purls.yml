@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/speex
+  - pkg:deb/ubuntu/speex
+  - pkg:github/xiph/speex
+  - pkg:gitlab/redhat/speex
+  - pkg:gnu/speex
+  - pkg:rpm/centos/speex
+  - pkg:rpm/fedora/speex
+  - pkg:rpm/opensuse/speex

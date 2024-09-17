@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/xbindkeys-config
+  - pkg:deb/ubuntu/xbindkeys-config
+  - pkg:github/rgeorgiev583/xbindkeys_config

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/welefen/ssrf-agent
+  - pkg:npm/ssrf-agent

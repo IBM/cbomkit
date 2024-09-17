@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:jenkins:ansible:0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:ansible:0.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:ansible:0.3.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:ansible:0.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:ansible:0.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:ansible:0.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:ansible:0.6.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:ansible:0.6.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:ansible:0.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:ansible:0.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:ansible:0.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:ansible:1.0:*:*:*:*:jenkins:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/baloise/rocket-chat-notifier
+  - pkg:github/jenkinsci/rocketchatnotifier-plugin

@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:opcfoundation:unified_architecture_.net-standard:1.03.350:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:unified_architecture_.net-standard:1.03.350.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:unified_architecture_.net-standard:1.03.351.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:unified_architecture_.net-standard:1.03.352.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:unified_architecture_.net-standard:1.03.352.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:unified_architecture_.net-standard:1.04.353.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:unified_architecture_.net-standard:1.04.354.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:unified_architecture_.net-standard:1.04.358.30:*:*:*:*:*:*:*

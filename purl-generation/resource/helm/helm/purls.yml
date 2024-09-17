@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/helm/helm
+  - pkg:gitlab/afonseca2/helm
+  - pkg:rpm/fedora/golang-helm-3
+  - pkg:rpm/opensuse/helm
+  - pkg:sourceforge/helm.mirror

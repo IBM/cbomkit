@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:testmaker:testmaker:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:testmaker:testmaker:3.0p10:*:*:*:*:*:*:*
+  - cpe:2.3:a:testmaker:testmaker:3.0p11:*:*:*:*:*:*:*
+  - cpe:2.3:a:testmaker:testmaker:3.0p12:*:*:*:*:*:*:*
+  - cpe:2.3:a:testmaker:testmaker:3.0p13:*:*:*:*:*:*:*
+  - cpe:2.3:a:testmaker:testmaker:3.0p14:*:*:*:*:*:*:*
+  - cpe:2.3:a:testmaker:testmaker:3.0p3:*:*:*:*:*:*:*
+  - cpe:2.3:a:testmaker:testmaker:3.0p4:*:*:*:*:*:*:*
+  - cpe:2.3:a:testmaker:testmaker:3.0p5:*:*:*:*:*:*:*
+  - cpe:2.3:a:testmaker:testmaker:3.0p6:*:*:*:*:*:*:*
+  - cpe:2.3:a:testmaker:testmaker:3.0p7:*:*:*:*:*:*:*
+  - cpe:2.3:a:testmaker:testmaker:3.0p8:*:*:*:*:*:*:*
+  - cpe:2.3:a:testmaker:testmaker:3.0p9:*:*:*:*:*:*:*

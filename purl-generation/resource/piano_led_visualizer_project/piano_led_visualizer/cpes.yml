@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:piano_led_visualizer_project:piano_led_visualizer:1.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:piano_led_visualizer_project:piano_led_visualizer:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:piano_led_visualizer_project:piano_led_visualizer:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:piano_led_visualizer_project:piano_led_visualizer:1.3:*:*:*:*:*:*:*

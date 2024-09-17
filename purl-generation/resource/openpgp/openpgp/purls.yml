@@ -1,0 +1,8 @@
+purls:
+  - pkg:cpan/crypt::openpgp
+  - pkg:gem/openpgp
+  - pkg:github/openpgpjs/openpgpjs
+  - pkg:github/openpgp/openpgp.org
+  - pkg:maven/org.webjars.npm/openpgp
+  - pkg:npm/openpgp
+  - pkg:sourceforge/openpgp-js.mirror

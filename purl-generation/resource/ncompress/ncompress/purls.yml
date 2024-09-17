@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/ncompress
+  - pkg:deb/ubuntu/ncompress
+  - pkg:github/vapier/ncompress
+  - pkg:gitlab/redhat/ncompress
+  - pkg:rpm/fedora/ncompress
+  - pkg:rpm/opensuse/ncompress
+  - pkg:sourceforge/ncompress

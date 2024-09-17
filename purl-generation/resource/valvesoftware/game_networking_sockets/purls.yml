@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/valvesoftware/gamenetworkingsockets
+  - pkg:rpm/opensuse/gamenetworkingsockets
+  - pkg:sourceforge/gamenetworkingsockets.mirror

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:apache:sling_auth_core_component:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_auth_core_component:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_auth_core_component:1.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_auth_core_component:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:sling_auth_core_component:1.1.2:*:*:*:*:*:*:*

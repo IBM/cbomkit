@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/turningtech/video.js
+  - pkg:github/videojs/video.js
+  - pkg:maven/org.webjars.npm/video.js
+  - pkg:npm/video.js
+  - pkg:nuget/VideoJs
+  - pkg:sourceforge/video-js.mirror

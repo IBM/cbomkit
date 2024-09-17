@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/qnib/collabtive
+  - pkg:github/javierwilson/collabtive
+  - pkg:github/philippk-de/collabtive
+  - pkg:github/turnkeylinux-apps/collabtive
+  - pkg:sourceforge/collabtive

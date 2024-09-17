@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:redhat:virt-bootstrap:1.1.0:*:*:*:*:*:*:*

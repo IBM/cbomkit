@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/galette/galette
+  - pkg:github/galette/galette

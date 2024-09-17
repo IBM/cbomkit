@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:super_xray_project:super_xray:0.1:beta:*:*:*:*:*:*
+  - cpe:2.3:a:super_xray_project:super_xray:0.2:beta:*:*:*:*:*:*
+  - cpe:2.3:a:super_xray_project:super_xray:0.3:beta:*:*:*:*:*:*
+  - cpe:2.3:a:super_xray_project:super_xray:0.4:beta:*:*:*:*:*:*
+  - cpe:2.3:a:super_xray_project:super_xray:0.5:beta:*:*:*:*:*:*
+  - cpe:2.3:a:super_xray_project:super_xray:0.6:beta:*:*:*:*:*:*
+  - cpe:2.3:a:super_xray_project:super_xray:0.7:*:*:*:*:*:*:*

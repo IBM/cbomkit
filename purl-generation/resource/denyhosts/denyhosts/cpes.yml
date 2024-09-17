@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:denyhosts:denyhosts:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:denyhosts:denyhosts:2.6:*:*:*:*:*:*:*

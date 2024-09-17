@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:wp_baidu_submit_project:wp_baidu_submit:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_baidu_submit_project:wp_baidu_submit:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_baidu_submit_project:wp_baidu_submit:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_baidu_submit_project:wp_baidu_submit:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_baidu_submit_project:wp_baidu_submit:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/crasm
+  - pkg:github/colinbourassa/crasm
+  - pkg:sourceforge/crasm

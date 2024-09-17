@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nahsra/antisamy
+  - pkg:maven/org.owasp.antisamy/antisamy

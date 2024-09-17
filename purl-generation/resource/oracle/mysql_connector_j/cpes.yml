@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:oracle:mysql_connector_j:5.1.15.0:*:*:*:*:*:*:*

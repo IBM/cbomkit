@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:shipwire_api_project:shipwire_api:7.x-1.01:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:shipwire_api_project:shipwire_api:7.x-1.02:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:shipwire_api_project:shipwire_api:7.x-1.03:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:shipwire_api_project:shipwire_api:7.x-1.04:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:shipwire_api_project:shipwire_api:7.x-1.0:*:*:*:*:drupal:*:*

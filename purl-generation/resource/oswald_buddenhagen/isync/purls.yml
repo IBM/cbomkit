@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/ubuntu/isync
+  - pkg:github/djnym/isync
+  - pkg:rpm/fedora/isync
+  - pkg:rpm/opensuse/isync
+  - pkg:sourceforge/isync

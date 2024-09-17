@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/openrat/openrat-cms
+  - pkg:github/dankert/openrat-cms

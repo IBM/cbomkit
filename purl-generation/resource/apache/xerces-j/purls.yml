@@ -1,0 +1,8 @@
+purls:
+  - pkg:apache/xalan
+  - pkg:deb/debian/libxalan2-java
+  - pkg:deb/ubuntu/libxalan2-java
+  - pkg:github/apache/xalan-j
+  - pkg:github/apache/xerces2-j
+  - pkg:rpm/fedora/xalan-j2
+  - pkg:rpm/opensuse/xalan-j2

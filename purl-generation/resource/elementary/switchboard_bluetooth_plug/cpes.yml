@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:elementary:switchboard_bluetooth_plug:2.3.0:*:*:*:*:elementary_os:*:*
+  - cpe:2.3:a:elementary:switchboard_bluetooth_plug:2.3.1:*:*:*:*:elementary_os:*:*
+  - cpe:2.3:a:elementary:switchboard_bluetooth_plug:2.3.2:*:*:*:*:elementary_os:*:*
+  - cpe:2.3:a:elementary:switchboard_bluetooth_plug:2.3.3:*:*:*:*:elementary_os:*:*
+  - cpe:2.3:a:elementary:switchboard_bluetooth_plug:2.3.4:*:*:*:*:elementary_os:*:*
+  - cpe:2.3:a:elementary:switchboard_bluetooth_plug:2.3.5:*:*:*:*:elementary_os:*:*

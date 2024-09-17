@@ -1,0 +1,7 @@
+purls:
+  - pkg:cpan/net::openstack::client
+  - pkg:gem/openstack
+  - pkg:github/openstack/openstack
+  - pkg:maven/io.snamp.supervisors/openstack
+  - pkg:nuget/OpenStack-Client
+  - pkg:rpm/opensuse/openstack-suse

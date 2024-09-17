@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:github:491-project:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:github:491-project:-:*:*:*:*:*:*:*

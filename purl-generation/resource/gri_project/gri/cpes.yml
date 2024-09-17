@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:gri_project:gri:2.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gri_project:gri:2.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gri_project:gri:2.12.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:gri_project:gri:2.12.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:gri_project:gri:2.12.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:gri_project:gri:2.12.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:gri_project:gri:2.12.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:gri_project:gri:2.12.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:gri_project:gri:2.12.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:gri_project:gri:2.12.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:gri_project:gri:2.12.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:gri_project:gri:2.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gri_project:gri:2.12.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gri_project:gri:2.12.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gri_project:gri:2.12.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gri_project:gri:2.12.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gri_project:gri:2.12.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gri_project:gri:2.12.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:gri_project:gri:2.12.9:*:*:*:*:*:*:*

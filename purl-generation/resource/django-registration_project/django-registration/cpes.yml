@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:django-registration_project:django-registration:0.7:*:*:*:*:django:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:0.8:*:*:*:*:django:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:1.0:*:*:*:*:django:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:2.0.1:*:*:*:*:django:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:2.0.2:*:*:*:*:django:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:2.0.3:*:*:*:*:django:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:2.0.4:*:*:*:*:django:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:2.0:*:*:*:*:django:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:2.1.1:*:*:*:*:django:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:2.1.2:*:*:*:*:django:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:2.1:*:*:*:*:django:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:2.2:*:*:*:*:django:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:2.3:*:*:*:*:django:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:2.4.1:*:*:*:*:django:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:2.4:*:*:*:*:django:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:2.5.1:*:*:*:*:django:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:2.5.2:*:*:*:*:django:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:2.5:*:*:*:*:django:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:3.0.1:*:*:*:*:django:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:3.0:*:*:*:*:django:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:3.1.1:*:*:*:*:django:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:3.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:3.1.2:*:*:*:*:django:*:*
+  - cpe:2.3:a:django-registration_project:django-registration:3.1:*:*:*:*:django:*:*

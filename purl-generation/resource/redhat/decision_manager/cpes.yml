@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:redhat:decision_manager:7:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:decision_manager:7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:decision_manager:7.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:decision_manager:7.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:decision_manager:7.5.1:*:*:*:*:*:*:*

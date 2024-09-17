@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/graphite-web
+  - pkg:deb/ubuntu/graphite-web
+  - pkg:github/graphite-project/graphite-web

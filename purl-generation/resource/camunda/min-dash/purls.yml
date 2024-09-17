@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bpmn-io/min-dash
+  - pkg:maven/org.webjars.npm/min-dash
+  - pkg:npm/min-dash

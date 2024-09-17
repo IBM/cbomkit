@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-compress-fast
+  - pkg:deb/ubuntu/php-horde-compress-fast
+  - pkg:github/horde/compress_fast
+  - pkg:rpm/fedora/php-horde-horde-compress-fast

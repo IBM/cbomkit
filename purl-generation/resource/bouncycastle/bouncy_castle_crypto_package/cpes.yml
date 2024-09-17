@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:bouncycastle:bouncy_castle_crypto_package:*:*:*:*:*:*:*:*

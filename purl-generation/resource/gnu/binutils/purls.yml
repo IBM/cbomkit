@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/binutils
+  - pkg:deb/ubuntu/binutils
+  - pkg:github/bminor/binutils-gdb
+  - pkg:redox-os/redox-os/binutils-gdb
+  - pkg:rpm/fedora/binutils
+  - pkg:rpm/opensuse/binutils
+  - pkg:sourceware/binutils-gdb

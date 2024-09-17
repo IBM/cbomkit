@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-horde-nls
+  - pkg:deb/ubuntu/php-horde-nls
+  - pkg:github/horde/nls
+  - pkg:rpm/fedora/php-horde-horde-nls
+  - pkg:rpm/opensuse/php-horde-horde-nls

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mailcore/mailcore2
+  - pkg:rpm/opensuse/mailcore2

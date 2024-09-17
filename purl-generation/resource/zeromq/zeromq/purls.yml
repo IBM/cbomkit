@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/zeromq/zeromq
+  - pkg:github/zeromq/zeromq4-1
+  - pkg:rpm/fedora/zeromq
+  - pkg:rpm/opensuse/zeromq

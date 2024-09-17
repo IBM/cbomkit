@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/ziparchive/ziparchive
+  - pkg:gitlab/smapa-git-backup/ziparchive
+  - pkg:golang/github.com/ziparchive/ziparchive
+  - pkg:rpm/fedora/ziparchive

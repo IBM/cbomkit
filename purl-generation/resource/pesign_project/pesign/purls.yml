@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/pesign
+  - pkg:deb/ubuntu/pesign
+  - pkg:github/frozencemetery/pesign
+  - pkg:github/rhboot/pesign
+  - pkg:rpm/centos/pesign
+  - pkg:rpm/fedora/pesign
+  - pkg:rpm/opensuse/pesign

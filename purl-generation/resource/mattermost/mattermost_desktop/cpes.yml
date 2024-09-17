@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:mattermost:mattermost_desktop:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_desktop:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_desktop:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_desktop:4.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_desktop:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_desktop:4.4.0:*:*:*:*:*:*:*

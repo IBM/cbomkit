@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:hackmd:codimd:0.3.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:hackmd:codimd:0.3.4:*:*:*:-:*:*:*
+  - cpe:2.3:a:hackmd:codimd:0.4.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:hackmd:codimd:0.4.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:hackmd:codimd:0.4.2:*:*:*:-:*:*:*
+  - cpe:2.3:a:hackmd:codimd:0.4.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:hackmd:codimd:0.4.4:*:*:*:-:*:*:*
+  - cpe:2.3:a:hackmd:codimd:0.4.5:*:*:*:-:*:*:*
+  - cpe:2.3:a:hackmd:codimd:0.4.6:*:*:*:-:*:*:*
+  - cpe:2.3:a:hackmd:codimd:0.5.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:hackmd:codimd:0.5.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:hackmd:codimd:1.0.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:hackmd:codimd:1.0.1:*:*:*:community:*:*:*
+  - cpe:2.3:a:hackmd:codimd:1.1.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:hackmd:codimd:1.1.1:*:*:*:community:*:*:*
+  - cpe:2.3:a:hackmd:codimd:1.2.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:hackmd:codimd:1.2.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:hackmd:codimd:1.3.0:*:*:*:-:*:*:*
+  - cpe:2.3:a:hackmd:codimd:1.3.1:*:*:*:-:*:*:*
+  - cpe:2.3:a:hackmd:codimd:1.4.0:rc1:*:*:-:*:*:*

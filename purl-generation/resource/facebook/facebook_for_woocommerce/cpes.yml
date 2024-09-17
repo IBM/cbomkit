@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:facebook:facebook_for_woocommerce:1.9.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook_for_woocommerce:1.9.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook_for_woocommerce:1.9.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook_for_woocommerce:1.9.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook:facebook_for_woocommerce:1.9.15:*:*:*:*:wordpress:*:*

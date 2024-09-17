@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:activestate:komodo_edit:5.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:activestate:komodo_edit:6.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:activestate:komodo_edit:6.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:activestate:komodo_edit:6.1.1:*:*:*:*:*:*:*

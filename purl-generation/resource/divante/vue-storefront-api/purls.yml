@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/bareblends1/vue-storefront-api
+  - pkg:github/vuestorefront/vue-storefront-api

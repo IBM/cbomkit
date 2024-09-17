@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:trustwave:owasp_modsecurity_core_rule_set:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:trustwave:owasp_modsecurity_core_rule_set:3.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:trustwave:owasp_modsecurity_core_rule_set:3.1.0:rc3:*:*:*:*:*:*

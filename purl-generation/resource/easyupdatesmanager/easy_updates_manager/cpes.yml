@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:easyupdatesmanager:easy_updates_manager:7.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:easyupdatesmanager:easy_updates_manager:7.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:easyupdatesmanager:easy_updates_manager:7.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:easyupdatesmanager:easy_updates_manager:7.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:easyupdatesmanager:easy_updates_manager:8.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:easyupdatesmanager:easy_updates_manager:8.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:easyupdatesmanager:easy_updates_manager:8.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:easyupdatesmanager:easy_updates_manager:8.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:easyupdatesmanager:easy_updates_manager:8.0.5:*:*:*:*:wordpress:*:*

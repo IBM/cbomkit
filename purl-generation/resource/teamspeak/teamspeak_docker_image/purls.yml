@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/teamspeak
+  - pkg:github/mbentley/docker-teamspeak
+  - pkg:github/teamspeak-systems/teamspeak-linux-docker-images

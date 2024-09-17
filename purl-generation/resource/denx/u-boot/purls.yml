@@ -1,0 +1,3 @@
+purls:
+  - pkg:denx/u-boot/u-boot
+  - pkg:github/u-boot/u-boot

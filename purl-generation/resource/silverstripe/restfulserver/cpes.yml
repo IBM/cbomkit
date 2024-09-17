@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:silverstripe:restfulserver:1.0.1:rc1:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:silverstripe:restfulserver:1.0.1:-:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:silverstripe:restfulserver:1.0.2:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:silverstripe:restfulserver:1.0.3:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:silverstripe:restfulserver:1.0.4:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:silverstripe:restfulserver:1.0.5:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:silverstripe:restfulserver:1.0.6:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:silverstripe:restfulserver:1.0.7:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:silverstripe:restfulserver:1.0.8:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:silverstripe:restfulserver:1.0.9:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:silverstripe:restfulserver:2.0.0:beta1:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:silverstripe:restfulserver:2.0.0:-:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:silverstripe:restfulserver:2.0.1:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:silverstripe:restfulserver:2.0.2:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:silverstripe:restfulserver:2.0.3:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:silverstripe:restfulserver:2.0.4:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:silverstripe:restfulserver:2.1.0:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:silverstripe:restfulserver:2.1.1:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:silverstripe:restfulserver:2.1.2:*:*:*:*:silverstripe:*:*

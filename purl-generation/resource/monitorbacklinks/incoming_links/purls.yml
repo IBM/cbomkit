@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/monitorbacklinks/incoming-links
+  - pkg:github/wp-plugins/incoming-links

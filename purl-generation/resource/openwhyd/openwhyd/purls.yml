@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/openwhyd/openwhyd
+  - pkg:github/openwhyd/openwhyd

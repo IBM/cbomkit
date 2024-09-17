@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/vmanager-plugin
+  - pkg:github/tyanai/vmanager-plugin-jenkins

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/openstack/sushy-tools
+  - pkg:pypi/sushy-tools
+  - pkg:rpm/opensuse/python-sushy-tools

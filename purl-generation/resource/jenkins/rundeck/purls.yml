@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/rundeck-plugin
+  - pkg:github/jenkins-rundeck-plugin

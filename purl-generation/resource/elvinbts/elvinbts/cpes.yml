@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:elvinbts:elvinbts:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:elvinbts:elvinbts:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elvinbts:elvinbts:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elvinbts:elvinbts:1.2.2:*:*:*:*:*:*:*

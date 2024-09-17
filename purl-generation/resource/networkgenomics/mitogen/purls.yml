@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-mitogen
+  - pkg:deb/ubuntu/python-mitogen
+  - pkg:github/mitogen-hq/mitogen
+  - pkg:pypi/mitogen
+  - pkg:rpm/fedora/python-mitogen
+  - pkg:rpm/opensuse/python-mitogen

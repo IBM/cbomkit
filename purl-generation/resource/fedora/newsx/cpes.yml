@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:fedora:newsx:1.6:8.fc8:*:*:*:*:*:*
+  - cpe:2.3:a:fedora:newsx:1.6:9.fc9:*:*:*:*:*:*

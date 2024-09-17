@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/yasm
+  - pkg:deb/ubuntu/yasm
+  - pkg:github/sailfishos-mirror/yasm
+  - pkg:github/yasm/yasm
+  - pkg:rpm/centos/yasm
+  - pkg:rpm/fedora/yasm
+  - pkg:rpm/opensuse/yasm

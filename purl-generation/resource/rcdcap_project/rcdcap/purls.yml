@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/zhenyatsk/rcdcap
+  - pkg:rpm/opensuse/rcdcap
+  - pkg:sourceforge/rcdcap

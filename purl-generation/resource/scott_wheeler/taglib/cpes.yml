@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:scott_wheeler:taglib:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:scott_wheeler:taglib:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:scott_wheeler:taglib:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:scott_wheeler:taglib:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:scott_wheeler:taglib:1.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:scott_wheeler:taglib:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:scott_wheeler:taglib:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:scott_wheeler:taglib:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:scott_wheeler:taglib:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:scott_wheeler:taglib:1.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:scott_wheeler:taglib:1.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:scott_wheeler:taglib:1.7:*:*:*:*:*:*:*

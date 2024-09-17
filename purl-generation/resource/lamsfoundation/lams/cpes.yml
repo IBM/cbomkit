@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:lamsfoundation:lams:2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:2.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:2.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:2.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:2.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:2.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:2.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:lamsfoundation:lams:4.0:*:*:*:*:*:*:*

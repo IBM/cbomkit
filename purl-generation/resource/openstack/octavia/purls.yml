@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/openstack/octavia
+  - pkg:pypi/octavia
+  - pkg:rpm/opensuse/openstack-octavia

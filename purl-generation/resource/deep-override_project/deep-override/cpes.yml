@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:deep-override_project:deep-override:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:deep-override_project:deep-override:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:deep-override_project:deep-override:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:deep-override_project:deep-override:1.0.2:*:*:*:*:*:*:*

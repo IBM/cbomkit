@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/discount
+  - pkg:deb/ubuntu/discount
+  - pkg:github/orc/discount
+  - pkg:rpm/fedora/discount
+  - pkg:rpm/opensuse/discount

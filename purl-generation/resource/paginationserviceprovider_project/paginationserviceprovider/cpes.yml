@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:paginationserviceprovider_project:paginationserviceprovider:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:paginationserviceprovider_project:paginationserviceprovider:-:*:*:*:*:*:*:*

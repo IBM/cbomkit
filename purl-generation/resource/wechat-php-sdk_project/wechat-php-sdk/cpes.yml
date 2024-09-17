@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:wechat-php-sdk_project:wechat-php-sdk:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wechat-php-sdk_project:wechat-php-sdk:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wechat-php-sdk_project:wechat-php-sdk:1.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wechat-php-sdk_project:wechat-php-sdk:1.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wechat-php-sdk_project:wechat-php-sdk:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wechat-php-sdk_project:wechat-php-sdk:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:wechat-php-sdk_project:wechat-php-sdk:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:wechat-php-sdk_project:wechat-php-sdk:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:wechat-php-sdk_project:wechat-php-sdk:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:wechat-php-sdk_project:wechat-php-sdk:1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:wechat-php-sdk_project:wechat-php-sdk:1.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wechat-php-sdk_project:wechat-php-sdk:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wechat-php-sdk_project:wechat-php-sdk:1.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wechat-php-sdk_project:wechat-php-sdk:1.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wechat-php-sdk_project:wechat-php-sdk:1.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:wechat-php-sdk_project:wechat-php-sdk:1.9.1:*:*:*:*:*:*:*

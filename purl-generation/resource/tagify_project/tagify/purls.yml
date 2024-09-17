@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/yaireo/tagify
+  - pkg:maven/org.webjars.npm/yaireo__tagify
+  - pkg:npm/%40yaireo/tagify

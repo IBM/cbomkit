@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:deno:serde_v8:0.87.0:*:*:*:*:rust:*:*

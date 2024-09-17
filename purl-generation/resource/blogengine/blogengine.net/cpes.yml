@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:blogengine:blogengine.net:3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:blogengine:blogengine.net:3.3.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:blogengine:blogengine.net:3.3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:blogengine:blogengine.net:3.3.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:blogengine:blogengine.net:3.3.8.0:*:*:*:*:*:*:*

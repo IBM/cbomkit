@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/tnftp
+  - pkg:deb/ubuntu/tnftp
+  - pkg:github/hharte/tnftp
+  - pkg:rpm/fedora/tnftp
+  - pkg:rpm/opensuse/tnftp

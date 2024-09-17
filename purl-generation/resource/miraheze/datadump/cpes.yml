@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:miraheze:datadump:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:miraheze:datadump:2021-07-07:*:*:*:*:*:*:*

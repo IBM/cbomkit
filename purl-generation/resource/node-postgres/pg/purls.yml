@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/brianc/node-postgres
+  - pkg:maven/org.webjars.npm/pg
+  - pkg:npm/pg

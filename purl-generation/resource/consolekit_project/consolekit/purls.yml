@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/gustavo_duarte/consolekit
+  - pkg:deb/debian/consolekit
+  - pkg:github/consolekit2/consolekit2
+  - pkg:github/freedesktop/consolekit
+  - pkg:github/mati75/consolekit
+  - pkg:rpm/opensuse/consolekit

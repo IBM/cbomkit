@@ -1,0 +1,9 @@
+purls:
+  - pkg:bitbucket/nielsenb/aniso8601
+  - pkg:deb/debian/python-aniso8601
+  - pkg:Deb/ubuntu/python-aniso8601
+  - pkg:github/ibm-z-oss-oda/aniso8601
+  - pkg:github/sloanlance/aniso8601
+  - pkg:pypi/aniso8601
+  - pkg:rpm/fedora/python-aniso8601
+  - pkg:rpm/opensuse/python-aniso8601

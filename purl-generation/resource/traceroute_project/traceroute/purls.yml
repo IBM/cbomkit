@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jaw187/node-traceroute
+  - pkg:npm/traceroute

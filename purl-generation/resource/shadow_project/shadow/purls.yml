@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/shadow
+  - pkg:deb/ubuntu/shadow
+  - pkg:github/shadow-maint/shadow
+  - pkg:rpm/opensuse/shadow

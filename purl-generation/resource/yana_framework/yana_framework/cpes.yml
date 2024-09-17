@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:yana_framework:yana_framework:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:yana_framework:yana_framework:2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:yana_framework:yana_framework:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:yana_framework:yana_framework:2.8.2a:*:*:*:*:*:*:*
+  - cpe:2.3:a:yana_framework:yana_framework:2.8.3a:*:*:*:*:*:*:*

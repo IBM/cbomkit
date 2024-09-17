@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:rubyforge:rubygem-sqlite3:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:rubyforge:rubygem-sqlite3:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rubyforge:rubygem-sqlite3:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rubyforge:rubygem-sqlite3:1.2.2:*:*:*:*:*:*:*

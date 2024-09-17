@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:meol1_project:meol1:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:meol1_project:meol1:-:*:*:*:*:*:*:*

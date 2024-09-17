@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:phpee:power_phlogger:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpee:power_phlogger:2.2.2:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:phpee:power_phlogger:2.2.2:beta:*:*:*:*:*:*
+  - cpe:2.3:a:phpee:power_phlogger:2.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpee:power_phlogger:2.2.4:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/justdan96/tsmuxer
+  - pkg:rpm/opensuse/tsmuxer

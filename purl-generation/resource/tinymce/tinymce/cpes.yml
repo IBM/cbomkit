@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:tinymce:tinymce:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:tinymce:tinymce:3.5.8:*:*:*:*:*:*:*

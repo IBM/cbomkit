@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:suse:system-user-root:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:system-user-root:20190513:*:*:*:*:*:*:*

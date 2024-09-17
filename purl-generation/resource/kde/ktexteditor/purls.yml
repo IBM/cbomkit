@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ktexteditor
+  - pkg:deb/ubuntu/ktexteditor
+  - pkg:github/kde/ktexteditor
+  - pkg:rpm/fedora/kf5-ktexteditor
+  - pkg:rpm/opensuse/ktexteditor

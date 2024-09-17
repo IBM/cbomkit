@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/libmicrohttpd
+  - pkg:deb/ubuntu/libmicrohttpd
+  - pkg:github/karlson2k/libmicrohttpd
+  - pkg:gitlab/kalilinux/libmicrohttpd
+  - pkg:gitlab/redhat/libmicrohttpd
+  - pkg:gnu/libmicrohttpd
+  - pkg:rpm/centos/libmicrohttpd
+  - pkg:rpm/fedora/libmicrohttpd
+  - pkg:rpm/opensuse/libmicrohttpd

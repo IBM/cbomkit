@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:webrick:webrick:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:webrick:webrick:1.3.1:*:*:*:*:*:*:*

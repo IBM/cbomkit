@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/yandeu/node-cli
+  - pkg:npm/node-cli

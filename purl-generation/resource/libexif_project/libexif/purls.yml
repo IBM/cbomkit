@@ -1,0 +1,9 @@
+purls:
+  - pkg:bitbucket/inventloop/libexif
+  - pkg:deb/debian/libexif
+  - pkg:deb/ubuntu/libexif
+  - pkg:github/libexif/libexif
+  - pkg:gitlab/redhat/libexif
+  - pkg:rpm/centos/libexif
+  - pkg:rpm/fedora/libexif
+  - pkg:rpm/opensuse/libexif

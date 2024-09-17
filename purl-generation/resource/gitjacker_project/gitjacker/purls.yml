@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/liamg/gitjacker
+  - pkg:rpm/fedora/gitjacker

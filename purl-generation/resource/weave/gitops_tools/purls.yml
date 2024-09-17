@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/weaveworks/weave-gitops
+  - pkg:golang/github.com/weaveworks/weave-gitops

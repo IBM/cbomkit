@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/rabbitmq-server
+  - pkg:deb/ubuntu/rabbitmq-server
+  - pkg:docker/ansible/rabbitmq-server
+  - pkg:github/rabbitmq/rabbitmq-server
+  - 'pkg:http:rabbitmq/rabbitmq-server '
+  - pkg:rpm/fedora/rabbitmq-server

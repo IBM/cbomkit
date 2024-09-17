@@ -1,0 +1,6 @@
+purls:
+  - pkg:gem/smtp2go
+  - pkg:github/smtp2go-oss/smtp2go-php
+  - pkg:npm/smtp2go-nodejs
+  - pkg:pypi/smtp2go
+  - pkg:sourceforge/smtp2go

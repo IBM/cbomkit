@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-mkdocs
+  - pkg:deb/ubuntu/python-mkdocs
+  - pkg:github/mkdocs/mkdocs
+  - pkg:pypi/mkdocs
+  - pkg:rpm/fedora/mkdocs
+  - pkg:rpm/opensuse/python-mkdocs

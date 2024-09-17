@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mihaivzr/netactview
+  - pkg:rpm/opensuse/netactview
+  - pkg:sourceforge/netactview

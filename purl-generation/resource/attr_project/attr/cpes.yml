@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:attr_project:attr:2.4.44:*:*:*:*:*:*:*
+  - cpe:2.3:a:attr_project:attr:2.4.45:*:*:*:*:*:*:*
+  - cpe:2.3:a:attr_project:attr:2.4.46:*:*:*:*:*:*:*
+  - cpe:2.3:a:attr_project:attr:2.4.47:*:*:*:*:*:*:*
+  - cpe:2.3:a:attr_project:attr:2.4.48:*:*:*:*:*:*:*
+  - cpe:2.3:a:attr_project:attr:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attr_project:attr:2.5.1:*:*:*:*:*:*:*

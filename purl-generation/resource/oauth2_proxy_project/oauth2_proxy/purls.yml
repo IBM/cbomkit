@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/oauth2-proxy/oauth2-proxy
+  - pkg:rpm/opensuse/oauth2_proxy

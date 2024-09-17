@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:wp-cirrus_project:wp-cirrus:0.6.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-cirrus_project:wp-cirrus:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-cirrus_project:wp-cirrus:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/palladiawa/nexusphp
+  - pkg:github/zjutjh/nexusphp
+  - pkg:sourceforge/nexusphp

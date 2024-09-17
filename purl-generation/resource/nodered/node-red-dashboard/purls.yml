@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/node-red/node-red-dashboard
+  - pkg:npm/node-red-dashboard

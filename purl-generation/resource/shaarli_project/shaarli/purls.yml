@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/shaarli
+  - pkg:docker/shaarli/shaarli
+  - pkg:github/sebsauvage/shaarli
+  - pkg:github/shaarli/shaarli
+  - pkg:sourceforge/shaarli

@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:syncpool_project:syncpool:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:syncpool_project:syncpool:0.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:syncpool_project:syncpool:0.1.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:syncpool_project:syncpool:0.1.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:syncpool_project:syncpool:0.1.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:syncpool_project:syncpool:0.1.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:syncpool_project:syncpool:0.1.6:*:*:*:*:rust:*:*

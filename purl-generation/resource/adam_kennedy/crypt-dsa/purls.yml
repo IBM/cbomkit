@@ -1,0 +1,3 @@
+purls:
+  - pkg:cpan/crypt-dsa
+  - pkg:github/gitpan/crypt-dsa

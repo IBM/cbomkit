@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:gentoo:logrotate:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:logrotate:3.3:r2:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:logrotate:3.5.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:logrotate:3.5.9:r1:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:logrotate:3.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:logrotate:3.6.5:r1:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:logrotate:3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:logrotate:3.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:logrotate:3.7.1:r1:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:logrotate:3.7.1:r2:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:logrotate:3.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:logrotate:3.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:logrotate:3.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:logrotate:3.7.8:*:*:*:*:*:*:*

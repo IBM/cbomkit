@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:citrusdb:citrusdb:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:citrusdb:citrusdb:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:citrusdb:citrusdb:0.3.6:*:*:*:*:*:*:*

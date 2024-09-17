@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:evnix:freichat:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:evnix:freichat:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:evnix:freichat:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:evnix:freichat:2.1:*:*:*:*:*:*:*

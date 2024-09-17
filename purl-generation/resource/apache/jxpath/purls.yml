@@ -1,0 +1,3 @@
+purls:
+  - pkg:apache/commons-jxpath
+  - pkg:github/apache/commons-jxpath

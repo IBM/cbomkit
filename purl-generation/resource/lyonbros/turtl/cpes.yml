@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:lyonbros:turtl:0.7.2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:lyonbros:turtl:0.7.2.6:*:*:*:-:android:*:*
+  - cpe:2.3:a:lyonbros:turtl:0.7.2.6:*:*:*:desktop:-:*:*
+  - cpe:2.3:a:lyonbros:turtl:0.7.2.6:*:*:*:-:ios:*:*

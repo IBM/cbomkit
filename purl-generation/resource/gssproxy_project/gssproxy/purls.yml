@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/gssproxy
+  - pkg:deb/ubuntu/gssproxy
+  - pkg:github/gssapi/gssproxy
+  - pkg:gitlab/redhat/gssproxy
+  - pkg:rpm/centos/gssproxy
+  - pkg:rpm/fedora/gssproxy
+  - pkg:rpm/opensuse/gssproxy

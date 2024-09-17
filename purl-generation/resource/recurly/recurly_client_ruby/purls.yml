@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/ruby/recurly
+  - pkg:github/recurly/recurly-client-ruby

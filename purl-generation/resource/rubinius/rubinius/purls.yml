@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/sciensa/rubinius
+  - pkg:gem/rubinius
+  - pkg:github/rubinius/rubinius

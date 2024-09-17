@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/bchunk
+  - pkg:deb/ubuntu/bchunk
+  - pkg:github/extramaster/bchunk
+  - pkg:rpm/fedora/bchunk
+  - pkg:rpm/opensuse/bchunk

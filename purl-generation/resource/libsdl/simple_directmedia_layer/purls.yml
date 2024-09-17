@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/libsdl-org/sdl
+  - pkg:gitlab/redhat/sdl
+  - pkg:rpm/centos/sdl
+  - pkg:rpm/fedora/sdl

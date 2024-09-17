@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sindresorhus/semver-regex
+  - pkg:npm/semver-regex

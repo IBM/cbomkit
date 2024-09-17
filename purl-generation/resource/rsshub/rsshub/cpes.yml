@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:rsshub:rsshub:2021-01-25:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rsshub:rsshub:2023-01-10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rsshub:rsshub:-:*:*:*:*:node.js:*:*

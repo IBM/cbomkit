@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:opensuse:yast2-printer:3.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:yast2-printer:3.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:yast2-printer:3.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:yast2-printer:3.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:yast2-printer:3.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:yast2-printer:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:yast2-printer:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:yast2-printer:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:yast2-printer:4.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:yast2-printer:4.1.0:*:*:*:*:*:*:*

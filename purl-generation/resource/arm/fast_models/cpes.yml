@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:arm:fast_models:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:arm:fast_models:-:*:*:*:*:*:*:*

@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:f-revocrm:f-revocrm:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:f-revocrm:f-revocrm:6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:f-revocrm:f-revocrm:6.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:f-revocrm:f-revocrm:6.5:patch1:*:*:*:*:*:*
+  - cpe:2.3:a:f-revocrm:f-revocrm:6.5:patch2:*:*:*:*:*:*
+  - cpe:2.3:a:f-revocrm:f-revocrm:6.5:patch3:*:*:*:*:*:*
+  - cpe:2.3:a:f-revocrm:f-revocrm:6.5:patch4:*:*:*:*:*:*
+  - cpe:2.3:a:f-revocrm:f-revocrm:6.5:patch5:*:*:*:*:*:*
+  - cpe:2.3:a:f-revocrm:f-revocrm:6.5:patch6:*:*:*:*:*:*
+  - cpe:2.3:a:f-revocrm:f-revocrm:6.5:patch6.1:*:*:*:*:*:*
+  - cpe:2.3:a:f-revocrm:f-revocrm:7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:f-revocrm:f-revocrm:7.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:f-revocrm:f-revocrm:7.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:f-revocrm:f-revocrm:7.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:f-revocrm:f-revocrm:7.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:f-revocrm:f-revocrm:7.3.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:f-revocrm:f-revocrm:7.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:f-revocrm:f-revocrm:7.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:f-revocrm:f-revocrm:7.3.8:*:*:*:*:*:*:*

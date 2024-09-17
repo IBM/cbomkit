@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/phantomjs
+  - pkg:deb/ubuntu/phantomjs
+  - pkg:github/ariya/phantomjs
+  - pkg:github/medium/phantomjs
+  - pkg:maven/org.webjars.npm/phantomjs
+  - pkg:npm/phantomjs
+  - pkg:nuget/PhantomJS
+  - pkg:rpm/opensuse/phantomjs

@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:jenkins:storable_configs:1.0:*:*:*:*:jenkins:*:*

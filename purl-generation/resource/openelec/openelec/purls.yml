@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/cfield/openelec.tv
+  - pkg:bitbucket/lucasrokam/openelec.tv
+  - pkg:bitbucket/openelec/openelec
+  - pkg:github/openelec/openelec.tv

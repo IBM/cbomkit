@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/kjur/jsrsasign
+  - pkg:maven/org.webjars.npm/jsrsasign
+  - pkg:npm/jsrsasign

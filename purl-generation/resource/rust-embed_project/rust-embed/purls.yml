@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/pyros2097/rust-embed
+  - pkg:rpm/fedora/rust-rust-embed
+  - pkg:rpm/opensuse/rust-rust-embed

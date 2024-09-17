@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/apaladino/opensymphony-webwork-backup
+  - pkg:github/nicolas-ivering/opensymphony-webwork-backup
+  - pkg:maven/opensymphony/webwork
+  - pkg:sourceforge/opensymphony

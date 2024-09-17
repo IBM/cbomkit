@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:certifi_project:certifi:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:certifi_project:certifi:2022.12.07:*:*:*:*:*:*:*

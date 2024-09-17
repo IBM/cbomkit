@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/sonatype/nexus-iq-server
+  - pkg:github/sonatype/docker-nexus-iq-server

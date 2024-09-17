@@ -1,0 +1,3 @@
+purls:
+  - pkg:maven/com.wutka/jox
+  - pkg:sourceforge/jox

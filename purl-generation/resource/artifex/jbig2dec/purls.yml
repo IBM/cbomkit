@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/jbig2dec
+  - pkg:deb/ubuntu/jbig2dec
+  - pkg:github/artifexsoftware/jbig2dec
+  - pkg:gitlab/redhat/jbig2dec
+  - pkg:rpm/fedora/jbig2dec
+  - pkg:rpm/opensuse/jbig2dec
+  - pkg:sourceforge/jbig2dec

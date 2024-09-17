@@ -1,0 +1,9 @@
+purls:
+  - pkg:bitbucket/zzzeek/mako
+  - pkg:deb/debian/mako
+  - pkg:deb/ubuntu/mako
+  - pkg:github/sqlalchemy/mako
+  - pkg:github/zzzeek/mako
+  - pkg:pypi/mako
+  - pkg:rpm/fedora/python-mako
+  - pkg:rpm/opensuse/python-mako

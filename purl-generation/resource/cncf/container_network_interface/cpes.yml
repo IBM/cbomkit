@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:cncf:container_network_interface:*:*:*:*:*:*:*:*

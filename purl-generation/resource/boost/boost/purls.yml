@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/boost-defaults
+  - pkg:deb/ubuntu/boost-defaults
+  - pkg:github/boostorg/boost
+  - pkg:gitlab/cleveron/boost
+  - pkg:rpm/centos/boost
+  - pkg:rpm/fedora/boost
+  - pkg:rpm/opensuse/boost
+  - pkg:sourceforge/boost

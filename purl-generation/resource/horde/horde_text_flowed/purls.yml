@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-text-flowed
+  - pkg:deb/ubuntu/php-horde-text-flowed
+  - pkg:github/horde/text_flowed
+  - pkg:rpm/fedora/php-horde-horde-text-flowed

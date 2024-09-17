@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libjettison-java
+  - pkg:deb/ubuntu/libjettison-java
+  - pkg:github/jettison-json/jettison
+  - pkg:maven/org.codehaus.jettison/jettison
+  - pkg:rpm/centos/jettison
+  - pkg:rpm/opensuse/jettison

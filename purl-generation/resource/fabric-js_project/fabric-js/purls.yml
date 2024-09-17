@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/fabricjs/fabric.js
+  - pkg:maven/org.webjars.bowergithub.fabricjs/fabric.js

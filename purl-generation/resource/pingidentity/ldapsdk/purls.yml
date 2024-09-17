@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pingidentity/ldapsdk
+  - pkg:maven/com.unboundid/unboundid-ldapsdk

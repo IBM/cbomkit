@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:pam-python_project:pam-python:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:pam-python_project:pam-python:1.0.4-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pam-python_project:pam-python:1.0.5-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pam-python_project:pam-python:1.0.6-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pam-python_project:pam-python:1.0.7-1:*:*:*:*:*:*:*

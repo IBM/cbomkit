@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:redhat:origin-aggregated-logging:3.11:*:*:*:*:*:*:*

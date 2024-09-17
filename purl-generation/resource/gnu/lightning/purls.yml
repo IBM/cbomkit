@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/dschwen/lightning
+  - pkg:github/gitgnu/gnu_lightning
+  - pkg:github/gnu-mirror-unofficial/lightning
+  - pkg:gnu/lightning
+  - pkg:rpm/fedora/lightning

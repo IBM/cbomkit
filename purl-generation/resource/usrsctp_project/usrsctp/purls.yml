@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/libusrsctp
+  - pkg:deb/ubuntu/libusrsctp
+  - pkg:github/sctplab/usrsctp
+  - pkg:rpm/fedora/usrsctp

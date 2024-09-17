@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:catzsoft:redi_restaurant_reservation:21.0426:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:catzsoft:redi_restaurant_reservation:-:*:*:*:*:wordpress:*:*

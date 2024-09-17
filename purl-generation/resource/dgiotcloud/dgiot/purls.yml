@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/dgiot/dgiot
+  - pkg:github/dgiot/dgiot

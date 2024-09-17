@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/simdjson
+  - pkg:deb/ubuntu/simdjson
+  - pkg:github/simd-lite/simdjson-json
+  - pkg:npm/%40nozbe/simdjson

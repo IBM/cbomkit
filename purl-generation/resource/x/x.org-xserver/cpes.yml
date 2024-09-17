@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:x:x.org-xserver:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:x:x.org-xserver:1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:x:x.org-xserver:1.7.6.902:*:*:*:*:*:*:*
+  - cpe:2.3:a:x:x.org-xserver:1.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:x:x.org-xserver:1.7.7:rc2:*:*:*:*:*:*

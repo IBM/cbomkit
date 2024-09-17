@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/puppet-module-puppetlabs-firewall
+  - pkg:deb/ubuntu/puppet-module-puppetlabs-firewall
+  - pkg:github/puppetlabs/puppetlabs-firewall

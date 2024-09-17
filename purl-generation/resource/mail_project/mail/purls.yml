@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-mail
+  - pkg:deb/ubuntu/ruby-mail
+  - pkg:gem/mail
+  - pkg:github/mikel/mail
+  - pkg:rpm/fedora/rubygem-mail
+  - pkg:rpm/opensuse/rubygem-mail

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:compression_and_archive_extensions_project:compression_and_archive_extensions_tz_project:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:compression_and_archive_extensions_project:compression_and_archive_extensions_tz_project:-:*:*:*:*:*:*:*

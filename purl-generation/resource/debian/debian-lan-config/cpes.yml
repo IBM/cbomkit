@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:debian:debian-lan-config:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:debian-lan-config:0.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:debian-lan-config:0.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:debian-lan-config:0.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:debian-lan-config:0.26:*:*:*:*:*:*:*

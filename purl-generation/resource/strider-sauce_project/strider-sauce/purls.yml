@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/strider-cd/strider-sauce
+  - pkg:npm/strider-sauce

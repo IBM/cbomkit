@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:mvnforum:mvnforum:1.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:mvnforum:mvnforum:1.0.0_beta1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mvnforum:mvnforum:1.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:mvnforum:mvnforum:1.0.0_beta2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mvnforum:mvnforum:1.0.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:mvnforum:mvnforum:1.0.0_beta3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mvnforum:mvnforum:1.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mvnforum:mvnforum:1.0.0_rc1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mvnforum:mvnforum:1.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mvnforum:mvnforum:1.0.0_rc2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mvnforum:mvnforum:1.0.0:rc3_01:*:*:*:*:*:*
+  - cpe:2.3:a:mvnforum:mvnforum:1.0.0_rc3_01:*:*:*:*:*:*:*
+  - cpe:2.3:a:mvnforum:mvnforum:1.0.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:mvnforum:mvnforum:1.0.0_rc4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mvnforum:mvnforum:1.0.0_rc4_04:*:*:*:*:*:*:*
+  - cpe:2.3:a:mvnforum:mvnforum:1.0.2.:ga:*:*:*:*:*:*
+  - cpe:2.3:a:mvnforum:mvnforum:1.0_ga:*:*:*:*:*:*:*
+  - cpe:2.3:a:mvnforum:mvnforum:1.0_rc4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mvnforum:mvnforum:1.1:ga:*:*:*:*:*:*
+  - cpe:2.3:a:mvnforum:mvnforum:*:ga:*:*:*:*:*:*

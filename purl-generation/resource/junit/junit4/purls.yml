@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/junit4
+  - pkg:deb/ubuntu/junit4
+  - pkg:github/junit-team/junit4

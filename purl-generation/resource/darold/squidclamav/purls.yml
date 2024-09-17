@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/drainware/squidclamav
+  - pkg:docker/mgit/squidclamav
+  - pkg:github/darold/squidclamav
+  - pkg:rpm/opensuse/squidclamav
+  - pkg:sourceforge/squidclamav

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/freetype
+  - pkg:deb/ubuntu/freetype
+  - pkg:github/freetype/freetype
+  - pkg:gnu/freetype
+  - pkg:rpm/centos/freetype
+  - pkg:rpm/fedora/freetype
+  - pkg:rpm/opensuse/freetype
+  - pkg:sourceforge/freetype

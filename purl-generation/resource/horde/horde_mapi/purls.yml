@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-mapi
+  - pkg:deb/ubuntu/php-horde-mapi
+  - pkg:github/horde/mapi
+  - pkg:rpm/fedora/php-horde-horde-mapi

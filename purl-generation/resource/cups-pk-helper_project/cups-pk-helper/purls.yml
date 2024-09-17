@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/cups-pk-helper
+  - pkg:deb/ubuntu/cups-pk-helper
+  - pkg:github/freedesktop/cups-pk-helper
+  - pkg:github/freedesktop-unofficial-mirror/cups-pk-helper
+  - pkg:gitlab/redhat/cups-pk-helper
+  - pkg:rpm/centos/cups-pk-helper
+  - pkg:rpm/fedora/cups-pk-helper
+  - pkg:rpm/opensuse/cups-pk-helper

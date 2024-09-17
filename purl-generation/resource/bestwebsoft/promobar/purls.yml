@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bestwebsoft/promobar-wordpress-plugin
+  - pkg:github/wp-plugins/promobar
+  - pkg:github/wpplugins/promobar

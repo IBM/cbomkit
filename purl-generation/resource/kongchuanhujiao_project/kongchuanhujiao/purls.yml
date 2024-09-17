@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kongchuanhujiao/provinceserver
+  - pkg:golang/github.com/kongchuanhujiao/provinceserver

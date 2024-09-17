@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-serialize
+  - pkg:deb/ubuntu/php-horde-serialize
+  - pkg:github/horde/serialize
+  - pkg:rpm/fedora/php-horde-horde-serialize

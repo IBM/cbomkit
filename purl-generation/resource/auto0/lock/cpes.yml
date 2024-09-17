@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:auto0:lock:11.25.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:auto0:lock:11.30.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:auto0:lock:11.30.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:auto0:lock:*:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:auto0:lock:-:*:*:*:*:node.js:*:*

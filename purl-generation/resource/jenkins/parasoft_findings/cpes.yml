@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:jenkins:parasoft_findings:10.2.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_findings:10.2.3.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_findings:10.2.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_findings:10.3.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_findings:10.3.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_findings:10.3.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_findings:10.3.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_findings:10.3.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_findings:10.3.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_findings:10.4.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_findings:10.4.1:-:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_findings:10.4.1:pre:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_findings:10.4.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_findings:10.4.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:parasoft_findings:10.4.4:*:*:*:*:jenkins:*:*

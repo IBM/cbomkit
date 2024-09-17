@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/localepurge
+  - pkg:deb/ubuntu/localepurge

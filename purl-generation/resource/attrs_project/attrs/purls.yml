@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/python-attrs
+  - pkg:deb/ubuntu/python-attrs
+  - pkg:github/python-attrs/attrs
+  - pkg:pypi/attrs
+  - pkg:rpm/fedora/python-attrs
+  - pkg:rpm/opensuse/python-attrs
+  - pkg:sourceforge/attrs.mirror

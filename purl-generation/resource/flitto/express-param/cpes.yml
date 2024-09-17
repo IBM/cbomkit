@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:flitto:express-param:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:flitto:express-param:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:flitto:express-param:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:flitto:express-param:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:flitto:express-param:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:flitto:express-param:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:flitto:express-param:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:flitto:express-param:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:flitto:express-param:0.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:flitto:express-param:0.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:flitto:express-param:0.5.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:flitto:express-param:0.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:flitto:express-param:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:flitto:express-param:0.8.1:*:*:*:*:*:*:*

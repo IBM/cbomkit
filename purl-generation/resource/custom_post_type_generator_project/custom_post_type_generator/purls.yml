@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/hijiriworld/custom-post-type-generator
+  - pkg:github/wp-plugins/custom-post-type-generator
+  - pkg:github/wpplugins/custom-post-type-generator

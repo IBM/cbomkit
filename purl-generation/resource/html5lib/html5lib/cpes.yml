@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:html5lib:html5lib:0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:html5lib:html5lib:0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:html5lib:html5lib:0.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:html5lib:html5lib:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:html5lib:html5lib:0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:html5lib:html5lib:0.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:html5lib:html5lib:0.95:*:*:*:*:*:*:*
+  - cpe:2.3:a:html5lib:html5lib:0.99:*:*:*:*:*:*:*
+  - cpe:2.3:a:html5lib:html5lib:0.999:*:*:*:*:*:*:*
+  - cpe:2.3:a:html5lib:html5lib:0.99999:1.0b5:*:*:*:*:*:*
+  - cpe:2.3:a:html5lib:html5lib:0.999999:1.0b6:*:*:*:*:*:*
+  - cpe:2.3:a:html5lib:html5lib:0.9999999:1.0b7:*:*:*:*:*:*
+  - cpe:2.3:a:html5lib:html5lib:0.99999999:1.0b8:*:*:*:*:*:*
+  - cpe:2.3:a:html5lib:html5lib:0.999999999:1.0b9:*:*:*:*:*:*
+  - cpe:2.3:a:html5lib:html5lib:0.9999999999:1.0b10:*:*:*:*:*:*
+  - cpe:2.3:a:html5lib:html5lib:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:html5lib:html5lib:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:html5lib:html5lib:1.0b1:*:*:*:*:*:*:*
+  - cpe:2.3:a:html5lib:html5lib:1.0b2:*:*:*:*:*:*:*
+  - cpe:2.3:a:html5lib:html5lib:1.0b3:*:*:*:*:*:*:*
+  - cpe:2.3:a:html5lib:html5lib:1.1:*:*:*:*:*:*:*

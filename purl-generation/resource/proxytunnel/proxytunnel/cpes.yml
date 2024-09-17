@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:proxytunnel:proxytunnel:1.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:proxytunnel:proxytunnel:1.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:proxytunnel:proxytunnel:1.2_.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:proxytunnel:proxytunnel:1.2.2:*:*:*:*:*:*:*

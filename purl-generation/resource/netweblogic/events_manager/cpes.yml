@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:netweblogic:events_manager:5.3.1:-:-:*:-:wordpress:*:*
+  - cpe:2.3:a:netweblogic:events_manager:5.3.2.1:-:-:*:-:wordpress:*:*
+  - cpe:2.3:a:netweblogic:events_manager:5.3.2:-:-:*:-:wordpress:*:*
+  - cpe:2.3:a:netweblogic:events_manager:5.3.3:-:-:*:-:wordpress:*:*
+  - cpe:2.3:a:netweblogic:events_manager:5.3:-:-:*:-:wordpress:*:*
+  - cpe:2.3:a:netweblogic:events_manager:*:-:-:*:-:wordpress:*:*

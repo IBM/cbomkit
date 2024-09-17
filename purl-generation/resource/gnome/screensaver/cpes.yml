@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:gnome:screensaver:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:screensaver:2.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:screensaver:2.14.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:screensaver:2.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:screensaver:2.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:screensaver:2.22.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:screensaver:2.26.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:screensaver:2.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:screensaver:2.28.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:screensaver:2.28.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:screensaver:2.28.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:screensaver:2.28.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:screensaver:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:screensaver:3.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:screensaver:3.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:screensaver:3.5.3:*:*:*:*:*:*:*

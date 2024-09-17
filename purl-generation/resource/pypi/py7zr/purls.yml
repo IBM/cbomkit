@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/miurahr/py7zr
+  - pkg:pypi/py7zr

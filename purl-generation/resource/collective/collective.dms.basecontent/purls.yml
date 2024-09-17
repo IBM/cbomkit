@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/collective/collective.dms.basecontent
+  - pkg:pypi/collective.dms.basecontent

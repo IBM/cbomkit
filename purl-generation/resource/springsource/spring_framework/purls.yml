@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/spring-projects/spring-framework
+  - pkg:gitlab/gitlab-org/spring-framework
+  - pkg:maven/org.springframework/spring
+  - pkg:sourceforge/spring-framework.mirror

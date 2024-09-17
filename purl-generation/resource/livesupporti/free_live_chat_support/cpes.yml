@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:livesupporti:free_live_chat_support:1.0.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:livesupporti:free_live_chat_support:*:*:*:*:*:wordpress:*:*

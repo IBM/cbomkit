@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:docker:spiped:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:spiped:1:-:*:*:*:*:*:*
+  - cpe:2.3:a:docker:spiped:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:spiped:1.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:docker:spiped:1.5.0:alpine:*:*:*:*:*:*
+  - cpe:2.3:a:docker:spiped:1.5:alpine:*:*:*:*:*:*
+  - cpe:2.3:a:docker:spiped:1.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:docker:spiped:1.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:docker:spiped:1.6.0:alpine:*:*:*:*:*:*
+  - cpe:2.3:a:docker:spiped:1.6.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:docker:spiped:1.6.1:alpine:*:*:*:*:*:*
+  - cpe:2.3:a:docker:spiped:1.6:alpine:*:*:*:*:*:*
+  - cpe:2.3:a:docker:spiped:1:alpine:*:*:*:*:*:*

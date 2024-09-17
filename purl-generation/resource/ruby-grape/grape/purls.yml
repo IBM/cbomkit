@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-grape
+  - pkg:deb/ubuntu/ruby-grape
+  - pkg:gem/grape
+  - pkg:github/ruby-grape/grape
+  - pkg:rpm/opensuse/rubygem-grape

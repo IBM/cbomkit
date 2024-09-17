@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/prometheus
+  - pkg:deb/ubuntu/prometheus
+  - pkg:github/prometheus/prometheus
+  - pkg:rpm/fedora/golang-github-prometheus
+  - pkg:sourceforge/prometheus.mirror

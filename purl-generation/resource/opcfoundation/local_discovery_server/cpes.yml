@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:opcfoundation:local_discovery_server:1.03.355:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:local_discovery_server:1.03.367:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:local_discovery_server:1.03.370:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:local_discovery_server:1.03.371:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:local_discovery_server:1.03.400:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:local_discovery_server:1.03.401:*:*:*:*:*:*:*

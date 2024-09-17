@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ipfs/npm-go-ipfs
+  - pkg:npm/go-ipfs-dep

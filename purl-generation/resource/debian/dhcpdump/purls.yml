@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/dhcpdump
+  - pkg:deb/ubuntu/dhcpdump
+  - pkg:github/huiji12321/dhcpdump
+  - pkg:github/yashin-alexander/dhcpdump

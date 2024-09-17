@@ -1,0 +1,8 @@
+purls:
+  - pkg:apache/opennlp
+  - pkg:deb/debian/apache-opennlp
+  - pkg:deb/ubuntu/apache-opennlp
+  - pkg:github/apache/opennlp
+  - pkg:maven/org.apache.opennlp/opennlp
+  - pkg:rpm/opensuse/opennlp
+  - pkg:sourceforge/opennlp

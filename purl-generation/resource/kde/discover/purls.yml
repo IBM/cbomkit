@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/plasma-discover
+  - pkg:deb/ubuntu/plasma-discover
+  - pkg:github/kde/discover
+  - pkg:rpm/fedora/plasma-discover
+  - pkg:rpm/opensuse/discover

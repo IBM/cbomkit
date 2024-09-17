@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/zincsearch/zincsearch
+  - pkg:golang/github.com/zincsearch/zincsearch
+  - pkg:sourceforge/zinc-search-engine.mirror

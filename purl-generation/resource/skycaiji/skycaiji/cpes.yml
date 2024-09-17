@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:skycaiji:skycaiji:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:skycaiji:skycaiji:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:skycaiji:skycaiji:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:skycaiji:skycaiji:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:skycaiji:skycaiji:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:skycaiji:skycaiji:2.5.4:*:*:*:*:*:*:*

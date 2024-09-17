@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libyang
+  - pkg:deb/ubuntu/libyang
+  - pkg:github/cesnet/libyang
+  - pkg:rpm/centos/libyang
+  - pkg:rpm/fedora/libyang
+  - pkg:rpm/opensuse/libyang

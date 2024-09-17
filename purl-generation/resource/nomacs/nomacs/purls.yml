@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/nomacs
+  - pkg:deb/ubuntu/nomacs
+  - pkg:github/nomacs/nomacs
+  - pkg:rpm/fedora/nomacs
+  - pkg:rpm/opensuse/nomacs
+  - pkg:sourceforge/nomacs

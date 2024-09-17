@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/openmicroscopy/omero-server
+  - pkg:github/ome/omero-server
+  - pkg:maven/org.openmicroscopy/omero-server
+  - pkg:pypi/omero-server

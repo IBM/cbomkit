@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:osisoft:pi_opc_da_interface:2.3.16.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_opc_da_interface:2.3.17.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_opc_da_interface:2.3.20.9:*:*:*:*:*:*:*

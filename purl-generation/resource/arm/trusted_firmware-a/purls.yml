@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/arm-software/arm-trusted-firmware
+  - pkg:rpm/fedora/arm-trusted-firmware
+  - pkg:rpm/opensuse/arm-trusted-firmware

@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.5.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.5.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.5.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.5.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.5.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.5.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.5.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.5.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.5.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.5.19:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.5.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.5.21:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.5.22:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.5.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.5.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.5.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.5.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:2.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:-:*:*:*:*:wordpress:*:*

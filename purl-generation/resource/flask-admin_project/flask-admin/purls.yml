@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/asifssarker/flask-admin
+  - pkg:github/flask-admin/flask-admin
+  - pkg:pypi/flask-admin
+  - pkg:rpm/fedora/python-flask-admin
+  - pkg:rpm/opensuse/python-flask-admin

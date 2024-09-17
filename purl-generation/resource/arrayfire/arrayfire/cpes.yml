@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:arrayfire:arrayfire:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:arrayfire:arrayfire:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arrayfire:arrayfire:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arrayfire:arrayfire:3.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:arrayfire:arrayfire:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arrayfire:arrayfire:3.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:arrayfire:arrayfire:3.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:arrayfire:arrayfire:3.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:arrayfire:arrayfire:3.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arrayfire:arrayfire:3.6.0:*:*:*:*:*:*:*

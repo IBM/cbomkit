@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:uekw1511server_project:uekw1511server:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:uekw1511server_project:uekw1511server:1.0.1:*:*:*:*:node.js:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/pagespeed
+  - pkg:github/apache/incubator-pagespeed-mod
+  - pkg:googlesource/mod_pagespeed

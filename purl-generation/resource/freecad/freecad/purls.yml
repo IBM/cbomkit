@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/freecad
+  - pkg:deb/ubuntu/freecad
+  - pkg:github/freecad/freecad
+  - pkg:gitlab/freecad/freecad
+  - pkg:rpm/fedora/freecad
+  - pkg:rpm/opensuse/freecad
+  - pkg:sourceforge/freecad.mirror

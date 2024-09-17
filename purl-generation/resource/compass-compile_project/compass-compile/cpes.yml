@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:compass-compile_project:compass-compile:0.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:compass-compile_project:compass-compile:-:*:*:*:*:node.js:*:*

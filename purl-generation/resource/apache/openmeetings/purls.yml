@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/openmeetings
+  - pkg:docker/apache/openmeetings
+  - pkg:github/apache/openmeetings
+  - pkg:maven/org.apache.openmeetings/openmeetings-parent

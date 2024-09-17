@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:plone:namedfile:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:plone:namedfile:6.2.0:*:*:*:*:*:*:*

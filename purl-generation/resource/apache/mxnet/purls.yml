@@ -1,0 +1,3 @@
+purls:
+  - pkg:apache/mxnet
+  - pkg:github/apache/incubator-mxnet

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/zap-pipeline-plugin
+  - pkg:github/uen/zap-jenkins-pipeline-plugin

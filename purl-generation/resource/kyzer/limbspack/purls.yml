@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/kyz/libmspack
+  - pkg:gitlab/redhat/libmspack
+  - pkg:rpm/fedora/libmspack
+  - pkg:rpm/opensuse/libmspack

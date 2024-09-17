@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:columnar_project:columnar:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:columnar_project:columnar:0.0.10:*:*:*:*:rust:*:*
+  - cpe:2.3:a:columnar_project:columnar:0.0.11:*:*:*:*:rust:*:*
+  - cpe:2.3:a:columnar_project:columnar:0.0.12:*:*:*:*:rust:*:*
+  - cpe:2.3:a:columnar_project:columnar:0.0.13:*:*:*:*:rust:*:*
+  - cpe:2.3:a:columnar_project:columnar:0.0.14:*:*:*:*:rust:*:*
+  - cpe:2.3:a:columnar_project:columnar:0.0.15:*:*:*:*:rust:*:*
+  - cpe:2.3:a:columnar_project:columnar:0.0.16:*:*:*:*:rust:*:*
+  - cpe:2.3:a:columnar_project:columnar:0.0.17:*:*:*:*:rust:*:*
+  - cpe:2.3:a:columnar_project:columnar:0.0.18:*:*:*:*:rust:*:*
+  - cpe:2.3:a:columnar_project:columnar:0.0.19:*:*:*:*:rust:*:*
+  - cpe:2.3:a:columnar_project:columnar:0.0.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:columnar_project:columnar:0.0.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:columnar_project:columnar:0.0.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:columnar_project:columnar:0.0.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:columnar_project:columnar:0.0.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:columnar_project:columnar:0.0.7:*:*:*:*:rust:*:*
+  - cpe:2.3:a:columnar_project:columnar:0.0.8:*:*:*:*:rust:*:*
+  - cpe:2.3:a:columnar_project:columnar:0.0.9:*:*:*:*:rust:*:*
+  - cpe:2.3:a:columnar_project:columnar:-:*:*:*:*:rust:*:*

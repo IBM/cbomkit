@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:nlnetlabs:bcder:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nlnetlabs:bcder:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:nlnetlabs:bcder:0.7.2:*:*:*:*:*:*:*

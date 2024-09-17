@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bestwebsoft/bestwebsoft-google-maps-wordpress-plugin
+  - pkg:github/wp-plugins/bws-google-maps
+  - pkg:github/wpplugins/bws-google-maps

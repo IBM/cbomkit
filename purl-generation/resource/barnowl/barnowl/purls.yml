@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/barnowl
+  - pkg:deb/ubuntu/barnowl
+  - pkg:github/barnowl/barnowl

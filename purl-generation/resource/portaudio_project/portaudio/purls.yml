@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/portaudio19
+  - pkg:deb/ubuntu/portaudio19
+  - pkg:github/rustaudio/rust-portaudio
+  - pkg:rpm/fedora/portaudio
+  - pkg:rpm/opensuse/portaudio
+  - pkg:sourceforge/portaudio

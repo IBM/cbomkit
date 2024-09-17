@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/nautilus
+  - pkg:deb/ubuntu/nautilus
+  - pkg:github/gnome/nautilus
+  - pkg:rpm/centos/nautilus
+  - pkg:rpm/fedora/nautilus
+  - pkg:rpm/opensuse/nautilus

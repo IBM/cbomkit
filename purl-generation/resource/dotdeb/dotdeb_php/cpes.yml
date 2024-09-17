@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:dotdeb:dotdeb_php:4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotdeb:dotdeb_php:4.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotdeb:dotdeb_php:4.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotdeb:dotdeb_php:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotdeb:dotdeb_php:5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotdeb:dotdeb_php:5.2:*:*:*:*:*:*:*

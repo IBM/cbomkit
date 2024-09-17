@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/otcdevelopment/libmodbus
+  - pkg:deb/debian/libmodbus
+  - pkg:deb/ubuntu/libmodbus
+  - pkg:github/stephane/libmodbus
+  - pkg:rpm/fedora/libmodbus
+  - pkg:rpm/opensuse/libmodbus

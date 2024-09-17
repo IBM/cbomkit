@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/jsreport/jsreport
+  - pkg:github/jsreport/jsreport-chrome-pdf
+  - pkg:npm/%40jsreport/jsreport-chrome-pdf
+  - pkg:npm/jsreport-chrome-pdf

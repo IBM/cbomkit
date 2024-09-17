@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:gopiplus:email_posts_to_subscribers:6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gopiplus:email_posts_to_subscribers:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gopiplus:email_posts_to_subscribers:-:*:*:*:*:wordpress:*:*

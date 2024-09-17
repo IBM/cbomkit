@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:bycms_project:bycms:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bycms_project:bycms:3.0.4:*:*:*:*:*:*:*

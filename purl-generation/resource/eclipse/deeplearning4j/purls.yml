@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/deeplearning4j/deeplearning4j
+  - pkg:maven/org.deeplearning4j/deeplearning4j

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ahmedadelfahim/express-xss-sanitizer
+  - pkg:npm/express-xss-sanitizer

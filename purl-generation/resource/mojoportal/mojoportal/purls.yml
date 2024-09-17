@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/i7media/mojoportal
+  - pkg:rpm/opensuse/mojoportal
+  - pkg:sourceforge/mojoportal

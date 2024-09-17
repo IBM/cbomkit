@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:dotty_project:dotty:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotty_project:dotty:0.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotty_project:dotty:0.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotty_project:dotty:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotty_project:dotty:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotty_project:dotty:0.1.2:*:*:*:*:*:*:*

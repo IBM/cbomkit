@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/brgl/uclibc-ng
+  - pkg:github/kraj/uclibc-ng
+  - pkg:github/wbx-github/uclibc-ng

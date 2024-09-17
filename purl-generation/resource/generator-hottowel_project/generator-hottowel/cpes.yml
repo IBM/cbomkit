@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:generator-hottowel_project:generator-hottowel:0.0.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:generator-hottowel_project:generator-hottowel:-:*:*:*:*:node.js:*:*

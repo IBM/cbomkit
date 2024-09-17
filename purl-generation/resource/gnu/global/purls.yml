@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/global
+  - pkg:deb/ubuntu/global
+  - pkg:github/harai/gnu-global
+  - pkg:github/namhyung/global
+  - pkg:gnu/global
+  - pkg:rpm/fedora/global
+  - pkg:rpm/opensuse/global

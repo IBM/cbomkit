@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:1.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:1.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:1.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:1.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:1.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:2.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:2.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:3.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:3.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:3.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:3.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:3.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:3.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:4.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:4.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:4.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:4.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:4.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:insights_from_google_pagespeed_project:insights_from_google_pagespeed:-:*:*:*:*:wordpress:*:*

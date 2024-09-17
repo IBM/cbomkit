@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/zopefoundation/zdaemon
+  - pkg:pypi/zdaemon

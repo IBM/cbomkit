@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:libpwquality_project:libpwquality:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpwquality_project:libpwquality:0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpwquality_project:libpwquality:0.9.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpwquality_project:libpwquality:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpwquality_project:libpwquality:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpwquality_project:libpwquality:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpwquality_project:libpwquality:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpwquality_project:libpwquality:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpwquality_project:libpwquality:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpwquality_project:libpwquality:1.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpwquality_project:libpwquality:1.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpwquality_project:libpwquality:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpwquality_project:libpwquality:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpwquality_project:libpwquality:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpwquality_project:libpwquality:1.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpwquality_project:libpwquality:1.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpwquality_project:libpwquality:1.4.4:*:*:*:*:*:*:*

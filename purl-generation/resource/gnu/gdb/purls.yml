@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/gdb
+  - pkg:deb/ubuntu/gdb
+  - pkg:github/bminor/binutils-gdb
+  - pkg:gitlab/redhat/gdb
+  - pkg:gnu/gdb
+  - pkg:rpm/centos/gdb
+  - pkg:rpm/fedora/gdb
+  - pkg:rpm/opensuse/gdb

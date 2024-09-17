@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:tinyproxy:tinyproxy:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:tinyproxy:tinyproxy:1.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tinyproxy:tinyproxy:1.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:tinyproxy:tinyproxy:1.4.3:*:*:*:*:*:*:*

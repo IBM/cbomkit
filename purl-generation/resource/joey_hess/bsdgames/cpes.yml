@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:joey_hess:bsdgames:2.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:joey_hess:bsdgames:2.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:joey_hess:bsdgames:2.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:joey_hess:bsdgames:2.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:joey_hess:bsdgames:2.9:*:*:*:*:*:*:*

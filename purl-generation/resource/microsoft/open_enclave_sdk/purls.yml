@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openenclave/openenclave
+  - pkg:nuget/open-enclave

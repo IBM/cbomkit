@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/brandy
+  - pkg:deb/ubuntu/brandy
+  - pkg:github/peterhellberg/brandy
+  - pkg:rpm/opensuse/brandy
+  - pkg:sourceforge/brandy

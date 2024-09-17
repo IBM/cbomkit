@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:owasp:enterprise_security_api:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:enterprise_security_api:2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:enterprise_security_api:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:enterprise_security_api:2.0:rc10:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:enterprise_security_api:2.0:rc11:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:enterprise_security_api:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:enterprise_security_api:2.1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:enterprise_security_api:2.2.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:enterprise_security_api:2.2.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:enterprise_security_api:2.2.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:enterprise_security_api:2.2.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:enterprise_security_api:2.2.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:enterprise_security_api:2.2.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:enterprise_security_api:2.2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:enterprise_security_api:2.2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:enterprise_security_api:2.2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:enterprise_security_api:2.2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:enterprise_security_api:2.3.0.0:*:*:*:*:*:*:*

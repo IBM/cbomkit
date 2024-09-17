@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ocrodjvu
+  - pkg:deb/ubuntu/ocrodjvu
+  - pkg:github/jwilk-archive/ocrodjvu
+  - pkg:pypi/ocrodjvu
+  - pkg:rpm/opensuse/ocrodjvu

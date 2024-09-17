@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:atomic-option_project:atomic-option:0.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:atomic-option_project:atomic-option:0.0.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:atomic-option_project:atomic-option:0.0.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:atomic-option_project:atomic-option:0.0.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:atomic-option_project:atomic-option:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:atomic-option_project:atomic-option:0.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:atomic-option_project:atomic-option:0.1.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:atomic-option_project:atomic-option:-:*:*:*:*:rust:*:*

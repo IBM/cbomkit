@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/comelit/vernemq
+  - pkg:docker/vernemq/vernemq
+  - pkg:github/vernemq/vernemq

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/mapserver
+  - pkg:deb/ubuntu/mapserver
+  - pkg:docker/mapserver/mapserver
+  - pkg:github/mapserver/mapserver
+  - pkg:rpm/fedora/mapserver
+  - pkg:rpm/opensuse/mapserver

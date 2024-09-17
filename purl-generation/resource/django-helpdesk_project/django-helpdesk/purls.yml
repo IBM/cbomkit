@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/durand6/django-helpdesk
+  - pkg:github/django-helpdesk/django-helpdesk
+  - pkg:pypi/django-helpdesk
+  - pkg:rpm/fedora/python-django-helpdesk
+  - pkg:rpm/opensuse/python-django-helpdesk

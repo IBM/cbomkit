@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:openwrt:luci:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:0.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:0.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:0.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:0.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:0.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:0.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:0.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:0.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:0.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:0.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:0.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:19.07.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:19.07.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:19.07.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:19.07.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:19.07.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:22.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:22.03.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:git-20.049.11521-bebfe20:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:git-20.078.22902-0ed0d42:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwrt:luci:git-22.140.66206-02913be:*:*:*:*:*:*:*

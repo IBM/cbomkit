@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:docker_dashboard_project:docker_dashboard:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker_dashboard_project:docker_dashboard:2021-02-28:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:simple_retail_menus_plugin_project:simple-retail-menus:4.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_retail_menus_plugin_project:simple-retail-menus:4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_retail_menus_plugin_project:simple-retail-menus:4.1:*:*:*:*:wordpress:*:*

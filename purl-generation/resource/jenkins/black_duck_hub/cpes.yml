@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:jenkins:black_duck_hub:1.5.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:black_duck_hub:1.5.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:black_duck_hub:1.5.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:black_duck_hub:1.5.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:black_duck_hub:1.5.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:black_duck_hub:2.0.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:black_duck_hub:2.1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:black_duck_hub:2.1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:black_duck_hub:2.2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:black_duck_hub:2.2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:black_duck_hub:2.3.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:black_duck_hub:2.3.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:black_duck_hub:2.3.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:black_duck_hub:2.3.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:black_duck_hub:3.0.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:black_duck_hub:3.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:black_duck_hub:3.0.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:black_duck_hub:3.0.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:black_duck_hub:3.1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:black_duck_hub:4.0.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:black_duck_hub:4.0.1:*:*:*:*:jenkins:*:*

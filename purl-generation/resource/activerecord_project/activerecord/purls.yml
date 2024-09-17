@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/activerecord
+  - pkg:github/rails/rails

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-mime
+  - pkg:deb/ubuntu/php-horde-mime
+  - pkg:github/horde/mime
+  - pkg:rpm/fedora/php-horde-horde-mime

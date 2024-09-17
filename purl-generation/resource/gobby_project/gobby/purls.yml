@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/gobby
+  - pkg:deb/ubuntu/gobby
+  - pkg:github/gobby/gobby

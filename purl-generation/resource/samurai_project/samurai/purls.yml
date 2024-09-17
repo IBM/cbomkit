@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/michaelforney/samurai
+  - pkg:rpm/fedora/samurai

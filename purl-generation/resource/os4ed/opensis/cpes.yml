@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:os4ed:opensis:4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:os4ed:opensis:4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:os4ed:opensis:4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:os4ed:opensis:4.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:os4ed:opensis:4.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:os4ed:opensis:4.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:os4ed:opensis:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:os4ed:opensis:5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:os4ed:opensis:5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:os4ed:opensis:5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:os4ed:opensis:7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:os4ed:opensis:7.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:os4ed:opensis:7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:os4ed:opensis:7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:os4ed:opensis:7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:os4ed:opensis:7.3:*:*:*:-:*:*:*
+  - cpe:2.3:a:os4ed:opensis:7.3:*:*:*:community:*:*:*
+  - cpe:2.3:a:os4ed:opensis:7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:os4ed:opensis:7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:os4ed:opensis:7.6:*:*:*:community:*:*:*
+  - cpe:2.3:a:os4ed:opensis:8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:os4ed:opensis:8.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:os4ed:opensis:9.0:*:*:*:community:*:*:*

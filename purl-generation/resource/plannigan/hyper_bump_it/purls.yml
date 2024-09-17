@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/plannigan/hyper-bump-it
+  - pkg:pypi/hyper-bump-it

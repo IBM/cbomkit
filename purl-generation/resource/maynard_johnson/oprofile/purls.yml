@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/oprofile
+  - pkg:deb/ubuntu/oprofile
+  - pkg:github/marcusmueller/oprofile
+  - pkg:github/mer-tools/oprofile
+  - pkg:rpm/centos/oprofile
+  - pkg:rpm/opensuse/oprofile
+  - pkg:sourceforge/oprofile

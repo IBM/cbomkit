@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:mailcleaner:mailcleaner:2011.9:*:*:*:community:*:*:*
+  - cpe:2.3:a:mailcleaner:mailcleaner:2012.5:*:*:*:community:*:*:*
+  - cpe:2.3:a:mailcleaner:mailcleaner:2012.6:*:*:*:community:*:*:*
+  - cpe:2.3:a:mailcleaner:mailcleaner:2014.10:*:*:*:community:*:*:*
+  - cpe:2.3:a:mailcleaner:mailcleaner:2017.09:*:*:*:community:*:*:*
+  - cpe:2.3:a:mailcleaner:mailcleaner:2018.02:*:*:*:community:*:*:*
+  - cpe:2.3:a:mailcleaner:mailcleaner:2018.06:*:*:*:community:*:*:*
+  - cpe:2.3:a:mailcleaner:mailcleaner:2018.08:*:*:*:community:*:*:*
+  - cpe:2.3:a:mailcleaner:mailcleaner:2018.09:*:*:*:community:*:*:*
+  - cpe:2.3:a:mailcleaner:mailcleaner:2019-01-21:*:*:*:*:*:*:*

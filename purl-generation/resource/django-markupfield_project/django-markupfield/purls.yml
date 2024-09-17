@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/django-markupfield
+  - pkg:deb/ubuntu/django-markupfield
+  - pkg:github/jamesturk/django-markupfield
+  - pkg:pypi/django-markupfield
+  - pkg:rpm/opensuse/python-django-markupfield

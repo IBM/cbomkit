@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/samclarke/sceditor
+  - pkg:maven/org.webjars.npm/sceditor
+  - pkg:npm/sceditor

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/pkrumins/node-tree-kill
+  - pkg:maven/org.webjars.npm/tree-kill
+  - pkg:npm/tree-kill

@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:manageiq:awesomespawn:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:manageiq:awesomespawn:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:manageiq:awesomespawn:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:manageiq:awesomespawn:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:manageiq:awesomespawn:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:manageiq:awesomespawn:1.5.0:*:*:*:*:*:*:*

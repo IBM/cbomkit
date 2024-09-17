@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:sslh_project:sslh:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:sslh_project:sslh:1.22:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:sslh_project:sslh:2.0:rc1:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nfour/lutils
+  - pkg:npm/lutils

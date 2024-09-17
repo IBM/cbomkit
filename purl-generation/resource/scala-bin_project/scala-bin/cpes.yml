@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:scala-bin_project:scala-bin:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:scala-bin_project:scala-bin:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:scala-bin_project:scala-bin:0.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:scala-bin_project:scala-bin:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:scala-bin_project:scala-bin:0.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:scala-bin_project:scala-bin:0.3.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:scala-bin_project:scala-bin:0.3.3:*:*:*:*:node.js:*:*

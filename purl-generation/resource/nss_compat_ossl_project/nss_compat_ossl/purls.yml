@@ -1,0 +1,3 @@
+purls:
+  - pkg:rpm/centos/nss_compat_ossl
+  - pkg:rpm/opensuse/nss_compat_ossl

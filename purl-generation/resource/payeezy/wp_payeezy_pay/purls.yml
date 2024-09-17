@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/luminfire/wp-payeezy-pay
+  - pkg:github/wp-plugins/wp-payeezy-pay
+  - pkg:github/wpplugins/wp-payeezy-pay

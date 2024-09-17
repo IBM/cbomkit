@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:weston-embedded:uc-http:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:weston-embedded:uc-http:3.01.01:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mozilla/pollbot
+  - pkg:pypi/pollbot

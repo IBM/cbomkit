@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/weaveworks/weave
+  - pkg:rpm/opensuse/weave

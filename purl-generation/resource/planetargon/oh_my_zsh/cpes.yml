@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:planetargon:oh_my_zsh:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:planetargon:oh_my_zsh:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:planetargon:oh_my_zsh:2021-11-11:*:*:*:*:*:*:*

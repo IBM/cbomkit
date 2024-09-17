@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:electricmonk:proms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:electricmonk:proms:0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:electricmonk:proms:0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:electricmonk:proms:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:electricmonk:proms:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:electricmonk:proms:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:electricmonk:proms:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:electricmonk:proms:0.9:*:*:*:*:*:*:*

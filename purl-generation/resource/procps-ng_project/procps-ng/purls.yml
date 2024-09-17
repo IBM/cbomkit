@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/warmchang/procps
+  - pkg:gitlab/procps-ng/procps
+  - pkg:rpm/fedora/procps-ng
+  - pkg:rpm/opensuse/procps-ng
+  - pkg:sourceforge/procps-ng

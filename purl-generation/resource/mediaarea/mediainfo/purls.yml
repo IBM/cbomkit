@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/mediainfo
+  - pkg:deb/ubuntu/mediainfo
+  - pkg:docker/jlesage/mediainfo
+  - pkg:github/mediaarea/mediainfo
+  - pkg:nuget/MediaInfo.Native
+  - pkg:rpm/fedora/mediainfo
+  - pkg:rpm/opensuse/mediainfo
+  - pkg:sourceforge/mediainfo

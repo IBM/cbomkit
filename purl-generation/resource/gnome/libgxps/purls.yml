@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libgxps
+  - pkg:deb/ubuntu/libgxps
+  - pkg:github/gnome/libgxps
+  - pkg:gitlab/gnome/libgxps
+  - pkg:rpm/centos/libgxps
+  - pkg:rpm/fedora/libgxps
+  - pkg:rpm/opensuse/libgxps

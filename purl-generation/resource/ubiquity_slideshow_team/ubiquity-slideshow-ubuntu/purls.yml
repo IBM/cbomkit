@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/ubuntu/ubiquity-slideshow-ubuntu
+  - pkg:github/mohegan/ubiquity-slideshow-ubuntu
+  - pkg:github/regolith-linux/ubiquity-slideshow-ubuntu

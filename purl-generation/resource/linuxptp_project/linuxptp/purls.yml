@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/linuxptp
+  - pkg:deb/ubuntu/linuxptp
+  - pkg:github/richardcochran/linuxptp
+  - pkg:rpm/centos/linuxptp
+  - pkg:rpm/fedora/linuxptp
+  - pkg:rpm/opensuse/linuxptp
+  - pkg:sourceforge/linuxptp

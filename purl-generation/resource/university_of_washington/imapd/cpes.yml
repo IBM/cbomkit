@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:university_of_washington:imapd:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:university_of_washington:imapd:2000:*:*:*:*:*:*:*
+  - cpe:2.3:a:university_of_washington:imapd:2000c:*:*:*:*:*:*:*
+  - cpe:2.3:a:university_of_washington:imapd:4.1:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/padl/pam_ldap
+  - pkg:rpm/fedora/pam_ldap
+  - pkg:rpm/opensuse/pam_ldap

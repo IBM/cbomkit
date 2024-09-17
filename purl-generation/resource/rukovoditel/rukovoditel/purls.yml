@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/filipmil/rukovoditel
+  - pkg:github/rukovoditel/rukovoditel
+  - pkg:sourceforge/rukovoditel

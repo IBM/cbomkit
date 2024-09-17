@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/age
+  - pkg:github/apache/age
+  - pkg:golang/github.com/apache/age

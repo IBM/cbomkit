@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:wp-copyprotect_project:wp-copyprotect:1.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-copyprotect_project:wp-copyprotect:1.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-copyprotect_project:wp-copyprotect:1.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-copyprotect_project:wp-copyprotect:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-copyprotect_project:wp-copyprotect:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-copyprotect_project:wp-copyprotect:2.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-copyprotect_project:wp-copyprotect:3.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-copyprotect_project:wp-copyprotect:3.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-copyprotect_project:wp-copyprotect:-:*:*:*:*:wordpress:*:*

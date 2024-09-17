@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/open-hpi/openhpi
+  - pkg:rpm/fedora/openhpi
+  - pkg:rpm/opensuse/openhpi
+  - pkg:sourceforge/openhpi

@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/mind04/mod-ruid2
+  - pkg:rpm/fedora/mod-ruid2
+  - pkg:rpm/opensuse/mod-ruid2
+  - pkg:sourceforge/mod-ruid

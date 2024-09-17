@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/yiisoft/yii2-gii
+  - pkg:github/yiisoft/yii2-gii

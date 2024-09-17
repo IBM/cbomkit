@@ -1,0 +1,3 @@
+purls:
+  - pkg:cargo/tungstenite
+  - pkg:github/snapview/tungstenite-rs

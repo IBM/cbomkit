@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/maptiler/tileserver-gl
+  - pkg:github/maptiler/tileserver-gl
+  - pkg:maven/org.webjars.npm/tileserver-gl
+  - pkg:npm/tileserver-gl

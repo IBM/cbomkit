@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/wpchef/limit-login-attempts-reloaded
+  - pkg:github/wpplugins/limit-login-attempts-reloaded

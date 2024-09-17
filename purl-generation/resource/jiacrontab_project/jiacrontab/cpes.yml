@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:jiacrontab_project:jiacrontab:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jiacrontab_project:jiacrontab:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jiacrontab_project:jiacrontab:1.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jiacrontab_project:jiacrontab:1.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:jiacrontab_project:jiacrontab:1.3.4.:*:*:*:*:*:*:*
+  - cpe:2.3:a:jiacrontab_project:jiacrontab:1.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:jiacrontab_project:jiacrontab:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jiacrontab_project:jiacrontab:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jiacrontab_project:jiacrontab:1.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jiacrontab_project:jiacrontab:1.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:jiacrontab_project:jiacrontab:1.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:jiacrontab_project:jiacrontab:1.4.5:*:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/gparted
+  - pkg:deb/ubuntu/gparted
+  - pkg:github/gnome/gparted
+  - pkg:rpm/fedora/gparted
+  - pkg:rpm/opensuse/gparted
+  - pkg:sourceforge/gparted

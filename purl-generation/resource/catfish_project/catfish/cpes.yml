@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:catfish_project:catfish:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:catfish_project:catfish:0.4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:catfish_project:catfish:0.4.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:catfish_project:catfish:0.4.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:catfish_project:catfish:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:catfish_project:catfish:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:catfish_project:catfish:0.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:catfish_project:catfish:0.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:catfish_project:catfish:0.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:catfish_project:catfish:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:catfish_project:catfish:0.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:catfish_project:catfish:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:catfish_project:catfish:1.0.0:*:*:*:*:*:*:*

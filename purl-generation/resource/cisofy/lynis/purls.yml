@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/lynis
+  - pkg:deb/ubuntu/lynis
+  - pkg:github/cisofy/lynis
+  - pkg:rpm/fedora/lynis
+  - pkg:rpm/opensuse/lynis

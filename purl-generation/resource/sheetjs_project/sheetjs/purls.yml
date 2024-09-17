@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/sheetjs/sheetjs
+  - pkg:golang/github.com/sheetjs/sheetjs
+  - pkg:npm/sheetjs

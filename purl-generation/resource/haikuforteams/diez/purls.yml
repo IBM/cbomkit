@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/diez/diez
+  - pkg:npm/%40diez/generation

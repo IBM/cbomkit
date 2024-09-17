@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:parity:frontier:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:parity:frontier:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:parity:frontier:2021-09-03:*:*:*:*:*:*:*
+  - cpe:2.3:a:parity:frontier:2021-10-13:*:*:*:*:*:*:*
+  - cpe:2.3:a:parity:frontier:2022-09-12:*:*:*:*:*:*:*
+  - cpe:2.3:a:parity:frontier:*:*:*:*:*:rust:*:*

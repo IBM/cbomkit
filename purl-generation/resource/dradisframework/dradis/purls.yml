@@ -1,0 +1,5 @@
+purls:
+  - pkg:gem/dradis
+  - pkg:github/dradis/dradis-ce
+  - pkg:gitlab/kalilinux/dradis
+  - pkg:sourceforge/dradis

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jonmagon/kdiskmark
+  - pkg:rpm/fedora/kdiskmark
+  - pkg:rpm/opensuse/kdiskmark

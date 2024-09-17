@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:ocaml:ocaml:4.02.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml:ocaml:4.04.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml:ocaml:4.04.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml:ocaml:4.06.0:*:*:*:*:*:*:*

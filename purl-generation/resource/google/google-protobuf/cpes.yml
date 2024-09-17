@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:google:google-protobuf:3.16.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:google:google-protobuf:3.17.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:google:google-protobuf:3.19.6:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:google:google-protobuf:3.20.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:google:google-protobuf:3.20.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:google:google-protobuf:3.21.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:google:google-protobuf:3.21.7:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:google:google-protobuf:*:*:*:*:*:ruby:*:*

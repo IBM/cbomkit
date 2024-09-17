@@ -1,0 +1,7 @@
+purls:
+  - pkg:github/freedesktop/xorg-libxfixes
+  - pkg:github/kalyankondapally/libxfixes
+  - pkg:github/neverware-mirrors/libxfixes
+  - pkg:rpm/centos/libxfixes
+  - pkg:rpm/fedora/libxfixes
+  - pkg:rpm/opensuse/libxfixes

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/hivesolutions/netius
+  - pkg:pypi/netius

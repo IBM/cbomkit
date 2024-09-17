@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/consensys/gnark-crypto
+  - pkg:golang/github.com/consensys/gnark-crypto

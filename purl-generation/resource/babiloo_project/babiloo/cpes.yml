@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:babiloo_project:babiloo:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:babiloo_project:babiloo:2.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:babiloo_project:babiloo:2.0.9:*:*:*:*:*:*:*

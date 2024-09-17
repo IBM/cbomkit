@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:phpuploader_project:phpuploader:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpuploader_project:phpuploader:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpuploader_project:phpuploader:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpuploader_project:phpuploader:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpuploader_project:phpuploader:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpuploader_project:phpuploader:1.2.1:*:*:*:*:*:*:*

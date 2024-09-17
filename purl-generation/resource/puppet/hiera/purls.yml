@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/guymatz/hiera
+  - pkg:bitbucket/schatt/hiera
+  - pkg:deb/debian/hiera
+  - pkg:deb/ubuntu/hiera
+  - pkg:gem/hiera
+  - pkg:github/puppetlabs/hiera
+  - pkg:rpm/fedora/hiera

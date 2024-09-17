@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/karlatemp/unsafeaccessor
+  - pkg:maven/io.github.karlatemp/unsafe-accessor

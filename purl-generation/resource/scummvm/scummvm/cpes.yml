@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:scummvm:scummvm:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:scummvm:scummvm:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:scummvm:scummvm:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:scummvm:scummvm:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:scummvm:scummvm:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:scummvm:scummvm:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:scummvm:scummvm:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:scummvm:scummvm:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:scummvm:scummvm:1.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:scummvm:scummvm:1.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:scummvm:scummvm:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:scummvm:scummvm:2.1.0:*:*:*:*:*:*:*

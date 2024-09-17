@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/junglecatsw/nvclock
+  - pkg:rpm/opensuse/nvclock
+  - pkg:sourceforge/nvclock

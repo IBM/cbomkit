@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:opensuse:travel_support_program:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:travel_support_program:-:*:*:*:*:*:*:*

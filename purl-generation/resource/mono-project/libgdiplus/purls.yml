@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libgdiplus
+  - pkg:deb/ubuntu/libgdiplus
+  - pkg:github/mono/libgdiplus
+  - pkg:rpm/fedora/libgdiplus
+  - pkg:rpm/opensuse/libgdiplus

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/simnalamburt/fakeidentd
+  - pkg:golang/github.com/simnalamburt/fakeidentd

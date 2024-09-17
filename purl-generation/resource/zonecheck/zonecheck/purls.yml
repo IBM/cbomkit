@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mat813/zonecheck
+  - pkg:gnu/zonecheck

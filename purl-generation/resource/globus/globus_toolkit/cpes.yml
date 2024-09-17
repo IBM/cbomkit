@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:globus:globus_toolkit:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:2.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:4.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:4.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:4.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:4.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:4.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:4.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:4.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:4.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:5.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:5.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:5.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:5.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:globus:globus_toolkit:5.2.0:*:*:*:*:*:*:*

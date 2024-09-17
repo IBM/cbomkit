@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:owasp:java_html_sanitizer:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:java_html_sanitizer:20200713.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:java_html_sanitizer:20211018.2:*:*:*:*:*:*:*

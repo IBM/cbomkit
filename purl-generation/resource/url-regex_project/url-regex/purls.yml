@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/kevva/url-regex
+  - pkg:maven/org.webjars.npm/url-regex
+  - pkg:npm/url-regex

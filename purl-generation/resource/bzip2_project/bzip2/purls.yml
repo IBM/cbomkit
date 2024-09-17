@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/bzip2
+  - pkg:deb/ubuntu/bzip2
+  - pkg:github/libarchive/bzip2
+  - pkg:gitlab/federicomenaquintero/bzip2
+  - pkg:gitlab/redhat/bzip2
+  - pkg:golang/github.com/libarchive/bzip2
+  - pkg:rpm/fedora/bzip2
+  - pkg:rpm/opensuse/bzip2

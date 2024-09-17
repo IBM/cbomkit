@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pyconuk/conferencescheduler-cli
+  - pkg:pypi/conference-scheduler-cli

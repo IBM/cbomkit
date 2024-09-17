@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/zlib
+  - pkg:deb/ubuntu/zlib
+  - pkg:gem/ruby/zlib
+  - pkg:github/madler/zlib
+  - pkg:gitlab/Immersaview/zlib
+  - pkg:gitlab/redhat/zlib
+  - pkg:nuget/rmt_zlib
+  - pkg:rpm/centos/zlib
+  - pkg:rpm/fedora/zlib

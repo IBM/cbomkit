@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/nats-io/nats-server
+  - pkg:rpm/fedora/nats-server
+  - pkg:rpm/opensuse/nats-server

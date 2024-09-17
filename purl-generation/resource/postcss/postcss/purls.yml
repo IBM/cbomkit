@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-postcss
+  - pkg:deb/ubuntu/node-postcss
+  - pkg:github/postcss/postcss
+  - pkg:maven/org.webjars.npm/postcss
+  - pkg:npm/postcss
+  - pkg:sourceforge/postcss.mirror

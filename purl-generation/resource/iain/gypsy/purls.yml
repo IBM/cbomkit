@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/ubuntu/gypsy
+  - pkg:github/freedesktop/gypsy
+  - pkg:github/freedesktop-unofficial-mirror/gypsy
+  - pkg:rpm/opensuse/gypsy

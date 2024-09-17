@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:jenkins:kanboard:1.5.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kanboard:1.5.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kanboard:1.5.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kanboard:1.5.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kanboard:1.5.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kanboard:1.5.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:kanboard:1.5.9:*:*:*:*:jenkins:*:*

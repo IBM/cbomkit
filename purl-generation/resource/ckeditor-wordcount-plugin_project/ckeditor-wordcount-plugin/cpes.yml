@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:ckeditor-wordcount-plugin_project:ckeditor-wordcount-plugin:0.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ckeditor-wordcount-plugin_project:ckeditor-wordcount-plugin:1.09:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ckeditor-wordcount-plugin_project:ckeditor-wordcount-plugin:1.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ckeditor-wordcount-plugin_project:ckeditor-wordcount-plugin:1.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ckeditor-wordcount-plugin_project:ckeditor-wordcount-plugin:1.16:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ckeditor-wordcount-plugin_project:ckeditor-wordcount-plugin:1.17.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ckeditor-wordcount-plugin_project:ckeditor-wordcount-plugin:1.17.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ckeditor-wordcount-plugin_project:ckeditor-wordcount-plugin:1.17.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ckeditor-wordcount-plugin_project:ckeditor-wordcount-plugin:1.17.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ckeditor-wordcount-plugin_project:ckeditor-wordcount-plugin:1.17.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ckeditor-wordcount-plugin_project:ckeditor-wordcount-plugin:1.17.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ckeditor-wordcount-plugin_project:ckeditor-wordcount-plugin:1.17.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ckeditor-wordcount-plugin_project:ckeditor-wordcount-plugin:1.17.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ckeditor-wordcount-plugin_project:ckeditor-wordcount-plugin:1.17:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ckeditor-wordcount-plugin_project:ckeditor-wordcount-plugin:*:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ckeditor-wordcount-plugin_project:ckeditor-wordcount-plugin:-:*:*:*:*:node.js:*:*

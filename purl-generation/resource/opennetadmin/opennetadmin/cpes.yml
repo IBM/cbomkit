@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:opennetadmin:opennetadmin:11.02.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:opennetadmin:opennetadmin:12.11.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:opennetadmin:opennetadmin:13.03.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:opennetadmin:opennetadmin:17.12.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:opennetadmin:opennetadmin:18.1.1:*:*:*:*:*:*:*

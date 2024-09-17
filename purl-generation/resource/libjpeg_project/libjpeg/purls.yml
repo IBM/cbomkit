@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/thorfdbg/libjpeg
+  - pkg:rpm/fedora/libjpeg
+  - pkg:rpm/opensuse/libjpeg

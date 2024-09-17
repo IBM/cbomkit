@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/projectatomic/oci-register-machine
+  - pkg:github/sallyom/oci-register-machine-hook

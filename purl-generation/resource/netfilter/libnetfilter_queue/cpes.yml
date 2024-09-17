@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:netfilter:libnetfilter_queue:0.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnetfilter_queue:0.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnetfilter_queue:0.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnetfilter_queue:0.0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnetfilter_queue:0.0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnetfilter_queue:0.0.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnetfilter_queue:0.0.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnetfilter_queue:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnetfilter_queue:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnetfilter_queue:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnetfilter_queue:1.0.3:*:*:*:*:*:*:*

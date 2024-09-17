@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:0.9.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:0.9.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:0.9.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:0.9.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:0.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:0.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:0.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:0.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:0.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:0.9.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:0.9.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:0.9.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:0.9.99:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:0.9.999:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:0.9.9999:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:1.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:1.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:1.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:1.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:1.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhonabwy_project:rhonabwy:1.1.8:*:*:*:*:*:*:*

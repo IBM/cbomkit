@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/chef/automate
+  - pkg:golang/github.com/chef/automate

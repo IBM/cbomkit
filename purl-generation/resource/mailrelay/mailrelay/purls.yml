@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/wiggin77/mailrelay
+  - pkg:golang/github.com/wiggin77/mailrelay

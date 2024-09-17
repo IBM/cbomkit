@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:solido_systems:ravenous_web_server:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:solido_systems:ravenous_web_server:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:solido_systems:ravenous_web_server:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:solido_systems:ravenous_web_server:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:solido_systems:ravenous_web_server:0.5.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:solido_systems:ravenous_web_server:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:solido_systems:ravenous_web_server:0.7.0:*:*:*:*:*:*:*

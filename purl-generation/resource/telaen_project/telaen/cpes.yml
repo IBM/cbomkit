@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:telaen_project:telaen:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:telaen_project:telaen:1.3.1:*:*:*:*:*:*:*

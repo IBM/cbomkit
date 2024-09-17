@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/resiprocate
+  - pkg:deb/ubuntu/resiprocate
+  - pkg:github/resiprocate/resiprocate
+  - pkg:nuget/resiprocate
+  - pkg:rpm/opensuse/resiprocate

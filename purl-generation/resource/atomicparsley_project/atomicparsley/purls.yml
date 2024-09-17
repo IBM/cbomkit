@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/atomicparsley
+  - pkg:deb/ubuntu/atomicparsley
+  - pkg:github/wez/atomicparsley
+  - pkg:rpm/fedora/atomicparsley
+  - pkg:rpm/opensuse/atomicparsley
+  - pkg:sourceforge/atomicparsley

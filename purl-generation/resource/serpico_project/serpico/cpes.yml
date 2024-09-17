@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:serpico_project:serpico:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:serpico_project:serpico:1.3.3:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/vmware/xenon
+  - pkg:maven/com.vmware.xenon/xenon-parent

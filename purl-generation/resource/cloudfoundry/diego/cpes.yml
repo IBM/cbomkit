@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:cloudfoundry:diego:2.55.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:diego:2.56.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:diego:2.56.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:diego:2.57.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:diego:2.58.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:diego:2.58.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:diego:2.59.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:diego:2.61.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:diego:2.62.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:diego:2.63.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:diego:2.64.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:diego:2.65.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:diego:2.65.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:diego:2.66.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:diego:2.66.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:diego:2.66.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:diego:2.66.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:diego:2.66.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:diego:2.67.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:diego:2.68.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:diego:2.69.0:*:*:*:*:*:*:*

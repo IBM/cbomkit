@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/flutter/flutter
+  - pkg:rpm/opensuse/flutter

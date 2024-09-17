@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ahmyi/rivettracker
+  - pkg:github/fmohican/rivettracker
+  - pkg:sourceforge/rivettracker

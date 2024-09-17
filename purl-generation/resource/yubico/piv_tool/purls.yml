@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/yubico-piv-tool
+  - pkg:deb/ubuntu/yubico-piv-tool
+  - pkg:github/yubico/yubico-piv-tool
+  - pkg:rpm/fedora/yubico-piv-tool
+  - pkg:rpm/opensuse/yubico-piv-tool

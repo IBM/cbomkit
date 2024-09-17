@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/jquery-validation/jquery-validation
+  - pkg:maven/org.webjars.bower/jquery-validation
+  - pkg:npm/jquery-validation
+  - pkg:nuget/jQuery.Validation

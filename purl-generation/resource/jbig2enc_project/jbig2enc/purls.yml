@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/agl/jbig2enc
+  - pkg:rpm/opensuse/jbig2enc

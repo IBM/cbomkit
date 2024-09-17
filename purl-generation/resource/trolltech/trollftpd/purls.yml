@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/a11y-gigachad-org/a11y-gigachad-file-upload
+  - pkg:github/a11y-gigachad-org/a11y-gigachad-modal
+  - pkg:github/a11y-gigachad-org/a11y-gigachad-pagination
+  - pkg:github/a11y-gigachad-org/gigachad-react-rollup-starter
+  - pkg:github/gigachad-script/eslint-config

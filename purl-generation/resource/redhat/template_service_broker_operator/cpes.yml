@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:redhat:template_service_broker_operator:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:template_service_broker_operator:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:template_service_broker_operator:4.3.0:*:*:*:*:*:*:*

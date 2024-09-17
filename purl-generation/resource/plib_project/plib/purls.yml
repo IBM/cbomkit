@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/retrodump/plib
+  - pkg:rpm/opensuse/plib
+  - pkg:sourceforge/plib

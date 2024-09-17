@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/scikit-learn
+  - pkg:deb/ubuntu/scikit-learn
+  - pkg:github/scikit-learn/scikit-learn
+  - pkg:pypi/scikit-learn
+  - pkg:rpm/fedora/python-scikit-learn
+  - pkg:rpm/opensuse/python-scikit-learn

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/php-gettext
+  - pkg:deb/ubuntu/php-gettext
+  - pkg:github/php-gettext/gettext
+  - pkg:gnu/php-gettext
+  - pkg:rpm/fedora/php-gettext-gettext
+  - pkg:rpm/opensuse/php-php-gettext

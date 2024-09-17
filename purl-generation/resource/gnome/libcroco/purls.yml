@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libcroco
+  - pkg:deb/ubuntu/libcroco
+  - pkg:github/sailfishos-mirror/libcroco
+  - pkg:gitlab/redhat/libcroco
+  - pkg:rpm/centos/libcroco
+  - pkg:rpm/opensuse/libcroco

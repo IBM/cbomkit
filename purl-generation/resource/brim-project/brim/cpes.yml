@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:brim-project:brim:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:brim-project:brim:2.0.0:*:*:*:*:*:*:*

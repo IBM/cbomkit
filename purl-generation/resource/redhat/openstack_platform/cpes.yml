@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:redhat:openstack_platform:10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openstack_platform:12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openstack_platform:13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openstack_platform:13.0:*:*:*:els:*:*:*
+  - cpe:2.3:a:redhat:openstack_platform:14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openstack_platform:15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openstack_platform:16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openstack_platform:16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openstack_platform:16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openstack_platform:17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openstack_platform:17.1:*:*:*:*:*:*:*

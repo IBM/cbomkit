@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/unixodbc
+  - pkg:deb/ubuntu/unixodbc
+  - pkg:github/byteinternet/unixodbc
+  - pkg:github/clickhouse/unixodbc
+  - pkg:rpm/centos/unixodbc
+  - pkg:rpm/fedora/unixodbc
+  - pkg:sourceforge/unixodbc

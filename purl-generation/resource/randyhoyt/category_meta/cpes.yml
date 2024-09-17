@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:randyhoyt:category_meta:1.2.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:randyhoyt:category_meta:*:*:*:*:*:wordpress:*:*

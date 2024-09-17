@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mattkrick/sanitize-svg
+  - pkg:npm/%40mattkrick/sanitize-svg

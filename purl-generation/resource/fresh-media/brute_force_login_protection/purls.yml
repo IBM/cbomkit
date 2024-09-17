@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jpkleemans/brute-force-login-protection
+  - pkg:github/wp-plugins/brute-force-login-protection

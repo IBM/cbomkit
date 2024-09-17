@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-tweepy
+  - pkg:deb/ubuntu/python-tweepy
+  - pkg:github/tweepy/tweepy
+  - pkg:pypi/tweepy
+  - pkg:rpm/opensuse/python-tweepy
+  - pkg:sourceforge/tweepy.mirror

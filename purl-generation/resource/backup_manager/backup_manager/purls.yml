@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/backup-manager/backup-manager
+  - pkg:github/backup-manager/backup-manager

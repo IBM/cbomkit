@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:syscp_team:syscp:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:syscp_team:syscp:1.2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:syscp_team:syscp:1.2.15:*:*:*:*:*:*:*

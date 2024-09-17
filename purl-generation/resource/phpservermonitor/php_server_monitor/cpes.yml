@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:3.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:3.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:3.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:3.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:3.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:3.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:3.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:3.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:3.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:3.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:3.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:3.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:3.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpservermonitor:php_server_monitor:3.6.0:*:*:*:*:*:*:*

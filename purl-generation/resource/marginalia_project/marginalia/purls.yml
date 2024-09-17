@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-marginalia
+  - pkg:deb/ubuntu/ruby-marginalia
+  - pkg:gem/marginalia
+  - pkg:github/basecamp/marginalia
+  - pkg:rpm/opensuse/rubygem-marginalia

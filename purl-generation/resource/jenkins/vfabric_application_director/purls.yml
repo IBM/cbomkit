@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/application-director-plugin
+  - pkg:github/jfullam/jenkins-application-director

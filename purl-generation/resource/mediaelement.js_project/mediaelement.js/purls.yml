@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/mediaelement/mediaelement
+  - pkg:golang/github.com/mediaelement/mediaelement
+  - pkg:maven/org.webjars.bowergithub.mediaelement/mediaelement
+  - pkg:npm/mediaelement

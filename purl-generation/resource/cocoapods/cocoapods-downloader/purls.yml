@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/cocoapods-downloader
+  - pkg:github/cocoapods/cocoapods-downloader

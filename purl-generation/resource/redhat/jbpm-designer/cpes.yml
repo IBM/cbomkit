@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:redhat:jbpm-designer:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jbpm-designer:6.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jbpm-designer:6.2.0:*:*:*:*:*:*:*

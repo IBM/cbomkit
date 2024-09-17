@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:cmscout:cmscout:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:1.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:1.00:final:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:1.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:1.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:1.02.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:1.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:1.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:1.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:1.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:1.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:2.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:2.00:beta:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:2.00:release_candidate:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:2.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:2.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:2.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:2.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:2.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:2.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:2.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:2.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:2.0:alpha_1:*:*:*:*:*:*
+  - cpe:2.3:a:cmscout:cmscout:2.0:alpha_2:*:*:*:*:*:*

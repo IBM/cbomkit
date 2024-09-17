@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/gchq/stroom
+  - pkg:github/gchq/stroom

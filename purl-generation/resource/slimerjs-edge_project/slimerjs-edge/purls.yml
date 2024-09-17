@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bitjson/slimerjs-edge
+  - pkg:npm/slimerjs-edge

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/git/git
+  - pkg:github/git/git-scm.com

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libass
+  - pkg:deb/ubuntu/libass
+  - pkg:github/libass/libass
+  - pkg:rpm/fedora/libass
+  - pkg:rpm/opensuse/libass
+  - pkg:sourceforge/libass

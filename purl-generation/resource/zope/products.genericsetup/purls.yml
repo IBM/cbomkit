@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/zopefoundation/products.genericsetup
+  - pkg:pypi/products.genericsetup

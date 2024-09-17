@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:pivotal_software:gemfire:1.0.0.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:pivotal_software:gemfire:1.1.0.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:pivotal_software:gemfire:1.1.1.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:pivotal_software:gemfire:1.2.0.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:pivotal_software:gemfire:1.2.1.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:pivotal_software:gemfire:1.2.2.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:pivotal_software:gemfire:1.2.3.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:pivotal_software:gemfire:1.3.0.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:pivotal_software:gemfire:1.4.0.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:pivotal_software:gemfire:1.5.0.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:pivotal_software:gemfire:1.6.0.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:pivotal_software:gemfire:1.6.1:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:pivotal_software:gemfire:1.6.2:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:pivotal_software:gemfire:1.6.3.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:pivotal_software:gemfire:1.6.4.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:pivotal_software:gemfire:1.6.5.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:pivotal_software:gemfire:1.6.6.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:pivotal_software:gemfire:1.7.0.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:pivotal_software:gemfire:1.7.1.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:pivotal_software:gemfire:1.7.2.0:*:*:*:*:pivotal_cloud_foundry:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:openfabrics:ibutils:1.2-11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openfabrics:ibutils:1.5.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:openfabrics:ibutils:1.5.7-2:*:*:*:*:*:*:*

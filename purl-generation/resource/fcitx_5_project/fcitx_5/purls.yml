@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/fcitx5
+  - pkg:deb/ubuntu/fcitx5
+  - pkg:github/fcitx/fcitx5
+  - pkg:gitlab/fcitx/fcitx5
+  - pkg:rpm/fedora/fcitx5
+  - pkg:rpm/opensuse/fcitx5

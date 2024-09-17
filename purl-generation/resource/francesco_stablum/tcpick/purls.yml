@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/tcpick
+  - pkg:deb/ubuntu/tcpick
+  - pkg:github/athomason/tcpick
+  - pkg:rpm/fedora/tcpick
+  - pkg:sourceforge/tcpick

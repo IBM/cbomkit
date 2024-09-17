@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/gnome/rhythmbox
+  - pkg:gitlab/gnome/rhythmbox
+  - pkg:gnome/rhythmbox
+  - pkg:rpm/fedora/rhythmbox
+  - pkg:rpm/opensuse/rhythmbox

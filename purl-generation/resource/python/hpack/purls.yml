@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/python-hpack
+  - pkg:deb/ubuntu/python-hpack
+  - pkg:github/python-hyper/hpack
+  - pkg:gitlab/kalilinux/python-hpack
+  - pkg:pypi/hpack
+  - pkg:rpm/fedora/python-hpack
+  - pkg:rpm/opensuse/python-hpack

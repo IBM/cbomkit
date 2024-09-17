@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:ravpage_project:ravpage:2.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ravpage_project:ravpage:-:*:*:*:*:wordpress:*:*

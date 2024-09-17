@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:andrei_zmievski:snoopy:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:andrei_zmievski:snoopy:0.92:*:*:*:*:*:*:*
+  - cpe:2.3:a:andrei_zmievski:snoopy:0.93:*:*:*:*:*:*:*
+  - cpe:2.3:a:andrei_zmievski:snoopy:0.94:*:*:*:*:*:*:*
+  - cpe:2.3:a:andrei_zmievski:snoopy:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:andrei_zmievski:snoopy:1.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:andrei_zmievski:snoopy:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:andrei_zmievski:snoopy:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:andrei_zmievski:snoopy:1.2.2:*:*:*:*:*:*:*

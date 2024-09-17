@@ -1,0 +1,7 @@
+purls:
+  - pkg:github/zeroclipboard/zeroclipboard
+  - pkg:maven/org.webjars.bowergithub.zeroclipboard/zeroclipboard
+  - pkg:maven/org.webjars.bower/zeroclipboard
+  - pkg:maven/org.webjars.npm/zeroclipboard
+  - pkg:npm/zeroclipboard
+  - pkg:nuget/zeroclipboard

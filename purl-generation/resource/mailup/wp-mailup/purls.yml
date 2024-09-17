@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mailup/wp-mailup
+  - pkg:github/wp-plugins/wp-mailup
+  - pkg:github/wpplugins/wp-mailup

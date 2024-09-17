@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/megaease/easeprobe
+  - pkg:golang/github.com/megaease/easeprobe

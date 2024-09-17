@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/auth0/node-jsonwebtoken
+  - pkg:maven/org.webjars.npm/jsonwebtoken
+  - pkg:npm/jsonwebtoken

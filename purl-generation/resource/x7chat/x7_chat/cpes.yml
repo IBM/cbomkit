@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:x7chat:x7_chat:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:x7chat:x7_chat:2.0.0:a1:*:*:*:*:*:*
+  - cpe:2.3:a:x7chat:x7_chat:2.0.0:a2:*:*:*:*:*:*
+  - cpe:2.3:a:x7chat:x7_chat:2.0.0:a3:*:*:*:*:*:*
+  - cpe:2.3:a:x7chat:x7_chat:2.0.0:b1:*:*:*:*:*:*
+  - cpe:2.3:a:x7chat:x7_chat:2.0.0:b2:*:*:*:*:*:*
+  - cpe:2.3:a:x7chat:x7_chat:2.0.1:a1:*:*:*:*:*:*
+  - cpe:2.3:a:x7chat:x7_chat:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:x7chat:x7_chat:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:x7chat:x7_chat:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:x7chat:x7_chat:2.0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:x7chat:x7_chat:2.0.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:x7chat:x7_chat:2.0.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:x7chat:x7_chat:2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:x7chat:x7_chat:2.0.5.1:*:*:*:*:*:*:*

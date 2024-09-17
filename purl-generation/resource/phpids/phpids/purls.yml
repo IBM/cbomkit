@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/phpids/phpids
+  - pkg:github/phpids/phpids
+  - pkg:golang/github.com/phpids/phpids

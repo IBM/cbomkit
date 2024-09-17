@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/loqate
+  - pkg:github/wilsonsilva/loqate

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/empierre/mydomoathome
+  - pkg:npm/node-mydomoathome

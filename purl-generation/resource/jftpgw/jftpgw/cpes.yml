@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:jftpgw:jftpgw:0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:jftpgw:jftpgw:0.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jftpgw:jftpgw:0.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jftpgw:jftpgw:0.13.3:*:*:*:*:*:*:*

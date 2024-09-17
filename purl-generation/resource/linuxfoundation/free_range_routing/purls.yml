@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/frr
+  - pkg:deb/ubuntu/frr
+  - pkg:docker/frrouting/frr
+  - pkg:github/frrouting/frr
+  - pkg:rpm/centos/frr
+  - pkg:rpm/fedora/frr
+  - pkg:rpm/opensuse/frr

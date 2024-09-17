@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/spunjs/selenium-binaries
+  - pkg:npm/selenium-binaries

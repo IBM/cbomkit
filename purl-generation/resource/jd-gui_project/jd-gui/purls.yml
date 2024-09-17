@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/java-decompiler/jd-gui
+  - pkg:golang/github.com/java-decompiler/jd-gui

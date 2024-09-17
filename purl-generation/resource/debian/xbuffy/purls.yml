@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/xbuffy
+  - pkg:deb/ubuntu/xbuffy
+  - pkg:github/wfp5p/xbuffy

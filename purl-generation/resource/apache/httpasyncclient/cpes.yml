@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:apache:httpasyncclient:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:httpasyncclient:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:httpasyncclient:4.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:httpasyncclient:4.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:httpasyncclient:4.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:httpasyncclient:4.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:httpasyncclient:4.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:httpasyncclient:4.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:httpasyncclient:4.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:httpasyncclient:4.0:beta4:*:*:*:*:*:*

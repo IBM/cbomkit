@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/marmelab/react-admin
+  - pkg:github/marmelab/react-admin-crm
+  - pkg:github/marmelab/react-admin-demo

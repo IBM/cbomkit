@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:ijg:libjpeg:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ijg:libjpeg:6b:*:*:*:*:*:*:*
+  - cpe:2.3:a:ijg:libjpeg:7:*:*:*:*:*:*:*
+  - cpe:2.3:a:ijg:libjpeg:8:*:*:*:*:*:*:*
+  - cpe:2.3:a:ijg:libjpeg:8a:*:*:*:*:*:*:*
+  - cpe:2.3:a:ijg:libjpeg:8b:*:*:*:*:*:*:*
+  - cpe:2.3:a:ijg:libjpeg:8c:*:*:*:*:*:*:*
+  - cpe:2.3:a:ijg:libjpeg:8d:*:*:*:*:*:*:*
+  - cpe:2.3:a:ijg:libjpeg:9a:*:*:*:*:*:*:*
+  - cpe:2.3:a:ijg:libjpeg:9b:*:*:*:*:*:*:*
+  - cpe:2.3:a:ijg:libjpeg:9c:*:*:*:*:*:*:*
+  - cpe:2.3:a:ijg:libjpeg:9d:*:*:*:*:*:*:*

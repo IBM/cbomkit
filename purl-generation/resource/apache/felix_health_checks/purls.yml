@@ -1,0 +1,3 @@
+purls:
+  - pkg:apache/felix
+  - pkg:github/apache/felix-dev

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/optimizepress/opui
+  - pkg:npm/optimizepress-ui

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:lightbend:akka_discovery:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:lightbend:akka_discovery:2.8.0:*:*:*:*:*:*:*

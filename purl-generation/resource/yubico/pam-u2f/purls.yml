@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/pam-u2f
+  - pkg:deb/ubuntu/pam-u2f
+  - pkg:github/yubico/pam-u2f
+  - pkg:rpm/fedora/pam-u2f

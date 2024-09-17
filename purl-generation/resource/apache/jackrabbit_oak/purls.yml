@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/jackrabbit
+  - pkg:github/apache/jackrabbit-oak
+  - pkg:maven/org.apache.jackrabbit/oak-core

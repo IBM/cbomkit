@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/mailman
+  - pkg:deb/ubuntu/mailman
+  - pkg:github/koumbit/mailman2
+  - pkg:github/mailman/mailman
+  - pkg:gitlab/mailman/mailman
+  - pkg:gnu/mailman
+  - pkg:pypi/mailman
+  - pkg:rpm/fedora/mailman
+  - pkg:rpm/opensuse/mailman
+  - pkg:sourceforge/mailman

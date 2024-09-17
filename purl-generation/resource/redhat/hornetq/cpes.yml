@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:redhat:hornetq:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.0.0:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.0.0:cr1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.0.0:cr2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.0.0:cr3:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.1.0:cr1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.2.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.3.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.3.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.3.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.3.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.3.0:cr1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.3.0:cr2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.4.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:hornetq:2.4.5:*:*:*:*:*:*:*

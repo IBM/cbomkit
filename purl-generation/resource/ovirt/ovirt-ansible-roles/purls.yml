@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ovirt/ovirt-ansible
+  - pkg:github/ovirt/ovirt-ansible-collection

@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:ansi-regex_project:ansi-regex:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ansi-regex_project:ansi-regex:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi-regex_project:ansi-regex:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi-regex_project:ansi-regex:0.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi-regex_project:ansi-regex:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi-regex_project:ansi-regex:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi-regex_project:ansi-regex:1.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi-regex_project:ansi-regex:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi-regex_project:ansi-regex:2.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi-regex_project:ansi-regex:3.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi-regex_project:ansi-regex:3.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi-regex_project:ansi-regex:4.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi-regex_project:ansi-regex:4.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi-regex_project:ansi-regex:4.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi-regex_project:ansi-regex:5.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi-regex_project:ansi-regex:5.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi-regex_project:ansi-regex:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ansi-regex_project:ansi-regex:6.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi-regex_project:ansi-regex:6.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi-regex_project:ansi-regex:-:*:*:*:*:node.js:*:*

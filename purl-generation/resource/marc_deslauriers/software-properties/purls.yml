@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/software-properties
+  - pkg:deb/ubuntu/software-properties

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libice
+  - pkg:deb/ubuntu/libice
+  - pkg:github/freedesktop/libice
+  - pkg:gitlab/redhat/libice
+  - pkg:rpm/centos/libice
+  - pkg:rpm/fedora/libice
+  - pkg:rpm/opensuse/libice

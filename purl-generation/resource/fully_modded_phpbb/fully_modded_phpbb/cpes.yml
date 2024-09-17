@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:fully_modded_phpbb:fully_modded_phpbb:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:fully_modded_phpbb:fully_modded_phpbb:2021.4.40:*:*:*:*:*:*:*

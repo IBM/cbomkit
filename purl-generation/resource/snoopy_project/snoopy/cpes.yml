@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:snoopy_project:snoopy:0.91:*:*:*:*:*:*:*
+  - cpe:2.3:a:snoopy_project:snoopy:0.92:*:*:*:*:*:*:*
+  - cpe:2.3:a:snoopy_project:snoopy:0.93:*:*:*:*:*:*:*
+  - cpe:2.3:a:snoopy_project:snoopy:0.94:*:*:*:*:*:*:*
+  - cpe:2.3:a:snoopy_project:snoopy:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snoopy_project:snoopy:1.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:snoopy_project:snoopy:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:snoopy_project:snoopy:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:snoopy_project:snoopy:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:snoopy_project:snoopy:1.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:snoopy_project:snoopy:1.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:snoopy_project:snoopy:1.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:snoopy_project:snoopy:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snoopy_project:snoopy:2.0.0-1:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openark/orchestrator
+  - pkg:golang/github.com/openark/orchestrator

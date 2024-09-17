@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/kizaing/kavita
+  - pkg:github/kareadita/kavita
+  - pkg:sourceforge/kavita.mirror

@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:wikifaces_project:wikifaces:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wikifaces_project:wikifaces:1.0.1:*:*:*:*:pypi:*:*
+  - cpe:2.3:a:wikifaces_project:wikifaces:1.0.2:*:*:*:*:pypi:*:*
+  - cpe:2.3:a:wikifaces_project:wikifaces:1.0.4:*:*:*:*:pypi:*:*
+  - cpe:2.3:a:wikifaces_project:wikifaces:1.0.5:*:*:*:*:pypi:*:*
+  - cpe:2.3:a:wikifaces_project:wikifaces:1.0.6:*:*:*:*:pypi:*:*
+  - cpe:2.3:a:wikifaces_project:wikifaces:1.0.7:*:*:*:*:pypi:*:*
+  - cpe:2.3:a:wikifaces_project:wikifaces:1.0:*:*:*:*:pypi:*:*

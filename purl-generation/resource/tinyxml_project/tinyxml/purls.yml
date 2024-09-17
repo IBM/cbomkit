@@ -1,0 +1,13 @@
+purls:
+  - pkg:deb/debian/tinyxml
+  - pkg:deb/debian/tinyxml2
+  - pkg:deb/ubuntu/tinyxml
+  - pkg:deb/ubuntu/tinyxml2
+  - pkg:github/leethomason/tinyxml2
+  - pkg:gitlab/redhat/tinyxml2
+  - pkg:rpm/centos/tinyxml2
+  - pkg:rpm/fedora/tinyxml
+  - pkg:rpm/fedora/tinyxml2
+  - pkg:rpm/opensuse/tinyxml
+  - pkg:rpm/opensuse/tinyxml2
+  - pkg:sourceforge/tinyxml

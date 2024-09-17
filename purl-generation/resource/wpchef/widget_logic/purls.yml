@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/khromov/widget-logic
+  - pkg:github/wpchef/widget-logic
+  - pkg:github/wp-plugins/widget-logic

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:openremote:openremote:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:openremote:openremote:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openremote:openremote:1.0.4:*:*:*:*:*:*:*

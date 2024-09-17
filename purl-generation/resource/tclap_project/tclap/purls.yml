@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/tclap
+  - pkg:deb/ubuntu/tclap
+  - pkg:github/evanmoran/tclap
+  - pkg:github/idokka/tclap
+  - pkg:github/mirror/tclap
+  - pkg:nuget/tclap
+  - pkg:rpm/fedora/tclap
+  - pkg:rpm/opensuse/tclap
+  - pkg:sourceforge/tclap

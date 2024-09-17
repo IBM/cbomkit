@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/musescore
+  - pkg:deb/ubuntu/musescore
+  - pkg:github/musescore/musescore
+  - pkg:rpm/opensuse/musescore
+  - pkg:sourceforge/mscore

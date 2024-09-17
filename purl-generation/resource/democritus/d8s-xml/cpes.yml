@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:democritus:d8s-xml:0.1.0:*:*:*:*:pypl:*:*
+  - cpe:2.3:a:democritus:d8s-xml:0.1.0:*:*:*:*:python:*:*

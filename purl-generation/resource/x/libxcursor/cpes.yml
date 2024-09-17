@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:x:libxcursor:1.1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:x:libxcursor:1.1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:x:libxcursor:1.1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:x:libxcursor:1.1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:x:libxcursor:1.1.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:x:libxcursor:1.1.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:x:libxcursor:1.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:x:libxcursor:1.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:x:libxcursor:1.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:x:libxcursor:1.1.9:*:*:*:*:*:*:*

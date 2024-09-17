@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:0.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:0.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:0.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-nopassword_project:django-nopassword:5.0.0:*:*:*:*:*:*:*

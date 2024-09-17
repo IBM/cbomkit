@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:json.h_project:json.h:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:json.h_project:json.h:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:json.h_project:json.h:2022-10-06:*:*:*:*:*:*:*
+  - cpe:2.3:a:json.h_project:json.h:2022-10-07:*:*:*:*:*:*:*
+  - cpe:2.3:a:json.h_project:json.h:2022-10-11:*:*:*:*:*:*:*

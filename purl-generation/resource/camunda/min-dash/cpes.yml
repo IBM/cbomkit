@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:camunda:min-dash:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:3.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:3.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:3.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:3.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:3.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:camunda:min-dash:3.8.1:*:*:*:*:*:*:*

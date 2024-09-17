@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:mendix:forgot_password:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:3.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:3.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:3.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:3.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:3.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:3.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:4.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:4.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:5.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:5.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:5.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:forgot_password:5.3.1:*:*:*:*:*:*:*

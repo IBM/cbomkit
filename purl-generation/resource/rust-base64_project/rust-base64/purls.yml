@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-base64
+  - pkg:deb/ubuntu/rust-base64
+  - pkg:github/marshallpierce/rust-base64
+  - pkg:rpm/fedora/rust-base64
+  - pkg:rpm/opensuse/rust-base64

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/cinder
+  - pkg:deb/ubuntu/cinder
+  - pkg:docker/openstackhelm/cinder
+  - pkg:github/openstack/cinder
+  - pkg:pypi/cinder
+  - pkg:rpm/opensuse/openstack-cinder

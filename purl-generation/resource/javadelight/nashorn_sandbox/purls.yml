@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/javadelight/delight-nashorn-sandbox
+  - pkg:maven/org.javadelight/delight-nashorn-sandbox
+  - pkg:rpm/opensuse/delight-nashorn-sandbox

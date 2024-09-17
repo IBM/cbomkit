@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:directfb:directfb:1.4.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:directfb:directfb:1.4.4:*:*:*:*:*:*:*

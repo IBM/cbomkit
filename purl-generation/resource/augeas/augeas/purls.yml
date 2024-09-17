@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/augeas
+  - pkg:deb/ubuntu/augeas
+  - pkg:github/hercules-team/augeas
+  - pkg:gitlab/redhat/augeas
+  - pkg:rpm/centos/augeas
+  - pkg:rpm/fedora/augeas
+  - pkg:rpm/opensuse/augeas

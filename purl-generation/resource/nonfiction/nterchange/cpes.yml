@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:nonfiction:nterchange:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nonfiction:nterchange:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nonfiction:nterchange:4.1.0:*:*:*:*:*:*:*

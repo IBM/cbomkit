@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/tinymux
+  - pkg:deb/ubuntu/tinymux
+  - pkg:github/brazilofmux/tinymux

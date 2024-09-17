@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/olebedev/node-mystem
+  - pkg:github/pulpiks/node-mystem
+  - pkg:npm/mystem-fix

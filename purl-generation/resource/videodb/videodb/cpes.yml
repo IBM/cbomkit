@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:videodb:videodb:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:videodb:videodb:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:videodb:videodb:2.2.1:*:*:*:*:*:*:*

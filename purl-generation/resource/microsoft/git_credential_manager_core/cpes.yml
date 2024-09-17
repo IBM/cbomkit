@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:microsoft:git_credential_manager_core:2.0.124:beta:*:*:*:windows:*:*
+  - cpe:2.3:a:microsoft:git_credential_manager_core:2.0.153:beta:*:*:*:windows:*:*
+  - cpe:2.3:a:microsoft:git_credential_manager_core:2.0.157:beta:*:*:*:windows:*:*
+  - cpe:2.3:a:microsoft:git_credential_manager_core:2.0.164:beta:*:*:*:windows:*:*
+  - cpe:2.3:a:microsoft:git_credential_manager_core:2.0.194:beta:*:*:*:windows:*:*
+  - cpe:2.3:a:microsoft:git_credential_manager_core:2.0.22:beta:*:*:*:windows:*:*
+  - cpe:2.3:a:microsoft:git_credential_manager_core:2.0.246:beta:*:*:*:windows:*:*
+  - cpe:2.3:a:microsoft:git_credential_manager_core:2.0.249:beta:*:*:*:windows:*:*
+  - cpe:2.3:a:microsoft:git_credential_manager_core:2.0.252:beta:*:*:*:windows:*:*
+  - cpe:2.3:a:microsoft:git_credential_manager_core:2.0.280:beta:*:*:*:windows:*:*
+  - cpe:2.3:a:microsoft:git_credential_manager_core:2.0.289:beta:*:*:*:windows:*:*
+  - cpe:2.3:a:microsoft:git_credential_manager_core:2.0.289:-:*:*:*:windows:*:*
+  - cpe:2.3:a:microsoft:git_credential_manager_core:2.0.33:beta:*:*:*:windows:*:*
+  - cpe:2.3:a:microsoft:git_credential_manager_core:2.0.5:beta:*:*:*:windows:*:*
+  - cpe:2.3:a:microsoft:git_credential_manager_core:2.0.79:beta:*:*:*:windows:*:*
+  - cpe:2.3:a:microsoft:git_credential_manager_core:2.0.87:beta:*:*:*:windows:*:*

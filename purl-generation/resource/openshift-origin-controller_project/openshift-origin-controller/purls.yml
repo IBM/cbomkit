@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/openshift-origin-controller
+  - pkg:rpm/fedora/rubygem-openshift-origin-controller

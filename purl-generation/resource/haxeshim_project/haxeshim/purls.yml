@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/lix-pm/haxeshim
+  - pkg:npm/haxeshim

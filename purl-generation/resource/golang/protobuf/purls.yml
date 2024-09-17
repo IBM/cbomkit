@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/golang-gogoprotobuf
+  - pkg:deb/debian/golang-goprotobuf
+  - pkg:deb/ubuntu/golang-gogoprotobuf
+  - pkg:deb/ubuntu/golang-goprotobuf
+  - pkg:github/gogo/protobuf
+  - pkg:github/golang/protobuf
+  - pkg:rpm/fedora/golang-github-protobuf

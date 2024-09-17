@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:php:pecl_http:3.0.1:rc1:*:*:*:*:*:*

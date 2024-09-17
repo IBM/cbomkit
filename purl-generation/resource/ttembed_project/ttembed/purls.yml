@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/hisdeedsaredust/ttembed
+  - pkg:rpm/fedora/ttembed
+  - pkg:rpm/opensuse/ttembed

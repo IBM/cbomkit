@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:magnetic_project:magnetic:1.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:magnetic_project:magnetic:1.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:magnetic_project:magnetic:1.0.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:magnetic_project:magnetic:2.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:magnetic_project:magnetic:2.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:magnetic_project:magnetic:2.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:magnetic_project:magnetic:2.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:magnetic_project:magnetic:-:*:*:*:*:rust:*:*

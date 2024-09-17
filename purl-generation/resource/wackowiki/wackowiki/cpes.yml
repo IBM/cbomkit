@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:wackowiki:wackowiki:r3:*:*:*:*:*:*:*
+  - cpe:2.3:a:wackowiki:wackowiki:r3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:wackowiki:wackowiki:r4:*:*:*:*:*:*:*

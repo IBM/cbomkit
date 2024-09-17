@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:mixpanel_project:mixpanel:6.x-1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mixpanel_project:mixpanel:6.x-1.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:mixpanel_project:mixpanel:6.x-1.x:dev:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/summerflowers/wpsolr-search-engine
+  - pkg:github/wp-plugins/wpsolr-search-engine
+  - pkg:github/wpplugins/wpsolr-search-engine

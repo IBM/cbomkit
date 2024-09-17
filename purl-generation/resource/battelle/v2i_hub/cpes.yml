@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:battelle:v2i_hub:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:battelle:v2i_hub:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:battelle:v2i_hub:3.2:*:*:*:*:*:*:*

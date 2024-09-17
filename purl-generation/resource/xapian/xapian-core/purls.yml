@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/xapian-core
+  - pkg:Deb/ubuntu/xapian-core
+  - pkg:github/xapian/xapian
+  - pkg:rpm/centos/xapian-core
+  - pkg:rpm/fedora/xapian-core
+  - pkg:rpm/opensuse/xapian-core

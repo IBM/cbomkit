@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:picketlink:picketlink:2.7.0:cr3:*:*:*:*:*:*
+  - cpe:2.3:a:picketlink:picketlink:*:cr5:*:*:*:*:*:*

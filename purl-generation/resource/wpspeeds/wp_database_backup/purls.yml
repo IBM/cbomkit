@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/wp-plugins/wp-database-backup
+  - pkg:github/wpplugins/wp-database-backup

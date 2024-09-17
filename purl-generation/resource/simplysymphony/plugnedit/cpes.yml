@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:simplysymphony:plugnedit:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplysymphony:plugnedit:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplysymphony:plugnedit:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplysymphony:plugnedit:6.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simplysymphony:plugnedit:-:*:*:*:*:wordpress:*:*

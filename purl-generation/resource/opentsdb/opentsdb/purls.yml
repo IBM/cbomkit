@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/jvimal/opentsdb
+  - pkg:docker/opentsdb/opentsdb
+  - pkg:github/opentsdb/opentsdb
+  - pkg:maven/net.opentsdb/opentsdb

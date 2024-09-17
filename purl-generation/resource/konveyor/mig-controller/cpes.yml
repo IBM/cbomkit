@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:konveyor:mig-controller:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:konveyor:mig-controller:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:konveyor:mig-controller:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:konveyor:mig-controller:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:konveyor:mig-controller:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:konveyor:mig-controller:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:konveyor:mig-controller:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:konveyor:mig-controller:1.2.3:*:*:*:*:*:*:*

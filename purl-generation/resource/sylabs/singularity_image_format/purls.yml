@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/golang-github-sylabs-sif
+  - pkg:deb/ubuntu/golang-github-sylabs-sif
+  - pkg:github/sylabs/sif

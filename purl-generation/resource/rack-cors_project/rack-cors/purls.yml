@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-rack-cors
+  - pkg:deb/ubuntu/ruby-rack-cors
+  - pkg:gem/rack-cors
+  - pkg:github/cyu/rack-cors
+  - pkg:rpm/fedora/rubygem-rack-cors
+  - pkg:rpm/opensuse/rubygem-rack-cors

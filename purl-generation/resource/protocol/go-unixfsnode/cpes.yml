@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:protocol:go-unixfsnode:1.0.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:protocol:go-unixfsnode:1.1.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:protocol:go-unixfsnode:1.1.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:protocol:go-unixfsnode:1.1.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:protocol:go-unixfsnode:1.1.3:*:*:*:*:go:*:*
+  - cpe:2.3:a:protocol:go-unixfsnode:1.2.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:protocol:go-unixfsnode:1.3.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:protocol:go-unixfsnode:1.4.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:protocol:go-unixfsnode:1.5.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:protocol:go-unixfsnode:1.5.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:protocol:go-unixfsnode:*:*:*:*:*:go:*:*

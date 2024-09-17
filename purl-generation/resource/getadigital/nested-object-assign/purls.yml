@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/geta/nestedobjectassign
+  - pkg:npm/nested-object-assign

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/icedtea-web
+  - pkg:deb/ubuntu/icedtea-web
+  - pkg:github/adoptopenjdk/icedtea-web
+  - pkg:gitlab/redhat/icedtea-web
+  - pkg:rpm/fedora/icedtea-web
+  - pkg:rpm/opensuse/icedtea-web

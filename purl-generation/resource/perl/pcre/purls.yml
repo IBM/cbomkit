@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/pcre2
+  - pkg:deb/ubuntu/pcre2
+  - pkg:github/rurban/pcre
+  - pkg:gitlab/redhat/pcre
+  - pkg:nuget/pcre
+  - pkg:pypi/pcre2
+  - pkg:rpm/fedora/pcre
+  - pkg:rpm/opensuse/pcre2
+  - pkg:sourceforge/pcre

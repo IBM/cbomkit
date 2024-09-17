@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/rawstudio/rawstudio
+  - pkg:rpm/fedora/rawstudio
+  - pkg:rpm/opensuse/rawstudio

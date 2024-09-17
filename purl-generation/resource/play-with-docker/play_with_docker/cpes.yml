@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:play-with-docker:play_with_docker:0.0.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:play-with-docker:play_with_docker:0.0.2:*:*:*:*:go:*:*

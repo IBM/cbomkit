@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/crowdfavorite-mirrors/wp-search-everything
+  - pkg:github/yusuke-manabe/wp-search-everything-php7.2

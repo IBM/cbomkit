@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-nix
+  - pkg:deb/ubuntu/rust-nix
+  - pkg:github/nix-rust/nix
+  - pkg:rpm/fedora/rust-nix
+  - pkg:rpm/opensuse/rust-nix

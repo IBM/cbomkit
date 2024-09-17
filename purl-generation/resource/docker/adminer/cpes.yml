@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:docker:adminer:4.2.5-fastcgi:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:adminer:4.3.0-fastcgi:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:adminer:4.3.1-fastcgi:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:adminer:4.4.0-fastcgi:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:adminer:4.5.0-fastcgi:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:adminer:4.6.0-fastcgi:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:adminer:4.6.1-fastcgi:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:adminer:4.6.2-fastcgi:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:adminer:4.6.3-fastcgi:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:adminer:4.7.0-fastcgi:*:*:*:*:*:*:*

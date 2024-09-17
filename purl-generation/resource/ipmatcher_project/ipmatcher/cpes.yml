@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:ipmatcher_project:ipmatcher:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:ipmatcher_project:ipmatcher:1.0.4.1:*:*:*:*:*:*:*

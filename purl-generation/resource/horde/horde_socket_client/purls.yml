@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-horde-socket-client
+  - pkg:deb/ubuntu/php-horde-socket-client
+  - pkg:github/horde/socket_client
+  - pkg:rpm/fedora/php-horde-horde-socket-client
+  - pkg:rpm/opensuse/php-horde-horde-socket-client

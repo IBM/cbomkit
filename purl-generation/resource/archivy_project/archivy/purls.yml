@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/uzayg/archivy
+  - pkg:github/archivy/archivy
+  - pkg:pypi/archivy

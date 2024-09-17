@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mjpclab/object-hierarchy-access
+  - pkg:npm/object-hierarchy-access

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/veithen/netcat
+  - pkg:sourceforge/netcat

@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:jenkins:call_remote_job:1.0.12:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:call_remote_job:1.0.16:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:call_remote_job:1.0.18:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:call_remote_job:1.0.19:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:call_remote_job:1.0.20:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:call_remote_job:1.0.21:*:*:*:*:jenkins:*:*

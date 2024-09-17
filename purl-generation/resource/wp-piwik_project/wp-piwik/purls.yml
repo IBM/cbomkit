@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/claytondaley/wp-piwik
+  - pkg:github/crowdfavorite-mirrors/wp-piwik
+  - pkg:github/wp-plugins/wp-piwik

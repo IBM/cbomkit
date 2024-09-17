@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/rails_multisite
+  - pkg:github/discourse/rails_multisite
+  - pkg:rpm/opensuse/rubygem-rails_multisite

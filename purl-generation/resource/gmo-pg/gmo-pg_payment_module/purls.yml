@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/gmo-pg
+  - pkg:github/kissy2go/gmo-pg

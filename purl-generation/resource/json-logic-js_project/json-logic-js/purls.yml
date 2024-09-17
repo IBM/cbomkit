@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jwadhams/json-logic-js
+  - pkg:maven/org.webjars.npm/json-logic-js
+  - pkg:npm/json-logic-js

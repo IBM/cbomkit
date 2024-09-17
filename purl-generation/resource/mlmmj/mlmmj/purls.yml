@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/mlmmj
+  - pkg:deb/ubuntu/mlmmj
+  - pkg:github/neonkingfr/mlmmj
+  - pkg:github/v12mike/mlmmj
+  - pkg:rpm/fedora/mlmmj
+  - pkg:rpm/opensuse/mlmmj

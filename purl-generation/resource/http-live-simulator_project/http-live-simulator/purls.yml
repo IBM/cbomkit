@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/prahladyeri/http-live-simulator
+  - pkg:npm/http-live-simulator

@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:john_lim:adodb:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:john_lim:adodb:3.94:*:*:*:*:*:*:*
+  - cpe:2.3:a:john_lim:adodb:4.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:john_lim:adodb:4.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:john_lim:adodb:4.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:john_lim:adodb:4.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:john_lim:adodb:4.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:john_lim:adodb:4.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:john_lim:adodb:4.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:john_lim:adodb:4.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:john_lim:adodb:4.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:john_lim:adodb:4.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:john_lim:adodb:4.66:*:*:*:*:*:*:*
+  - cpe:2.3:a:john_lim:adodb:4.68:*:*:*:*:*:*:*
+  - cpe:2.3:a:john_lim:adodb:4.70:*:*:*:*:*:*:*
+  - cpe:2.3:a:john_lim:adodb:4.71:*:*:*:*:*:*:*
+  - cpe:2.3:a:john_lim:adodb:5.11:*:*:*:*:*:*:*

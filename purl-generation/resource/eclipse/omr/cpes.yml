@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:eclipse:omr:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:omr:0.1:*:*:*:*:*:*:*

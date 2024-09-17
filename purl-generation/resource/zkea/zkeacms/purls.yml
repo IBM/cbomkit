@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/yilezhu/czar.cms
+  - pkg:nuget/czar.cms.core

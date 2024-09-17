@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/oliversalzburg/i18n-node-angular
+  - pkg:npm/i18n-node-angular

@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:point-to-point_protocol_project:point-to-point_protocol:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:point-to-point_protocol_project:point-to-point_protocol:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:point-to-point_protocol_project:point-to-point_protocol:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:point-to-point_protocol_project:point-to-point_protocol:2.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:point-to-point_protocol_project:point-to-point_protocol:2.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:point-to-point_protocol_project:point-to-point_protocol:2.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:point-to-point_protocol_project:point-to-point_protocol:2.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:point-to-point_protocol_project:point-to-point_protocol:2.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:point-to-point_protocol_project:point-to-point_protocol:2.4.8:*:*:*:*:*:*:*

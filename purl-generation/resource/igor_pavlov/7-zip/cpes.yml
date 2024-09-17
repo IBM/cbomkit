@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:igor_pavlov:7-zip:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:igor_pavlov:7-zip:3.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:igor_pavlov:7-zip:4.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:igor_pavlov:7-zip:4.26_beta:*:*:*:*:*:*:*

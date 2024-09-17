@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bbfamily/abu
+  - pkg:pypi/abupy

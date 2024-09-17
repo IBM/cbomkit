@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/weblate/weblate
+  - pkg:github/weblateorg/docker
+  - pkg:github/weblateorg/weblate
+  - pkg:pypi/weblate
+  - pkg:rpm/opensuse/weblate

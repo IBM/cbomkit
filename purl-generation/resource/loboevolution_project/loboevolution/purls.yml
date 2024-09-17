@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/loboevolution/loboevolution
+  - pkg:maven/com.github.oswetto/loboevolution

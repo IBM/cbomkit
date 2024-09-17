@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/qdrant/qdrant
+  - pkg:github/qdrant/qdrant
+  - pkg:sourceforge/qdrant.mirror

@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/mina
+  - pkg:github/apache/mina
+  - pkg:maven/org.apache.mina/mina-core

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jsoref/muhttpd
+  - pkg:sourceforge/muhttpd

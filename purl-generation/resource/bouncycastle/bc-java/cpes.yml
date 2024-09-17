@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:bouncycastle:bc-java:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:bc-java:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:bc-java:1.73:*:*:*:*:*:*:*

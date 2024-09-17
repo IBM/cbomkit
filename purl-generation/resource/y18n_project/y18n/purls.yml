@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-y18n
+  - pkg:deb/ubuntu/node-y18n
+  - pkg:github/yargs/y18n
+  - pkg:maven/org.webjars.npm/y18n
+  - pkg:npm/y18n

@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:procps-ng_project:procps-ng:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:procps-ng_project:procps-ng:3.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:procps-ng_project:procps-ng:3.3.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:procps-ng_project:procps-ng:3.3.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:procps-ng_project:procps-ng:3.3.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:procps-ng_project:procps-ng:3.3.13:-:*:*:*:*:*:*
+  - cpe:2.3:a:procps-ng_project:procps-ng:3.3.13:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:procps-ng_project:procps-ng:3.3.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:procps-ng_project:procps-ng:3.3.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:procps-ng_project:procps-ng:3.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:procps-ng_project:procps-ng:3.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:procps-ng_project:procps-ng:3.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:procps-ng_project:procps-ng:3.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:procps-ng_project:procps-ng:3.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:procps-ng_project:procps-ng:3.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:procps-ng_project:procps-ng:3.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:procps-ng_project:procps-ng:3.3.9:*:*:*:*:*:*:*

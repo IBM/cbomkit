@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/genomon_wg/bwa
+  - pkg:deb/debian/bwa
+  - pkg:deb/ubuntu/bwa
+  - pkg:github/lh3/bwa
+  - pkg:rpm/fedora/bwa
+  - pkg:sourceforge/bio-bwa

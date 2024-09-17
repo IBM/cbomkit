@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/tomatocart/tomatocart-v1
+  - pkg:github/tomatocart/tomatocart-v2
+  - pkg:sourceforge/tomatocart

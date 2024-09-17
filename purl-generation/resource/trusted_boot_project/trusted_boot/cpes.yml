@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:trusted_boot_project:trusted_boot:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:trusted_boot_project:trusted_boot:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:trusted_boot_project:trusted_boot:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:trusted_boot_project:trusted_boot:1.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:trusted_boot_project:trusted_boot:1.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:trusted_boot_project:trusted_boot:1.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:trusted_boot_project:trusted_boot:1.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:trusted_boot_project:trusted_boot:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:trusted_boot_project:trusted_boot:1.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:trusted_boot_project:trusted_boot:1.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:trusted_boot_project:trusted_boot:1.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:trusted_boot_project:trusted_boot:1.9.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:trusted_boot_project:trusted_boot:1.9.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:trusted_boot_project:trusted_boot:1.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:trusted_boot_project:trusted_boot:1.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:trusted_boot_project:trusted_boot:1.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:trusted_boot_project:trusted_boot:1.9.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:trusted_boot_project:trusted_boot:1.9.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:trusted_boot_project:trusted_boot:1.9.9:*:*:*:*:*:*:*

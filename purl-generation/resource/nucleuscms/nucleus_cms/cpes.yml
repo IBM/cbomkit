@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:nucleuscms:nucleus_cms:3.31:sp1:*:ja:*:*:*:*
+  - cpe:2.3:a:nucleuscms:nucleus_cms:3.61:*:*:*:*:*:*:*
+  - cpe:2.3:a:nucleuscms:nucleus_cms:3.65:*:*:*:*:*:*:*
+  - cpe:2.3:a:nucleuscms:nucleus_cms:3.70:*:*:*:*:*:*:*
+  - cpe:2.3:a:nucleuscms:nucleus_cms:3.71:*:*:*:*:*:*:*

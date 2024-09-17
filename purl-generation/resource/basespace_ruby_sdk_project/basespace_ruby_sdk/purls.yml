@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/bio-basespace-sdk
+  - pkg:github/basespace/basespace-ruby-sdk

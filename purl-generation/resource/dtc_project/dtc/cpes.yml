@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:dtc_project:dtc:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dtc_project:dtc:1.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dtc_project:dtc:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dtc_project:dtc:1.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dtc_project:dtc:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dtc_project:dtc:1.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dtc_project:dtc:1.2.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:dtc_project:dtc:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dtc_project:dtc:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dtc_project:dtc:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dtc_project:dtc:1.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dtc_project:dtc:1.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dtc_project:dtc:1.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dtc_project:dtc:1.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dtc_project:dtc:1.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:dtc_project:dtc:1.4.7:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/leenkme/leenkme
+  - pkg:github/wp-plugins/leenkme
+  - pkg:github/wpplugins/leenkme

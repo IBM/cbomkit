@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:news_project:news:3.0.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:news_project:news:3.0.1:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:news_project:news:3.1.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:news_project:news:3.2.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:news_project:news:3.2.1:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:news_project:news:3.4.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:news_project:news:3.5.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:news_project:news:3.5.1:*:*:*:*:typo3:*:*

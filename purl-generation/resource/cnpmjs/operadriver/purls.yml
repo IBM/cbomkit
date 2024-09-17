@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cnpm/node-operadriver
+  - pkg:npm/operadriver

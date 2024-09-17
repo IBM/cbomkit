@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/evolution-rss
+  - pkg:deb/ubuntu/evolution-rss
+  - pkg:github/gnome/evolution-rss
+  - pkg:rpm/fedora/evolution-rss
+  - pkg:rpm/opensuse/evolution-rss

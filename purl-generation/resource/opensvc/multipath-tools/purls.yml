@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/multipath-tools
+  - pkg:deb/ubuntu/multipath-tools
+  - pkg:github/cathay4t/multipath-tools
+  - pkg:github/opensvc/multipath-tools
+  - pkg:rpm/opensuse/multipath-tools

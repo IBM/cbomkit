@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:motioneyeos_project:motioneyeos:*:*:*:*:*:*:*:*
+  - cpe:2.3:o:motioneyeos_project:motioneyeos:*:*:*:*:*:*:*:*

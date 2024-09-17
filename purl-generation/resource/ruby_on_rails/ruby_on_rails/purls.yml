@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/rails
+  - pkg:github/rails/rails

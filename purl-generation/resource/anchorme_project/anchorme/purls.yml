@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/alexcorvi/anchorme.js
+  - pkg:maven/org.webjars.npm/anchorme
+  - pkg:npm/anchorme

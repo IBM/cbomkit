@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:guardianproject:stegdetect:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:guardianproject:stegdetect:0.6:*:*:*:*:*:*:*

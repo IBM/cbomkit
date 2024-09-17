@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:apache_solr_real-time_project:apache_solr_real-time:7.x-1.0:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:apache_solr_real-time_project:apache_solr_real-time:7.x-1.1:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:apache_solr_real-time_project:apache_solr_real-time:7.x-1.2:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:apache_solr_real-time_project:apache_solr_real-time:7.x-1.4:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:apache_solr_real-time_project:apache_solr_real-time:7.x-1.x:dev:*:*:*:drupal:*:*

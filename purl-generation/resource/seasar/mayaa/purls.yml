@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/seasarorg/mayaa
+  - pkg:maven/org.seasar.mayaa/mayaa

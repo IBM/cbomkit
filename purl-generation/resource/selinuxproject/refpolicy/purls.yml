@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/refpolicy
+  - pkg:deb/ubuntu/refpolicy
+  - pkg:github/selinuxproject/refpolicy
+  - pkg:rpm/opensuse/refpolicy

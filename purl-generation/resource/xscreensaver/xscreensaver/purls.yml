@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/xscreensaver
+  - pkg:deb/ubuntu/xscreensaver
+  - pkg:github/zygo/xscreensaver
+  - pkg:rpm/fedora/xscreensaver
+  - pkg:rpm/opensuse/xscreensaver

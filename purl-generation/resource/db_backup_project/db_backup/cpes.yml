@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:db_backup_project:db_backup:4.5:*:*:*:*:wordpress:*:*

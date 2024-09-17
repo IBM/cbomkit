@@ -1,0 +1,10 @@
+purls:
+  - pkg:bitbucket/raveendra_reddy_p/openwsman
+  - pkg:deb/ubuntu/openwsman
+  - pkg:gem/openwsman
+  - pkg:github/openwsman/openwsman
+  - pkg:gitlab/redhat/openwsman
+  - pkg:rpm/centos/openwsman
+  - pkg:rpm/fedora/openwsman
+  - pkg:rpm/opensuse/openwsman
+  - pkg:sourceforge/openwsman

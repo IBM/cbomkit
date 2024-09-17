@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:thwboard:thwboard:2.81_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:thwboard:thwboard:2.82_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:thwboard:thwboard:2.83_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:thwboard:thwboard:2.84_beta_3:*:*:*:*:*:*:*
+  - cpe:2.3:a:thwboard:thwboard:2.8_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:thwboard:thwboard:3.0_beta_2.84:*:*:*:*:*:*:*
+  - cpe:2.3:a:thwboard:thwboard:*:*:php5:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/10up/safe-svg
+  - pkg:github/wp-plugins/safe-svg
+  - pkg:github/wpplugins/safe-svg

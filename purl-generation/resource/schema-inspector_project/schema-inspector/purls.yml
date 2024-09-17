@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/atinux/schema-inspector
+  - pkg:github/schema-inspector/schema-inspector

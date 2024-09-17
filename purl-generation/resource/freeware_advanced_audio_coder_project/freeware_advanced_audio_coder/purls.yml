@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/faac
+  - pkg:deb/ubuntu/faac
+  - pkg:github/knik0/faac
+  - pkg:rpm/opensuse/faac
+  - pkg:sourceforge/faac

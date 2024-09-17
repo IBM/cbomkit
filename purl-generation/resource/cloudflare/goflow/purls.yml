@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/cloudflare/goflow
+  - pkg:github/cloudflare/goflow
+  - pkg:rpm/opensuse/goflow2

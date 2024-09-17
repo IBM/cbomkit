@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:merge-object_project:merge-object:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:merge-object_project:merge-object:1.0.0:*:*:*:*:node.js:*:*

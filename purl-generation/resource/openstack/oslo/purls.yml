@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/oslo
+  - pkg:github/openstack/puppet-oslo
+  - pkg:pypi/oslo.windows

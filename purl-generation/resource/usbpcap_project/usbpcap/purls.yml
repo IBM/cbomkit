@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/desowin/usbpcap
+  - pkg:sourceforge/usbpcap

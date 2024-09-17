@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:1234n:minicms:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:1234n:minicms:1.0:preview1:*:*:*:*:*:*
+  - cpe:2.3:a:1234n:minicms:1.0:preview2:*:*:*:*:*:*
+  - cpe:2.3:a:1234n:minicms:1.0:preview3:*:*:*:*:*:*
+  - cpe:2.3:a:1234n:minicms:1.0:preview4:*:*:*:*:*:*
+  - cpe:2.3:a:1234n:minicms:1.0:preview5:*:*:*:*:*:*
+  - cpe:2.3:a:1234n:minicms:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:1234n:minicms:1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:1234n:minicms:1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:1234n:minicms:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:1234n:minicms:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:1234n:minicms:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:1234n:minicms:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:1234n:minicms:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:1234n:minicms:1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:1234n:minicms:1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:1234n:minicms:1.9:*:*:*:*:*:*:*

@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:gnome:gnome_online_accounts:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome_online_accounts:3.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome_online_accounts:3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome_online_accounts:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome_online_accounts:3.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome_online_accounts:3.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome_online_accounts:3.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome_online_accounts:3.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome_online_accounts:3.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome_online_accounts:3.7.90:*:*:*:*:*:*:*

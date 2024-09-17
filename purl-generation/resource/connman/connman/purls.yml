@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/connman
+  - pkg:deb/ubuntu/connman
+  - pkg:github/aldebaran/connman
+  - pkg:github/ev3dev/connman
+  - pkg:rpm/fedora/connman
+  - pkg:rpm/opensuse/connman

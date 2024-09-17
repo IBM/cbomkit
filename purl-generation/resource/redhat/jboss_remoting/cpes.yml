@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:redhat:jboss_remoting:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_remoting:2.2.2:sp10:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_remoting:2.2.2:sp11:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_remoting:2.2.2:sp2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_remoting:2.2.2:sp4:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_remoting:2.2.2:sp7:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_remoting:2.2.2:sp8:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_remoting:2.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_remoting:2.2.3:sp1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_remoting:2.2.3:sp2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_remoting:2.2.3:sp3:*:*:*:*:*:*

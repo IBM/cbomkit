@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:apache:uima-as:2.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:uima-as:2.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:uima-as:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:uima-as:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:uima-as:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:uima-as:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:uima-as:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:uima-as:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:uima-as:2.9.0:*:*:*:*:*:*:*

@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/caddy
+  - pkg:github/caddyserver/caddy
+  - pkg:rpm/fedora/caddy
+  - pkg:rpm/opensuse/caddy
+  - pkg:sourceforge/caddy.mirror

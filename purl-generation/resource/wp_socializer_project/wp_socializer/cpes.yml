@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:wp_socializer_project:wp_socializer:5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_socializer_project:wp_socializer:5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_socializer_project:wp_socializer:5.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_socializer_project:wp_socializer:5.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_socializer_project:wp_socializer:5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_socializer_project:wp_socializer:6.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_socializer_project:wp_socializer:6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_socializer_project:wp_socializer:6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_socializer_project:wp_socializer:6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_socializer_project:wp_socializer:6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_socializer_project:wp_socializer:6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_socializer_project:wp_socializer:7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_socializer_project:wp_socializer:7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_socializer_project:wp_socializer:7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_socializer_project:wp_socializer:7.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_socializer_project:wp_socializer:7.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_socializer_project:wp_socializer:-:*:*:*:*:wordpress:*:*

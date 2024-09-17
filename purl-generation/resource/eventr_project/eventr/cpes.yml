@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:eventr_project:eventr:1.00.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:eventr_project:eventr:1.00.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:eventr_project:eventr:1.01.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:eventr_project:eventr:1.01.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:eventr_project:eventr:1.01.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:eventr_project:eventr:1.02.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:eventr_project:eventr:1.02.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:eventr_project:eventr:1.02.2:*:*:*:*:wordpress:*:*

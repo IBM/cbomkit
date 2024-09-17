@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:spring-boot-actuator-logview_project:spring-boot-actuator-logview:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:spring-boot-actuator-logview_project:spring-boot-actuator-logview:0.2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:spring-boot-actuator-logview_project:spring-boot-actuator-logview:0.2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:spring-boot-actuator-logview_project:spring-boot-actuator-logview:0.2.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:spring-boot-actuator-logview_project:spring-boot-actuator-logview:0.2.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:spring-boot-actuator-logview_project:spring-boot-actuator-logview:0.2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:spring-boot-actuator-logview_project:spring-boot-actuator-logview:0.2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:spring-boot-actuator-logview_project:spring-boot-actuator-logview:0.2.9:*:*:*:*:*:*:*

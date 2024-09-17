@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/mediawiki
+  - pkg:deb/ubuntu/mediawiki
+  - pkg:github/wikimedia/mediawiki
+  - pkg:rpm/fedora/mediawiki
+  - pkg:rpm/opensuse/mediawiki

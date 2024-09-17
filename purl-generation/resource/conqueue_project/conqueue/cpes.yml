@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:conqueue_project:conqueue:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:conqueue_project:conqueue:0.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:conqueue_project:conqueue:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:conqueue_project:conqueue:0.2.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:conqueue_project:conqueue:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:conqueue_project:conqueue:0.4.0:*:*:*:*:rust:*:*

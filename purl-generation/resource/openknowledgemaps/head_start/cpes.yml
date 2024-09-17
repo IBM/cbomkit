@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:openknowledgemaps:head_start:4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openknowledgemaps:head_start:5:*:*:*:*:*:*:*
+  - cpe:2.3:a:openknowledgemaps:head_start:6:*:*:*:*:*:*:*
+  - cpe:2.3:a:openknowledgemaps:head_start:7:*:*:*:*:*:*:*

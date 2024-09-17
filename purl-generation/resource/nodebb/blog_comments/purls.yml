@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/psychobunny/nodebb-plugin-blog-comments
+  - pkg:npm/nodebb-plugin-blog-comments

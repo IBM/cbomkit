@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:libvnc_project:libvncserver:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:libvnc_project:libvncserver:0.9.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:libvnc_project:libvncserver:0.9.12:-:*:*:*:*:*:*

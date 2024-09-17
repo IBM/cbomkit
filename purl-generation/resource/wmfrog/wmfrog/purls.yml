@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/wmfrog
+  - pkg:deb/ubuntu/wmfrog
+  - pkg:github/tcolar/wmfrog
+  - pkg:rpm/fedora/wmfrog
+  - pkg:sourceforge/wmfrog

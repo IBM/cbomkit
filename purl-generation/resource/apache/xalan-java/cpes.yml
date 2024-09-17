@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:apache:xalan-java:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xalan-java:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xalan-java:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xalan-java:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xalan-java:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xalan-java:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xalan-java:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xalan-java:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xalan-java:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xalan-java:2.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xalan-java:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xalan-java:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xalan-java:2.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xalan-java:2.7.2:*:*:*:*:*:*:*

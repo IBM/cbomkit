@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debianruby-omniauth-auth0
+  - pkg:deb/ubunturuby-omniauth-auth0
+  - pkg:gem/omniauth-auth0
+  - pkg:github/auth0/omniauth-auth0
+  - pkg:rpm/opensuse/rubygem-omniauth-auth0

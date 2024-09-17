@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/matzko/wp-db-backup
+  - pkg:github/wp-plugins/wp-db-backup
+  - pkg:github/wpplugins/wp-db-backup

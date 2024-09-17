@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/evanoxfeld/node-unzip
+  - pkg:github/zjonsson/node-unzipper
+  - pkg:maven/org.webjars.npm/unzipper
+  - pkg:npm/unzipper

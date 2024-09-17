@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/pediapress/mwlib
+  - pkg:pypi/mwlib
+  - pkg:rpm/opensuse/python-mwlib

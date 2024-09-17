@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:pretix:pretix:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:4.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pretix:pretix:4.17.0:*:*:*:*:*:*:*

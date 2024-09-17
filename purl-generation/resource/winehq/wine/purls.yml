@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/wine
+  - pkg:deb/ubuntu/wine
+  - pkg:github/wine-mirror/wine
+  - pkg:gitlab/kalilinux/wine
+  - pkg:rpm/fedora/wine
+  - pkg:rpm/opensuse/wine
+  - pkg:sourceforge/wine

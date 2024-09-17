@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/qpid
+  - pkg:github/apache/qpid-proton-j
+  - pkg:maven/org.apache.qpid/apache-qpid-proton-j
+  - pkg:maven/org.apache.qpid/proton-j

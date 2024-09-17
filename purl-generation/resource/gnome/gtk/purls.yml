@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/gtk-vnc
+  - pkg:deb/ubuntu/gtk-vnc
+  - pkg:github/gnome/gtk
+  - pkg:rpm/centos/gtk-vnc
+  - pkg:rpm/fedora/gtk-vnc
+  - pkg:rpm/opensuse/gtk-vnc

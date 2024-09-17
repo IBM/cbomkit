@@ -1,0 +1,2 @@
+purls:
+  - pkg:npm/aws-lambda-multipart-parser

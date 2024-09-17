@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:oryx-embedded:cyclonetcp:1.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:oryx-embedded:cyclonetcp:1.7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:oryx-embedded:cyclonetcp:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oryx-embedded:cyclonetcp:1.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:oryx-embedded:cyclonetcp:1.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:oryx-embedded:cyclonetcp:1.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oryx-embedded:cyclonetcp:1.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:oryx-embedded:cyclonetcp:1.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:oryx-embedded:cyclonetcp:1.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:oryx-embedded:cyclonetcp:1.9.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:oryx-embedded:cyclonetcp:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oryx-embedded:cyclonetcp:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:oryx-embedded:cyclonetcp:2.0.4:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/libxls/libxls
+  - pkg:rpm/fedora/libxls
+  - pkg:rpm/opensuse/libxls

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:oracle:mysql_connector_net:6.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:mysql_connector_net:6.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:mysql_connector_net:6.4.4:*:*:*:*:*:*:*

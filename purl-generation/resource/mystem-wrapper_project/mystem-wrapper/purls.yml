@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/titarenko/mystem-wrapper
+  - pkg:npm/mystem-wrapper

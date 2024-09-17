@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jboss-fuse/redhat-fuse
+  - pkg:gitlab/redhat/fuse

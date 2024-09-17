@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:node-server-forfront_project:node-server-forfront:0.10.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:node-server-forfront_project:node-server-forfront:0.10.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:node-server-forfront_project:node-server-forfront:0.10.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:node-server-forfront_project:node-server-forfront:0.10.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:node-server-forfront_project:node-server-forfront:0.10.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:node-server-forfront_project:node-server-forfront:0.10.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:node-server-forfront_project:node-server-forfront:0.10.7:*:*:*:*:node.js:*:*

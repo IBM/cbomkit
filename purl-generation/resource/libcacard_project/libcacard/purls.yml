@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/libcacard
+  - pkg:deb/ubuntu/libcacard
+  - pkg:github/elmarco/libcacard
+  - pkg:github/freedesktop/spice-libcacard
+  - pkg:github/jakuje/libcacard
+  - pkg:gitlab/redhat/libcacard
+  - pkg:rpm/centos/libcacard
+  - pkg:rpm/fedora/libcacard
+  - pkg:rpm/opensuse/libcacard

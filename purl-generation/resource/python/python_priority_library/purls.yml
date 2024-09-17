@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-priority
+  - pkg:deb/ubuntu/python-priority
+  - pkg:github/python-hyper/priority
+  - pkg:pypi/priority
+  - pkg:rpm/fedora/python-priority
+  - pkg:rpm/opensuse/python-priority

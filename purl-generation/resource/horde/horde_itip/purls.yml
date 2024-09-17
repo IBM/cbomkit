@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-itip
+  - pkg:deb/ubuntu/php-horde-itip
+  - pkg:github/horde/itip
+  - pkg:rpm/fedora/php-horde-horde-itip

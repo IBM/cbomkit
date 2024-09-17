@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:ninjaforms:contact_form:3.5.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ninjaforms:contact_form:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ninjaforms:contact_form:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/nuget
+  - pkg:deb/ubuntu/nuget
+  - pkg:github/nuget/home
+  - pkg:github/nuget/nugetgallery
+  - pkg:rpm/fedora/nuget
+  - pkg:rpm/opensuse/nuget
+  - pkg:sourceforge/nuget-gallery.mirror

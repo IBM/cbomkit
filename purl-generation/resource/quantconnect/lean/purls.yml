@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/quantconnect/lean
+  - pkg:sourceforge/lean.mirror

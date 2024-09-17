@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:freso:languageicons:6.x-2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:freso:languageicons:6.x-2.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:freso:languageicons:6.x-2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:freso:languageicons:6.x-2.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:freso:languageicons:6.x-2.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:freso:languageicons:6.x-2.x:dev:*:*:*:*:*:*
+  - cpe:2.3:a:freso:languageicons:7.x-1.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:freso:languageicons:7.x-1.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:freso:languageicons:7.x-1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:freso:languageicons:7.x-1.x:dev:*:*:*:*:*:*

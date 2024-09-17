@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/jupyter/nbdime
+  - pkg:pypi/nbdime
+  - pkg:rpm/opensuse/jupyter-nbdime
+  - pkg:rpm/opensuse/python-nbdime

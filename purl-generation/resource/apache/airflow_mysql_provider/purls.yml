@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/airflow
+  - pkg:docker/apache/airflow
+  - pkg:github/apache/airflow
+  - pkg:pypi/airflow
+  - pkg:rpm/opensuse/python-apache-airflow
+  - pkg:sourceforge/apache-airflow.mirror

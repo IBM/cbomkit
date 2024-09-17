@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bdengine/go-merkledag
+  - pkg:github/ipfs/go-merkledag
+  - pkg:github/trustprotocol/go-merkledag

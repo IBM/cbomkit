@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:michael_bacarella:ident2:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:michael_bacarella:ident2:1.3_1:*:*:*:*:*:*:*
+  - cpe:2.3:a:michael_bacarella:ident2:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:michael_bacarella:ident2:.999c:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/uxebu/webdrvr
+  - pkg:npm/webdrvr

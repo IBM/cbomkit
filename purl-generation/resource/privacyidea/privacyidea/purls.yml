@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/privacyidea/privacyidea
+  - pkg:pypi/privacyidea
+  - pkg:rpm/opensuse/privacyidea
+  - pkg:sourceforge/privacyidea

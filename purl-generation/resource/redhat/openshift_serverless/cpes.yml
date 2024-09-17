@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:redhat:openshift_serverless:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_serverless:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_serverless:1.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_serverless:1.17.0:*:*:*:*:*:*:*

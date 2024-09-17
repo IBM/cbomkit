@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/xsane
+  - pkg:deb/ubuntu/xsane
+  - pkg:github/rudimeier/xsane
+  - pkg:gitlab/redhat/xsane
+  - pkg:rpm/fedora/xsane
+  - pkg:rpm/opensuse/xsane

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/googlecloudplatform/marketplace-tools
+  - pkg:golang/github.com/googlecloudplatform/marketplace-tools

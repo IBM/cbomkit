@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:latest_tweets_widget_project:latest_tweets_widget:1.1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:latest_tweets_widget_project:latest_tweets_widget:-:*:*:*:*:wordpress:*:*

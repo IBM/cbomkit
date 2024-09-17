@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/nuknightlab/timelinejs3
+  - pkg:maven/org.webjars.npm/github-com-nuknightlab-timelinejs3
+  - pkg:npm/timelinejs3

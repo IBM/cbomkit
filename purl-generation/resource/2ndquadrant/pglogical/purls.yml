@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/pglogical
+  - pkg:deb/ubuntu/pglogical
+  - pkg:github/2ndquadrant/pglogical

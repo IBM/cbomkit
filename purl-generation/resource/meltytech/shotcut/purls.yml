@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/shotcut
+  - pkg:deb/ubuntu/shotcut
+  - pkg:github/mltframework/shotcut
+  - pkg:rpm/opensuse/shotcut
+  - pkg:sourceforge/shotcut.mirror

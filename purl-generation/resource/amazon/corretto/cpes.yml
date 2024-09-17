@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:amazon:corretto:11:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:corretto:8:*:*:*:*:*:*:*

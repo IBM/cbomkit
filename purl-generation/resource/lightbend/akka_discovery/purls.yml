@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/akka/akka-management
+  - pkg:maven/com.lightbend.akka.management/akka-discovery

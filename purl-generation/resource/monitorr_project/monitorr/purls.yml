@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/monitorr/monitorr
+  - pkg:github/monitorr/monitorr

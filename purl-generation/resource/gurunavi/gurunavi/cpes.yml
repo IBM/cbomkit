@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:gurunavi:gurunavi:10.0.10:*:*:*:*:android:*:*
+  - cpe:2.3:a:gurunavi:gurunavi:11.1.2:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:gurunavi:gurunavi:-:*:*:*:*:android:*:*
+  - cpe:2.3:a:gurunavi:gurunavi:-:*:*:*:*:iphone_os:*:*

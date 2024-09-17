@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:weaselcms_project:weaselcms:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:weaselcms_project:weaselcms:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:weaselcms_project:weaselcms:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:weaselcms_project:weaselcms:0.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:weaselcms_project:weaselcms:0.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:weaselcms_project:weaselcms:0.3.6:*:*:*:*:*:*:*

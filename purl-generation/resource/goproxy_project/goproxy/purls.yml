@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/goproxy/goproxy
+  - pkg:golang/github.com/goproxy/goproxy

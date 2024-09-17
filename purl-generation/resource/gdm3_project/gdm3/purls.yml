@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/gdm3
+  - pkg:deb/ubuntu/gdm3
+  - pkg:github/gnome/gdm
+  - pkg:github/pop-os/gdm3

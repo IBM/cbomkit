@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:price_table_project:price_table:0.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:price_table_project:price_table:-:*:*:*:*:wordpress:*:*

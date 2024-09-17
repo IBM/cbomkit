@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/freeimage
+  - pkg:deb/ubuntu/freeimage
+  - pkg:github/danoli3/freeimage
+  - pkg:github/kanma/freeimage
+  - pkg:github/winmerge/freeimage
+  - pkg:rpm/fedora/freeimage
+  - pkg:rpm/opensuse/freeimage
+  - pkg:sourceforge/freeimage

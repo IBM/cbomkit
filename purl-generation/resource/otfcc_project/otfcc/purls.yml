@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/mrhso/otfcc
+  - pkg:github/caryll/otfcc
+  - pkg:rpm/opensuse/otfcc

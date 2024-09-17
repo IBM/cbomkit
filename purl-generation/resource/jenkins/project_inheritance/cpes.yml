@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:jenkins:project_inheritance:1.4.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:project_inheritance:1.4.11.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:project_inheritance:1.4.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:project_inheritance:1.4.12:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:project_inheritance:1.4.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:project_inheritance:1.4.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:project_inheritance:1.5.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:project_inheritance:1.5.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:project_inheritance:1.5.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:project_inheritance:1.5.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:project_inheritance:19.08.01:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:project_inheritance:19.08.02:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:project_inheritance:2.0.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:project_inheritance:21.04.03:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:project_inheritance:-:*:*:*:*:jenkins:*:*

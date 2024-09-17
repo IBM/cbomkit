@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/syncevolution
+  - pkg:deb/ubuntu/syncevolution
+  - pkg:rpm/fedora/syncevolution
+  - pkg:rpm/opensuse/syncevolution

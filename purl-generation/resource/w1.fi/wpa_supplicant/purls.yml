@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/cozybit/wpa_supplicant-o11s-legacy
+  - pkg:github/digsrc/wpa_supplicant
+  - pkg:github/mcgrof/wpa_supplicant
+  - pkg:rpm/fedora/wpa_supplicant

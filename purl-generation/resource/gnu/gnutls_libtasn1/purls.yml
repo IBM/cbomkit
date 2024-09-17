@@ -1,0 +1,12 @@
+purls:
+  - pkg:deb/debian/libtasn1-6
+  - pkg:deb/ubuntu/libtasn1-6
+  - pkg:github/chronic-dev/libtasn1
+  - pkg:github/distrotech/libtasn1
+  - pkg:github/gnutls/libtasn1
+  - pkg:github/neverware-mirrors/libtasn1
+  - pkg:gitlab/redhat/libtasn1
+  - pkg:gnu/libtasn1
+  - pkg:rpm/centos/libtasn1
+  - pkg:rpm/fedora/libtasn1
+  - pkg:rpm/opensuse/libtasn1

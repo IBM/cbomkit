@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/abbychau/multiqueue2
+  - pkg:github/leoschwarz/multiqueue
+  - pkg:github/schets/multiqueue

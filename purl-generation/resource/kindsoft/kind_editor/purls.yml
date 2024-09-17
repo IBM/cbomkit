@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/kindsoft/kindeditor
+  - pkg:maven/org.webjars.bowergithub.kindsoft/kindeditor
+  - pkg:npm/kindeditor

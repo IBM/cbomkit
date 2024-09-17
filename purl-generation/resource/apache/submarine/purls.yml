@@ -1,0 +1,3 @@
+purls:
+  - pkg:apache/submarine
+  - pkg:github/apache/submarine

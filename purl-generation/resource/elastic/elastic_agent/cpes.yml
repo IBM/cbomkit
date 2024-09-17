@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:elastic:elastic_agent:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_agent:8.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_agent:8.9.2:*:*:*:*:*:*:*

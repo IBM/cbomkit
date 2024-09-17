@@ -1,0 +1,8 @@
+purls:
+  - pkg:github/blackhat-blade/mailx
+  - pkg:github/scallywag/mailx
+  - pkg:gitlab/redhat/mailx
+  - pkg:rpm/centos/mailx
+  - pkg:rpm/fedora/mailx
+  - pkg:rpm/opensuse/mailx
+  - pkg:sourceforge/nail

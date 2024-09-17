@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/openstackhelm/neutron
+  - pkg:github/openstack/neutron
+  - pkg:maven/org.apache.jclouds.api/openstack-neutron
+  - pkg:pypi/neutron
+  - pkg:rpm/opensuse/openstack-neutron

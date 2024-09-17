@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:atomic_photo_album:atomic_photo_album:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:atomic_photo_album:atomic_photo_album:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:atomic_photo_album:atomic_photo_album:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:atomic_photo_album:atomic_photo_album:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:atomic_photo_album:atomic_photo_album:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:atomic_photo_album:atomic_photo_album:1.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:atomic_photo_album:atomic_photo_album:1.1.0_pre1:*:*:*:*:*:*:*
+  - cpe:2.3:a:atomic_photo_album:atomic_photo_album:1.1.0_pre2:*:*:*:*:*:*:*
+  - cpe:2.3:a:atomic_photo_album:atomic_photo_album:1.1.0_pre3:*:*:*:*:*:*:*
+  - cpe:2.3:a:atomic_photo_album:atomic_photo_album:1.1.0:pre4:*:*:*:*:*:*
+  - cpe:2.3:a:atomic_photo_album:atomic_photo_album:1.1.0_pre4:*:*:*:*:*:*:*

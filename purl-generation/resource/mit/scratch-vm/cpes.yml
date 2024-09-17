@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:mit:scratch-vm:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:mit:scratch-vm:0.2.0-prerelease.20200714185213:*:*:*:*:*:*:*

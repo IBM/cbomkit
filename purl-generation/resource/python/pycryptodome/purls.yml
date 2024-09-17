@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/python-pycryptodome
+  - pkg:deb/ubuntu/python-pycryptodome
+  - pkg:docker/pypi/pycryptodome
+  - pkg:github/legrandin/pycryptodome
+  - pkg:gitlab/redhat/python-pycryptodome
+  - pkg:pypi/pycryptodome
+  - pkg:rpm/fedora/python-pycryptodome
+  - pkg:rpm/opensuse/python-pycryptodome

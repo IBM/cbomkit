@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/intamac/pjproject
+  - pkg:deb/debian/pjproject
+  - pkg:deb/ubuntu/pjproject
+  - pkg:github/pjsip/pjproject
+  - pkg:gitlab/kalilinux/pjproject
+  - pkg:rpm/fedora/pjproject
+  - pkg:rpm/opensuse/pjproject

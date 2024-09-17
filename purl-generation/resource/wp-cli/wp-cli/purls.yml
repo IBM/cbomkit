@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/wvm/wp-cli
+  - pkg:github/wp-cli/wp-cli
+  - pkg:rpm/fedora/wp-cli
+  - pkg:rpm/opensuse/wp-cli

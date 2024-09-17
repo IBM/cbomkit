@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/piuccio/git-promise
+  - pkg:npm/git-promise

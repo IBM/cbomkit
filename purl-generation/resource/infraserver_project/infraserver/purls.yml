@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/xuemen/infra
+  - pkg:npm/infraserver

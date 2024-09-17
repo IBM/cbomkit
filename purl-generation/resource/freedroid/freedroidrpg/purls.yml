@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/freedroid
+  - pkg:deb/ubuntu/freedroid
+  - pkg:github/a-sf-mirror/freedroid
+  - pkg:gitlab/freedroid/freedroid-src
+  - pkg:rpm/fedora/freedroid
+  - pkg:rpm/opensuse/freedroid
+  - pkg:sourceforge/freedroid

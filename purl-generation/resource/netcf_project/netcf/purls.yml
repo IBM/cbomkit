@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/netcf
+  - pkg:deb/ubuntu/netcf
+  - pkg:github/crobinso/netcf
+  - pkg:rpm/centos/netcf
+  - pkg:rpm/fedora/netcf
+  - pkg:rpm/opensuse/netcf

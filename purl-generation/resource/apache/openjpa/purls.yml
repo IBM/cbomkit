@@ -1,0 +1,6 @@
+purls:
+  - pkg:apache/openjpa
+  - pkg:deb/debian/openjpa
+  - pkg:deb/ubuntu/openjpa
+  - pkg:github/apache/openjpa
+  - pkg:maven/org.apache.openjpa/openjpa

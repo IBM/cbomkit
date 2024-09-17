@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:wire:wire-ios-transport:84.1.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:wire:wire-ios-transport:84.1.1:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:wire:wire-ios-transport:-:*:*:*:*:iphone_os:*:*

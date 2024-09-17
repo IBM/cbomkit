@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/craigk5n/webcalendar
+  - pkg:rpm/fedora/webcalendar
+  - pkg:sourceforge/webcalendar

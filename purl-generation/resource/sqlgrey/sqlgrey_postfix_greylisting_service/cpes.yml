@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:sqlgrey:sqlgrey_postfix_greylisting_service:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sqlgrey:sqlgrey_postfix_greylisting_service:1.1.3:*:*:*:*:*:*:*

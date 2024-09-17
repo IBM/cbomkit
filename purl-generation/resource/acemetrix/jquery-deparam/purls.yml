@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/acemetrix/jquery-deparam
+  - pkg:npm/jquery-deparam

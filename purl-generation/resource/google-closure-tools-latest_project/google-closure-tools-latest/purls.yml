@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/vsonix-bub/node-google-closure-tools-latest
+  - pkg:npm/google-closure-tools-latest

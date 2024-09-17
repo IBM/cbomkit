@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:jenkins:rapiddeploy:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rapiddeploy:2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rapiddeploy:3.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rapiddeploy:3.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rapiddeploy:3.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rapiddeploy:3.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rapiddeploy:3.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rapiddeploy:3.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rapiddeploy:3.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rapiddeploy:3.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rapiddeploy:3.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rapiddeploy:3.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rapiddeploy:3.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rapiddeploy:3.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rapiddeploy:4.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rapiddeploy:4.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rapiddeploy:4.2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rapiddeploy:4.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rapiddeploy:4.3:*:*:*:*:jenkins:*:*

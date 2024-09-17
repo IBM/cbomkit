@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/darrenhaken/node-pdf-generator
+  - pkg:npm/node-pdf-generator

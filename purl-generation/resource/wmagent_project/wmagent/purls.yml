@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dmwm/wmcore
+  - pkg:pypi/wmagent

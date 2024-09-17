@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/python-formencode
+  - pkg:deb/ubuntu/python-formencode
+  - pkg:github/formencode/formencode
+  - pkg:pypi/formencode
+  - pkg:rpm/fedora/python-formencode
+  - pkg:rpm/opensuse/python-formencode
+  - pkg:sourceforge/formencode

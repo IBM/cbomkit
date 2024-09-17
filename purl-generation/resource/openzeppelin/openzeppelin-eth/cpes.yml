@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:openzeppelin:openzeppelin-eth:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openzeppelin:openzeppelin-eth:2.0.0:*:*:*:node.js:*:*:*
+  - cpe:2.3:a:openzeppelin:openzeppelin-eth:*:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openzeppelin:openzeppelin-eth:*:*:*:*:node.js:*:*:*

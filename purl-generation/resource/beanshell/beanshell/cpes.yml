@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:beanshell:beanshell:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:beanshell:beanshell:2.0b5:*:*:*:*:*:*:*
+  - cpe:2.3:a:beanshell:beanshell:2.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:beanshell:beanshell:2.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:beanshell:beanshell:2.0:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:beanshell:beanshell:2.0:beta6:*:*:*:*:*:*

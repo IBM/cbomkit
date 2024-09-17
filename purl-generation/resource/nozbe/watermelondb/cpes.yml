@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:nozbe:watermelondb:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nozbe:watermelondb:0.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nozbe:watermelondb:0.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nozbe:watermelondb:0.16.1:*:*:*:*:*:*:*

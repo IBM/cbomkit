@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/linuxmint/pix
+  - pkg:rpm/opensuse/pix
+  - pkg:sourceforge/pix.mirror

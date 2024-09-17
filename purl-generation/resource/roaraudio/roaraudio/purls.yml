@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/roaraudio
+  - pkg:deb/ubuntu/roaraudio
+  - pkg:github/roaraudio/roaraudio
+  - pkg:rpm/opensuse/roaraudio

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/eherot/gnump3d
+  - pkg:gnu/gnump3d
+  - pkg:rpm/opensuse/gnump3d

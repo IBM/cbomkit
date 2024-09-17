@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/rtv
+  - pkg:deb/ubuntu/rtv
+  - pkg:github/aareon/rtv2
+  - pkg:github/michael-lazar/rtv
+  - pkg:pypi/rtv
+  - pkg:pypi/rtv2
+  - pkg:rpm/opensuse/rtv

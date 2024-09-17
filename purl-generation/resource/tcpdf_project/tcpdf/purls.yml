@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/eloomi/tcpdf
+  - pkg:deb/debian/tcpdf
+  - pkg:deb/ubuntu/tcpdf
+  - pkg:github/tecnickcom/tcpdf
+  - pkg:rpm/fedora/php-tcpdf
+  - pkg:sourceforge/tcpdf

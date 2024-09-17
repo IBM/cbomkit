@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/opennms/opennms
+  - pkg:maven/org.opennms/opennms

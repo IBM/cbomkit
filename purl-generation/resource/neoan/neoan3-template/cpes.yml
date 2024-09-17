@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:neoan:neoan3-template:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:neoan:neoan3-template:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:neoan:neoan3-template:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:neoan:neoan3-template:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:neoan:neoan3-template:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:neoan:neoan3-template:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:neoan:neoan3-template:1.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:neoan:neoan3-template:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:neoan:neoan3-template:1.1.1:*:*:*:*:*:*:*

@@ -1,0 +1,8 @@
+purls:
+  - pkg:Deb/debian/optipng
+  - pkg:deb/ubuntu/optipng
+  - pkg:github/countingpine/optipng
+  - pkg:github/johnpaulada/optipng
+  - pkg:rpm/Fedora/optipng
+  - pkg:rpm/opensuse/optipng
+  - pkg:sourceforge/optipng

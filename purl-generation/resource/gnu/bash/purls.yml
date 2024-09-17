@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/bash
+  - pkg:deb/ubuntu/bash
+  - pkg:github/bminor/bash
+  - pkg:github/gitgnu/gnu_bash
+  - pkg:gitlab/redhat/bash
+  - pkg:gnu/bash
+  - pkg:rpm/centos/bash
+  - pkg:rpm/fedora/bash
+  - pkg:rpm/opensuse/bash

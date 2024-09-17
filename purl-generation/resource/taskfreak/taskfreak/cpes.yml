@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:taskfreak:taskfreak:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:taskfreak:taskfreak:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:taskfreak:taskfreak:0.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:taskfreak:taskfreak:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:taskfreak:taskfreak:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:taskfreak:taskfreak:0.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:taskfreak:taskfreak:0.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:taskfreak:taskfreak:0.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:taskfreak:taskfreak:0.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:taskfreak:taskfreak:0.5.6:*:*:*:*:*:*:*

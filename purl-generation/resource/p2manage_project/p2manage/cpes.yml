@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:p2manage_project:p2manage:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:p2manage_project:p2manage:-:*:*:*:*:*:*:*

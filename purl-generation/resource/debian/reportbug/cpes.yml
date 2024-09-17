@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:debian:reportbug:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:reportbug:2.60:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:reportbug:2.61:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:reportbug:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:reportbug:6.4.4:*:*:*:*:*:*:*

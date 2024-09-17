@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:robo-tom_project:robo-tom:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:robo-tom_project:robo-tom:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:robo-tom_project:robo-tom:1.5:*:*:*:*:*:*:*

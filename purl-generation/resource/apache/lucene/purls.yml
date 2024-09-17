@@ -1,0 +1,6 @@
+purls:
+  - pkg:apache/lucene
+  - pkg:github/apache/lucene
+  - pkg:maven/org.apache.lucene/lucene-core
+  - pkg:rpm/opensuse/lucene
+  - pkg:rpm/opensuse/lucene-core

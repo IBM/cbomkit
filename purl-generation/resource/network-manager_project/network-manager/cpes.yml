@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:network-manager_project:network-manager:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:network-manager_project:network-manager:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:network-manager_project:network-manager:1.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:network-manager_project:network-manager:-:*:*:*:*:node.js:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mysticmetal/wp-appbox
+  - pkg:github/wp-plugins/wp-appbox
+  - pkg:github/wpplugins/wp-appbox

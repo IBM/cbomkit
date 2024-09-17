@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/graphicsmagick
+  - pkg:deb/ubuntu/graphicsmagick
+  - pkg:github/kstep/graphicsmagick
+  - pkg:rpm/fedora/graphicsmagick
+  - pkg:rpm/opensuse/graphicsmagick
+  - pkg:sourceforge/graphicsmagick

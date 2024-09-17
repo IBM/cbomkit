@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/nlnetlabs/krill
+  - pkg:github/nlnetlabs/krillmanager
+  - pkg:github/nlnetlabs/krill-manual
+  - pkg:github/nlnetlabs/krill-sync

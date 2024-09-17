@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/teamlinphone/libupnp
+  - pkg:deb/debian/libupnp
+  - pkg:deb/ubuntu/libupnp
+  - pkg:github/pupnp/pupnp
+  - pkg:rpm/fedora/libupnp
+  - pkg:rpm/opensuse/libupnp
+  - pkg:sourceforge/pupnp

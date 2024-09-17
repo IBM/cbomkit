@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/alfredbuehler/phpfreechat
+  - pkg:github/kerphi/phpfreechat
+  - pkg:sourceforge/phpfreechat

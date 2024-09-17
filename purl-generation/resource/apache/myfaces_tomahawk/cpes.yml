@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:apache:myfaces_tomahawk:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:myfaces_tomahawk:1.1.5:*:*:*:*:*:*:*

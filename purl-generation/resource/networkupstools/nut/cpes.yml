@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:networkupstools:nut:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:networkupstools:nut:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:networkupstools:nut:2.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:networkupstools:nut:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:networkupstools:nut:2.6.0-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:networkupstools:nut:2.6.0:pre1:*:*:*:*:*:*
+  - cpe:2.3:a:networkupstools:nut:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:networkupstools:nut:2.6.1-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:networkupstools:nut:2.6.3-1:*:*:*:*:*:*:*

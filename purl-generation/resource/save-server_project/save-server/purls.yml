@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/neztore/save-server
+  - pkg:npm/save-server

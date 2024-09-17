@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:ougc_feedback_project:ougc_feedback:1.8.19:*:*:*:*:mybb:*:*
+  - cpe:2.3:a:ougc_feedback_project:ougc_feedback:1.8.22:*:*:*:*:mybb:*:*
+  - cpe:2.3:a:ougc_feedback_project:ougc_feedback:1.8.23:*:*:*:*:mybb:*:*

@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/diamondobama/bootstrap-3-typeahead
+  - pkg:github/bassjobsen/bootstrap-3-typeahead
+  - pkg:maven/org.webjars.npm/bootstrap-3-typeahead
+  - pkg:npm/bootstrap-3-typeahead
+  - pkg:nuget/Bootstrap-3-Typeahead

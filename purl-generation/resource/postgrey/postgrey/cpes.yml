@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:postgrey:postgrey:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgrey:postgrey:1.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:postgrey:postgrey:1.18:*:*:*:*:*:*:*

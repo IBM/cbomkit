@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/paramiko/paramiko
+  - pkg:golang/github.com/paramiko/paramiko
+  - pkg:pypi/paramiko

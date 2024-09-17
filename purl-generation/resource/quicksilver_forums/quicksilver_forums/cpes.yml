@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:quicksilver_forums:quicksilver_forums:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:quicksilver_forums:quicksilver_forums:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:quicksilver_forums:quicksilver_forums:1.4.2:*:*:*:*:*:*:*

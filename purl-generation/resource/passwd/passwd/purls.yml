@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/passwdapp/passwd
+  - pkg:rpm/fedora/passwd

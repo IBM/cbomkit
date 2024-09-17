@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:opensrcsec:grsecurity:3.1-4.9.24-201704252333:*:*:*:official:*:*:*
+  - cpe:2.3:a:opensrcsec:grsecurity:3.1-4.9.8-201702060653:*:*:*:official:*:*:*
+  - cpe:2.3:a:opensrcsec:grsecurity:4.9.25:*:*:*:unofficial:*:*:*
+  - cpe:2.3:a:opensrcsec:grsecurity:4.9.74:*:*:*:unofficial:*:*:*
+  - cpe:2.3:a:opensrcsec:grsecurity:-:*:*:*:official:*:*:*
+  - cpe:2.3:a:opensrcsec:grsecurity:-:*:*:*:unofficial:*:*:*

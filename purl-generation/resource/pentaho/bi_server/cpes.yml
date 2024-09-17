@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:pentaho:bi_server:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pentaho:bi_server:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pentaho:bi_server:1.6.0:*:*:*:*:*:*:*

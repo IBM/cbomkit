@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/lostintime/osm-static-maps
+  - pkg:github/jperelli/osm-static-maps
+  - pkg:npm/osm-static-maps

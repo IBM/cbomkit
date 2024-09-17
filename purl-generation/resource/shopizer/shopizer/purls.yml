@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/shopizerecomm/shopizer
+  - pkg:github/shopizer-ecommerce/shopizer
+  - pkg:maven/com.shopizer/shopizer
+  - pkg:sourceforge/shopizer

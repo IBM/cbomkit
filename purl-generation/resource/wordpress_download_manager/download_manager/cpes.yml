@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:wordpress_download_manager:download_manager:3.2.42:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wordpress_download_manager:download_manager:3.2.50:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wordpress_download_manager:download_manager:*:*:*:*:*:wordpress:*:*

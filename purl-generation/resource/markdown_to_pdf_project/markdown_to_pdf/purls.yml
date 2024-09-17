@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/simonhaenisch/md-to-pdf
+  - pkg:npm/md-to-pdf

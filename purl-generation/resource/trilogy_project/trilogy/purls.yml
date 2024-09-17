@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/trilogy
+  - pkg:github/github/trilogy

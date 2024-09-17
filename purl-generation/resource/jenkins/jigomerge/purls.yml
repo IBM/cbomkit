@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/jigomerge-plugin
+  - pkg:github/vberetti/jigomerge-jenkins-plugin

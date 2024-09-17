@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:totaljs:messenger:1.0.1:commit__b6cf1c9:*:*:*:node.js:*:*
+  - cpe:2.3:a:totaljs:messenger:commit__b6cf1c9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:totaljs:messenger:-:*:*:*:*:node.js:*:*

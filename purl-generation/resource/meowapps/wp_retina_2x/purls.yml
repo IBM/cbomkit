@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/drewhammond/wp-retina-2x
+  - pkg:github/wp-plugins/wp-retina-2x
+  - pkg:github/wpplugins/wp-retina-2x

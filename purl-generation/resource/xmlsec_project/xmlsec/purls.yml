@@ -1,0 +1,9 @@
+purls:
+  - pkg:bitbucket/michael-kuk/xmlsec
+  - pkg:deb/debian/xmlsec1
+  - pkg:deb/ubuntu/xmlsec1
+  - pkg:github/lsh123/xmlsec
+  - pkg:gitlab/redhat/xmlsec1
+  - pkg:rpm/centos/xmlsec1
+  - pkg:rpm/fedora/xmlsec1
+  - pkg:rpm/opensuse/xmlsec1

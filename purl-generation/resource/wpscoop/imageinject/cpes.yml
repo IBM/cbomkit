@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:wpscoop:imageinject:0.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:0.30:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:0.31:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:0.40:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:0.41:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:0.50:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:0.51:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:0.52:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:0.53:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:1.00:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:1.01:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:1.02:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:1.03:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:1.04:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:1.05:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:1.06:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:1.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:1.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:1.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:1.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:1.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:1.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:1.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpscoop:imageinject:1.17:*:*:*:*:wordpress:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/sehmaschine/django-grappelli
+  - pkg:pypi/django-grappelli
+  - pkg:rpm/opensuse/python-django-grappelli

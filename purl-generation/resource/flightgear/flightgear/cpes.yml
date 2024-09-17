@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:flightgear:flightgear:1.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:flightgear:flightgear:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:flightgear:flightgear:2016.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:flightgear:flightgear:2016.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:flightgear:flightgear:2016.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:flightgear:flightgear:2016.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:flightgear:flightgear:2017.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:flightgear:flightgear:2017.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:flightgear:flightgear:2017.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:flightgear:flightgear:2017.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:flightgear:flightgear:2018.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:flightgear:flightgear:2018.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:flightgear:flightgear:2018.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:flightgear:flightgear:2019.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:flightgear:flightgear:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:flightgear:flightgear:2.6.0.1:*:*:*:*:*:*:*

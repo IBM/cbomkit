@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/alanshaw/markdown-pdf
+  - pkg:npm/markdown-pdf

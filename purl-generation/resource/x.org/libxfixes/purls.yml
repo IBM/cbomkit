@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libxfixes
+  - pkg:deb/ubuntu/libxfixes
+  - pkg:github/freedesktop/xorg-libxfixes
+  - pkg:github/neverware-mirrors/libxfixes
+  - pkg:rpm/centos/libxfixes
+  - pkg:rpm/fedora/libxfixes
+  - pkg:rpm/opensuse/libxfixes

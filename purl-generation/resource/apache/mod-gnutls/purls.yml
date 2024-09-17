@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/airtower-luna/mod_gnutls
+  - pkg:rpm/fedora/mod_gnutls
+  - pkg:rpm/opensuse/mod_gnutls
+  - pkg:sourceforge/mod-gnutls

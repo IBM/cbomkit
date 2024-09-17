@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/qyl2021/simiki
+  - pkg:github/tankywoo/simiki
+  - pkg:pypi/simiki

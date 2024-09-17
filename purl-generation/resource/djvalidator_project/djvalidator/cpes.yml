@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:djvalidator_project:djvalidator:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:djvalidator_project:djvalidator:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:djvalidator_project:djvalidator:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:djvalidator_project:djvalidator:1.1.1:*:*:*:*:*:*:*

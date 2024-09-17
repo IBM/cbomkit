@@ -1,0 +1,23 @@
+purls:
+  - pkg:github/c7/personnummer
+  - pkg:github/personnummer/bash
+  - pkg:github/personnummer/cpp
+  - pkg:github/personnummer/csharp
+  - pkg:github/personnummer/dart
+  - pkg:github/personnummer/elixir
+  - pkg:github/personnummer/go
+  - pkg:github/personnummer/java
+  - pkg:github/personnummer/js
+  - pkg:github/personnummer/kotlin
+  - pkg:github/personnummer/lua
+  - pkg:github/personnummer/perl
+  - pkg:github/personnummer/php
+  - pkg:github/personnummer/python
+  - pkg:github/personnummer/ruby
+  - pkg:github/personnummer/rust
+  - pkg:github/personnummer/scala
+  - pkg:github/personnummer/swift
+  - pkg:maven/dev.personnummer/personnummer
+  - pkg:npm/personnummer
+  - pkg:nuget/personnummer
+  - pkg:pypi/personnummer

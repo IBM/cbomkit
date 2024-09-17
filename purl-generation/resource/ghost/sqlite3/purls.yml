@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-sqlite3
+  - pkg:deb/ubuntu/node-sqlite3
+  - pkg:github/tryghost/node-sqlite3
+  - pkg:maven/org.webjars.npm/sqlite3
+  - pkg:npm/sqlite3
+  - pkg:sourceforge/sqlite3.mirror

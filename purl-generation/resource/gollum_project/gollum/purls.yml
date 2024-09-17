@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/gollum
+  - pkg:github/gollum/gollum
+  - pkg:rpm/opensuse/rubygem-gollum

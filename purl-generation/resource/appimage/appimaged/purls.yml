@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/appimage/appimaged
+  - pkg:rpm/opensuse/appimaged

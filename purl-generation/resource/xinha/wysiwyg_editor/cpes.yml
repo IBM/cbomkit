@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:xinha:wysiwyg_editor:0.91:beta:*:*:*:*:*:*
+  - cpe:2.3:a:xinha:wysiwyg_editor:0.92:beta:*:*:*:*:*:*
+  - cpe:2.3:a:xinha:wysiwyg_editor:0.93:*:*:*:*:*:*:*
+  - cpe:2.3:a:xinha:wysiwyg_editor:0.94:*:*:*:*:*:*:*
+  - cpe:2.3:a:xinha:wysiwyg_editor:0.95:*:*:*:*:*:*:*
+  - cpe:2.3:a:xinha:wysiwyg_editor:0.96:beta:*:*:*:*:*:*
+  - cpe:2.3:a:xinha:wysiwyg_editor:0.96:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:xinha:wysiwyg_editor:0.9:beta:*:*:*:*:*:*

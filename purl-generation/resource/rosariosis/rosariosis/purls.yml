@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/rosariosis/rosariosis
+  - pkg:github/francoisjacquet/rosariosis
+  - pkg:gitlab/francoisjacquet/rosariosis
+  - pkg:sourceforge/rosariosis

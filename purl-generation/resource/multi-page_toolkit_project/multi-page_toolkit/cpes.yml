@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:multi-page_toolkit_project:multi-page_toolkit:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multi-page_toolkit_project:multi-page_toolkit:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multi-page_toolkit_project:multi-page_toolkit:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multi-page_toolkit_project:multi-page_toolkit:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multi-page_toolkit_project:multi-page_toolkit:2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multi-page_toolkit_project:multi-page_toolkit:2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multi-page_toolkit_project:multi-page_toolkit:2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multi-page_toolkit_project:multi-page_toolkit:2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:multi-page_toolkit_project:multi-page_toolkit:-:*:*:*:*:wordpress:*:*

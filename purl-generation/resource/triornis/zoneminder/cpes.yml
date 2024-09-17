@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:triornis:zoneminder:1.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:triornis:zoneminder:1.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:triornis:zoneminder:1.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:triornis:zoneminder:1.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:triornis:zoneminder:1.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:triornis:zoneminder:1.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:triornis:zoneminder:1.19.1:*:*:*:*:*:*:*

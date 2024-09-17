@@ -1,0 +1,5 @@
+purls:
+  - pkg:cpan/apache-authenhook
+  - pkg:github/geoffrey-young/apache-authenhook
+  - pkg:github/geoffrey-young/apache-authenHook
+  - pkg:metacpan/apache-authenHook-2.00_04

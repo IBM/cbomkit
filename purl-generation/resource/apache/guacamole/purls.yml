@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/guacamole
+  - pkg:github/apache/guacamole-client
+  - pkg:maven/org.apache.guacamole/guacamole-common
+  - pkg:sourceforge/guacamole

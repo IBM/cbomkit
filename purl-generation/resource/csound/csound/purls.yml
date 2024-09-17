@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/csound
+  - pkg:deb/ubuntu/csound
+  - pkg:github/csound/csound
+  - pkg:rpm/fedora/csound
+  - pkg:rpm/opensuse/csound

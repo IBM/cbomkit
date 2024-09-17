@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/gmp
+  - pkg:deb/ubuntu/gmp
+  - pkg:github/alisw/gmp
+  - pkg:github/sethtroisi/libgmp
+  - pkg:gitlab/redhat/gmp
+  - pkg:rpm/centos/gmp
+  - pkg:rpm/fedora/gmp
+  - pkg:rpm/opensuse/gmp

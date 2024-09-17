@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/konitter/gulp-styledocco
+  - pkg:npm/gulp-styledocco

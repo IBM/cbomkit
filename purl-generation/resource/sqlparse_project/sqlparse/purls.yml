@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/andialbrecht/sqlparse
+  - pkg:golang/github.com/andialbrecht/sqlparse
+  - pkg:pypi/sqlparse

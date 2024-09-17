@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/boolector
+  - pkg:deb/ubuntu/boolector
+  - pkg:github/boolector/boolector
+  - pkg:pypi/pyboolector

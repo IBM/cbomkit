@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:pajbot_project:pajbot:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pajbot_project:pajbot:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:pajbot_project:pajbot:1.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:pajbot_project:pajbot:1.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:pajbot_project:pajbot:1.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:pajbot_project:pajbot:1.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:pajbot_project:pajbot:1.39:*:*:*:*:*:*:*
+  - cpe:2.3:a:pajbot_project:pajbot:1.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:pajbot_project:pajbot:1.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:pajbot_project:pajbot:1.42:*:*:*:*:*:*:*
+  - cpe:2.3:a:pajbot_project:pajbot:1.43:*:*:*:*:*:*:*
+  - cpe:2.3:a:pajbot_project:pajbot:1.44:*:*:*:*:*:*:*
+  - cpe:2.3:a:pajbot_project:pajbot:1.45:*:*:*:*:*:*:*
+  - cpe:2.3:a:pajbot_project:pajbot:1.46:*:*:*:*:*:*:*
+  - cpe:2.3:a:pajbot_project:pajbot:1.47:*:*:*:*:*:*:*
+  - cpe:2.3:a:pajbot_project:pajbot:1.48:*:*:*:*:*:*:*
+  - cpe:2.3:a:pajbot_project:pajbot:1.49:*:*:*:*:*:*:*
+  - cpe:2.3:a:pajbot_project:pajbot:1.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:pajbot_project:pajbot:1.51:*:*:*:*:*:*:*
+  - cpe:2.3:a:pajbot_project:pajbot:1.52:*:*:*:*:*:*:*

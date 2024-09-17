@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:rapid7:insightcloudsec:*:*:*:*:managed:*:*:*
+  - cpe:2.3:a:rapid7:insightcloudsec:*:*:*:*:saas:*:*:*

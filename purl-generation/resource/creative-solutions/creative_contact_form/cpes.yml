@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:creative-solutions:creative_contact_form:0.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:creative-solutions:creative_contact_form:0.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:creative-solutions:creative_contact_form:0.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:creative-solutions:creative_contact_form:0.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:creative-solutions:creative_contact_form:0.9.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:creative-solutions:creative_contact_form:0.9.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:creative-solutions:creative_contact_form:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:creative-solutions:creative_contact_form:2.0.1:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:creative-solutions:creative_contact_form:4.6.2:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:creative-solutions:creative_contact_form:-:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:creative-solutions:creative_contact_form:-:*:*:*:*:wordpress:*:*

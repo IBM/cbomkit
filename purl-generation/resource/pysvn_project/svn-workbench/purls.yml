@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/svn-workbench
+  - pkg:deb/ubuntu/svn-workbench
+  - pkg:sourceforge/pysvn

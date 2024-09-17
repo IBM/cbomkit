@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pediapress/pyfribidi
+  - pkg:pypi/pyfribidi

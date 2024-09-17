@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:browserify-hot_module_replacement_project:browserify-hot_module_replacement:0.3.1:*:*:*:*:browserify:*:*
+  - cpe:2.3:a:browserify-hot_module_replacement_project:browserify-hot_module_replacement:0.3.2:*:*:*:*:browserify:*:*
+  - cpe:2.3:a:browserify-hot_module_replacement_project:browserify-hot_module_replacement:0.3.3:*:*:*:*:browserify:*:*
+  - cpe:2.3:a:browserify-hot_module_replacement_project:browserify-hot_module_replacement:0.3.4:*:*:*:*:browserify:*:*
+  - cpe:2.3:a:browserify-hot_module_replacement_project:browserify-hot_module_replacement:0.3.5:*:*:*:*:browserify:*:*
+  - cpe:2.3:a:browserify-hot_module_replacement_project:browserify-hot_module_replacement:0.3.6:*:*:*:*:browserify:*:*
+  - cpe:2.3:a:browserify-hot_module_replacement_project:browserify-hot_module_replacement:0.3.7:*:*:*:*:browserify:*:*
+  - cpe:2.3:a:browserify-hot_module_replacement_project:browserify-hot_module_replacement:0.4.0:*:*:*:*:browserify:*:*
+  - cpe:2.3:a:browserify-hot_module_replacement_project:browserify-hot_module_replacement:0.4.1:*:*:*:*:browserify:*:*
+  - cpe:2.3:a:browserify-hot_module_replacement_project:browserify-hot_module_replacement:-:*:*:*:*:browserify:*:*

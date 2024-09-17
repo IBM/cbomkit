@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/pydio/cells
+  - pkg:github/pydio/cells
+  - pkg:sourceforge/ajaxplorer

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:octobot:octobot:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:octobot:octobot:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:octobot:octobot:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:octobot:octobot:0.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:octobot:octobot:0.4.4:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/locutusjs/locutus
+  - pkg:github/niklasvh/php.js
+  - pkg:npm/phpjs

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/ebtables
+  - pkg:deb/ubuntu/ebtables
+  - pkg:github/irgeek/ebtables
+  - pkg:rpm/centos/ebtables
+  - pkg:rpm/fedora/ebtables
+  - pkg:rpm/opensuse/ebtables
+  - pkg:sourceforge/ebtables

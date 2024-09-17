@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/influxdb
+  - pkg:deb/ubuntu/influxdb
+  - pkg:github/influxdata/influxdb
+  - pkg:rpm/opensuse/influxdb
+  - pkg:sourceforge/influxdb.mirror

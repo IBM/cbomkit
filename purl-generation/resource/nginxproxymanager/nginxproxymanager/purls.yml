@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/zoeyvid/nginx-proxy-manager
+  - pkg:github/nginxproxymanager/nginx-proxy-manager

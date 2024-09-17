@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/percona/percona-server
+  - pkg:github/percona/percona-server

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-requests-kerberos
+  - pkg:deb/ubuntu/python-requests-kerberos
+  - pkg:github/requests/requests-kerberos
+  - pkg:pypi/requests-kerberos
+  - pkg:rpm/fedora/python-requests-kerberos
+  - pkg:rpm/opensuse/python-requests-kerberos

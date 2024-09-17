@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:gnu:gnutls_libtasn1:4.10:*:*:*:*:*:*:*

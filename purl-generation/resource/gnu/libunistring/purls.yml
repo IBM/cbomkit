@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libunistring
+  - pkg:deb/ubuntu/libunistring
+  - pkg:github/distrotech/libunistring
+  - pkg:gnu/libunistring
+  - pkg:rpm/centos/libunistring
+  - pkg:rpm/fedora/libunistring
+  - pkg:rpm/opensuse/libunistring

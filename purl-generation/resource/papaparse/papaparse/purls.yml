@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/mholt/papaparse
+  - pkg:golang/github.com/mholt/papaparse
+  - pkg:maven/org.webjars.bowergithub.mholt/papaparse
+  - pkg:npm/papaparse

@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/fineract
+  - pkg:docker/apache/fineract
+  - pkg:github/apache/fineract
+  - pkg:maven/org.apache.

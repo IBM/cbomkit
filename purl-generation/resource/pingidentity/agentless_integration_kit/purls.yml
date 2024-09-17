@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/pingidentity/pf-agentless-ik-sample-java
+  - pkg:github/pingidentity/pf-agentless-ik-sample-php
+  - pkg:github/pingidentity/pf-agentless-ik-sample-python

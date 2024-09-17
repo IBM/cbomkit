@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/protobufjs/protobuf.js
+  - pkg:maven/org.webjars.npm/protobufjs
+  - pkg:npm/protobufjs

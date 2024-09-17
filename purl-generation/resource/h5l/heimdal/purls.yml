@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/heimdal/heimdal
+  - pkg:rpm/fedora/heimdal
+  - pkg:rpm/opensuse/heimdal

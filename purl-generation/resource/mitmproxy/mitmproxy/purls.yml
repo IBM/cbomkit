@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/mitmproxy
+  - pkg:deb/ubuntu/mitmproxy
+  - pkg:docker/mitmproxy/mitmproxy
+  - pkg:github/mitmproxy/mitmproxy
+  - pkg:gitlab/kalilinux/mitmproxy
+  - pkg:pypi/mitmproxy
+  - pkg:rpm/opensuse/python-mitmproxy
+  - pkg:sourceforge/mitmproxy.mirror

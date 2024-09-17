@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/davidwed/ultradefrag
+  - pkg:rpm/opensuse/ultradefrag
+  - pkg:sourceforge/ultradefrag

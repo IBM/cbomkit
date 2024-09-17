@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jenkins:google_calendar:0.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:google_calendar:0.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:google_calendar:0.4:*:*:*:*:jenkins:*:*

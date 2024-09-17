@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:ez:ez_publish-kernel:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ez:ez_publish-kernel:5.4.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ez:ez_publish-kernel:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ez:ez_publish-kernel:6.13.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ez:ez_publish-kernel:7.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ez:ez_publish-kernel:7.5.6.2:*:*:*:*:*:*:*

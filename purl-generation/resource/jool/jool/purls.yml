@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/jool
+  - pkg:deb/ubuntu/jool
+  - pkg:github/nicmx/jool
+  - pkg:rpm/opensuse/jool

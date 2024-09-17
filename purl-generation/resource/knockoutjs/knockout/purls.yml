@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-knockout
+  - pkg:deb/ubuntu/node-knockout
+  - pkg:github/knockout/knockout
+  - pkg:maven/org.webjars.npm/knockout
+  - pkg:npm/knockout
+  - pkg:nuget/knockoutjs

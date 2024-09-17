@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:paytium:paytium:4.3.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paytium:paytium:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paytium:paytium:-:*:*:*:*:wordpress:*:*

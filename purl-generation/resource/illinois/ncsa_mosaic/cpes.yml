@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:illinois:ncsa_mosaic:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:illinois:ncsa_mosaic:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:illinois:ncsa_mosaic:2.7:-:*:*:*:*:*:*
+  - cpe:2.3:a:illinois:ncsa_mosaic:2.7:b5:*:*:*:*:*:*

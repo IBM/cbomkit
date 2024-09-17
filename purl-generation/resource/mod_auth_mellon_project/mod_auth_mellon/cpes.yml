@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.10.0:*:*:*:*:apache:*:*
+  - cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.11.0:*:*:*:*:apache:*:*
+  - cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.11.1:*:*:*:*:apache:*:*
+  - cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.12.0:*:*:*:*:apache:*:*
+  - cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.13.0:*:*:*:*:apache:*:*
+  - cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.13.1:*:*:*:*:apache:*:*
+  - cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.14.0:*:*:*:*:apache:*:*
+  - cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.14.1:*:*:*:*:apache:*:*
+  - cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.14.2:*:*:*:*:apache:*:*
+  - cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.4.0:*:*:*:*:apache:*:*
+  - cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.5.0:*:*:*:*:apache:*:*
+  - cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.6.0:-:*:*:*:apache:*:*
+  - cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.6.0:rc1:*:*:*:apache:*:*
+  - cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.6.1:*:*:*:*:apache:*:*
+  - cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.7.0:*:*:*:*:apache:*:*
+  - cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.8.0:*:*:*:*:apache:*:*
+  - cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.8.1:*:*:*:*:apache:*:*
+  - cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.9.0:*:*:*:*:apache:*:*
+  - cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.9.1:*:*:*:*:apache:*:*

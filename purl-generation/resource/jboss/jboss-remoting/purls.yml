@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jboss-remoting/jboss-remoting
+  - pkg:maven/org.jboss.remoting/jboss-remoting

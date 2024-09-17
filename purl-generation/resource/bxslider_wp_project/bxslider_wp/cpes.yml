@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:bxslider_wp_project:bxslider_wp:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bxslider_wp_project:bxslider_wp:-:*:*:*:*:wordpress:*:*

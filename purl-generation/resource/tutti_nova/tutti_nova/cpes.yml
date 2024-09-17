@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:tutti_nova:tutti_nova:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:tutti_nova:tutti_nova:0.10_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:tutti_nova:tutti_nova:0.11_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:tutti_nova:tutti_nova:0.12_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:tutti_nova:tutti_nova:0.9.4:*:*:*:*:*:*:*

@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:kubernetes:aws-iam-authenticator:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:aws-iam-authenticator:0.1.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubernetes:aws-iam-authenticator:0.2.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubernetes:aws-iam-authenticator:0.3.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubernetes:aws-iam-authenticator:0.4.0:alpha1:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubernetes:aws-iam-authenticator:0.4.0:alpha3:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubernetes:aws-iam-authenticator:0.4.0:alpha:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubernetes:aws-iam-authenticator:0.4.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubernetes:aws-iam-authenticator:0.5.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubernetes:aws-iam-authenticator:0.5.1:alpha1:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubernetes:aws-iam-authenticator:0.5.1:-:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubernetes:aws-iam-authenticator:0.5.2:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubernetes:aws-iam-authenticator:0.5.3:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubernetes:aws-iam-authenticator:0.5.4:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubernetes:aws-iam-authenticator:0.5.5:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubernetes:aws-iam-authenticator:0.5.6:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubernetes:aws-iam-authenticator:0.5.7:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubernetes:aws-iam-authenticator:0.5.8:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:kubernetes:aws-iam-authenticator:0.5.9:*:*:*:*:kubernetes:*:*

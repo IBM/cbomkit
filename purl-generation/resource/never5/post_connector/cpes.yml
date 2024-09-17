@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:never5:post_connector:1.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:never5:post_connector:1.0.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:never5:post_connector:-:*:*:*:*:wordpress:*:*

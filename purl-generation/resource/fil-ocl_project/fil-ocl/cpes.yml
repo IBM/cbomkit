@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:fil-ocl_project:fil-ocl:0.10.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:fil-ocl_project:fil-ocl:0.11.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:fil-ocl_project:fil-ocl:0.12.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:fil-ocl_project:fil-ocl:0.13.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:fil-ocl_project:fil-ocl:0.13.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:fil-ocl_project:fil-ocl:0.14.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:fil-ocl_project:fil-ocl:0.15.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:fil-ocl_project:fil-ocl:0.16.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:fil-ocl_project:fil-ocl:0.17.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:fil-ocl_project:fil-ocl:0.18.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:fil-ocl_project:fil-ocl:0.19.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:fil-ocl_project:fil-ocl:0.19.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:fil-ocl_project:fil-ocl:0.19.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:fil-ocl_project:fil-ocl:0.19.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:fil-ocl_project:fil-ocl:0.19.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:fil-ocl_project:fil-ocl:0.5.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:fil-ocl_project:fil-ocl:0.6.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:fil-ocl_project:fil-ocl:0.7.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:fil-ocl_project:fil-ocl:0.8.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:fil-ocl_project:fil-ocl:0.9.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:fil-ocl_project:fil-ocl:-:*:*:*:*:rust:*:*

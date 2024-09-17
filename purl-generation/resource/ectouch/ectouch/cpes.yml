@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:ectouch:ectouch:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ectouch:ectouch:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ectouch:ectouch:2.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ectouch:ectouch:2.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ectouch:ectouch:3.0:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/qiita-markdown
+  - pkg:github/increments/qiita-markdown

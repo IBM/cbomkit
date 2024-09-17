@@ -1,0 +1,3 @@
+purls:
+  - 'pkg:github/joostdekeijzer/mw-oauth2-client-extension '
+  - pkg:github/schine/schine/mw-oauth2client

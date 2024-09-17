@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/neon27
+  - pkg:deb/ubuntu/neon27
+  - pkg:github/notroj/neon
+  - pkg:gitlab/redhat/neon
+  - pkg:rpm/centos/neon
+  - pkg:rpm/fedora/neon
+  - pkg:rpm/opensuse/neon

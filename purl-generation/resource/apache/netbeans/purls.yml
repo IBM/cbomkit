@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/netbeans
+  - pkg:deb/debian/netbeans
+  - pkg:deb/ubuntu/netbeans
+  - pkg:github/apache/netbeans

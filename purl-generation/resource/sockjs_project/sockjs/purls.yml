@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/sockjs-client
+  - pkg:deb/ubuntu/sockjs-client
+  - pkg:github/sockjs/sockjs-client
+  - pkg:maven/org.webjars.npm/sockjs-client
+  - pkg:npm/sockjs-client
+  - pkg:sourceforge/sockjs-client.mirror

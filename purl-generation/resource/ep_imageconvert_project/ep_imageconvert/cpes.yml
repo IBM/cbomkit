@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:ep_imageconvert_project:ep_imageconvert:0.0.1:*:*:*:*:etherpad:*:*
+  - cpe:2.3:a:ep_imageconvert_project:ep_imageconvert:0.0.2:*:*:*:*:etherpad:*:*
+  - cpe:2.3:a:ep_imageconvert_project:ep_imageconvert:0.0.3:*:*:*:*:etherpad:*:*
+  - cpe:2.3:a:ep_imageconvert_project:ep_imageconvert:0.0.4:*:*:*:*:etherpad:*:*

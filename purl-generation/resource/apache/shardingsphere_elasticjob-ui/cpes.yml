@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:apache:shardingsphere_elasticjob-ui:3.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:shardingsphere_elasticjob-ui:3.0.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:apache:shardingsphere_elasticjob-ui:3.0.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:apache:shardingsphere_elasticjob-ui:3.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:shardingsphere_elasticjob-ui:3.0.1:*:*:*:*:*:*:*

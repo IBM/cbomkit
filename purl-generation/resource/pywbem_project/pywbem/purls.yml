@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-pywbem
+  - pkg:deb/ubuntu/python-pywbem
+  - pkg:github/pywbem/pywbem
+  - pkg:pypi/pywbem
+  - pkg:rpm/fedora/pywbem
+  - pkg:rpm/opensuse/python-pywbem

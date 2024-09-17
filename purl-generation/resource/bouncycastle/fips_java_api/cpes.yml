@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:bouncycastle:fips_java_api:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:fips_java_api:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:fips_java_api:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:fips_java_api:1.0.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:fips_java_api:1.0.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:bouncycastle:fips_java_api:1.1.0:*:*:*:*:*:*:*

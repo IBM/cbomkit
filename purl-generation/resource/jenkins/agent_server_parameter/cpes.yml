@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jenkins:agent_server_parameter:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:agent_server_parameter:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:agent_server_parameter:-:*:*:*:*:jenkins:*:*

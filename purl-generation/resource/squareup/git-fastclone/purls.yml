@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/git-fastclone
+  - pkg:github/square/git-fastclone

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/indexzero/timespan.js
+  - pkg:github/mstum/timespan.js
+  - pkg:npm/timespan

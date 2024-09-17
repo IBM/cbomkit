@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/dbeaver/dbeaver
+  - pkg:rpm/opensuse/dbeaver
+  - pkg:sourceforge/dbeaver.mirror

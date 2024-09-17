@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:potrace_project:potrace:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:potrace_project:potrace:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:potrace_project:potrace:1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:potrace_project:potrace:1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:potrace_project:potrace:1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:potrace_project:potrace:1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:potrace_project:potrace:1.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:potrace_project:potrace:1.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:potrace_project:potrace:1.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:potrace_project:potrace:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:potrace_project:potrace:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:potrace_project:potrace:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:potrace_project:potrace:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:potrace_project:potrace:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:potrace_project:potrace:1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:potrace_project:potrace:1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:potrace_project:potrace:1.9:*:*:*:*:*:*:*

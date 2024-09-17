@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/hadoop
+  - pkg:github/apache/hadoop
+  - pkg:rpm/fedora/hadoop
+  - pkg:rpm/opensuse/hadoop

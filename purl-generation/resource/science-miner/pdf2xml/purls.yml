@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/eliask/pdf2xml
+  - pkg:github/kermitt2/pdf2xml
+  - pkg:sourceforge/pdf2xml

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/opensuse/obs-service-tar-scm
+  - pkg:rpm/fedora/obs-service-tar_scm
+  - pkg:rpm/opensuse/obs-service-tar_scm

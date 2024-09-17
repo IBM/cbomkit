@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/ikiwiki
+  - pkg:deb/ubuntu/ikiwiki
+  - pkg:github/arpitjain11/ikiwiki
+  - pkg:github/nighttsarina/ikiwiki
+  - pkg:gitlab/techcultivation/wiki
+  - pkg:rpm/fedora/ikiwiki
+  - pkg:rpm/opensuse/ikiwiki

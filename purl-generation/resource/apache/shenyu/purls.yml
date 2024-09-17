@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/shenyu
+  - pkg:github/apache/incubator-shenyu
+  - pkg:maven/org.apache.shenyu/shenyu

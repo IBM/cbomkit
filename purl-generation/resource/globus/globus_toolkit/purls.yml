@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/globus/globus-toolkit
+  - pkg:rpm/opensuse/globus-toolkit

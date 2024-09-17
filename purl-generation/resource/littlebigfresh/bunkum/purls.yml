@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/littlebigrefresh/bunkum
+  - pkg:nuget/bunkum

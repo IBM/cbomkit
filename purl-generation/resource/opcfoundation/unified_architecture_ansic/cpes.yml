@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:opcfoundation:unified_architecture_ansic:1.03.340:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:unified_architecture_ansic:1.03.341:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:unified_architecture_ansic:1.04.342:*:*:*:*:*:*:*

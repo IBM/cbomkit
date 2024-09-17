@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:opcfoundation:ua-java:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:ua-java:1.02.337.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:ua-java:1.03.340.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:ua-java:1.03.342.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:ua-java:1.3.343:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:ua-java:1.3.344:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:ua-java:1.3.345:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:ua-java:1.3.346:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:ua-java:2022-04-01:*:*:*:*:*:*:*

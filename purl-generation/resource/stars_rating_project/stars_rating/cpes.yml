@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:stars_rating_project:stars_rating:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stars_rating_project:stars_rating:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stars_rating_project:stars_rating:1.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stars_rating_project:stars_rating:1.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stars_rating_project:stars_rating:1.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stars_rating_project:stars_rating:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stars_rating_project:stars_rating:3.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stars_rating_project:stars_rating:3.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stars_rating_project:stars_rating:3.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stars_rating_project:stars_rating:3.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stars_rating_project:stars_rating:3.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stars_rating_project:stars_rating:3.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stars_rating_project:stars_rating:3.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stars_rating_project:stars_rating:3.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:stars_rating_project:stars_rating:-:*:*:*:*:wordpress:*:*

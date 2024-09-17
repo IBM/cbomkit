@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/neo4j/neo4j
+  - pkg:maven/org.neo4j/neo4j

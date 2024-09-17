@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/postfix-gld
+  - pkg:deb/ubuntu/postfix-gld
+  - pkg:github/himred/gld
+  - pkg:rpm/opensuse/gld

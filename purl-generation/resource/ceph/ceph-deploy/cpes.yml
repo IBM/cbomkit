@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:ceph:ceph-deploy:1.5.22:*:*:*:*:*:*:*

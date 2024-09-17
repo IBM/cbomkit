@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/cskaza/cszcms
+  - pkg:github/cskaza/cszcms
+  - pkg:github/jitrawan/cszcms

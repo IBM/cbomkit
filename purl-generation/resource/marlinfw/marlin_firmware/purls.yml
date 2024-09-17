@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/marlinfirmware/marlin
+  - pkg:gitlab/toolboxbodensee/marlin
+  - pkg:sourceforge/marlin.mirror

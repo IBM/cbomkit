@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/kunaltyagi/lastfm-desktop
+  - pkg:github/dougma/lastfm-desktop
+  - pkg:github/eartle/lastfm-desktop
+  - pkg:github/jonocole/lastfm-desktop
+  - pkg:github/lastfm/lastfm-desktop

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libcap-ng
+  - pkg:deb/ubuntu/libcap-ng
+  - pkg:github/stevegrubb/libcap-ng
+  - pkg:gitlab/redhat/libcap-ng
+  - pkg:rpm/centos/libcap-ng
+  - pkg:rpm/fedora/libcap-ng
+  - pkg:rpm/opensuse/libcap-ng

@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:symfony:ux_autocomplete:2.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:symfony:ux_autocomplete:2.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:symfony:ux_autocomplete:2.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:symfony:ux_autocomplete:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:symfony:ux_autocomplete:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:symfony:ux_autocomplete:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:symfony:ux_autocomplete:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:symfony:ux_autocomplete:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:symfony:ux_autocomplete:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:symfony:ux_autocomplete:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:symfony:ux_autocomplete:2.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:symfony:ux_autocomplete:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:symfony:ux_autocomplete:2.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:symfony:ux_autocomplete:2.9.1:*:*:*:*:*:*:*

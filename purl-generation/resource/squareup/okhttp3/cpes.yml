@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:squareup:okhttp3:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:squareup:okhttp3:3.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:squareup:okhttp3:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:squareup:okhttp3:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:squareup:okhttp3:3.1.1:*:*:*:*:*:*:*

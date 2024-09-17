@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:linux-cmdline_project:linux-cmdline:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux-cmdline_project:linux-cmdline:1.0.1:*:*:*:*:*:*:*

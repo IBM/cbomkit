@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/jquery/jquery-ui
+  - pkg:maven/org.webjars.npm/jquery-ui
+  - pkg:npm/jquery-ui
+  - pkg:rpm/fedora/js-jquery-ui

@@ -1,0 +1,2 @@
+purls:
+  - pkg:github/kubernetes-sigs/aws-efs-csi-driver

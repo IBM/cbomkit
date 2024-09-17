@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:skbuff:iputils:20020927:*:*:*:*:*:*:*
+  - cpe:2.3:a:skbuff:iputils:20070202:*:*:*:*:*:*:*
+  - cpe:2.3:a:skbuff:iputils:20071127:*:*:*:*:*:*:*
+  - cpe:2.3:a:skbuff:iputils:20100214:*:*:*:*:*:*:*

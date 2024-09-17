@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:getcockpit:cockpit:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:getcockpit:cockpit:0.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getcockpit:cockpit:0.5.5:*:*:*:*:*:*:*

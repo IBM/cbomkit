@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:libsbml_project:libsbml:0.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:libsbml_project:libsbml:0.0.2:*:*:*:*:node.js:*:*

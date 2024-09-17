@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/safemode
+  - pkg:github/svenfuchs/safemode
+  - pkg:rpm/opensuse/rubygem-safemode

@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:freedesktop:xdg-utils:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:xdg-utils:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:xdg-utils:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:xdg-utils:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:xdg-utils:1.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:xdg-utils:1.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:xdg-utils:1.1.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:xdg-utils:1.1.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:xdg-utils:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:xdg-utils:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:xdg-utils:1.1.3:*:*:*:*:*:*:*

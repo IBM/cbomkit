@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/synapse
+  - pkg:github/apache/synapse
+  - pkg:maven/org.apache.synapse/synapse

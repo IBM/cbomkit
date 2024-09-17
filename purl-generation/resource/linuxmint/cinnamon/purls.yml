@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/cinnamon
+  - pkg:deb/ubuntu/cinnamon
+  - pkg:github/linuxmint/cinnamon
+  - pkg:rpm/fedora/cinnamon
+  - pkg:rpm/opensuse/cinnamon

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/poezio
+  - pkg:deb/ubuntu/poezio
+  - pkg:docker/poezio/poezio
+  - pkg:github/poezio/poezio
+  - pkg:pypi/poezio
+  - pkg:rpm/fedora/poezio
+  - pkg:rpm/opensuse/poezio

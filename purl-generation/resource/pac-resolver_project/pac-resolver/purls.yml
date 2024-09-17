@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/tootallnate/node-pac-resolver
+  - pkg:maven/org.webjars.npm/pac-resolver
+  - pkg:npm/pac-resolver

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openshift/source-to-image
+  - pkg:rpm/fedora/source-to-image

@@ -1,0 +1,9 @@
+purls:
+  - pkg:github/node-browser-compat/atob
+  - pkg:maven/org.webjars.bowergithub.node-browser-compat/atob
+  - pkg:maven/org.webjars.npm/atob
+  - pkg:maven/org.webjars.npm/git-coolaj86-com-coolaj86-atob-js
+  - pkg:maven/org.webjars.npm/github-com-node-browser-compat-atob
+  - pkg:npm/atob
+  - pkg:rpm/fedora/nodejs-atob
+  - pkg:rpm/opensuse/nodejs-atob

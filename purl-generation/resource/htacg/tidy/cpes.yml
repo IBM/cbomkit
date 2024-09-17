@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:htacg:tidy:4.9.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:htacg:tidy:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:htacg:tidy:5.1.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:htacg:tidy:5.1.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:htacg:tidy:5.1.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:htacg:tidy:5.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:htacg:tidy:5.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:htacg:tidy:5.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:htacg:tidy:5.5.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:htacg:tidy:5.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:htacg:tidy:5.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:htacg:tidy:5.7.28:*:*:*:*:*:*:*

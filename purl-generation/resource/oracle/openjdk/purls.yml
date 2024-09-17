@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/openjdk/jdk
+  - pkg:openjdk.java/jdk
+  - pkg:rpm/fedora/java-1.6.0-openjdk
+  - pkg:rpm/opensuse/java-1.6.0-openjdk

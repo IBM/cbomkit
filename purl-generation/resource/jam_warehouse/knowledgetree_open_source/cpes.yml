@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:jam_warehouse:knowledgetree_open_source:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:jam_warehouse:knowledgetree_open_source:3.7.0.2:*:*:*:*:*:*:*

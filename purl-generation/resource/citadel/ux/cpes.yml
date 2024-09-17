@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:citadel:ux:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:ux:5.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:ux:5.91:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:ux:6.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:ux:6.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:ux:6.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:ux:6.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:ux:6.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:ux:6.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:citadel:ux:6.27:*:*:*:*:*:*:*

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ncmpc
+  - pkg:deb/ubuntu/ncmpc
+  - pkg:github/musicplayerdaemon/ncmpc
+  - pkg:rpm/fedora/ncmpc
+  - pkg:rpm/opensuse/ncmpc

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/xemacs21
+  - pkg:deb/ubuntu/xemacs21
+  - pkg:rpm/fedora/xemacs
+  - pkg:rpm/opensuse/xemacs

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/dbus-broker
+  - pkg:deb/ubuntu/dbus-broker
+  - pkg:github/bus1/dbus-broker
+  - pkg:rpm/fedora/dbus-broker
+  - pkg:rpm/opensuse/dbus-broker

@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:jeremy_massel:underconstruction:1.01:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jeremy_massel:underconstruction:1.02:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jeremy_massel:underconstruction:1.03:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jeremy_massel:underconstruction:1.04:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jeremy_massel:underconstruction:1.05:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jeremy_massel:underconstruction:1.06:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jeremy_massel:underconstruction:1.07:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jeremy_massel:underconstruction:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jeremy_massel:underconstruction:*:*:*:*:*:wordpress:*:*

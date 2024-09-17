@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:mirumee:saleor:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mirumee:saleor:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mirumee:saleor:2.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mirumee:saleor:2.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mirumee:saleor:2.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mirumee:saleor:2.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mirumee:saleor:2.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mirumee:saleor:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mirumee:saleor:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mirumee:saleor:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mirumee:saleor:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mirumee:saleor:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mirumee:saleor:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mirumee:saleor:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mirumee:saleor:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mirumee:saleor:2.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mirumee:saleor:2.9.1:*:*:*:*:*:*:*

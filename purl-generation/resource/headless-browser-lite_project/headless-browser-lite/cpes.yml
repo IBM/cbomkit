@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:headless-browser-lite_project:headless-browser-lite:2014.10.31-11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:headless-browser-lite_project:headless-browser-lite:2014.9.20-11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:headless-browser-lite_project:headless-browser-lite:2014.9.20-12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:headless-browser-lite_project:headless-browser-lite:2014.9.20-13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:headless-browser-lite_project:headless-browser-lite:2014.9.20-14:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:headless-browser-lite_project:headless-browser-lite:2014.9.20-15:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:headless-browser-lite_project:headless-browser-lite:2014.9.20-16:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:headless-browser-lite_project:headless-browser-lite:2015.4.18-a:*:*:*:*:node.js:*:*

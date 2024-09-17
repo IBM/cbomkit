@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/python-rencode
+  - pkg:deb/ubuntu/python-rencode
+  - pkg:github/aresch/rencode
+  - pkg:nuget/rencode-sharp
+  - pkg:pypi/rencode
+  - pkg:rpm/fedora/python-rencode
+  - pkg:rpm/opensuse/python-rencode

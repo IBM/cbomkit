@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/sodabrew/libsieve
+  - pkg:rpm/opensuse/libsieve
+  - pkg:sourceforge/libsieve

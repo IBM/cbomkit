@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:jenkins:random_string_parameter:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:random_string_parameter:-:*:*:*:*:jenkins:*:*

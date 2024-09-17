@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/gpsd
+  - pkg:deb/ubuntu/gpsd
+  - pkg:github/bzed/gpsd-mirror
+  - pkg:github/ntpsec/gpsd
+  - pkg:github/ukyg9e5r6k7gubiekd6/gpsd
+  - pkg:gitlab/gpsd/gpsd
+  - pkg:gnu/gpsd
+  - pkg:rpm/fedora/gpsd
+  - pkg:rpm/opensuse/gpsd

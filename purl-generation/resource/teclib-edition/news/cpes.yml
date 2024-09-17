@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:teclib-edition:news:0.84-1.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:news:0.90-1.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:news:0.90-1.3.1:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:news:0.90-1.3:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:news:1.3.2.1:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:news:1.3.2.2:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:news:1.3.2.3:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:news:1.3.2.4:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:news:1.3.2.5:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:news:1.3.2:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:news:1.3.3:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:news:1.3.4:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:news:1.3.5:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:news:1.4.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:news:1.4.1:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:news:1.4.2:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:news:1.5.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:news:1.5.1:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:news:1.5.2:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:news:1.5.3:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:news:1.5.4:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:news:1.6.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:news:1.7.0:*:*:*:*:glpi:*:*

@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:ec-cube:e-mail_newsletter_management:0.0.1:*:*:*:*:ec-cube:*:*
+  - cpe:2.3:a:ec-cube:e-mail_newsletter_management:0.0.2:*:*:*:*:ec-cube:*:*
+  - cpe:2.3:a:ec-cube:e-mail_newsletter_management:0.0.3:*:*:*:*:ec-cube:*:*
+  - cpe:2.3:a:ec-cube:e-mail_newsletter_management:1.0.0:*:*:*:*:ec-cube:*:*
+  - cpe:2.3:a:ec-cube:e-mail_newsletter_management:1.0.1:*:*:*:*:ec-cube:*:*
+  - cpe:2.3:a:ec-cube:e-mail_newsletter_management:1.0.3:*:*:*:*:ec-cube:*:*
+  - cpe:2.3:a:ec-cube:e-mail_newsletter_management:1.0.4:*:*:*:*:ec-cube:*:*
+  - cpe:2.3:a:ec-cube:e-mail_newsletter_management:4.0.0:*:*:*:*:ec-cube:*:*
+  - cpe:2.3:a:ec-cube:e-mail_newsletter_management:4.0.1:*:*:*:*:ec-cube:*:*
+  - cpe:2.3:a:ec-cube:e-mail_newsletter_management:4.1.0:*:*:*:*:ec-cube:*:*
+  - cpe:2.3:a:ec-cube:e-mail_newsletter_management:4.1.1:*:*:*:*:ec-cube:*:*

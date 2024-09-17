@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:phoeniixx:filter_portfolio_gallery:1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:phoeniixx:filter_portfolio_gallery:-:*:*:*:*:wordpress:*:*

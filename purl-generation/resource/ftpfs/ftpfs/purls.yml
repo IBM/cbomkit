@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/defiant-labs/ftpfs-linux
+  - pkg:github/melodiadev/ftpfs
+  - pkg:github/mniec/ftpfs

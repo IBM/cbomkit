@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/emercoin/emercoin
+  - pkg:github/evgenijm86/emercoin
+  - pkg:github/peercoin/peercoin
+  - pkg:sourceforge/emercoin

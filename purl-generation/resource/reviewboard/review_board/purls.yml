@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/reviewboard/reviewboard
+  - pkg:pypi/reviewboard
+  - pkg:rpm/fedora/reviewboard
+  - pkg:rpm/opensuse/python-reviewboard
+  - pkg:sourceforge/review-board

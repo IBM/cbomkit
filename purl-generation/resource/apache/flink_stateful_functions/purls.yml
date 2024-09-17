@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/flink-statefun
+  - pkg:docker/apache/flink-statefun
+  - pkg:github/apache/flink-statefun
+  - pkg:maven/org.apache.flink/statefun-flink
+  - pkg:npm/apache-flink-statefun
+  - pkg:pypi/apache-flink-statefun

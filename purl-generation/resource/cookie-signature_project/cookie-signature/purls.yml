@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/node-cookie-signature
+  - pkg:deb/ubuntu/node-cookie-signature
+  - pkg:github/tj/node-cookie-signature
+  - pkg:maven/org.webjars.npm/cookie-signature
+  - pkg:npm/cookie-signature
+  - pkg:rpm/fedora/nodejs-cookie-signature
+  - pkg:rpm/opensuse/nodejs-cookie-signature

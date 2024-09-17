@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:truzone:nuke_et:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:truzone:nuke_et:3.4:*:*:*:*:*:*:*

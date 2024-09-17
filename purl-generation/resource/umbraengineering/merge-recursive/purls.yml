@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/umbraengineering/node-merge-recursive
+  - pkg:npm/merge-recursive

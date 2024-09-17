@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/thehiveproject/thehive
+  - pkg:github/thehive-project/thehive

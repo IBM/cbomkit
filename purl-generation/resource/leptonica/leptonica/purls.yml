@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/danbloomberg/leptonica
+  - pkg:gitlab/redhat/leptonica
+  - pkg:rpm/centos/leptonica
+  - pkg:rpm/fedora/leptonica
+  - pkg:rpm/opensuse/leptonica

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:adtensor_project:adtensor:0.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:adtensor_project:adtensor:0.0.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:adtensor_project:adtensor:0.0.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:adtensor_project:adtensor:2021-01-11:*:*:*:*:rust:*:*
+  - cpe:2.3:a:adtensor_project:adtensor:-:*:*:*:*:rust:*:*

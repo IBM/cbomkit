@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/youseries/ureport
+  - pkg:maven/com.bstek.ureport/ureport2-core

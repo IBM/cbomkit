@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-websockets
+  - pkg:deb/ubuntu/python-websockets
+  - pkg:github/aaugustin/websockets
+  - pkg:pypi/websockets
+  - pkg:rpm/fedora/python-websockets
+  - pkg:rpm/opensuse/python-websockets

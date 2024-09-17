@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/livy
+  - pkg:github/apache/incubator-livy
+  - pkg:maven/org.apache.livy/livy-core-parent

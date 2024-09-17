@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:nooz_project:nooz:1.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nooz_project:nooz:1.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nooz_project:nooz:1.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nooz_project:nooz:1.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:nooz_project:nooz:-:*:*:*:*:wordpress:*:*

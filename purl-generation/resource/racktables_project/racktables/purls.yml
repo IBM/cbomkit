@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/racktables/racktables
+  - pkg:rpm/opensuse/racktables
+  - pkg:sourceforge/racktables

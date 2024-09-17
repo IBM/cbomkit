@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-pdf
+  - pkg:deb/ubuntu/php-horde-pdf
+  - pkg:github/horde/pdf
+  - pkg:rpm/fedora/php-horde-horde-pdf

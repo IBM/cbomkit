@@ -1,0 +1,10 @@
+purls:
+  - pkg:cpan/exiftool
+  - pkg:deb/debian/libimage-exiftool-perl
+  - pkg:deb/ubuntu/libimage-exiftool-perl
+  - pkg:github/exiftool/exiftool
+  - pkg:gitlab/gitlab-org/exiftool
+  - pkg:rpm/fedora/perl-image-exiftool
+  - pkg:rpm/opensuse/exiftool
+  - pkg:rpm/opensuse/perl-image-exiftool
+  - pkg:sourceforge/exiftool

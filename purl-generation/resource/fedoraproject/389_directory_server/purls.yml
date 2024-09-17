@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/389-ds-base
+  - pkg:deb/ubuntu/389-ds-base
+  - pkg:github/389ds/389-ds-base
+  - pkg:gitlab/redhat/389-ds-base
+  - pkg:port389/389ds
+  - pkg:rpm/fedora/389-ds-base
+  - pkg:rpm/opensuse/389-ds-base

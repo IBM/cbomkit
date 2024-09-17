@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:eclipse:lyo:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:lyo:4.1.0:*:*:*:*:*:*:*

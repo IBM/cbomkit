@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/spiderlabs/modsecurity
+  - pkg:rpm/opensuse/modsecurity
+  - pkg:sourceforge/mod-security

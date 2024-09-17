@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/node-request
+  - pkg:deb/ubuntu/node-request
+  - pkg:github/request/request
+  - pkg:npm/request

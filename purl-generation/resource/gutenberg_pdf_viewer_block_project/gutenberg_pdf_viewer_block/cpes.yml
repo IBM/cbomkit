@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:gutenberg_pdf_viewer_block_project:gutenberg_pdf_viewer_block:0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gutenberg_pdf_viewer_block_project:gutenberg_pdf_viewer_block:0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gutenberg_pdf_viewer_block_project:gutenberg_pdf_viewer_block:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gutenberg_pdf_viewer_block_project:gutenberg_pdf_viewer_block:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gutenberg_pdf_viewer_block_project:gutenberg_pdf_viewer_block:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gutenberg_pdf_viewer_block_project:gutenberg_pdf_viewer_block:-:*:*:*:*:wordpress:*:*

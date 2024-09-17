@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:elastic:elastic_apm_server:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_apm_server:8.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:elastic:elastic_apm_server:8.9.2:*:*:*:*:*:*:*

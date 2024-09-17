@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:mysqljs_project:mysqljs:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mysqljs_project:mysqljs:1.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mysqljs_project:mysqljs:-:*:*:*:*:node.js:*:*

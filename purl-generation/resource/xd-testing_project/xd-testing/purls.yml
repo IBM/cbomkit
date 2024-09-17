@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/spiegelm/xd-testing
+  - pkg:npm/xd-testing

@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:wpchill:mashshare:3.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:mashshare:3.6.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:mashshare:3.6.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:mashshare:3.6.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:mashshare:3.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:mashshare:3.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:mashshare:3.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:mashshare:3.7.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:mashshare:3.7.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:mashshare:3.7.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:mashshare:3.7.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:mashshare:3.7.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:mashshare:3.7.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:mashshare:3.7.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:mashshare:3.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:mashshare:3.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:mashshare:3.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:mashshare:3.8.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:mashshare:3.8.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:mashshare:3.8.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:mashshare:3.8.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:mashshare:-:*:*:*:*:wordpress:*:*

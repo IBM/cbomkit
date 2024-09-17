@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:nextendweb:smart_slider:*:*:*:*:free:wordpress:*:*
+  - cpe:2.3:a:nextendweb:smart_slider:*:*:*:*:pro:wordpress:*:*

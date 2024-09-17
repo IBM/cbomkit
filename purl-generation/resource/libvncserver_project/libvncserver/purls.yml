@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/libvnc/libvncserver
+  - pkg:rpm/centos/libvncserver
+  - pkg:rpm/fedora/libvncserver
+  - pkg:rpm/opensuse/libvncserver
+  - pkg:sourceforge/libvncserver

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:solana:rbpf:0.2.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:solana:rbpf:0.2.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:solana:rbpf:0.2.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:solana:rbpf:0.2.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:solana:rbpf:0.2.27:*:*:*:*:*:*:*

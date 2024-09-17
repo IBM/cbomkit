@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:phpminiadmin_project:phpminiadmin:1.7.110429:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpminiadmin_project:phpminiadmin:1.7.111025:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpminiadmin_project:phpminiadmin:1.8.120510:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpminiadmin_project:phpminiadmin:1.9.140405:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpminiadmin_project:phpminiadmin:1.9.141219:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpminiadmin_project:phpminiadmin:1.9.150108:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpminiadmin_project:phpminiadmin:1.9.150729:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpminiadmin_project:phpminiadmin:1.9.160705:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpminiadmin_project:phpminiadmin:1.9.160930:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpminiadmin_project:phpminiadmin:1.9.161116:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpminiadmin_project:phpminiadmin:1.9.170117:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpminiadmin_project:phpminiadmin:1.9.170203:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpminiadmin_project:phpminiadmin:1.9.190822:*:*:*:*:*:*:*

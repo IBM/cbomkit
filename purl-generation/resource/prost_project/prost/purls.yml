@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/danburkert/prost
+  - pkg:github/tokio-rs/prost
+  - pkg:rpm/fedora/rust-prost
+  - pkg:rpm/opensuse/rust-prost

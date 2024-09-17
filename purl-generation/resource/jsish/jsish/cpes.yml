@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:jsish:jsish:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsish:jsish:2.4.65:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsish:jsish:2.4.67:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsish:jsish:2.4.70_2.047:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsish:jsish:2.4.77_2.0477:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsish:jsish:2.4.83_2.0483:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsish:jsish:2.4.84_2.0484:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsish:jsish:3.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsish:jsish:3.0.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsish:jsish:3.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsish:jsish:3.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsish:jsish:3.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsish:jsish:3.5.0:*:*:*:*:*:*:*

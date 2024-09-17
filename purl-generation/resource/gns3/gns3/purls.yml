@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/gns3
+  - pkg:deb/ubuntu/gns3
+  - pkg:github/gns3/gns3-server
+  - pkg:rpm/fedora/gns3-server
+  - pkg:rpm/opensuse/gns3-server
+  - pkg:sourceforge/gns-3

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:clamavs:clamav:0.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:clamavs:clamav:0.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:clamavs:clamav:0.24:*:*:*:*:*:*:*

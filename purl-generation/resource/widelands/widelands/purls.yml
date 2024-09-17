@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/widelands
+  - pkg:deb/ubuntu/widelands
+  - pkg:github/widelands/widelands
+  - pkg:rpm/fedora/widelands
+  - pkg:rpm/opensuse/widelands
+  - pkg:sourceforge/widelands

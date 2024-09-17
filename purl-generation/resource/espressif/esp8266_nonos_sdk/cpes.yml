@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:espressif:esp8266_nonos_sdk:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_nonos_sdk:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_nonos_sdk:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_nonos_sdk:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_nonos_sdk:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_nonos_sdk:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_nonos_sdk:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_nonos_sdk:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_nonos_sdk:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_nonos_sdk:3.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_nonos_sdk:3.1.0:*:*:*:*:*:*:*

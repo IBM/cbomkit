@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:jose-php_project:jose-php:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jose-php_project:jose-php:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jose-php_project:jose-php:0.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jose-php_project:jose-php:0.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:jose-php_project:jose-php:0.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:jose-php_project:jose-php:0.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:jose-php_project:jose-php:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jose-php_project:jose-php:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jose-php_project:jose-php:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jose-php_project:jose-php:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jose-php_project:jose-php:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jose-php_project:jose-php:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jose-php_project:jose-php:2.2.1:*:*:*:*:*:*:*

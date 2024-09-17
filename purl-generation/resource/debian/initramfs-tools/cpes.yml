@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:debian:initramfs-tools:0.92f:*:*:*:*:*:*:*

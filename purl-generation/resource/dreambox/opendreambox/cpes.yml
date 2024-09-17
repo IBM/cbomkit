@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:dreambox:opendreambox:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dreambox:opendreambox:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dreambox:opendreambox:4.1.0:*:*:*:*:*:*:*

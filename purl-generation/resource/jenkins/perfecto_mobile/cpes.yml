@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:jenkins:perfecto_mobile:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:perfecto_mobile:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:perfecto_mobile:1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:perfecto_mobile:2.20.0.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:perfecto_mobile:2.62.0.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:perfecto_mobile:-:*:*:*:*:jenkins:*:*

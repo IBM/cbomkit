@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/hayageek/jquery-upload-file
+  - pkg:npm/jquery-file-upload

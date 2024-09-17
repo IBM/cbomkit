@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/mate-settings-daemon
+  - pkg:deb/ubuntu/mate-settings-daemon
+  - pkg:github/mate-desktop/mate-settings-daemon
+  - pkg:golang/github.com/mate-desktop/mate-settings-daemon
+  - pkg:rpm/fedora/mate-settings-daemon
+  - pkg:rpm/opensuse/mate-settings-daemon

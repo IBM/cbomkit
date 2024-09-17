@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jdf2e/jdf-sass
+  - pkg:npm/jdf-sass

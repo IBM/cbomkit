@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/giflib
+  - pkg:deb/ubuntu/giflib
+  - pkg:gitlab/redhat/giflib
+  - pkg:rpm/centos/giflib
+  - pkg:rpm/fedora/giflib
+  - pkg:rpm/opensuse/giflib
+  - pkg:sourceforge/giflib

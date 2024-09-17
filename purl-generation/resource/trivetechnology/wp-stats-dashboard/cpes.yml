@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:trivetechnology:wp-stats-dashboard:2.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:trivetechnology:wp-stats-dashboard:-:*:*:*:*:wordpress:*:*

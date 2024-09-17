@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/hughsk/flat
+  - pkg:maven/org.webjars.npm/github-com-hughsk-flat

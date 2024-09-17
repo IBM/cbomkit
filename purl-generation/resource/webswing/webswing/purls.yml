@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cybernomy/webswing
+  - pkg:maven/org.webswing/webswing

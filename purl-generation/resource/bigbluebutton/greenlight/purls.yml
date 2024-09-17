@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/bigbluebutton/greenlight
+  - pkg:github/bigbluebutton/greenlight
+  - pkg:rpm/opensuse/greenlight

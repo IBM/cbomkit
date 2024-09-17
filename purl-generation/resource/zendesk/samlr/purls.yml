@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/samlr
+  - pkg:github/zendesk/samlr

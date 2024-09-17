@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/fengoffice/fengoffice
+  - pkg:github/md11235/fengoffice
+  - pkg:sourceforge/opengoo

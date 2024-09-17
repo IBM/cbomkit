@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/yabasic
+  - pkg:deb/ubuntu/yabasic
+  - pkg:github/marcihm/yabasic

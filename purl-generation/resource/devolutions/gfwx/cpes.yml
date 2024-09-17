@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:devolutions:gfwx:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:devolutions:gfwx:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:devolutions:gfwx:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:devolutions:gfwx:-:*:*:*:*:rust:*:*

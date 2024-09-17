@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/matrix-synapse
+  - pkg:deb/ubuntu/matrix-synapse
+  - pkg:docker/matrixdotorg/synapse
+  - pkg:github/matrix-org/synapse
+  - pkg:rpm/fedora/matrix-synapse

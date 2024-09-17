@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/librsync
+  - pkg:deb/ubuntu/librsync
+  - pkg:github/librsync/librsync
+  - pkg:rpm/fedora/librsync
+  - pkg:rpm/opensuse/librsync
+  - pkg:sourceforge/librsync

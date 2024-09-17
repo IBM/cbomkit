@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:securepoint:openvpn-client:1.0.2:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:1.0.3:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.15:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.16:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.17:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.18:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.20:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.21:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.22:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.23:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.24:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.25:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.26:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.27:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.28:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.29:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.30:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.31:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.32:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.33:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.34:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.35:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.36:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.37:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.38:*:*:*:*:windows:*:*
+  - cpe:2.3:a:securepoint:openvpn-client:2.0.39:*:*:*:*:windows:*:*

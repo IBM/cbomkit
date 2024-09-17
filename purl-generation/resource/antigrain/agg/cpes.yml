@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:antigrain:agg:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:antigrain:agg:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:antigrain:agg:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:antigrain:agg:2.4:*:*:*:*:*:*:*

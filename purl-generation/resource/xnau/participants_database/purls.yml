@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/rwilki/participants-database
+  - pkg:github/wp-plugins/participants-database
+  - pkg:github/wpplugins/participants-database

@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:pm2-kafka_project:pm2-kafka:1.0.0:*:*:*:*:node.js:*:*

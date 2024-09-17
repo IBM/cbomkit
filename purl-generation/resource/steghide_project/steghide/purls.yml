@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/steghide
+  - pkg:deb/ubuntu/steghide
+  - pkg:github/jasonbrianhall/steghide
+  - pkg:github/rm-crycat/steghide
+  - pkg:github/StefanoDeVuono/steghide
+  - pkg:rpm/fedora/steghide
+  - pkg:rpm/opensuse/steghide
+  - pkg:sourceforge/steghide

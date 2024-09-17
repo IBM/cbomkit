@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/indiehosters/oxwall
+  - pkg:github/libresh/oxwall
+  - pkg:github/oxwall/oxwall

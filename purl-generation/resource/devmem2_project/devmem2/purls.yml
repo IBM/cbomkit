@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/mbravos/devmem2
+  - pkg:deb/ubuntu/devmem2
+  - pkg:github/vctlabs/devmem2
+  - pkg:rpm/opensuse/devmem2

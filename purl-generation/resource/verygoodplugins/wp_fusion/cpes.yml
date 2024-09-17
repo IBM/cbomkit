@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:verygoodplugins:wp_fusion:3.37.18:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:verygoodplugins:wp_fusion:3.37.30:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:verygoodplugins:wp_fusion:3.38.0:*:*:*:lite:wordpress:*:*
+  - cpe:2.3:a:verygoodplugins:wp_fusion:-:*:*:*:lite:wordpress:*:*

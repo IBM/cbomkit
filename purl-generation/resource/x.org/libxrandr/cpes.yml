@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:x.org:libxrandr:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:x.org:libxrandr:1.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:x.org:libxrandr:1.5.2:*:*:*:*:*:*:*

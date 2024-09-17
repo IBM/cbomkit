@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/ubuntu/ruby-rexml
+  - pkg:gem/rexml
+  - pkg:github/ruby/rexml/
+  - pkg:rpm/opensuse/rubygem-rexml

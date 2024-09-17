@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:jenkins:list_git_branches_parameter:0.0.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:list_git_branches_parameter:0.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:list_git_branches_parameter:0.0.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:list_git_branches_parameter:0.0.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:list_git_branches_parameter:0.0.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:list_git_branches_parameter:0.0.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:list_git_branches_parameter:0.0.9:*:*:*:*:jenkins:*:*

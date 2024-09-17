@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/a-v-k/phpbugtracker
+  - pkg:sourceforge/phpbt

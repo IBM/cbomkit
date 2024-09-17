@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/xajax/xajax
+  - pkg:github/xajax/xajax

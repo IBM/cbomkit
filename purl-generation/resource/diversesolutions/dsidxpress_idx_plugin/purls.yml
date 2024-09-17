@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/katzwebservices/dsidxpress
+  - pkg:github/wp-plugins/dsidxpress
+  - pkg:github/wpplugins/dsidxpress

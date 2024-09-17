@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:easydigitaldownloads:recount_earnings:1.0.2:*:*:*:*:easy_digital_downloads:*:*
+  - cpe:2.3:a:easydigitaldownloads:recount_earnings:1.0.3:*:*:*:*:easy_digital_downloads:*:*
+  - cpe:2.3:a:easydigitaldownloads:recount_earnings:1.0:*:*:*:*:easy_digital_downloads:*:*
+  - cpe:2.3:a:easydigitaldownloads:recount_earnings:-:*:*:*:*:easy_digital_downloads:*:*

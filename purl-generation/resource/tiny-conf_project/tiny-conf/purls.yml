@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tiny-conf/tiny-conf
+  - pkg:npm/tiny-conf

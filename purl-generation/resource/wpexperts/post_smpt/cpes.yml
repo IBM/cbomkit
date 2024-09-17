@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wpexperts:post_smpt:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpexperts:post_smpt:-:*:*:*:*:wordpress:*:*

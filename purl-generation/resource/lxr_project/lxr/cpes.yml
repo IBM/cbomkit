@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:lxr_project:lxr:0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:lxr_project:lxr:0.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lxr_project:lxr:0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:lxr_project:lxr:0.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lxr_project:lxr:0.9.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:lxr_project:lxr:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lxr_project:lxr:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lxr_project:lxr:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:lxr_project:lxr:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lxr_project:lxr:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lxr_project:lxr:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:lxr_project:lxr:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:lxr_project:lxr:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lxr_project:lxr:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lxr_project:lxr:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lxr_project:lxr:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lxr_project:lxr:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lxr_project:lxr:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:lxr_project:lxr:2.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:lxr_project:lxr:2.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:lxr_project:lxr:2.3.5:*:*:*:*:*:*:*

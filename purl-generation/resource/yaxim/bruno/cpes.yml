@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:yaxim:bruno:0.8.5:*:*:*:*:android:*:*
+  - cpe:2.3:a:yaxim:bruno:0.8.6:*:*:*:*:android:*:*
+  - cpe:2.3:a:yaxim:bruno:0.8.6b:*:*:*:*:android:*:*
+  - cpe:2.3:a:yaxim:bruno:0.8.7:*:*:*:*:android:*:*
+  - cpe:2.3:a:yaxim:bruno:0.8.7b:*:*:*:*:android:*:*
+  - cpe:2.3:a:yaxim:bruno:0.8.8:*:*:*:*:android:*:*
+  - cpe:2.3:a:yaxim:bruno:0.9.0:*:*:*:*:android:*:*
+  - cpe:2.3:a:yaxim:bruno:0.9.1:*:*:*:*:android:*:*
+  - cpe:2.3:a:yaxim:bruno:0.9.2:*:*:*:*:android:*:*
+  - cpe:2.3:a:yaxim:bruno:0.9.3:*:*:*:*:android:*:*

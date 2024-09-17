@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/emacs
+  - pkg:deb/ubuntu/emacs
+  - pkg:gnu/emacs
+  - pkg:rpm/fedora/emacs
+  - pkg:rpm/opensuse/emacs

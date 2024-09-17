@@ -1,0 +1,6 @@
+purls:
+  - pkg:apache/velocity
+  - pkg:deb/debian/velocity-tools
+  - pkg:deb/ubuntu/velocity-tools
+  - pkg:github/apache/velocity-tools
+  - pkg:maven/org.apache.velocity/velocity-tools

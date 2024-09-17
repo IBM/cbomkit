@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/vuelidate/vuelidate
+  - pkg:maven/org.webjars.npm/vuelidate
+  - pkg:npm/vuelidate

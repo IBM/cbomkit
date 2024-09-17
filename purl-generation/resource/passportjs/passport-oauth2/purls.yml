@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jaredhanson/passport-google-oauth2
+  - pkg:github/jaredhanson/passport-oauth2
+  - pkg:npm/passport-oauth2

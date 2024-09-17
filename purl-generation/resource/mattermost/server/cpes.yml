@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:mattermost:server:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:server:5.18.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:server:5.18.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:server:5.18.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:server:5.18.0:rc4:*:*:*:*:*:*

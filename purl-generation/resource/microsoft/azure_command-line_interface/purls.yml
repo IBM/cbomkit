@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/azure-cli
+  - pkg:github/azure/azure-cli
+  - pkg:pypi/azure-cli
+  - pkg:rpm/fedora/azure-cli
+  - pkg:rpm/opensuse/azure-cli

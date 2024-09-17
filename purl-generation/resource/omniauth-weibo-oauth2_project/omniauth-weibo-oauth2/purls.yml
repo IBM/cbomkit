@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/omniauth-weibo-oauth2
+  - pkg:github/beenhero/omniauth-weibo-oauth2

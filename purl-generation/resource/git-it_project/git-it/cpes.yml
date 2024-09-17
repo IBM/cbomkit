@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:git-it_project:git-it:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-it_project:git-it:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-it_project:git-it:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-it_project:git-it:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-it_project:git-it:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-it_project:git-it:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-it_project:git-it:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-it_project:git-it:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-it_project:git-it:4.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-it_project:git-it:4.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-it_project:git-it:4.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-it_project:git-it:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-it_project:git-it:4.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-it_project:git-it:4.4.0:*:*:*:*:*:*:*

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/profanity
+  - pkg:deb/ubuntu/profanity
+  - pkg:github/profanity-im/profanity
+  - pkg:rpm/fedora/profanity
+  - pkg:rpm/opensuse/profanity

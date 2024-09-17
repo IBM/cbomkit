@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/wp-plugins/yikes-inc-easy-mailchimp-extender
+  - pkg:github/wpplugins/yikes-inc-easy-mailchimp-extender
+  - pkg:github/yikesinc/yikes-inc-easy-mailchimp-extender

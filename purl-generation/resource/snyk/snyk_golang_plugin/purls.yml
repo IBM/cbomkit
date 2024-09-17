@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/snyk/snyk-go-plugin
+  - pkg:golang/github.com/snyk/snyk-go-plugin
+  - pkg:maven/org.webjars.npm/snyk-go-plugin
+  - pkg:npm/snyk-go-plugin

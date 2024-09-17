@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:sonar-wrapper_project:sonar-wrapper:*:*:*:*:*:node.js:*:*

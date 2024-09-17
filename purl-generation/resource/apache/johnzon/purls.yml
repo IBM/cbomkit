@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/johnzon
+  - pkg:github/apache/johnzon
+  - pkg:maven/org.apache.johnzon/johnzon-core

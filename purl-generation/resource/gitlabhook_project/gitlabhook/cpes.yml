@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:gitlabhook_project:gitlabhook:0.0.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gitlabhook_project:gitlabhook:0.0.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gitlabhook_project:gitlabhook:0.0.14:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gitlabhook_project:gitlabhook:0.0.15:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gitlabhook_project:gitlabhook:0.0.16:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gitlabhook_project:gitlabhook:0.0.17:*:*:*:*:node.js:*:*

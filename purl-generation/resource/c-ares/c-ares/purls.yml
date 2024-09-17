@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/c-ares/c-ares
+  - pkg:gitlab/redhat/c-ares
+  - pkg:rpm/fedora/c-ares
+  - pkg:rpm/opensuse/c-ares

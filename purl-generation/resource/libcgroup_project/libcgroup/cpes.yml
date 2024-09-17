@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:libcgroup_project:libcgroup:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcgroup_project:libcgroup:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcgroup_project:libcgroup:0.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcgroup_project:libcgroup:0.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcgroup_project:libcgroup:0.32.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcgroup_project:libcgroup:0.32.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcgroup_project:libcgroup:0.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcgroup_project:libcgroup:0.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcgroup_project:libcgroup:0.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcgroup_project:libcgroup:0.35.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcgroup_project:libcgroup:0.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcgroup_project:libcgroup:0.36.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcgroup_project:libcgroup:0.36.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcgroup_project:libcgroup:0.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcgroup_project:libcgroup:0.37.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcgroup_project:libcgroup:0.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcgroup_project:libcgroup:0.41:*:*:*:*:*:*:*

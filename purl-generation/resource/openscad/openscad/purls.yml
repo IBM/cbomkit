@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/openscad/openscad
+  - pkg:github/openscad/openscad
+  - pkg:rpm/fedora/openscad
+  - pkg:rpm/opensuse/openscad
+  - pkg:sourceforge/openscad.mirror

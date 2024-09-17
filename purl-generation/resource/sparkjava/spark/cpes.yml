@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:sparkjava:spark:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sparkjava:spark:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sparkjava:spark:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sparkjava:spark:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sparkjava:spark:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:sparkjava:spark:2.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sparkjava:spark:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sparkjava:spark:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sparkjava:spark:2.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sparkjava:spark:2.7.2:*:*:*:*:*:*:*

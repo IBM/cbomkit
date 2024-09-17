@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:verbb:image_resizer:0.0.1:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:0.0.2:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:0.0.3:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:0.0.4:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:0.0.5:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:0.0.6:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:0.0.7:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:0.1.0:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:0.1.1:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:0.1.2:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:0.1.3:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:0.1.4:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:1.0.0:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:1.0.1:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:1.0.2:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:1.1.0:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:2.0.0:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:2.0.1:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:2.0.2:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:2.0.3:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:2.0.4:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:2.0.5:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:2.0.6:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:2.0.7:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:2.0.8:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:verbb:image_resizer:2.0.9:*:*:*:*:craft_cms:*:*

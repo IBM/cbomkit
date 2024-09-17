@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/cloudstack
+  - pkg:github/apache/cloudstack
+  - pkg:maven/org.apache.jclouds.api/cloudstack

@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/zendframework/zend-view
+  - pkg:github/zendframework/zend-view

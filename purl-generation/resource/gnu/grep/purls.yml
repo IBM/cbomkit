@@ -1,0 +1,12 @@
+purls:
+  - pkg:deb/debian/grep
+  - pkg:deb/ubuntu/grep
+  - pkg:github/adityavs/grep
+  - pkg:github/gitgnu/gnu_grep
+  - pkg:github/sa-dummy/grep
+  - pkg:github/val-verde/grep
+  - pkg:gitlab/redhat/grep
+  - pkg:gnu/grep
+  - pkg:rpm/centos/grep
+  - pkg:rpm/fedora/grep
+  - pkg:rpm/opensuse/grep

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/cscope
+  - pkg:deb/ubuntu/cscope
+  - pkg:github/portante/cscope
+  - pkg:rpm/fedora/cscope
+  - pkg:rpm/opensuse/cscope
+  - pkg:sourceforge/cscope

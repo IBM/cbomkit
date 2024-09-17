@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/claws-mail
+  - pkg:deb/ubuntu/claws-mail
+  - pkg:github/mpollmeier/claws-mail
+  - pkg:github/mrvdb/claws-mail
+  - pkg:github/olafhering/claws
+  - pkg:rpm/fedora/claws-mail
+  - pkg:rpm/opensuse/claws-mail
+  - pkg:sourceforge/claws-mail

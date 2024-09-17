@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/simplejson
+  - pkg:deb/ubuntu/simplejson
+  - pkg:docker/pypi/simplejson
+  - pkg:github/simplejson/simplejson
+  - pkg:pypi/simplejson
+  - pkg:rpm/fedora/python-simplejson
+  - pkg:rpm/opensuse/python-simplejson

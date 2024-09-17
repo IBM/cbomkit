@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libtomcrypt
+  - pkg:deb/ubuntu/libtomcrypt
+  - pkg:github/libtom/libtomcrypt
+  - pkg:rpm/fedora/libtomcrypt
+  - pkg:rpm/opensuse/libtomcrypt

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/elastic/beats
+  - pkg:rpm/opensuse/beats

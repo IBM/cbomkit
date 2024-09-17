@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/wpchill/download-monitor
+  - pkg:github/wp-plugins/download-monitor

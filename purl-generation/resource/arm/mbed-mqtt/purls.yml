@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/novek/mbed-mqtt
+  - pkg:github/armmbed/mbed-mqtt
+  - pkg:github/eclipse/paho.mqtt.embedded-c

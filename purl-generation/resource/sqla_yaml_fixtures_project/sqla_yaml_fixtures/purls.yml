@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/schettino72/sqla-yaml-fixtures
+  - pkg:pypi/sqla-yaml-fixtures

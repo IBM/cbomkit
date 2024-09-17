@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/nas
+  - pkg:deb/ubuntu/nas
+  - pkg:gitlab/redhat/nas
+  - pkg:rpm/fedora/nas
+  - pkg:sourceforge/nas

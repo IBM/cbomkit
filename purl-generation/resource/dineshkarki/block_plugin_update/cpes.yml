@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:dineshkarki:block_plugin_update:0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshkarki:block_plugin_update:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshkarki:block_plugin_update:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshkarki:block_plugin_update:2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshkarki:block_plugin_update:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshkarki:block_plugin_update:3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshkarki:block_plugin_update:3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshkarki:block_plugin_update:3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshkarki:block_plugin_update:3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dineshkarki:block_plugin_update:*:*:*:*:*:wordpress:*:*

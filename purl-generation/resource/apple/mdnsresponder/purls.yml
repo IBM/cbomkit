@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/okertanov/mdnsresponder
+  - pkg:github/unofficial-opensource-apple/mdnsresponder
+  - pkg:rpm/opensuse/mdnsresponder

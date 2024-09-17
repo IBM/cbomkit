@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ntirpc
+  - pkg:deb/ubuntu/ntirpc
+  - pkg:github/linuxbox2/ntirpc
+  - pkg:rpm/fedora/libntirpc
+  - pkg:rpm/opensuse/libntirpc

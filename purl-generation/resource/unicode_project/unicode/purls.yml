@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/dodo/node-unicodetable
+  - pkg:github/eversport/node-unicodetable
+  - pkg:github/tdanecker/node-unicodetable
+  - pkg:npm/unicode

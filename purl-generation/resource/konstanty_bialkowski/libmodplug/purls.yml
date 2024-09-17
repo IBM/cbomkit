@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libmodplug
+  - pkg:deb/ubuntu/libmodplug
+  - pkg:github/konstanty/libmodplug
+  - pkg:rpm/fedora/libmodplug
+  - pkg:rpm/opensuse/libmodplug
+  - pkg:sourceforge/modplug-xmms

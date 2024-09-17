@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/airobotnews/wolfssh
+  - pkg:github/wolfssl-jp/wolfssh
+  - pkg:github/wolfssl/wolfssh

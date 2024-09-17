@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/lsh123/xmlsec
+  - pkg:rpm/fedora/xmlsec1
+  - pkg:rpm/opensuse/xmlsec1

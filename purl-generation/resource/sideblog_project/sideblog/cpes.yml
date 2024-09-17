@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:sideblog_project:sideblog:3.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sideblog_project:sideblog:5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sideblog_project:sideblog:6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sideblog_project:sideblog:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:ltt_project:ltt:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ltt_project:ltt:-:*:*:*:*:node.js:*:*

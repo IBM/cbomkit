@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/hypery2k/galenframework-cli
+  - pkg:npm/galenframework-cli

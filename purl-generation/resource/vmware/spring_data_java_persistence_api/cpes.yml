@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:vmware:spring_data_java_persistence_api:1.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_data_java_persistence_api:1.11.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_data_java_persistence_api:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_data_java_persistence_api:2.0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_data_java_persistence_api:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_data_java_persistence_api:2.1.5:*:*:*:*:*:*:*

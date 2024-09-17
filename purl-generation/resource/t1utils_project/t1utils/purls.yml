@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/t1utils
+  - pkg:deb/ubuntu/t1utils
+  - pkg:github/kohler/t1utils
+  - pkg:rpm/fedora/t1utils
+  - pkg:rpm/opensuse/t1utils

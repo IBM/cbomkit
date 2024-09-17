@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/turt2live/matrix-media-repo
+  - pkg:github/turt2live/matrix-media-repo
+  - pkg:gitlab/beeper/matrix-media-repo

@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:coala:git-url-parse:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:coala:git-url-parse:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:coala:git-url-parse:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:coala:git-url-parse:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:coala:git-url-parse:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:coala:git-url-parse:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:coala:git-url-parse:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:coala:git-url-parse:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:coala:git-url-parse:1.2.2:*:*:*:*:*:*:*

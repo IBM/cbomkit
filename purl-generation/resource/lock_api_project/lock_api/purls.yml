@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/amanieu/parking_lot
+  - pkg:rpm/fedora/rust-lock_api
+  - pkg:rpm/opensuse/rust-lock_api

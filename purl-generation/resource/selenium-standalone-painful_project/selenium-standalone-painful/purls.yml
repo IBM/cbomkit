@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bevacqua/selenium-standalone-painful
+  - pkg:npm/selenium-standalone-painful

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/tuxera/ntfs-3g
+  - pkg:rpm/fedora/ntfs-3g
+  - pkg:rpm/opensuse/ntfs-3g

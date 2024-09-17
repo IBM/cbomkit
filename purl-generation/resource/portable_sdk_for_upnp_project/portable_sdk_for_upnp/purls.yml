@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libupnp13
+  - pkg:deb/ubuntu/libupnp13
+  - pkg:github/pupnp/pupnp
+  - pkg:rpm/fedora/libupnp
+  - pkg:rpm/opensuse/libupnp
+  - pkg:sourceforge/pupnp

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:mark_posts_project:mark_posts:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mark_posts_project:mark_posts:-:*:*:*:*:wordpress:*:*

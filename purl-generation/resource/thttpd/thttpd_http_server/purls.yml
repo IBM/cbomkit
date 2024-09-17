@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/rssnsj/thttpd
+  - pkg:rpm/fedora/thttpd
+  - pkg:rpm/opensuse/thttpd

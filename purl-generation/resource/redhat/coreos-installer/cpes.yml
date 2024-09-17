@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:redhat:coreos-installer:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:coreos-installer:0.10.0:*:*:*:*:*:*:*

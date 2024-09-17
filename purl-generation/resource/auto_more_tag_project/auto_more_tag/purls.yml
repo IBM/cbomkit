@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/anubisthejackle/wp-auto-more-tag
+  - pkg:github/toubsen/wp-auto-more-tag
+  - pkg:github/wp-plugins/auto-more-tag

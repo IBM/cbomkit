@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cloudfoundry/loggregator-agent
+  - pkg:golang/github.com/cloudfoundry/loggregator-agent

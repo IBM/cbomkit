@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/libpod
+  - pkg:deb/ubuntu/libpod
+  - pkg:github/containers/podman

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/yubikey-val
+  - pkg:deb/ubuntu/yubikey-val
+  - pkg:github/yubico/yubikey-val
+  - pkg:rpm/fedora/yubikey-val
+  - pkg:rpm/opensuse/yubikey-val

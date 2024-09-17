@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:dav-cogs_project:dav-cogs:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:dav-cogs_project:dav-cogs:1.0.1:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:swifty_page_manager_project:swifty_page_manager:3.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:swifty_page_manager_project:swifty_page_manager:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:swifty_page_manager_project:swifty_page_manager:-:*:*:*:*:wordpress:*:*

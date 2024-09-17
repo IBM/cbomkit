@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/gnucash
+  - pkg:deb/ubuntu/gnucash
+  - pkg:github/gnucash/gnucash
+  - pkg:rpm/fedora/gnucash
+  - pkg:rpm/opensuse/gnucash
+  - pkg:sourceforge/gnucash

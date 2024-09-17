@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/json5
+  - pkg:github/json5/json5
+  - pkg:npm/json5

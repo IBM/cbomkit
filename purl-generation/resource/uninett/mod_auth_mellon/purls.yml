@@ -1,0 +1,10 @@
+purls:
+  - pkg:docker/soarinferret/mod_auth_mellon
+  - pkg:docker/stevecrozz/mod_auth_mellon
+  - pkg:github/latchset/mod_auth_mellon
+  - pkg:github/stevecrozz/mod_auth_mellon
+  - pkg:github/uninett/mod_auth_mellon
+  - pkg:gitlab/redhat/mod_auth_mellon
+  - pkg:rpm/centos/mod_auth_mellon
+  - pkg:rpm/fedora/mod_auth_mellon
+  - pkg:rpm/opensuse/apache2-mod_auth_mellon

@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/leonidas-from-xiv/node-xml2js
+  - pkg:golang/github.com/leonidas-from-xiv/node-xml2js
+  - pkg:maven/org.webjars.npm/xml2js
+  - pkg:npm/xml2js

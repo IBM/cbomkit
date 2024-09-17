@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/msabramo/kallithea
+  - pkg:github/zhumengyuan/kallithea
+  - pkg:pypi/kallithea

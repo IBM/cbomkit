@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:war_ftp_daemon:war_ftp_daemon:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:war_ftp_daemon:war_ftp_daemon:1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:war_ftp_daemon:war_ftp_daemon:1.82_rc9:*:*:*:*:*:*:*

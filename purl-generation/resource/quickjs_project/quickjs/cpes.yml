@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:quickjs_project:quickjs:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:quickjs_project:quickjs:2019-07-09:*:*:*:*:*:*:*
+  - cpe:2.3:a:quickjs_project:quickjs:2019-07-21:*:*:*:*:*:*:*
+  - cpe:2.3:a:quickjs_project:quickjs:2019-07-28:*:*:*:*:*:*:*
+  - cpe:2.3:a:quickjs_project:quickjs:2019-08-10:*:*:*:*:*:*:*
+  - cpe:2.3:a:quickjs_project:quickjs:2019-08-18:*:*:*:*:*:*:*
+  - cpe:2.3:a:quickjs_project:quickjs:2019-09-01:*:*:*:*:*:*:*
+  - cpe:2.3:a:quickjs_project:quickjs:2019-09-18:*:*:*:*:*:*:*
+  - cpe:2.3:a:quickjs_project:quickjs:2019-10-27:*:*:*:*:*:*:*
+  - cpe:2.3:a:quickjs_project:quickjs:2019-12-21:*:*:*:*:*:*:*
+  - cpe:2.3:a:quickjs_project:quickjs:2020-01-05:*:*:*:*:*:*:*
+  - cpe:2.3:a:quickjs_project:quickjs:2020-01-19:*:*:*:*:*:*:*
+  - cpe:2.3:a:quickjs_project:quickjs:2020-03-16:*:*:*:*:*:*:*
+  - cpe:2.3:a:quickjs_project:quickjs:2020-04-12:*:*:*:*:*:*:*
+  - cpe:2.3:a:quickjs_project:quickjs:2020-07-05:*:*:*:*:*:*:*
+  - cpe:2.3:a:quickjs_project:quickjs:2020-09-06:*:*:*:*:*:*:*
+  - cpe:2.3:a:quickjs_project:quickjs:2022-03-06:*:*:*:*:*:*:*

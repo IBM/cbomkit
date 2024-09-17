@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:dx_library_project:dx_library:3.15e:*:*:*:*:*:*:*
+  - cpe:2.3:a:dx_library_project:dx_library:3.16b:*:*:*:*:borland_c\+\+:*:*
+  - cpe:2.3:a:dx_library_project:dx_library:3.16b:*:*:*:*:gnu_c\+\+:*:*
+  - cpe:2.3:a:dx_library_project:dx_library:3.16b:*:*:*:*:visual_c\+\+:*:*

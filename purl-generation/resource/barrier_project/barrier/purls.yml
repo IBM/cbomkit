@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/barrier
+  - pkg:deb/ubuntu/barrier
+  - pkg:github/debauchee/barrier
+  - pkg:rpm/fedora/barrier
+  - pkg:rpm/opensuse/barrier
+  - pkg:sourceforge/barrier.mirror

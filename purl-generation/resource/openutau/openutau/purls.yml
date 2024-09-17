@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/stakira/openutau
+  - pkg:golang/github.com/stakira/openutau

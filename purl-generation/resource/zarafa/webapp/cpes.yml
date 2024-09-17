@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:zarafa:webapp:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:zarafa:webapp:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:zarafa:webapp:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:zarafa:webapp:2.0:beta2:*:*:*:*:*:*

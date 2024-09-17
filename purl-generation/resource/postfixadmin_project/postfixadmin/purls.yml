@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/postfixadmin
+  - pkg:deb/ubuntu/postfixadmin
+  - pkg:github/postfixadmin/postfixadmin
+  - pkg:rpm/opensuse/postfixadmin
+  - pkg:sourceforge/postfixadmin

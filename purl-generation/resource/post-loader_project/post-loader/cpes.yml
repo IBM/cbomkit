@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:post-loader_project:post-loader:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:post-loader_project:post-loader:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:post-loader_project:post-loader:1.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:post-loader_project:post-loader:1.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:post-loader_project:post-loader:2.0.0:*:*:*:*:node.js:*:*

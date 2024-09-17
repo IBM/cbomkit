@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libhibernate-validator4-java
+  - pkg:deb/debian/libhibernate-validator-java
+  - pkg:deb/ubuntu/libhibernate-validator4-java
+  - pkg:deb/ubuntu/libhibernate-validator-java
+  - pkg:github/hibernate/hibernate-validator
+  - pkg:maven/org.hibernate.validator/hibernate-validator

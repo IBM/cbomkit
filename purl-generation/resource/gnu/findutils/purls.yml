@@ -1,0 +1,12 @@
+purls:
+  - pkg:deb/debian/findutils
+  - pkg:deb/ubuntu/findutils
+  - pkg:github/aixoss/findutils
+  - pkg:github/distrotech/findutils
+  - pkg:github/jamesyoungman/findutils
+  - pkg:github/qunixorg/findutils
+  - pkg:gitlab/redhat/findutils
+  - pkg:gnu/findutils
+  - pkg:rpm/centos/findutils
+  - pkg:rpm/fedora/findutils
+  - pkg:rpm/opensuse/findutils

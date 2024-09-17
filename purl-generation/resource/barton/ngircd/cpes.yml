@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:barton:ngircd:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:20.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:20.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:21.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:21.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:21.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:21.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:22.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:22.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:23.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:23.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:24.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:24.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:25.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:25.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:barton:ngircd:26.0:rc1:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:ultravnc:vnc_viewer:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:ultravnc:vnc_viewer:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ultravnc:vnc_viewer:3.3.3_r2:*:*:*:*:*:*:*

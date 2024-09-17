@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:conda-vim_project:conda-vim:*:*:*:*:*:vim:*:*

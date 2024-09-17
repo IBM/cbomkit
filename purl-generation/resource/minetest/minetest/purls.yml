@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/minetest
+  - pkg:deb/ubuntu/minetest
+  - pkg:github/minetest/minetest
+  - pkg:rpm/fedora/minetest
+  - pkg:rpm/opensuse/minetest
+  - pkg:sourceforge/minetest.mirror

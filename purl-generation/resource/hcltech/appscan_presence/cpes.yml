@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:hcltech:appscan_presence:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:hcltech:appscan_presence:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:hcltech:appscan_presence:2.1.37:*:*:*:*:*:*:*

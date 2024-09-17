@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:blogotext_project:blogotext:2.1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:blogotext_project:blogotext:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:blogotext_project:blogotext:3.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:blogotext_project:blogotext:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:blogotext_project:blogotext:3.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:blogotext_project:blogotext:3.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:blogotext_project:blogotext:3.4.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:blogotext_project:blogotext:3.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:blogotext_project:blogotext:3.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:blogotext_project:blogotext:3.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:blogotext_project:blogotext:3.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:blogotext_project:blogotext:3.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:blogotext_project:blogotext:3.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:blogotext_project:blogotext:3.7.6:*:*:*:*:*:*:*

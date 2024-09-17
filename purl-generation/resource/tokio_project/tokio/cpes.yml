@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:tokio_project:tokio:1.13.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:tokio_project:tokio:1.13.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:tokio_project:tokio:1.9.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:tokio_project:tokio:*:*:*:*:*:rust:*:*

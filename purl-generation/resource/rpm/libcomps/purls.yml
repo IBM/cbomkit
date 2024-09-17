@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libcomps
+  - pkg:deb/ubuntu/libcomps
+  - pkg:github/rpm-software-management/libcomps
+  - pkg:gitlab/redhat/libcomps
+  - pkg:pypi/libcomps
+  - pkg:rpm/centos/libcomps
+  - pkg:rpm/fedora/libcomps
+  - pkg:rpm/opensuse/libcomps

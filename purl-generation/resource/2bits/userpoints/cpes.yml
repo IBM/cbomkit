@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:2bits:userpoints:6.x-1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:2bits:userpoints:6.x-1.x-dev:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ydb-platform/ydb-go-sdk
+  - pkg:golang/github.com/ydb-platform/ydb-go-sdk

@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:typespeed:typespeed:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:typespeed:typespeed:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:typespeed:typespeed:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:typespeed:typespeed:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:typespeed:typespeed:0.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:typespeed:typespeed:0.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:typespeed:typespeed:0.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:typespeed:typespeed:0.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:typespeed:typespeed:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:typespeed:typespeed:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:typespeed:typespeed:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:typespeed:typespeed:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:typespeed:typespeed:0.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:typespeed:typespeed:0.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:typespeed:typespeed:0.6.3:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bestwebsoft/user-role-wordpress-plugin
+  - pkg:github/wp-plugins/user-role
+  - pkg:github/wpplugins/user-role

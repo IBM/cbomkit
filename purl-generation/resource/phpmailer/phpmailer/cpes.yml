@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:phpmailer:phpmailer:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpmailer:phpmailer:1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpmailer:phpmailer:1.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpmailer:phpmailer:1.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpmailer:phpmailer:1.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpmailer:phpmailer:1.73:*:*:*:*:*:*:*

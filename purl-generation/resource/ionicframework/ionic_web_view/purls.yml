@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/noprintz-dev/cordova-plugin-ionic-webview
+  - pkg:bitbucket/skadit/cordova-plugin-ionic-webview
+  - pkg:github/ionic-team/cordova-plugin-ionic-webview

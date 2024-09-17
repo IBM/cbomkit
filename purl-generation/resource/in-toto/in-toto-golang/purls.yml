@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/in-toto/in-toto-golang
+  - pkg:golang/github.com/in-toto/in-toto-golang

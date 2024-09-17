@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/charlieethan/typecho
+  - pkg:github/typecho/typecho
+  - pkg:sourceforge/typecho-blogging.mirror

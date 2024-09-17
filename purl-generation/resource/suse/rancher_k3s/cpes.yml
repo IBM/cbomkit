@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:suse:rancher_k3s:1.19.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher_k3s:1.20.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher_k3s:1.21.2:*:*:*:*:*:*:*

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/mdbtools
+  - pkg:deb/ubuntu/mdbtools
+  - pkg:github/mdbtools/mdbtools
+  - pkg:rpm/fedora/mdbtools
+  - pkg:rpm/opensuse/mdbtools

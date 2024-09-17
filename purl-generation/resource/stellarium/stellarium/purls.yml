@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/stellarium
+  - pkg:deb/ubuntu/stellarium
+  - pkg:github/stellarium/stellarium
+  - pkg:rpm/fedora/stellarium
+  - pkg:rpm/opensuse/stellarium
+  - pkg:sourceforge/stellarium.mirror

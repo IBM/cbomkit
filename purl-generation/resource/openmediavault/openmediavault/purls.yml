@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openmediavault/openmediavault
+  - pkg:sourceforge/openmediavault

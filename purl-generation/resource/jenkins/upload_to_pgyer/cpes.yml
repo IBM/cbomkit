@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:jenkins:upload_to_pgyer:1.26:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:upload_to_pgyer:1.28:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:upload_to_pgyer:1.29:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:upload_to_pgyer:1.30:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:upload_to_pgyer:1.31:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:upload_to_pgyer:1.32:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:upload_to_pgyer:1.33:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:upload_to_pgyer:-:*:*:*:*:jenkins:*:*

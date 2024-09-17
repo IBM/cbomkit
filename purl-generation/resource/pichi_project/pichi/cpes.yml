@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:pichi_project:pichi:1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:pichi_project:pichi:1.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:pichi_project:pichi:1.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:pichi_project:pichi:1.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:pichi_project:pichi:1.1.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:pichi_project:pichi:1.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:pichi_project:pichi:1.2.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:pichi_project:pichi:1.2.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:pichi_project:pichi:1.2.1:rc:*:*:*:*:*:*
+  - cpe:2.3:a:pichi_project:pichi:1.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:pichi_project:pichi:1.3.0:rc:*:*:*:*:*:*

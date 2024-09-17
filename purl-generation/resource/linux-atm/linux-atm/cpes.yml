@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:linux-atm:linux-atm:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux-atm:linux-atm:2.4:*:*:*:*:*:*:*

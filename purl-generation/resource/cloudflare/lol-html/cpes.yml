@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:cloudflare:lol-html:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:lol-html:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:lol-html:0.3.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:lol-html:0.3.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:lol-html:0.4.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:lol-html:1.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:lol-html:1.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:lol-html:1.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:lol-html:*:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:lol-html:-:*:*:*:*:rust:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/lesterchan/wp-useronline
+  - pkg:github/robeliki/wp-useronline
+  - pkg:github/wp-plugins/wp-useronline

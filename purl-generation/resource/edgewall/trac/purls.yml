@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/trac
+  - pkg:deb/ubuntu/trac
+  - pkg:github/edgewall/trac
+  - pkg:pypi/trac
+  - pkg:rpm/fedora/trac
+  - pkg:rpm/opensuse/trac

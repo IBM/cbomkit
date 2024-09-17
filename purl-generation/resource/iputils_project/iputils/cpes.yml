@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:iputils_project:iputils:s20140419:*:*:*:*:*:*:*
+  - cpe:2.3:a:iputils_project:iputils:s20140420:*:*:*:*:*:*:*
+  - cpe:2.3:a:iputils_project:iputils:s20140519:*:*:*:*:*:*:*
+  - cpe:2.3:a:iputils_project:iputils:s20150815:*:*:*:*:*:*:*
+  - cpe:2.3:a:iputils_project:iputils:s20160308:*:*:*:*:*:*:*
+  - cpe:2.3:a:iputils_project:iputils:s20161105:*:*:*:*:*:*:*
+  - cpe:2.3:a:iputils_project:iputils:s20180629:*:*:*:*:*:*:*

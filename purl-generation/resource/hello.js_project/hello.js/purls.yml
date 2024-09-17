@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mrswitch/hello.js
+  - pkg:npm/hello.js
+  - pkg:sourceforge/hello-js.mirror

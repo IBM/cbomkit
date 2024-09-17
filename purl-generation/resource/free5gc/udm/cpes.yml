@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:free5gc:udm:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:free5gc:udm:1.0.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:udm:1.0.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:udm:1.0.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:udm:1.1.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:free5gc:udm:1.1.1:*:*:*:*:go:*:*

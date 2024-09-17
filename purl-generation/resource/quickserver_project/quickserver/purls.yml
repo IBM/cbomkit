@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/torthu/quickserver
+  - pkg:npm/quickserver

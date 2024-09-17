@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/nss-dev/nss
+  - pkg:mozilla/nss
+  - pkg:rpm/opensuse/mozilla-nss

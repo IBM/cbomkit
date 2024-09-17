@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jcsirot/custom-job-icon-plugin
+  - pkg:github/jenkinsci/custom-job-icon-plugin

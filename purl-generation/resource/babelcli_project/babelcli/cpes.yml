@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:babelcli_project:babelcli:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:babelcli_project:babelcli:-:*:*:*:*:node.js:*:*

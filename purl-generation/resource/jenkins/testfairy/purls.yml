@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/testfairy-plugin
+  - pkg:github/testfairy/testfairy-jenkins-plugin

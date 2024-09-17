@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/danielhuisman/observium-community-edition
+  - pkg:github/observium/turnkey
+  - pkg:github/turnkeylinux-apps/observium

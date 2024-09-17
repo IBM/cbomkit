@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:inversepath:tenshi:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:inversepath:tenshi:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:inversepath:tenshi:0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:inversepath:tenshi:0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:inversepath:tenshi:0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:inversepath:tenshi:0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:inversepath:tenshi:0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:inversepath:tenshi:0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:inversepath:tenshi:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:inversepath:tenshi:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:inversepath:tenshi:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:inversepath:tenshi:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:inversepath:tenshi:0.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:inversepath:tenshi:0.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:inversepath:tenshi:0.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:inversepath:tenshi:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:inversepath:tenshi:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:inversepath:tenshi:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:inversepath:tenshi:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:inversepath:tenshi:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:inversepath:tenshi:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:inversepath:tenshi:0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:inversepath:tenshi:0.9.1:*:*:*:*:*:*:*

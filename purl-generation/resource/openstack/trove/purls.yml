@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/openstack/trove
+  - pkg:pypi/trove
+  - pkg:rpm/opensuse/openstack-trove

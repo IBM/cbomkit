@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/plantuml
+  - pkg:deb/ubuntu/plantuml
+  - pkg:github/plantuml/plantuml
+  - pkg:maven/net.sourceforge.plantuml/plantuml
+  - pkg:rpm/fedora/plantuml
+  - pkg:rpm/opensuse/plantuml
+  - pkg:sourceforge/plantuml

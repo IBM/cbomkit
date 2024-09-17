@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/npm/node-which
+  - pkg:github/vvo/node-whereis
+  - pkg:npm/whereis

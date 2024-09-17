@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/afuse
+  - pkg:deb/ubuntu/afuse
+  - pkg:github/pcarrier/afuse
+  - pkg:rpm/fedora/afuse
+  - pkg:rpm/opensuse/afuse

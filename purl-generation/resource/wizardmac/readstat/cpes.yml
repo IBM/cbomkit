@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:wizardmac:readstat:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wizardmac:readstat:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wizardmac:readstat:1.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:wizardmac:readstat:1.0.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:wizardmac:readstat:1.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:wizardmac:readstat:1.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:wizardmac:readstat:1.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:wizardmac:readstat:1.0.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:wizardmac:readstat:1.0.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:wizardmac:readstat:1.0.0:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:wizardmac:readstat:1.0.0:rc7:*:*:*:*:*:*
+  - cpe:2.3:a:wizardmac:readstat:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wizardmac:readstat:1.0.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:wizardmac:readstat:1.0.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:wizardmac:readstat:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wizardmac:readstat:1.0.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:wizardmac:readstat:1.0.2:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:wizardmac:readstat:1.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:wizardmac:readstat:1.1.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:wizardmac:readstat:1.1.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:wizardmac:readstat:1.1.1:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:wizardmac:readstat:1.1.1:rc1:*:*:*:*:*:*

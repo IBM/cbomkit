@@ -1,0 +1,6 @@
+purls:
+  - pkg:ghostscript/ghostpdl
+  - pkg:ghostscript/gsdnld
+  - pkg:github/artifexsoftware/ghostpdl
+  - pkg:github/artifexsoftware/ghostpdl-downloads
+  - pkg:rpm/opensuse/ghostpdl

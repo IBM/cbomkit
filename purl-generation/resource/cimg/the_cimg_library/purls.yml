@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/cimg
+  - pkg:deb/ubuntu/cimg
+  - pkg:github/greyclab/cimg
+  - pkg:pypi/pycimg
+  - pkg:rpm/fedora/cimg
+  - pkg:rpm/opensuse/cimg

@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:limdu_project:limdu:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:limdu_project:limdu:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:limdu_project:limdu:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:limdu_project:limdu:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:limdu_project:limdu:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:limdu_project:limdu:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:limdu_project:limdu:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:limdu_project:limdu:0.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:limdu_project:limdu:0.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:limdu_project:limdu:0.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:limdu_project:limdu:0.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:limdu_project:limdu:0.9.5:*:*:*:*:*:*:*

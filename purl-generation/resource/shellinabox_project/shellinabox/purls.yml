@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/nwilli/shellinabox
+  - pkg:deb/debian/shellinabox
+  - pkg:deb/ubuntu/shellinabox
+  - pkg:github/shellinabox/shellinabox
+  - pkg:rpm/fedora/shellinabox
+  - pkg:rpm/opensuse/shellinabox

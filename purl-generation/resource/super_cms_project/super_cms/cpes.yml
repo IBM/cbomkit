@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:super_cms_project:super_cms:20150204:*:*:*:*:*:*:*
+  - cpe:2.3:a:super_cms_project:super_cms:20150505:*:*:*:*:*:*:*
+  - cpe:2.3:a:super_cms_project:super_cms:20200214:*:*:*:*:*:*:*

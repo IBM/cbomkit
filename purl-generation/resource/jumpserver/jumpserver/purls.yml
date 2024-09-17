@@ -1,0 +1,4 @@
+purls:
+  - pkg:gitee/jumpserver/jumpserver
+  - pkg:github/jumpserver/jumpserver
+  - pkg:golang/github.com/jumpserver/jumpserver

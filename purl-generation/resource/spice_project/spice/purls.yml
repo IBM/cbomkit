@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/freedesktop/spice
+  - pkg:gitlab/redhat/spice
+  - pkg:rpm/fedora/spice

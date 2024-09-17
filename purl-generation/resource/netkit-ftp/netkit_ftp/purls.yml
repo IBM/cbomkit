@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/netkit-ftp
+  - pkg:deb/ubuntu/netkit-ftp
+  - pkg:github/mmaraya/netkit-ftp

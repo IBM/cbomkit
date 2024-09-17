@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/jss
+  - pkg:deb/ubuntu/jss
+  - pkg:github/dogtagpki/jss
+  - pkg:rpm/centos/jss
+  - pkg:rpm/fedora/jss
+  - pkg:rpm/opensuse/jss

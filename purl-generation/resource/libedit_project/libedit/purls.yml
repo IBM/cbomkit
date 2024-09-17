@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/libedit
+  - pkg:deb/ubuntu/libedit
+  - pkg:github/jhanssen/libedit
+  - pkg:github/ksherlock/libedit
+  - pkg:github/thomasadam/libedit
+  - pkg:gitlab/redhat/libedit
+  - pkg:rpm/centos/libedit
+  - pkg:rpm/fedora/libedit
+  - pkg:rpm/opensuse/libedit

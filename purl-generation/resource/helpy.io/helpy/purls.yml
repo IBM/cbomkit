@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/helpy/helpy
+  - pkg:github/helpyio/helpy
+  - pkg:gitlab/ekylibre/helpy
+  - pkg:pypi/helpy
+  - pkg:sourceforge/helpy.mirror

@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/cgi
+  - pkg:github/ruby/cgi

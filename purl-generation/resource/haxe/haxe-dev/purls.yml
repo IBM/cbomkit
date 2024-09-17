@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/clemos/npm-haxe
+  - pkg:github/haxefoundation/npm-haxe
+  - pkg:npm/haxe-dev

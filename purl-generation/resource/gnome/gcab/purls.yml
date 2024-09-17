@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/gcab
+  - pkg:deb/ubuntu/gcab
+  - pkg:github/gnome/gcab
+  - pkg:rpm/fedora/gcab
+  - pkg:rpm/opensuse/gcab

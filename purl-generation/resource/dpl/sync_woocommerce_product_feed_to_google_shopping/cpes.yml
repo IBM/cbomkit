@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:dpl:sync_woocommerce_product_feed_to_google_shopping:1.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:dpl:sync_woocommerce_product_feed_to_google_shopping:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/poljar/matrix-nio
+  - pkg:golang/github.com/poljar/matrix-nio

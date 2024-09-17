@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:myclientbase:myclientbase:0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:myclientbase:myclientbase:0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:myclientbase:myclientbase:0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:myclientbase:myclientbase:0.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:myclientbase:myclientbase:0.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:myclientbase:myclientbase:0.8.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:myclientbase:myclientbase:0.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:myclientbase:myclientbase:0.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:myclientbase:myclientbase:0.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:myclientbase:myclientbase:0.9.5:*:*:*:*:*:*:*

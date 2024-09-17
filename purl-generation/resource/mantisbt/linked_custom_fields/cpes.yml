@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:mantisbt:linked_custom_fields:1.0.1:*:*:*:*:mantisbt:*:*
+  - cpe:2.3:a:mantisbt:linked_custom_fields:1.0:*:*:*:*:mantisbt:*:*
+  - cpe:2.3:a:mantisbt:linked_custom_fields:2.0.0:*:*:*:*:mantisbt:*:*
+  - cpe:2.3:a:mantisbt:linked_custom_fields:*:*:*:*:*:mantisbt:*:*
+  - cpe:2.3:a:mantisbt:linked_custom_fields:-:*:*:*:*:mantisbt:*:*

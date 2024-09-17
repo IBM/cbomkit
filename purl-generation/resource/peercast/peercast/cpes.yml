@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:peercast:peercast:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:peercast:peercast:0.1211:*:*:*:*:*:*:*
+  - cpe:2.3:a:peercast:peercast:0.1212:*:*:*:*:*:*:*
+  - cpe:2.3:a:peercast:peercast:0.1215:*:*:*:*:*:*:*
+  - cpe:2.3:a:peercast:peercast:0.1218:*:*:*:*:*:*:*

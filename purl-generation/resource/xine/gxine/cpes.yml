@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:xine:gxine:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:xine:gxine:0.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:xine:gxine:0.42:*:*:*:*:*:*:*
+  - cpe:2.3:a:xine:gxine:0.43:*:*:*:*:*:*:*
+  - cpe:2.3:a:xine:gxine:0.44:*:*:*:*:*:*:*
+  - cpe:2.3:a:xine:gxine:0.5.6:*:*:*:*:*:*:*

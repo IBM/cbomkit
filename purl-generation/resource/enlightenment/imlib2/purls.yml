@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/imlib2
+  - pkg:deb/ubuntu/imlib2
+  - pkg:github/0xd61/imlib2
+  - pkg:github/kkoudev/imlib2
+  - pkg:rpm/fedora/imlib2
+  - pkg:rpm/opensuse/imlib2

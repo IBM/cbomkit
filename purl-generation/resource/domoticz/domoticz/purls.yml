@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/domoticz/domoticz
+  - pkg:github/domoticz/domoticz
+  - pkg:rpm/fedora/domoticz
+  - pkg:rpm/opensuse/domoticz

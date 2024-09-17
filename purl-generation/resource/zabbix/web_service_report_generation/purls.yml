@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/zabbix/zabbix-docker
+  - pkg:golang/github.com/zabbix/zabbix-docker

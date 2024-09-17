@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/synchronetbbs/sbbs
+  - pkg:gitlab/SynchronetBBS/sbbs
+  - pkg:sourceforge/synchronet

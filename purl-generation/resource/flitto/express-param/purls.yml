@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/flitto/express-param
+  - pkg:npm/express-param

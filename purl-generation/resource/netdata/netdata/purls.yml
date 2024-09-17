@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/netdata
+  - pkg:deb/ubuntu/netdata
+  - pkg:docker/netdata/netdata
+  - pkg:github/netdata/netdata
+  - pkg:rpm/fedora/netdata
+  - pkg:rpm/opensuse/netdata
+  - pkg:sourceforge/netdata.mirror

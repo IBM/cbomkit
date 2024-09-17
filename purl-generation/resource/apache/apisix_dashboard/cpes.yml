@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:apache:apisix_dashboard:0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix_dashboard:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix_dashboard:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix_dashboard:2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix_dashboard:2.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix_dashboard:2.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix_dashboard:2.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix_dashboard:2.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix_dashboard:2.1.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix_dashboard:2.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix_dashboard:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix_dashboard:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix_dashboard:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix_dashboard:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix_dashboard:2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix_dashboard:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apisix_dashboard:2.7:*:*:*:*:*:*:*

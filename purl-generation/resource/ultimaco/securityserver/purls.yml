@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bentonstark/libhsm
+  - pkg:github/bentonstark/py-hsm

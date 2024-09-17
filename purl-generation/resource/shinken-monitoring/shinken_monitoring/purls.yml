@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/naparuba/shinken
+  - pkg:pypi/shinken
+  - pkg:rpm/fedora/shinken
+  - pkg:rpm/opensuse/shinken
+  - pkg:sourceforge/shinken

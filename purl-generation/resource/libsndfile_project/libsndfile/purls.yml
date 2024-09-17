@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libsndfile
+  - pkg:deb/ubuntu/libsndfile
+  - pkg:github/libsndfile/libsndfile
+  - pkg:rpm/centos/libsndfile
+  - pkg:rpm/fedora/libsndfile
+  - pkg:rpm/opensuse/libsndfile

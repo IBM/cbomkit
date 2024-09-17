@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:rp-pppoe_project:rp-pppoe:3.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:rp-pppoe_project:rp-pppoe:3.13:*:*:*:*:*:*:*

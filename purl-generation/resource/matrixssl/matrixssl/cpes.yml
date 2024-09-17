@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:matrixssl:matrixssl:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:3.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:3.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:3.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:3.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:3.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:3.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:3.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:3.8.7a:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:3.8.7b:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:3.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:3.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:3.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:3.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:4.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:4.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:4.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:4.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrixssl:matrixssl:4.6.0:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tford9/wiki-faces-downloader
+  - pkg:pypi/wikifaces

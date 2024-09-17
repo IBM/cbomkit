@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/atftp
+  - pkg:deb/ubuntu/atftp
+  - pkg:github/seveas/atftp
+  - pkg:rpm/opensuse/atftp
+  - pkg:sourceforge/atftp

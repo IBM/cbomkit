@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/yaml-cpp
+  - pkg:deb/ubuntu/yaml-cpp
+  - pkg:github/jbeder/yaml-cpp
+  - pkg:gitlab/redhat/yaml-cpp
+  - pkg:rpm/fedora/yaml-cpp
+  - pkg:rpm/opensuse/yaml-cpp

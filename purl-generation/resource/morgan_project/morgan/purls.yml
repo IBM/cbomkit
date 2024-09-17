@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-morgan
+  - pkg:deb/ubuntu/node-morgan
+  - pkg:github/expressjs/morgan
+  - pkg:maven/org.webjars.npm/morgan
+  - pkg:npm/morgan

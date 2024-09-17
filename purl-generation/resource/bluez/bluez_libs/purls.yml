@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bluez/bluez
+  - pkg:golang/github.com/bluez/bluez

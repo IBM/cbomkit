@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/matrix-sydent
+  - pkg:deb/ubuntu/matrix-sydent
+  - pkg:github/matrix-org/sydent
+  - pkg:pypi/matrix-sydent

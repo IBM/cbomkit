@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-date-parser
+  - pkg:deb/ubuntu/php-horde-date-parser
+  - pkg:github/horde/date_parser
+  - pkg:rpm/fedora/php-horde-horde-date-parser

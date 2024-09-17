@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:calamine_project:calamine:0.13.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:calamine_project:calamine:0.14.10:*:*:*:*:rust:*:*
+  - cpe:2.3:a:calamine_project:calamine:0.14.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:calamine_project:calamine:0.14.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:calamine_project:calamine:0.14.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:calamine_project:calamine:0.14.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:calamine_project:calamine:0.14.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:calamine_project:calamine:0.14.7:*:*:*:*:rust:*:*
+  - cpe:2.3:a:calamine_project:calamine:0.14.8:*:*:*:*:rust:*:*
+  - cpe:2.3:a:calamine_project:calamine:0.14.9:*:*:*:*:rust:*:*
+  - cpe:2.3:a:calamine_project:calamine:0.14:*:*:*:*:rust:*:*
+  - cpe:2.3:a:calamine_project:calamine:0.15.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:calamine_project:calamine:0.15.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:calamine_project:calamine:0.15.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:calamine_project:calamine:0.15.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:calamine_project:calamine:0.15.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:calamine_project:calamine:0.15.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:calamine_project:calamine:0.15.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:calamine_project:calamine:0.16.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:calamine_project:calamine:0.16.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:calamine_project:calamine:0.16.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:calamine_project:calamine:0.17.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:calamine_project:calamine:-:*:*:*:*:rust:*:*

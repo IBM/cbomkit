@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:apache:ldap_studio:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ldap_studio:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ldap_studio:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:ldap_studio:0.8.1:*:*:*:*:*:*:*

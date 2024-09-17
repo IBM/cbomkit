@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/d6y/hudson-s3
+  - pkg:github/dougm/hudson-s3
+  - pkg:github/jenkinsci/s3-plugin

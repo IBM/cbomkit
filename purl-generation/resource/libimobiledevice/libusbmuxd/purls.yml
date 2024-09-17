@@ -1,0 +1,9 @@
+purls:
+  - pkg:bitbucket/radj/libusbmuxd
+  - pkg:deb/debian/libusbmuxd
+  - pkg:deb/ubuntu/libusbmuxd
+  - pkg:github/libimobiledevice/libusbmuxd
+  - pkg:nuget/libusbmuxd
+  - pkg:rpm/centos/libusbmuxd
+  - pkg:rpm/fedora/libusbmuxd
+  - pkg:rpm/opensuse/libusbmuxd

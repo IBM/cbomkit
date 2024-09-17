@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:misp-project:misp:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:misp-project:misp:2.4.139:*:*:*:*:*:*:*
+  - cpe:2.3:a:misp-project:misp:2.4.167:*:*:*:*:*:*:*
+  - cpe:2.3:a:misp-project:misp:2.4.82:*:*:*:*:*:*:*
+  - cpe:2.3:a:misp-project:misp:2.4.91:*:*:*:*:*:*:*

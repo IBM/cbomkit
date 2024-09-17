@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-gnome2
+  - pkg:deb/ubuntu/ruby-gnome2
+  - pkg:gem/gtk2
+  - pkg:github/ruby-gnome/ruby-gnome
+  - pkg:rpm/fedora/ruby-gnome2
+  - pkg:sourceforge/ruby-gnome2

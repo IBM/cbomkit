@@ -1,0 +1,5 @@
+purls:
+  - pkg:gem/multi_xml
+  - pkg:github/sferik/multi_xml
+  - pkg:rpm/fedora/rubygem-multi_xml
+  - pkg:rpm/opensuse/rubygem-multi_xml

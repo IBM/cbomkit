@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/nuxt/framework
+  - pkg:golang/github.com/nuxt/framework
+  - pkg:maven/org.webjars.bowergithub.nuxt/framework

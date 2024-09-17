@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/wavesurfer
+  - pkg:deb/ubuntu/wavesurfer
+  - pkg:rpm/opensuse/wavesurfer
+  - pkg:sourceforge/wavesurfer

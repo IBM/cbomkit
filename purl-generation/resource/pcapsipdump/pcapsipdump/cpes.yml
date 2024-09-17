@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:pcapsipdump:pcapsipdump:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pcapsipdump:pcapsipdump:0.1.1:*:*:*:*:*:*:*

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-sanitize
+  - pkg:deb/ubuntu/ruby-sanitize
+  - pkg:gem/sanitize
+  - pkg:github/rgrove/sanitize
+  - pkg:rpm/opensuse/rubygem-sanitize

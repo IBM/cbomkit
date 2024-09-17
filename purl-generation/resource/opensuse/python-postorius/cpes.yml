@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:opensuse:python-postorius:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:python-postorius:1.3.2-lp152.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:python-postorius:1.3.4-2.1:*:*:*:*:*:*:*

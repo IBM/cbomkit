@@ -1,0 +1,12 @@
+purls:
+  - pkg:cpan/jmespath
+  - pkg:deb/debian/ruby-jmespath
+  - pkg:deb/ubuntu/ruby-jmespath
+  - pkg:gem/jmespath
+  - pkg:github/jmespath/jmespath.py
+  - pkg:github/jmespath/jmespath.rb
+  - pkg:gitlab/redhat/python-jmespath
+  - pkg:npm/jmespath
+  - pkg:pypi/jmespath
+  - pkg:rpm/fedora/rubygem-jmespath
+  - pkg:rpm/opensuse/rubygem-jmespath

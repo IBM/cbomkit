@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/prisma/prisma
+  - pkg:npm/prisma
+  - pkg:sourceforge/prisma.mirror

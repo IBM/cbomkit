@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:simon_mcvittie:telepathy_gabble:0.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simon_mcvittie:telepathy_gabble:0.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:simon_mcvittie:telepathy_gabble:0.16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:simon_mcvittie:telepathy_gabble:0.16.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:simon_mcvittie:telepathy_gabble:0.16.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:simon_mcvittie:telepathy_gabble:0.16.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:simon_mcvittie:telepathy_gabble:0.16.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:simon_mcvittie:telepathy_gabble:0.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simon_mcvittie:telepathy_gabble:0.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:simon_mcvittie:telepathy_gabble:0.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:simon_mcvittie:telepathy_gabble:0.17.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:simon_mcvittie:telepathy_gabble:0.17.4:*:*:*:*:*:*:*

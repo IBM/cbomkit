@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:raygun:raygun4wp:1.0.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:raygun:raygun4wp:1.0.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:raygun:raygun4wp:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:raygun:raygun4wp:1.1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:raygun:raygun4wp:1.1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:raygun:raygun4wp:1.1.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:raygun:raygun4wp:1.1.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:raygun:raygun4wp:1.2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:raygun:raygun4wp:1.2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:raygun:raygun4wp:1.3.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:raygun:raygun4wp:1.4.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:raygun:raygun4wp:1.4.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:raygun:raygun4wp:1.6.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:raygun:raygun4wp:1.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:raygun:raygun4wp:1.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:raygun:raygun4wp:1.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:raygun:raygun4wp:1.7.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:raygun:raygun4wp:1.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:raygun:raygun4wp:1.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:raygun:raygun4wp:1.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:raygun:raygun4wp:1.8.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:raygun:raygun4wp:1.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:raygun:raygun4wp:1.9.1:*:*:*:*:wordpress:*:*

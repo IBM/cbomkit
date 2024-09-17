@@ -1,0 +1,3 @@
+purls:
+  - pkg:nuget/xecms.framework
+  - pkg:sourceforge/phpforume

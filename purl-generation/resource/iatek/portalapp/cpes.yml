@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:iatek:portalapp:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:iatek:portalapp:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:iatek:portalapp:3.3:*:*:*:*:*:*:*

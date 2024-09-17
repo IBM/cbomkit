@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/opensips
+  - pkg:deb/ubuntu/opensips
+  - pkg:github/opensips/opensips
+  - pkg:rpm/fedora/opensips
+  - pkg:rpm/opensuse/opensips
+  - pkg:sourceforge/opensips

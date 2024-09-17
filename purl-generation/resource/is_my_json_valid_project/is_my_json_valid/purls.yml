@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mafintosh/is-my-json-valid
+  - pkg:maven/org.webjars.npm/is-my-json-valid
+  - pkg:npm/is-my-json-valid

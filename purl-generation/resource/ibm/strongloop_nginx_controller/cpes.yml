@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:ibm:strongloop_nginx_controller:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ibm:strongloop_nginx_controller:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ibm:strongloop_nginx_controller:1.0.2:*:*:*:*:*:*:*

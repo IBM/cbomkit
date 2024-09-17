@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:fordnn:usersexportimport:1.0.0:*:*:*:*:dotnetnuke:*:*
+  - cpe:2.3:a:fordnn:usersexportimport:1.1.0:*:*:*:*:dotnetnuke:*:*
+  - cpe:2.3:a:fordnn:usersexportimport:1.1.1:*:*:*:*:dotnetnuke:*:*
+  - cpe:2.3:a:fordnn:usersexportimport:1.1.2:*:*:*:*:dotnetnuke:*:*
+  - cpe:2.3:a:fordnn:usersexportimport:1.1.3:*:*:*:*:dotnetnuke:*:*
+  - cpe:2.3:a:fordnn:usersexportimport:1.1.4:*:*:*:*:dotnetnuke:*:*
+  - cpe:2.3:a:fordnn:usersexportimport:1.1.5:*:*:*:*:dotnetnuke:*:*
+  - cpe:2.3:a:fordnn:usersexportimport:1.1.7:*:*:*:*:dotnetnuke:*:*
+  - cpe:2.3:a:fordnn:usersexportimport:1.2.0:*:*:*:*:dotnetnuke:*:*
+  - cpe:2.3:a:fordnn:usersexportimport:-:*:*:*:*:dotnetnuke:*:*

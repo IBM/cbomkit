@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dogtagpki/pki
+  - pkg:gitlab/dogtagpki/pki

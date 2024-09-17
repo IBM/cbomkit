@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/codelibs/fess
+  - pkg:maven/org.codelibs.fess/fess

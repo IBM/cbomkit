@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/localstack/localstack
+  - pkg:github/localstack/localstack
+  - pkg:pypi/localstack
+  - pkg:sourceforge/localstack.mirror

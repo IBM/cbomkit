@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:neo4j:awesome_procedures:3.5.17:*:*:*:*:neo4j:*:*
+  - cpe:2.3:a:neo4j:awesome_procedures:4.2.0.0:*:*:*:*:neo4j:*:*
+  - cpe:2.3:a:neo4j:awesome_procedures:4.2.10:*:*:*:*:neo4j:*:*
+  - cpe:2.3:a:neo4j:awesome_procedures:4.3.0.0:*:*:*:*:neo4j:*:*
+  - cpe:2.3:a:neo4j:awesome_procedures:4.3.0.4:*:*:*:*:neo4j:*:*
+  - cpe:2.3:a:neo4j:awesome_procedures:4.4.0.0:*:*:*:*:neo4j:*:*
+  - cpe:2.3:a:neo4j:awesome_procedures:4.4.0.1:*:*:*:*:neo4j:*:*
+  - cpe:2.3:a:neo4j:awesome_procedures:*:*:*:*:*:neo4j:*:*
+  - cpe:2.3:a:neo4j:awesome_procedures:-:*:*:*:*:neo4j:*:*

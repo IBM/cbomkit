@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sunnyhaze/scu-captcha
+  - pkg:pypi/scu-captcha

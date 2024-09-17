@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:openarena:openarena:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openarena:openarena:0.8.x-15:*:*:*:*:*:*:*
+  - cpe:2.3:a:openarena:openarena:0.8.x-16:*:*:*:*:*:*:*

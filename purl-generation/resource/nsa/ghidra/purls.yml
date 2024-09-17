@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/nationalsecurityagency/ghidra
+  - pkg:gitlab/kalilinux/ghidra
+  - pkg:rpm/opensuse/ghidra

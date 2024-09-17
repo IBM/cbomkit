@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/containrrr/shoutrrr
+  - pkg:github/containrrr/shoutrrr

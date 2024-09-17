@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/any23
+  - pkg:github/apache/any23
+  - pkg:maven/org.apache.any23/apache-any23
+  - pkg:maven/org.apache.any23/apache-any23-core

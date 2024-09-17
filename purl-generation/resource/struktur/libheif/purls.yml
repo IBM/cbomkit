@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/libheif
+  - pkg:deb/ubuntu/libheif
+  - pkg:github/strukturag/libheif
+  - pkg:rpm/opensuse/libheif

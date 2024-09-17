@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:prestashop:ps_emailsubscription:2.6.0:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:ps_emailsubscription:2.6.1:*:*:*:*:prestashop:*:*

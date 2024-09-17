@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/cron
+  - pkg:deb/ubuntu/cron
+  - pkg:github/vixie/cron
+  - pkg:rpm/opensuse/cron

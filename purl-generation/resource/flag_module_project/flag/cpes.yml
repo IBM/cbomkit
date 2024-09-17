@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:flag_module_project:flag:7.x-3.0:alpha1:*:*:*:drupal:*:*
+  - cpe:2.3:a:flag_module_project:flag:7.x-3.0:alpha2:*:*:*:drupal:*:*
+  - cpe:2.3:a:flag_module_project:flag:7.x-3.0:alpha3:*:*:*:drupal:*:*
+  - cpe:2.3:a:flag_module_project:flag:7.x-3.0:alpha4:*:*:*:drupal:*:*
+  - cpe:2.3:a:flag_module_project:flag:7.x-3.0:beta1:*:*:*:drupal:*:*
+  - cpe:2.3:a:flag_module_project:flag:7.x-3.0:-:*:*:*:drupal:*:*
+  - cpe:2.3:a:flag_module_project:flag:7.x-3.0:rc1:*:*:*:drupal:*:*
+  - cpe:2.3:a:flag_module_project:flag:7.x-3.1:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:flag_module_project:flag:7.x-3.2:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:flag_module_project:flag:7.x-3.3:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:flag_module_project:flag:7.x-3.4:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:flag_module_project:flag:7.x-3.5:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:flag_module_project:flag:7.x-3.x:dev:*:*:*:drupal:*:*

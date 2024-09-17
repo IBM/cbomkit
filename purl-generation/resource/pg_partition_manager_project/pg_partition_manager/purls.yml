@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/pg_partition_manager
+  - pkg:github/pgpartman/pg_partman
+  - pkg:golang/github.com/pgpartman/pg_partman

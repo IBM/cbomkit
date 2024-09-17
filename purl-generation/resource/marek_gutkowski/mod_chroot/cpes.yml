@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:marek_gutkowski:mod_chroot:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:marek_gutkowski:mod_chroot:0.5:*:*:*:*:*:*:*

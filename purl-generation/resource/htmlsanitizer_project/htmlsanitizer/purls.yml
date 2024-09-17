@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mganss/htmlsanitizer
+  - pkg:nuget/HtmlSanitizer

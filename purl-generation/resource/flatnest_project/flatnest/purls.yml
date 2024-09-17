@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/brycebaril/node-flatnest
+  - pkg:npm/flatnest

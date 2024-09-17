@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:wasm3_project:wasm3:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wasm3_project:wasm3:0.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:wasm3_project:wasm3:0.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:wasm3_project:wasm3:0.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:wasm3_project:wasm3:0.4.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:wasm3_project:wasm3:0.4.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:wasm3_project:wasm3:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wasm3_project:wasm3:2022-08-28:*:*:*:*:*:*:*

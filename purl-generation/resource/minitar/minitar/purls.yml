@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-minitar
+  - pkg:deb/ubuntu/ruby-minitar
+  - pkg:gem/minitar
+  - pkg:github/halostatue/minitar
+  - pkg:rpm/opensuse/rubygem-minitar

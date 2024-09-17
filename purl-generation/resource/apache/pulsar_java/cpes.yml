@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:apache:pulsar_java:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pulsar_java:2.10.0:*:*:*:*:*:*:*

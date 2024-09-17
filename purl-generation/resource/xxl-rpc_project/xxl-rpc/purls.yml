@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/xuxueli/xxl-rpc
+  - pkg:maven/com.xuxueli/xxl-rpc

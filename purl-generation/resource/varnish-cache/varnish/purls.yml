@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/varnish
+  - pkg:deb/ubuntu/varnish
+  - pkg:github/varnishcache/varnish-cache
+  - pkg:gitlab/redhat/varnish
+  - pkg:rpm/centos/varnish
+  - pkg:rpm/fedora/varnish
+  - pkg:rpm/opensuse/varnish
+  - pkg:sourceforge/varnish

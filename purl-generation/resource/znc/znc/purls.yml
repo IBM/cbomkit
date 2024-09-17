@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/znc
+  - pkg:deb/ubuntu/znc
+  - pkg:github/znc/znc
+  - pkg:rpm/fedora/znc
+  - pkg:rpm/opensuse/znc
+  - pkg:sourceforge/znc

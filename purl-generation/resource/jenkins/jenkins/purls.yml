@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/jenkins/jenkins
+  - pkg:github/jenkinsci/jenkins

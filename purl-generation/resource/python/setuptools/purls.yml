@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/pypy-setuptools
+  - pkg:deb/debian/python-setuptools
+  - pkg:deb/ubuntu/pypy-setuptools
+  - pkg:deb/ubuntu/python-setuptools
+  - pkg:github/pypa/setuptools
+  - pkg:gitlab/python-setuptools
+  - pkg:pypi/setuptools
+  - pkg:rpm/fedora/python-setuptools
+  - pkg:rpm/opensuse/python-setuptools

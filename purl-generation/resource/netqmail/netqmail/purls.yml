@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/ubuntu/netqmail
+  - pkg:github/icculus/netqmail
+  - pkg:github/mdamt/netqmail
+  - pkg:github/toorop/netqmail
+  - pkg:rpm/opensuse/netqmail

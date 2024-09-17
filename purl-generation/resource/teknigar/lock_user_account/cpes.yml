@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:teknigar:lock_user_account:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:teknigar:lock_user_account:*:*:*:*:*:wordpress:*:*

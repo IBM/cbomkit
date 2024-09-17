@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/svenhelmer/overlayweaver
+  - pkg:github/shudo/overlayweaver
+  - pkg:sourceforge/overlayweaver

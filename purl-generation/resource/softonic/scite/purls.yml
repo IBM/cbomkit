@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/scite
+  - pkg:deb/ubuntu/scite
+  - pkg:rpm/fedora/scite
+  - pkg:rpm/opensuse/scite
+  - pkg:sourceforge/scintilla

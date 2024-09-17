@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dcurrent/openbor
+  - pkg:rpm/opensuse/openbor

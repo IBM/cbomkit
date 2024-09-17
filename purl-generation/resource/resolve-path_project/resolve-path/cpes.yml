@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:resolve-path_project:resolve-path:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:resolve-path_project:resolve-path:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:resolve-path_project:resolve-path:1.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:resolve-path_project:resolve-path:1.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:resolve-path_project:resolve-path:1.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:resolve-path_project:resolve-path:1.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:resolve-path_project:resolve-path:1.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:resolve-path_project:resolve-path:1.3.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:resolve-path_project:resolve-path:1.3.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:resolve-path_project:resolve-path:1.4.0:*:*:*:*:node.js:*:*

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:filebroker_project:filebroker:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:filebroker_project:filebroker:-:*:*:*:*:*:*:*

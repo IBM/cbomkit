@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:jhipster:generator-jhipster:7.0.0:beta0:*:*:*:node.js:*:*
+  - cpe:2.3:a:jhipster:generator-jhipster:7.0.0:beta1:*:*:*:node.js:*:*
+  - cpe:2.3:a:jhipster:generator-jhipster:7.0.0:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:jhipster:generator-jhipster:7.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jhipster:generator-jhipster:7.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jhipster:generator-jhipster:7.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jhipster:generator-jhipster:7.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jhipster:generator-jhipster:7.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jhipster:generator-jhipster:7.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jhipster:generator-jhipster:7.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jhipster:generator-jhipster:7.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jhipster:generator-jhipster:7.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jhipster:generator-jhipster:7.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jhipster:generator-jhipster:7.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jhipster:generator-jhipster:7.8.1:*:*:*:*:node.js:*:*

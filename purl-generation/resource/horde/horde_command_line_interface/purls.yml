@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-horde-cli
+  - pkg:deb/ubuntu/php-horde-cli
+  - pkg:github/horde/cli
+  - pkg:rpm/fedora/php-horde-horde-cli
+  - pkg:rpm/opensuse/php-horde-horde-cli

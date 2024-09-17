@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libxi
+  - pkg:deb/ubuntu/libxi
+  - pkg:github/freedesktop/xorg-libxi
+  - pkg:rpm/centos/libxi
+  - pkg:rpm/fedora/libxi
+  - pkg:rpm/opensuse/libxi

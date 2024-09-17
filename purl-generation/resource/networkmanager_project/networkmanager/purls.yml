@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/networkmanager/networkmanager
+  - pkg:rpm/fedora/networkmanager
+  - pkg:rpm/opensuse/networkmanager

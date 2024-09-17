@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:hwk:wp_404_auto_redirect_to_similar_post:0.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hwk:wp_404_auto_redirect_to_similar_post:0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hwk:wp_404_auto_redirect_to_similar_post:0.4.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hwk:wp_404_auto_redirect_to_similar_post:0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hwk:wp_404_auto_redirect_to_similar_post:0.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hwk:wp_404_auto_redirect_to_similar_post:0.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hwk:wp_404_auto_redirect_to_similar_post:0.7.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hwk:wp_404_auto_redirect_to_similar_post:0.7.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hwk:wp_404_auto_redirect_to_similar_post:0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hwk:wp_404_auto_redirect_to_similar_post:0.9.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hwk:wp_404_auto_redirect_to_similar_post:0.9.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hwk:wp_404_auto_redirect_to_similar_post:0.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hwk:wp_404_auto_redirect_to_similar_post:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hwk:wp_404_auto_redirect_to_similar_post:1.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hwk:wp_404_auto_redirect_to_similar_post:1.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hwk:wp_404_auto_redirect_to_similar_post:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hwk:wp_404_auto_redirect_to_similar_post:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hwk:wp_404_auto_redirect_to_similar_post:-:*:*:*:*:wordpress:*:*

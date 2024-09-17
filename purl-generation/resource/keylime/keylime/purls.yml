@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/keylime/keylime
+  - pkg:rpm/fedora/keylime
+  - pkg:rpm/opensuse/keylime

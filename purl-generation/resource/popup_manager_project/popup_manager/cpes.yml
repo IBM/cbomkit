@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:popup_manager_project:popup_manager:1.6.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:popup_manager_project:popup_manager:*:*:*:*:*:wordpress:*:*

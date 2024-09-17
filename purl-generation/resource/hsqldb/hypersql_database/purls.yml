@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/hsqldb
+  - pkg:deb/ubuntu/hsqldb
+  - pkg:github/necrontyr/hsqldb
+  - pkg:github/ryenus/hsqldb
+  - pkg:maven/org.hsqldb/hsqldb
+  - pkg:rpm/centos/hsqldb
+  - pkg:rpm/fedora/hsqldb
+  - pkg:rpm/opensuse/hsqldb
+  - pkg:sourceforge/hsqldb

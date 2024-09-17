@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:petersplugins:link_log:0.2.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:petersplugins:link_log:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:petersplugins:link_log:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:petersplugins:link_log:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:petersplugins:link_log:1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:petersplugins:link_log:1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:petersplugins:link_log:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:petersplugins:link_log:2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:petersplugins:link_log:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:petersplugins:link_log:2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:petersplugins:link_log:2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:petersplugins:link_log:3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:petersplugins:link_log:4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:petersplugins:link_log:5:*:*:*:*:wordpress:*:*

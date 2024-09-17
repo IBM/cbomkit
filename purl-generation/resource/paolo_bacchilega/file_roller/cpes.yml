@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:paolo_bacchilega:file_roller:3.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:paolo_bacchilega:file_roller:3.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:paolo_bacchilega:file_roller:3.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:paolo_bacchilega:file_roller:3.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:paolo_bacchilega:file_roller:3.20.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:paolo_bacchilega:file_roller:3.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:paolo_bacchilega:file_roller:3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:paolo_bacchilega:file_roller:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:paolo_bacchilega:file_roller:3.6.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:paolo_bacchilega:file_roller:3.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:paolo_bacchilega:file_roller:3.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:paolo_bacchilega:file_roller:3.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:paolo_bacchilega:file_roller:3.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:paolo_bacchilega:file_roller:3.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:paolo_bacchilega:file_roller:3.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:paolo_bacchilega:file_roller:3.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:paolo_bacchilega:file_roller:3.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:paolo_bacchilega:file_roller:3.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:paolo_bacchilega:file_roller:3.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:paolo_bacchilega:file_roller:3.9.3:*:*:*:*:*:*:*

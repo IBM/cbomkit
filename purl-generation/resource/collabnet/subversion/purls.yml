@@ -1,0 +1,9 @@
+purls:
+  - pkg:apache/subversion
+  - pkg:deb/debian/subversion
+  - pkg:deb/ubuntu/subversion
+  - pkg:github/apache/subversion
+  - pkg:gitlab/redhat/subversion
+  - pkg:rpm/centos/subversion
+  - pkg:rpm/fedora/subversion
+  - pkg:rpm/opensuse/subversion

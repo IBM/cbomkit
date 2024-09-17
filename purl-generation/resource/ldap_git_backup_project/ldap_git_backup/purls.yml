@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/ldap-git-backup
+  - pkg:deb/ubuntu/ldap-git-backup
+  - pkg:github/elmar/ldap-git-backup

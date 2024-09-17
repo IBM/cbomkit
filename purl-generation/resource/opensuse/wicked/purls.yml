@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/opensuse/wicked
+  - pkg:rpm/fedora/wicked
+  - pkg:rpm/opensuse/wicked

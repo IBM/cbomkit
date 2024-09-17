@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:topdigitaltrends:mega_addons_for_wpbakery_page_builder:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:topdigitaltrends:mega_addons_for_wpbakery_page_builder:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:topdigitaltrends:mega_addons_for_wpbakery_page_builder:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:topdigitaltrends:mega_addons_for_wpbakery_page_builder:2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:topdigitaltrends:mega_addons_for_wpbakery_page_builder:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:topdigitaltrends:mega_addons_for_wpbakery_page_builder:2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:topdigitaltrends:mega_addons_for_wpbakery_page_builder:4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:topdigitaltrends:mega_addons_for_wpbakery_page_builder:4.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:topdigitaltrends:mega_addons_for_wpbakery_page_builder:4.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:topdigitaltrends:mega_addons_for_wpbakery_page_builder:4.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:topdigitaltrends:mega_addons_for_wpbakery_page_builder:4.2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:topdigitaltrends:mega_addons_for_wpbakery_page_builder:4.2.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:topdigitaltrends:mega_addons_for_wpbakery_page_builder:*:*:*:*:*:wordpress:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:outgun:outgun:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:outgun:outgun:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:outgun:outgun:1.0.3:*:*:*:*:*:*:*

@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:php-fusion:phpfusion:7.02.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-fusion:phpfusion:8.00.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-fusion:phpfusion:8.00.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-fusion:phpfusion:8.00.60:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-fusion:phpfusion:8.00.70:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-fusion:phpfusion:9.03.100:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-fusion:phpfusion:9.03.110:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-fusion:phpfusion:9.03.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-fusion:phpfusion:9.03.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-fusion:phpfusion:9.03.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-fusion:phpfusion:9.03.60:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-fusion:phpfusion:9.03.70:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-fusion:phpfusion:9.03.80:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-fusion:phpfusion:9.03.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-fusion:phpfusion:9.10.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-fusion:phpfusion:9.10.30:*:*:*:*:*:*:*

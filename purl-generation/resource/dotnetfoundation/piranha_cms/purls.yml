@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/piranhacms/piranha.core
+  - pkg:nuget/Piranha

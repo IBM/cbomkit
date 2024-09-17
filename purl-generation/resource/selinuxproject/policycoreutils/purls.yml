@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/policycoreutils
+  - pkg:deb/ubuntu/policycoreutils
+  - pkg:github/selinuxproject/selinux
+  - pkg:gitlab/redhat/policycoreutils
+  - pkg:rpm/centos/policycoreutils
+  - pkg:rpm/fedora/policycoreutils
+  - pkg:rpm/opensuse/policycoreutils

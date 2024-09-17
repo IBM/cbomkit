@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-nth-check
+  - pkg:deb/ubuntu/node-nth-check
+  - pkg:github/fb55/nth-check
+  - pkg:maven/org.webjars.npm/nth-check
+  - 'pkg:npm/nth-check '

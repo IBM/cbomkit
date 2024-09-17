@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:search_meter_project:search_meter:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_meter_project:search_meter:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_meter_project:search_meter:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_meter_project:search_meter:2.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_meter_project:search_meter:2.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_meter_project:search_meter:2.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_meter_project:search_meter:2.13.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_meter_project:search_meter:2.13.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_meter_project:search_meter:2.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_meter_project:search_meter:2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_meter_project:search_meter:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_meter_project:search_meter:2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_meter_project:search_meter:2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_meter_project:search_meter:2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_meter_project:search_meter:2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_meter_project:search_meter:2.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_meter_project:search_meter:2.7.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_meter_project:search_meter:2.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_meter_project:search_meter:2.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_meter_project:search_meter:2.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_meter_project:search_meter:2.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_meter_project:search_meter:-:*:*:*:*:wordpress:*:*

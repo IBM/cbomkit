@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:mozilla:vpn:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:vpn:-:*:*:*:*:-:*:*
+  - cpe:2.3:a:mozilla:vpn:1.0.7:*:*:*:*:ipados:*:*
+  - cpe:2.3:a:mozilla:vpn:1.1.0:*:*:*:*:android:*:*
+  - cpe:2.3:a:mozilla:vpn:2.16.0:*:*:*:*:linux:*:*
+  - cpe:2.3:a:mozilla:vpn:*:*:*:*:*:android:*:*
+  - cpe:2.3:a:mozilla:vpn:*:*:*:*:*:ipados:*:*
+  - cpe:2.3:a:mozilla:vpn:*:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:mozilla:vpn:*:*:*:*:*:linux:*:*
+  - cpe:2.3:a:mozilla:vpn:*:*:*:*:*:windows:*:*

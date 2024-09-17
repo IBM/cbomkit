@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ohmu/node-posix
+  - pkg:npm/posix

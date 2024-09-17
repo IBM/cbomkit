@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:webspell:webspell:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:webspell:webspell:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:webspell:webspell:4.01.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:webspell:webspell:4.01.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:webspell:webspell:4.01.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:webspell:webspell:4.0.2c:*:*:*:*:*:*:*
+  - cpe:2.3:a:webspell:webspell:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:webspell:webspell:4.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:webspell:webspell:4.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:webspell:webspell:4.2.0c:*:*:*:*:*:*:*
+  - cpe:2.3:a:webspell:webspell:4.2.0d:*:*:*:*:*:*:*
+  - cpe:2.3:a:webspell:webspell:4.2.1:*:*:*:*:*:*:*

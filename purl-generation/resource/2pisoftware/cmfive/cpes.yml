@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:2pisoftware:cmfive:0.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:2pisoftware:cmfive:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:2pisoftware:cmfive:0.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:2pisoftware:cmfive:0.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:2pisoftware:cmfive:2015-03-15:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:powermux_project:powermux:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:powermux_project:powermux:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:powermux_project:powermux:1.1.1:*:*:*:*:*:*:*

@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/npm
+  - pkg:deb/ubuntu/npm
+  - pkg:github/npm/cli
+  - pkg:maven/org.webjars.npm/npm
+  - pkg:npm/npm
+  - pkg:nuget/Npm
+  - pkg:rpm/centos/npm
+  - pkg:rpm/opensuse/npm16
+  - pkg:sourceforge/npm.mirror

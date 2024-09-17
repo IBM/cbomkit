@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:dave_airlie:pam_smb:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:dave_airlie:pam_smb:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dave_airlie:pam_smb:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dave_airlie:pam_smb:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dave_airlie:pam_smb:1.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dave_airlie:pam_smb:1.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dave_airlie:pam_smb:1.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dave_airlie:pam_smb:1.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:dave_airlie:pam_smb:2.0_rc4:*:*:*:*:*:*:*

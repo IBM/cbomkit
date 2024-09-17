@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/mariuscirciu/gitlist
+  - pkg:github/klaussilveira/gitlist
+  - pkg:sourceforge/gitlist

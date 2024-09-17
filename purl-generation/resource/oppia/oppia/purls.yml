@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/kevinlee12/oppia
+  - pkg:github/oppia/oppia
+  - pkg:googlesource/oppia

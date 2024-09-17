@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:simplesamlphp:infocard_module:1.0.1:*:*:*:*:simplesamlphp:*:*
+  - cpe:2.3:a:simplesamlphp:infocard_module:1.0.2:*:*:*:*:simplesamlphp:*:*
+  - cpe:2.3:a:simplesamlphp:infocard_module:1.0:*:*:*:*:simplesamlphp:*:*

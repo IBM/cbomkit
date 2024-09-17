@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/xoops/xoopscore
+  - pkg:github/xoops/xoopscore25
+  - pkg:sourceforge/xoops

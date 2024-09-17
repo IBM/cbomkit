@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/eterm
+  - pkg:deb/ubuntu/eterm
+  - pkg:github/mej/eterm
+  - pkg:rpm/fedora/eterm
+  - pkg:sourceforge/eterm

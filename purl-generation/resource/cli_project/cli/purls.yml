@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/node-js-libs/cli
+  - pkg:npm/cli

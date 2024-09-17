@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/dask
+  - pkg:deb/ubuntu/dask
+  - pkg:github/dask/dask
+  - pkg:pypi/dask
+  - pkg:rpm/fedora/python-dask
+  - pkg:rpm/opensuse/python-dask

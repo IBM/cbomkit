@@ -1,0 +1,3 @@
+purls:
+  - pkg:cpan/perl-dist-strawberry
+  - pkg:github/strawberryperl/perl-dist-strawberry

@@ -1,0 +1,5 @@
+purls:
+  - pkg:cpan/config-model
+  - pkg:github/dod38fr/config-model
+  - pkg:rpm/fedora/perl-config-model
+  - pkg:rpm/opensuse/perl-config-model

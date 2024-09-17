@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libmaxminddb
+  - pkg:deb/ubuntu/libmaxminddb
+  - pkg:github/maxmind/libmaxminddb
+  - pkg:gitlab/redhat/libmaxminddb
+  - pkg:rpm/centos/libmaxminddb
+  - pkg:rpm/fedora/libmaxminddb
+  - pkg:rpm/opensuse/libmaxminddb

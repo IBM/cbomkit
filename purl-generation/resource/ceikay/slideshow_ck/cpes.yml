@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:ceikay:slideshow_ck:1.4.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ceikay:slideshow_ck:-:*:*:*:*:wordpress:*:*

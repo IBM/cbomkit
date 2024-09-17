@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:lispbx_project:lispbx:2.0-4:*:*:*:*:*:*:*
+  - cpe:2.3:a:lispbx_project:lispbx:2.0-5:*:*:*:*:*:*:*

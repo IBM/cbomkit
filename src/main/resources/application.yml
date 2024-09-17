@@ -1,0 +1,37 @@
+quarkus:
+  application:
+    name: "CBOMkit"
+  http:
+    host: 0.0.0.0
+    port: ${CBOMKIT_PORT:8081}
+    cors:
+      ~: true
+      origins: ${CBOMKIT_FRONTEND_URL_CORS:http://localhost:8001}
+  datasource:
+    db-kind: ${CBOMKIT_DB_TYPE:postgresql}
+    username: ${CBOMKIT_DB_USERNAME:cbomkit}
+    password: ${CBOMKIT_DB_PASSWORD:cbomkit}
+    jdbc:
+      url: ${CBOMKIT_DB_JDBC_URL:jdbc:postgresql://localhost:5432/postgres}
+  hibernate-orm:
+    database:
+      generation: "update"
+  websocket:
+    dispatch-to-worker: true
+  smallrye-openapi:
+    info-title: CBOMkit API
+    info-version: 1.0.0
+    info-description: Service for generating and retrieving CBOMs
+service:
+  clone-dir: ${CBOMKIT_CLONEDIR:/home/user/.cbomkit} # specifies the directory in which the cloned Git repositories are stored (temporary)
+  scanning:
+    ibm-qs-explorer:  # if the ibm qs explorer should be used as the service to scan, enable it here and provide the url
+      enabled: false
+      url: ${CBOMKIT_QS_EXPLORER_API_BASE:http://localhost:8000/api/v1/scan"}
+  compliance:
+    regulator:
+      enabled: false
+      url: ${CBOMKIT_REGULATOR_API_BASE:http://localhost:8080}
+
+
+

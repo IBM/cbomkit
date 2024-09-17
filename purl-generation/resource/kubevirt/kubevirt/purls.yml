@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/kubevirt/kubevirt
+  - pkg:gitlab/atlantic-crypto/kubevirt
+  - pkg:rpm/opensuse/kubevirt

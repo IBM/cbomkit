@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/loki13/trojita
+  - pkg:deb/ubuntu/trojita
+  - pkg:github/kde/trojita
+  - pkg:rpm/fedora/trojita
+  - pkg:rpm/opensuse/trojita
+  - pkg:sourceforge/trojita

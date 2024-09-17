@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/oddjob
+  - pkg:deb/ubuntu/oddjob
+  - pkg:gitlab/redhat/oddjob
+  - pkg:rpm/fedora/oddjob
+  - pkg:rpm/opensuse/oddjob

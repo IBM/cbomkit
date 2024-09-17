@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/distcc
+  - pkg:deb/ubuntu/distcc
+  - pkg:github/distcc/distcc
+  - pkg:rpm/fedora/distcc
+  - pkg:rpm/opensuse/distcc

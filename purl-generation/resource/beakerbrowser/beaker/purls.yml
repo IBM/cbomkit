@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/beakerbrowser/beaker
+  - pkg:sourceforge/beaker-browser.mirror

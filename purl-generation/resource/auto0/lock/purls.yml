@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/auth0/lock
+  - pkg:maven/org.webjars.bowergithub.auth0/lock
+  - pkg:npm/auth0-lock

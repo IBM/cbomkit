@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:avahi:avahi-daemon:0.6.23:*:*:*:*:*:*:*

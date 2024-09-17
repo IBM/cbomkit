@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:sonarsource:jenkins_plugin:-:-:-:*:-:sonarqube:*:*

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/dokuwiki
+  - pkg:deb/ubuntu/dokuwiki
+  - pkg:github/splitbrain/dokuwiki
+  - pkg:rpm/fedora/dokuwiki
+  - pkg:rpm/opensuse/dokuwiki

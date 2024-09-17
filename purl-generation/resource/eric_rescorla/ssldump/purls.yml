@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ssldump
+  - pkg:deb/ubuntu/ssldump
+  - pkg:github/adulau/ssldump
+  - pkg:rpm/fedora/ssldump
+  - pkg:rpm/opensuse/ssldump
+  - pkg:sourceforge/ssldump

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:librdf:raptor_rdf_syntax_library:2.0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:librdf:raptor_rdf_syntax_library:2.0.15-27.eln108:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/firebase/php-jwt
+  - pkg:github/luciferous/jwt

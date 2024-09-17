@@ -1,0 +1,87 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: {{ .Values.backend.name }}
+    resource: {{ .Values.backend.name }}
+  name: {{ .Values.backend.name }}
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: {{ .Values.backend.name }}
+      resource: {{ .Values.backend.name }}
+  strategy:
+    type: Recreate
+  template:
+    metadata:
+      labels:
+        app: {{ .Values.backend.name }}
+        resource: {{ .Values.backend.name }}
+    spec:
+      containers:
+        - name: {{ .Values.backend.name }}
+          env:
+            - name: CBOMKIT_DB_TYPE
+              value: postgresql
+            - name: CBOMKIT_DB_JDBC_URL
+              value: jdbc:postgresql://{{ .Values.postgresql.fullnameOverride }}:5432/{{ .Values.postgresql.auth.database }}
+            - name: CBOMKIT_PORT
+              value: "8080"
+            - name: CBOMKITt_DB_USERNAME
+              valueFrom:
+                secretKeyRef:
+                  key: username
+                  name: {{ .Values.backend.name }}-secret
+            - name: CBOMKIT_DB_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  key: password
+                  name: {{ .Values.backend.name }}-secret
+            - name: CBOMKIT_FRONTEND_URL_CORS
+              value: "https://{{ .Values.frontend.name }}-{{ .Release.Namespace }}.{{ .Values.common.clusterDomain }}"
+            {{ if .Values.regulator.enabled }}
+            - name: CBOMKIT_REGULATOR_API_BASE
+              value: "https://{{ .Values.regulator.name }}-{{ .Release.Namespace }}.{{ .Values.common.clusterDomain }}"
+            {{ end }}
+          image: {{ .Values.backend.image }}:{{ .Values.backend.tag }}
+          imagePullPolicy: Always
+          volumeMounts:
+            - mountPath: /.cbomkit
+              name: cbomkit-volume
+          ports:
+            - name: api
+              containerPort: 8080
+              protocol: TCP
+          livenessProbe:
+            failureThreshold: 5
+            initialDelaySeconds: 10
+            periodSeconds: 5
+            successThreshold: 1
+            httpGet:
+              port: 8080
+              path: /api
+            timeoutSeconds: 5
+          readinessProbe:
+            failureThreshold: 5
+            initialDelaySeconds: 10
+            periodSeconds: 5
+            successThreshold: 1
+            httpGet:
+              port: 8080
+              path: /api
+            timeoutSeconds: 5
+          resources:
+            requests:
+              cpu: 2000m
+              memory: 10Gi
+            limits:
+              cpu: 6000m
+              memory: 20Gi
+      dnsPolicy: ClusterFirst
+      restartPolicy: Always
+      securityContext: {}
+      terminationGracePeriodSeconds: 30
+      volumes:
+        - name: cbomkit-volume
+          emptyDir: {}

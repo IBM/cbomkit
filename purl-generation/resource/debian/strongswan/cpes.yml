@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:debian:strongswan:5.1.2:*:*:*:*:*:*:*

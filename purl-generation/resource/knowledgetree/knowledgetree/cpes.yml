@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:knowledgetree:knowledgetree:2.0.7:*:debian_linux:*:*:*:*:*
+  - cpe:2.3:a:knowledgetree:knowledgetree:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:knowledgetree:knowledgetree:3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:knowledgetree:knowledgetree:3.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:knowledgetree:knowledgetree:3.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:knowledgetree:knowledgetree:3.5.4a:*:*:*:*:*:*:*
+  - cpe:2.3:a:knowledgetree:knowledgetree:3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:knowledgetree:knowledgetree:3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:knowledgetree:knowledgetree:3.7.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:knowledgetree:knowledgetree:3.7.0.2:*:*:*:*:*:*:*

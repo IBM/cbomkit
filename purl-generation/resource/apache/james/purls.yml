@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/james
+  - pkg:docker/apache/james
+  - pkg:github/apache/james-project
+  - pkg:maven/org.apache.james/james-core

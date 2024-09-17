@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/rhalff/dot-object
+  - pkg:maven/org.webjars.bower/dot-object
+  - pkg:npm/dot-object

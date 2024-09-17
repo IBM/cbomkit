@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/alsa-project/alsa-lib
+  - pkg:gitlab/redhat/alsa-lib
+  - pkg:rpm/centos/alsa-lib
+  - pkg:rpm/fedora/alsa-lib

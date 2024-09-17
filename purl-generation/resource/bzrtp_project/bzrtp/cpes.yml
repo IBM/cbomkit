@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:bzrtp_project:bzrtp:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bzrtp_project:bzrtp:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bzrtp_project:bzrtp:1.0.3:*:*:*:*:*:*:*

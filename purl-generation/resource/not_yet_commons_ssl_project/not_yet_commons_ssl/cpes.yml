@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:not_yet_commons_ssl_project:not_yet_commons_ssl:0.3.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:not_yet_commons_ssl_project:not_yet_commons_ssl:0.3.15:*:*:*:*:*:*:*

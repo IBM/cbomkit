@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/gedit
+  - pkg:deb/ubuntu/gedit
+  - pkg:github/gnome/gedit
+  - pkg:rpm/centos/gedit
+  - pkg:rpm/fedora/gedit
+  - pkg:rpm/opensuse/gedit
+  - pkg:sourceforge/gedit

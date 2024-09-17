@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:ibiblio:osprey:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ibiblio:osprey:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ibiblio:osprey:1.0a4.1:*:*:*:*:*:*:*

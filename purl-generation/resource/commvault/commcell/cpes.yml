@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:commvault:commcell:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:commvault:commcell:11.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:commvault:commcell:11.22.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:commvault:commcell:14.68:*:*:*:*:*:*:*
+  - cpe:2.3:a:commvault:commcell:15.58:*:*:*:*:*:*:*
+  - cpe:2.3:a:commvault:commcell:16.44:*:*:*:*:*:*:*
+  - cpe:2.3:a:commvault:commcell:17.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:commvault:commcell:18.13:*:*:*:*:*:*:*

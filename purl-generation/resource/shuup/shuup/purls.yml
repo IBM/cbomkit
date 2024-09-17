@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/shuup/shuup
+  - pkg:github/shuup/shuup
+  - pkg:pypi/shuup
+  - pkg:sourceforge/shuup.mirror

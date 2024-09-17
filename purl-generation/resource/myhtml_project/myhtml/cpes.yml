@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:myhtml_project:myhtml:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:myhtml_project:myhtml:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:myhtml_project:myhtml:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:myhtml_project:myhtml:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:myhtml_project:myhtml:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:myhtml_project:myhtml:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:myhtml_project:myhtml:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:myhtml_project:myhtml:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:myhtml_project:myhtml:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:myhtml_project:myhtml:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:myhtml_project:myhtml:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:myhtml_project:myhtml:4.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:myhtml_project:myhtml:4.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:myhtml_project:myhtml:4.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:myhtml_project:myhtml:4.0.5:*:*:*:*:*:*:*

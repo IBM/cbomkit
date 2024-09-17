@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/cesanta/mongoose
+  - pkg:rpm/fedora/mongoose
+  - pkg:rpm/opensuse/mongoose
+  - pkg:sourceforge/mongoose-emb-web-server.mirror

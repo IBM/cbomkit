@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/adaltas/node-mixme
+  - pkg:maven/org.webjars.npm/mixme
+  - pkg:npm/mixme

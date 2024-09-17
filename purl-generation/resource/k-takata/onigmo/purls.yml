@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/k-takata/onigmo
+  - pkg:rpm/opensuse/onigmo

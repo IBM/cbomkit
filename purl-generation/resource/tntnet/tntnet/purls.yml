@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/tntnet
+  - pkg:deb/ubuntu/tntnet
+  - pkg:github/maekitalo/tntnet
+  - pkg:rpm/fedora/tntnet
+  - pkg:rpm/opensuse/tntnet
+  - pkg:sourceforge/tntnet

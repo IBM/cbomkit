@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:paul_vixie:vixie_cron:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:paul_vixie:vixie_cron:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:paul_vixie:vixie_cron:3.0_pl1:*:*:*:*:*:*:*
+  - cpe:2.3:a:paul_vixie:vixie_cron:4.1:*:*:*:*:*:*:*

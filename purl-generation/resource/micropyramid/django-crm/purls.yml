@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/micropyramid/django-crm
+  - pkg:github/micropyramid/django-crm
+  - pkg:golang/github.com/micropyramid/django-crm
+  - pkg:pypi/django-crm
+  - pkg:sourceforge/django-crm

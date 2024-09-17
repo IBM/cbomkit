@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:fuzzball_muck:fuzzball_muck:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:fuzzball_muck:fuzzball_muck:6.00rc9:*:*:*:*:*:*:*
+  - cpe:2.3:a:fuzzball_muck:fuzzball_muck:6.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:fuzzball_muck:fuzzball_muck:6.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:fuzzball_muck:fuzzball_muck:6.05:*:*:*:*:*:*:*

@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/llvm-defaults
+  - pkg:deb/ubuntu/llvm-defaults
+  - pkg:github/llvm/llvm-project
+  - pkg:github/llvm-mirror/llvm
+  - pkg:gitlab/cleveron-mobility/llvm
+  - pkg:rpm/centos/llvm
+  - pkg:rpm/fedora/llvm
+  - pkg:rpm/opensuse/llvm
+  - pkg:sourceforge/the-llvm-compiler.mirror

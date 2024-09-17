@@ -1,0 +1,21 @@
+{
+  "bomFormat" : "CycloneDX",
+  "specVersion" : "1.6",
+  "serialNumber" : "urn:uuid:aff72c3b-cc0c-4475-9d14-50c6c27445a0",
+  "version" : 1,
+  "metadata" : {
+    "timestamp" : "2024-08-15T08:00:10Z",
+    "tools" : {
+      "services" : [
+        {
+          "provider" : {
+            "name" : "IBM"
+          },
+          "name" : "Sonar Cryptography Plugin",
+          "version" : "1.2.0"
+        }
+      ]
+    }
+  },
+  "dependencies" : [ ]
+}

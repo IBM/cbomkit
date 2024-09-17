@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/webbynode
+  - pkg:github/webbynode/webbynode

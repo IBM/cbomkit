@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:rapidscada:rapid_scada:5.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rapidscada:rapid_scada:5.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rapidscada:rapid_scada:5.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rapidscada:rapid_scada:5.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rapidscada:rapid_scada:5.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rapidscada:rapid_scada:5.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rapidscada:rapid_scada:5.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rapidscada:rapid_scada:5.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rapidscada:rapid_scada:5.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rapidscada:rapid_scada:5.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rapidscada:rapid_scada:5.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rapidscada:rapid_scada:5.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rapidscada:rapid_scada:6.0.0:*:*:*:*:*:*:*

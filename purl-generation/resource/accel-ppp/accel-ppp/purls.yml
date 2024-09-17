@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/accel-ppp/accel-ppp
+  - pkg:github/drdaeman/accel-ppp
+  - pkg:github/xebd/accel-ppp
+  - pkg:rpm/opensuse/accel-ppp

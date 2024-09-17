@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/samypesse/octocat.js
+  - pkg:npm/octocat

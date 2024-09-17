@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-kolab-session
+  - pkg:deb/ubuntu/php-horde-kolab-session
+  - pkg:github/horde/kolab_session
+  - pkg:rpm/fedora/php-horde-horde-kolab-session

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:debian:horde_groupware:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:horde_groupware:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:horde_groupware:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:horde_groupware:1.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:horde_groupware:1.1.4:*:*:*:*:*:*:*

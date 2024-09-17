@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:workout-organizer_project:workout-organizer:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:workout-organizer_project:workout-organizer:-:*:*:*:*:*:*:*

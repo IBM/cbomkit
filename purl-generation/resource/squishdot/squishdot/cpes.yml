@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:squishdot:squishdot:0.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:squishdot:squishdot:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:squishdot:squishdot:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:squishdot:squishdot:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:squishdot:squishdot:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:squishdot:squishdot:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:squishdot:squishdot:1.5.0:*:*:*:*:*:*:*

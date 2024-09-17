@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/scalyr/scalyr-agent-2
+  - pkg:pypi/scalyr-agent-2

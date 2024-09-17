@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/zookeeper
+  - pkg:deb/debian/zookeeper
+  - pkg:deb/ubuntu/zookeeper
+  - pkg:github/apache/zookeeper
+  - pkg:maven/org.apache.zookeeper/zookeeper
+  - pkg:rpm/opensuse/zookeeper

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-cherrypy
+  - pkg:deb/ubuntu/python-cherrypy
+  - pkg:github/cherrypy/cherrypy
+  - pkg:rpm/fedora/python-cherrypy
+  - pkg:rpm/opensuse/python-cherrypy
+  - pkg:sourceforge/cherrypy

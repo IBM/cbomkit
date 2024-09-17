@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/grafana/piechart-panel
+  - pkg:rpm/opensuse/grafana-piechart-panel

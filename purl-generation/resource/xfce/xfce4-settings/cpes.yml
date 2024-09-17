@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:xfce:xfce4-settings:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:xfce:xfce4-settings:4.16.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:xfce:xfce4-settings:4.17.0:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/ruby/fileutils
+  - pkg:github/ruby/fileutils

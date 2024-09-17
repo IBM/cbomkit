@@ -1,0 +1,8 @@
+purls:
+  - pkg:apache/thrift
+  - pkg:deb/debian/thrift
+  - pkg:deb/ubuntu/thrift
+  - pkg:docker/apache/thrift
+  - pkg:github/apache/thrift
+  - pkg:maven/org.apache.thrift/libthrift
+  - pkg:rpm/fedora/thrift

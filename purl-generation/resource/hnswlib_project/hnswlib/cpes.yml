@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:hnswlib_project:hnswlib:0.7.0:*:*:*:*:*:*:*

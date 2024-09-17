@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/arkanmx/soapui
+  - pkg:github/smartbear/soapui
+  - pkg:maven/com.smartbear.soapui/soapui
+  - pkg:sourceforge/soapui

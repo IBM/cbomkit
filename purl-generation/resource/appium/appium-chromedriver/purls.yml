@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/appium/appium-chromedriver
+  - pkg:npm/appium-chromedriver

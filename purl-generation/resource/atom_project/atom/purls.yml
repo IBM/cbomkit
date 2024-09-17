@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-atom
+  - pkg:deb/ubuntu/rust-atom
+  - pkg:github/slide-rs/atom
+  - pkg:rpm/fedora/rust-atom
+  - pkg:rpm/opensuse/rust-atom

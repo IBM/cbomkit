@@ -1,0 +1,8 @@
+purls:
+  - pkg:github/handsontable/handsontable
+  - pkg:maven/org.webjars.bowergithub.handsontable/handsontable
+  - pkg:maven/org.webjars.bower/handsontable
+  - pkg:maven/org.webjars.npm/handsontable
+  - pkg:npm/handsontable
+  - pkg:nuget/Handsontable
+  - pkg:sourceforge/handsontable.mirror

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/php-geshi
+  - pkg:deb/ubuntu/php-geshi
+  - pkg:github/geshi/geshi-1.0
+  - pkg:rpm/fedora/php-geshi
+  - pkg:rpm/opensuse/php-geshi
+  - pkg:sourceforge/geshi

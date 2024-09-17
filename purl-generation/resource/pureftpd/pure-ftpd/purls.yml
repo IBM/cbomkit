@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/pure-ftpd
+  - pkg:deb/ubuntu/pure-ftpd
+  - pkg:github/jedisct1/pure-ftpd
+  - pkg:rpm/fedora/pure-ftpd
+  - pkg:rpm/opensuse/pure-ftpd

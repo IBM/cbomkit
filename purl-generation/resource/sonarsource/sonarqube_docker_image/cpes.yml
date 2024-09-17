@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:4.5.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:5.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:5.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:5.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:5.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:5.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:5.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:5.6.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:6.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:6.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:6.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:6.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:6.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:6.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:6.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:6.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sonarsource:sonarqube_docker_image:lts:*:*:*:*:*:*:*

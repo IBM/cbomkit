@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:snyk:cli:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:snyk:cli:*:*:*:*:*:-:*:*
+  - cpe:2.3:a:snyk:cli:*:*:*:*:*:cocoapods:*:*
+  - cpe:2.3:a:snyk:cli:*:*:*:*:*:docker:*:*
+  - cpe:2.3:a:snyk:cli:*:*:*:*:*:gradle:*:*
+  - cpe:2.3:a:snyk:cli:*:*:*:*:*:hex:*:*
+  - cpe:2.3:a:snyk:cli:*:*:*:*:*:maven:*:*
+  - cpe:2.3:a:snyk:cli:*:*:*:*:*:python:*:*
+  - cpe:2.3:a:snyk:cli:*:*:*:*:*:sbt:*:*

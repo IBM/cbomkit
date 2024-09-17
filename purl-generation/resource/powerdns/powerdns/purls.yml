@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/powerdns/pdns-auth-master
+  - pkg:github/powerdns/pdns
+  - pkg:rpm/fedora/pdns
+  - pkg:rpm/opensuse/pdns

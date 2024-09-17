@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-rustls
+  - pkg:deb/ubuntu/rust-rustls
+  - pkg:github/rustls/rustls
+  - pkg:rpm/fedora/rust-rustls
+  - pkg:rpm/opensuse/rust-rustls

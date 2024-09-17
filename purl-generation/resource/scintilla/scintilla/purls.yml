@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/luadist/scintilla
+  - pkg:rpm/opensuse/scintilla
+  - pkg:sourceforge/scintilla

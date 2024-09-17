@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/janpot/mongodb-instance
+  - pkg:npm/mongodb-instance

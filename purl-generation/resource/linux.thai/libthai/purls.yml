@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/tlwg/libthai
+  - pkg:gitlab/redhat/libthai
+  - pkg:rpm/fedora/libthai
+  - pkg:rpm/opensuse/libthai
+  - pkg:sourceforge/libthai

@@ -1,0 +1,12 @@
+purls:
+  - pkg:deb/debian/automake-1.15
+  - pkg:deb/debian/automake-1.16
+  - pkg:deb/ubuntu/automake-1.15
+  - pkg:deb/ubuntu/automake-1.16
+  - pkg:github/autotools-mirror/automake
+  - pkg:github/distrotech/automake
+  - pkg:gitlab/redhat/automake
+  - pkg:gnu/automake
+  - pkg:rpm/centos/automake
+  - pkg:rpm/fedora/automake
+  - pkg:rpm/opensuse/automake

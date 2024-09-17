@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/bogofilter
+  - pkg:deb/ubuntu/bogofilter
+  - pkg:github/distrotech/bogofilter
+  - pkg:gitlab/redhat/bogofilter
+  - pkg:rpm/fedora/bogofilter
+  - pkg:sourceforge/bogofilter

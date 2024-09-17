@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:apache:eventmesh:1.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:eventmesh:1.7.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:eventmesh:1.8.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:eventmesh:1.8.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:eventmesh:1.8.0:rc2:*:*:*:*:*:*

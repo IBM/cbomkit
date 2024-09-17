@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/outlinewiki/outline
+  - pkg:github/outline/outline

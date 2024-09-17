@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/adplug
+  - pkg:deb/ubuntu/adplug
+  - pkg:github/adplug/adplug
+  - pkg:nuget/adplug
+  - pkg:rpm/fedora/adplug
+  - pkg:rpm/opensuse/adplug
+  - pkg:sourceforge/adplug

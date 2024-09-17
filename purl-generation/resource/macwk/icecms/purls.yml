@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/thecosy/icecms
+  - pkg:github/thecosy/icecms

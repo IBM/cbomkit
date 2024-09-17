@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/node-negotiator
+  - pkg:deb/ubuntu/node-negotiator
+  - pkg:github/jshttp/negotiator
+  - pkg:maven/org.webjars.bowergithub.jshttp/negotiator
+  - pkg:maven/org.webjars.npm/negotiator
+  - pkg:npm/negotiator
+  - pkg:rpm/fedora/nodejs-negotiator
+  - pkg:rpm/opensuse/nodejs-negotiator

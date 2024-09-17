@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/librepo
+  - pkg:deb/ubuntu/librepo
+  - pkg:github/rpm-software-management/librepo
+  - pkg:gitlab/redhat/librepo
+  - pkg:rpm/centos/librepo
+  - pkg:rpm/fedora/librepo
+  - pkg:rpm/opensuse/librepo

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/answerdev/answer
+  - pkg:golang/github.com/answerdev/answer

@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:gnome:ocrfeeder:0.6.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:ocrfeeder:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:ocrfeeder:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:ocrfeeder:0.7.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:ocrfeeder:0.7.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:ocrfeeder:0.7.1a:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:ocrfeeder:0.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:ocrfeeder:0.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:ocrfeeder:0.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:ocrfeeder:0.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:ocrfeeder:0.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:ocrfeeder:0.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:ocrfeeder:0.7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:ocrfeeder:0.7.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:ocrfeeder:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:ocrfeeder:0.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:ocrfeeder:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:ocrfeeder:0.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:ocrfeeder:0.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:ocrfeeder:0.8.5:*:*:*:*:*:*:*

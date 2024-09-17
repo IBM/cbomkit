@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/okio
+  - pkg:deb/ubuntu/okio
+  - pkg:github/square/okio

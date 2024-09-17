@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:mcwebserver_minecraft_mod_for_forge_project:mcwebserver_minecraft_mod_for_forge:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mcwebserver_minecraft_mod_for_forge_project:mcwebserver_minecraft_mod_for_forge:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:mcwebserver_minecraft_mod_for_forge_project:mcwebserver_minecraft_mod_for_forge:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mcwebserver_minecraft_mod_for_forge_project:mcwebserver_minecraft_mod_for_forge:0.2.0:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:burststatistics:burst_statistics:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:burststatistics:burst_statistics:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:burststatistics:burst_statistics:*:*:*:*:*:worpress:*:*

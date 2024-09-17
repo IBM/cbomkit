@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/scaron/prettyphoto
+  - pkg:rpm/fedora/js-jquery-prettyphoto

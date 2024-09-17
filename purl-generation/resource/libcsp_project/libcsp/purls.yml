@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/ubuntu/libcsp
+  - pkg:github/gomspace/libcsp
+  - pkg:github/libcsp/libcsp

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:urs_wolfer:kwebkitpart:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:urs_wolfer:kwebkitpart:0.9.6:beta:*:*:*:*:*:*

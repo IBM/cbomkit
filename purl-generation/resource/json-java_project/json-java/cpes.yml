@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:json-java_project:json-java:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:20150729:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:20151123:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:20160212:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:20160807:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:20160810:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:20170516:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:20171018:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:20180130:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:20180813:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:20190722:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:20200518:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:20201115:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:20210307:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:20211205:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:20220320:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:20220924:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:20230227:*:*:*:*:*:*:*
+  - cpe:2.3:a:json-java_project:json-java:20230618:*:*:*:*:*:*:*

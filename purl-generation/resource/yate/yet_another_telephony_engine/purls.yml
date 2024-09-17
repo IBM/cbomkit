@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/keepitsimpletech/yate
+  - pkg:github/vir/yate
+  - pkg:rpm/opensuse/yate

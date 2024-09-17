@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tooxie/shiva-server
+  - pkg:pypi/shiva

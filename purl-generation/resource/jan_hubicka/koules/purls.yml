@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/koules
+  - pkg:deb/ubuntu/koules
+  - pkg:github/lkundrak/koules
+  - pkg:rpm/fedora/koules
+  - pkg:rpm/opensuse/koules
+  - pkg:sourceforge/koules

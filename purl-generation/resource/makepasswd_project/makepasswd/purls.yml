@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/makepasswd
+  - pkg:deb/ubuntu/makepasswd
+  - pkg:docker/atmoz/makepasswd
+  - pkg:github/opensourcealchemist/makepasswd

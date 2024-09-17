@@ -1,0 +1,7 @@
+purls:
+  - pkg:github/neverware-mirrors/usbguard
+  - pkg:github/usbguard/usbguard
+  - pkg:gitlab/redhat/usbguard
+  - pkg:rpm/centos/usbguard
+  - pkg:rpm/fedora/usbguard
+  - pkg:rpm/opensuse/usbguard

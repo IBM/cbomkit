@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:clip-bucket:clipbucket:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:clip-bucket:clipbucket:2.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:clip-bucket:clipbucket:2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:clip-bucket:clipbucket:2.7.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:clip-bucket:clipbucket:2.7:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:clip-bucket:clipbucket:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:clip-bucket:clipbucket:2.8.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:clip-bucket:clipbucket:2.8.1:beta:*:*:*:*:*:*
+  - cpe:2.3:a:clip-bucket:clipbucket:2.8.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:clip-bucket:clipbucket:2.8.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:clip-bucket:clipbucket:2.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:clip-bucket:clipbucket:2.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:clip-bucket:clipbucket:4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:clip-bucket:clipbucket:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:clip-bucket:clipbucket:4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:clip-bucket:clipbucket:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:clip-bucket:clipbucket:4.2:rc1:*:*:*:*:*:*

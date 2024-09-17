@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/express-gateway
+  - pkg:github/expressgateway/docker-express-gateway
+  - pkg:github/expressgateway/express-gateway
+  - pkg:npm/express-gateway

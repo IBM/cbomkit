@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/adaltas/node-csv
+  - pkg:maven/org.webjars.npm/csv-parse
+  - pkg:npm/csv-parse
+  - pkg:rpm/fedora/nodejs-csv-parse

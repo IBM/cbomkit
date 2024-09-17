@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:kadu:kadu:0.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kadu:kadu:0.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kadu:kadu:0.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kadu:kadu:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kadu:kadu:0.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:kadu:kadu:0.5:pre:*:*:*:*:*:*
+  - cpe:2.3:a:kadu:kadu:0.5_pre:*:*:*:*:*:*:*
+  - cpe:2.3:a:kadu:kadu:0.9.0:*:*:*:*:*:*:*

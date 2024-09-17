@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:hot_linked_image_cacher_project:hot_linked_image_cacher:1.01:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hot_linked_image_cacher_project:hot_linked_image_cacher:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hot_linked_image_cacher_project:hot_linked_image_cacher:1.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hot_linked_image_cacher_project:hot_linked_image_cacher:1.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hot_linked_image_cacher_project:hot_linked_image_cacher:1.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hot_linked_image_cacher_project:hot_linked_image_cacher:-:*:*:*:*:wordpress:*:*

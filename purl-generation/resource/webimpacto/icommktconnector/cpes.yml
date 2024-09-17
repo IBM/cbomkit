@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:webimpacto:icommktconnector:1.0.0:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:webimpacto:icommktconnector:1.0.1:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:webimpacto:icommktconnector:1.0.2:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:webimpacto:icommktconnector:1.0.3:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:webimpacto:icommktconnector:1.0.4:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:webimpacto:icommktconnector:1.0.5:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:webimpacto:icommktconnector:1.0.6:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:webimpacto:icommktconnector:1.0.7:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:webimpacto:icommktconnector:1.0.8:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:webimpacto:icommktconnector:1.0.9:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:webimpacto:icommktconnector:1.1.0:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:webimpacto:icommktconnector:1.2.0:*:*:*:*:prestashop:*:*

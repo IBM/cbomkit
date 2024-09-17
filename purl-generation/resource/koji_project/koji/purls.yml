@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/koji-project/koji
+  - pkg:pypi/koji
+  - pkg:rpm/fedora/koji
+  - pkg:rpm/opensuse/koji

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/gcc-10
+  - pkg:deb/ubuntu/gcc-10
+  - pkg:github/gcc-mirror/gcc
+  - pkg:gitlab/redhat/gcc
+  - pkg:rpm/opensuse/gcc

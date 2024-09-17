@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:mod_gnutls_project:mod_gnutls:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:mod_gnutls_project:mod_gnutls:0.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mod_gnutls_project:mod_gnutls:0.7:-:*:*:*:*:*:*
+  - cpe:2.3:a:mod_gnutls_project:mod_gnutls:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mod_gnutls_project:mod_gnutls:0.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mod_gnutls_project:mod_gnutls:0.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mod_gnutls_project:mod_gnutls:0.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mod_gnutls_project:mod_gnutls:0.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mod_gnutls_project:mod_gnutls:0.7:beta:*:*:*:*:*:*
+  - cpe:2.3:a:mod_gnutls_project:mod_gnutls:0.8.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:mod_gnutls_project:mod_gnutls:0.8.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:mod_gnutls_project:mod_gnutls:0.8.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:mod_gnutls_project:mod_gnutls:0.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mod_gnutls_project:mod_gnutls:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mod_gnutls_project:mod_gnutls:0.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mod_gnutls_project:mod_gnutls:0.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mod_gnutls_project:mod_gnutls:0.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mod_gnutls_project:mod_gnutls:0.9.1:*:*:*:*:*:*:*

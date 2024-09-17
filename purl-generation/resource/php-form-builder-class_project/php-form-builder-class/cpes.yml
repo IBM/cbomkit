@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:php-form-builder-class_project:php-form-builder-class:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-form-builder-class_project:php-form-builder-class:-:*:*:*:*:*:*:*

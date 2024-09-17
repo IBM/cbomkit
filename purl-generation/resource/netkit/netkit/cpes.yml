@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:netkit:netkit:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:netkit:netkit:0.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:netkit:netkit:0.17-24:*:*:*:*:*:*:*
+  - cpe:2.3:a:netkit:netkit:1.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:netkit:netkit:2.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:netkit:netkit:2.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:netkit:netkit:2.2:beta:*:*:*:*:*:*
+  - cpe:2.3:a:netkit:netkit:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:netkit:netkit:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:netkit:netkit:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:netkit:netkit:2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:netkit:netkit:2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:netkit:netkit:2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:netkit:netkit:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:netkit:netkit:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:netkit:netkit:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:netkit:netkit:5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:netkit:netkit:5.2:*:*:*:*:*:*:*

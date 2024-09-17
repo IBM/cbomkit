@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:ep-3bookingsystem:ep-3_bookingsystem:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ep-3bookingsystem:ep-3_bookingsystem:1.8.0:*:*:*:*:*:*:*

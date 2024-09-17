@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/voodoocreation/ts-deepmerge
+  - pkg:npm/ts-deepmerge

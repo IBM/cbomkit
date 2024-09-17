@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:yaml_project:yaml:2.0.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:yaml_project:yaml:2.1.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:yaml_project:yaml:2.1.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:yaml_project:yaml:2.2.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:yaml_project:yaml:2.2.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:yaml_project:yaml:2.2.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:yaml_project:yaml:2.2.3:*:*:*:*:go:*:*
+  - cpe:2.3:a:yaml_project:yaml:2.2.4:*:*:*:*:go:*:*
+  - cpe:2.3:a:yaml_project:yaml:2.2.5:*:*:*:*:go:*:*
+  - cpe:2.3:a:yaml_project:yaml:2.2.6:*:*:*:*:go:*:*
+  - cpe:2.3:a:yaml_project:yaml:2.2.7:*:*:*:*:go:*:*
+  - cpe:2.3:a:yaml_project:yaml:2.2.8:*:*:*:*:go:*:*
+  - cpe:2.3:a:yaml_project:yaml:2.3.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:yaml_project:yaml:2.4.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:yaml_project:yaml:3.0.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:yaml_project:yaml:3.0.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:yaml_project:yaml:*:*:*:*:*:node.js:*:*

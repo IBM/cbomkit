@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/cfitsio
+  - pkg:deb/ubuntu/cfitsio
+  - pkg:github/bonimy/cfitsio
+  - pkg:github/healpy/cfitsio
+  - pkg:github/punzo/cfitsio
+  - pkg:rpm/fedora/cfitsio
+  - pkg:rpm/opensuse/cfitsio

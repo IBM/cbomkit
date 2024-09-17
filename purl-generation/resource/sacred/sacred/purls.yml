@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/idsia/sacred
+  - pkg:pypi/sacred

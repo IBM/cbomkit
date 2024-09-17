@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/solirvine/docsplit
+  - pkg:docker/rubygem/docsplit
+  - pkg:gem/docsplit
+  - pkg:github/documentcloud/docsplit
+  - pkg:rpm/opensuse/rubygem-docsplit

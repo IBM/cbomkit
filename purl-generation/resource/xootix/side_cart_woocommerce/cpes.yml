@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:xootix:side_cart_woocommerce:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xootix:side_cart_woocommerce:1.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xootix:side_cart_woocommerce:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xootix:side_cart_woocommerce:2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:xootix:side_cart_woocommerce:-:*:*:*:*:wordpress:*:*

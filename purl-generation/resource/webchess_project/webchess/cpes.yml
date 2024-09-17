@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:webchess_project:webchess:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:webchess_project:webchess:0.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:webchess_project:webchess:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:webchess_project:webchess:1.0.0:rc2:*:*:*:*:*:*

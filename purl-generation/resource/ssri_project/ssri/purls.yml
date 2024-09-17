@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-ssri
+  - pkg:deb/ubuntu/node-ssri
+  - pkg:github/npm/ssri
+  - pkg:github/zkat/ssri
+  - pkg:maven/org.webjars.npm/ssri
+  - pkg:npm/ssri

@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:jspwiki:jspwiki:2.1.120:*:*:*:*:*:*:*
+  - cpe:2.3:a:jspwiki:jspwiki:2.1.121:*:*:*:*:*:*:*
+  - cpe:2.3:a:jspwiki:jspwiki:2.1.122:*:*:*:*:*:*:*
+  - cpe:2.3:a:jspwiki:jspwiki:2.4.103:*:*:*:*:*:*:*
+  - cpe:2.3:a:jspwiki:jspwiki:2.4.104:*:*:*:*:*:*:*
+  - cpe:2.3:a:jspwiki:jspwiki:2.5.139:*:*:*:*:*:*:*
+  - cpe:2.3:a:jspwiki:jspwiki:2.5.139-beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:jspwiki:jspwiki:2.5.139_beta:*:*:*:*:*:*:*

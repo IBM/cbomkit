@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/hmcts/ccd-data-store-api
+  - pkg:github/hmcts/ccd-data-store-api

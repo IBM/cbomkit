@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:nmedia:member_conversation:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nmedia:member_conversation:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nmedia:member_conversation:1.3:*:*:*:*:*:*:*

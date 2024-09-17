@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:tar-utils_project:tar-utils:*:*:*:*:*:go:*:*
+  - cpe:2.3:a:tar-utils_project:tar-utils:-:*:*:*:*:go:*:*

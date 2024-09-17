@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/liferea
+  - pkg:deb/ubuntu/liferea
+  - pkg:github/lwindolf/liferea
+  - pkg:rpm/fedora/liferea
+  - pkg:rpm/opensuse/liferea
+  - pkg:sourceforge/liferea

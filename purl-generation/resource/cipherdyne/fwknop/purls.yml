@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/joncheski/fwknop
+  - pkg:deb/debian/fwknop
+  - pkg:deb/ubuntu/fwknop
+  - pkg:docker/kwerle/fwknop
+  - pkg:github/mrash/fwknop
+  - pkg:rpm/fedora/fwknop
+  - pkg:rpm/opensuse/fwknop

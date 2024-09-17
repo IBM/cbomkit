@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:orwell-dev-cpp_project:orwell-dev-cpp:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:orwell-dev-cpp_project:orwell-dev-cpp:5.11:*:*:*:*:*:*:*

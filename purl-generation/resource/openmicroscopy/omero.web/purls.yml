@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/openmicroscopy/omero-web/
+  - pkg:github/ome/omero-web
+  - pkg:pypi/omero-web

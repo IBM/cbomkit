@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:prestashop:dashboard_products:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestashop:dashboard_products:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestashop:dashboard_products:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestashop:dashboard_products:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestashop:dashboard_products:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestashop:dashboard_products:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestashop:dashboard_products:2.1.0:*:*:*:*:*:*:*

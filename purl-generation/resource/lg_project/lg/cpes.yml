@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:lg_project:lg:1.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:lg_project:lg:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:lg_project:lg:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:lg_project:lg:1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:lg_project:lg:1.9:*:*:*:*:*:*:*

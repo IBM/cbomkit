@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:musicstore:music_store:1.0.141:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:musicstore:music_store:1.0.142:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:musicstore:music_store:1.0.143:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:musicstore:music_store:1.0.144:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:musicstore:music_store:1.0.145:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:musicstore:music_store:1.0.146:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:musicstore:music_store:1.0.147:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:musicstore:music_store:1.0.148:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:musicstore:music_store:1.0.149:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:musicstore:music_store:1.0.150:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:musicstore:music_store:1.0.43:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:musicstore:music_store:-:*:*:*:*:wordpress:*:*

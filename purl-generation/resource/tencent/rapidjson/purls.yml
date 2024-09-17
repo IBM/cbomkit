@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/rapidjson
+  - pkg:deb/ubuntu/rapidjson
+  - pkg:github/tencent/rapidjson
+  - pkg:gitlab/immersaview/rapidjson
+  - pkg:gitlab/ubports/rapidjson
+  - pkg:nuget/rapidjson
+  - pkg:rpm/fedora/rapidjson
+  - pkg:rpm/opensuse/rapidjson
+  - pkg:sourceforge/rapidjson.mirror

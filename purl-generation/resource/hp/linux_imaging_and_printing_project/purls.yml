@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/hplip
+  - pkg:deb/ubuntu/hplip
+  - pkg:github/jpopelka/hplip
+  - pkg:github/neverware-mirrors/hplip
+  - pkg:gitlab/redhat/hplip
+  - pkg:rpm/centos/hplip
+  - pkg:rpm/fedora/hplip
+  - pkg:rpm/opensuse/hplip

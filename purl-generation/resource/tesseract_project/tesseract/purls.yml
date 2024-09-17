@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/tesseract
+  - pkg:deb/ubuntu/tesseract
+  - pkg:github/tesseract-ocr/tesseract
+  - pkg:rpm/centos/tesseract
+  - pkg:rpm/fedora/tesseract
+  - pkg:sourceforge/tesseract-ocr.mirror

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libxt
+  - pkg:deb/ubuntu/libxt
+  - pkg:github/freedesktop/xorg-libxt
+  - pkg:rpm/centos/libxt
+  - pkg:rpm/fedora/libxt
+  - pkg:rpm/opensuse/libxt

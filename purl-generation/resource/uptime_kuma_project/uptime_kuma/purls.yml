@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/louislam/uptime-kuma
+  - pkg:golang/github.com/louislam/uptime-kuma
+  - pkg:sourceforge/uptime-kuma.mirror

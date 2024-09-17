@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:zenoss:dashboard:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.0.0:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.0.1:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.0.2:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.0.3:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.0.4:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.0.5:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.0.6:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.1.0:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.1.1:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.2.0:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.2.1:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.2.2:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.2.3:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.2.4:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.2.5:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.2.6:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.2.7:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.2.8:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.2.9:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.3.0:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.3.1:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.3.2:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.3.3:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:1.3.4:*:*:*:*:zenoss:*:*
+  - cpe:2.3:a:zenoss:dashboard:-:*:*:*:*:zenoss:*:*

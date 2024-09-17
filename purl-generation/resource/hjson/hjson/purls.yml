@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/hjson/hjson-js
+  - pkg:npm/hjson

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-listheaders
+  - pkg:deb/ubuntu/php-horde-listheaders
+  - pkg:github/horde/listheaders
+  - pkg:rpm/fedora/php-horde-horde-listheaders

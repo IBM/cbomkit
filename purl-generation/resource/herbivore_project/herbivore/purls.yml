@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/samatt/herbivore
+  - pkg:npm/herbivore

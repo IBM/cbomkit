@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:install-g-test_project:install-g-test:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:install-g-test_project:install-g-test:2.0.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:install-g-test_project:install-g-test:2.0.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:install-g-test_project:install-g-test:2.0.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:install-g-test_project:install-g-test:2.0.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:install-g-test_project:install-g-test:2.0.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:install-g-test_project:install-g-test:2.0.9:*:*:*:*:node.js:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/n8n-io/n8n
+  - pkg:golang/github.com/n8n-io/n8n
+  - pkg:npm/n8n

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ansible-semaphore/semaphore
+  - pkg:golang/github.com/ansible-semaphore/semaphore

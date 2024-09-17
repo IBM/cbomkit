@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:davs2_project:davs2:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:davs2_project:davs2:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:davs2_project:davs2:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:davs2_project:davs2:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:davs2_project:davs2:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:davs2_project:davs2:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:davs2_project:davs2:1.6.205:*:*:*:*:*:*:*
+  - cpe:2.3:a:davs2_project:davs2:1.7:*:*:*:*:*:*:*

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/python-networkx
+  - pkg:deb/ubuntu/python-networkx
+  - pkg:github/networkx/networkx
+  - pkg:gitlab/redhat/python-networkx
+  - pkg:pypi/networkx
+  - pkg:rpm/fedora/python-networkx
+  - pkg:rpm/opensuse/python-networkx
+  - pkg:sourceforge/networkx.mirror

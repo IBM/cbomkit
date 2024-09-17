@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/airsonic/airsonic
+  - pkg:github/airsonic/airsonic

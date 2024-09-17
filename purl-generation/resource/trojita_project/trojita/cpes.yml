@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:trojita_project:trojita:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:trojita_project:trojita:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:trojita_project:trojita:0.2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:trojita_project:trojita:0.2.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:trojita_project:trojita:0.2.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:trojita_project:trojita:0.2.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:trojita_project:trojita:0.2.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:trojita_project:trojita:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:trojita_project:trojita:0.3.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:trojita_project:trojita:0.3.91:*:*:*:*:*:*:*
+  - cpe:2.3:a:trojita_project:trojita:0.3.92:*:*:*:*:*:*:*
+  - cpe:2.3:a:trojita_project:trojita:0.3.93:*:*:*:*:*:*:*
+  - cpe:2.3:a:trojita_project:trojita:0.3.96:*:*:*:*:*:*:*
+  - cpe:2.3:a:trojita_project:trojita:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:trojita_project:trojita:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:trojita_project:trojita:0.8:*:*:*:*:*:*:*

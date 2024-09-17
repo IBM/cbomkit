@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:grsecurity:paxtest:0.9.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:grsecurity:paxtest:0.9.7:pre4-2:*:*:*:*:*:*

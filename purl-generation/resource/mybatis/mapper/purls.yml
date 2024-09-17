@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/abel533/mapper
+  - pkg:maven/tk.mybatis/mapper

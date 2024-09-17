@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/fetchmail
+  - pkg:deb/ubuntu/fetchmail
+  - pkg:github/distrotech/fetchmail
+  - pkg:gitlab/fetchmail/fetchmail
+  - pkg:rpm/fedora/fetchmail
+  - pkg:rpm/opensuse/fetchmail
+  - pkg:sourceforge/fetchmail

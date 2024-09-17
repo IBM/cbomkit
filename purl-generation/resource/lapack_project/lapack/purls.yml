@@ -1,0 +1,9 @@
+purls:
+  - pkg:bitbucket/iricpt/lapack
+  - pkg:deb/debian/lapack
+  - pkg:deb/ubuntu/lapack
+  - pkg:github/reference-lapack/lapack
+  - pkg:gitlab/redhat/lapack
+  - pkg:rpm/centos/lapack
+  - pkg:rpm/fedora/lapack
+  - pkg:rpm/opensuse/lapack

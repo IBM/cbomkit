@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/dlt-daemon
+  - pkg:deb/ubuntu/dlt-daemon
+  - pkg:docker/amenzhinsky/dlt-daemon
+  - pkg:github/covesa/dlt-daemon
+  - pkg:rpm/fedora/dlt-daemon
+  - pkg:rpm/opensuse/dlt-daemon

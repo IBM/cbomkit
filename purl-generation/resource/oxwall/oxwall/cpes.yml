@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:oxwall:oxwall:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:oxwall:oxwall:1.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:oxwall:oxwall:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oxwall:oxwall:1.7.0:*:*:*:*:*:*:*

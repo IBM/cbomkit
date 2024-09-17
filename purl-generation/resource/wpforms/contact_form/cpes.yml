@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wpforms:contact_form:1.5.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpforms:contact_form:*:*:*:*:*:wordpress:*:*

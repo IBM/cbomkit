@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/gnash
+  - pkg:deb/ubuntu/gnash
+  - pkg:github/charmander/gnash
+  - pkg:github/gnu-mirror-unofficial/gnash
+  - pkg:github/markpagebxl/gnash
+  - pkg:github/timretout/gnash
+  - pkg:gnu/gnash
+  - pkg:rpm/opensuse/gnash

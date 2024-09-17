@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:1.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:1.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:1.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:5.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:5.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mousewheel_smooth_scroll_project:mousewheel_smooth_scroll:-:*:*:*:*:wordpress:*:*

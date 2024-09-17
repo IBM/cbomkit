@@ -1,0 +1,12 @@
+purls:
+  - pkg:bitbucket/mvngu/igraph
+  - pkg:deb/debian/igraph
+  - pkg:deb/ubuntu/igraph
+  - pkg:gem/igraph
+  - pkg:github/igraph/igraph
+  - pkg:github/igraph/python-igraph
+  - pkg:github/igraph/rigraph
+  - pkg:gnu/igraph
+  - pkg:pypi/igraph
+  - pkg:rpm/fedora/igraph
+  - pkg:sourceforge/igraph

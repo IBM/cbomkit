@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:serial-number_project:serial-number:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serial-number_project:serial-number:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serial-number_project:serial-number:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serial-number_project:serial-number:0.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serial-number_project:serial-number:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serial-number_project:serial-number:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serial-number_project:serial-number:1.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serial-number_project:serial-number:1.3.0:*:*:*:*:node.js:*:*

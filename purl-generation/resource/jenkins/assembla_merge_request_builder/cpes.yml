@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:jenkins:assembla_merge_request_builder:1.1.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:assembla_merge_request_builder:1.1.12:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:assembla_merge_request_builder:1.1.13:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:assembla_merge_request_builder:1.1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:assembla_merge_request_builder:1.1.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:assembla_merge_request_builder:1.1.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:assembla_merge_request_builder:1.1.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:assembla_merge_request_builder:1.1.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:assembla_merge_request_builder:1.1.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:assembla_merge_request_builder:*:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:assembla_merge_request_builder:-:*:*:*:*:jenkins:*:*

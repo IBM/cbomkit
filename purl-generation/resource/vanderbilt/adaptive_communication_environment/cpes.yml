@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:vanderbilt:adaptive_communication_environment:6.2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:vanderbilt:adaptive_communication_environment:6.2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:vanderbilt:adaptive_communication_environment:6.2.7:dfsg-2:*:*:*:*:*:*

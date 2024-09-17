@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/firecracker-microvm/versionize
+  - pkg:rpm/fedora/rust-versionize

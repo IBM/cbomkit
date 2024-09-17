@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:elementor:elementor_pro:3.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:elementor_pro:3.11.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:elementor_pro:-:*:*:*:*:wordpress:*:*

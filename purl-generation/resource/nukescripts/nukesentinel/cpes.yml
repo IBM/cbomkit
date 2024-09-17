@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:nukescripts:nukesentinel:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nukescripts:nukesentinel:2.5.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:nukescripts:nukesentinel:2.5.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:nukescripts:nukesentinel:2.5.12:*:*:*:*:*:*:*

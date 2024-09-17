@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:jenkins:nerrvana:1.02.01:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nerrvana:1.02.02:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nerrvana:1.02.03:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nerrvana:1.02.04:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nerrvana:1.02.05:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nerrvana:1.02.06:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nerrvana:1.02:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nerrvana:1.02r:*:*:*:*:jenkins:*:*

@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:sphider:sphider:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:sphider:sphider:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sphider:sphider:1.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sphider:sphider:1.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sphider:sphider:1.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sphider:sphider:1.3.4:b:*:*:*:*:*:*
+  - cpe:2.3:a:sphider:sphider:1.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:sphider:sphider:1.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:sphider:sphider:1.3b:*:*:*:*:*:*:*
+  - cpe:2.3:a:sphider:sphider:1.3_rc1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sphider:sphider:1.3_rc2:*:*:*:*:*:*:*

@@ -1,0 +1,6 @@
+purls:
+  - pkg:apache/tomcat
+  - pkg:github/apache/tomcat
+  - pkg:maven/org.apache.tomcat/tomcat
+  - pkg:rpm/fedora/tomcat
+  - pkg:rpm/opensuse/tomcat

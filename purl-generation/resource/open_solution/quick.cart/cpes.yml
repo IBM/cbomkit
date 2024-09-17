@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:open_solution:quick.cart:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:open_solution:quick.cart:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:open_solution:quick.cart:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:open_solution:quick.cart:2.0:*:*:*:*:*:*:*

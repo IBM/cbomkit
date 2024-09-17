@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:python_bugzilla_project:python-bugzilla:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python_bugzilla_project:python-bugzilla:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:python_bugzilla_project:python-bugzilla:0.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:python_bugzilla_project:python-bugzilla:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python_bugzilla_project:python-bugzilla:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:python_bugzilla_project:python-bugzilla:0.9.0:*:*:*:*:*:*:*

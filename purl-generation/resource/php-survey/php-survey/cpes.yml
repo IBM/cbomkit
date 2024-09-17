@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:php-survey:php-survey:2000-04-20:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-survey:php-survey:2000-04-21:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-survey:php-survey:2000-06-14:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-survey:php-survey:2000-06-14b:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-survey:php-survey:2000-06-15:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-survey:php-survey:prebeta2000-03-27:*:*:*:*:*:*:*

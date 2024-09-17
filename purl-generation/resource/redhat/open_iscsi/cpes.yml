@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:redhat:open_iscsi:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:open_iscsi:2.0-864:*:*:*:*:*:*:*

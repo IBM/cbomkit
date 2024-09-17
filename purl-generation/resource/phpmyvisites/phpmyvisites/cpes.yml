@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:phpmyvisites:phpmyvisites:0.1:beta:*:*:*:*:*:*
+  - cpe:2.3:a:phpmyvisites:phpmyvisites:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpmyvisites:phpmyvisites:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpmyvisites:phpmyvisites:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpmyvisites:phpmyvisites:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpmyvisites:phpmyvisites:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpmyvisites:phpmyvisites:1.2:beta:*:*:*:*:*:*
+  - cpe:2.3:a:phpmyvisites:phpmyvisites:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpmyvisites:phpmyvisites:2.1:*:*:*:*:*:*:*

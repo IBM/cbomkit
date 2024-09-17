@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:suse:openstack_cloud:5:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:openstack_cloud:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:openstack_cloud:6:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:openstack_cloud:7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:openstack_cloud:8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:openstack_cloud:9.0:*:*:*:*:*:*:*

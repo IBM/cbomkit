@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/ckan/ckan
+  - pkg:github/ckan/ckan
+  - pkg:pypi/ckan

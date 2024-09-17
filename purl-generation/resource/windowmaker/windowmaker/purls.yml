@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/WindowMaker
+  - pkg:deb/ubuntu/windowmaker
+  - pkg:github/window-maker/wmaker
+  - pkg:rpm/fedora/windowmaker
+  - pkg:rpm/opensuse/WindowMaker

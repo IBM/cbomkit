@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:postsrsd_project:postsrsd:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:postsrsd_project:postsrsd:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:postsrsd_project:postsrsd:1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:postsrsd_project:postsrsd:1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:postsrsd_project:postsrsd:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:postsrsd_project:postsrsd:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:postsrsd_project:postsrsd:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:postsrsd_project:postsrsd:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:postsrsd_project:postsrsd:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:postsrsd_project:postsrsd:1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:postsrsd_project:postsrsd:1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:postsrsd_project:postsrsd:1.9:*:*:*:*:*:*:*

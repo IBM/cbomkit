@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:alegrocart:alegrocart:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:alegrocart:alegrocart:1.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:alegrocart:alegrocart:1.2.8:*:*:*:*:*:*:*

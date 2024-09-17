@@ -1,0 +1,8 @@
+purls:
+  - pkg:github/botbuilder-dotnet
+  - pkg:github/microsoft/botbuilder-js
+  - pkg:github/microsoft/botbuilder-python
+  - pkg:github/microsoft/botframework-sdk
+  - pkg:maven/com.microsoft.bot.builder/botbuilder
+  - pkg:npm/botbuilder
+  - pkg:nuget/Microsoft.Bot.Builder

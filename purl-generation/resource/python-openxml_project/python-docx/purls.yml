@@ -1,0 +1,12 @@
+purls:
+  - pkg:bitbucket/asyncpypy/python-docx
+  - pkg:bitbucket/pec_jbui/python-docx
+  - pkg:deb/debian/python-docx
+  - pkg:deb/ubuntu/python-docx
+  - pkg:github/atriumlts/python-docx
+  - pkg:github/python-openxml/python-docx
+  - pkg:gitlab/kalilinux/python-docx
+  - pkg:pypi/python-docx
+  - pkg:pypi/python-docx-1
+  - pkg:rpm/fedora/python-docx
+  - pkg:rpm/opensuse/python-docx

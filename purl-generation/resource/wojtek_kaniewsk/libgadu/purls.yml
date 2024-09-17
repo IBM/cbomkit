@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libgadu3
+  - pkg:deb/ubuntu/libgadu3
+  - pkg:github/wojtekka/libgadu
+  - pkg:rpm/fedora/libgadu
+  - pkg:rpm/opensuse/libgadu

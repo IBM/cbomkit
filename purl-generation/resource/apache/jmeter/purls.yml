@@ -1,0 +1,8 @@
+purls:
+  - pkg:apache/jmeter
+  - pkg:deb/debiana/jakarta-jmeter
+  - pkg:deb/debian/jakarta-jmeter
+  - pkg:deb/ubuntu/jakarta-jmeter
+  - pkg:github/apache/jmeter
+  - pkg:maven/org.apache.jmeter/apachejketer
+  - pkg:maven/org.apache.jmeter/ApacheJMeter

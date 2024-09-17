@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/filezilla
+  - pkg:deb/ubuntu/filezilla
+  - pkg:github/basvodde/filezilla
+  - pkg:rpm/fedora/filezilla
+  - pkg:rpm/opensuse/filezilla
+  - pkg:sourceforge/filezilla

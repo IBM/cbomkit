@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:audio_aligner_app_project:audio_aligner_app:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:audio_aligner_app_project:audio_aligner_app:2020-01-10:*:*:*:*:*:*:*

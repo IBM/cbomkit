@@ -1,0 +1,7 @@
+purls:
+  - pkg:cpan/fcgi
+  - pkg:deb/debian/libfcgi-perl
+  - pkg:deb/ubuntu/libfcgi-perl
+  - pkg:github/perl-catalyst/fcgi
+  - pkg:rpm/fedora/perl-fcgi
+  - pkg:rpm/opensuse/perl-fcgi

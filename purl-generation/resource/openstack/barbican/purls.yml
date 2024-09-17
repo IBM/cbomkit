@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/barbican
+  - pkg:deb/ubuntu/barbican
+  - pkg:github/openstack/barbican
+  - pkg:pypi/barbican
+  - pkg:rpm/opensuse/openstack-barbican

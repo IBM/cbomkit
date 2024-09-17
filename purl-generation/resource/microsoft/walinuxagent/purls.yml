@@ -1,0 +1,7 @@
+purls:
+  - pkg:docker/nathanleclaire/walinuxagent
+  - pkg:github/azure/walinuxagent
+  - pkg:github/nathanleclaire/walinuxagent
+  - pkg:rpm/centos/walinuxagent
+  - pkg:rpm/fedora/walinuxagent
+  - pkg:rpm/opensuse/walinuxagent

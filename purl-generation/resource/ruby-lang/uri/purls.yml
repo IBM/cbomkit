@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/uri
+  - pkg:github/ruby/uri

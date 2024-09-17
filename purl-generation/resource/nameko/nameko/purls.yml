@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/nameko/nameko
+  - pkg:pypi/nameko
+  - pkg:rpm/opensusee/python-nameko

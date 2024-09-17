@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-kolab-format
+  - pkg:deb/ubuntu/php-horde-kolab-format
+  - pkg:github/horde/kolab_format
+  - pkg:rpm/fedora/php-horde-horde-kolab-format

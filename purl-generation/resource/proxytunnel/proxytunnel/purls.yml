@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/proxytunnel
+  - pkg:deb/ubuntu/proxytunnel
+  - pkg:github/proxytunnel/proxytunnel
+  - pkg:golang/github.com/proxytunnel/proxytunnel
+  - pkg:rpm/fedora/proxytunnel
+  - pkg:rpm/opensuse/proxytunnel
+  - pkg:sourceforge/proxytunnel

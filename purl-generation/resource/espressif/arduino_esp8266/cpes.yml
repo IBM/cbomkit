@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:espressif:arduino_esp8266:2.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:arduino_esp8266:2.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:arduino_esp8266:2.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:arduino_esp8266:2.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:arduino_esp8266:2.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:arduino_esp8266:2.1.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:arduino_esp8266:2.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:arduino_esp8266:2.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:arduino_esp8266:2.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:arduino_esp8266:2.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:arduino_esp8266:2.3.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:arduino_esp8266:2.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:arduino_esp8266:2.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:arduino_esp8266:2.4.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:arduino_esp8266:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:arduino_esp8266:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:arduino_esp8266:2.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:arduino_esp8266:2.5.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:arduino_esp8266:2.5.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:arduino_esp8266:2.5.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:arduino_esp8266:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:arduino_esp8266:2.5.2:*:*:*:*:*:*:*

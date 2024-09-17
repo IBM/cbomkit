@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/eliot-akira/custom-content-shortcode
+  - pkg:github/wp-plugins/custom-content-shortcode
+  - pkg:github/wpplugins/custom-content-shortcode

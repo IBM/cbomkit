@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/argoproj/argo-events
+  - pkg:rpm/opensuse/argo-events

@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/seahorse
+  - pkg:deb/ubuntu/seahorse
+  - pkg:docker/seahorselibre/seahorse
+  - pkg:github/gnome/seahorse
+  - pkg:gitlab/gnome/seahorse
+  - pkg:rpm/centos/seahorse
+  - pkg:rpm/fedora/seahorse
+  - pkg:rpm/opensuse/seahorse
+  - pkg:sourceforge/seahorse

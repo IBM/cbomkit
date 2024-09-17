@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:kubik-rubik:simple_image_gallery_extended:1.5-15:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:kubik-rubik:simple_image_gallery_extended:1.5-3:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:kubik-rubik:simple_image_gallery_extended:1.6-2:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:kubik-rubik:simple_image_gallery_extended:1.7-2:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:kubik-rubik:simple_image_gallery_extended:3.2.0:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:kubik-rubik:simple_image_gallery_extended:3.3.1:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:kubik-rubik:simple_image_gallery_extended:3.3.2:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:kubik-rubik:simple_image_gallery_extended:3.3.3:*:*:*:*:joomla\!:*:*
+  - cpe:2.3:a:kubik-rubik:simple_image_gallery_extended:3.4.0:*:*:*:pro:joomla\!:*:*
+  - cpe:2.3:a:kubik-rubik:simple_image_gallery_extended:3.4.1:*:*:*:pro:joomla\!:*:*
+  - cpe:2.3:a:kubik-rubik:simple_image_gallery_extended:3.4.2:*:*:*:pro:joomla\!:*:*

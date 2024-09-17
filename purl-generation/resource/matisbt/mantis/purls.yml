@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/mantisbt/mantisbt
+  - pkg:github/mantisbt/mantisbt
+  - pkg:sourceforge/mantisbt

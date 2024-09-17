@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/instructure/canvas-lms
+  - pkg:github/instructure/canvas-lms

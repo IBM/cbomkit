@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:suse:suse_iptables:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:suse_iptables:1.2.11:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/projectdiscovery/interactsh
+  - pkg:golang/github.com/projectdiscovery/interactsh

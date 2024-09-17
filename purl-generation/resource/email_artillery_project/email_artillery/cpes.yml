@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:email_artillery_project:email_artillery:4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:email_artillery_project:email_artillery:-:*:*:*:*:wordpress:*:*

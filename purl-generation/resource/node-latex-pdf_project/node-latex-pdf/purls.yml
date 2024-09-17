@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/toolbuddy/node-latex-pdf
+  - pkg:npm/node-latex-pdf

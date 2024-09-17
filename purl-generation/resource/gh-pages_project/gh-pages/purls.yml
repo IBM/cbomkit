@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tschaub/gh-pages
+  - pkg:npm/gh-pages

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wordpress_poll_project:wordpress_poll:36.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wordpress_poll_project:wordpress_poll:-:*:*:*:*:wordpress:*:*

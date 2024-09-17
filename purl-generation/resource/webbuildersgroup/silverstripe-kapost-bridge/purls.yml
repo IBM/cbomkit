@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/webbuilders-group/silverstripe-kapost-bridge
+  - pkg:github/webbuilders-group/silverstripe-kapost-bridge

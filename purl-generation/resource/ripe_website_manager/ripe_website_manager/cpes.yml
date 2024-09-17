@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:ripe_website_manager:ripe_website_manager:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ripe_website_manager:ripe_website_manager:0.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ripe_website_manager:ripe_website_manager:0.8.9:*:*:*:*:*:*:*

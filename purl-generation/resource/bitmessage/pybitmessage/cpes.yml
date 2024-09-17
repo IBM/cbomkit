@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:bitmessage:pybitmessage:0.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.4.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.4.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.5.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.5.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.5.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.6.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bitmessage:pybitmessage:0.6.3.2:*:*:*:*:*:*:*

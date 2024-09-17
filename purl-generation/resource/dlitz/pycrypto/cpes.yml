@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:dlitz:pycrypto:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:1.1:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:1.9:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:1.9:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:1.9:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:1.9:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:1.9:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:1.9:alpha6:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:2.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:2.1.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:2.1.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:2.1.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlitz:pycrypto:2.7:alpha1:*:*:*:*:*:*

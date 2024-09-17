@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/octopoller
+  - pkg:github/octokit/octopoller.rb

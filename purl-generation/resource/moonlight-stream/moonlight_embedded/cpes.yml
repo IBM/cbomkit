@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:moonlight-stream:moonlight_embedded:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:moonlight-stream:moonlight_embedded:2.6.0:*:*:*:*:*:*:*

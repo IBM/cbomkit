@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-http-signature
+  - pkg:deb/ubuntu/node-http-signature
+  - pkg:github/joyent/node-http-signature
+  - pkg:maven/org.webjars.npm/http-signature
+  - pkg:npm/http-signature
+  - pkg:rpm/fedora/nodejs-http-signature

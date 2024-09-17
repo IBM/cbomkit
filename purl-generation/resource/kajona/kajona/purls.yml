@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/xaviblanes/kajona
+  - pkg:github/kajona/kajonacms

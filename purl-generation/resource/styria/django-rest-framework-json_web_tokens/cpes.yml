@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:styria:django-rest-framework-json_web_tokens:1.12.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:styria:django-rest-framework-json_web_tokens:1.12.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:styria:django-rest-framework-json_web_tokens:1.12.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:styria:django-rest-framework-json_web_tokens:1.12.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:styria:django-rest-framework-json_web_tokens:1.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:styria:django-rest-framework-json_web_tokens:1.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:styria:django-rest-framework-json_web_tokens:1.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:styria:django-rest-framework-json_web_tokens:1.13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:styria:django-rest-framework-json_web_tokens:1.13.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:styria:django-rest-framework-json_web_tokens:1.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:styria:django-rest-framework-json_web_tokens:1.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:styria:django-rest-framework-json_web_tokens:1.15.1:*:*:*:*:*:*:*

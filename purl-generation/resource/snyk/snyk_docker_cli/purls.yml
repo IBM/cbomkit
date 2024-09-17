@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/snyk/snyk-docker-plugin
+  - pkg:maven/org.webjars.npm/snyk-docker-plugin
+  - pkg:npm/snyk-docker-plugin

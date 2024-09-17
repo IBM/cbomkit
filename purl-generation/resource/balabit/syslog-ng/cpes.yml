@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:balabit:syslog-ng:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:balabit:syslog-ng:1.4.0_rc3:*:*:*:*:*:*:*
+  - cpe:2.3:a:balabit:syslog-ng:1.4.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:balabit:syslog-ng:1.4.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:balabit:syslog-ng:1.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:balabit:syslog-ng:1.4.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:balabit:syslog-ng:1.4.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:balabit:syslog-ng:1.5.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:balabit:syslog-ng:1.5.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:balabit:syslog-ng:2.0:*:open_source:*:*:*:*:*
+  - cpe:2.3:a:balabit:syslog-ng:2.0:*:premium:*:*:*:*:*
+  - cpe:2.3:a:balabit:syslog-ng:3.0:*:open_source:*:*:*:*:*
+  - cpe:2.3:a:balabit:syslog-ng:3.0:*:premium:*:*:*:*:*
+  - cpe:2.3:a:balabit:syslog-ng:3.1:*:open_source:*:*:*:*:*
+  - cpe:2.3:a:balabit:syslog-ng:3.1:*:premium:*:*:*:*:*
+  - cpe:2.3:a:balabit:syslog-ng:3.2:*:open_source:*:*:*:*:*
+  - cpe:2.3:a:balabit:syslog-ng:3.2:*:premium:*:*:*:*:*

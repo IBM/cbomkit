@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:glpi-project:glpi_agent:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:glpi-project:glpi_agent:1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:glpi-project:glpi_agent:1.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:glpi-project:glpi_agent:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:glpi-project:glpi_agent:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:glpi-project:glpi_agent:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:glpi-project:glpi_agent:1.4:*:*:*:*:*:*:*

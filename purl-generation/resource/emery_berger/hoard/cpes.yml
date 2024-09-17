@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:emery_berger:hoard:2.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:emery_berger:hoard:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:emery_berger:hoard:2.1.2:d:*:*:*:*:*:*
+  - cpe:2.3:a:emery_berger:hoard:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:emery_berger:hoard:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:emery_berger:hoard:3.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:emery_berger:hoard:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:emery_berger:hoard:3.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:emery_berger:hoard:3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:emery_berger:hoard:3.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:emery_berger:hoard:3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:emery_berger:hoard:3.9:*:*:*:*:*:*:*

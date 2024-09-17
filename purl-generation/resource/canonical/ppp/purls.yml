@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/ppp
+  - pkg:deb/ubuntu/ppp
+  - pkg:github/ppp-project/ppp
+  - pkg:gitlab/redhat/ppp
+  - pkg:rpm/centos/ppp
+  - pkg:rpm/fedora/ppp
+  - pkg:rpm/opensuse/ppp

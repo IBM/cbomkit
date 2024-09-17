@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/evultrole/libnsgif
+  - pkg:github/netsurf-browser/libnsgif
+  - pkg:github/netsurf-plan9/libnsgif
+  - pkg:rpm/opensuse/libnsgif

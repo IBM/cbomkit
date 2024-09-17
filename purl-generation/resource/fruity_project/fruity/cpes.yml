@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:fruity_project:fruity:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:fruity_project:fruity:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:fruity_project:fruity:*:*:*:*:*:rust:*:*

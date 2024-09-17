@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cerb/cerb-release
+  - pkg:github/jstanden/cerb

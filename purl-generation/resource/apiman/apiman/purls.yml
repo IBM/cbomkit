@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/apiman/apiman
+  - pkg:maven/io.apiman/apiman

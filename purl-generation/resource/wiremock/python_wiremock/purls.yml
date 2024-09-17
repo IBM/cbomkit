@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/wiremock/python-wiremock
+  - pkg:pypi/wiremock

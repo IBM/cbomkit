@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wt_directory_project:wt_directory:1.4.1:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:wt_directory_project:wt_directory:*:*:*:*:*:typo3:*:*

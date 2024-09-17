@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/ibmcom/ossec-hids-ppc64le
+  - pkg:github/ossec/ossec-hids/
+  - pkg:rpm/opensuse/ossec-hids

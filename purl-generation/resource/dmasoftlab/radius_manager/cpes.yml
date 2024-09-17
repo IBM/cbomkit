@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:dmasoftlab:radius_manager:3.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dmasoftlab:radius_manager:4.4.0:*:*:*:*:*:*:*

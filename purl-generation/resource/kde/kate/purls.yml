@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/kate
+  - pkg:deb/ubuntu/kate
+  - pkg:github/kde/kate
+  - pkg:rpm/fedora/kate
+  - pkg:rpm/opensuse/kate

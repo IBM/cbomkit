@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/openttd
+  - pkg:deb/ubuntu/openttd
+  - pkg:github/openttd/openttd
+  - pkg:rpm/fedora/openttd
+  - pkg:rpm/opensuse/openttd
+  - pkg:sourceforge/openttd

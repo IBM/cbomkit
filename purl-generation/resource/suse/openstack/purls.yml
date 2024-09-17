@@ -1,0 +1,3 @@
+purls:
+  - pkg:gitee/openstack/openstack
+  - pkg:github/openstack/openstack

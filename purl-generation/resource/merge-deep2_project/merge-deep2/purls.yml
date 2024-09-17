@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/luyuan/merge-deep
+  - pkg:npm/merge-deep2

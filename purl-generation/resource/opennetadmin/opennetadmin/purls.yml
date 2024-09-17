@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/raabf/ona
+  - pkg:github/opennetadmin/ona
+  - pkg:github/raabf/ona-docker
+  - pkg:gitlab/raabf/ona-docker
+  - pkg:sourceforge/opennetadmin

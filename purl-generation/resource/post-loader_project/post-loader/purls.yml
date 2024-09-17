@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/egoist/post-loader
+  - pkg:npm/post-loader

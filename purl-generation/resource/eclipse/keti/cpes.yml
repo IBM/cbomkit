@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:eclipse:keti:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:keti:5.0.6:*:*:*:*:*:*:*

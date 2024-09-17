@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:inria:caml-light:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:inria:caml-light:0.75:*:*:*:*:*:*:*

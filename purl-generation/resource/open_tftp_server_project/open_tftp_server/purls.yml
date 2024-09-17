@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/dave92082/opentftp
+  - pkg:github/eddybeaupre/opentftpserver
+  - pkg:sourceforge/tftp-server

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/inkscape
+  - pkg:deb/ubuntu/inkscape
+  - pkg:github/carlasailer/inkscape
+  - pkg:gitlab/inkscape/inkscape
+  - pkg:gitlab/sthagen/inkscape
+  - pkg:rpm/centos/inkscape
+  - pkg:rpm/fedora/inkscape
+  - pkg:rpm/opensuse/inkscape

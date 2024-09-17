@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/rubybot/rbot
+  - pkg:github/bmoyles/rbot

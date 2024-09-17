@@ -1,0 +1,5 @@
+purls:
+  - pkg:cpan/dansguardian
+  - pkg:github/cnighswonger/dansguardian
+  - pkg:gnome/dansguardian
+  - pkg:sourceforge/dansguardian

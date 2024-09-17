@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:wpbean:wpb_advanced_faq:1.02:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpbean:wpb_advanced_faq:1.03:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpbean:wpb_advanced_faq:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpbean:wpb_advanced_faq:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/gif2apng
+  - pkg:deb/ubuntu/gif2apng
+  - pkg:gnome/gif2apng
+  - pkg:sourceforge/gif2apng

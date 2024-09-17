@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/foddy/node-red-contrib-huemagic
+  - pkg:npm/node-red-contrib-huemagic

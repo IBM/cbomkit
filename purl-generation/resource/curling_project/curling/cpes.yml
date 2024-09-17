@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:curling_project:curling:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:curling_project:curling:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:curling_project:curling:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:curling_project:curling:-:*:*:*:*:node.js:*:*

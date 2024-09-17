@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/iobroker/iobroker.web
+  - pkg:npm/iobroker.web

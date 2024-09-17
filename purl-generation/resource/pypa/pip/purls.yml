@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-pip
+  - pkg:deb/ubuntu/python-pip
+  - pkg:github/pypa/pip
+  - pkg:pypi/pip
+  - pkg:rpm/fedora/python-pip
+  - pkg:rpm/opensuse/python-pip

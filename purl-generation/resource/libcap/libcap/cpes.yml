@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:libcap:libcap:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap:libcap:2.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap:libcap:2.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap:libcap:2.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap:libcap:2.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap:libcap:2.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap:libcap:2.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap:libcap:2.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap:libcap:2.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap:libcap:2.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap:libcap:2.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap:libcap:2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap:libcap:2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap:libcap:2.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap:libcap:2.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap:libcap:2.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap:libcap:2.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap:libcap:2.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap:libcap:2.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap:libcap:2.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap:libcap:2.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcap:libcap:2.20:*:*:*:*:*:*:*

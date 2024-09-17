@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:nema:dicom_standard:1985:*:*:*:*:*:*:*
+  - cpe:2.3:a:nema:dicom_standard:1988:*:*:*:*:*:*:*
+  - cpe:2.3:a:nema:dicom_standard:1989:*:*:*:*:*:*:*
+  - cpe:2.3:a:nema:dicom_standard:1991:*:*:*:*:*:*:*
+  - cpe:2.3:a:nema:dicom_standard:1995:*:*:*:*:*:*:*
+  - cpe:2.3:a:nema:dicom_standard:2013:*:*:*:*:*:*:*
+  - cpe:2.3:a:nema:dicom_standard:2014a:*:*:*:*:*:*:*
+  - cpe:2.3:a:nema:dicom_standard:2014b:*:*:*:*:*:*:*
+  - cpe:2.3:a:nema:dicom_standard:2014c:*:*:*:*:*:*:*
+  - cpe:2.3:a:nema:dicom_standard:2015a:*:*:*:*:*:*:*
+  - cpe:2.3:a:nema:dicom_standard:2015b:*:*:*:*:*:*:*
+  - cpe:2.3:a:nema:dicom_standard:2015c:*:*:*:*:*:*:*
+  - cpe:2.3:a:nema:dicom_standard:2016a:*:*:*:*:*:*:*
+  - cpe:2.3:a:nema:dicom_standard:2016b:*:*:*:*:*:*:*
+  - cpe:2.3:a:nema:dicom_standard:2016c:*:*:*:*:*:*:*
+  - cpe:2.3:a:nema:dicom_standard:2016d:*:*:*:*:*:*:*
+  - cpe:2.3:a:nema:dicom_standard:2016e:*:*:*:*:*:*:*
+  - cpe:2.3:a:nema:dicom_standard:2019b:*:*:*:*:*:*:*

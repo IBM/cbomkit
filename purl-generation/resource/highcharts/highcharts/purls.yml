@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/highcharts/highcharts
+  - pkg:nuget/highcharts.js

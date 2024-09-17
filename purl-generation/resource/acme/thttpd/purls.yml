@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/jpouellet/thttpd
+  - pkg:github/larryhe/tinyhttpd
+  - pkg:github/wlangstroth/thttpd
+  - pkg:rpm/fedora/thttpd
+  - pkg:rpm/opensuse/thttpd

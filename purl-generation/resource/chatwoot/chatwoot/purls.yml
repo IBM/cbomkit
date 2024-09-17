@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/chatwoot/chatwoot
+  - pkg:github/chatwoot/chatwoot
+  - pkg:maven/org.webjars.npm/github-com-chatwoot-chatwoot

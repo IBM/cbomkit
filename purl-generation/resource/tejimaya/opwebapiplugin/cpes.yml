@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:tejimaya:opwebapiplugin:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tejimaya:opwebapiplugin:0.1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tejimaya:opwebapiplugin:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tejimaya:opwebapiplugin:0.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:tejimaya:opwebapiplugin:0.3.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:tejimaya:opwebapiplugin:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tejimaya:opwebapiplugin:0.4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tejimaya:opwebapiplugin:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tejimaya:opwebapiplugin:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tejimaya:opwebapiplugin:0.5.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tejimaya:opwebapiplugin:0.5.1.2:*:*:*:*:*:*:*

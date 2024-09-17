@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/angular.js
+  - pkg:deb/ubuntu/angular.js
+  - pkg:github/angular/angular.js
+  - pkg:maven/org.webjars.bowergithub.angular/angular.js
+  - pkg:npm/angular

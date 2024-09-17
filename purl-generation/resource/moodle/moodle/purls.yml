@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/bitnami/moodle
+  - pkg:github/moodle/moodle
+  - pkg:rpm/fedora/moodle
+  - pkg:rpm/opensuse/moodle

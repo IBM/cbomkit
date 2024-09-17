@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/mockserver/mockserver
+  - pkg:github/mock-server/mockserver
+  - pkg:maven/org.mock-server/mockserver

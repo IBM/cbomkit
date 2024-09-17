@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:weborf_project:weborf:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:weborf_project:weborf:0.12.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:weborf_project:weborf:0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:weborf_project:weborf:0.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:weborf_project:weborf:0.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:weborf_project:weborf:0.13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:weborf_project:weborf:0.13.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:weborf_project:weborf:0.13.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:weborf_project:weborf:0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:weborf_project:weborf:0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:weborf_project:weborf:0.16:*:*:*:*:*:*:*

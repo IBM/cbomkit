@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:netgate:haproxy:0.01:*:*:*:*:pfsense:*:*
+  - cpe:2.3:a:netgate:haproxy:0.15:*:*:*:*:pfsense:*:*
+  - cpe:2.3:a:netgate:haproxy:0.16:*:*:*:*:pfsense:*:*
+  - cpe:2.3:a:netgate:haproxy:0.18:*:*:*:*:pfsense:*:*
+  - cpe:2.3:a:netgate:haproxy:0.19:*:*:*:*:pfsense:*:*
+  - cpe:2.3:a:netgate:haproxy:0.21:*:*:*:*:pfsense:*:*
+  - cpe:2.3:a:netgate:haproxy:0.22:*:*:*:*:pfsense:*:*
+  - cpe:2.3:a:netgate:haproxy:0.23:*:*:*:*:pfsense:*:*
+  - cpe:2.3:a:netgate:haproxy:0.24:*:*:*:*:pfsense:*:*
+  - cpe:2.3:a:netgate:haproxy:0.25:*:*:*:*:pfsense:*:*
+  - cpe:2.3:a:netgate:haproxy:0.26:*:*:*:*:pfsense:*:*
+  - cpe:2.3:a:netgate:haproxy:0.27:*:*:*:*:pfsense:*:*
+  - cpe:2.3:a:netgate:haproxy:0.28:*:*:*:*:pfsense:*:*
+  - cpe:2.3:a:netgate:haproxy:0.29:*:*:*:*:pfsense:*:*
+  - cpe:2.3:a:netgate:haproxy:0.59_16:*:*:*:*:pfsense:*:*
+  - cpe:2.3:a:netgate:haproxy:0.59.2:*:*:*:*:pfsense:*:*
+  - cpe:2.3:a:netgate:haproxy:0.59_5:*:*:*:*:pfsense:*:*
+  - cpe:2.3:a:netgate:haproxy:0.59_7:*:*:*:*:pfsense:*:*
+  - cpe:2.3:a:netgate:haproxy:0.59_9:*:*:*:*:pfsense:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/yajsw/yajsw
+  - pkg:maven/org.rzo.yajsw/wrapper
+  - pkg:sourceforge/yajsw

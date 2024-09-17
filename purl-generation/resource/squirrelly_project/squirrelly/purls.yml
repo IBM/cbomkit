@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/squirrellyjs/squirrelly
+  - pkg:npm/squirrelly

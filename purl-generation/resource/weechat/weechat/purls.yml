@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/weechat
+  - pkg:deb/ubuntu/weechat
+  - pkg:github/weechat/weechat
+  - pkg:gnu/weechat
+  - pkg:rpm/fedora/weechat
+  - pkg:rpm/opensuse/weechat

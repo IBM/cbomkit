@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/w3c/css-validator
+  - pkg:maven/org.w3c.css/css-validator

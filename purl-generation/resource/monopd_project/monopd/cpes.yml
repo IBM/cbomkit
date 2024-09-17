@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:monopd_project:monopd:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:monopd_project:monopd:0.9.8:*:*:*:*:*:*:*

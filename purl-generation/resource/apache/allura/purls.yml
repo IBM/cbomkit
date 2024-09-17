@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/allura
+  - pkg:docker/rhnvrm/allura
+  - pkg:github/apache/allura
+  - pkg:github/rhnvrm/allura
+  - pkg:maven/org.apache.allura/allura
+  - pkg:sourceforge/allura

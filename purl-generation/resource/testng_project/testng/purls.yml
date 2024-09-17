@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/testng
+  - pkg:deb/ubuntu/testng
+  - pkg:github/cbeust/testng
+  - pkg:maven/org.testng/testng
+  - pkg:rpm/centos/testng
+  - pkg:rpm/fedora/testng
+  - pkg:rpm/opensuse/testng

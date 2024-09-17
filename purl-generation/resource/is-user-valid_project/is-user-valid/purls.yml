@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/telefonica/is-user-valid
+  - pkg:npm/is-user-valid

@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:transloadit:tusdotnet:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:transloadit:tusdotnet:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:transloadit:tusdotnet:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:transloadit:tusdotnet:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:transloadit:tusdotnet:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:transloadit:tusdotnet:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:transloadit:tusdotnet:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:transloadit:tusdotnet:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:transloadit:tusdotnet:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:transloadit:tusdotnet:2.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:transloadit:tusdotnet:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:transloadit:tusdotnet:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:transloadit:tusdotnet:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:transloadit:tusdotnet:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:transloadit:tusdotnet:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:transloadit:tusdotnet:2.5.0:*:*:*:*:*:*:*

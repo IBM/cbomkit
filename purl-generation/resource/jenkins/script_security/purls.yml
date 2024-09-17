@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/script-security-plugin
+  - pkg:rpm/fedora/jenkins-script-security-plugin

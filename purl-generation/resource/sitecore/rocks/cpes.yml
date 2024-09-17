@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:sitecore:rocks:1.1.0:*:*:*:*:sitecore:*:*
+  - cpe:2.3:a:sitecore:rocks:1.2.0:*:*:*:*:sitecore:*:*
+  - cpe:2.3:a:sitecore:rocks:1.2.5:*:*:*:*:sitecore:*:*
+  - cpe:2.3:a:sitecore:rocks:1.2.6:*:*:*:*:sitecore:*:*
+  - cpe:2.3:a:sitecore:rocks:1.3.0:*:*:*:*:sitecore:*:*
+  - cpe:2.3:a:sitecore:rocks:1.3.1:*:*:*:*:sitecore:*:*
+  - cpe:2.3:a:sitecore:rocks:1.3.5:*:*:*:*:sitecore:*:*
+  - cpe:2.3:a:sitecore:rocks:1.4.0:*:*:*:*:sitecore:*:*
+  - cpe:2.3:a:sitecore:rocks:1.5.0:*:*:*:*:sitecore:*:*
+  - cpe:2.3:a:sitecore:rocks:1.5.1.7:*:*:*:*:sitecore:*:*
+  - cpe:2.3:a:sitecore:rocks:2.0.0-32:*:*:*:*:sitecore:*:*
+  - cpe:2.3:a:sitecore:rocks:2.0.32:*:*:*:*:sitecore:*:*
+  - cpe:2.3:a:sitecore:rocks:2.0.39:*:*:*:*:sitecore:*:*
+  - cpe:2.3:a:sitecore:rocks:2.0.54:*:*:*:*:sitecore:*:*
+  - cpe:2.3:a:sitecore:rocks:2.0.59:*:*:*:*:sitecore:*:*
+  - cpe:2.3:a:sitecore:rocks:2.1.126:*:*:*:*:sitecore:*:*
+  - cpe:2.3:a:sitecore:rocks:2.1.130:*:*:*:*:sitecore:*:*
+  - cpe:2.3:a:sitecore:rocks:2.1.149:*:*:*:*:sitecore:*:*
+  - cpe:2.3:a:sitecore:rocks:2.1.187:*:*:*:*:sitecore:*:*
+  - cpe:2.3:a:sitecore:rocks:2.1.69:*:*:*:*:sitecore:*:*
+  - cpe:2.3:a:sitecore:rocks:2.1.86:*:*:*:*:sitecore:*:*

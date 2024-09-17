@@ -1,0 +1,7 @@
+purls:
+  - pkg:docker/telsch/mayan-edms
+  - pkg:github/mayan-edms/mayan-edms
+  - pkg:github/telsch/mayan-edms
+  - pkg:gitlab/mayan-edms/mayan-edms
+  - pkg:gitlab/txerpa/mayan-edms
+  - pkg:pypi/mayan-edms

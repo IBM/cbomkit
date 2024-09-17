@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:hubspot:jinjava:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hubspot:jinjava:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hubspot:jinjava:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hubspot:jinjava:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:hubspot:jinjava:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:hubspot:jinjava:1.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:hubspot:jinjava:1.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:hubspot:jinjava:1.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:hubspot:jinjava:1.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:hubspot:jinjava:1.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:hubspot:jinjava:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hubspot:jinjava:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hubspot:jinjava:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hubspot:jinjava:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:hubspot:jinjava:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:hubspot:jinjava:2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:hubspot:jinjava:2.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:hubspot:jinjava:2.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:hubspot:jinjava:2.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:hubspot:jinjava:2.5.6:*:*:*:*:*:*:*

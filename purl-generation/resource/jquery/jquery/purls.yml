@@ -1,0 +1,6 @@
+purls:
+  - pkg:cpan/jquery
+  - pkg:github/jquery/jquery
+  - pkg:npm/jquery
+  - pkg:nuget/jQuery
+  - pkg:rpm/fedora/js-jquery

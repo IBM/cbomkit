@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/sasstools/scss-tokenizer
+  - pkg:maven/org.webjars.npm/scss-tokenizer
+  - pkg:npm/scss-tokenizer

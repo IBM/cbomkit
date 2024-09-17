@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/electrum
+  - pkg:github/spesmilo/electrum
+  - pkg:rpm/fedora/electrum
+  - pkg:sourceforge/govind1246/electrum-wallet

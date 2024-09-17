@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:roderick_baier:weberknecht:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:roderick_baier:weberknecht:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:roderick_baier:weberknecht:0.1.1:*:*:*:*:*:*:*

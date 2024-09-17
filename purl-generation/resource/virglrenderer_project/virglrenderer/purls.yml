@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/virglrenderer
+  - pkg:deb/ubuntu/virglrenderer
+  - pkg:github/freedesktop/virglrenderer
+  - pkg:github/val-verde/virglrenderer
+  - pkg:gitlab/redhat/virglrenderer
+  - pkg:rpm/fedora/virglrenderer
+  - pkg:rpm/opensuse/virglrenderer

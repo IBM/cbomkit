@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:horde:turba_contact_manager_h3:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:turba_contact_manager_h3:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:turba_contact_manager_h3:3.2.2:*:*:*:*:*:*:*

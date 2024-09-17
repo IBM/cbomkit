@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cloudfoundry/uaa
+  - pkg:rpm/opensuse/uaa

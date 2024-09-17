@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/snyk/snyk-cli
+  - pkg:github/snyk/cli
+  - pkg:golang/github.com/snyk/cli
+  - pkg:maven/org.webjars.npm/snyk
+  - pkg:npm/snyk

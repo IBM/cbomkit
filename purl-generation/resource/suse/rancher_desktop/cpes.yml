@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:suse:rancher_desktop:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher_desktop:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher_desktop:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher_desktop:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher_desktop:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher_desktop:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher_desktop:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher_desktop:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher_desktop:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher_desktop:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher_desktop:0.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher_desktop:0.7.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher_desktop:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher_desktop:1.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher_desktop:1.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher_desktop:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher_desktop:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher_desktop:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:rancher_desktop:1.2.1:*:*:*:*:*:*:*

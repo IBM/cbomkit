@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:mattermost:mattermost_mobile:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_mobile:1.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_mobile:1.29.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_mobile:1.30.0:*:*:*:*:*:*:*

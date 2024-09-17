@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:virt-who_project:virt-who:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:virt-who_project:virt-who:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:virt-who_project:virt-who:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:virt-who_project:virt-who:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:virt-who_project:virt-who:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:virt-who_project:virt-who:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:virt-who_project:virt-who:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:virt-who_project:virt-who:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:virt-who_project:virt-who:0.9:*:*:*:*:*:*:*

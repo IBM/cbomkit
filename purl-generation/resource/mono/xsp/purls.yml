@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mono/xsp
+  - pkg:rpm/fedora/xsp
+  - pkg:rpm/opensuse/xsp

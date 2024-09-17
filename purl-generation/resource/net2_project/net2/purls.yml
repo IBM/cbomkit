@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-net2
+  - pkg:deb/ubuntu/rust-net2
+  - pkg:github/deprecrated/net2-rs
+  - pkg:rpm/fedora/rust-net2
+  - pkg:rpm/opensuse/rust-net2

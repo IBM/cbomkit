@@ -1,0 +1,3 @@
+purls:
+  - pkg:brave/brave
+  - pkg:github/brave/brave-browser

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/duplicity
+  - pkg:deb/ubuntu/duplicity
+  - pkg:github/henrysher/duplicity
+  - pkg:gnu/duplicity
+  - pkg:pypi/duplicity
+  - pkg:rpm/fedora/duplicity
+  - pkg:rpm/opensuse/duplicity
+  - pkg:sourceforge/ftplicity

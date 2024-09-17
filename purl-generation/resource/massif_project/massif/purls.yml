@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gaelb/massif
+  - pkg:npm/massif

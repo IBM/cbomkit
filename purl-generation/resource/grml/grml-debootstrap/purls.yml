@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/grml-debootstrap
+  - pkg:deb/ubuntu/grml-debootstrap
+  - pkg:docker/mika/grml-debootstrap
+  - pkg:github/grml/grml-debootstrap

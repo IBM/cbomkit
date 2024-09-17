@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-moment
+  - pkg:deb/ubuntu/node-moment
+  - pkg:github/moment/moment
+  - pkg:maven/org.webjars.npm/moment
+  - pkg:npm/moment
+  - pkg:nuget/Moment.js

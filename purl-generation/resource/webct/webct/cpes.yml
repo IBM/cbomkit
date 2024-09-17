@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:webct:webct:4.1.5.8:*:campus_edition:*:*:*:*:*
+  - cpe:2.3:a:webct:webct:campus_3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:webct:webct:campus_3.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:webct:webct:campus_4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:webct:webct:campus_4.0_sp3_hotfix_40833:*:*:*:*:*:*:*
+  - cpe:2.3:a:webct:webct:campus_4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:webct:webct:campus_4.1.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:webct:webct:campus_4.1_sp2_hotfix_40832:*:*:*:*:*:*:*

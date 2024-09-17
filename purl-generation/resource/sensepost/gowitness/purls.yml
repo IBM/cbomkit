@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sensepost/gowitness
+  - pkg:rpm/opensuse/gowitness

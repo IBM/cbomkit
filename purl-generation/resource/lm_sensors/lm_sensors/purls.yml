@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/lm-sensors
+  - pkg:deb/ubuntu/lm-sensors
+  - pkg:github/lm-sensors/lm-sensors

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-fstream
+  - pkg:deb/ubuntu/node-fstream
+  - pkg:github/npm/fstream
+  - pkg:maven/org.webjars.npm/fstream
+  - pkg:npm/fstream

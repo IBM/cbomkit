@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:lighttpd:spawn-fcgi:1.6.4:*:*:*:*:*:*:*

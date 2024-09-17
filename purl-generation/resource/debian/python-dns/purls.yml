@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/dnspython
+  - pkg:deb/ubuntu/python-dnspython
+  - pkg:github/rthalley/dnspython
+  - pkg:pypi/dnspython
+  - pkg:rpm/opensuse/python-dnspython

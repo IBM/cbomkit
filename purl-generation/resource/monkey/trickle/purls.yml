@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/trickle
+  - pkg:deb/ubuntu/trickle
+  - pkg:github/mariusae/trickle
+  - pkg:rpm/fedora/trickle
+  - pkg:rpm/opensuse/trickle
+  - pkg:sourceforge/trickle

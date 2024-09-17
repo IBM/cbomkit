@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:libjpeg_project:libjpeg:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:libjpeg_project:libjpeg:1.63:*:*:*:*:*:*:*

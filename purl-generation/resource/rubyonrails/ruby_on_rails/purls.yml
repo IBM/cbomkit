@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/rails
+  - pkg:deb/ubuntu/rails
+  - pkg:gem/rails
+  - pkg:github/rails/rails
+  - pkg:rpm/opensuse/rubygem-rails-7.0
+  - pkg:sourceforge/ruby-on-rails.mirror

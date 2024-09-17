@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:mapsmarker:leaflet_maps_marker:3.11.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mapsmarker:leaflet_maps_marker:3.11.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mapsmarker:leaflet_maps_marker:3.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mapsmarker:leaflet_maps_marker:3.12.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mapsmarker:leaflet_maps_marker:3.12.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mapsmarker:leaflet_maps_marker:3.12.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mapsmarker:leaflet_maps_marker:3.12.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mapsmarker:leaflet_maps_marker:3.12.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mapsmarker:leaflet_maps_marker:3.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mapsmarker:leaflet_maps_marker:-:*:*:*:*:wordpress:*:*

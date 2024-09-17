@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:sylius:syliusgridbundle:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:sylius:syliusgridbundle:1.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sylius:syliusgridbundle:1.11.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:sylius:syliusgridbundle:1.11.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:sylius:syliusgridbundle:1.11.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:sylius:syliusgridbundle:1.11.0:rc1:*:*:*:*:*:*

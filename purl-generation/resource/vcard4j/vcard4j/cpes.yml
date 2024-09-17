@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:vcard4j:vcard4j:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vcard4j:vcard4j:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:vcard4j:vcard4j:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vcard4j:vcard4j:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vcard4j:vcard4j:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vcard4j:vcard4j:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:vcard4j:vcard4j:1.1.3:*:*:*:*:*:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/instando/jitsi-meet
+  - pkg:github/jitsi/jitsi-meet
+  - pkg:maven/org.webjars.npm/github-com-jitsi-jitsi-meet
+  - pkg:rpm/opensuse/jitsi-meet

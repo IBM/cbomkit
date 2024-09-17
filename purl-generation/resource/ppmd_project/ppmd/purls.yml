@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/python-ppmd
+  - pkg:deb/ubuntu/python-ppmd
+  - pkg:github/nathancastle/ppmd
+  - pkg:pypi/ppmd

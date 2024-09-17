@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:search_everything_project:search_everything:7.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_everything_project:search_everything:7.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_everything_project:search_everything:7.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_everything_project:search_everything:8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_everything_project:search_everything:8.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_everything_project:search_everything:8.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_everything_project:search_everything:8.1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_everything_project:search_everything:8.1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_everything_project:search_everything:8.1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_everything_project:search_everything:8.1.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_everything_project:search_everything:8.1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_everything_project:search_everything:8.1.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_everything_project:search_everything:8.1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:search_everything_project:search_everything:8.1:*:*:*:*:wordpress:*:*

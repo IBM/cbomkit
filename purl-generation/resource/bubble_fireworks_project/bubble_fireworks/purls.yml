@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/fxbin/bubble-fireworks
+  - pkg:maven/cn.fxbin.bubble/bubble-fireworks-core

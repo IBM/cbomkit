@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:s2member:s2member:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:110604:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:110605:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:110606:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:110617:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:110620:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:110708:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:110709:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:110710:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:110731:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:110812:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:110815:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:110912:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:110913:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:110915:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:110926:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:110927:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:111002:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:111003:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:111011:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:111017:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:111029:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:111105:*:*:*:*:*:*:*
+  - cpe:2.3:a:s2member:s2member:111206:*:*:*:*:*:*:*

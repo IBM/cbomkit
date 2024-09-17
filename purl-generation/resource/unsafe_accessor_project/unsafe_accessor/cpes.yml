@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:unsafe_accessor_project:unsafe_accessor:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:unsafe_accessor_project:unsafe_accessor:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:unsafe_accessor_project:unsafe_accessor:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:unsafe_accessor_project:unsafe_accessor:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:unsafe_accessor_project:unsafe_accessor:1.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:unsafe_accessor_project:unsafe_accessor:1.7.0:*:*:*:*:*:*:*

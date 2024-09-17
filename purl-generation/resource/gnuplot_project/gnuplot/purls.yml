@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/gnuplot
+  - pkg:deb/ubuntu/gnuplot
+  - pkg:github/gnuplot/gnuplot
+  - pkg:github/rkesters/gnuplot
+  - pkg:gitlab/redhat/gnuplot
+  - pkg:rpm/centos/gnuplot
+  - pkg:rpm/fedora/gnuplot
+  - pkg:rpm/opensuse/gnuplot
+  - pkg:sourceforge/gnuplot

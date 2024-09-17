@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:datalust:seq.app.emailplus:3.1.0:dev-00148:*:*:*:*:*:*
+  - cpe:2.3:a:datalust:seq.app.emailplus:3.1.0:dev-00170:*:*:*:*:*:*
+  - cpe:2.3:a:datalust:seq.app.emailplus:3.1.0:dev-00176:*:*:*:*:*:*

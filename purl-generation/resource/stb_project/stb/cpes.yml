@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:stb_project:stb:2.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:stb_project:stb:2.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:stb_project:stb:2.27:*:*:*:*:*:*:*

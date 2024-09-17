@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/fedora-infra/supybot-fedora
+  - pkg:rpm/fedora/supybot-fedora
+  - pkg:rpm/opensuse/supybot-fedora

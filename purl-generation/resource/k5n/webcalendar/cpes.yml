@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:k5n:webcalendar:0.9.45:*:*:*:*:*:*:*
+  - cpe:2.3:a:k5n:webcalendar:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:k5n:webcalendar:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:k5n:webcalendar:1.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:k5n:webcalendar:1.2.4:*:*:*:*:*:*:*

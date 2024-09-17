@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:protocol:go-codec-dagpb:1.0.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:protocol:go-codec-dagpb:1.0.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:protocol:go-codec-dagpb:1.1.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:protocol:go-codec-dagpb:1.2.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:protocol:go-codec-dagpb:1.3.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:protocol:go-codec-dagpb:*:*:*:*:*:go:*:*
+  - cpe:2.3:a:protocol:go-codec-dagpb:*:*:*:*:go:*:*:*
+  - cpe:2.3:a:protocol:go-codec-dagpb:-:*:*:*:*:go:*:*

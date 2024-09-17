@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:geonetwork-opensource:geonetwork:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:geonetwork-opensource:geonetwork:4.0.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:geonetwork-opensource:geonetwork:4.0.0:alpha2:*:*:*:*:*:*

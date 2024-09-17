@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/speedywizard/tcpslice
+  - pkg:github/the-tcpdump-group/tcpslice

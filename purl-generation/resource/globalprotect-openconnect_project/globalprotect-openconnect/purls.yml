@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/yuezk/globalprotect-openconnect
+  - pkg:rpm/opensuse/globalprotect-openconnect

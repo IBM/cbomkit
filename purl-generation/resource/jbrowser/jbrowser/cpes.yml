@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:jbrowser:jbrowser:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:jbrowser:jbrowser:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jbrowser:jbrowser:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jbrowser:jbrowser:2.1:*:*:*:*:*:*:*

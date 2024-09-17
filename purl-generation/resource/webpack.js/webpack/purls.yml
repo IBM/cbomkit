@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/webpack/webpack
+  - pkg:golang/github.com/webpack/webpack
+  - pkg:maven/org.webjars.npm/webpack
+  - pkg:npm/webpack
+  - pkg:npm/webpack-5

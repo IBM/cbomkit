@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:gentoo:mirrorselect:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:mirrorselect:0.80:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:mirrorselect:0.81:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:mirrorselect:0.82:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:mirrorselect:0.83:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:mirrorselect:0.84:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:mirrorselect:0.85:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:mirrorselect:0.86:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:mirrorselect:0.87:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:mirrorselect:0.88:*:*:*:*:*:*:*

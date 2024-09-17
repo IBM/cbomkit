@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/vegaprotocol/vega
+  - pkg:golang/github.com/vegaprotocol/vega

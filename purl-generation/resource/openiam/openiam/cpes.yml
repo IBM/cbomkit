@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:openiam:openiam:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openiam:openiam:4.2.0.3:*:*:*:*:*:*:*

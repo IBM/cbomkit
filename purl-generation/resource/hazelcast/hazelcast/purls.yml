@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/hazelcast/hazelcast
+  - pkg:github/hazelcast/hazelcast
+  - pkg:maven/com.hazelcast/hazelcast
+  - pkg:sourceforge/hazelcast.mirror

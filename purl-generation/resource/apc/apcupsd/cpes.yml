@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:apc:apcupsd:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:apc:apcupsd:3.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apc:apcupsd:3.8.5:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/iotdb
+  - pkg:docker/apache/iotdb
+  - pkg:github/apache/iotdb

@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:simpleinvoices:simple_invoices:2007-08-29:*:*:*:*:*:*:*
+  - cpe:2.3:a:simpleinvoices:simple_invoices:2007-10-02:*:*:*:*:*:*:*
+  - cpe:2.3:a:simpleinvoices:simple_invoices:2007-11-16:*:*:*:*:*:*:*
+  - cpe:2.3:a:simpleinvoices:simple_invoices:2007-12-31:*:*:*:*:*:*:*
+  - cpe:2.3:a:simpleinvoices:simple_invoices:2008-03-03:*:*:*:*:*:*:*
+  - cpe:2.3:a:simpleinvoices:simple_invoices:2011.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:simpleinvoices:simple_invoices:2013.1:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:simpleinvoices:simple_invoices:2013.1:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:simpleinvoices:simple_invoices:2013.1:beta8:*:*:*:*:*:*

@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:jenkins:nomad:0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.3.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.5.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.6.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.6.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.6.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.6.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.6.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.6.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.6.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.6.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.6.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.6.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.6.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.7.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.7.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.7.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.7.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.7.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:0.8.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:nomad:-:*:*:*:*:jenkins:*:*

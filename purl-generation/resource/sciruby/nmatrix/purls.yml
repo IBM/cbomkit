@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/nmatrix
+  - pkg:github/sciruby/nmatrix

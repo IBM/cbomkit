@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/labring/sealos
+  - pkg:golang/github.com/labring/sealos

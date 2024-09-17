@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:osisoft:pi_interface:1.0.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_interface:1.0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_interface:1.0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_interface:1.0.4.88:*:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_interface:1.0.5.101:*:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_interface:3.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_interface:3.1.2.54:*:*:*:*:*:*:*

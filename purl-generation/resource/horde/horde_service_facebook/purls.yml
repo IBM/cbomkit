@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/php-horde-service-facebook
+  - pkg:deb/ubuntu/php-horde-service-facebook
+  - pkg:github/horde/service_facebook

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:touchbase.ai_project:touchbase.ai:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:touchbase.ai_project:touchbase.ai:2.0:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sane/sane
+  - pkg:npm/sane-cli

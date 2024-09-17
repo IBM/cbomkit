@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:jenkins:ns-nd_integration_performance_publisher:4.8.0.129:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:ns-nd_integration_performance_publisher:4.8.0.130:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:ns-nd_integration_performance_publisher:4.8.0.134:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:ns-nd_integration_performance_publisher:4.8.0.146:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:ns-nd_integration_performance_publisher:4.8.0.77:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:ns-nd_integration_performance_publisher:-:*:*:*:*:jenkins:*:*

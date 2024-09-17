@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/adminer
+  - pkg:deb/ubuntu/adminer
+  - pkg:docker/adminer
+  - pkg:github/vrana/adminer
+  - pkg:rpm/opensuse/adminer
+  - pkg:sourceforge/adminer

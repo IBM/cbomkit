@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/streamripper
+  - pkg:deb/ubuntu/streamripper
+  - pkg:github/streamripper/streamripper
+  - pkg:sourceforge/streamripper

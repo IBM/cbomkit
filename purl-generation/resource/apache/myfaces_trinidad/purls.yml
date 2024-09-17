@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/myfaces
+  - pkg:github/apache/myfaces-trinidad
+  - pkg:maven/org.apache.myfaces.trinidad/trinidad

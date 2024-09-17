@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:apache:olingo:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.0.0:beta01:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.0.0:beta01-rc01:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.0.0:beta01-rc02:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.0.0:beta02:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.0.0:beta02-rc01:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.0.0:beta03:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.0.0:beta03-rc01:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.0.0:rc01:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.0.0:rc02:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.0.0:rc03:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.1.0:rc01:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.2.0:rc01:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.3.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.3.0:rc01:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.4.0:rc01:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.6.0:rc01:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:olingo:4.7.0:rc01:*:*:*:*:*:*

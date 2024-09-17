@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/35mailchat/emqx
+  - pkg:docker/emqx/emqx
+  - pkg:github/emqx/emqx

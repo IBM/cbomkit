@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/hoppscotch/hoppscotch
+  - pkg:github/hoppscotch/hoppscotch
+  - pkg:sourceforge/hoppscotch.mirror

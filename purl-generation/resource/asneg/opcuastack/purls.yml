@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/asneg/opcuastack
+  - pkg:github/asneg/opcuastack

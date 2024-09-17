@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/facebook/create-react-app
+  - pkg:npm/create-react-app

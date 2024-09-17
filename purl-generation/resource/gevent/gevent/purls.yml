@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/gevent/gevent
+  - pkg:pypi/gevent
+  - pkg:sourceforge/gevent.mirror

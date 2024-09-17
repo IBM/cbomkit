@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/sourcefabric/newscoop
+  - pkg:rpm/opensuse/newscoop
+  - pkg:sourceforge/newscoop

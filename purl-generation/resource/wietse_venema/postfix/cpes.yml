@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:wietse_venema:postfix:1.0.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:wietse_venema:postfix:1.1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:wietse_venema:postfix:1.1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:wietse_venema:postfix:1999-09-06:*:*:*:*:*:*:*
+  - cpe:2.3:a:wietse_venema:postfix:1999-12-31:*:*:*:*:*:*:*
+  - cpe:2.3:a:wietse_venema:postfix:2000-02-28:*:*:*:*:*:*:*
+  - cpe:2.3:a:wietse_venema:postfix:2001-11-15:*:*:*:*:*:*:*
+  - cpe:2.3:a:wietse_venema:postfix:2.1.3:*:*:*:*:*:*:*

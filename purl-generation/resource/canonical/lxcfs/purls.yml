@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/lxcfs
+  - pkg:deb/ubuntu/lxcfs
+  - pkg:github/lxc/lxcfs
+  - pkg:rpm/fedora/lxcfs
+  - pkg:rpm/opensuse/lxcfs

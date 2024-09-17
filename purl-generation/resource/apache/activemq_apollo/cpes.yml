@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:apache:activemq_apollo:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:activemq_apollo:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:activemq_apollo:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:activemq_apollo:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:activemq_apollo:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:activemq_apollo:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:activemq_apollo:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:activemq_apollo:1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:activemq_apollo:1.7.1:*:*:*:*:*:*:*

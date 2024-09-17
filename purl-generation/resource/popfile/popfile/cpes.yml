@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:popfile:popfile:0.18.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:popfile:popfile:0.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:popfile:popfile:0.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:popfile:popfile:0.21.2:*:*:*:*:*:*:*

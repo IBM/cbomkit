@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:ttembed_project:ttembed:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:ttembed_project:ttembed:1.1:*:*:*:*:*:*:*

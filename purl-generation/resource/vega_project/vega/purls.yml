@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/vega.js
+  - pkg:github/vega/vega
+  - pkg:maven/org.webjars.bower/vega
+  - pkg:maven/org.webjars.npm/vega
+  - pkg:npm/vega

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:cookie_monster_project:cookie_monster:1.51:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cookie_monster_project:cookie_monster:*:*:*:*:*:wordpress:*:*

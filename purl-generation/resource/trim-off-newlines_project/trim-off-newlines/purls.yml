@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/stevemao/trim-off-newlines
+  - pkg:maven/org.webjars.npm/trim-off-newlines
+  - pkg:npm/trim-off-newlines

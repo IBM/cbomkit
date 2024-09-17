@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:jenkins:package_version:1.0.1:*:*:*:*:jenkins:*:*

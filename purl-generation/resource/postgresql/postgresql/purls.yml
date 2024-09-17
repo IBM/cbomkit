@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/postgresql
+  - pkg:deb/ubuntu/postgresql
+  - pkg:docker/postgres
+  - pkg:github/postgres/postgres
+  - pkg:gitlab/redhat/postgresql
+  - pkg:nuget/Npgsql
+  - pkg:rpm/fedora/postgresql

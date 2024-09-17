@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/i2c-tools
+  - pkg:deb/ubuntu/i2c-tools
+  - pkg:github/ev3dev/i2c-tools
+  - pkg:github/mozilla-b2g/i2c-tools
+  - pkg:github/suapapa/i2c-tools
+  - pkg:gitlab/redhat/i2c-tools
+  - pkg:rpm/centos/i2c-tools
+  - pkg:rpm/fedora/i2c-tools
+  - pkg:rpm/opensuse/i2c-tools

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/saschahauer/barebox
+  - pkg:sourceforge/barebox

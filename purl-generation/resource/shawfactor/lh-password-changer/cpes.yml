@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:shawfactor:lh-password-changer:1.55:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:shawfactor:lh-password-changer:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:shawfactor:lh-password-changer:-:*:*:*:*:wordpress:*:*

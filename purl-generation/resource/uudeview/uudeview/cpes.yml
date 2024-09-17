@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:uudeview:uudeview:0.5.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:uudeview:uudeview:0.5.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:uudeview:uudeview:0.5.20:*:*:*:*:*:*:*

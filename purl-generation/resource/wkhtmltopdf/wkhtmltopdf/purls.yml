@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/wkhtmltopdf
+  - pkg:deb/ubuntu/wkhtmltopdf
+  - pkg:github/wkhtmltopdf/wkhtmltopdf
+  - pkg:gitlab/kalilinux/wkhtmltopdf
+  - pkg:rpm/fedora/wkhtmltopdf
+  - pkg:rpm/opensuse/wkhtmltopdf
+  - pkg:sourceforge/wkhtmltopdf.mirror

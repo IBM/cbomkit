@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:create-choo-electron_project:create-choo-electron:1.6.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:create-choo-electron_project:create-choo-electron:1.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:create-choo-electron_project:create-choo-electron:1.7.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:create-choo-electron_project:create-choo-electron:1.7.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:create-choo-electron_project:create-choo-electron:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:create-choo-electron_project:create-choo-electron:*:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:create-choo-electron_project:create-choo-electron:-:*:*:*:*:node.js:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/phpchess/phpchess
+  - pkg:sourceforge/phpchess-mysql

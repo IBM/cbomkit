@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:lycheeorg:lychee:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:lycheeorg:lychee:3.2.16:*:*:*:*:*:*:*

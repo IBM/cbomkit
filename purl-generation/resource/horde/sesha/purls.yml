@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/php-horde-sesha
+  - pkg:deb/ubuntu/php-horde-sesha
+  - pkg:github/horde/sesha

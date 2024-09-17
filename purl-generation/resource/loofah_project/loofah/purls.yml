@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/ruby-loofah
+  - pkg:deb/ubuntu/ruby-loofah
+  - pkg:gem/loofah
+  - pkg:github/flavorjones/loofah
+  - pkg:gitlab/kalilinux/ruby-loofah
+  - pkg:rpm/fedora/rubygem-loofah
+  - pkg:rpm/opensuse/rubygem-loofah

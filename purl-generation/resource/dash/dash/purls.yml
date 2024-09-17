@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dashpay/dash
+  - pkg:golang/github.com/dashpay/dash

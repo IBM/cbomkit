@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/django-anymail
+  - pkg:deb/ubuntu/django-anymail
+  - pkg:github/anymail/django-anymail
+  - pkg:pypi/django-anymail
+  - pkg:rpm/opensuse/python-django-anymail

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:fast_ber_project:fast_ber:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:fast_ber_project:fast_ber:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fast_ber_project:fast_ber:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fast_ber_project:fast_ber:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fast_ber_project:fast_ber:0.4:*:*:*:*:*:*:*

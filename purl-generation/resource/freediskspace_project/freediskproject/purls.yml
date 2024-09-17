@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/palortoff/freediskspace
+  - pkg:npm/freediskspace

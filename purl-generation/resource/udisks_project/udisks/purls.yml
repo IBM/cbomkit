@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/udisks2
+  - pkg:deb/ubuntu/udisks2
+  - pkg:github/storaged-project/udisks
+  - pkg:gitlab/redhat/udisks2
+  - pkg:rpm/centos/udisks2
+  - pkg:rpm/fedora/udisks2
+  - pkg:rpm/opensuse/udisks2

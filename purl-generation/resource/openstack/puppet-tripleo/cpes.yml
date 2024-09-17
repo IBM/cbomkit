@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:openstack:puppet-tripleo:5.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:puppet-tripleo:6.2.0:*:*:*:*:*:*:*

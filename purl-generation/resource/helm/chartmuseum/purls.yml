@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/helm/chartmuseum
+  - pkg:rpm/opensuse/chartmuseum

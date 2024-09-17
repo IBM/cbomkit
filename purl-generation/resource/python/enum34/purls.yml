@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/pypy-enum34
+  - pkg:deb/debian/python-enum34
+  - pkg:deb/ubuntu/pypy-enum34
+  - pkg:deb/ubuntu/python-enum34
+  - pkg:github/certik/enum34
+  - pkg:pypi/enum34
+  - pkg:rpm/fedora/python-enum34
+  - pkg:rpm/opensuse/python-enum34

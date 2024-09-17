@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ascend/mindspore
+  - pkg:github/kungfu-team/mindspore
+  - pkg:github/mindspore-ai/mindspore

@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:wordpress_uninstall_project:wordpress_uninstall:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wordpress_uninstall_project:wordpress_uninstall:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wordpress_uninstall_project:wordpress_uninstall:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wordpress_uninstall_project:wordpress_uninstall:1.2:*:*:*:*:wordpress:*:*

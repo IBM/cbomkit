@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pentaho/pentaho-kettle
+  - pkg:golang/github.com/pentaho/pentaho-kettle

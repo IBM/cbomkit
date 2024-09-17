@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:ez:ez_publish-legacy:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ez:ez_publish-legacy:2017.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ez:ez_publish-legacy:2017.12.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ez:ez_publish-legacy:2019.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ez:ez_publish-legacy:2019.03.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ez:ez_publish-legacy:5.4.14.1:*:*:*:*:*:*:*

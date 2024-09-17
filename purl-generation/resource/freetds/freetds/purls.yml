@@ -1,0 +1,3 @@
+purls:
+  - pkg:rpm/fedora/freetds
+  - pkg:rpm/opensuse/freetds

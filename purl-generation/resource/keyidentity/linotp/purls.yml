@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/linotp/linotp
+  - pkg:pypi/linotp
+  - pkg:rpm/opensuse/linotp

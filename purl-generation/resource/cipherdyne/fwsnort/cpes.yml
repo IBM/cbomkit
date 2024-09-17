@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:cipherdyne:fwsnort:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:0.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:0.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:0.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:0.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:0.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:0.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:1.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:1.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:1.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:1.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:1.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:cipherdyne:fwsnort:1.6.5:*:*:*:*:*:*:*

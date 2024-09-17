@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/openemr/openemr
+  - pkg:github/openemr/openemr
+  - pkg:sourceforge/openemr

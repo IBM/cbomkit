@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:debian:guilt:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:guilt:0.27:*:*:*:*:*:*:*

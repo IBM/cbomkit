@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/miller
+  - pkg:deb/ubuntu/miller
+  - pkg:github/johnkerl/miller
+  - pkg:rpm/fedora/miller
+  - pkg:rpm/opensuse/miller

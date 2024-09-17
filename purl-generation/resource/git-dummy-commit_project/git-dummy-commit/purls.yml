@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/stevemao/git-dummy-commit
+  - pkg:npm/git-dummy-commit
+  - pkg:rpm/fedora/nodejs-git-dummy-commit

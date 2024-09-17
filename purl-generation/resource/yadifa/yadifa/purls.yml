@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/yadifa
+  - pkg:deb/ubuntu/yadifa
+  - pkg:github/yadifa/yadifa
+  - pkg:rpm/fedora/yadifa
+  - pkg:rpm/opensuse/yadifa

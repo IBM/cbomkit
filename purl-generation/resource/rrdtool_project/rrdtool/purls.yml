@@ -1,0 +1,12 @@
+purls:
+  - pkg:deb/debian/rrdtool
+  - pkg:deb/ubuntu/rrdtool
+  - pkg:docker/haineault/rrdtool
+  - pkg:gem/RubyRRDtool
+  - pkg:github/oetiker/rrdtool-1.x
+  - pkg:gitlab/redhat/rrdtool
+  - pkg:maven/org.opennms/opennms-rrd-rrdtool
+  - pkg:pypi/rrdtool
+  - pkg:rpm/fedora/rrdtool
+  - pkg:rpm/opensuse/rrdtool
+  - pkg:rpm/opensuse/ruby-rrdtool

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:curvycorners:curvycorners:6.x-1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:curvycorners:curvycorners:7.x-1.0:*:*:*:*:*:*:*

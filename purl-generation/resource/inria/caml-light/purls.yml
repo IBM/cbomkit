@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/camllight/camllight
+  - pkg:github/nojb/caml-light

@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/helloz/onenav
+  - pkg:github/helloxz/onenav

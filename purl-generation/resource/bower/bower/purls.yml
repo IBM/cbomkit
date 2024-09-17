@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/bower/bower
+  - pkg:maven/org.webjars.npm/bower
+  - pkg:npm//bower
+  - pkg:nuget/Bower
+  - pkg:sourceforge/bower.mirror

@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:gstreamer:good_plug-ins:0.10.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:gstreamer:good_plug-ins:0.10.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:gstreamer:good_plug-ins:0.10.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:gstreamer:good_plug-ins:0.10.9:*:*:*:*:*:*:*

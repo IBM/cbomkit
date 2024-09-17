@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/ubuntu/ruby-rest-client
+  - pkg:gem/rest-client
+  - pkg:github/rest-client/rest-client
+  - pkg:rpm/fedora/rubygem-rest-client
+  - pkg:rpm/opensuse/rubygem-rest-client

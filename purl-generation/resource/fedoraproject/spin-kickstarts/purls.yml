@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/garyedwards/spin-kickstarts
+  - pkg:rpm/fedora/spin-kickstarts
+  - pkg:rpm/opensuse/spin-kickstarts

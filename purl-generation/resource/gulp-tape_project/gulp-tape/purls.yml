@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/yuanqing/gulp-tape
+  - pkg:npm/gulp-tape

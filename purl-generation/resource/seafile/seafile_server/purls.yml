@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/fjctp/seafile-server
+  - pkg:docker/sunx/seafile
+  - pkg:github/haiwen/seafile-server
+  - pkg:rpm/opensuse/seafile-server
+  - pkg:sourceforge/seafile.mirror

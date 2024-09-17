@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/benhutchison/microjson
+  - pkg:maven/com.github.benhutchison/microjson_2.13

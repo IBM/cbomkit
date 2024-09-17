@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:30.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudhypervisor:cloud_hypervisor:31.1:*:*:*:*:rust:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/libpam-sshauth
+  - pkg:deb/ubuntu/libpam-sshauth

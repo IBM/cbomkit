@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dandillingham/wildfly-deployer-plugin
+  - pkg:github/jenkinsci/wildfly-deployer-plugin

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:phpopenchat:phpopenchat:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpopenchat:phpopenchat:2.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpopenchat:phpopenchat:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpopenchat:phpopenchat:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpopenchat:phpopenchat:3.0.2:*:*:*:*:*:*:*

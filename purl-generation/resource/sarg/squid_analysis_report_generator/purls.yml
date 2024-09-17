@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/sarg
+  - pkg:deb/ubuntu/sarg
+  - pkg:rpm/opensuse/sarg
+  - pkg:sourceforge/sarg

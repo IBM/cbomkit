@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:digimute:ogma_cms:0.2:beta:*:*:*:*:*:*
+  - cpe:2.3:a:digimute:ogma_cms:0.3:beta:*:*:*:*:*:*
+  - cpe:2.3:a:digimute:ogma_cms:0.4:beta:*:*:*:*:*:*
+  - cpe:2.3:a:digimute:ogma_cms:0.5:*:*:*:*:*:*:*

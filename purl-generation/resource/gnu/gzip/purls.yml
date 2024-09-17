@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/gzip
+  - pkg:deb/ubuntu/gzip
+  - pkg:github/distrotech/gzip
+  - pkg:github/kunpengcompute/gzip
+  - pkg:github/uclaacm/gzip
+  - pkg:gnu/gzip
+  - pkg:rpm/centos/gzip
+  - pkg:rpm/fedora/gzip
+  - pkg:rpm/opensuse/gzip
+  - pkg:sourceforge/gzip-for-windows

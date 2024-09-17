@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:oxid:cain_and_abel:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:oxid:cain_and_abel:2.5_beta21:*:*:*:*:*:*:*
+  - cpe:2.3:a:oxid:cain_and_abel:2.5_beta29:*:*:*:*:*:*:*
+  - cpe:2.3:a:oxid:cain_and_abel:2.5_beta34:*:*:*:*:*:*:*
+  - cpe:2.3:a:oxid:cain_and_abel:2.5_beta36:*:*:*:*:*:*:*
+  - cpe:2.3:a:oxid:cain_and_abel:2.5_beta40:*:*:*:*:*:*:*
+  - cpe:2.3:a:oxid:cain_and_abel:2.5_beta41:*:*:*:*:*:*:*
+  - cpe:2.3:a:oxid:cain_and_abel:2.5_beta47:*:*:*:*:*:*:*
+  - cpe:2.3:a:oxid:cain_and_abel:2.5_beta51:*:*:*:*:*:*:*
+  - cpe:2.3:a:oxid:cain_and_abel:2.5_beta56:*:*:*:*:*:*:*
+  - cpe:2.3:a:oxid:cain_and_abel:2.5_beta59:*:*:*:*:*:*:*
+  - cpe:2.3:a:oxid:cain_and_abel:2.5_beta65:*:*:*:*:*:*:*
+  - cpe:2.3:a:oxid:cain_and_abel:2.65:*:*:*:*:*:*:*
+  - cpe:2.3:a:oxid:cain_and_abel:4.9.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:oxid:cain_and_abel:4.9.24:*:*:*:*:*:*:*

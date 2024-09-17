@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-jszip
+  - pkg:deb/ubuntu/node-jszip
+  - pkg:github/stuk/jszip
+  - pkg:maven/org.webjars.npm/jszip
+  - pkg:npm/jszip
+  - pkg:nuget/JSZip

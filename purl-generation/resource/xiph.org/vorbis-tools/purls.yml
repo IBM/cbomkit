@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/vorbis-tools
+  - pkg:deb/ubuntu/vorbis-tools
+  - pkg:github/xiph/vorbis-tools
+  - pkg:gitlab/redhat/vorbis-tools
+  - pkg:rpm/fedora/vorbis-tools
+  - pkg:rpm/opensuse/vorbis-tools

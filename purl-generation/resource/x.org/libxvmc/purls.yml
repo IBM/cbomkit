@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libxvmc
+  - pkg:deb/ubuntu/libxvmc
+  - pkg:github/freedesktop/xorg-libxvmc
+  - pkg:rpm/centos/libxvmc
+  - pkg:rpm/fedora/libxvmc

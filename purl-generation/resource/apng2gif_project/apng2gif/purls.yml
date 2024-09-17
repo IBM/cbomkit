@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/apng2gif
+  - pkg:deb/ubuntu/apng2gif
+  - pkg:github/suchipi/node-apng2gif
+  - pkg:npm/apng2gif
+  - pkg:sourceforge/apng2gif

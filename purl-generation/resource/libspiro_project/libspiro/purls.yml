@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libspiro
+  - pkg:deb/ubuntu/libspiro
+  - pkg:github/fontforge/libspiro
+  - pkg:rpm/centos/libspiro
+  - pkg:rpm/fedora/libspiro

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libjsoncpp
+  - pkg:deb/ubuntu/libjsoncpp
+  - pkg:github/open-source-parsers/jsoncpp
+  - pkg:gitlab/cleveron/jsoncpp
+  - pkg:nuget/jsoncpp
+  - pkg:rpm/fedora/jsoncpp
+  - pkg:rpm/opensuse/jsoncpp
+  - pkg:sourceforge/jsoncpp.mirror

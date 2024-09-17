@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/opcfoundation/ua-.net-legacy
+  - pkg:nuget/OPCUASDKNET46

@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:baijiacms_project:baijiacms:2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:baijiacms_project:baijiacms:2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:baijiacms_project:baijiacms:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:baijiacms_project:baijiacms:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:baijiacms_project:baijiacms:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:baijiacms_project:baijiacms:4:*:*:*:*:*:*:*
+  - cpe:2.3:a:baijiacms_project:baijiacms:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:baijiacms_project:baijiacms:4.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:baijiacms_project:baijiacms:4_1_4_20170105:*:*:*:*:*:*:*

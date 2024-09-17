@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:jenkins:easyqa:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:jenkins:easyqa:1.0:*:*:*:*:jenkins:*:*

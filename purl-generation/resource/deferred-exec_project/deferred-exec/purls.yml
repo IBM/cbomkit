@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/danheberden/deferred-exec
+  - pkg:npm/deferred-exec

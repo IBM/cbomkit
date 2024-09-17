@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:o:esphome:esphome_firmware:-:*:*:*:*:*:*:*
+  - cpe:2.3:o:esphome:esphome_firmware:2021.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:esphome:esphome_firmware:2021.9.2:*:*:*:*:*:*:*

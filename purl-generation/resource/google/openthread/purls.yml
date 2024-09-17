@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openthread/openthread
+  - pkg:googlesource/openthread

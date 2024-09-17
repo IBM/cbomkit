@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/cmark-gfm
+  - pkg:deb/ubuntu/cmark-gfm
+  - pkg:github/commonmark/cmark
+  - pkg:github/github/cmark-gfm
+  - pkg:rpm/opensuse/cmark-gfm

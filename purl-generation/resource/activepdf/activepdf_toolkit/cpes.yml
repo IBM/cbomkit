@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:activepdf:activepdf_toolkit:2011:*:*:*:*:*:*:*
+  - cpe:2.3:a:activepdf:activepdf_toolkit:2011:r4:*:*:*:*:*:*
+  - cpe:2.3:a:activepdf:activepdf_toolkit:2011:r4.1:*:*:*:*:*:*
+  - cpe:2.3:a:activepdf:activepdf_toolkit:2016.1.0.16340:*:*:*:*:*:*:*
+  - cpe:2.3:a:activepdf:activepdf_toolkit:2016.1.1.17041:*:*:*:*:*:*:*
+  - cpe:2.3:a:activepdf:activepdf_toolkit:2016.1.3.17145:*:*:*:*:*:*:*
+  - cpe:2.3:a:activepdf:activepdf_toolkit:2016.1.4.17202:*:*:*:*:*:*:*
+  - cpe:2.3:a:activepdf:activepdf_toolkit:2016.2.0.17246:*:*:*:*:*:*:*
+  - cpe:2.3:a:activepdf:activepdf_toolkit:2016.2.0.17264:*:*:*:*:*:*:*
+  - cpe:2.3:a:activepdf:activepdf_toolkit:2016.2.1.17349:*:*:*:*:*:*:*
+  - cpe:2.3:a:activepdf:activepdf_toolkit:2016.2.2.18030:*:*:*:*:*:*:*
+  - cpe:2.3:a:activepdf:activepdf_toolkit:2017.1.0.18110:*:*:*:*:*:*:*
+  - cpe:2.3:a:activepdf:activepdf_toolkit:2017.1.1.18186:*:*:*:*:*:*:*
+  - cpe:2.3:a:activepdf:activepdf_toolkit:2017.1.2.18242:*:*:*:*:*:*:*
+  - cpe:2.3:a:activepdf:activepdf_toolkit:2018.1.0.18321:*:*:*:*:*:*:*
+  - cpe:2.3:a:activepdf:activepdf_toolkit:5.4.2.14043:*:*:*:*:*:*:*
+  - cpe:2.3:a:activepdf:activepdf_toolkit:5.4.3.14134:*:*:*:*:*:*:*
+  - cpe:2.3:a:activepdf:activepdf_toolkit:5.5.0.15028:*:*:*:*:*:*:*
+  - cpe:2.3:a:activepdf:activepdf_toolkit:5.5.1.15339:*:*:*:*:*:*:*
+  - cpe:2.3:a:activepdf:activepdf_toolkit:5.5.2.16278:*:*:*:*:*:*:*

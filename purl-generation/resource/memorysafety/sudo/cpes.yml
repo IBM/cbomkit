@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:memorysafety:sudo:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:memorysafety:sudo:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:memorysafety:sudo:*:*:*:*:*:rust:*:*
+  - cpe:2.3:a:memorysafety:sudo:-:*:*:*:*:rust:*:*

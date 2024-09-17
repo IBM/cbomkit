@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/microsoft/nni
+  - pkg:pypi/nni

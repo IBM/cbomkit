@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/polipo
+  - pkg:deb/ubuntu/polipo
+  - pkg:github/jech/polipo
+  - pkg:rpm/opensuse/polipo
+  - pkg:sourceforge/polipo

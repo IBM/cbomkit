@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:kame:racoon:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:kame:racoon:2003-07-11:*:*:*:*:*:*:*
+  - cpe:2.3:a:kame:racoon:2004-04-05:*:*:*:*:*:*:*
+  - cpe:2.3:a:kame:racoon:2004-04-07b:*:*:*:*:*:*:*
+  - cpe:2.3:a:kame:racoon:2004-05-03:*:*:*:*:*:*:*
+  - cpe:2.3:a:kame:racoon:2005-01-03:*:*:*:*:*:*:*
+  - cpe:2.3:a:kame:racoon:2005-01-10:*:*:*:*:*:*:*
+  - cpe:2.3:a:kame:racoon:2005-01-17:*:*:*:*:*:*:*
+  - cpe:2.3:a:kame:racoon:2005-01-24:*:*:*:*:*:*:*
+  - cpe:2.3:a:kame:racoon:2005-01-31:*:*:*:*:*:*:*
+  - cpe:2.3:a:kame:racoon:2005-02-07:*:*:*:*:*:*:*
+  - cpe:2.3:a:kame:racoon:2005-02-14:*:*:*:*:*:*:*
+  - cpe:2.3:a:kame:racoon:2005-02-21:*:*:*:*:*:*:*
+  - cpe:2.3:a:kame:racoon:2005-02-28:*:*:*:*:*:*:*
+  - cpe:2.3:a:kame:racoon:2005-03-07:*:*:*:*:*:*:*
+  - cpe:2.3:a:kame:racoon:all_versions:*:*:*:*:*:*:*

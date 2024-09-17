@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:bbsmax:bbsmax:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bbsmax:bbsmax:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bbsmax:bbsmax:4.2:*:*:*:*:*:*:*

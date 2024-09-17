@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/monotone
+  - pkg:deb/ubuntu/monotone
+  - pkg:github/graydon/monotone
+  - pkg:gnu/monotone
+  - pkg:rpm/fedora/monotone
+  - pkg:rpm/opensuse/monotone

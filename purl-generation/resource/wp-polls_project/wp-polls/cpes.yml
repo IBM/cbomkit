@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.70:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.71:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.72:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.73.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.73.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.73.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.73.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.73.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.73.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.73.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.73.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.73:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.74.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.74:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.75.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.75.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.75.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.75.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.75.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.75.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.75:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.76.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-polls_project:wp-polls:2.77.0:*:*:*:*:wordpress:*:*

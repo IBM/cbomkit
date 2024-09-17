@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:python-libnmap_project:python-libnmap:0.2.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-libnmap_project:python-libnmap:0.2.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-libnmap_project:python-libnmap:0.2.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-libnmap_project:python-libnmap:0.2.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-libnmap_project:python-libnmap:0.2.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-libnmap_project:python-libnmap:0.2.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-libnmap_project:python-libnmap:0.2.7:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-libnmap_project:python-libnmap:0.2.8:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-libnmap_project:python-libnmap:0.2.9:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-libnmap_project:python-libnmap:0.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-libnmap_project:python-libnmap:0.4.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-libnmap_project:python-libnmap:0.4.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-libnmap_project:python-libnmap:0.4.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-libnmap_project:python-libnmap:0.4.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-libnmap_project:python-libnmap:0.5.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-libnmap_project:python-libnmap:0.6.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-libnmap_project:python-libnmap:0.6.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-libnmap_project:python-libnmap:0.6.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-libnmap_project:python-libnmap:0.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:python-libnmap_project:python-libnmap:0.7.2:*:*:*:*:python:*:*

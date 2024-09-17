@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mercurius-js/mercurius
+  - pkg:npm/mercurius

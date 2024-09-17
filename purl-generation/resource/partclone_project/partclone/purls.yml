@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/partclone
+  - pkg:deb/ubuntu/partclone
+  - pkg:github/thomas-tsai/partclone
+  - pkg:rpm/fedora/partclone
+  - pkg:rpm/opensuse/partclone
+  - pkg:sourceforge/partclone

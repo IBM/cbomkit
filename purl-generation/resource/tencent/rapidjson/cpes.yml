@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:tencent:rapidjson:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tencent:rapidjson:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tencent:rapidjson:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tencent:rapidjson:1.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:tencent:rapidjson:1.1.0:*:*:*:*:*:*:*

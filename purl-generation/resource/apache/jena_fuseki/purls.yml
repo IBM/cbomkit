@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/jena
+  - pkg:github/apache/jena
+  - pkg:maven/org.apache.jena/jena-fuseki

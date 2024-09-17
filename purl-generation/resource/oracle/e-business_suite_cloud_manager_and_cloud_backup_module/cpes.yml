@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:oracle:e-business_suite_cloud_manager_and_cloud_backup_module:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:e-business_suite_cloud_manager_and_cloud_backup_module:2.2.1.1.1:*:*:*:*:*:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/golang-github-crewjam-saml
+  - pkg:deb/ubuntu/golang-github-crewjam-saml
+  - pkg:github/crewjam/saml
+  - pkg:rpm/fedora/golang-github-crewjam-saml

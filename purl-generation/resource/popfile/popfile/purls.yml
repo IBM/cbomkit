@@ -1,0 +1,3 @@
+purls:
+  - pkg:cpan/bundle-popfile
+  - pkg:sourceforge/popfile

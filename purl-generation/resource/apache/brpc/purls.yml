@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/brpc
+  - pkg:golang/github.com/apache/brpc
+  - pkg:sourceforge/apache-brpc.mirror

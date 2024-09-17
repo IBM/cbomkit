@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/allegro5
+  - pkg:deb/ubuntu/allegro5
+  - pkg:github/liballeg/allegro5
+  - pkg:rpm/fedora/allegro5

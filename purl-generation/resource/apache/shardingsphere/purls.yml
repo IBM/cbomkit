@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/shardingsphere
+  - pkg:github/apache/shardingsphere
+  - pkg:maven/org.apache.shardingsphere/shardingsphere
+  - pkg:sourceforge/shardingsphere.mirror

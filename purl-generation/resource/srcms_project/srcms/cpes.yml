@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:srcms_project:srcms:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:srcms_project:srcms:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:srcms_project:srcms:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:srcms_project:srcms:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:srcms_project:srcms:3.0.0:*:*:*:*:*:*:*

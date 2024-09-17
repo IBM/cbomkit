@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/redmine
+  - pkg:deb/ubuntu/redmine
+  - pkg:github/redmine/redmine
+  - pkg:redmine/redmine
+  - pkg:rpm/opensuse/redmine

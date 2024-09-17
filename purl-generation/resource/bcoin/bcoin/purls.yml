@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/wax_miguel/bcoin
+  - pkg:docker/purse/bcoin
+  - pkg:github/bcoin-org/bcoin

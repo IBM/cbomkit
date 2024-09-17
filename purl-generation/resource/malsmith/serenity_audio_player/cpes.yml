@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:malsmith:serenity_audio_player:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:malsmith:serenity_audio_player:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:malsmith:serenity_audio_player:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:malsmith:serenity_audio_player:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:malsmith:serenity_audio_player:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:malsmith:serenity_audio_player:3.2.2:*:*:*:*:*:*:*

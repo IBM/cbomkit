@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:doc4design:multicons:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:doc4design:multicons:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:doc4design:multicons:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:doc4design:multicons:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:doc4design:multicons:3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:doc4design:multicons:4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:doc4design:multicons:4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:doc4design:multicons:4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:doc4design:multicons:5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:doc4design:multicons:-:*:*:*:*:wordpress:*:*

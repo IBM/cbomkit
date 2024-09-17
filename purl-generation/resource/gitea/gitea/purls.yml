@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/go-gitea/gitea
+  - pkg:sourceforge/gitea.mirror

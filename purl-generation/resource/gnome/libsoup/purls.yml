@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libsoup3
+  - pkg:deb/ubuntu/libsoup3
+  - pkg:github/gnome/libsoup
+  - pkg:rpm/centos/libsoup
+  - pkg:rpm/fedora/libsoup
+  - pkg:rpm/opensuse/libsoup

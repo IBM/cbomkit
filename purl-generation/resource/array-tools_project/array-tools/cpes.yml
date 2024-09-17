@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:array-tools_project:array-tools:0.2.10:*:*:*:*:rust:*:*
+  - cpe:2.3:a:array-tools_project:array-tools:0.2.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:array-tools_project:array-tools:0.2.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:array-tools_project:array-tools:0.2.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:array-tools_project:array-tools:0.2.7:*:*:*:*:rust:*:*
+  - cpe:2.3:a:array-tools_project:array-tools:0.2.8:*:*:*:*:rust:*:*
+  - cpe:2.3:a:array-tools_project:array-tools:0.2.9:*:*:*:*:rust:*:*
+  - cpe:2.3:a:array-tools_project:array-tools:0.3.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:array-tools_project:array-tools:0.3.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:array-tools_project:array-tools:-:*:*:*:*:rust:*:*

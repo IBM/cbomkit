@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/metasploit-framework
+  - pkg:github/rapid7/metasploit-framework
+  - pkg:golang/github.com/rapid7/metasploit-framework

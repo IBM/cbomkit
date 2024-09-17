@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pyeve/eve
+  - pkg:pypi/eve

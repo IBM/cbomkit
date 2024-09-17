@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:gleezcms:gleez_cms:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gleezcms:gleez_cms:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gleezcms:gleez_cms:1.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gleezcms:gleez_cms:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gleezcms:gleez_cms:2.0:*:*:*:*:*:*:*

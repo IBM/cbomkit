@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:getsentry:raven-ruby:0.12.1:*:*:*:*:ruby:*:*

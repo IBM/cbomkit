@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/psibre/snack
+  - pkg:deb/debian/snack
+  - pkg:deb/ubuntu/snack
+  - pkg:github/scottypitcher/tcl-snack
+  - pkg:rpm/fedora/tcl-snack
+  - pkg:rpm/opensuse/snack

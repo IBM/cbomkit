@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:xcb_project:xcb:2020-12-10:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xcb_project:xcb:2021-02-04:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xcb_project:xcb:-:*:*:*:*:rust:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:redhat:openshift_osin:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_osin:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_osin:1.0.1:*:*:*:*:*:*:*

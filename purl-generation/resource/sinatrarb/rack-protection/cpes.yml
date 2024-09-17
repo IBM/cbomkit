@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:sinatrarb:rack-protection:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:sinatrarb:rack-protection:2.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:sinatrarb:rack-protection:2.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:sinatrarb:rack-protection:2.0.0:rc3:*:*:*:*:*:*

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/audacity
+  - pkg:deb/ubuntu/audacity
+  - pkg:github/audacity/audacity
+  - pkg:rpm/fedora/audacity
+  - pkg:rpm/opensuse/audacity

@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/ubuntu/mysql-workbench
+  - pkg:github/mysql/mysql-workbench
+  - pkg:rpm/opensuse/mysql-workbench

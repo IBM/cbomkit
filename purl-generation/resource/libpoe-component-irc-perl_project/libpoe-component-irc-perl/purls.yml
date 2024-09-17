@@ -1,0 +1,7 @@
+purls:
+  - pkg:cpan/poe-component-irc
+  - pkg:deb/debian/libpoe-component-irc-perl
+  - pkg:deb/ubuntu/libpoe-component-irc-perl
+  - pkg:github/bingos/poe-component-irc
+  - pkg:rpm/fedora/perl-poe-component-irc
+  - pkg:rpm/opensuse/perl-poe-component-irc

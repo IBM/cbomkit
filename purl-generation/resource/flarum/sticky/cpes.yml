@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:flarum:sticky:0.1.0:beta12:*:*:*:*:*:*
+  - cpe:2.3:a:flarum:sticky:0.1.0:beta13:*:*:*:*:*:*
+  - cpe:2.3:a:flarum:sticky:0.1.0:beta14:*:*:*:*:*:*
+  - cpe:2.3:a:flarum:sticky:0.1.0:beta15:*:*:*:*:*:*
+  - cpe:2.3:a:flarum:sticky:0.1.0:beta15.1:*:*:*:*:*:*
+  - cpe:2.3:a:flarum:sticky:0.1.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:flarum:sticky:0.1.0:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:flarum:sticky:0.1.0:beta6:*:*:*:*:*:*
+  - cpe:2.3:a:flarum:sticky:0.1.0:beta7:*:*:*:*:*:*
+  - cpe:2.3:a:flarum:sticky:0.1.0:beta8:*:*:*:*:*:*
+  - cpe:2.3:a:flarum:sticky:0.1.0:beta9:*:*:*:*:*:*

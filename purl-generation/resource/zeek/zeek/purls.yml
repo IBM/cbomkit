@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/zeek
+  - pkg:deb/ubuntu/zeek
+  - pkg:docker/blacktop/zeek
+  - pkg:github/zeek/zeek
+  - pkg:rpm/opensuse/zeek

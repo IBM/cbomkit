@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-openssl
+  - pkg:deb/ubuntu/rust-openssl
+  - pkg:github/sfackler/rust-openssl
+  - pkg:rpm/fedora/rust-openssl
+  - pkg:rpm/opensuse/rust-openssl

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/johndatserakis/file-upload-with-preview
+  - pkg:npm/file-upload-with-preview

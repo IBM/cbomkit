@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/uglifyjs
+  - pkg:deb/ubuntu/uglifyjs
+  - pkg:github/mishoo/uglifyjs2
+  - pkg:maven/org.webjars.npm/github-com-mishoo-uglifyjs2
+  - pkg:npm/uglify-js
+  - pkg:rpm/centos/uglify-js
+  - pkg:rpm/fedora/uglify-js
+  - pkg:rpm/opensuse/uglify-js
+  - pkg:sourceforge/uglifyjs-3.mirror

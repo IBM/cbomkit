@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/net-tools
+  - pkg:deb/ubuntu/net-tools
+  - pkg:github/ecki/net-tools
+  - pkg:gitlab/redhat/net-tools
+  - pkg:rpm/centos/net-tools
+  - pkg:rpm/fedora/net-tools
+  - pkg:rpm/opensuse/net-tools
+  - pkg:sourceforge/net-tools

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libarchive
+  - pkg:deb/ubuntu/libarchive
+  - pkg:github/libarchive/libarchive
+  - pkg:gitlab/redhat/libarchive
+  - pkg:rpm/centos/libarchive
+  - pkg:rpm/fedora/libarchive
+  - pkg:rpm/opensuse/libarchive

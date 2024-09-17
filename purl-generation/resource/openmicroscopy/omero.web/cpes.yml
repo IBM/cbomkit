@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:openmicroscopy:omero.web:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmicroscopy:omero.web:5.6.3:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/lbesson/linux-dash
+  - pkg:docker/imightbebob/linux-dash
+  - pkg:github/afaqurk/linux-dash

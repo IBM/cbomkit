@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:jetbox:jetbox_cms:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jetbox:jetbox_cms:2.1_sr1:*:*:*:*:*:*:*

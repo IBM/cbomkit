@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/lvu/rtf2html
+  - pkg:sourceforge/rtf2html

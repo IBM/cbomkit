@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:fal_sftp_project:fal_sftp:0.2.4:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:fal_sftp_project:fal_sftp:1.0.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:fal_sftp_project:fal_sftp:2.0.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:fal_sftp_project:fal_sftp:2.1.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:fal_sftp_project:fal_sftp:2.2.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:fal_sftp_project:fal_sftp:2.2.1:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:fal_sftp_project:fal_sftp:3.0.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:fal_sftp_project:fal_sftp:3.1.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:fal_sftp_project:fal_sftp:3.1.1:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:fal_sftp_project:fal_sftp:3.2.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:fal_sftp_project:fal_sftp:*:*:*:*:*:typo3:*:*

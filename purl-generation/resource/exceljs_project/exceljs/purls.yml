@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/exceljs/exceljs
+  - pkg:maven/org.webjars.npm/exceljs
+  - pkg:npm/exceljs

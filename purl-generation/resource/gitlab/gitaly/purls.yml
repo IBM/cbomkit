@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/gitaly
+  - pkg:github/jackstack24/gitaly-mirror
+  - pkg:github/tnir/gitaly
+  - pkg:gitlab/gitlab-org/gitaly
+  - pkg:rpm/opensuse/gitaly

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/timothymeadows/recaptcha.aspnetcore
+  - pkg:nuget/recaptcha.aspnetcore

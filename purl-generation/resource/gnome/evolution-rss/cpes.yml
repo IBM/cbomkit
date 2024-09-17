@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:gnome:evolution-rss:0.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:evolution-rss:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:evolution-rss:0.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:evolution-rss:0.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:evolution-rss:0.1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:evolution-rss:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:evolution-rss:0.2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:evolution-rss:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:evolution-rss:0.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:evolution-rss:0.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:evolution-rss:0.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:evolution-rss:0.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:evolution-rss:0.3.91:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:evolution-rss:0.3.92:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:evolution-rss:0.3.93:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:evolution-rss:0.3.94:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:evolution-rss:0.3.95:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:evolution-rss:0.3.96:*:*:*:*:*:*:*

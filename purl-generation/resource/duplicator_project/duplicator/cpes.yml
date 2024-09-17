@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:duplicator_project:duplicator:0.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:duplicator_project:duplicator:0.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:duplicator_project:duplicator:0.4.4:*:*:*:*:wordpress:*:*

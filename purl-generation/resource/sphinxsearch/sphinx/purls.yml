@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/sphinx
+  - pkg:deb/ubuntu/sphinx
+  - pkg:docker/sphinxdoc/sphinx
+  - pkg:github/sphinx-doc/sphinx
+  - pkg:github/sphinxsearch/sphinx
+  - pkg:pypi/sphinx
+  - pkg:sourceforge/sphinx.mirror

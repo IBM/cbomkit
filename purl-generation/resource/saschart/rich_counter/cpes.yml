@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:saschart:rich_counter:1.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:saschart:rich_counter:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:saschart:rich_counter:1.1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:saschart:rich_counter:1.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:saschart:rich_counter:1.5.0:*:*:*:*:wordpress:*:*

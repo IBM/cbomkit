@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/goliath
+  - pkg:github/postrank-labs/goliath

@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/janeczku/calibre-web
+  - pkg:github/janeczku/calibre-web

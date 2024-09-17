@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:managedinstalls_project:managedinstalls:1.1:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:managedinstalls_project:managedinstalls:1.2:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:managedinstalls_project:managedinstalls:2.0:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:managedinstalls_project:managedinstalls:2.1:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:managedinstalls_project:managedinstalls:2.2:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:managedinstalls_project:managedinstalls:2.3:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:managedinstalls_project:managedinstalls:2.4:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:managedinstalls_project:managedinstalls:2.5:*:*:*:*:munkireport:*:*
+  - cpe:2.3:a:managedinstalls_project:managedinstalls:2.6:*:*:*:*:munkireport:*:*

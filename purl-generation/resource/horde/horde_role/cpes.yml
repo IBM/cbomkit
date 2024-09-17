@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:horde:horde_role:1.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_role:1.0.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_role:1.0.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_role:1.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_role:1.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_role:1.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_role:1.0.1:*:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/bookkeeper
+  - pkg:deb/debian/bookkeeper
+  - pkg:deb/ubuntu/bookkeeper
+  - pkg:docker/apache/bookkeeper
+  - pkg:github/apache/bookkeeper
+  - pkg:maven/org.apache.bookkeeper/bookkeeper

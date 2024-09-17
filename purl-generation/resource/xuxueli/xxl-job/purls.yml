@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/xuxueli/xxl-job
+  - pkg:maven/com.xuxueli/xxl-job

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/libyal/libfsclfs
+  - pkg:rpm/opensuse/libfsclfs

@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:wp-email_project:wp-email:2.63:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-email_project:wp-email:2.64:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-email_project:wp-email:2.65:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-email_project:wp-email:2.66:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-email_project:wp-email:2.67.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-email_project:wp-email:2.67.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-email_project:wp-email:2.67.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-email_project:wp-email:2.67.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-email_project:wp-email:2.67.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-email_project:wp-email:2.67.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-email_project:wp-email:2.67:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-email_project:wp-email:2.68.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-email_project:wp-email:2.68.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-email_project:wp-email:2.68.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-email_project:wp-email:2.69.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-email_project:wp-email:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-email_project:wp-email:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:ansible-ntp_project:ansible-ntp:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ansible-ntp_project:ansible-ntp:-:*:*:*:*:*:*:*

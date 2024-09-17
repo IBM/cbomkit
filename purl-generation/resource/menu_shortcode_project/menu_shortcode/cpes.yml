@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:menu_shortcode_project:menu_shortcode:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:menu_shortcode_project:menu_shortcode:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:menu_shortcode_project:menu_shortcode:-:*:*:*:*:wordpress:*:*

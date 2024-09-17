@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-rtslib-fb
+  - pkg:deb/ubuntu/python-rtslib-fb
+  - pkg:github/agrover/rtslib-fb
+  - pkg:github/open-iscsi/rtslib-fb
+  - pkg:pypi/rtslib-fb
+  - pkg:rpm/opensuse/python-rtslib-fb

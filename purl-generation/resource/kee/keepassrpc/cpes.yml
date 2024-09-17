@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:kee:keepassrpc:1.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kee:keepassrpc:1.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kee:keepassrpc:1.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kee:keepassrpc:1.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kee:keepassrpc:1.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kee:keepassrpc:1.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kee:keepassrpc:1.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kee:keepassrpc:1.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:kee:keepassrpc:1.7.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kee:keepassrpc:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kee:keepassrpc:1.9.0:*:*:*:*:*:*:*

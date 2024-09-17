@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/gns3/ubridge
+  - pkg:rpm/fedora/ubridge
+  - pkg:rpm/opensuse/ubridge

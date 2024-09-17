@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/osisoft/sample-pi_web_api-common_actions-angular
+  - pkg:github/z-burke/osisoft-pi-web-api-samples
+  - pkg:npm/node-red-contrib-osisoft-web-api

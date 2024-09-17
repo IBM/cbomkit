@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/icecast2
+  - pkg:deb/ubuntu/icecast2
+  - pkg:github/xiph/icecast-server
+  - pkg:rpm/fedora/icecast
+  - pkg:rpm/opensuse/icecast

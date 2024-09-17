@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:regionprotect_project:regionprotect:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:regionprotect_project:regionprotect:1.1.0:*:*:*:*:*:*:*

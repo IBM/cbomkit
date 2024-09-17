@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/cxf
+  - pkg:github/apache/cxf
+  - pkg:maven/org.apache.cxf/cxf
+  - pkg:rpm/fedora/cxf

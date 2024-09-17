@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/svenroederer/phpwiki
+  - pkg:sourceforge/phpwiki

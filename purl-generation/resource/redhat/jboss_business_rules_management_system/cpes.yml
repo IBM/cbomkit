@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:redhat:jboss_business_rules_management_system:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_business_rules_management_system:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_business_rules_management_system:5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_business_rules_management_system:6.0.0:*:*:*:*:*:*:*

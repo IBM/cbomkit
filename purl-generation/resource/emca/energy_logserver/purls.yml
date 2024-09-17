@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/emca-it/energy-log-server-6.x
+  - pkg:github/emca-it/energy-log-server-7.x

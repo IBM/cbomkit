@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:data_stream_algorithm_benchmark_project:data_stream_algorithm_benchmark:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:data_stream_algorithm_benchmark_project:data_stream_algorithm_benchmark:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:data_stream_algorithm_benchmark_project:data_stream_algorithm_benchmark:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:data_stream_algorithm_benchmark_project:data_stream_algorithm_benchmark:2019-02-18:*:*:*:*:*:*:*
+  - cpe:2.3:a:data_stream_algorithm_benchmark_project:data_stream_algorithm_benchmark:2.1:*:*:*:*:*:*:*

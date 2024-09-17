@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/foomatic-filters
+  - pkg:deb/ubuntu/foomatic-filters
+  - pkg:github/distrotech/foomatic-filters
+  - pkg:rpm/centos/foomatic-filters
+  - pkg:rpm/opensuse/foomatic-filters

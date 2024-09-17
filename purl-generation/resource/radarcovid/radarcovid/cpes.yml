@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:radarcovid:radarcovid:1.0.7:*:uniform_distribution:*:*:android:*:*
+  - cpe:2.3:a:radarcovid:radarcovid:1.0.8:*:uniform_distribution:*:*:iphone_os:*:*
+  - cpe:2.3:a:radarcovid:radarcovid:1.1.0:*:exponential_distribution:*:*:android:*:*
+  - cpe:2.3:a:radarcovid:radarcovid:1.1.0:*:exponential_distribution:*:*:iphone_os:*:*
+  - cpe:2.3:a:radarcovid:radarcovid:-:*:exponential_distribution:*:*:android:*:*
+  - cpe:2.3:a:radarcovid:radarcovid:-:*:exponential_distribution:*:*:iphone_os:*:*
+  - cpe:2.3:a:radarcovid:radarcovid:-:*:uniform_distribution:*:*:android:*:*
+  - cpe:2.3:a:radarcovid:radarcovid:-:*:uniform_distribution:*:*:iphone_os:*:*

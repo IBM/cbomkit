@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:redhat:spacewalk-java:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:spacewalk-java:1.2.39:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:spacewalk-java:1.7.54:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:spacewalk-java:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:spacewalk-java:2.0.2-57:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:spacewalk-java:2.1.147-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:spacewalk-java:2.1.148-1:*:*:*:*:*:*:*

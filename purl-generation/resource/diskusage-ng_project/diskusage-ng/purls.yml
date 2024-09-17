@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/iximiuz/node-diskusage-ng
+  - pkg:npm/diskusage-ng

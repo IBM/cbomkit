@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:hashconsing_project:hashconsing:0.10.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hashconsing_project:hashconsing:0.10.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hashconsing_project:hashconsing:0.10.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hashconsing_project:hashconsing:0.2.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hashconsing_project:hashconsing:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hashconsing_project:hashconsing:0.4.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hashconsing_project:hashconsing:0.5.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hashconsing_project:hashconsing:0.5.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hashconsing_project:hashconsing:0.9.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hashconsing_project:hashconsing:0.9.11:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hashconsing_project:hashconsing:0.9.9:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hashconsing_project:hashconsing:1.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hashconsing_project:hashconsing:1.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hashconsing_project:hashconsing:1.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:hashconsing_project:hashconsing:-:*:*:*:*:rust:*:*

@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:kernel:rt-tests:0.92:*:*:*:*:*:*:*
+  - cpe:2.3:a:kernel:rt-tests:0.93:*:*:*:*:*:*:*
+  - cpe:2.3:a:kernel:rt-tests:0.94:*:*:*:*:*:*:*
+  - cpe:2.3:a:kernel:rt-tests:0.95:*:*:*:*:*:*:*
+  - cpe:2.3:a:kernel:rt-tests:0.96:*:*:*:*:*:*:*
+  - cpe:2.3:a:kernel:rt-tests:0.97:*:*:*:*:*:*:*
+  - cpe:2.3:a:kernel:rt-tests:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kernel:rt-tests:1.3:*:*:*:*:*:*:*

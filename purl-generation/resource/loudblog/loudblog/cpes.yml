@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:loudblog:loudblog:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:loudblog:loudblog:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:loudblog:loudblog:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:loudblog:loudblog:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:loudblog:loudblog:0.8.0:*:*:*:*:*:*:*

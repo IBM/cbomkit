@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/butshaman/raneto
+  - pkg:github/ryanlelek/raneto
+  - pkg:npm/raneto

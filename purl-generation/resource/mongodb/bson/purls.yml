@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/mongodb/js-bson
+  - pkg:maven/org.webjars.npm/bson
+  - pkg:npm/bson
+  - pkg:rpm/fedora/nodejs-bson

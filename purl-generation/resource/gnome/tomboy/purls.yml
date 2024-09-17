@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/tomboy
+  - pkg:deb/ubuntu/tomboy
+  - pkg:github/matteonardi/tomboy
+  - pkg:github/tomboy-notes/tomboy
+  - pkg:rpm/fedora/tomboy
+  - pkg:rpm/opensuse/tomboy

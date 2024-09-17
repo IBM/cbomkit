@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:freedesktop:dbus-glib:0.100:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus-glib:0.100.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus-glib:0.100.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus-glib:0.102:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus-glib:0.104:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus-glib:0.106:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus-glib:0.108:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus-glib:0.110:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus-glib:0.72:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus-glib:0.73:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus-glib:0.74:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus-glib:0.76:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus-glib:0.78:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus-glib:0.80:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus-glib:0.82:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus-glib:0.84:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus-glib:0.86:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus-glib:0.88:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus-glib:0.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus-glib:0.92:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus-glib:0.94:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus-glib:0.96:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus-glib:0.98:*:*:*:*:*:*:*

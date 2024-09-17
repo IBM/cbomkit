@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:git-tag-annotation-action_project:git-tag-annotation-action:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-tag-annotation-action_project:git-tag-annotation-action:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:git-tag-annotation-action_project:git-tag-annotation-action:1.0.1:*:*:*:*:*:*:*

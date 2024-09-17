@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:galois_2p8_project:galois_2p8:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:galois_2p8_project:galois_2p8:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:galois_2p8_project:galois_2p8:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:galois_2p8_project:galois_2p8:0.1.2:*:*:*:*:*:*:*

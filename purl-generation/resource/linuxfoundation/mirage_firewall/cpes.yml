@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:linuxfoundation:mirage_firewall:0.1:*:*:*:*:qubesos:*:*
+  - cpe:2.3:a:linuxfoundation:mirage_firewall:0.2:*:*:*:*:qubesos:*:*
+  - cpe:2.3:a:linuxfoundation:mirage_firewall:0.3:*:*:*:*:qubesos:*:*
+  - cpe:2.3:a:linuxfoundation:mirage_firewall:0.4:*:*:*:*:qubesos:*:*
+  - cpe:2.3:a:linuxfoundation:mirage_firewall:0.5:*:*:*:*:qubesos:*:*
+  - cpe:2.3:a:linuxfoundation:mirage_firewall:0.6:*:*:*:*:qubesos:*:*
+  - cpe:2.3:a:linuxfoundation:mirage_firewall:0.7.1:*:*:*:*:qubesos:*:*
+  - cpe:2.3:a:linuxfoundation:mirage_firewall:0.7:*:*:*:*:qubesos:*:*
+  - cpe:2.3:a:linuxfoundation:mirage_firewall:0.8.0:*:*:*:*:qubesos:*:*
+  - cpe:2.3:a:linuxfoundation:mirage_firewall:0.8.1:*:*:*:*:qubesos:*:*
+  - cpe:2.3:a:linuxfoundation:mirage_firewall:0.8.2:*:*:*:*:qubesos:*:*
+  - cpe:2.3:a:linuxfoundation:mirage_firewall:0.8.3:*:*:*:*:qubesos:*:*
+  - cpe:2.3:a:linuxfoundation:mirage_firewall:0.8.4:*:*:*:*:qubesos:*:*
+  - cpe:2.3:a:linuxfoundation:mirage_firewall:-:*:*:*:*:qubesos:*:*

@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:pearadmin:pearadmin_think:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pearadmin:pearadmin_think:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:pearadmin:pearadmin_think:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pearadmin:pearadmin_think:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pearadmin:pearadmin_think:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pearadmin:pearadmin_think:5:*:*:*:*:*:*:*
+  - cpe:2.3:a:pearadmin:pearadmin_think:5.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:pearadmin:pearadmin_think:5.0.6:*:*:*:*:*:*:*

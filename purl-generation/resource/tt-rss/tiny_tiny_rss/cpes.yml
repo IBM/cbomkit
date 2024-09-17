@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:tt-rss:tiny_tiny_rss:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:tt-rss:tiny_tiny_rss:17.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:tt-rss:tiny_tiny_rss:2020-09-16:*:*:*:*:*:*:*

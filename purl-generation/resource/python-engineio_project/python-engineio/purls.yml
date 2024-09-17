@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-engineio
+  - pkg:deb/ubuntu/python-engineio
+  - pkg:github/miguelgrinberg/python-engineio
+  - pkg:pypi/python-engineio
+  - pkg:rpm/fedora/python-engineio
+  - pkg:rpm/opensuse/python-python-engineio

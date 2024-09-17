@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ghantoos/lshell
+  - pkg:rpm/opensuse/lshell
+  - pkg:sourceforge/lshell

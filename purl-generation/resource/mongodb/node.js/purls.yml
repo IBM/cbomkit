@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mongodb/node-mongodb-native
+  - pkg:npm/mongodb

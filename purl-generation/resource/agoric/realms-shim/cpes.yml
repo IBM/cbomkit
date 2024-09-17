@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:agoric:realms-shim:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:agoric:realms-shim:1.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:agoric:realms-shim:1.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:agoric:realms-shim:1.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:agoric:realms-shim:1.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:agoric:realms-shim:1.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:agoric:realms-shim:-:*:*:*:*:node.js:*:*

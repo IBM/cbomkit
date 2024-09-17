@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:mutagen:mutagen:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mutagen:mutagen:0.17.0:*:*:*:*:*:*:*

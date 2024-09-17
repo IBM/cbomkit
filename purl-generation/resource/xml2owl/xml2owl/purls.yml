@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cyplas/xml2owl
+  - pkg:sourceforge/xml2owl

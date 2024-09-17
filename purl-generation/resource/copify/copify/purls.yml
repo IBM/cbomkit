@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/copify/copify-wordpress
+  - pkg:github/wp-plugins/copify

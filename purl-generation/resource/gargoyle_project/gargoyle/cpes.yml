@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:gargoyle_project:gargoyle:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gargoyle_project:gargoyle:20060917:*:*:*:*:*:*:*
+  - cpe:2.3:a:gargoyle_project:gargoyle:20081225:*:*:*:*:*:*:*
+  - cpe:2.3:a:gargoyle_project:gargoyle:2009-08-25:*:*:*:*:*:*:*
+  - cpe:2.3:a:gargoyle_project:gargoyle:20090825:*:*:*:*:*:*:*
+  - cpe:2.3:a:gargoyle_project:gargoyle:2010.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gargoyle_project:gargoyle:2010.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gargoyle_project:gargoyle:2011.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gargoyle_project:gargoyle:2019.1:*:*:*:*:*:*:*

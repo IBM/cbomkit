@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-asciidoctor-include-ext
+  - pkg:deb/ubuntu/astc-encoder
+  - pkg:gem/asciidoctor-include-ext
+  - pkg:github/jirutka/asciidoctor-include-ext
+  - pkg:rpm/opensuse/rubygem-asciidoctor-include-ext

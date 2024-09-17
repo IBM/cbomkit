@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/kget
+  - pkg:deb/ubuntu/kget
+  - pkg:github/kde/kget
+  - pkg:rpm/fedora/kget
+  - pkg:rpm/opensuse/kget
+  - pkg:sourceforge/kget

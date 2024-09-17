@@ -1,0 +1,3 @@
+purls:
+  - pkg:pypi/plow
+  - pkg:sourceforge/plow.berlios

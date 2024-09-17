@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:menu_item_visibility_control_project:menu_item_visibility_control:0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:menu_item_visibility_control_project:menu_item_visibility_control:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:menu_item_visibility_control_project:menu_item_visibility_control:-:*:*:*:*:wordpress:*:*

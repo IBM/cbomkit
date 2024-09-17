@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/samba
+  - pkg:deb/ubuntu/samba
+  - pkg:github/itfanr/ctdb
+  - pkg:github/rootfs/ctdb
+  - pkg:github/wolfmuel/ctdb
+  - pkg:rpm/centos/ctdb
+  - pkg:rpm/opensuse/ctdb

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ovn-org/ovn
+  - pkg:rpm/fedora/ovn
+  - pkg:rpm/opensuse/ovn

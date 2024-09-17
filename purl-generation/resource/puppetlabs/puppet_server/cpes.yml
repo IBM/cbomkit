@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:puppetlabs:puppet_server:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppetlabs:puppet_server:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppetlabs:puppet_server:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppetlabs:puppet_server:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppetlabs:puppet_server:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppetlabs:puppet_server:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:puppetlabs:puppet_server:2.3.1:*:*:*:*:*:*:*

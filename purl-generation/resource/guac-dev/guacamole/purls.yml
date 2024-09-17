@@ -1,0 +1,3 @@
+purls:
+  - pkg:apache/guacamole
+  - pkg:sourceforge/guacamole

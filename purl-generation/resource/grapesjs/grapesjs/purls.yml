@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/artf/grapesjs
+  - pkg:maven/org.webjars.npm/grapesjs
+  - pkg:npm/grapesjs

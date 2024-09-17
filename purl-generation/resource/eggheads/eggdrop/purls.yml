@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/eggdrop
+  - pkg:deb/ubuntu/eggdrop
+  - pkg:github/eggheads/eggdrop
+  - pkg:rpm/fedora/eggdrop
+  - pkg:rpm/opensuse/eggdrop

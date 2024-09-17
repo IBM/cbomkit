@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:znc:znc_docker_image:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:znc:znc_docker_image:1.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:znc:znc_docker_image:1.6.4-slim:*:*:*:*:*:*:*
+  - cpe:2.3:a:znc:znc_docker_image:1.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:znc:znc_docker_image:1.6.5-slim:*:*:*:*:*:*:*
+  - cpe:2.3:a:znc:znc_docker_image:1.6.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:znc:znc_docker_image:1.6.6-slim:*:*:*:*:*:*:*
+  - cpe:2.3:a:znc:znc_docker_image:1.6-slim:*:*:*:*:*:*:*
+  - cpe:2.3:a:znc:znc_docker_image:1.7.0-slim:*:*:*:*:*:*:*
+  - cpe:2.3:a:znc:znc_docker_image:1.7.0:slim:*:*:*:*:*:*
+  - cpe:2.3:a:znc:znc_docker_image:1.7.1-slim:*:*:*:*:*:*:*

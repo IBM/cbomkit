@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/cgit
+  - pkg:deb/ubuntu/cgit
+  - pkg:github//metajack/cgit
+  - pkg:github/metajack/cgit
+  - pkg:rpm/fedora/cgit
+  - pkg:rpm/opensuse/cgit

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/code4craft/webmagic
+  - pkg:maven/us.codecraft/webmagic-core

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-horde-openxchange
+  - pkg:deb/ubuntu/php-horde-openxchange
+  - pkg:github/horde/openxchange
+  - pkg:rpm/fedora/php-horde-horde-openxchange
+  - pkg:rpm/opensuse/php-horde-horde-openxchange

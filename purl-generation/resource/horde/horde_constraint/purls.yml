@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-horde-constraint
+  - pkg:deb/ubuntu/php-horde-constraint
+  - pkg:github/horde/constraint
+  - pkg:rpm/fedora/php-horde-horde-constraint
+  - pkg:rpm/opensuse/php-horde-horde-constraint

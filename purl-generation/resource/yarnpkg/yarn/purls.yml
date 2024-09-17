@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/node-yarnpkg
+  - pkg:deb/ubuntu/node-yarnpkg
+  - pkg:github/yarnpkg/berry
+  - pkg:github/yarnpkg/yarn
+  - pkg:rpm/fedora/yarnpkg
+  - pkg:rpm/opensuse/yarn
+  - pkg:sourceforge/yarn.mirror

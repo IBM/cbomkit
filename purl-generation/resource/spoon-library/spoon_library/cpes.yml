@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:spoon-library:spoon_library:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:spoon-library:spoon_library:0.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:spoon-library:spoon_library:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:spoon-library:spoon_library:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:spoon-library:spoon_library:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:spoon-library:spoon_library:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:spoon-library:spoon_library:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:spoon-library:spoon_library:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:spoon-library:spoon_library:1.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:spoon-library:spoon_library:1.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:spoon-library:spoon_library:1.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:spoon-library:spoon_library:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:spoon-library:spoon_library:1.3.0:*:*:*:*:*:*:*

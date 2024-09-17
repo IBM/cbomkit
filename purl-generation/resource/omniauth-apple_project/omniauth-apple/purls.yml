@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/omniauth-apple
+  - pkg:github/nhosoya/omniauth-apple

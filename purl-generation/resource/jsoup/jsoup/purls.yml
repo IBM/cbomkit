@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/jsoup
+  - pkg:deb/ubuntu/jsoup
+  - pkg:github/jhy/jsoup
+  - pkg:gitlab/redhat/jsoup
+  - pkg:maven/org.jsoup/jsoup
+  - pkg:rpm/centos/jsoup
+  - pkg:rpm/fedora/jsoup
+  - pkg:rpm/opensuse/jsoup
+  - pkg:sourceforge/jsoup.mirror

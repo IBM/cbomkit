@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/scummvm
+  - pkg:deb/ubuntu/scummvm
+  - pkg:github/scummvm/scummvm
+  - pkg:rpm/fedora/scummvm
+  - pkg:rpm/opensuse/scummvm
+  - pkg:sourceforge/scummvm

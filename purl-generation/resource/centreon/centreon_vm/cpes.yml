@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:centreon:centreon_vm:19.04.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:centreon:centreon_vm:19.04.3:*:*:*:*:*:*:*

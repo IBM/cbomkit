@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/vim
+  - pkg:deb/ubuntu/vim
+  - pkg:github/vim/vim
+  - pkg:osdn/vim
+  - pkg:rpm/opensuse/vim
+  - pkg:rpm/vim
+  - pkg:vim/vim

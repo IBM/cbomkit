@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/qtranslate/qtranslate-xt
+  - pkg:github/qtranslate-team/qtranslate-x

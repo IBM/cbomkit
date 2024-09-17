@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kraj/uclibc
+  - pkg:rpm/fedora/uclibc

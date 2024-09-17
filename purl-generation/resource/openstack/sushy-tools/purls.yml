@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openstack/sushy-tools
+  - pkg:pypi/sushy-tools

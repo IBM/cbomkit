@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/jasperreports
+  - pkg:deb/ubuntu/jasperreports
+  - pkg:docker/bitnami/jasperreports
+  - pkg:github/tibcosoftware/jasperreports
+  - pkg:maven/jasperreports/jasperreports
+  - pkg:sourceforge/jasperreports

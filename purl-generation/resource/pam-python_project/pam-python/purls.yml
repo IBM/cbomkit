@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/python-pam
+  - pkg:deb/ubuntu/python-pam
+  - pkg:pypi/python-pam
+  - pkg:sourceforge/pam-python

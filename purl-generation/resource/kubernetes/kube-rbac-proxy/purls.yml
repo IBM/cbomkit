@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/brancz/kube-rbac-proxy
+  - pkg:golang/github.com/brancz/kube-rbac-proxy

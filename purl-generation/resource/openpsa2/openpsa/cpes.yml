@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:openpsa2:openpsa:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:openpsa2:openpsa:9.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openpsa2:openpsa:9.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:openpsa2:openpsa:9.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openpsa2:openpsa:9.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:openpsa2:openpsa:9.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:openpsa2:openpsa:9.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:openpsa2:openpsa:9.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:openpsa2:openpsa:9.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:openpsa2:openpsa:9.0:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:openpsa2:openpsa:9.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openpsa2:openpsa:9.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openpsa2:openpsa:9.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openpsa2:openpsa:9.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openpsa2:openpsa:9.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openpsa2:openpsa:9.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openpsa2:openpsa:9.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openpsa2:openpsa:9.8.0:*:*:*:*:*:*:*

@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:megaease:easeprobe:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:megaease:easeprobe:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:megaease:easeprobe:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:megaease:easeprobe:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:megaease:easeprobe:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:megaease:easeprobe:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:megaease:easeprobe:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:megaease:easeprobe:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:megaease:easeprobe:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:megaease:easeprobe:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:megaease:easeprobe:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:megaease:easeprobe:1.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:megaease:easeprobe:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:megaease:easeprobe:2.0.1:*:*:*:*:*:*:*

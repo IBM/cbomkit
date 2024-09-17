@@ -1,0 +1,11 @@
+purls:
+  - pkg:bitbucket/sanbrother/net-snmp
+  - pkg:deb/debian/net-snmp
+  - pkg:deb/ubuntu/net-snmp
+  - pkg:github/hardaker/net-snmp
+  - pkg:github/net-snmp/net-snmp
+  - pkg:gitlab/redhat/net-snmp
+  - pkg:rpm/centos/net-snmp
+  - pkg:rpm/fedora/net-snmp
+  - pkg:rpm/opensuse/net-snmp
+  - pkg:sourceforge/net-snmp

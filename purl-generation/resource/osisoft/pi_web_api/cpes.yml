@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:osisoft:pi_web_api:1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_web_api:2014:-:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_web_api:2014:r2:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_web_api:2015:-:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_web_api:2015:r2:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_web_api:2015:r3:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_web_api:2016:-:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_web_api:2016-r2:*:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_web_api:2016:r2:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_web_api:2016:sp1:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_web_api:2017:*:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_web_api:2017:-:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_web_api:2017:r2:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_web_api:2018:*:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_web_api:2019:*:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_web_api:2019:-:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_web_api:2019:patch_1:*:*:*:*:*:*

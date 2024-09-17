@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:ffmpeg-sdk_project:ffmpeg-sdk:*:*:*:*:*:node.js:*:*

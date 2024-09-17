@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gerapy/gerapy
+  - pkg:pypi/gerapy

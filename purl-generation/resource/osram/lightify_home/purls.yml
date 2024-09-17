@@ -1,0 +1,5 @@
+purls:
+  - pkg:cpan/device::osram::lightify
+  - pkg:github/bczapp/pylightify
+  - pkg:pypi/lightify
+  - pkg:rpm/opensuse/perl-device-osram-lightify

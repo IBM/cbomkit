@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/txthinking/brook
+  - pkg:golang/github.com/txthinking/brook

@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:keepassx:keepassx:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:0.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:0.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:0.3.0:a:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:0.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:0.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:0.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:0.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:0.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:2.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:2.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:2.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:2.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:2.0:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:2.0:alpha6:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:2.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:keepassx:keepassx:2.0:beta2:*:*:*:*:*:*

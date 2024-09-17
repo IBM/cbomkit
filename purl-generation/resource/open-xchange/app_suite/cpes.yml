@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:open-xchange:app_suite:7.10.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:app_suite:7.4.2:rev6:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:app_suite:7.4.2:rev7:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:app_suite:7.4.2:rev8:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:app_suite:7.4.2:rev9:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:app_suite:7.6.0:rev6:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:app_suite:7.6.0:rev7:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:app_suite:7.6.0:rev8:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:app_suite:7.6.0:rev9:*:*:*:*:*:*

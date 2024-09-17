@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/zhao0/node-apk-parser3
+  - pkg:npm/apk-parser3

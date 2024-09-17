@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/qemu/qemu
+  - pkg:gitlab/qemu-project/qemu

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-saml
+  - pkg:deb/ubuntu/ruby-saml
+  - pkg:gem/ruby-saml
+  - pkg:github/onelogin/ruby-saml
+  - pkg:rpm/opensuse/rubygem-ruby-saml

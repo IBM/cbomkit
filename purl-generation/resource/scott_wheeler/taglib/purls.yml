@@ -1,0 +1,11 @@
+purls:
+  - pkg:cpan/audio-taglib
+  - pkg:deb/debian/taglib
+  - pkg:deb/ubuntu/taglib
+  - pkg:gem/taglib-ruby
+  - pkg:github/taglib/taglib
+  - pkg:gitlab/redhat/taglib
+  - pkg:npm/taglib
+  - pkg:pypi/pytaglib
+  - pkg:rpm/fedora/taglib
+  - pkg:rpm/opensuse/taglib

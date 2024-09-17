@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:eea:eionet_content_registry:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:eea:eionet_content_registry:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:eea:eionet_content_registry:2021-08-10t0913:*:*:*:*:*:*:*
+  - cpe:2.3:a:eea:eionet_content_registry:2021-10-18t1514:*:*:*:*:*:*:*
+  - cpe:2.3:a:eea:eionet_content_registry:2021-12-06t1417:*:*:*:*:*:*:*
+  - cpe:2.3:a:eea:eionet_content_registry:2021-12-15t1157:*:*:*:*:*:*:*
+  - cpe:2.3:a:eea:eionet_content_registry:2021-12-20t1143:*:*:*:*:*:*:*
+  - cpe:2.3:a:eea:eionet_content_registry:2022-01-14t1523:*:*:*:*:*:*:*
+  - cpe:2.3:a:eea:eionet_content_registry:2022-04-14t1147:*:*:*:*:*:*:*
+  - cpe:2.3:a:eea:eionet_content_registry:2022-05-24t1407:*:*:*:*:*:*:*
+  - cpe:2.3:a:eea:eionet_content_registry:2022-06-27t0948:*:*:*:*:*:*:*

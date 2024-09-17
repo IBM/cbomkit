@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:tinysvcmdns_project:tinysvcmdns:2016-07-18:*:*:*:*:*:*:*
+  - cpe:2.3:a:tinysvcmdns_project:tinysvcmdns:2017-11-05:*:*:*:*:*:*:*
+  - cpe:2.3:a:tinysvcmdns_project:tinysvcmdns:2018-01-16:*:*:*:*:*:*:*

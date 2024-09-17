@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/ddvtech/mistserver
+  - pkg:github/ddvtech/mistserver
+  - pkg:rpm/opensuse/mistserver

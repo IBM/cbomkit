@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/jupyter-notebook
+  - pkg:deb/ubuntu/jupyter-notebook
+  - pkg:github/jupyter/notebook
+  - pkg:pypi/notebook1
+  - pkg:rpm/opensuse/jupyter-notebook
+  - pkg:sourceforge/jupyter-notebook.mirror

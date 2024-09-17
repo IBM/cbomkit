@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libpano13
+  - pkg:deb/ubuntu/libpano13
+  - pkg:github/lianhaidong/libpano13
+  - pkg:github/prosyslab-warehouse/libpano13
+  - pkg:github/yangcai314/libpano13
+  - pkg:rpm/fedora/libpano13
+  - pkg:sourceforge/panotools

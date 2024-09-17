@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/plexus-archiver
+  - pkg:deb/ubuntu/plexus-archiver
+  - pkg:github/codehaus-plexus/plexus-archiver
+  - pkg:github/krosenvold/plexus-archiver
+  - pkg:github/sonatype/plexus-archiver
+  - pkg:maven/org.codehaus.plexus/plexus-archiver
+  - pkg:rpm/centos/plexus-archiver
+  - pkg:rpm/fedora/plexus-archiver
+  - pkg:rpm/opensuse/plexus-archiver

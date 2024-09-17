@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/php-letodms-core
+  - pkg:deb/ubuntu/letodms
+  - pkg:deb/ubuntu/php-letodms-core
+  - pkg:github/trilexcom/letodms
+  - pkg:github/trilexlabs/letodms
+  - pkg:sourceforge/mydms

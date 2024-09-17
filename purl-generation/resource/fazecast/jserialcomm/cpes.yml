@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:fazecast:jserialcomm:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fazecast:jserialcomm:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fazecast:jserialcomm:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fazecast:jserialcomm:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fazecast:jserialcomm:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fazecast:jserialcomm:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fazecast:jserialcomm:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fazecast:jserialcomm:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fazecast:jserialcomm:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fazecast:jserialcomm:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fazecast:jserialcomm:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fazecast:jserialcomm:2.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fazecast:jserialcomm:2.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fazecast:jserialcomm:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fazecast:jserialcomm:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fazecast:jserialcomm:2.6.2:*:*:*:*:*:*:*

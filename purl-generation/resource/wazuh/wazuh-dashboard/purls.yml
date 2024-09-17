@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/wazuh/wazuh-dashboard
+  - pkg:github/wazuh/wazuh-dashboard-plugins

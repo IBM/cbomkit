@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/nepxion/discovery
+  - pkg:maven/com.nepxion/discovery
+  - pkg:sourceforge/discovery.mirror

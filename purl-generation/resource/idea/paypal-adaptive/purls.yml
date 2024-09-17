@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ideame/paypal-adaptive-sdk-nodejs
+  - pkg:npm/paypal-adaptive

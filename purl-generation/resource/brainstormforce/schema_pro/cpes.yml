@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:brainstormforce:schema_pro:2.7.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brainstormforce:schema_pro:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brainstormforce:schema_pro:-:*:*:*:*:wordpress:*:*

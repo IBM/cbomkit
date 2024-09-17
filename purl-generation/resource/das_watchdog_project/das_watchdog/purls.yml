@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/das-watchdog
+  - pkg:deb/ubuntu/das-watchdog
+  - pkg:github/kmatheussen/das_watchdog

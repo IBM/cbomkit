@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:opensuse:zypper:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:zypper:0.11.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:zypper:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:zypper:10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:zypper:10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:zypper:11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:zypper:1.6.16:*:*:*:*:*:*:*

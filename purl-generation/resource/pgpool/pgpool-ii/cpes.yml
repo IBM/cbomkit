@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:pgpool:pgpool-ii:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgpool:pgpool-ii:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgpool:pgpool-ii:3.7.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgpool:pgpool-ii:3.7.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgpool:pgpool-ii:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgpool:pgpool-ii:4.0.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgpool:pgpool-ii:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgpool:pgpool-ii:4.1.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgpool:pgpool-ii:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgpool:pgpool-ii:4.2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgpool:pgpool-ii:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgpool:pgpool-ii:4.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgpool:pgpool-ii:4.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pgpool:pgpool-ii:4.4.1:*:*:*:*:*:*:*

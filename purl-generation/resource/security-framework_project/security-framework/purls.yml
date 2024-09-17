@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/rust-security-framework
+  - pkg:deb/ubuntu/rust-security-framework
+  - pkg:github/kornelski/rust-security-framework
+  - pkg:rpm/opensuse/rust-security-framework

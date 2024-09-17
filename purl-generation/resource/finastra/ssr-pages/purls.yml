@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/finastra/ssr-pages
+  - pkg:npm/%40finastra/ssr-pages

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:fugu:maintenance_switch:1.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fugu:maintenance_switch:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fugu:maintenance_switch:-:*:*:*:*:wordpress:*:*

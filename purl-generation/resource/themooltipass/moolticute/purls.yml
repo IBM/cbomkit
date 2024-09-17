@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mooltipass/moolticute
+  - pkg:rpm/fedora/moolticute
+  - pkg:rpm/opensuse/moolticute

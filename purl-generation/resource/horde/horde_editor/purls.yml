@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-horde-editor
+  - pkg:deb/ubuntu/php-horde-editor
+  - pkg:github/horde/editor
+  - pkg:rpm/fedora/php-horde-horde-editor
+  - pkg:rpm/opensuse/php-horde-horde-editor

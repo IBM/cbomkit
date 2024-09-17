@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/alsa-lib
+  - pkg:deb/ubuntu/alsa-lib
+  - pkg:github/alsa-project/alsa-lib
+  - pkg:gitlab/redhat/alsa-lib
+  - pkg:rpm/fedora/alsa-lib
+  - pkg:rpm/opensuse/alsa-lib

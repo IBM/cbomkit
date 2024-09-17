@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/wanasit/chrono
+  - pkg:npm/chrono-node

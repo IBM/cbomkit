@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/lwbrown/docker-alpine
+  - pkg:github/gliderlabs/docker-alpine

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/asynchttpclient/async-http-client
+  - pkg:golang/github.com/asynchttpclient/async-http-client
+  - pkg:maven/org.asynchttpclient/async-http-client

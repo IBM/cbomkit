@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-devise-two-factor
+  - pkg:deb/ubuntu/ruby-devise-two-factor
+  - pkg:gem/devise-two-factor
+  - pkg:github/tinfoil/devise-two-factor
+  - pkg:rpm/opensuse/rubygem-devise-two-factor

@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/djvulibre
+  - pkg:deb/ubuntu/djvulibre
+  - pkg:docker/djvulibrelibv/djvulibre
+  - pkg:github/barak/djvulibre
+  - pkg:github/djvunet/djvulibre
+  - pkg:gitlab/koreader/djvulibre
+  - pkg:rpm/fedora/djvulibre
+  - pkg:rpm/opensuse/djvulibre
+  - pkg:sourceforge/djvu

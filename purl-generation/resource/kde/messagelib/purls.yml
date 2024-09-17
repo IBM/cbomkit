@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/kf5-messagelib
+  - pkg:deb/ubuntu/kf5-messagelib
+  - pkg:github/kde/messagelib
+  - pkg:rpm/fedora/kf5-messagelib
+  - pkg:rpm/opensuse/messagelib

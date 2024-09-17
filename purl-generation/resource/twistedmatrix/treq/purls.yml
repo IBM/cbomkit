@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-treq
+  - pkg:deb/ubuntu/python-treq
+  - pkg:github/twisted/treq
+  - pkg:pypi/treq
+  - pkg:rpm/fedora/python-treq
+  - pkg:rpm/opensuse/python-treq

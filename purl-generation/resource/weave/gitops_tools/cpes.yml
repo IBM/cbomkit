@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:weave:gitops_tools:*:*:*:*:*:visual_studio_code:*:*

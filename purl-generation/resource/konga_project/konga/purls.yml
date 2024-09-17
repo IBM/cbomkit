@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/pantsel/konga
+  - pkg:github/pantsel/konga

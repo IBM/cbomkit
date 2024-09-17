@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/apt
+  - pkg:debian/apt-team/apt
+  - pkg:deb/ubuntu/apt
+  - pkg:github/debian/apt

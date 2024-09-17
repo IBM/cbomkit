@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/lucaroman/fast-csv
+  - pkg:github/c2fo/fast-csv
+  - pkg:maven/org.webjars.npm/fast-csv
+  - pkg:npm/fast-csv

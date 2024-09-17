@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/tboot
+  - pkg:deb/ubuntu/tboot
+  - pkg:github/anuvu/tboot
+  - pkg:github/tklengyel/tboot
+  - pkg:gitlab/redhat/tboot
+  - pkg:rpm/centos/tboot
+  - pkg:rpm/fedora/tboot
+  - pkg:rpm/opensuse/tboot
+  - pkg:sourceforge/tboot

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bacnet-stack/bacnet-stack
+  - pkg:sourceforge/bacnet

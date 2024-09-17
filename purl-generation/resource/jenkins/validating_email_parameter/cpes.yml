@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jenkins:validating_email_parameter:1.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:validating_email_parameter:1.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:validating_email_parameter:-:*:*:*:*:jenkins:*:*

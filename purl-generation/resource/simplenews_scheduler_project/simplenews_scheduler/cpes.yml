@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:simplenews_scheduler_project:simplenews_scheduler:6.x-2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplenews_scheduler_project:simplenews_scheduler:6.x-2.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:simplenews_scheduler_project:simplenews_scheduler:6.x-2.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:simplenews_scheduler_project:simplenews_scheduler:6.x-2.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:simplenews_scheduler_project:simplenews_scheduler:6.x-2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplenews_scheduler_project:simplenews_scheduler:6.x-2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplenews_scheduler_project:simplenews_scheduler:6.x-2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplenews_scheduler_project:simplenews_scheduler:6.x-2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplenews_scheduler_project:simplenews_scheduler:6.x-2.x:dev:*:*:*:*:*:*

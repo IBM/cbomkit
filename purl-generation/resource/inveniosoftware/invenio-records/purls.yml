@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/inveniosoftware/invenio-records
+  - pkg:pypi/invenio-records

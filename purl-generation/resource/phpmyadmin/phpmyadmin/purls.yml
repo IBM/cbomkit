@@ -1,0 +1,6 @@
+purls:
+  - pkg:composer/phpmyadmin/phpmyadmin
+  - pkg:docker/phpmyadmin/phpmyadmin
+  - pkg:github/phpmyadmin/phpmyadmin
+  - pkg:rpm/fedora/phpmyadmin
+  - pkg:rpm/opensuse/phpmyadmin

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:jenkins:cppcheck:1.26:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:cppcheck:*:*:*:*:*:jenkins:*:*

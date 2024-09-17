@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:monetdb:database_server:11.43.13:*:*:*:*:*:*:*

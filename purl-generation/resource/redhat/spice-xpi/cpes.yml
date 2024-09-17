@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:redhat:spice-xpi:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:spice-xpi:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:spice-xpi:2.4:*:*:*:*:*:*:*

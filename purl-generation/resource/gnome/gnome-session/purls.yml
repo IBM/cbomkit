@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/gnome-session
+  - pkg:deb/ubuntu/gnome-session
+  - pkg:github/gnome/gnome-session
+  - pkg:rpm/centos/gnome-session
+  - pkg:rpm/fedora/gnome-session

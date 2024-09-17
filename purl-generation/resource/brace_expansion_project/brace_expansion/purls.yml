@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-brace-expansion
+  - pkg:deb/ubuntu/node-brace-expansion
+  - pkg:github/juliangruber/brace-expansion
+  - pkg:maven/org.webjars.npm/brace-expansion
+  - pkg:npm/brace-expansion
+  - pkg:rpm/fedora/nodejs-brace-expansion

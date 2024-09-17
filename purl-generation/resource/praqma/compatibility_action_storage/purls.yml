@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/eficode/compatibility-action-storage-plugin
+  - pkg:github/jenkinsci/compatibility-action-storage-plugin

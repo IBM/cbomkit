@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libreoffice
+  - pkg:deb/ubuntu/libreoffice
+  - pkg:github/libreoffice/core
+  - pkg:libreoffice/core
+  - pkg:rpm/fedora/libreoffice
+  - pkg:rpm/opensuse/libreoffice

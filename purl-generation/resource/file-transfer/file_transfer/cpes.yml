@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:file-transfer:file_transfer:1.2b:*:*:*:*:*:*:*
+  - cpe:2.3:a:file-transfer:file_transfer:1.2c:*:*:*:*:*:*:*
+  - cpe:2.3:a:file-transfer:file_transfer:1.2d:*:*:*:*:*:*:*
+  - cpe:2.3:a:file-transfer:file_transfer:1.2e:*:*:*:*:*:*:*

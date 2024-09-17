@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/lukeed/klona
+  - pkg:maven/org.webjars.npm/klona
+  - pkg:npm/klona

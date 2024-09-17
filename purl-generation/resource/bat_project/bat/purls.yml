@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-bat
+  - pkg:deb/ubuntu/rust-bat
+  - pkg:github/sharkdp/bat
+  - pkg:rpm/fedora/rust-bat
+  - pkg:rpm/opensuse/rust-bat

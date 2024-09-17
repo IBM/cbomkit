@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:doc-path_project:doc-path:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:doc-path_project:doc-path:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:doc-path_project:doc-path:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:doc-path_project:doc-path:1.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:doc-path_project:doc-path:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:doc-path_project:doc-path:2.1.2:*:*:*:*:*:*:*

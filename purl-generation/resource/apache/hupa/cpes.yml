@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:apache:hupa:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:hupa:0.0.3:*:*:*:*:*:*:*

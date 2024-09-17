@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/mpg321
+  - pkg:deb/ubuntu/mpg321
+  - pkg:github/gitermirror/mpg321
+  - pkg:github/vborrego/mpg321
+  - pkg:sourceforge/mpg321

@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:libnmap:libnmap:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnmap:libnmap:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnmap:libnmap:0.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnmap:libnmap:0.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnmap:libnmap:0.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnmap:libnmap:0.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnmap:libnmap:0.2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnmap:libnmap:0.2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnmap:libnmap:0.2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnmap:libnmap:0.2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnmap:libnmap:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnmap:libnmap:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnmap:libnmap:0.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnmap:libnmap:0.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnmap:libnmap:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnmap:libnmap:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnmap:libnmap:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnmap:libnmap:0.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libnmap:libnmap:0.6.3:*:*:*:*:*:*:*

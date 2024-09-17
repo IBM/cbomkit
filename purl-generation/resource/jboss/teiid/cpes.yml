@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:jboss:teiid:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:jboss:teiid:8.4:*:*:*:*:*:*:*

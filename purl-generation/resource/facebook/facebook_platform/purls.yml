@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/facebook/facebook-android-sdk
+  - pkg:github/facebook/facebook-ios-sdk

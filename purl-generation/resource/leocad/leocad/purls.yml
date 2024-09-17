@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/leocad
+  - pkg:deb/ubuntu/leocad
+  - pkg:github/leozide/leocad
+  - pkg:rpm/opensuse/leocad

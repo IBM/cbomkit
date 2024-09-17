@@ -1,0 +1,8 @@
+purls:
+  - pkg:cpan/image::dcmtk
+  - pkg:deb/debian/dcmtk
+  - pkg:deb/ubuntu/dcmtk
+  - pkg:github/dcmtk/dcmtk
+  - pkg:rpm/fedora/dcmtk
+  - pkg:rpm/opensuse/dcmtk
+  - "pkg:rpm/opensuse/libdcmtk3\u2086"

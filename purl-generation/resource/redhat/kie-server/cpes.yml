@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:redhat:kie-server:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:kie-server:7.21.0:*:*:*:*:*:*:*

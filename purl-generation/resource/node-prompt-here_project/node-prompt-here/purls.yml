@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/s-a/node-prompt-here
+  - pkg:npm/node-prompt-here

@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/netkit-telnet
+  - pkg:deb/ubuntu/netkit-telnet
+  - pkg:github/marado/netkit-telnet

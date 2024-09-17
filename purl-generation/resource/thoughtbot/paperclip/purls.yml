@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/ruby/paperclip
+  - pkg:github/thoughtbot/paperclip
+  - pkg:sourceforge/paperclip.mirror

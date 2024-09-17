@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libnetfilter-cthelper
+  - pkg:deb/ubuntu/libnetfilter-cthelper
+  - pkg:github/vyos/libnetfilter-cthelper
+  - pkg:gitlab/redhat/libnetfilter_cthelper
+  - pkg:rpm/centos/libnetfilter_cthelper
+  - pkg:rpm/fedora/libnetfilter_cthelper
+  - pkg:rpm/opensuse/libnetfilter_cthelper

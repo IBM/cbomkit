@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:fedoraproject:extra_packages_for_enterprise_linux:7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:extra_packages_for_enterprise_linux:8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:extra_packages_for_enterprise_linux:9.0:*:*:*:*:*:*:*

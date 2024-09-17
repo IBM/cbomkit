@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:fsevents_project:fsevents:*:*:*:*:*:node.js:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:drupal/commons
+  - pkg:github/acquia/commons

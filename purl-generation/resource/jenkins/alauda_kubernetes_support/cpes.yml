@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:jenkins:alauda_kubernetes_support:2.0.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:alauda_kubernetes_support:2.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:alauda_kubernetes_support:2.1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:alauda_kubernetes_support:2.1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:alauda_kubernetes_support:2.2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:alauda_kubernetes_support:2.3.0:*:*:*:*:jenkins:*:*

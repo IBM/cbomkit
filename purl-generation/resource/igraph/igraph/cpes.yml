@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:igraph:igraph:0.5.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:igraph:igraph:0.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:igraph:igraph:0.6.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:igraph:igraph:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:igraph:igraph:0.7.1:*:*:*:*:*:*:*

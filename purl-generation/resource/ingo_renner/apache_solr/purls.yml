@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/irnnr/ext-solr
+  - pkg:github/typo3-solr/ext-solr

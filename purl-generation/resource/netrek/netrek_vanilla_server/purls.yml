@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/quozl/netrek-server
+  - pkg:rpm/opensuse/netrek-server-vanilla

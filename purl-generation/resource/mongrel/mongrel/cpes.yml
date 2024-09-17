@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:mongrel:mongrel:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mongrel:mongrel:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mongrel:mongrel:1.1.2:*:*:*:*:*:*:*

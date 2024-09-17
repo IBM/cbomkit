@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/merkaartor
+  - pkg:deb/ubuntu/merkaartor
+  - pkg:github/openstreetmap/merkaartor
+  - pkg:rpm/fedora/merkaartor
+  - pkg:rpm/opensuse/merkaartor

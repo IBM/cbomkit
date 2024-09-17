@@ -1,0 +1,9 @@
+purls:
+  - pkg:cpan/libwww-perl
+  - pkg:deb/debian/libwww-perl
+  - pkg:deb/ubuntu/libwww-perl
+  - pkg:github/libwww-perl/libwww-perl
+  - pkg:gitlab/redhat/perl-libwww-perl
+  - pkg:rpm/centos/perl-libwww-perl
+  - pkg:rpm/fedora/perl-libwww-perl
+  - pkg:rpm/opensuse/perl-libwww-perl

@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:bite_project:bite:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:bite_project:bite:0.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bite_project:bite:0.0.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bite_project:bite:0.0.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bite_project:bite:0.0.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bite_project:bite:0.0.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bite_project:bite:-:*:*:*:*:rust:*:*

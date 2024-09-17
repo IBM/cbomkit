@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-browserslist
+  - pkg:deb/ubuntu/node-browserslist
+  - pkg:github/browserslist/browserslist
+  - pkg:maven/org.webjars.npm/browserslist
+  - pkg:npm/browserslist

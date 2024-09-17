@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-scciclient
+  - pkg:deb/ubuntu/python-scciclient
+  - pkg:github/mail2nsrajesh/python-scciclient
+  - pkg:github/naohirotamura/python-scciclient
+  - pkg:pypi/python-scciclient
+  - pkg:rpm/opensuse/python-scciclient

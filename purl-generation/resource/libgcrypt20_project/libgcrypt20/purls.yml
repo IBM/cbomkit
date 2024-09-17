@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/libgcrypt20
+  - pkg:deb/ubuntu/libgcrypt20
+  - pkg:github/gpg/libgcrypt
+  - pkg:github/pexip/os-libgcrypt20
+  - pkg:gitlab/redhat/libgcrypt
+  - pkg:gnu/libgcrypt
+  - pkg:rpm/centos/libgcrypt
+  - pkg:rpm/fedora/libgcrypt
+  - pkg:rpm/opensuse/libgcrypt

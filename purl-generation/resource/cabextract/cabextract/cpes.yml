@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:cabextract:cabextract:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:cabextract:cabextract:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cabextract:cabextract:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cabextract:cabextract:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cabextract:cabextract:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:cabextract:cabextract:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:cabextract:cabextract:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:cabextract:cabextract:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cabextract:cabextract:1.1:*:*:*:*:*:*:*

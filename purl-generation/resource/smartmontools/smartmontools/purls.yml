@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/smartmontools
+  - pkg:deb/ubuntu/smartmontools
+  - pkg:github/smartmontools/smartmontools
+  - pkg:gitlab/redhat/smartmontools
+  - pkg:rpm/fedora/smartmontools
+  - pkg:rpm/opensuse/smartmontools
+  - pkg:sourceforge/smartmontools

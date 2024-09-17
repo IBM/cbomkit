@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/2krueger/roundcubemail
+  - pkg:github/roundcube/roundcubemail
+  - pkg:rpm/fedora/roundcubemail
+  - pkg:rpm/opensuse/roundcubemail

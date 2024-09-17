@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kiegroup/droolsjbpm-integration
+  - pkg:maven/org.kie.server/kie-server-parent

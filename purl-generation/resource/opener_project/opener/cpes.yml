@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:opener_project:opener:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opener_project:opener:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opener_project:opener:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opener_project:opener:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opener_project:opener:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opener_project:opener:2.3.0:*:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/qpid
+  - pkg:github/apache/qpid-jms
+  - pkg:github/apache/qpid-jms-amqp-0-x
+  - pkg:maven/org.apache.qpid/apache-qpid-jms
+  - pkg:maven/org.apache.qpidqpid/qpid-jms-amqp-0-x-parent
+  - pkg:rpm/fedora/qpid-jms

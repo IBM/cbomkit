@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/pen
+  - pkg:deb/ubuntu/pen
+  - pkg:github/ulrice/pen
+  - pkg:rpm/opensuse/pen

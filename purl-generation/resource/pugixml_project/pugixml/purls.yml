@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/pugixml
+  - pkg:deb/ubuntu/pugixml
+  - pkg:github/zeux/pugixml
+  - pkg:nuget/pugixml
+  - pkg:rpm/fedora/pugixml
+  - pkg:rpm/opensuse/pugixml

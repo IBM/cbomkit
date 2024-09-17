@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/tleyden5iwx/sync_gateway
+  - pkg:github/couchbase/sync_gateway

@@ -1,0 +1,67 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: {{ .Values.frontend.name }}
+    resource: {{ .Values.frontend.name }}
+  name: {{ .Values.frontend.name }}
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: {{ .Values.frontend.name }}
+      resource: {{ .Values.frontend.name }}
+  strategy:
+    type: Recreate
+  template:
+    metadata:
+      labels:
+        app: {{ .Values.frontend.name }}
+        resource: {{ .Values.frontend.name }}
+    spec:
+      containers:
+        - name: {{ .Values.frontend.name }}
+          image: {{ .Values.frontend.image }}:{{ .Values.frontend.tag }}
+          imagePullPolicy: Always
+          env:
+            - name: VUE_APP_HTTP_API_BASE
+              value: "https://{{ .Values.backend.name }}-{{ .Release.Namespace }}.{{ .Values.common.clusterDomain }}"
+            - name: VUE_APP_WS_API_BASE
+              value: "wss://{{ .Values.backend.name }}-{{ .Release.Namespace }}.{{ .Values.common.clusterDomain }}"
+            - name: VUE_APP_TITLE
+              value: "CBOMkit"
+            - name: VUE_APP_VIEWER_ONLY
+              value: "false"
+          ports:
+            - name: frontend
+              containerPort: 8000
+              protocol: TCP
+          livenessProbe:
+            failureThreshold: 5
+            initialDelaySeconds: 10
+            periodSeconds: 5
+            successThreshold: 1
+            httpGet:
+              port: 8000
+              path: /
+            timeoutSeconds: 5
+          readinessProbe:
+            failureThreshold: 5
+            initialDelaySeconds: 10
+            periodSeconds: 5
+            successThreshold: 1
+            httpGet:
+              port: 8000
+              path: /
+            timeoutSeconds: 5
+          resources:
+            requests:
+              cpu: 250m
+              memory: 500Mi
+            limits:
+              cpu: 500m
+              memory: 1Gi
+      dnsPolicy: ClusterFirst
+      restartPolicy: Always
+      securityContext: {}
+      terminationGracePeriodSeconds: 30

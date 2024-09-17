@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/snmptt
+  - pkg:deb/ubuntu/snmptt
+  - pkg:github/snmptt/snmptt
+  - pkg:rpm/fedora/snmptt
+  - pkg:rpm/opensuse/snmptt
+  - pkg:sourceforge/snmptt

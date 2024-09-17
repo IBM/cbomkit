@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/recurly/recurly-client-python
+  - pkg:pypi/recurly

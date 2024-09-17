@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/mlterm
+  - pkg:deb/ubuntu/mlterm
+  - pkg:github/arakiken/mlterm
+  - pkg:rpm/opensuse/mlterm
+  - pkg:sourceforge/mlterm

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:jenkins:autonomiq:1.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:autonomiq:1.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:autonomiq:1.13:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:autonomiq:1.15:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:autonomiq:1.16:*:*:*:*:jenkins:*:*

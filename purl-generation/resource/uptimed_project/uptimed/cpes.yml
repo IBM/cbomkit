@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:uptimed_project:uptimed:0.3.10:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:0.3.11:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:0.3.12:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:0.3.13:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:0.3.14:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:0.3.15:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:0.3.16:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:0.3.17:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:0.3.18:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:0.3.3:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:0.3.4:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:0.3.5:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:0.3.6:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:0.3.7:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:0.3.8:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:0.3.9:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:0.4.0:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:0.4.1:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:0.4.2:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:0.4.3:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:0.4.4:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:0.4.5:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:*:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:uptimed_project:uptimed:-:*:*:*:*:gentoo:*:*

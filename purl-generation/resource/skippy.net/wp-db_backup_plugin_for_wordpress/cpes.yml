@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:skippy.net:wp-db_backup_plugin_for_wordpress:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:skippy.net:wp-db_backup_plugin_for_wordpress:1.7:*:*:*:*:*:*:*

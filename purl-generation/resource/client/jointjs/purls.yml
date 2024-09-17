@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/clientio/joint
+  - pkg:maven/org.webjars.npm/jointjs
+  - pkg:npm/jointjs

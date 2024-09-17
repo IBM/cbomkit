@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/pugjs/pug
+  - pkg:maven/org.webjars.npm/pug
+  - pkg:npm/pug-code-gen

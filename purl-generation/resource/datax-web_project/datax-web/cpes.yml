@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:datax-web_project:datax-web:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:datax-web_project:datax-web:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:datax-web_project:datax-web:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:datax-web_project:datax-web:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:datax-web_project:datax-web:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:datax-web_project:datax-web:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:datax-web_project:datax-web:2.1.2:*:*:*:*:*:*:*

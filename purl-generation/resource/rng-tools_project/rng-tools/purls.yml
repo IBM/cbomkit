@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/rng-tools
+  - pkg:deb/ubuntu/rng-tools
+  - pkg:github/nhorman/rng-tools
+  - pkg:rpm/fedora/rng-tools
+  - pkg:rpm/opensuse/rng-tools
+  - pkg:sourceforge/rng-tools

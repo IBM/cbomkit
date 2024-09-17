@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/groszdaniel/kwebkitpart
+  - pkg:github/kde/kwebkitpart
+  - pkg:rpm/fedora/kwebkitpart
+  - pkg:rpm/opensuse/kwebkitpart

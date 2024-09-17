@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:nablarch_project:nablarch:5:*:*:*:*:*:*:*
+  - cpe:2.3:a:nablarch_project:nablarch:5u1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nablarch_project:nablarch:5u10:*:*:*:*:*:*:*
+  - cpe:2.3:a:nablarch_project:nablarch:5u11:*:*:*:*:*:*:*
+  - cpe:2.3:a:nablarch_project:nablarch:5u12:*:*:*:*:*:*:*
+  - cpe:2.3:a:nablarch_project:nablarch:5u13:*:*:*:*:*:*:*
+  - cpe:2.3:a:nablarch_project:nablarch:5u14:*:*:*:*:*:*:*
+  - cpe:2.3:a:nablarch_project:nablarch:5u15:*:*:*:*:*:*:*
+  - cpe:2.3:a:nablarch_project:nablarch:5u5:*:*:*:*:*:*:*
+  - cpe:2.3:a:nablarch_project:nablarch:5u6:*:*:*:*:*:*:*
+  - cpe:2.3:a:nablarch_project:nablarch:5u7:*:*:*:*:*:*:*
+  - cpe:2.3:a:nablarch_project:nablarch:5u8:*:*:*:*:*:*:*
+  - cpe:2.3:a:nablarch_project:nablarch:5u9:*:*:*:*:*:*:*

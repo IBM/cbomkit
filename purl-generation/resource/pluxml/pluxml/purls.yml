@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/pluxml
+  - pkg:deb/ubuntu/pluxml
+  - pkg:github/pluxml/pluxml

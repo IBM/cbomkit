@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:tmerc-cogs_project:tmerc-cogs:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:tmerc-cogs_project:tmerc-cogs:3.0:*:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:autodesk:autodesk_maya:8.0:2008:*:*:*:*:*:*
+  - cpe:2.3:a:autodesk:autodesk_maya:8.0:2009:*:*:*:*:*:*
+  - cpe:2.3:a:autodesk:autodesk_maya:8.0:2010:*:*:*:*:*:*
+  - cpe:2.3:a:autodesk:autodesk_maya:8.5:2008:*:*:*:*:*:*
+  - cpe:2.3:a:autodesk:autodesk_maya:8.5:2009:*:*:*:*:*:*
+  - cpe:2.3:a:autodesk:autodesk_maya:8.5:2010:*:*:*:*:*:*

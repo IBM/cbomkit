@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:rpcms:rpcms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:rpcms:rpcms:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rpcms:rpcms:3.5.5:*:*:*:*:*:*:*

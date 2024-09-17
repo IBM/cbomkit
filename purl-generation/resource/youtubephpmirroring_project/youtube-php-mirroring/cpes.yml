@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:youtubephpmirroring_project:youtube-php-mirroring:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:youtubephpmirroring_project:youtube-php-mirroring:-:*:*:*:*:*:*:*

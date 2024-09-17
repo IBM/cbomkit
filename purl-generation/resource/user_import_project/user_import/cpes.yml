@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:user_import_project:user_import:6.x-4.0:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:user_import_project:user_import:6.x-4.1:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:user_import_project:user_import:6.x-4.2:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:user_import_project:user_import:6.x-4.3:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:user_import_project:user_import:6.x-4.x:dev:*:*:*:drupal:*:*

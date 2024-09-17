@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gnutls/gnutls
+  - pkg:gitlab/gnutls/gnutls

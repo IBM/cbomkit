@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/clever/underscore.deep
+  - pkg:npm/underscore.deep

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:will_estes:flex:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:will_estes:flex:2.5.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:will_estes:flex:2.5.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:will_estes:flex:2.5.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:will_estes:flex:2.5.4a:*:*:*:*:*:*:*

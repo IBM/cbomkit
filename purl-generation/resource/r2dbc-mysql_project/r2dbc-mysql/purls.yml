@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mirromutth/r2dbc-mysql
+  - pkg:maven/dev.miku/r2dbc-mysql

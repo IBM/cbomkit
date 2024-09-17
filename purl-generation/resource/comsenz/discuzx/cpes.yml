@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:comsenz:discuzx:x1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:comsenz:discuzx:x1.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:comsenz:discuzx:x2:*:*:*:*:*:*:*
+  - cpe:2.3:a:comsenz:discuzx:x2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:comsenz:discuzx:x3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:comsenz:discuzx:x3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:comsenz:discuzx:x3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:comsenz:discuzx:x3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:comsenz:discuzx:x3.4:*:*:*:*:*:*:*

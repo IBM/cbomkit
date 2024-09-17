@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:livecms:livecms:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:livecms:livecms:3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:livecms:livecms:3.3_rc1:*:*:*:*:*:*:*
+  - cpe:2.3:a:livecms:livecms:3.3_rc2:*:*:*:*:*:*:*
+  - cpe:2.3:a:livecms:livecms:3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:livecms:livecms:3.4a:*:*:*:*:*:*:*

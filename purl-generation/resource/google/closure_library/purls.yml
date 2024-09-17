@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/google/closure-library
+  - pkg:maven/org.clojure/google-closure-library
+  - pkg:npm/google-closure-library

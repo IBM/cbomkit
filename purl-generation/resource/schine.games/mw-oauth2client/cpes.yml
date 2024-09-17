@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:schine.games:mw-oauth2client:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:schine.games:mw-oauth2client:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:schine.games:mw-oauth2client:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:schine.games:mw-oauth2client:0.4:*:*:*:*:*:*:*

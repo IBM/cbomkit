@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:okta:oidc_middleware:*:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:okta:oidc_middleware:-:*:*:*:*:node.js:*:*

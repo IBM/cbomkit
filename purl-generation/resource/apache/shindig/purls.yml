@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/shindig
+  - pkg:github/apache/shindig
+  - pkg:maven/org.apache.shindig/shindig

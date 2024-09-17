@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/josdejong/mathjs
+  - pkg:maven/org.webjars.npm/mathjs
+  - pkg:npm/mathjs

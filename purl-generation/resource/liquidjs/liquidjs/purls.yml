@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/harttle/liquidjs
+  - pkg:npm/liquidjs

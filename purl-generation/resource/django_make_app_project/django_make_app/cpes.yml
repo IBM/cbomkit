@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:django_make_app_project:django_make_app:0.1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:django_make_app_project:django_make_app:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:django_make_app_project:django_make_app:0.1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:django_make_app_project:django_make_app:0.1.3:*:*:*:*:*:*:*

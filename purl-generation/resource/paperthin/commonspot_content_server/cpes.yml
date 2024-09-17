@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:paperthin:commonspot_content_server:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:paperthin:commonspot_content_server:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:paperthin:commonspot_content_server:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:paperthin:commonspot_content_server:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:paperthin:commonspot_content_server:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:paperthin:commonspot_content_server:7.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:paperthin:commonspot_content_server:7.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:paperthin:commonspot_content_server:8.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:paperthin:commonspot_content_server:8.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:paperthin:commonspot_content_server:8.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:paperthin:commonspot_content_server:8.0.3:*:*:*:*:*:*:*

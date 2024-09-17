@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/panva/jose
+  - pkg:npm/jose-node-cjs-runtime

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/inveniosoftware/invenio-drafts-resources
+  - pkg:pypi/invenio-drafts-resources

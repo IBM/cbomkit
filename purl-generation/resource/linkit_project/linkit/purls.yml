@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/dkmn/linkit
+  - pkg:github/nbc-bravo/drupal-linkit
+  - pkg:github/wickwood-llc/linkit

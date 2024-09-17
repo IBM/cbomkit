@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/monero
+  - pkg:deb/ubuntu/monero
+  - pkg:github/monero-project/monero
+  - pkg:rpm/opensuse/monero
+  - pkg:sourceforge/monero.mirror

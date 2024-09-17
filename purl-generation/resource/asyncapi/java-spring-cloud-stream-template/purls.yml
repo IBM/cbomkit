@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/asyncapi/java-spring-cloud-stream-template
+  - pkg:npm/%40asyncapi/java-spring-cloud-stream-template

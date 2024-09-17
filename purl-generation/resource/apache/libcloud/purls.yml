@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/libcloud
+  - pkg:deb/debian/libcloud
+  - pkg:deb/ubuntu/libcloud
+  - pkg:github/apache/libcloud
+  - pkg:gitlab/offsite-backups/libcloud
+  - pkg:pypi/apache-libcloud

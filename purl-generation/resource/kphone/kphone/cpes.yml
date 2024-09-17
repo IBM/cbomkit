@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:kphone:kphone:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kphone:kphone:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kphone:kphone:2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:kphone:kphone:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kphone:kphone:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kphone:kphone:3.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:kphone:kphone:3.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:kphone:kphone:3.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:kphone:kphone:3.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:kphone:kphone:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kphone:kphone:4.2:*:*:*:*:*:*:*

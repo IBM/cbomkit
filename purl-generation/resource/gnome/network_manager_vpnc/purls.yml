@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/gnome/networkmanager-vpnc
+  - pkg:rpm/fedora/networkmanager-vpnc
+  - pkg:rpm/opensuse/networkmanager-vpnc

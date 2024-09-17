@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/python-babel
+  - pkg:deb/ubuntu/python-babel
+  - pkg:github/python-babel/babel
+  - pkg:gitlab/redhat/babel
+  - pkg:pypi/babel
+  - pkg:rpm/centos/babel
+  - pkg:rpm/fedora/babel

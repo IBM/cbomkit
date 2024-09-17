@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/w3m
+  - pkg:deb/ubuntu/w3m
+  - pkg:github/tats/w3m
+  - pkg:gitlab/redhat/w3m
+  - pkg:rpm/fedora/w3m
+  - pkg:rpm/opensuse/w3m
+  - pkg:sourceforge/w3m

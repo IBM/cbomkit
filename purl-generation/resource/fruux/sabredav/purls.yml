@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-sabredav
+  - pkg:deb/ubuntu/php-sabredav
+  - pkg:github/fruux/sabre-dav
+  - pkg:github/sabre-io/dav
+  - pkg:rpm/fedora/php-sabre-dav

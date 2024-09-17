@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/libcdio
+  - pkg:deb/ubuntu/libcdio
+  - pkg:github/distrotech/libcdio
+  - pkg:github/gnu-mirror-unofficial/libcdio
+  - pkg:github/shiftmediaproject/libcdio
+  - pkg:gitlab/redhat/libcdio
+  - pkg:gnu/libcdio
+  - pkg:rpm/centos/libcdio
+  - pkg:rpm/fedora/libcdio
+  - pkg:rpm/opensuse/libcdio

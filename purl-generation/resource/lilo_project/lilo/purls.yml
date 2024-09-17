@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/lilo
+  - pkg:deb/ubuntu/lilo
+  - pkg:github/opensuse/lilo
+  - pkg:rpm/opensuse/lilo

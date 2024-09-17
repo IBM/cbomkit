@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/dollarshaveclub/shave
+  - pkg:github/yowainwright/shave
+  - pkg:maven/org.webjars.npm/shave
+  - pkg:npm/shave

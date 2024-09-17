@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:factosystem:factosystem_weblog:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:factosystem:factosystem_weblog:0.9b:*:*:*:*:*:*:*
+  - cpe:2.3:a:factosystem:factosystem_weblog:1.0_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:factosystem:factosystem_weblog:1.1_beta:*:*:*:*:*:*:*

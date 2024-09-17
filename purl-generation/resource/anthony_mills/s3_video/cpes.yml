@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:anthony_mills:s3_video:0.98:*:*:*:*:*:*:*
+  - cpe:2.3:a:anthony_mills:s3_video:0.981:*:*:*:*:*:*:*
+  - cpe:2.3:a:anthony_mills:s3_video:0.982:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/revive-adserver/revive-adserver
+  - pkg:sourceforge/phppgads

@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/linbit/drbd
+  - pkg:github/linbit/drbd-8.4
+  - pkg:rpm/fedora/drbd
+  - pkg:rpm/opensuse/drbd

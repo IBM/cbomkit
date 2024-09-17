@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:arab_portal:arab_portal:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arab_portal:arab_portal:2.0.1_stable:*:*:*:*:*:*:*
+  - cpe:2.3:a:arab_portal:arab_portal:2_beta_2:*:*:*:*:*:*:*

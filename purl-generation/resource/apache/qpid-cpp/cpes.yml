@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:apache:qpid-cpp:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid-cpp:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid-cpp:1.35.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid-cpp:1.35.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid-cpp:1.36.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid-cpp:1.36.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid-cpp:1.37.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid-cpp:1.37.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid-cpp:1.38.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid-cpp:1.38.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid-cpp:1.39.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid-cpp:1.39.0:rc1:*:*:*:*:*:*

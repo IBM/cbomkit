@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/conntrack-tools
+  - pkg:deb/ubuntu/conntrack-tools
+  - pkg:github/distrotech/conntrack-tools
+  - pkg:gitlab/redhat/conntrack-tools
+  - pkg:rpm/centos/conntrack-tools
+  - pkg:rpm/fedora/conntrack-tools
+  - pkg:rpm/opensuse/conntrack-tools

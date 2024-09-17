@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/betterjs/badjs-sourcemap-server
+  - pkg:npm/badjs-sourcemap-server

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libnids
+  - pkg:deb/ubuntu/libnids
+  - pkg:github/mitrecnd/libnids
+  - pkg:rpm/fedora/libnids
+  - pkg:rpm/opensuse/libnids
+  - pkg:sourceforge/libnids

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-debug
+  - pkg:deb/ubuntu/node-debug
+  - pkg:github/debug-js/debug
+  - pkg:maven/org.webjars.npm/debug
+  - pkg:npm/debug

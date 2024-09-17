@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:vscode-rufo_project:vscode-rufo:0.0.1:*:*:*:*:visual_studio:*:*
+  - cpe:2.3:a:vscode-rufo_project:vscode-rufo:0.0.2:*:*:*:*:visual_studio:*:*
+  - cpe:2.3:a:vscode-rufo_project:vscode-rufo:0.0.3:*:*:*:*:visual_studio:*:*
+  - cpe:2.3:a:vscode-rufo_project:vscode-rufo:0.0.4:*:*:*:*:visual_studio:*:*
+  - cpe:2.3:a:vscode-rufo_project:vscode-rufo:-:*:*:*:*:visual_studio:*:*

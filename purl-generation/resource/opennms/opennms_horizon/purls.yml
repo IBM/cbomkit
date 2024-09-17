@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/opennms/horizon
+  - pkg:github/opennms-forge/docker-horizon-core-web
+  - pkg:github/opennms/opennms
+  - pkg:npm/opennms
+  - pkg:sourceforge/opennms

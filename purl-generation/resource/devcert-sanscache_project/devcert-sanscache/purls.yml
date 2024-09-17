@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/davewasmer/devcert
+  - pkg:github/guybedford/devcert
+  - pkg:npm/devcert-sanscache

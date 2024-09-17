@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:debian:qpopper:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:qpopper:4.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:qpopper:4.0.5:*:*:*:*:*:*:*

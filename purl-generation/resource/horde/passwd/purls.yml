@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/passwd
+  - pkg:deb/ubuntu/passwd
+  - pkg:github/horde/passwd
+  - pkg:gitlab/redhat/passwd
+  - pkg:rpm/fedora/passwd
+  - pkg:rpm/opensuse/horde5-passwd

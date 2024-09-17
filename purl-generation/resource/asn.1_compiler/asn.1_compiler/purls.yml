@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/asn1c
+  - pkg:deb/ubuntu/asn1c
+  - pkg:github/vlm/asn1c
+  - pkg:rpm/fedora/asn1c
+  - pkg:rpm/opensuse/asn1c
+  - pkg:sourceforge/asn1c

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/akella/split-html-to-chars
+  - pkg:npm/split-html-to-chars

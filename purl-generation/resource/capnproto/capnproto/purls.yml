@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/cleveron/capnproto
+  - pkg:deb/debian/capnproto
+  - pkg:deb/ubuntu/capnproto
+  - pkg:github/capnproto/capnproto
+  - pkg:gitlab/cleveron/capnproto
+  - pkg:rpm/fedora/capnproto
+  - pkg:rpm/opensuse/capnproto

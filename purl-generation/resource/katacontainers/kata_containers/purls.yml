@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kata-containers/kata-containers
+  - pkg:rpm/fedora/kata-containers

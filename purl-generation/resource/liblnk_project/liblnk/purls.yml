@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/liblnk
+  - pkg:deb/ubuntu/liblnk
+  - pkg:github/libyal/liblnk
+  - pkg:nuget/liblnk
+  - pkg:rpm/opensuse/liblnk

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/nfs-utils
+  - pkg:deb/ubuntu/nfs-utils
+  - pkg:github/delphix/nfs-utils
+  - pkg:github/stefanha/nfs-utils
+  - pkg:rpm/centos/nfs-utils
+  - pkg:rpm/fedora/nfs-utils
+  - pkg:rpm/opensuse/nfs-utils
+  - pkg:sourceforge/nfs

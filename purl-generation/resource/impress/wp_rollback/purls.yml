@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/impress-org/wp-rollback
+  - pkg:github/wp-plugins/wp-rollback
+  - pkg:github/wpplugins/wp-rollback

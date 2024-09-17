@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/samhain
+  - pkg:deb/ubuntu/samhain
+  - pkg:github/pilbender/samhain
+  - pkg:rpm/opensuse/samhain

@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:rcu_cell_project:rcu_cell:*:*:*:*:*:rust:*:*

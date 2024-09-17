@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:blentz:smbind:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:blentz:smbind:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:blentz:smbind:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:blentz:smbind:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:blentz:smbind:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:blentz:smbind:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:blentz:smbind:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:blentz:smbind:0.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:blentz:smbind:0.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:blentz:smbind:0.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:blentz:smbind:0.4.6:*:*:*:*:*:*:*

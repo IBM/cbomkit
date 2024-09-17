@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/encfs
+  - pkg:deb/ubuntu/encfs
+  - pkg:github/tarruda/encfs
+  - pkg:github/vgough/encfs
+  - pkg:rpm/fedora/fuse-encfs
+  - pkg:rpm/opensuse/encfs

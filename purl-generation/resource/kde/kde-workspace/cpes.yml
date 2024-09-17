@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:kde:kde-workspace:4.10.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:kde:kde-workspace:4.11.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:kde:kde-workspace:4.2.0:*:*:*:*:*:*:*

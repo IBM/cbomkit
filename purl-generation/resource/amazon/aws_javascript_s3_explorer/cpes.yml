@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:amazon:aws_javascript_s3_explorer:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_javascript_s3_explorer:2019-08-02:*:*:*:*:*:*:*

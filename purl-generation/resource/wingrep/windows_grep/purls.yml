@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/stefankueng/grepwin
+  - pkg:github/t00/grepwin
+  - pkg:sourceforge/grepwin

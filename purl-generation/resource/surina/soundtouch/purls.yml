@@ -1,0 +1,11 @@
+purls:
+  - pkg:bitbucket/chenshi011/soundtouch
+  - pkg:deb/debian/soundtouch
+  - pkg:deb/ubuntu/soundtouch
+  - pkg:github/bilibili/soundtouch
+  - pkg:github/magic000/soundtouch
+  - pkg:github/rspeyer/soundtouch
+  - pkg:gitlab/redhat/soundtouch
+  - pkg:rpm/centos/soundtouch
+  - pkg:rpm/fedora/soundtouch
+  - pkg:rpm/opensuse/soundtouch

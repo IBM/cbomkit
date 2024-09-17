@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/tinyexr
+  - pkg:github/syoyo/tinyexr

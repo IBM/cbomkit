@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/golang-github-go-ini-ini
+  - pkg:deb/ubuntu/golang-github-go-ini-ini
+  - pkg:github/go-ini/ini
+  - pkg:rpm/fedora/golang-github-go-ini-ini

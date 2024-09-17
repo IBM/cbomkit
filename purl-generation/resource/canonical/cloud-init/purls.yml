@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/cloud-init
+  - pkg:deb/ubuntu/cloud-init
+  - pkg:github/canonical/cloud-init
+  - pkg:gitlab/redhat/cloud-init
+  - pkg:rpm/centos/cloud-init
+  - pkg:rpm/fedora/cloud-init
+  - pkg:rpm/opensuse/cloud-init

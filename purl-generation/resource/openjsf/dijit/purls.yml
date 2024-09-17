@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libjs-dojo-dijit
+  - pkg:deb/ubuntu/libjs-dojo-dijit
+  - pkg:github/dojo/dijit
+  - pkg:maven/org.webjars.npm/dijit
+  - pkg:npm/dijit
+  - pkg:nuget/dijit.source

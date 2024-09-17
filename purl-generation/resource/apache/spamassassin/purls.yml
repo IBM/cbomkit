@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/spamassassin
+  - pkg:deb/debian/spamassassin
+  - pkg:deb/ubuntu/spamassassin
+  - pkg:github/apache/spamassassin
+  - pkg:rpm/fedora/spamassassin
+  - pkg:rpm/opensuse/spamassassin

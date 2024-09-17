@@ -1,0 +1,6 @@
+purls:
+  - pkg:apache/pulsar
+  - pkg:docker/apachepulsar/pulsar
+  - pkg:github/apache/pulsar
+  - pkg:golang/github.com/apache/pulsar
+  - pkg:maven/org.apache.pulsar/pulsar-client

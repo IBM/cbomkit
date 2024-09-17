@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/tabdiukov/windjview
+  - pkg:github/urbansheep80/windjview
+  - pkg:github/vladimir-kondratiev/windjview
+  - pkg:sourceforge/windjview

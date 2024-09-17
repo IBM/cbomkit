@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/ruby-mysql
+  - pkg:github/tmtm/ruby-mysql
+  - pkg:rpm/opensuse/ruby-mysql

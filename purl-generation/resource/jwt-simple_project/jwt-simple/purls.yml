@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/hokaccha/node-jwt-simple
+  - pkg:maven/org.webjars.npm/jwt-simple
+  - pkg:npm/jwt-simple

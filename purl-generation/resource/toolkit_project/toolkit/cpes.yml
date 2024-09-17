@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:toolkit_project:toolkit:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:toolkit_project:toolkit:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:toolkit_project:toolkit:1.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:toolkit_project:toolkit:1.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:toolkit_project:toolkit:1.1.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:toolkit_project:toolkit:1.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:toolkit_project:toolkit:1.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:toolkit_project:toolkit:1.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:toolkit_project:toolkit:1.2.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:toolkit_project:toolkit:1.2.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:toolkit_project:toolkit:1.2.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:toolkit_project:toolkit:1.2.6:*:*:*:*:node.js:*:*

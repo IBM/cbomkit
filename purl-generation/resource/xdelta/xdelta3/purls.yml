@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/xdelta3
+  - pkg:deb/ubuntu/xdelta3
+  - pkg:github/jmacd/xdelta
+  - pkg:github/jmacd/xdelta-gpl
+  - pkg:gitlab/redhat/xdelta
+  - pkg:rpm/centos/xdelta
+  - pkg:rpm/fedora/xdelta
+  - pkg:rpm/opensuse/xdelta3

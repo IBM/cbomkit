@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:flask-restx_project:flask-restx:0.0.1:dev0:*:*:*:python:*:*
+  - cpe:2.3:a:flask-restx_project:flask-restx:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:flask-restx_project:flask-restx:0.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:flask-restx_project:flask-restx:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:flask-restx_project:flask-restx:0.1.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:flask-restx_project:flask-restx:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:flask-restx_project:flask-restx:0.2.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:flask-restx_project:flask-restx:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:flask-restx_project:flask-restx:0.3.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:flask-restx_project:flask-restx:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:flask-restx_project:flask-restx:0.4.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:flask-restx_project:flask-restx:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:flask-restx_project:flask-restx:0.5.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:flask-restx_project:flask-restx:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:flask-restx_project:flask-restx:0.5.1:*:*:*:*:python:*:*

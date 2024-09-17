@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/implecode/ecommerce-product-catalog
+  - pkg:github/wp-plugins/ecommerce-product-catalog
+  - pkg:github/wpplugins/ecommerce-product-catalog

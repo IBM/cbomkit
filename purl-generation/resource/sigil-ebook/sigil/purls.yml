@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/sigil
+  - pkg:deb/ubuntu/sigil
+  - pkg:github/sigil-ebook/sigil
+  - pkg:rpm/fedora/sigil
+  - pkg:rpm/opensuse/sigil
+  - pkg:sourceforge/sigilrpm

@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/phonefsod
+  - pkg:deb/ubuntu/phonefsod

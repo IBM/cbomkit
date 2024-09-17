@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:1.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:1.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:1.5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:1.5.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:1.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:1.6.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:1.6.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:1.6.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:1.6.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:1.6.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:1.6.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:1.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:1.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:1.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:1.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:1.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:1.6.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:1.6.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:1.6.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:1.6.9:*:*:*:*:wordpress:*:*

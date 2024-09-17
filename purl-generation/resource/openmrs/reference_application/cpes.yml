@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:openmrs:reference_application:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmrs:reference_application:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmrs:reference_application:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmrs:reference_application:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmrs:reference_application:2.10.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openmrs:reference_application:2.10.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:openmrs:reference_application:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmrs:reference_application:2.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmrs:reference_application:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmrs:reference_application:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmrs:reference_application:2.3:*:*:*:*:openmrs:*:*
+  - cpe:2.3:a:openmrs:reference_application:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmrs:reference_application:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmrs:reference_application:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmrs:reference_application:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmrs:reference_application:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmrs:reference_application:2.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmrs:reference_application:2.9.1:*:*:*:*:*:*:*

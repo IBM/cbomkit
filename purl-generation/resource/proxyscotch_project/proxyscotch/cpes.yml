@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:proxyscotch_project:proxyscotch:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:proxyscotch_project:proxyscotch:1.0.0:*:*:*:*:*:*:*

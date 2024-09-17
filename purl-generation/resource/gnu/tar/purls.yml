@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/tar
+  - pkg:deb/ubuntu/tar
+  - pkg:github/distrotech/tar
+  - pkg:gitlab/redhat/tar
+  - pkg:gnu/tar
+  - pkg:rpm/centos/tar
+  - pkg:rpm/fedora/tar
+  - pkg:rpm/opensuse/tar

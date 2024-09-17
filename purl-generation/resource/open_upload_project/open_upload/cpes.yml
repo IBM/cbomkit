@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:open_upload_project:open_upload:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:open_upload_project:open_upload:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:open_upload_project:open_upload:0.4:-:*:*:*:*:*:*
+  - cpe:2.3:a:open_upload_project:open_upload:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:open_upload_project:open_upload:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:open_upload_project:open_upload:0.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:open_upload_project:open_upload:0.4:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:open_upload_project:open_upload:0.4:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:open_upload_project:open_upload:0.4:rc1:*:*:*:*:*:*

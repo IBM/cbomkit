@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/mikaelj/beep
+  - pkg:deb/debian/beep
+  - pkg:deb/ubuntu/beep
+  - pkg:github/johnath/beep
+  - pkg:github/spkr-beep/beep
+  - pkg:rpm/fedora/beep
+  - pkg:rpm/opensuse/beep

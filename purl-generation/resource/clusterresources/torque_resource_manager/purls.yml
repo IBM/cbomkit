@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/abarbu/torque
+  - pkg:github/adaptivecomputing/torque
+  - pkg:gitlab/redhat/torque
+  - pkg:rpm/fedora/torque

@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:renderdocs-rs_project:renderdocs-rs:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:renderdocs-rs_project:renderdocs-rs:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:renderdocs-rs_project:renderdocs-rs:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:renderdocs-rs_project:renderdocs-rs:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:renderdocs-rs_project:renderdocs-rs:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:renderdocs-rs_project:renderdocs-rs:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:renderdocs-rs_project:renderdocs-rs:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:renderdocs-rs_project:renderdocs-rs:0.7.0:*:*:*:*:*:*:*

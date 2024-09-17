@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/digital-colordk/colord
+  - pkg:deb/debian/colord
+  - pkg:Deb/ubuntu/colord
+  - pkg:github/hughsie/colord
+  - pkg:rpm/centos/colord
+  - pkg:rpm/fedora/colord
+  - pkg:rpm/opensuse/colord

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/xfce4-settings
+  - pkg:deb/ubuntu/xfce4-settings
+  - pkg:github/xfce-mirror/xfce4-settings
+  - pkg:rpm/fedora/xfce4-settings
+  - pkg:rpm/opensuse/xfce4-settings

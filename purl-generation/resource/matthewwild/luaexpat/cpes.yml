@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:matthewwild:luaexpat:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:matthewwild:luaexpat:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:matthewwild:luaexpat:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:matthewwild:luaexpat:1.0.2:*:*:*:*:*:*:*

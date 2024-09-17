@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/webpack/webpack-dev-server
+  - pkg:maven/org.webjars.npm/webpack-dev-server
+  - pkg:npm/webpack-dev-server

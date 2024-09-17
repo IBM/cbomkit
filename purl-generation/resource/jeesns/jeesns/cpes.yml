@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:jeesns:jeesns:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jeesns:jeesns:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:jeesns:jeesns:1.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jeesns:jeesns:2.0.0:-:*:*:*:*:*:*

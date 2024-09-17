@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/rustcrypto/hashes
+  - pkg:rpm/fedora/rust-streebog

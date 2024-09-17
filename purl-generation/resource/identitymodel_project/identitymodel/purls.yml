@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/scottbrady91/identitymodel
+  - pkg:nuget/identitymodel

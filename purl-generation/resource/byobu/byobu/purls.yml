@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/byobu
+  - pkg:deb/ubuntu/byobu
+  - pkg:github/dustinkirkland/byobu
+  - pkg:rpm/fedora/byobu
+  - pkg:rpm/opensuse/byobu

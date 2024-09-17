@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/dmidecode
+  - pkg:deb/ubuntu/dmidecode
+  - pkg:github/acidanthera/dmidecode
+  - pkg:gitlab/redhat/dmidecode
+  - pkg:gnome/dmidecode
+  - pkg:gnu/dmidecode
+  - pkg:rpm/fedora/dmidecode
+  - pkg:rpm/opensuse/dmidecode

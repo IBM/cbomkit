@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/abantecart
+  - pkg:docker/abantecart/abantecart
+  - pkg:github/abantecart/abantecart-src

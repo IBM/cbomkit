@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:pennmush:pennmush:1.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pennmush:pennmush:1.8.2:p1:*:*:*:*:*:*
+  - cpe:2.3:a:pennmush:pennmush:1.8.2:p2:*:*:*:*:*:*
+  - cpe:2.3:a:pennmush:pennmush:1.8.3:*:*:*:*:*:*:*

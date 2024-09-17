@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/playsms/playsms
+  - pkg:github/playsms/playsms
+  - pkg:sourceforge/playsms

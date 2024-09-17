@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/cocoon
+  - pkg:github/apache/cocoon
+  - pkg:maven/org.apache.cocoon/cocoon

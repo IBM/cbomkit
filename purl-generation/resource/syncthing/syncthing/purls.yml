@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/syncthing
+  - pkg:deb/ubuntu/syncthing
+  - pkg:github/syncthing/syncthing
+  - pkg:rpm/fedora/syncthing
+  - pkg:rpm/opensuse/syncthing
+  - pkg:sourceforge/syncthing

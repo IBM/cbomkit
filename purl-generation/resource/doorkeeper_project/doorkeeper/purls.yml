@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-doorkeeper
+  - pkg:deb/ubuntu/ruby-doorkeeper
+  - pkg:gem/doorkeeper
+  - pkg:github/doorkeeper-gem/doorkeeper
+  - pkg:rpm/opensuse/rubygem-doorkeeper
+  - pkg:sourceforge/doorkeeper.mirror

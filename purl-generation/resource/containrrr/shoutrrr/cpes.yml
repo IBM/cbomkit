@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:containrrr:shoutrrr:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:containrrr:shoutrrr:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:containrrr:shoutrrr:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:containrrr:shoutrrr:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:containrrr:shoutrrr:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:containrrr:shoutrrr:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:containrrr:shoutrrr:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:containrrr:shoutrrr:0.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:containrrr:shoutrrr:0.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:containrrr:shoutrrr:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:containrrr:shoutrrr:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:containrrr:shoutrrr:0.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:containrrr:shoutrrr:0.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:containrrr:shoutrrr:0.6.0:*:*:*:*:*:*:*

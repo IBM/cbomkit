@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:doorgets:doorgets_cms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:doorgets:doorgets_cms:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:doorgets:doorgets_cms:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:doorgets:doorgets_cms:7.0:*:*:*:*:*:*:*

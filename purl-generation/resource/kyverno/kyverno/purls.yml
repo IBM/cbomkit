@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kyverno/kyverno
+  - pkg:rpm/opensuse/kyverno

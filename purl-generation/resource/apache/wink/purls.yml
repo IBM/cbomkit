@@ -1,0 +1,3 @@
+purls:
+  - pkg:apache/wink
+  - pkg:github/apache/wink

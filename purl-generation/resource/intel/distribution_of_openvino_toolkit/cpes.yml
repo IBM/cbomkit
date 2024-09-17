@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:intel:distribution_of_openvino_toolkit:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:intel:distribution_of_openvino_toolkit:2020.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:intel:distribution_of_openvino_toolkit:2021.4:*:*:*:*:*:*:*

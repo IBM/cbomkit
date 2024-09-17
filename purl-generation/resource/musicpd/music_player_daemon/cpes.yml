@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:musicpd:music_player_daemon:0.23.10:*:*:*:*:*:*:*

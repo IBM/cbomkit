@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/fog-dragonfly
+  - pkg:github/markevans/dragonfly

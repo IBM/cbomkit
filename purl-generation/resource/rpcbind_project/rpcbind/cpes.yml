@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:rpcbind_project:rpcbind:0.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rpcbind_project:rpcbind:0.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:rpcbind_project:rpcbind:0.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:rpcbind_project:rpcbind:0.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:rpcbind_project:rpcbind:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rpcbind_project:rpcbind:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rpcbind_project:rpcbind:0.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rpcbind_project:rpcbind:0.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rpcbind_project:rpcbind:0.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rpcbind_project:rpcbind:1.2.5:*:*:*:*:*:*:*

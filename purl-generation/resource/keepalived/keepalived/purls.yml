@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/keepalived
+  - pkg:deb/ubuntu/keepalived
+  - pkg:github/acassen/keepalived
+  - pkg:gitlab/redhat/keepalived
+  - pkg:rpm/centos/keepalived
+  - pkg:rpm/fedora/keepalived
+  - pkg:rpm/opensuse/keepalived

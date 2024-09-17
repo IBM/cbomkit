@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:rrdtool_project:rrdtool:1.4.7:*:*:*:*:python:*:*

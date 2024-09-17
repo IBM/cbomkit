@@ -1,0 +1,2 @@
+purls:
+  - pkg:github/googlecloudplatform/secrets-store-csi-driver-provider-gcp

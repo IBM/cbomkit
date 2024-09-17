@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/RavanH/easy-fancybox
+  - pkg:github/wp-plugins/easy-fancybox
+  - pkg:github/WPPlugins/easy-fancybox

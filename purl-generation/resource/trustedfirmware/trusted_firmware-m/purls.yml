@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/renesas-rcar/arm-trusted-firmware
+  - pkg:golang/github.com/renesas-rcar/arm-trusted-firmware

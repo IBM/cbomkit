@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:finecms_project:finecms:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:finecms_project:finecms:1.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:finecms_project:finecms:2017-02-10:*:*:*:*:*:*:*
+  - cpe:2.3:a:finecms_project:finecms:2017-05-12:*:*:*:*:*:*:*
+  - cpe:2.3:a:finecms_project:finecms:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:finecms_project:finecms:5.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:finecms_project:finecms:5.0.11:*:*:*:*:*:*:*

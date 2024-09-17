@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/python-svglib
+  - pkg:deb/ubuntu/python-svglib
+  - pkg:github/deeplook/svglib
+  - pkg:pypi/svglib
+  - pkg:rpm/opensuse/python-svglib

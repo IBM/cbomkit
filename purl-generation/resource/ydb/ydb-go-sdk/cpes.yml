@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:ydb:ydb-go-sdk:3.48.6:*:*:*:*:go:*:*
+  - cpe:2.3:a:ydb:ydb-go-sdk:*:*:*:*:*:go:*:*

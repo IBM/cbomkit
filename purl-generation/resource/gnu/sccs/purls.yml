@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jamesyoungman/cssc
+  - pkg:gnu/cssc
+  - pkg:rpm/opensuse/cssc

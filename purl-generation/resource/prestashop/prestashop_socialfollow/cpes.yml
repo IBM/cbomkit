@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:prestashop:prestashop_socialfollow:1.0.0:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_socialfollow:1.0.3:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_socialfollow:1.0.4:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_socialfollow:2.0.0:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_socialfollow:2.1.0:*:*:*:*:prestashop:*:*

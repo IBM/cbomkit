@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/mrdoob/three.js
+  - pkg:maven/org.webjars.npm/three
+  - pkg:npm/three
+  - pkg:sourceforge/three-js.mirror

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/garimpeiro-it/node-key-sender
+  - pkg:npm/node-key-sender

@@ -1,0 +1,12 @@
+purls:
+  - pkg:bitbucket/bosp/external-opencv
+  - pkg:bitbucket/manctl/opencv
+  - pkg:bitbucket/pec_jbui/opencv
+  - pkg:github/huningxin/opencv
+  - pkg:gitlab/debian/opencv
+  - pkg:npm/opencv.js
+  - pkg:nuget/OpenCV
+  - pkg:rpm/fedora/opencv
+  - pkg:rpm/opensuse/libopencv
+  - pkg:rpm/opensuse/libopencv405
+  - pkg:sourceforge/opencvlibrary

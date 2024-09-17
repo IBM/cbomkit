@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/soci
+  - pkg:deb/ubuntu/soci
+  - pkg:github/soci/soci
+  - pkg:npm/soci
+  - pkg:nuget/soci
+  - pkg:rpm/fedora/soci
+  - pkg:sourceforge/soci

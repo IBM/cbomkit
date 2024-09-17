@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/rsync
+  - pkg:deb/ubuntu/rsync
+  - pkg:github/bettermirror/rsync
+  - pkg:gituhb/wayned/rsync
+  - pkg:rpm/fedora/rsync
+  - pkg:rpm/opensuse/rsync

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:archon:archon:3.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:archon:archon:3.21.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:archon:archon:3.21.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:archon:archon:3.21.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:archon:archon:3.21.3:*:*:*:*:*:*:*

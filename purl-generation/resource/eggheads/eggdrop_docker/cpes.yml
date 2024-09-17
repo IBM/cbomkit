@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:eggheads:eggdrop_docker:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_docker:1.6.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_docker:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_docker:1.8.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_docker:1.8.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_docker:1.8.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_docker:1.8.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_docker:1.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_docker:1.8.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_docker:1.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_docker:1.8.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_docker:1.8.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_docker:1.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_docker:1.8.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_docker:1.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_docker:1.8.4:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_docker:1.8.4:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_docker:1.8.4:rc3:*:*:*:*:*:*

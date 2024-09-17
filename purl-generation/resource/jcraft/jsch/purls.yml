@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/jsch
+  - pkg:deb/ubuntu/jsch
+  - pkg:github/is/jsch
+  - pkg:gitlab/redhat/jsch
+  - pkg:maven/com.jcraft/jsch
+  - pkg:rpm/centos/jsch
+  - pkg:rpm/fedora/jsch
+  - pkg:rpm/opensuse/jsch
+  - pkg:sourceforge/jsch

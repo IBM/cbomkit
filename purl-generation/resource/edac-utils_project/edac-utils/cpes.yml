@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:edac-utils_project:edac-utils:0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:edac-utils_project:edac-utils:0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:edac-utils_project:edac-utils:0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:edac-utils_project:edac-utils:0.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:edac-utils_project:edac-utils:0.9:*:*:*:*:*:*:*

@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:ballerina:swan_lake:alpha1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ballerina:swan_lake:alpha2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ballerina:swan_lake:alpha3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ballerina:swan_lake:preview_1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ballerina:swan_lake:preview_2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ballerina:swan_lake:preview_3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ballerina:swan_lake:preview_4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ballerina:swan_lake:preview_5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ballerina:swan_lake:preview_6:*:*:*:*:*:*:*
+  - cpe:2.3:a:ballerina:swan_lake:preview_7:*:*:*:*:*:*:*
+  - cpe:2.3:a:ballerina:swan_lake:preview_8:*:*:*:*:*:*:*

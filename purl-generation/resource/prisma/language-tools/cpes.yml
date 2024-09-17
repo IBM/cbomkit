@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:prisma:language-tools:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:prisma:language-tools:*:*:*:*:*:visual_studio_code:*:*

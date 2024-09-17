@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/mina
+  - pkg:bitbucket/atlassian-fork/mina-sshd
+  - pkg:github/apache/mina-sshd
+  - pkg:maven/org.apache.sshd/sshd
+  - pkg:rpm/fedora/apache-sshd
+  - pkg:rpm/opensuse/apache-sshd

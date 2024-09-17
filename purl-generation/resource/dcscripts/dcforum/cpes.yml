@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:dcscripts:dcforum:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dcscripts:dcforum:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dcscripts:dcforum:2000:*:*:*:*:*:*:*
+  - cpe:2.3:a:dcscripts:dcforum:2000_1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dcscripts:dcforum:2k_1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dcscripts:dcforum:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dcscripts:dcforum:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dcscripts:dcforum:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dcscripts:dcforum:5.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:dcscripts:dcforum:6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dcscripts:dcforum:6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dcscripts:dcforum:6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dcscripts:dcforum:6.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:dcscripts:dcforum:6.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:dcscripts:dcforum:6.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:dcscripts:dcforum:6.25:*:*:*:*:*:*:*

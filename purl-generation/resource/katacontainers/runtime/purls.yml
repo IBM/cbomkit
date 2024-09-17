@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/kata-containers/kata-containers
+  - pkg:github/kata-containers/runtime
+  - pkg:rpm/fedora/kata-runtime

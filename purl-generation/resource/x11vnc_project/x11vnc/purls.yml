@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/x11vnc
+  - pkg:deb/ubuntu/x11vnc
+  - pkg:github/libvnc/x11vnc
+  - pkg:rpm/fedora/x11vnc
+  - pkg:rpm/opensuse/x11vnc
+  - pkg:sourceforge/x11vnc

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/xserver-xorg-core
+  - pkg:deb/ubuntu/xserver-xorg-core
+  - pkg:github/freedesktop/xorg-xserver
+  - pkg:rpm/opensuse/xserver-xorg-core

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/matrix-org/dendrite
+  - pkg:rpm/opensuse/matrix-dendrite

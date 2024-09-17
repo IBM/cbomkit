@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libgnomevfs2-0
+  - pkg:deb/ubuntu/libgnomevfs2-0
+  - pkg:github/hildon-harmattan/gnome-vfs
+  - pkg:rpm/fedora/gnome-vfs2
+  - pkg:rpm/opensuse/gnome-vfs2

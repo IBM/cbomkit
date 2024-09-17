@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/libtom/libtomcrypt
+  - pkg:golang/github.com/libtom/libtomcrypt
+  - pkg:rpm/fedora/libtomcrypt
+  - pkg:rpm/opensuse/libtomcrypt

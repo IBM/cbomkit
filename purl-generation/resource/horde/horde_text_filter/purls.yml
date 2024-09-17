@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-text-filter
+  - pkg:deb/ubuntu/php-horde-text-filter
+  - pkg:github/horde/text_filter
+  - pkg:rpm/fedora/php-horde-horde-text-filter

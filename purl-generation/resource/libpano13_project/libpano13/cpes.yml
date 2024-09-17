@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:libpano13_project:libpano13:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpano13_project:libpano13:2.9.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpano13_project:libpano13:2.9.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpano13_project:libpano13:2.9.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpano13_project:libpano13:2.9.18:-:*:*:*:*:*:*
+  - cpe:2.3:a:libpano13_project:libpano13:2.9.18:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:libpano13_project:libpano13:2.9.18:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:libpano13_project:libpano13:2.9.18:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:libpano13_project:libpano13:2.9.19:-:*:*:*:*:*:*
+  - cpe:2.3:a:libpano13_project:libpano13:2.9.19:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:libpano13_project:libpano13:2.9.19:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:libpano13_project:libpano13:2.9.20:-:*:*:*:*:*:*
+  - cpe:2.3:a:libpano13_project:libpano13:2.9.20:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:libpano13_project:libpano13:2.9.20:rc2:*:*:*:*:*:*

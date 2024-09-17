@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:custom_post_type_relations_project:custom_post_type_relations:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:custom_post_type_relations_project:custom_post_type_relations:-:*:*:*:*:wordpress:*:*

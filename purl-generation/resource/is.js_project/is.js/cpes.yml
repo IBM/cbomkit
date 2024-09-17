@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:is.js_project:is.js:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:is.js_project:is.js:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:is.js_project:is.js:0.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:is.js_project:is.js:0.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:is.js_project:is.js:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:is.js_project:is.js:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:is.js_project:is.js:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:is.js_project:is.js:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:is.js_project:is.js:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:is.js_project:is.js:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:is.js_project:is.js:0.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:is.js_project:is.js:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:is.js_project:is.js:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:is.js_project:is.js:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:is.js_project:is.js:0.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:is.js_project:is.js:0.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:is.js_project:is.js:0.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:is.js_project:is.js:0.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:is.js_project:is.js:0.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:is.js_project:is.js:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:is.js_project:is.js:0.9.0:*:*:*:*:*:*:*

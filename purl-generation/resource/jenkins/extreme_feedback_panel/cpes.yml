@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:jenkins:extreme_feedback_panel:1.0.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:extreme_feedback_panel:1.1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:extreme_feedback_panel:1.1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:extreme_feedback_panel:1.1.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:extreme_feedback_panel:1.1.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:extreme_feedback_panel:1.1.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:extreme_feedback_panel:1.2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:extreme_feedback_panel:1.2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:extreme_feedback_panel:1.2.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:extreme_feedback_panel:1.2.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:extreme_feedback_panel:2.0.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:extreme_feedback_panel:2.0.1:*:*:*:*:jenkins:*:*

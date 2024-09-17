@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/zipios++
+  - pkg:deb/ubuntu/zipios++
+  - pkg:github/zipios/zipios
+  - pkg:rpm/fedora/zipios
+  - pkg:rpm/opensuse/zipios
+  - pkg:sourceforge/zipios

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/runc
+  - pkg:deb/ubuntu/runc
+  - pkg:github/opencontainers/runc
+  - pkg:gitlab/redhat/runc
+  - pkg:rpm/centos/runc
+  - pkg:rpm/fedora/runc
+  - pkg:rpm/opensuse/runc

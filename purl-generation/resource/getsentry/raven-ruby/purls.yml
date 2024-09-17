@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-sentry-raven
+  - pkg:deb/ubuntu/ruby-sentry-raven
+  - pkg:gem/sentry-raven
+  - pkg:github/getsentry/sentry-ruby
+  - pkg:rpm/opensuse/rubygem-sentry-raven

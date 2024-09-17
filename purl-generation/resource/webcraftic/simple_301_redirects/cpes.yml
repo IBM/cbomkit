@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:webcraftic:simple_301_redirects:1.0.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webcraftic:simple_301_redirects:1.0.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webcraftic:simple_301_redirects:1.0.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webcraftic:simple_301_redirects:1.0.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webcraftic:simple_301_redirects:1.0.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webcraftic:simple_301_redirects:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webcraftic:simple_301_redirects:1.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webcraftic:simple_301_redirects:1.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webcraftic:simple_301_redirects:1.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webcraftic:simple_301_redirects:1.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webcraftic:simple_301_redirects:1.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webcraftic:simple_301_redirects:1.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webcraftic:simple_301_redirects:1.0.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webcraftic:simple_301_redirects:1.0.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webcraftic:simple_301_redirects:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webcraftic:simple_301_redirects:1.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webcraftic:simple_301_redirects:1.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webcraftic:simple_301_redirects:1.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webcraftic:simple_301_redirects:1.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webcraftic:simple_301_redirects:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webcraftic:simple_301_redirects:-:*:*:*:*:wordpress:*:*

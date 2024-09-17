@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/diesel-rs/diesel
+  - pkg:rpm/fedora/rust-diesel
+  - pkg:rpm/opensuse/rust-diesel

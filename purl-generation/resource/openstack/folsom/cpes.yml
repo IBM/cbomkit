@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:openstack:folsom:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:folsom:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:folsom:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:folsom:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:folsom:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:folsom:2012.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:folsom:2012.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:folsom:2012.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:folsom:2012.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:folsom:2012.2.4:*:*:*:*:*:*:*

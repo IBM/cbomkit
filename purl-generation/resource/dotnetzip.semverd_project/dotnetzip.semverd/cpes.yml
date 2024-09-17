@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:dotnetzip.semverd_project:dotnetzip.semverd:1.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotnetzip.semverd_project:dotnetzip.semverd:1.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotnetzip.semverd_project:dotnetzip.semverd:1.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotnetzip.semverd_project:dotnetzip.semverd:1.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotnetzip.semverd_project:dotnetzip.semverd:1.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotnetzip.semverd_project:dotnetzip.semverd:1.9.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotnetzip.semverd_project:dotnetzip.semverd:1.9.9:*:*:*:*:*:*:*

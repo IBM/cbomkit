@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/cbcolvard/mainwp-child
+  - pkg:github/mainwp/mainwp-child
+  - pkg:github/wp-plugins/mainwp-child

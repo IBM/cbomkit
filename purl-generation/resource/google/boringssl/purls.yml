@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/google/boringssl
+  - pkg:googlesource/boringssl

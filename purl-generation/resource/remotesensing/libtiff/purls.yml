@@ -1,0 +1,3 @@
+purls:
+  - pkg:gitlab/libtiff/libtiff
+  - pkg:rpm/fedora/libtiff

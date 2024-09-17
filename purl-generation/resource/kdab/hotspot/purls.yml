@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/hotspot
+  - pkg:deb/ubuntu/hotspot
+  - pkg:github/kdab/hotspot
+  - pkg:golang/github.com/kdab/hotspot
+  - pkg:rpm/fedora/hotspot
+  - pkg:rpm/opensuse/hotspot
+  - pkg:sourceforge/hotspot.mirror

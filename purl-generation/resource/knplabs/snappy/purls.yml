@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/knplabs/snappy
+  - pkg:golang/github.com/knplabs/snappy

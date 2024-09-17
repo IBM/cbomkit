@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:unzoo:unzoo:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:unzoo:unzoo:4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:unzoo:unzoo:4.4-2:*:*:*:*:*:*:*

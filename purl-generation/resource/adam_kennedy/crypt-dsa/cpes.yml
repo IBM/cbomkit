@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:adam_kennedy:crypt-dsa:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:adam_kennedy:crypt-dsa:0.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:adam_kennedy:crypt-dsa:0.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:adam_kennedy:crypt-dsa:0.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:adam_kennedy:crypt-dsa:0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:adam_kennedy:crypt-dsa:0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:adam_kennedy:crypt-dsa:0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:adam_kennedy:crypt-dsa:0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:adam_kennedy:crypt-dsa:0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:adam_kennedy:crypt-dsa:0.15_01:*:*:*:*:*:*:*
+  - cpe:2.3:a:adam_kennedy:crypt-dsa:1.16:*:*:*:*:*:*:*

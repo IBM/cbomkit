@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tar-mirror/gnu-m4
+  - pkg:gnu/m4

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/distrotech/linux-pam
+  - pkg:github/linux-pam/linux-pam

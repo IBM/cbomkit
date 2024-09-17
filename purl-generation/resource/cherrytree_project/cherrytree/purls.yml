@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/cherrytree
+  - pkg:deb/ubuntu/cherrytree
+  - pkg:github/aymankhder/cherrytree
+  - pkg:github/dsasidhar3/cherrytree
+  - pkg:github/giuspen/cherrytree
+  - pkg:gitlab/kalilinux/cherrytree
+  - pkg:rpm/fedora/cherrytree
+  - pkg:rpm/opensuse/cherrytree

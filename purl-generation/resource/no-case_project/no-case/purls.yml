@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/blakeembrey/change-case
+  - pkg:github/blakeembrey/no-case
+  - pkg:maven/org.webjars.npm/no-case
+  - pkg:npm/no-case

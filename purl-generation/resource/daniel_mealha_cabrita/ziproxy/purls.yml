@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ziproxy
+  - pkg:deb/ubuntu/ziproxy
+  - pkg:github/phiexz/ziproxy
+  - pkg:rpm/opensuse/ziproxy
+  - pkg:sourceforge/ziproxy

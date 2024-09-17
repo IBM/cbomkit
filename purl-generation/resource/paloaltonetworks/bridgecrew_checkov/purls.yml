@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/bridgecrew/checkov
+  - pkg:github/bridgecrewio/checkov
+  - pkg:github/nimrodkor/checkov
+  - pkg:pypi/checkov
+  - pkg:pypi/checkov2

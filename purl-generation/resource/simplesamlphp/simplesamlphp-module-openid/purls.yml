@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/simplesamlphp/simplesamlphp-module-openid
+  - pkg:composer/simplesamlphp/simplesamlphp-module-openidprovider
+  - pkg:github/simplesamlphp/simplesamlphp-module-openidprovider

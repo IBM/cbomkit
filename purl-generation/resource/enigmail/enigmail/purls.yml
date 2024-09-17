@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/enigmail
+  - pkg:deb/ubuntu/enigmail
+  - pkg:gitlab/enigmail/enigmail
+  - pkg:rpm/opensuse/enigmail
+  - pkg:sourceforge/enigmail

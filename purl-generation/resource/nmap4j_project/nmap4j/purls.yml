@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/auvik/mvn-repo
+  - pkg:github/jmnx/nmap4j
+  - pkg:sourceforge/nmap4j

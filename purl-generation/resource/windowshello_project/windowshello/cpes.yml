@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:windowshello_project:windowshello:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:windowshello_project:windowshello:1.0.4:*:*:*:*:*:*:*

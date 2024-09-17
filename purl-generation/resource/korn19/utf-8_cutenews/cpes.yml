@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:korn19:utf-8_cutenews:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:korn19:utf-8_cutenews:2:*:*:*:*:*:*:*
+  - cpe:2.3:a:korn19:utf-8_cutenews:3:*:*:*:*:*:*:*
+  - cpe:2.3:a:korn19:utf-8_cutenews:4:*:*:*:*:*:*:*
+  - cpe:2.3:a:korn19:utf-8_cutenews:5:*:*:*:*:*:*:*
+  - cpe:2.3:a:korn19:utf-8_cutenews:6:*:*:*:*:*:*:*
+  - cpe:2.3:a:korn19:utf-8_cutenews:7:*:*:*:*:*:*:*
+  - cpe:2.3:a:korn19:utf-8_cutenews:8:*:*:*:*:*:*:*
+  - cpe:2.3:a:korn19:utf-8_cutenews:8b:*:*:*:*:*:*:*

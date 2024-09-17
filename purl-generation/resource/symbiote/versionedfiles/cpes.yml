@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:symbiote:versionedfiles:0.1.0:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:symbiote:versionedfiles:0.1.1:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:symbiote:versionedfiles:0.2.0:alpha1:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:symbiote:versionedfiles:1.0.10:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:symbiote:versionedfiles:1.0.11:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:symbiote:versionedfiles:1.0.12:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:symbiote:versionedfiles:1.0.13:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:symbiote:versionedfiles:1.0.1:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:symbiote:versionedfiles:1.0.2:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:symbiote:versionedfiles:1.0.3:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:symbiote:versionedfiles:1.0.4:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:symbiote:versionedfiles:1.0.5:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:symbiote:versionedfiles:1.0.6:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:symbiote:versionedfiles:1.0.7:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:symbiote:versionedfiles:1.0.8:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:symbiote:versionedfiles:1.0.9:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:symbiote:versionedfiles:2.0.0:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:symbiote:versionedfiles:2.0.1:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:symbiote:versionedfiles:2.0.2:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:symbiote:versionedfiles:2.0.3:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:symbiote:versionedfiles:-:*:*:*:*:silverstripe:*:*

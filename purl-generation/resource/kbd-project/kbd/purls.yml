@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/kbd
+  - pkg:deb/ubuntu/kbd
+  - pkg:github/legionus/kbd
+  - pkg:gitlab/redhat/kbd
+  - pkg:rpm/centos/kbd
+  - pkg:rpm/fedora/kbd
+  - pkg:rpm/opensuse/kbd

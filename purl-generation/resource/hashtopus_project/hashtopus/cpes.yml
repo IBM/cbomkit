@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:hashtopus_project:hashtopus:0.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashtopus_project:hashtopus:0.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashtopus_project:hashtopus:0.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashtopus_project:hashtopus:0.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashtopus_project:hashtopus:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashtopus_project:hashtopus:1.5a:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashtopus_project:hashtopus:1.5b:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashtopus_project:hashtopus:1.5c:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashtopus_project:hashtopus:1.5d:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashtopus_project:hashtopus:1.5e:*:*:*:*:*:*:*
+  - cpe:2.3:a:hashtopus_project:hashtopus:1.5g:*:*:*:*:*:*:*

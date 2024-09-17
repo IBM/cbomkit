@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/passportjs
+  - pkg:deb/ubuntu/passportjs
+  - pkg:github/jaredhanson/passport
+  - pkg:npm/passport

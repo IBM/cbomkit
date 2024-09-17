@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:slickquiz_project:slickquiz:1.3.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slickquiz_project:slickquiz:1.5.165:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slickquiz_project:slickquiz:1.5.19:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slickquiz_project:slickquiz:1.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slickquiz_project:slickquiz:-:*:*:*:*:wordpress:*:*

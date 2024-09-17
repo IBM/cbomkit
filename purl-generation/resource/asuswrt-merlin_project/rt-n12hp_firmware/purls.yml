@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/red54/asuswrt-merlin
+  - pkg:github/rmerl/asuswrt-merlin
+  - pkg:github/rmerl/asuswrt-merlin.ng

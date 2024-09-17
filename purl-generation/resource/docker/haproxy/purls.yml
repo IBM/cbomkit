@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/haproxy
+  - pkg:deb/ubuntu/haproxy
+  - pkg:docker/haproxy/haproxy
+  - pkg:github/docker-library/haproxy
+  - pkg:github/haproxy/haproxy
+  - pkg:golang/github.com/haproxy/haproxy
+  - pkg:rpm/fedora/haproxy
+  - pkg:rpm/opensuse/haproxy

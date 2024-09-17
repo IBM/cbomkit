@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:accel-ppp:accel-ppp:1.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:accel-ppp:accel-ppp:1.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:accel-ppp:accel-ppp:1.12.0-92-g38b6104:*:*:*:*:*:*:*

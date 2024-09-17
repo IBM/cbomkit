@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libntlm
+  - pkg:deb/ubuntu/libntlm
+  - pkg:github/gitgnu/gnu_libntlm
+  - pkg:gnu/libntlm
+  - pkg:rpm/fedora/libntlm
+  - pkg:rpm/opensuse/libntlm

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:doccms:doccms:2016.5.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:doccms:doccms:2016.5.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:doccms:doccms:2016.5.8:*:*:*:*:*:*:*

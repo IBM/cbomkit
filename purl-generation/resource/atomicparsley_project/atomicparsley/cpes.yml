@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:atomicparsley_project:atomicparsley:0.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:atomicparsley_project:atomicparsley:0.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:atomicparsley_project:atomicparsley:0.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:atomicparsley_project:atomicparsley:0.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:atomicparsley_project:atomicparsley:20200701.154658.b0d6223:*:*:*:*:*:*:*
+  - cpe:2.3:a:atomicparsley_project:atomicparsley:20201231.092811.cbecfb1:*:*:*:*:*:*:*
+  - cpe:2.3:a:atomicparsley_project:atomicparsley:20210114.184825.1dbe1be:*:*:*:*:*:*:*
+  - cpe:2.3:a:atomicparsley_project:atomicparsley:20210124.204813.840499f:*:*:*:*:*:*:*
+  - cpe:2.3:a:atomicparsley_project:atomicparsley:20210617.200601.1ac7c08:*:*:*:*:*:*:*
+  - cpe:2.3:a:atomicparsley_project:atomicparsley:20210715.151551.e7ad03a:*:*:*:*:*:*:*

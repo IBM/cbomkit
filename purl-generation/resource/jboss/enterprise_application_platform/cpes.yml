@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:jboss:enterprise_application_platform:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:jboss:enterprise_application_platform:4.2.0.cp01:*:*:*:*:*:*:*
+  - cpe:2.3:a:jboss:enterprise_application_platform:4.2.0.cp02:*:*:*:*:*:*:*
+  - cpe:2.3:a:jboss:enterprise_application_platform:6.4.6:*:*:*:*:*:*:*

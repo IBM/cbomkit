@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/tftp-hpa
+  - pkg:deb/ubuntu/tftp-hpa
+  - pkg:github/alirezaarzehgar/tftp-hpa
+  - pkg:github/arth-ur/tftp-hpa
+  - pkg:github/distrotech/tftp-hpa

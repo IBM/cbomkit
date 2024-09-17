@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-openid
+  - pkg:deb/ubuntu/ruby-openid
+  - pkg:gem/ruby-openid
+  - pkg:github/openid/ruby-openid
+  - pkg:rpm/opensuse/rubygem-ruby-openid

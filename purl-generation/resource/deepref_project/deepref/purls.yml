@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/isaymatato/deepref
+  - pkg:npm/deepref

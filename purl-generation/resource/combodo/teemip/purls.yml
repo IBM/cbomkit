@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/teemip/teemip-standalone
+  - pkg:sourceforge/teemip

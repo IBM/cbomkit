@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/pygresql
+  - pkg:deb/ubuntu/pygresql
+  - pkg:github/pygresql/pygresql
+  - pkg:rpm/fedora/pygresql
+  - pkg:rpm/opensuse/pygresql

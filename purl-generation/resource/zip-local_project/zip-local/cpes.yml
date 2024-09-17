@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:zip-local_project:zip-local:0.3.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:zip-local_project:zip-local:*:*:*:*:*:node.js:*:*

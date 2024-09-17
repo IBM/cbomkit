@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/oetiker/smokeping
+  - pkg:rpm/fedora/smokeping
+  - pkg:rpm/opensuse/smokeping

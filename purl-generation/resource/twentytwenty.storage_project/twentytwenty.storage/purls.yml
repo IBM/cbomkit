@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/2020ip/twentytwenty.storage
+  - pkg:nuget/TwentyTwenty.Storage

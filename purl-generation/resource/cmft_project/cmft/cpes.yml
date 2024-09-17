@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:cmft_project:cmft:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:cmft_project:cmft:2017-09-24:*:*:*:*:*:*:*

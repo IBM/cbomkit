@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:microsoft:nuget:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nuget:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nuget:4.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nuget:4.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nuget:4.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nuget:4.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nuget:4.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nuget:4.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nuget:4.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nuget:4.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nuget:5.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nuget:5.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nuget:6.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nuget:6.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nuget:6.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nuget:6.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nuget:6.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:nuget:6.6.0:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:fedorahosted:sssd:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedorahosted:sssd:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedorahosted:sssd:1.4.1:*:*:*:*:*:*:*

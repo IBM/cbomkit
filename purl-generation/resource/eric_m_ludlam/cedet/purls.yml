@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/stevenremot/cedet
+  - pkg:github/abo-abo/cedet
+  - pkg:github/alexott/cedet
+  - pkg:github/dsedivec/cedet
+  - pkg:github/emacs-pkg-mirrors/cedet
+  - pkg:sourceforge/cedet

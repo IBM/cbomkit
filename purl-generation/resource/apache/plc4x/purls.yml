@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/apache-plc4x
+  - pkg:apache/apache-plc4x-incubating
+  - pkg:github/apache/plc4x
+  - pkg:golang/github.com/apache/plc4x/plc4go

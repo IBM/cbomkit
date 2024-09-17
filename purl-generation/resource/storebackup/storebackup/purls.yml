@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/storebackup
+  - pkg:deb/ubuntu/storebackup
+  - pkg:docker/th0masrad/storebackup
+  - pkg:github/th0masrad/storebackup
+  - pkg:gnu/storebackup
+  - pkg:rpm/opensuse/storebackup
+  - pkg:sourceforge/storebackup

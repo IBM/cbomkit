@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:nlgis2_project:nlgis2:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nlgis2_project:nlgis2:-:*:*:*:*:*:*:*

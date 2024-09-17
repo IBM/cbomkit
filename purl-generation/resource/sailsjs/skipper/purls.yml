@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sailshq/skipper
+  - pkg:npm/skipper

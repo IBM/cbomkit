@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/jawn
+  - pkg:deb/ubuntu/jawn
+  - pkg:github/typelevel/jawn
+  - pkg:rpm/opensuse/jawn

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/mpmath
+  - pkg:deb/ubuntu/mpmath
+  - pkg:github/mpmath/mpmath
+  - pkg:pypi/mpmath

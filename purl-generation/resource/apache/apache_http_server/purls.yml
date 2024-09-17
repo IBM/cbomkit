@@ -1,0 +1,6 @@
+purls:
+  - pkg:apache/httpd
+  - pkg:github/apache/httpd
+  - pkg:gitlab/redhat/httpd
+  - pkg:rpm/fedora/httpd
+  - pkg:rpm/opensuse/httpd

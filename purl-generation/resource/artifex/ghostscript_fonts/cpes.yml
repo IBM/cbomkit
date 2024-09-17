@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:artifex:ghostscript_fonts:6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:ghostscript_fonts:8.11:*:*:*:*:*:*:*

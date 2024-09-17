@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:sofawiki_project:sofawiki:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:sofawiki_project:sofawiki:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:sofawiki_project:sofawiki:3.8.9:*:*:*:*:*:*:*

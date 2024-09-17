@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:o:mageia:mageia:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:mageia:mageia:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:mageia:mageia:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:mageia:mageia:5.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:mageia:mageia:6.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:mageia:mageia:7.0:*:*:*:*:*:*:*

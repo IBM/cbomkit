@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:xpdf_project:xpdf:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:xpdf_project:xpdf:3.04:*:*:*:*:*:*:*

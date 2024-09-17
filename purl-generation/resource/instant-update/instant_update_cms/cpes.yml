@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:instant-update:instant_update_cms:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:instant-update:instant_update_cms:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:instant-update:instant_update_cms:0.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:instant-update:instant_update_cms:0.3.3:*:*:*:*:*:*:*

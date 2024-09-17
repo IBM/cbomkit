@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:afichet:openexr_viewer:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:afichet:openexr_viewer:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:afichet:openexr_viewer:0.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:afichet:openexr_viewer:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:afichet:openexr_viewer:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:afichet:openexr_viewer:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:afichet:openexr_viewer:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:afichet:openexr_viewer:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:afichet:openexr_viewer:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:afichet:openexr_viewer:0.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:afichet:openexr_viewer:0.6.0:*:*:*:*:*:*:*

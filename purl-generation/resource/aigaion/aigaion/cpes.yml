@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:aigaion:aigaion:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:aigaion:aigaion:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:aigaion:aigaion:1.3.4:*:*:*:*:*:*:*

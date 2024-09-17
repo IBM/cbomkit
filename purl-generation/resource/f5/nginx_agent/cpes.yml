@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:f5:nginx_agent:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_agent:2.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_agent:2.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_agent:2.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_agent:2.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_agent:2.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_agent:2.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_agent:2.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_agent:2.22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_agent:2.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_agent:2.23.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:f5:nginx_agent:2.23.2:*:*:*:*:*:*:*

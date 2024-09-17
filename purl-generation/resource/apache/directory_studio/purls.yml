@@ -1,0 +1,3 @@
+purls:
+  - pkg:apache/directory
+  - pkg:github/apache/directory-studio

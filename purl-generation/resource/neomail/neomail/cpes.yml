@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:neomail:neomail:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:neomail:neomail:1.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:neomail:neomail:1.29:*:*:*:*:*:*:*

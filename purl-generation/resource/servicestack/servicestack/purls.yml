@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/servicestack/servicestack
+  - pkg:nuget/ServiceStack
+  - pkg:sourceforge/servicestack.mirror

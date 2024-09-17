@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/ubuntu/screen-resolution-extra
+  - pkg:github/tseliot/screen-resolution-extra

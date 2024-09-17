@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/geoip-lite/node-geoip
+  - pkg:npm/adamvr-geoip-lite

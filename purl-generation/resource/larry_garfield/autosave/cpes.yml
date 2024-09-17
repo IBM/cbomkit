@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:larry_garfield:autosave:6.x-2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:larry_garfield:autosave:6.x-2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:larry_garfield:autosave:6.x-2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:larry_garfield:autosave:6.x-2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:larry_garfield:autosave:6.x-2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:larry_garfield:autosave:6.x-2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:larry_garfield:autosave:6.x-2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:larry_garfield:autosave:6.x-2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:larry_garfield:autosave:6.x-2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:larry_garfield:autosave:6.x-2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:larry_garfield:autosave:6.x-2.x:dev:*:*:*:*:*:*
+  - cpe:2.3:a:larry_garfield:autosave:7.x-2.x:dev:*:*:*:*:*:*

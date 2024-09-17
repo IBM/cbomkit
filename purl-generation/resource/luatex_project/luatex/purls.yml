@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/texlive-luatex
+  - pkg:github/tex-live/luatex
+  - pkg:rpm/opensuse/texlive-luatex

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:vsphere_selfuse_project:vsphere_selfuse:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:vsphere_selfuse_project:vsphere_selfuse:2019-07-22:*:*:*:*:*:*:*

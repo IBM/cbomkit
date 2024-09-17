@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:zen_cart:zen_cart:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:zen_cart:zen_cart:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:zen_cart:zen_cart:1.1.1d:*:*:*:*:*:*:*
+  - cpe:2.3:a:zen_cart:zen_cart:1.1.2d:*:*:*:*:*:*:*
+  - cpe:2.3:a:zen_cart:zen_cart:1.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:zen_cart:zen_cart:1.1.3d:*:*:*:*:*:*:*
+  - cpe:2.3:a:zen_cart:zen_cart:1.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:zen_cart:zen_cart:1.1.4d:*:*:*:*:*:*:*
+  - cpe:2.3:a:zen_cart:zen_cart:1.2.0d:*:*:*:*:*:*:*
+  - cpe:2.3:a:zen_cart:zen_cart:1.2.1d:*:*:*:*:*:*:*
+  - cpe:2.3:a:zen_cart:zen_cart:1.2.1_patch1:*:*:*:*:*:*:*
+  - cpe:2.3:a:zen_cart:zen_cart:1.2.2d:*:*:*:*:*:*:*
+  - cpe:2.3:a:zen_cart:zen_cart:1.2.3d:*:*:*:*:*:*:*
+  - cpe:2.3:a:zen_cart:zen_cart:1.2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:zen_cart:zen_cart:1.2.4d:*:*:*:*:*:*:*
+  - cpe:2.3:a:zen_cart:zen_cart:1.2.5d:*:*:*:*:*:*:*
+  - cpe:2.3:a:zen_cart:zen_cart:1.2.6d:*:*:*:*:*:*:*
+  - cpe:2.3:a:zen_cart:zen_cart:1.3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:zen_cart:zen_cart:1.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:zen_cart:zen_cart:1.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:zen_cart:zen_cart:1.3.8a:*:*:*:*:*:*:*

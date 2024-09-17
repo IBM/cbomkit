@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:rusb_project:rusb:0.5.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rusb_project:rusb:0.5.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rusb_project:rusb:0.5.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rusb_project:rusb:0.5.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rusb_project:rusb:0.5.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rusb_project:rusb:0.6.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rusb_project:rusb:0.6.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rusb_project:rusb:0.6.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rusb_project:rusb:0.6.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rusb_project:rusb:0.6.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rusb_project:rusb:0.6.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rusb_project:rusb:0.7.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rusb_project:rusb:-:*:*:*:*:rust:*:*

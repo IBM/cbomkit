@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:just-extend_project:just-extend:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:1.1.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:1.1.15:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:1.1.16:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:1.1.17:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:1.1.18:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:1.1.19:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:1.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:1.1.20:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:1.1.21:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:1.1.22:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:1.1.23:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:1.1.24:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:1.1.25:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:1.1.26:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:1.1.27:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:1.1.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:1.1.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:1.1.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:1.1.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:2.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:3.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:4.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:4.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:just-extend_project:just-extend:4.0.2:*:*:*:*:node.js:*:*

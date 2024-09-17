@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/mpyne/game-music-emu
+  - pkg:deb/debian/game-music-emu
+  - pkg:deb/ubuntu/game-music-emu
+  - pkg:github/shiftmediaproject/game-music-emu
+  - pkg:rpm/fedora/game-music-emu

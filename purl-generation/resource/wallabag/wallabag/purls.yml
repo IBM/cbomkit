@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/wallabag/wallabag
+  - pkg:github/wallabag/wallabag
+  - pkg:rpm/opensuse/wallabag
+  - pkg:sourceforge/wallabag.mirror

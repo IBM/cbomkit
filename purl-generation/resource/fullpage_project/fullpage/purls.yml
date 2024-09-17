@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/alvarotrigo/fullpage.js
+  - pkg:maven/org.webjars.bower/fullpage.js
+  - pkg:npm/fullpage.js

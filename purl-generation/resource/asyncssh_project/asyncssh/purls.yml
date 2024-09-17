@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-asyncssh
+  - pkg:deb/ubuntu/python-asyncssh
+  - pkg:github/ronf/asyncssh
+  - pkg:pypi/asyncssh
+  - pkg:rpm/fedora/python-asyncssh
+  - pkg:rpm/opensuse/python-asyncssh

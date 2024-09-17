@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sebhildebrandt/systeminformation
+  - pkg:npm/systeminformation

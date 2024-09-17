@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:php_jackknife:php_jackknife:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:php_jackknife:php_jackknife:2.21:*:*:*:*:*:*:*

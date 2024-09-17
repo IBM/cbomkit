@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bklarson/jenkins-repo-plugin
+  - pkg:github/jenkinsci/repo-plugin

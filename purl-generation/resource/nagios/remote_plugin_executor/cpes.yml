@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:nagios:remote_plugin_executor:2.15:*:*:*:*:*:*:*

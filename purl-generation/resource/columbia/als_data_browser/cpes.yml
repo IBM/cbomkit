@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:columbia:als_data_browser:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:columbia:als_data_browser:1:*:*:*:*:*:*:*

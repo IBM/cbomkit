@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/security-onion-solutions/security-onion
+  - pkg:github/security-onion-solutions/securityonion
+  - pkg:sourceforge/security-onion

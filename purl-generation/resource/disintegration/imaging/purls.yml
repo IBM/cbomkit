@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/disintegration/imaging
+  - pkg:golang/github.com/disintegration/imaging

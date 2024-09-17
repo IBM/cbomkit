@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:lzo_project:lzo:2.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:lzo_project:lzo:2.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:lzo_project:lzo:2.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:lzo_project:lzo:2.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:lzo_project:lzo:2.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:lzo_project:lzo:2.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:lzo_project:lzo:2.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:lzo_project:lzo:2.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:lzo_project:lzo:2.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:lzo_project:lzo:2.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:lzo_project:lzo:2.10:*:*:*:*:*:*:*

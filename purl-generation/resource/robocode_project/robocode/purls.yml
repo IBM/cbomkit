@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/cikasfm/robocode
+  - pkg:deb/debian/robocode
+  - pkg:deb/ubuntu/robocode
+  - pkg:github/robo-code/robocode
+  - pkg:maven/net.sf.robocode/robocode.core
+  - pkg:nuget/RoboCode
+  - pkg:sourceforge/robocode

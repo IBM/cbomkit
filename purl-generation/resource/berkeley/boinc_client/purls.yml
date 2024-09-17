@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/boinc
+  - pkg:deb/ubuntu/boinc
+  - pkg:github/boinc/boinc
+  - pkg:rpm/fedora/boinc-client
+  - pkg:rpm/opensuse/boinc-client

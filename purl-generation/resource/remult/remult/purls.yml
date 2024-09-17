@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/remult/remult
+  - pkg:npm/remult

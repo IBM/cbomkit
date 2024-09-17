@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/pycsw
+  - pkg:deb/ubuntu/pycsw
+  - pkg:docker/geopython/pycsw
+  - pkg:github/geopython/pycsw
+  - pkg:pypi/pycsw
+  - pkg:rpm/opensuse/python-pycsw
+  - pkg:sourceforge/pycsw

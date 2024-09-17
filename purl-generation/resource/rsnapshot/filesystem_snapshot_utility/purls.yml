@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/linuxserver/rsnapshot
+  - pkg:github/rsnapshot/rsnapshot

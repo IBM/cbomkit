@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ldarren/quickjs
+  - pkg:rpm/opensuse/quickjs

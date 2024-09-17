@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-yaml-rust
+  - pkg:deb/ubuntu/rust-yaml-rust
+  - pkg:github/chyh1990/yaml-rust
+  - pkg:rpm/fedora/rust-yaml-rust
+  - pkg:rpm/opensuse/rust-yaml-rust

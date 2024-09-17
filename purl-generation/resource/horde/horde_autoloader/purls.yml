@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-autoloader
+  - pkg:deb/ubuntu/php-horde-autoloader
+  - pkg:github/horde/autoloader
+  - pkg:rpm/fedora/php-horde-horde-autoloader

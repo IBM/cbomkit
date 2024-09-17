@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/incron
+  - pkg:deb/ubuntu/incron
+  - pkg:github/danfruehauf/incron
+  - pkg:rpm/fedora/incron
+  - pkg:rpm/opensuse/incron
+  - pkg:sourceforge/incron

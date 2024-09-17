@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:mamboxchange:laithai:4.5.4:sp2:*:*:*:*:*:*
+  - cpe:2.3:a:mamboxchange:laithai:4.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mamboxchange:laithai:*:sp2:*:*:*:*:*:*

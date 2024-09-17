@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:pdfinfojs_project:pdfinfojs:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pdfinfojs_project:pdfinfojs:0.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pdfinfojs_project:pdfinfojs:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pdfinfojs_project:pdfinfojs:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pdfinfojs_project:pdfinfojs:0.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pdfinfojs_project:pdfinfojs:0.3.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pdfinfojs_project:pdfinfojs:0.3.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pdfinfojs_project:pdfinfojs:0.3.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pdfinfojs_project:pdfinfojs:0.3.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pdfinfojs_project:pdfinfojs:0.3.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pdfinfojs_project:pdfinfojs:0.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pdfinfojs_project:pdfinfojs:0.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pdfinfojs_project:pdfinfojs:0.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pdfinfojs_project:pdfinfojs:0.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pdfinfojs_project:pdfinfojs:0.5.2:*:*:*:*:node.js:*:*

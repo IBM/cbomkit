@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-js-beautify
+  - pkg:deb/ubuntu/node-js-beautify
+  - pkg:github/beautify-web/js-beautify
+  - pkg:maven/org.webjars.npm/js-beautify
+  - pkg:npm/js-beautify
+  - pkg:rpm/opensuse/nodejs-js-beautify

@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/primefaces/primefaces
+  - pkg:maven/org.primefaces/primefaces
+  - pkg:maven/org.primefaces/primefaces-parent
+  - pkg:npm/primefaces
+  - pkg:rpm/opensuse/primefaces

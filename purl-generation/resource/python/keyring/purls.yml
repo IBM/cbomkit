@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/python-keyring
+  - pkg:deb/ubuntu/python-keyring
+  - pkg:github/jaraco/keyring
+  - pkg:pypi/keyring
+  - pkg:rpm/opensuse/python-keyring

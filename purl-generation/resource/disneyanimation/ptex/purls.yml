@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/wdas/ptex
+  - pkg:rpm/fedora/ptex
+  - pkg:rpm/opensuse/ptex

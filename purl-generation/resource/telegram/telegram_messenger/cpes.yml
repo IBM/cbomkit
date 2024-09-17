@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:telegram:telegram_messenger:2017-12-08:*:*:*:*:android:*:*
+  - cpe:2.3:a:telegram:telegram_messenger:3.3.0.0:*:*:*:*:windows:*:*
+  - cpe:2.3:a:telegram:telegram_messenger:*:*:*:*:*:android:*:*

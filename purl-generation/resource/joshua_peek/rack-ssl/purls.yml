@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/ruby-rack-ssl
+  - pkg:deb/ubuntu/ruby-rack-ssl
+  - pkg:gem/rack-ssl
+  - pkg:rpm/opensuse/rubygem-rack-ssl

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/vobcopy
+  - pkg:deb/ubuntu/vobcopy
+  - pkg:github/barak/vobcopy
+  - pkg:gnome/vobcopy
+  - pkg:rpm/opensuse/vobcopy

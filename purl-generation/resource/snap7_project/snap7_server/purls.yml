@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/scadacs/snap7
+  - pkg:npm/node-snap7
+  - pkg:pypi/python-snap7
+  - pkg:sourceforge/snap7

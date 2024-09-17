@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:mark_user_as_spammer_project:mark_user_as_spammer:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mark_user_as_spammer_project:mark_user_as_spammer:1.0.1:*:*:*:*:wordpress:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/openstack/manila
+  - pkg:pypi/manila
+  - pkg:rpm/opensuse/openstack-manila

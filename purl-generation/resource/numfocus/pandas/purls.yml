@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/pandas
+  - pkg:deb/ubuntu/pandas
+  - pkg:github/pandas-dev/pandas
+  - pkg:pypi/pandas
+  - pkg:rpm/fedora/python-pandas
+  - pkg:rpm/opensuse/python-pandas
+  - pkg:sourceforge/pandas.mirror

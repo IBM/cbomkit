@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/backuppc
+  - pkg:deb/ubuntu/backuppc
+  - pkg:docker/adferrand/backuppc
+  - pkg:github/backuppc/backuppc
+  - pkg:rpm/fedora/backuppc
+  - pkg:rpm/opensuse/backuppc
+  - pkg:sourceforge/backuppc

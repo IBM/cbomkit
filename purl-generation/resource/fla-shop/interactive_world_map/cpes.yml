@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:fla-shop:interactive_world_map:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:fla-shop:interactive_world_map:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fla-shop:interactive_world_map:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fla-shop:interactive_world_map:3.1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fla-shop:interactive_world_map:3.1.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fla-shop:interactive_world_map:3.1.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fla-shop:interactive_world_map:3.1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fla-shop:interactive_world_map:3.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:fla-shop:interactive_world_map:*:*:*:*:*:wordpress:*:*

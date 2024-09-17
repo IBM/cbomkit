@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:redhat:community_network_collection:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:community_network_collection:0.1.0:*:*:*:*:ansible:*:*
+  - cpe:2.3:a:redhat:community_network_collection:0.2.0:*:*:*:*:ansible:*:*
+  - cpe:2.3:a:redhat:community_network_collection:0.2.1:*:*:*:*:ansible:*:*
+  - cpe:2.3:a:redhat:community_network_collection:1.0.0:*:*:*:*:ansible:*:*
+  - cpe:2.3:a:redhat:community_network_collection:1.1.0:*:*:*:*:ansible:*:*
+  - cpe:2.3:a:redhat:community_network_collection:1.2.0:*:*:*:*:ansible:*:*
+  - cpe:2.3:a:redhat:community_network_collection:1.3.0:*:*:*:*:ansible:*:*
+  - cpe:2.3:a:redhat:community_network_collection:1.3.1:*:*:*:*:ansible:*:*
+  - cpe:2.3:a:redhat:community_network_collection:1.3.2:*:*:*:*:ansible:*:*
+  - cpe:2.3:a:redhat:community_network_collection:2.0.0:*:*:*:*:ansible:*:*
+  - cpe:2.3:a:redhat:community_network_collection:2.0.1:*:*:*:*:ansible:*:*
+  - cpe:2.3:a:redhat:community_network_collection:-:*:*:*:*:ansible:*:*

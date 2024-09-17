@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/zadman/autokey
+  - pkg:deb/debian/autokey
+  - pkg:deb/ubuntu/autokey
+  - pkg:github/autokey/autokey
+  - pkg:pypi/autokey
+  - pkg:rpm/fedora/autokey
+  - pkg:rpm/opensuse/autokey

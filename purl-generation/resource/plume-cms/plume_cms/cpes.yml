@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:plume-cms:plume_cms:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:plume-cms:plume_cms:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:plume-cms:plume_cms:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:plume-cms:plume_cms:1.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:plume-cms:plume_cms:1.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:plume-cms:plume_cms:1.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:plume-cms:plume_cms:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:plume-cms:plume_cms:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:plume-cms:plume_cms:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:plume-cms:plume_cms:1.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:plume-cms:plume_cms:1.2.4:*:*:*:*:*:*:*

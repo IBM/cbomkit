@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:rcdevs:openotp:1.4.13:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:rcdevs:openotp:1.4.14:*:*:*:*:iphone_os:*:*

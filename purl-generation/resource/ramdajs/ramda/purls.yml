@@ -1,0 +1,6 @@
+purls:
+  - pkg:gem/ramda-ruby
+  - pkg:github/ramda/ramda
+  - pkg:npm/ramda
+  - pkg:nuget/Ramda.NET
+  - pkg:sourceforge/ramda.mirror

@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:google:protobuf-kotlin:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf-kotlin:3.16.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf-kotlin:3.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf-kotlin:3.19.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf-kotlin:3.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf-kotlin:3.20.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf-kotlin:3.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:protobuf-kotlin:3.21.7:*:*:*:*:*:*:*

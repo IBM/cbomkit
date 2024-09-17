@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/cloudwego/hertz
+  - pkg:golang/github.com/cloudwego/hertz
+  - pkg:sourceforge/hertz.mirror

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:webbynode:webbynode:1.0.5.1:-:-:*:-:ruby:*:*
+  - cpe:2.3:a:webbynode:webbynode:1.0.5.2:-:-:*:-:ruby:*:*
+  - cpe:2.3:a:webbynode:webbynode:1.0.5.3:-:-:*:-:ruby:*:*
+  - cpe:2.3:a:webbynode:webbynode:1.0.5:-:-:*:-:ruby:*:*
+  - cpe:2.3:a:webbynode:webbynode:1.1.0:beta1:-:*:-:ruby:*:*

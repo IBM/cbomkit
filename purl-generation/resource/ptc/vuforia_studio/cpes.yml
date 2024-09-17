@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:ptc:vuforia_studio:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ptc:vuforia_studio:-:*:*:*:*:*:*:*

@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:acl_project:acl:2.2.48:*:*:*:*:*:*:*
+  - cpe:2.3:a:acl_project:acl:2.2.49:*:*:*:*:*:*:*
+  - cpe:2.3:a:acl_project:acl:2.2.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:acl_project:acl:2.2.51:*:*:*:*:*:*:*
+  - cpe:2.3:a:acl_project:acl:2.2.52:*:*:*:*:*:*:*
+  - cpe:2.3:a:acl_project:acl:2.2.53:*:*:*:*:*:*:*
+  - cpe:2.3:a:acl_project:acl:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:acl_project:acl:2.3.1:*:*:*:*:*:*:*

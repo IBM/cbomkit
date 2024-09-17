@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/dewn49/rabbitmq-c
+  - pkg:github/alanxz/rabbitmq-c
+  - pkg:rpm/opensuse/rabbitmq-c

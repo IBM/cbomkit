@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:moddable:moddable_sdk:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:moddable:moddable_sdk:11.5.0:*:*:*:*:*:*:*

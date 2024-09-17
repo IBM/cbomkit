@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:jenkins:kiuwanplugin:*:*:*:*:*:jenkins:*:*
+  - cpe:2.3:*:jenkins:kiuwanplugin:*:*:*:*:*:*:*:*

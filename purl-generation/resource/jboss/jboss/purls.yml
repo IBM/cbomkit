@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/wildfly/wildfly
+  - pkg:maven/jboss/jboss
+  - pkg:sourceforge/jboss

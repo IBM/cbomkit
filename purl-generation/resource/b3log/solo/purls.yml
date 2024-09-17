@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/b3log/solo
+  - pkg:github/88250/solo
+  - pkg:github/b3log-bot/solo

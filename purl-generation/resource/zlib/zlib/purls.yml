@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/zlib
+  - pkg:deb/ubuntu/zlib
+  - pkg:github/madler/zlib
+  - pkg:gitlab/immersaview/zlib
+  - pkg:rpm/centos/zlib
+  - pkg:rpm/fedora/zlib
+  - pkg:rpm/opensuse/zlib

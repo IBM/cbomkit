@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:nexryai:nexkey:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nexryai:nexkey:12.121.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nexryai:nexkey:12.23q4.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nexryai:nexkey:12.23q4.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nexryai:nexkey:*:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nexryai:nexkey:-:*:*:*:*:node.js:*:*

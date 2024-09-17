@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:zyantific:zydis:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:zyantific:zydis:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:zyantific:zydis:2.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:zyantific:zydis:2.0.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:zyantific:zydis:2.0.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:zyantific:zydis:2.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:zyantific:zydis:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:zyantific:zydis:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:zyantific:zydis:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:zyantific:zydis:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:zyantific:zydis:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:zyantific:zydis:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:zyantific:zydis:3.2.1:*:*:*:*:*:*:*

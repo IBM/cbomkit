@@ -1,0 +1,6 @@
+purls:
+  - pkg:cpan/pcre
+  - pkg:github/luvit/pcre
+  - pkg:gitlab/redhat/pcre
+  - pkg:rpm/fedora/pcre
+  - pkg:sourceforge/pcre

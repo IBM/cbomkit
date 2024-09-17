@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:parse-link-header_project:parse-link-header:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:parse-link-header_project:parse-link-header:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:parse-link-header_project:parse-link-header:0.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:parse-link-header_project:parse-link-header:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:parse-link-header_project:parse-link-header:0.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:parse-link-header_project:parse-link-header:0.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:parse-link-header_project:parse-link-header:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:parse-link-header_project:parse-link-header:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:parse-link-header_project:parse-link-header:2.0.0:*:*:*:*:node.js:*:*

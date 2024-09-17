@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/tomcat-connectors
+  - pkg:github/apache/tomcat-connectors
+  - pkg:golang/github.com/apache/tomcat-connectors

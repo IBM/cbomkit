@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/node-sqlite3
+  - pkg:deb/ubuntu/node-sqlite3
+  - pkg:github/mapbox/node-sqlite3
+  - pkg:npm/npm-test-sqlite3-trunk

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/fish
+  - pkg:deb/ubuntu/fish
+  - pkg:github/fish-shell/fish-shell
+  - pkg:rpm/fedora/fish
+  - pkg:sourceforge/fish.mirror

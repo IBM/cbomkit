@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:jyaml_project:jyaml:1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:jyaml_project:jyaml:1.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:jyaml_project:jyaml:1.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:jyaml_project:jyaml:1.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:jyaml_project:jyaml:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jyaml_project:jyaml:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jyaml_project:jyaml:1.3:*:*:*:*:*:*:*

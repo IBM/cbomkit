@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/tin
+  - pkg:deb/ubuntu/tin
+  - pkg:rpm/fedora/tin
+  - pkg:rpm/opensuse/tin

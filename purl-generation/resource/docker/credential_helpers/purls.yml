@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/golang-github-docker-docker-credential-helpers
+  - pkg:deb/ubuntu/golang-github-docker-docker-credential-helpers
+  - pkg:github/docker/docker-credential-helpers
+  - pkg:rpm/fedora/golang-github-docker-credential-helpers

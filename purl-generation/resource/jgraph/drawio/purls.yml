@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/jgraph/drawio
+  - pkg:github/jgraph/drawio
+  - pkg:maven/org.webjars.bowergithub.jgraph/drawio

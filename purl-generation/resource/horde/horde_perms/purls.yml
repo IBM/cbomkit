@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-perms
+  - pkg:deb/ubuntu/php-horde-perms
+  - pkg:github/horde/perms
+  - pkg:rpm/fedora/php-horde-horde-perms

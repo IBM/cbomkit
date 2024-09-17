@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/cassandra
+  - pkg:github/apache/cassandra
+  - pkg:maven/org.apache/cassandra

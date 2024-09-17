@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cloudfoundry/routing-release
+  - pkg:golang/github.com/cloudfoundry/routing-release

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:gurbalib_project:gurbalib:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gurbalib_project:gurbalib:2020-04-30:*:*:*:*:*:*:*

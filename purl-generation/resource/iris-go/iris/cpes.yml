@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:iris-go:iris:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:iris-go:iris:12.0.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:iris-go:iris:12.0.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:iris-go:iris:12.1.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:iris-go:iris:12.1.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:iris-go:iris:12.1.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:iris-go:iris:12.1.3:*:*:*:*:go:*:*
+  - cpe:2.3:a:iris-go:iris:12.1.4:*:*:*:*:go:*:*
+  - cpe:2.3:a:iris-go:iris:12.1.5:*:*:*:*:go:*:*
+  - cpe:2.3:a:iris-go:iris:12.1.6:*:*:*:*:go:*:*
+  - cpe:2.3:a:iris-go:iris:12.1.7:*:*:*:*:go:*:*
+  - cpe:2.3:a:iris-go:iris:12.1.8:*:*:*:*:go:*:*
+  - cpe:2.3:a:iris-go:iris:12.2.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:iris-go:iris:12.2.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:iris-go:iris:12.2.0:alpha2:*:*:*:go:*:*
+  - cpe:2.3:a:iris-go:iris:12.2.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:iris-go:iris:12.2.0:alpha3:*:*:*:go:*:*
+  - cpe:2.3:a:iris-go:iris:12.2.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:iris-go:iris:12.2.0:alpha4:*:*:*:go:*:*
+  - cpe:2.3:a:iris-go:iris:12.2.0:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:iris-go:iris:12.2.0:alpha5:*:*:*:go:*:*
+  - cpe:2.3:a:iris-go:iris:12.2.0:alpha:*:*:*:go:*:*
+  - cpe:2.3:a:iris-go:iris:-:*:*:*:*:go:*:*

@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:sunhater:kcfinder:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:sunhater:kcfinder:2018-06-01:*:*:*:*:*:*:*
+  - cpe:2.3:a:sunhater:kcfinder:2.52:*:*:*:*:*:*:*
+  - cpe:2.3:a:sunhater:kcfinder:2.53:*:*:*:*:*:*:*
+  - cpe:2.3:a:sunhater:kcfinder:2.54:*:*:*:*:*:*:*
+  - cpe:2.3:a:sunhater:kcfinder:3.0:preview_1:*:*:*:*:*:*
+  - cpe:2.3:a:sunhater:kcfinder:3.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:sunhater:kcfinder:3.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:sunhater:kcfinder:3.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:sunhater:kcfinder:3.20:test1:*:*:*:*:*:*
+  - cpe:2.3:a:sunhater:kcfinder:3.20:test2:*:*:*:*:*:*
+  - cpe:2.3:a:sunhater:kcfinder:*:*:*:*:*:drupal:*:*

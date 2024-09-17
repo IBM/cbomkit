@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/ncurses
+  - pkg:deb/ubuntu/ncurses
+  - pkg:github/mitchelhaan/ncurses
+  - pkg:github/werehamster/ncurses
+  - pkg:gitlab/redhat/ncurses
+  - pkg:gnu/ncurses
+  - pkg:rpm/centos/ncurses
+  - pkg:rpm/fedora/ncurses
+  - pkg:rpm/opensuse/ncurses

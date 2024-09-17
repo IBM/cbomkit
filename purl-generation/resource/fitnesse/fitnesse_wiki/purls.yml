@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/unclebob/fitnesse
+  - pkg:maven/org.fitnesse/fitnesse

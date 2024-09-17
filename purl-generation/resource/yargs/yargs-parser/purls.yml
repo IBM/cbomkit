@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-yargs-parser
+  - pkg:deb/ubuntu/node-yargs-parser
+  - pkg:github/yargs/yargs-parser
+  - pkg:maven/org.webjars.npm/yargs-parser
+  - pkg:npm/yargs-parser
+  - pkg:rpm/fedora/nodejs-yargs-parser

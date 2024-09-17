@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/bareftp
+  - pkg:deb/ubuntu/bareftp
+  - pkg:github/pld-linux/bareftp
+  - pkg:rpm/fedora/bareftp
+  - pkg:rpm/opensuse/bareftp

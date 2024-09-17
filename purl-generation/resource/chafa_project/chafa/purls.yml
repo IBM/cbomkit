@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/chafa
+  - pkg:deb/ubuntu/chafa
+  - pkg:github/hpjansson/chafa
+  - pkg:rpm/fedora/chafa
+  - pkg:rpm/opensuse/chafa

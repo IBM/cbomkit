@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/silexlabs/silex
+  - pkg:github/silexlabs/silex
+  - pkg:sourceforge/silex

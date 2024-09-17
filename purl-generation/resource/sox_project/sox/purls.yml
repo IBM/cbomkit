@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/sox
+  - pkg:deb/ubuntu/sox
+  - pkg:github/chirlu/sox
+  - pkg:opensuse/sox
+  - pkg:rpm/fedora/sox
+  - pkg:sourceforge/sox

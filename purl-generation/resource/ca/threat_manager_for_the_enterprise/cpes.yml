@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:ca:threat_manager_for_the_enterprise:8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ca:threat_manager_for_the_enterprise:r8:*:*:*:*:*:*:*
+  - cpe:2.3:a:ca:threat_manager_for_the_enterprise:r8.1:*:*:*:*:*:*:*

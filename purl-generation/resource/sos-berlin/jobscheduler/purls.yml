@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/sosberlin/jobscheduler
+  - pkg:github/sos-berlin/all
+  - pkg:github/sos-berlin/scheduler-engine
+  - pkg:maven/com.sos-berlin/jobscheduler.engine
+  - pkg:sourceforge/jobscheduler

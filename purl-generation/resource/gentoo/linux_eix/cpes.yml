@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:gentoo:linux_eix:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:linux_eix:0.3:*:*:*:*:*:*:*

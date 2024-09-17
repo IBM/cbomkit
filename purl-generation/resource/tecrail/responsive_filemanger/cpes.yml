@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:tecrail:responsive_filemanger:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:tecrail:responsive_filemanger:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:tecrail:responsive_filemanger:9.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tecrail:responsive_filemanger:9.7.3:*:*:*:*:*:*:*

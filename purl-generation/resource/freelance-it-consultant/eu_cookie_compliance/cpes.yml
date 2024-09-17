@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:freelance-it-consultant:eu_cookie_compliance:7.x-1.0:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:freelance-it-consultant:eu_cookie_compliance:7.x-1.10:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:freelance-it-consultant:eu_cookie_compliance:7.x-1.11:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:freelance-it-consultant:eu_cookie_compliance:7.x-1.12:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:freelance-it-consultant:eu_cookie_compliance:7.x-1.1:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:freelance-it-consultant:eu_cookie_compliance:7.x-1.2:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:freelance-it-consultant:eu_cookie_compliance:7.x-1.6:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:freelance-it-consultant:eu_cookie_compliance:7.x-1.7:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:freelance-it-consultant:eu_cookie_compliance:7.x-1.8:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:freelance-it-consultant:eu_cookie_compliance:7.x-1.9:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:freelance-it-consultant:eu_cookie_compliance:7.x-1.x:dev:*:*:*:drupal:*:*

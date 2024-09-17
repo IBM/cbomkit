@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:eclipse:jakarta_expression_language:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:jakarta_expression_language:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:jakarta_expression_language:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:jakarta_expression_language:4.0.0:m1:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:jakarta_expression_language:4.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:jakarta_expression_language:4.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:jakarta_expression_language:4.0.1:*:*:*:*:*:*:*

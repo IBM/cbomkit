@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/mime-support
+  - pkg:deb/ubuntu/mime-support

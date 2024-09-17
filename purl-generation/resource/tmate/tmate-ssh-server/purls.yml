@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/tmate-ssh-server
+  - pkg:deb/ubuntu/tmate-ssh-server
+  - pkg:github/tmate-io/tmate-ssh-server
+  - pkg:rpm/opensuse/tmate-ssh-server

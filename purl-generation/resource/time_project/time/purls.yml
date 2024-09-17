@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-time
+  - pkg:deb/ubuntu/rust-time
+  - pkg:github/time-rs/time
+  - pkg:rpm/fedora/rust-time
+  - pkg:rpm/opensuse/rust-time

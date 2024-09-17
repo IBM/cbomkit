@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:cronic_project:cronic:1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cronic_project:cronic:2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cronic_project:cronic:3:*:*:*:*:*:*:*

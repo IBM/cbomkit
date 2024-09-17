@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:simple_ads_manager_project:simple_ads_manager:2.5.94:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_ads_manager_project:simple_ads_manager:2.5.96:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_ads_manager_project:simple_ads_manager:2.6.94:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_ads_manager_project:simple_ads_manager:2.9.8.125:*:*:*:*:wordpress:*:*

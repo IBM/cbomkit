@@ -1,0 +1,6 @@
+purls:
+  - pkg:apache/ambari
+  - pkg:github/apache/ambari
+  - pkg:maven/org.apache.activemq/ambari
+  - pkg:maven/org.apache.ambari/ambari
+  - pkg:rpm/fedora/ambari

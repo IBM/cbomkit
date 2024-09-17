@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/hapijs/hapi
+  - pkg:npm/hapi
+  - pkg:sourceforge/hapi.mirror

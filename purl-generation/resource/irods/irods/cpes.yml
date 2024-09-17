@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:irods:irods:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:irods:irods:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:irods:irods:4.1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:irods:irods:4.2.0:*:*:*:*:*:*:*

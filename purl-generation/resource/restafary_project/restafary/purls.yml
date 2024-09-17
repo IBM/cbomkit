@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/coderaiser/node-restafary
+  - pkg:npm/restafary

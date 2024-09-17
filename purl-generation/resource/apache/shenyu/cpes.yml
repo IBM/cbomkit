@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:apache:shenyu:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:shenyu:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:shenyu:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:shenyu:1.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:shenyu:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:shenyu:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:shenyu:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:shenyu:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:shenyu:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:shenyu:2.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:shenyu:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:shenyu:2.5.1:*:*:*:*:*:*:*

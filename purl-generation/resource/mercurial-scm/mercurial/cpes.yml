@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:mercurial-scm:mercurial:3.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mercurial-scm:mercurial:3.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mercurial-scm:mercurial:3.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mercurial-scm:mercurial:4.1.2:*:*:*:*:*:*:*

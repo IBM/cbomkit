@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:strawberryperl:strawberryperl:5.32.1.1:*:*:*:*:perl:*:*
+  - cpe:2.3:a:strawberryperl:strawberryperl:*:*:*:*:*:perl:*:*
+  - cpe:2.3:a:strawberryperl:strawberryperl:-:*:*:*:*:perl:*:*

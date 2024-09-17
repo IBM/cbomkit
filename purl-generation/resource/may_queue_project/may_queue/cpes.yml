@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:may_queue_project:may_queue:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:may_queue_project:may_queue:0.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:may_queue_project:may_queue:0.1.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:may_queue_project:may_queue:0.1.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:may_queue_project:may_queue:0.1.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:may_queue_project:may_queue:0.1.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:may_queue_project:may_queue:0.1.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:may_queue_project:may_queue:0.1.7:*:*:*:*:rust:*:*
+  - cpe:2.3:a:may_queue_project:may_queue:-:*:*:*:*:rust:*:*

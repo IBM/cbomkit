@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:config_lib_project:config_lib:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:config_lib_project:config_lib:1.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:config_lib_project:config_lib:1.0.9:*:*:*:*:*:*:*

@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:promptworks:redcloth:4.0.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:promptworks:redcloth:4.0.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:promptworks:redcloth:4.0.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:promptworks:redcloth:4.0.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:promptworks:redcloth:4.0.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:promptworks:redcloth:4.1.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:promptworks:redcloth:4.1.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:promptworks:redcloth:4.1.9:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:promptworks:redcloth:4.2.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:promptworks:redcloth:4.2.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:promptworks:redcloth:4.2.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:promptworks:redcloth:4.2.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:promptworks:redcloth:4.2.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:promptworks:redcloth:4.2.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:promptworks:redcloth:4.2.6:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:promptworks:redcloth:4.2.7:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:promptworks:redcloth:4.2.8:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:promptworks:redcloth:4.2.9:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:promptworks:redcloth:4.3.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:promptworks:redcloth:4.3.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:promptworks:redcloth:4.3.2:*:*:*:*:ruby:*:*

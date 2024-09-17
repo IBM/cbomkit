@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libid3tag
+  - pkg:deb/ubuntu/libid3tag
+  - pkg:github/tenacityteam/libid3tag
+  - pkg:rpm/centos/libid3tag
+  - pkg:rpm/fedora/libid3tag
+  - pkg:rpm/opensuse/libid3tag
+  - pkg:sourceforge/mad

@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:clickdesk:clickdesk:0.9:alpha:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clickdesk:clickdesk:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clickdesk:clickdesk:3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clickdesk:clickdesk:3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clickdesk:clickdesk:3.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clickdesk:clickdesk:3.2:alpha:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clickdesk:clickdesk:3.2:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clickdesk:clickdesk:3.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clickdesk:clickdesk:3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clickdesk:clickdesk:3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clickdesk:clickdesk:3.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clickdesk:clickdesk:3.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clickdesk:clickdesk:3.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clickdesk:clickdesk:4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clickdesk:clickdesk:4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clickdesk:clickdesk:4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clickdesk:clickdesk:4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clickdesk:clickdesk:4.4:*:*:*:*:wordpress:*:*

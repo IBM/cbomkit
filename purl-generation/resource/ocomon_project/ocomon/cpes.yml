@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:ocomon_project:ocomon:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocomon_project:ocomon:3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocomon_project:ocomon:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocomon_project:ocomon:4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:ocomon_project:ocomon:4.0:rc1:*:*:*:*:*:*

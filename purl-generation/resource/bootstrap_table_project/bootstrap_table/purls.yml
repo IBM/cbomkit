@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/wenzhixin/bootstrap-table
+  - pkg:maven/org.webjars.bower/bootstrap-table
+  - pkg:maven/org.webjars.bowergithub.wenzhixin/bootstrap-table
+  - pkg:maven/org.webjars.npm/bootstrap-table
+  - pkg:npm/bootstrap-table

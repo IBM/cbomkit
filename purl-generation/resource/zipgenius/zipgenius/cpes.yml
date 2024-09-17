@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:zipgenius:zipgenius:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:zipgenius:zipgenius:6.3.1.2552:*:*:*:*:*:*:*
+  - cpe:2.3:a:zipgenius:zipgenius:standard_5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:zipgenius:zipgenius:standard_5.5.1.468:*:*:*:*:*:*:*
+  - cpe:2.3:a:zipgenius:zipgenius:suite_5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:zipgenius:zipgenius:suite_5.5.1.468:*:*:*:*:*:*:*

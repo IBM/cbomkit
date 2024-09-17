@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:openclinic_project:openclinic:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinic_project:openclinic:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinic_project:openclinic:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinic_project:openclinic:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinic_project:openclinic:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinic_project:openclinic:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinic_project:openclinic:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinic_project:openclinic:0.7.20040812:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinic_project:openclinic:0.7.20041105:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinic_project:openclinic:0.7.20041207:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinic_project:openclinic:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinic_project:openclinic:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinic_project:openclinic:0.8.20061013:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinic_project:openclinic:0.8.20071028:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinic_project:openclinic:0.8.20071029:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinic_project:openclinic:0.8.20071106:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinic_project:openclinic:0.8.20080528:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinic_project:openclinic:0.8.20130107:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinic_project:openclinic:0.8.20130912:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinic_project:openclinic:0.8.20160412:*:*:*:*:*:*:*

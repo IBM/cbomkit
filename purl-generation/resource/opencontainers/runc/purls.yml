@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/opencontainers/runc
+  - pkg:golang/github.com/opencontainers/runc

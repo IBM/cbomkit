@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/aiko-it-systems/discatsharp
+  - pkg:nuget/DisCatSharp

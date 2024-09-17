@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:libgd:gd_graphics_library:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:libgd:gd_graphics_library:2.0.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:libgd:gd_graphics_library:2.0.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:libgd:gd_graphics_library:2.0.34:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:libgd:gd_graphics_library:2.0.34:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:libgd:gd_graphics_library:2.0.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:libgd:gd_graphics_library:2.0.35:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:libgd:gd_graphics_library:2.0.35:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:libgd:gd_graphics_library:2.0.35:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:libgd:gd_graphics_library:2.0.35:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:libgd:gd_graphics_library:2.0.35:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:libgd:gd_graphics_library:2.0.36:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:libgd:gd_graphics_library:*:rc5:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/godot
+  - pkg:deb/ubuntu/godot
+  - pkg:github/godotengine/godot
+  - pkg:gitlab/sthagen/godot
+  - pkg:rpm/fedora/godot
+  - pkg:sourceforge/godot-engine.mirror

@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:gerapy:gerapy:0.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.8.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.8.4:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.8.5:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.9.10:-:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.9.10:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.9.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.9.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.9.3:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.9.3:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.9.3:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.9.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.9.6:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.9.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.9.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:gerapy:gerapy:0.9.9:*:*:*:*:*:*:*

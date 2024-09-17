@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/llooiicc/sonar-wrapper
+  - pkg:npm/sonar-wrapper

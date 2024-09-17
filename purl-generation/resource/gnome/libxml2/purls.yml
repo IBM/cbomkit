@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/gnome/libxml2
+  - pkg:gitlab/gnome/libxml2
+  - pkg:gnome/libxml2
+  - pkg:golang/github.com/gnome/libxml2

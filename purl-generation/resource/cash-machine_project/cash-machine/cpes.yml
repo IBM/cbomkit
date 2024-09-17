@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:cash-machine_project:cash-machine:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:cash-machine_project:cash-machine:-:*:*:*:*:*:*:*

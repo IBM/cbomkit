@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/ident2
+  - pkg:deb/ubuntu/ident2
+  - pkg:github/mbacarella/ident2
+  - pkg:sourceforge/ident2

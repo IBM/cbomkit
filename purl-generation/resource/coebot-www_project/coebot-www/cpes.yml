@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:coebot-www_project:coebot-www:*:*:*:*:*:coebot:*:*
+  - cpe:2.3:a:coebot-www_project:coebot-www:-:*:*:*:*:coebot:*:*

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:mysiteforme_project:mysiteforme:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysiteforme_project:mysiteforme:2.2.1:*:*:*:*:*:*:*

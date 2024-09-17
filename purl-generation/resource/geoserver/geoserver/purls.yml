@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/geoserver/geoserver
+  - pkg:maven/org.geoserver/geoserver
+  - pkg:rpm/opensuse/geoserver
+  - pkg:sourceforge/geoserver

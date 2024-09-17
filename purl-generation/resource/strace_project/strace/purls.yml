@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/strace
+  - pkg:deb/ubuntu/strace
+  - pkg:docker/stracefree/strace
+  - pkg:github/strace/strace
+  - pkg:gitlab/redhat/strace
+  - pkg:rpm/centos/strace
+  - pkg:rpm/fedora/strace
+  - pkg:rpm/opensuse/strace
+  - pkg:sourceforge/strace

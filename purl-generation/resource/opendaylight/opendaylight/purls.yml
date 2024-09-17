@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/opendaylight/odl
+  - pkg:github/opendaylight/odlparent
+  - pkg:maven/org.opendaylight.controller/opendaylight-karaf-resources
+  - pkg:maven/org.opendaylight.integration/opendaylight
+  - pkg:rpm/opensuse/opendaylight

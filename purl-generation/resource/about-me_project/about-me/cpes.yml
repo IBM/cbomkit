@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:about-me_project:about-me:1.0.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:about-me_project:about-me:-:*:*:*:*:wordpress:*:*

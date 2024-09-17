@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sveltejs/kit
+  - pkg:npm/%40sveltejs/kit

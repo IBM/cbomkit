@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/opencontainers/umoci
+  - pkg:golang/github.com/opencontainers/umoci

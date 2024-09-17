@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:peiserver_project:peiserver:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:peiserver_project:peiserver:-:*:*:*:*:node.js:*:*

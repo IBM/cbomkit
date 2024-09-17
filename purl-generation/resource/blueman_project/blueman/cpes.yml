@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:blueman_project:blueman:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:blueman_project:blueman:1.99:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:blueman_project:blueman:1.99:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:blueman_project:blueman:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:blueman_project:blueman:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:blueman_project:blueman:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:blueman_project:blueman:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:blueman_project:blueman:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:blueman_project:blueman:2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:blueman_project:blueman:2.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:blueman_project:blueman:2.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:blueman_project:blueman:2.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:blueman_project:blueman:2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:blueman_project:blueman:2.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:blueman_project:blueman:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:blueman_project:blueman:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:blueman_project:blueman:2.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:blueman_project:blueman:2.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:blueman_project:blueman:2.1:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:blueman_project:blueman:2.1:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:blueman_project:blueman:2.1:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:blueman_project:blueman:2.1:beta1:*:*:*:*:*:*

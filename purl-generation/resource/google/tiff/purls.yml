@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/google/tiff
+  - pkg:golang/github.com/google/tiff

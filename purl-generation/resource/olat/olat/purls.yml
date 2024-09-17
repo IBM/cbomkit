@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/olatorg/jamwiki-core/
+  - pkg:github/olatsystems/openolat
+  - pkg:maven/org.olat.jamwiki/jamwiki-core

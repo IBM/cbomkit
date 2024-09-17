@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/squashtest/squashtest-tm
+  - pkg:github/flzara/squash-tm
+  - pkg:github/Koulio/squashtest-tm
+  - pkg:github/squashtest-shadow/squashtest-tm

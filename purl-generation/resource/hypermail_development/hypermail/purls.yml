@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/hypermail-project/hypermail
+  - pkg:rpm/opensuse/hypermail
+  - pkg:sourceforge/hypermail

@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/python-urllib3
+  - pkg:deb/ubuntu/python-urllib3
+  - pkg:github/urllib3/urllib3
+  - pkg:gitlab/kalilinux/python-urllib3
+  - pkg:gitlab/redhat/python-urllib3
+  - pkg:pypi/urllib3
+  - pkg:rpm/centos/python-urllib3
+  - pkg:rpm/fedora/python-urllib3
+  - pkg:rpm/opensuse/python-urllib3

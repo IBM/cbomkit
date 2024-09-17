@@ -1,0 +1,10 @@
+purls:
+  - pkg:bitbucket/rkraevskiy/slim
+  - pkg:deb/debian/slim
+  - pkg:deb/ubuntu/slim
+  - pkg:github/iwamatsu/slim
+  - pkg:github/nmikhailov/slim
+  - pkg:github/yars068/slim
+  - pkg:rpm/fedora/slim
+  - pkg:rpm/opensuse/slim
+  - pkg:sourceforge/slim.berlios

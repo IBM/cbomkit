@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/hoppscotch/hoppscotch
+  - pkg:github/hoppscotch/hoppscotch
+  - pkg:golang/github.com/hoppscotch/hoppscotch
+  - pkg:npm/hoppscotch

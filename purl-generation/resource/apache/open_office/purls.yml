@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/openoffice
+  - pkg:github/apache/openoffice
+  - pkg:sourceforge/openoffice

@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/jaya_tiwari/libxcb
+  - pkg:deb/debian/libxcb
+  - pkg:deb/ubuntu/libxcb
+  - pkg:github/neverware-mirrors/libxcb
+  - pkg:rpm/centos/libxcb
+  - pkg:rpm/fedora/libxcb
+  - pkg:rpm/opensuse/libxcb

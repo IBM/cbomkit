@@ -1,0 +1,8 @@
+purls:
+  - pkg:github/cky/guile
+  - pkg:github/distrotech/guile
+  - pkg:gitlab/redhat/guile
+  - pkg:gnu/guile
+  - pkg:rpm/centos/guile
+  - pkg:rpm/fedora/guile
+  - pkg:rpm/opensuse/guile

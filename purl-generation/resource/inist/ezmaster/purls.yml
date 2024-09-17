@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/inistcnrs/ezmaster
+  - pkg:github/inist-cnrs/ezmaster

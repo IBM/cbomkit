@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:oxilab:accordions:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:oxilab:accordions:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:oxilab:accordions:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:oxilab:accordions:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:oxilab:accordions:2.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:oxilab:accordions:2.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:oxilab:accordions:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:oxilab:accordions:2.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:oxilab:accordions:2.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:oxilab:accordions:2.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:oxilab:accordions:2.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:oxilab:accordions:2.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:oxilab:accordions:2.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:oxilab:accordions:2.3.0:*:*:*:*:wordpress:*:*

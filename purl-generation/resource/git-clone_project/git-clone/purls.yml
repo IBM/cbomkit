@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jaz303/git-clone
+  - pkg:npm/git-clone

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openedx/xblock-lti-consumer
+  - pkg:pypi/lti-consumer-xblock

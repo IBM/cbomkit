@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/autonomiq/jenkinsplugin
+  - pkg:github/jenkinsci/autonomiq-plugin

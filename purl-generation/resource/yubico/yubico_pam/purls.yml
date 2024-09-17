@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/yubico/yubico-pam
+  - pkg:rpm/fedora/pam_yubico
+  - pkg:rpm/opensuse/pam_yubico

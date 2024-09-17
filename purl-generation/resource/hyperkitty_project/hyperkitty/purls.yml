@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/hyperkitty
+  - pkg:deb/ubuntu/hyperkitty
+  - pkg:github/hyperkitty/hyperkitty
+  - pkg:github/michael-lazar/hyperkitty
+  - pkg:gitlab/mailman/hyperkitty
+  - pkg:pypi/hyperkitty
+  - pkg:rpm/fedora/python-hyperkitty
+  - pkg:rpm/opensuse/python-hyperkitty

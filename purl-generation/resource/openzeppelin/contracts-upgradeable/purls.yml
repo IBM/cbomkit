@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/openzeppelin/openzeppelin-contracts-upgradeable
+  - pkg:maven/org.webjars.npm/openzeppelin__contracts-upgradeable
+  - pkg:npm/%40openzeppelin/contracts-upgradeable

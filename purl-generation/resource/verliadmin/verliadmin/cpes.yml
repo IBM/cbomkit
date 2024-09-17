@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:verliadmin:verliadmin:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:verliadmin:verliadmin:0.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:verliadmin:verliadmin:0.3.8:*:*:*:*:*:*:*

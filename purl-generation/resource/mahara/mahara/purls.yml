@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/maharaproject/mahara
+  - pkg:mahara/mahara/mahara

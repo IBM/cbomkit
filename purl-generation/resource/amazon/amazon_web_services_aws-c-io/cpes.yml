@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:amazon:amazon_web_services_aws-c-io:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_web_services_aws-c-io:0.10.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:amazon_web_services_aws-c-io:0.10.7:*:*:*:*:*:*:*

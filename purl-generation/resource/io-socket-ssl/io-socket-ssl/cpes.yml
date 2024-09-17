@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:io-socket-ssl:io-socket-ssl:1.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:io-socket-ssl:io-socket-ssl:1.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:io-socket-ssl:io-socket-ssl:1.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:io-socket-ssl:io-socket-ssl:1.16_1:*:*:*:*:*:*:*
+  - cpe:2.3:a:io-socket-ssl:io-socket-ssl:1.16_2:*:*:*:*:*:*:*
+  - cpe:2.3:a:io-socket-ssl:io-socket-ssl:1.16_3:*:*:*:*:*:*:*
+  - cpe:2.3:a:io-socket-ssl:io-socket-ssl:1.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:io-socket-ssl:io-socket-ssl:1.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:io-socket-ssl:io-socket-ssl:1.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:io-socket-ssl:io-socket-ssl:1.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:io-socket-ssl:io-socket-ssl:1.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:io-socket-ssl:io-socket-ssl:1.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:io-socket-ssl:io-socket-ssl:1.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:io-socket-ssl:io-socket-ssl:1.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:io-socket-ssl:io-socket-ssl:1.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:io-socket-ssl:io-socket-ssl:1.35:*:*:*:*:*:*:*

@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/libaio
+  - pkg:deb/ubuntu/libaio
+  - pkg:github/crossbuild/libaio
+  - pkg:github/neverware-mirrors/libaio
+  - pkg:github/yibit/libaio
+  - pkg:gitlab/redhat/libaio
+  - pkg:rpm/centos/libaio
+  - pkg:rpm/fedora/libaio
+  - pkg:rpm/opensuse/libaio

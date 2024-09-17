@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/open-xchange/appsuite-middleware
+  - pkg:npm/%40open-xchange/ui-middleware

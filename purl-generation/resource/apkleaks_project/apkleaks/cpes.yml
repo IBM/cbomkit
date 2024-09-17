@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:apkleaks_project:apkleaks:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:apkleaks_project:apkleaks:0.3.1:beta:*:*:*:*:*:*
+  - cpe:2.3:a:apkleaks_project:apkleaks:0.3.2:beta:*:*:*:*:*:*
+  - cpe:2.3:a:apkleaks_project:apkleaks:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apkleaks_project:apkleaks:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apkleaks_project:apkleaks:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apkleaks_project:apkleaks:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apkleaks_project:apkleaks:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apkleaks_project:apkleaks:2.0.3:*:*:*:*:*:*:*

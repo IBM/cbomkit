@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:o:opensuse:opensuse:-:*:*:*:*:*:*:*
+  - cpe:2.3:o:opensuse:opensuse:10.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:opensuse:opensuse:10.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:opensuse:opensuse:10.0:sp1:*:*:*:*:*:*
+  - cpe:2.3:o:opensuse:opensuse:10.2:*:*:*:*:*:*:*
+  - cpe:2.3:o:opensuse:opensuse:10.3:*:*:*:*:*:*:*
+  - cpe:2.3:o:opensuse:opensuse:10.3-11.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:opensuse:opensuse:11.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:opensuse:opensuse:11.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:opensuse:opensuse:11.2:*:*:*:*:*:*:*
+  - cpe:2.3:o:opensuse:opensuse:11.3:*:*:*:*:*:*:*
+  - cpe:2.3:o:opensuse:opensuse:11.4:*:*:*:*:*:*:*
+  - cpe:2.3:o:opensuse:opensuse:12.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:opensuse:opensuse:12.2:*:*:*:*:*:*:*
+  - cpe:2.3:o:opensuse:opensuse:12.3:*:*:*:*:*:*:*
+  - cpe:2.3:o:opensuse:opensuse:13.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:opensuse:opensuse:13.2:*:*:*:*:*:*:*
+  - cpe:2.3:o:opensuse:opensuse:2007.05.10:*:*:*:*:*:*:*
+  - cpe:2.3:o:opensuse:opensuse:2010.07.28:*:*:*:*:*:*:*

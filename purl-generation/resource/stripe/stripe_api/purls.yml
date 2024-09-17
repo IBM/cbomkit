@@ -1,0 +1,4 @@
+purls:
+  - pkg:cpan/net-api-stripe
+  - pkg:github/stripe/stripe-dotnet
+  - pkg:nuget/Stripe.net

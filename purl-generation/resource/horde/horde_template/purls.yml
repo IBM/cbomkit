@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-template
+  - pkg:deb/ubuntu/php-horde-template
+  - pkg:github/horde/template
+  - pkg:rpm/fedora/php-horde-horde-template

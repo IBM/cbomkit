@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/dbus-glib
+  - pkg:deb/ubuntu/dbus-glib
+  - pkg:github/freedesktop/dbus-glib
+  - pkg:gitlab/redhat/dbus-glib
+  - pkg:rpm/centos/dbus-glib
+  - pkg:rpm/fedora/dbus-glib
+  - pkg:rpm/opensuse/dbus-glib

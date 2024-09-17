@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/proxmox/proxmox-rs
+  - pkg:github/wofferl/proxmox-backup-arm64

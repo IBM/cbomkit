@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nbluis/static-server
+  - pkg:npm/static-server

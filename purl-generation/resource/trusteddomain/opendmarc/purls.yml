@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/opendmarc
+  - pkg:deb/ubuntu/opendmarc
+  - pkg:github/trusteddomainproject/opendmarc
+  - pkg:rpm/fedora/opendmarc
+  - pkg:rpm/opensuse/opendmarc
+  - pkg:sourceforge/opendmarc

@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/santuario
+  - pkg:github/apache/santuario-xml-security-java
+  - pkg:maven/org.apache.santuario/xmlsec

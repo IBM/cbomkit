@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libdaemon
+  - pkg:deb/ubuntu/libdaemon
+  - pkg:github/distrotech/libdaemon
+  - pkg:gitlab/redhat/libdaemon
+  - pkg:rpm/centos/libdaemon
+  - pkg:rpm/fedora/libdaemon
+  - pkg:rpm/opensuse/libdaemon

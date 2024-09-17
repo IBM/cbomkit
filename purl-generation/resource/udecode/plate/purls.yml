@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/udecode/plate
+  - pkg:npm/%40udecode/plate

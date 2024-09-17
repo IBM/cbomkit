@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:roar-pidusage_project:roar-pidusage:1.1.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:roar-pidusage_project:roar-pidusage:1.1.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:roar-pidusage_project:roar-pidusage:1.1.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:roar-pidusage_project:roar-pidusage:1.1.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:roar-pidusage_project:roar-pidusage:-:*:*:*:*:node.js:*:*

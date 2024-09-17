@@ -1,0 +1,6 @@
+purls:
+  - pkg:apache/myfaces
+  - pkg:github/apache/myfaces
+  - pkg:maven/org.apache.myfaces/myfaces
+  - pkg:rpm/opensuse/myfaces
+  - pkg:sourceforge/myfaces

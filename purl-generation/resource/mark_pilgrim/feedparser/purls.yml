@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/feedparser
+  - pkg:deb/ubuntu/feedparser
+  - pkg:github/kurtmckee/feedparser
+  - pkg:pypi/feedparser
+  - pkg:rpm/fedora/python-feedparser
+  - pkg:rpm/opensuse/python-feedparser

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/notary
+  - pkg:deb/ubuntu/notary
+  - pkg:docker/susescc/notary
+  - pkg:github/notaryproject/notary
+  - pkg:rpm/fedora/golang-github-theupdateframework-notary
+  - pkg:rpm/opensuse/notary

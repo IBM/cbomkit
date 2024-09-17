@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:sheetjs_project:sheetjs:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:sheetjs_project:sheetjs:*:*:*:*:*:node.js:*:*

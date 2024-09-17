@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/uim
+  - pkg:deb/ubuntu/uim
+  - pkg:deb/ubuntu/uima-as
+  - pkg:github/uim/uim
+  - pkg:rpm/fedora/uim
+  - pkg:rpm/opensuse/uim

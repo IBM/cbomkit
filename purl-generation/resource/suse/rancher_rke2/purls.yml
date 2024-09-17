@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/rancher/rke2-runtime
+  - pkg:github/suse/manager-rancher-auto

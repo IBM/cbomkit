@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:jenkins:file_system_scm:0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:file_system_scm:1.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:file_system_scm:1.20:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:file_system_scm:1.21:alpha1:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:file_system_scm:1.21:alpha2:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:file_system_scm:1.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:file_system_scm:1.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:file_system_scm:1.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:file_system_scm:1.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:file_system_scm:1.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:file_system_scm:2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:file_system_scm:2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:file_system_scm:-:*:*:*:*:jenkins:*:*

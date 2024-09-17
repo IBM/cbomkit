@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/pomerium/pomerium
+  - pkg:github/pomerium/pomerium

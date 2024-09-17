@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/xserver-xorg-core
+  - pkg:deb/ubuntu/xserver-xorg-core
+  - pkg:freedesktop/xorg/xserver
+  - pkg:github/freedesktop/xorg-xserver
+  - pkg:rpm/fedora/xorg-x11-server

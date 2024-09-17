@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/icoutils
+  - pkg:deb/ubuntu/icoutils
+  - pkg:github/alvinhochun/icoutils
+  - pkg:github/dima424658/icoutils
+  - pkg:github/zmatsuo/icoutils
+  - pkg:gitlab/redhat/icoutils
+  - pkg:gnu/icoutils
+  - pkg:rpm/centos/icoutils
+  - pkg:rpm/fedora/icoutils
+  - pkg:rpm/opensuse/icoutils

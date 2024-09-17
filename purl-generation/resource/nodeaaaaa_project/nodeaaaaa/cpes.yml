@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:nodeaaaaa_project:nodeaaaaa:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodeaaaaa_project:nodeaaaaa:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodeaaaaa_project:nodeaaaaa:1.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodeaaaaa_project:nodeaaaaa:1.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodeaaaaa_project:nodeaaaaa:1.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodeaaaaa_project:nodeaaaaa:1.2.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nodeaaaaa_project:nodeaaaaa:1.3.0:*:*:*:*:node.js:*:*

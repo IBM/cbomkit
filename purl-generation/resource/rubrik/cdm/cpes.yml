@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:rubrik:cdm:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rubrik:cdm:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rubrik:cdm:4.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rubrik:cdm:4.0.4:p1:*:*:*:*:*:*
+  - cpe:2.3:a:rubrik:cdm:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rubrik:cdm:5.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rubrik:cdm:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rubrik:cdm:5.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rubrik:cdm:7.0.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:rubrik:cdm:7.0.1:p1:*:*:*:*:*:*
+  - cpe:2.3:a:rubrik:cdm:7.0.1:p2:*:*:*:*:*:*
+  - cpe:2.3:a:rubrik:cdm:7.0.1:p3:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/ubuntu/apport
+  - pkg:github/rickysarraf-notmine/apport

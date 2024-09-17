@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/gkrellm
+  - pkg:deb/ubuntu/gkrellm
+  - pkg:github/pete4abw/gkrellm
+  - pkg:rpm/fedora/gkrellm
+  - pkg:rpm/opensuse/gkrellm
+  - pkg:sourceforge/php-gkrellm

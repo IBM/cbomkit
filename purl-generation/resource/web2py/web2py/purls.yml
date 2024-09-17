@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/web2py/web2py
+  - pkg:pypi/web2py

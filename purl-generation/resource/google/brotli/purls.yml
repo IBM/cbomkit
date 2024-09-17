@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/brotli
+  - pkg:deb/ubuntu/brotli
+  - pkg:github/google/brotli
+  - pkg:googlesource/brotli
+  - pkg:rpm/centos/brotli
+  - pkg:rpm/fedora/brotli
+  - pkg:rpm/opensuse/brotli
+  - pkg:sourceforge/brotli.mirror

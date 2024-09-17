@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/backdrop/backdrop
+  - pkg:golang/github.com/backdrop/backdrop
+  - pkg:sourceforge/backdrop-cms.mirror

@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:smoothiecharts:smoothie_charts:1.31.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:smoothiecharts:smoothie_charts:1.32.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:smoothiecharts:smoothie_charts:1.33.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:smoothiecharts:smoothie_charts:1.34.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:smoothiecharts:smoothie_charts:1.35.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:smoothiecharts:smoothie_charts:*:*:*:*:*:node.js:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/oauthjs/node-oauth2-server
+  - pkg:npm/oauth2-server

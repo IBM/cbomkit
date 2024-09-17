@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/borgbackup
+  - pkg:deb/ubuntu/borgbackup
+  - pkg:github/borgbackup/borg
+  - pkg:pypi/borgbackup
+  - pkg:rpm/fedora/borgbackup
+  - pkg:rpm/opensuse/borgbackup

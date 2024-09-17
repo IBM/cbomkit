@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/timschofield/weberp-svn
+  - pkg:github/weberp-team/weberp
+  - pkg:sourceforge/web-erp

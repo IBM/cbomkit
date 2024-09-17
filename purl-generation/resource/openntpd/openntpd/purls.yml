@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/ubuntu/openntpd
+  - pkg:github/openntpd-portable/openntpd-openbsd
+  - pkg:github/openntpd-portable/openntpd-portable
+  - pkg:rpm/opensuse/openntpd

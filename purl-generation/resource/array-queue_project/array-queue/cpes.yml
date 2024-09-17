@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:array-queue_project:array-queue:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:array-queue_project:array-queue:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:array-queue_project:array-queue:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:array-queue_project:array-queue:0.3.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:array-queue_project:array-queue:0.3.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:array-queue_project:array-queue:0.3.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:array-queue_project:array-queue:2020-09-26:*:*:*:*:rust:*:*
+  - cpe:2.3:a:array-queue_project:array-queue:-:*:*:*:*:rust:*:*

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/julia
+  - pkg:deb/ubuntu/julia
+  - pkg:docker/julia
+  - pkg:github/julialang/julia
+  - pkg:rpm/fedora/julia
+  - pkg:rpm/opensuse/julia
+  - pkg:sourceforge/julia.mirror

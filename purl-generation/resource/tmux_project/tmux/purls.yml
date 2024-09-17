@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/tmux
+  - pkg:deb/ubuntu/tmux
+  - pkg:github/tmux/tmux
+  - pkg:gitlab/redhat/tmux
+  - pkg:rpm/centos/tmux
+  - pkg:rpm/fedora/tmux
+  - pkg:rpm/opensuse/tmux
+  - pkg:sourceforge/tmux.mirror

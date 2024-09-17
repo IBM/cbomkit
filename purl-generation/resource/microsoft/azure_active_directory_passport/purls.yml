@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/azuread/microsoft-authentication-library-for-js
+  - pkg:github/azuread/passport-azure-ad
+  - pkg:npm/passport-azure-ad

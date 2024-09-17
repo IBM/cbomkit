@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:webtechideas:wti_like_post:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webtechideas:wti_like_post:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webtechideas:wti_like_post:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webtechideas:wti_like_post:1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webtechideas:wti_like_post:1.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webtechideas:wti_like_post:1.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webtechideas:wti_like_post:1.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webtechideas:wti_like_post:1.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webtechideas:wti_like_post:1.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webtechideas:wti_like_post:1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webtechideas:wti_like_post:-:*:*:*:*:wordpress:*:*

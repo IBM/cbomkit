@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/riaevangelist/node-ipc
+  - pkg:npm/node-ipc

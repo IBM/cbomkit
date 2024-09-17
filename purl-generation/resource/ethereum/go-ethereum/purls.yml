@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ethereum/go-ethereum
+  - pkg:golang/github.com/ethereum/go-ethereum

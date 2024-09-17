@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/ubuntu/dxflib
+  - pkg:github/clothbot/dxflib
+  - pkg:github/rena0157/dxflib
+  - pkg:nuget/Dxflib
+  - pkg:rpm/fedora/libdxflib
+  - pkg:rpm/opensuse/dxflib
+  - pkg:sourceforge/dxflib

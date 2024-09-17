@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:nagios:business_process_intelligence:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nagios:business_process_intelligence:2.3.4:*:*:*:*:*:*:*

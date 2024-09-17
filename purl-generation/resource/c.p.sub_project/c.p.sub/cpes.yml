@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:c.p.sub_project:c.p.sub:5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:c.p.sub_project:c.p.sub:5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:c.p.sub_project:c.p.sub:5.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:c.p.sub_project:c.p.sub:5.3:*:*:*:*:*:*:*

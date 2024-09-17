@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:roundcube:roundcube_webmail:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:roundcube:roundcube_webmail:1.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:roundcube:roundcube_webmail:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:roundcube:roundcube_webmail:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:roundcube:roundcube_webmail:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:roundcube:roundcube_webmail:1.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:roundcube:roundcube_webmail:1.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:roundcube:roundcube_webmail:1.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:roundcube:roundcube_webmail:1.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:roundcube:roundcube_webmail:1.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:roundcube:roundcube_webmail:1.2:beta:*:*:*:*:*:*
+  - cpe:2.3:a:roundcube:roundcube_webmail:1.2:rc:*:*:*:*:*:*

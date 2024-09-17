@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:intel:in-band_manageability:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:intel:in-band_manageability:2.13.0:*:*:*:*:*:*:*

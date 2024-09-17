@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/libvips/libvips
+  - pkg:sourceforge/libvips.mirror

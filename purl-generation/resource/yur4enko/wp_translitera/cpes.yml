@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:yur4enko:wp_translitera:1.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yur4enko:wp_translitera:*:*:*:*:*:wordpress:*:*

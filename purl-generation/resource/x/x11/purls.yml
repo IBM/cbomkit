@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libx11
+  - pkg:deb/ubuntu/libx11
+  - pkg:github/freedesktop/xorg-libx11
+  - pkg:gitlab/redhat/libx11
+  - pkg:rpm/fedora/libx11

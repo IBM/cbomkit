@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:gnome:libgrss:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libgrss:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libgrss:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libgrss:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libgrss:0.7.0:*:*:*:*:*:*:*

@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:musl-libc:musl_libc:*:*:*:*:*:*:*:*

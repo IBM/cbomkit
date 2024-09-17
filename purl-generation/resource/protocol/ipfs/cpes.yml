@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:protocol:ipfs:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:protocol:ipfs:0.4.23:*:*:*:*:*:*:*

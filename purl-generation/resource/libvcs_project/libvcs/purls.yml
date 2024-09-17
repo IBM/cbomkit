@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/vcs-python/libvcs
+  - pkg:pypi/libvcs

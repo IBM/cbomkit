@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/electerm/electerm
+  - pkg:npm/%40electerm/electerm-bg

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/charleskorn/kaml
+  - pkg:maven/com.charleskorn.kaml/kaml

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/spakin/netpbm
+  - pkg:golang/github.com/spakin/netpbm

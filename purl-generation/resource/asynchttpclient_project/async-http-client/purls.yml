@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/async-http-client
+  - pkg:github/asynchttpclient/async-http-client
+  - pkg:maven/org.asynchttpclient/async-http-client-project

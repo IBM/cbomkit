@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:chameleon_css_project:chameleon_css:0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:chameleon_css_project:chameleon_css:0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:chameleon_css_project:chameleon_css:0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:chameleon_css_project:chameleon_css:0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:chameleon_css_project:chameleon_css:0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:chameleon_css_project:chameleon_css:0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:chameleon_css_project:chameleon_css:0.7:beta:*:*:*:wordpress:*:*
+  - cpe:2.3:a:chameleon_css_project:chameleon_css:0.7:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:chameleon_css_project:chameleon_css:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:chameleon_css_project:chameleon_css:1.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:chameleon_css_project:chameleon_css:1.1:alpha:*:*:*:wordpress:*:*
+  - cpe:2.3:a:chameleon_css_project:chameleon_css:1.1:beta:*:*:*:wordpress:*:*
+  - cpe:2.3:a:chameleon_css_project:chameleon_css:1.1:-:*:*:*:wordpress:*:*
+  - cpe:2.3:a:chameleon_css_project:chameleon_css:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:chameleon_css_project:chameleon_css:-:*:*:*:*:wordpress:*:*

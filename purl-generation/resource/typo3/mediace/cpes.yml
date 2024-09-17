@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:typo3:mediace:7.6.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:typo3:mediace:7.6.2:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:typo3:mediace:7.6.3:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:typo3:mediace:7.6.4:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:typo3:mediace:7.6.5:*:*:*:*:typo3:*:*

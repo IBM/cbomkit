@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/probot/probot
+  - pkg:npm/probot

@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/phenonymous/lxdui
+  - pkg:github/adaptivescale/lxdui
+  - pkg:golang/github.com/adaptivescale/lxdui
+  - pkg:pypi/lxdui

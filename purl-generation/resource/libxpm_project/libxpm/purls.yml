@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libxpm
+  - pkg:deb/ubuntu/libxpm
+  - pkg:github/winlibs/libxpm
+  - pkg:rpm/centos/libxpm
+  - pkg:rpm/fedora/libxpm
+  - pkg:rpm/opensuse/libxpm

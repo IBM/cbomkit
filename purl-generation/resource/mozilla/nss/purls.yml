@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/nss-dev/nss
+  - pkg:gitlab/redhat/nss
+  - pkg:rpm/centos/nss
+  - pkg:rpm/fedora/nss
+  - pkg:rpm/opensuse/nss

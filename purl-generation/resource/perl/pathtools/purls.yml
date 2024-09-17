@@ -1,0 +1,6 @@
+purls:
+  - pkg:cpan/pathtools
+  - pkg:github/tsee/pathtools
+  - pkg:gitlab/redhat/perl-pathtools
+  - pkg:rpm/fedora/perl-pathtools
+  - pkg:rpm/opensuse/perl-pathtools

@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/openstack-compute
+  - pkg:rpm/opensuse/perl-net-openstack-compute

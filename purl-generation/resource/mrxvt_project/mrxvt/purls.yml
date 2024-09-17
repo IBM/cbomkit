@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/mrxvt
+  - pkg:github/razvanm/mrxvt
+  - pkg:rpm/fedora/mrxvt
+  - pkg:sourceforge/materm

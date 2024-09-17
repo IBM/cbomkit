@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jnqnfe/pulse-binding-rust
+  - pkg:rpm/fedora/rust-libpulse-binding
+  - pkg:rpm/opensuse/rust-libpulse-binding

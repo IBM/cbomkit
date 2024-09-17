@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/pypiserver/pypiserver
+  - pkg:github/pypiserver/pypiserver
+  - pkg:pypi/pypiserver
+  - pkg:rpm/opensuse/python-pypiserver

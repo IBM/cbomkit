@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/huggingface/transformers
+  - pkg:pypi/transformers

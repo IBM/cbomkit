@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:flask-yeoman_project:flask-yeoman:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:flask-yeoman_project:flask-yeoman:2013-09-13:*:*:*:*:*:*:*

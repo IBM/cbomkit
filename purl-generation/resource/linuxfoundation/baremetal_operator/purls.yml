@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/metal3-io/baremetal-operator
+  - pkg:golang/github.com/metal3-io/baremetal-operator

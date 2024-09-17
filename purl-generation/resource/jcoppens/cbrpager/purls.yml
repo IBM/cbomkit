@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/cbrpager
+  - pkg:rpm/fedora/cbrpager
+  - pkg:sourceforge/cbrpager

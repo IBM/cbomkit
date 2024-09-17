@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/cgmanager
+  - pkg:github/lxc/cgmanager
+  - pkg:rpm/opensuse/cgmanager

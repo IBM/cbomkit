@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:dompdf_project:dompdf:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:0.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:0.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:0.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:0.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:0.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:0.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:0.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dompdf_project:dompdf:2.0.3:*:*:*:*:*:*:*

@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:static-resource-server_project:static-resource-server:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:static-resource-server_project:static-resource-server:1.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:static-resource-server_project:static-resource-server:1.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:static-resource-server_project:static-resource-server:1.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:static-resource-server_project:static-resource-server:1.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:static-resource-server_project:static-resource-server:1.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:static-resource-server_project:static-resource-server:1.6.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:static-resource-server_project:static-resource-server:1.6.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:static-resource-server_project:static-resource-server:1.7.2:*:*:*:*:node.js:*:*

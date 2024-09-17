@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/aircrack-ng
+  - pkg:deb/ubuntu/aircrack-ng
+  - pkg:github/aircrack-ng/aircrack-ng
+  - pkg:gitlab/kalilinux/aircrack-ng
+  - pkg:rpm/fedora/aircrack-ng
+  - pkg:rpm/opensuse/aircrack-ng

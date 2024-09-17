@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/alexcrack/angular-ui-notification
+  - pkg:npm/angular-ui-notification

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tacocode/wp-attachment-export
+  - pkg:github/wp-plugins/wp-attachment-export

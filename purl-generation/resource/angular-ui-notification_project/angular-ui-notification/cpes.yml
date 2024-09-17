@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:angular-ui-notification_project:angular-ui-notification:0.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:angular-ui-notification_project:angular-ui-notification:0.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:angular-ui-notification_project:angular-ui-notification:0.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:angular-ui-notification_project:angular-ui-notification:0.0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:angular-ui-notification_project:angular-ui-notification:0.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:angular-ui-notification_project:angular-ui-notification:0.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:angular-ui-notification_project:angular-ui-notification:0.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:angular-ui-notification_project:angular-ui-notification:0.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:angular-ui-notification_project:angular-ui-notification:0.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:angular-ui-notification_project:angular-ui-notification:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:angular-ui-notification_project:angular-ui-notification:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:angular-ui-notification_project:angular-ui-notification:0.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:angular-ui-notification_project:angular-ui-notification:0.3.6:*:*:*:*:*:*:*

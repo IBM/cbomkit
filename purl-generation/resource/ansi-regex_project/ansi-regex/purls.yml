@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-ansi-regex
+  - pkg:deb/ubuntu/node-ansi-regex
+  - pkg:github/chalk/ansi-regex
+  - pkg:maven/org.webjars.npm/ansi-regex
+  - pkg:npm/ansi-regex

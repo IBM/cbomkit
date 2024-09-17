@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/neocotic/convert-svg
+  - pkg:github/sarasioux/convert-svg-core
+  - pkg:npm/convert-svg-core

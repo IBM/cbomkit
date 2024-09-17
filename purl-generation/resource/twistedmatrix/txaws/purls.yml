@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/twisted/txaws
+  - pkg:pypi/txaws

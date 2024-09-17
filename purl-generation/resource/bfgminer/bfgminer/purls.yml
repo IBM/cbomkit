@@ -1,0 +1,10 @@
+purls:
+  - pkg:bitbucket/cyanbort/bfgminer
+  - pkg:bitbucket/dffppinto/bfgminer
+  - pkg:deb/ubuntu/bfgminer
+  - pkg:docker/wernight/bfgminer
+  - pkg:github/asosgaming/bfgminer
+  - pkg:github/luke-jr/bfgminer
+  - pkg:gnu/bfgminer
+  - pkg:rpm/opensuse/bfgminer
+  - pkg:sourceforge/bfgminer

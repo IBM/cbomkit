@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:sitebridge:joruri_gw:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:sitebridge:joruri_gw:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:sitebridge:joruri_gw:3.2.5:*:*:*:*:*:*:*

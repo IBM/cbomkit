@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/tenshi
+  - pkg:deb/ubuntu/tenshi
+  - pkg:github/f-secure-foundry/tenshi

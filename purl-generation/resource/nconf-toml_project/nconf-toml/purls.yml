@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/robloach/nconf-toml
+  - pkg:npm/nconf-toml

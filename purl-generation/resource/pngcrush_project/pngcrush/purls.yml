@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/pngcrush
+  - pkg:deb/ubuntu/pngcrush
+  - pkg:github/kjuly/pngcrush
+  - pkg:rpm/fedora/pngcrush
+  - pkg:rpm/opensuse/pngcrush
+  - pkg:sourceforge/pmt

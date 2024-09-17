@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/xcftools
+  - pkg:deb/ubuntu/xcftools
+  - pkg:github/j-jorge/xcftools

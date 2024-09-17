@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/fhem/fhem
+  - pkg:github/mhop/fhem-mirror

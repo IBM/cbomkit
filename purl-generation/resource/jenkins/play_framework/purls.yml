@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ikeike443/hudsonpluginforplay
+  - pkg:github/jenkinsci/play-plugin

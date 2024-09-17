@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/azure/azure-umqtt-c
+  - pkg:nuget/Microsoft.Azure.umqtt

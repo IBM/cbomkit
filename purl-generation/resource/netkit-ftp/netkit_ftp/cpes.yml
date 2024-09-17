@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:netkit-ftp:netkit_ftp:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:netkit-ftp:netkit_ftp:0.17:*:*:*:*:*:*:*

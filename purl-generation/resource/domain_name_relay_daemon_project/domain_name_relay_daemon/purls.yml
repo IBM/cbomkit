@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/benjaminpetrin-zz/dnrd
+  - pkg:github/montdidier/dnrd
+  - pkg:github/trustin/dnrd
+  - pkg:sourceforge/dnrd

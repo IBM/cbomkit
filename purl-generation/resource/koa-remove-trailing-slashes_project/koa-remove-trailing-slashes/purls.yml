@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/vgno/koa-remove-trailing-slashes
+  - pkg:npm/koa-remove-trailing-slashes

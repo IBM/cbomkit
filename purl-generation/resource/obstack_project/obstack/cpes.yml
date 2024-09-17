@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:obstack_project:obstack:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:obstack_project:obstack:0.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:obstack_project:obstack:0.1.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:obstack_project:obstack:0.1.4:*:*:*:*:rust:*:*

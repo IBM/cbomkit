@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:1.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:2.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:2.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:2.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:2.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:2.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:3.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:3.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:3.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:3.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:3.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:3.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:4.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:4.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:4.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:4.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:connect-pg-simple_project:connect-pg-simple:6.0.1:*:*:*:*:node.js:*:*

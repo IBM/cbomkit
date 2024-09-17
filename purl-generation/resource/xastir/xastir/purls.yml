@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/xastir
+  - pkg:deb/ubuntu/xastir
+  - pkg:github/xastir/xastir
+  - pkg:rpm/fedora/xastir
+  - pkg:rpm/opensuse/xastir
+  - pkg:sourceforge/xastir

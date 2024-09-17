@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-twitter-stream
+  - pkg:deb/ubuntu/ruby-twitter-stream
+  - pkg:gem/twitter-stream
+  - pkg:github/voloko/twitter-stream
+  - pkg:rpm/opensuse/rubygem-twitter-stream

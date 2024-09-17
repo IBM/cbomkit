@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ckeditor-for-wordpress/ckeditor-for-wordpress
+  - pkg:github/wp-plugins/ckeditor-for-wordpress
+  - pkg:sourceforge/fckeditor

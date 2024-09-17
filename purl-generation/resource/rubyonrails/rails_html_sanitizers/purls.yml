@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-rails-html-sanitizer
+  - pkg:deb/ubuntu/ruby-rails-html-sanitizer
+  - pkg:gem/rails-html-sanitizer
+  - pkg:github/rails/rails-html-sanitizer
+  - pkg:rpm/fedora/rubygem-rails-html-sanitizer
+  - pkg:rpm/opensuse/rubygem-rails-html-sanitizer

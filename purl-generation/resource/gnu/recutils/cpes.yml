@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:gnu:recutils:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:recutils:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:recutils:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:recutils:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:recutils:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:recutils:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:recutils:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:recutils:1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:recutils:1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:recutils:1.8.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:recutils:1.9:*:*:*:*:*:*:*

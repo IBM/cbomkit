@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:ignite_realtime:openfire:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ignite_realtime:openfire:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ignite_realtime:openfire:2.3.0:beta_2:*:*:*:*:*:*
+  - cpe:2.3:a:ignite_realtime:openfire:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ignite_realtime:openfire:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ignite_realtime:openfire:2.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ignite_realtime:openfire:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ignite_realtime:openfire:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ignite_realtime:openfire:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ignite_realtime:openfire:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ignite_realtime:openfire:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ignite_realtime:openfire:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ignite_realtime:openfire:3.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ignite_realtime:openfire:3.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ignite_realtime:openfire:3.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ignite_realtime:openfire:3.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ignite_realtime:openfire:3.6.2:*:*:*:*:*:*:*

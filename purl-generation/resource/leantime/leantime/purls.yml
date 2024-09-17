@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/leantime/leantime
+  - pkg:github/leantime/leantime

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/srt
+  - pkg:deb/ubuntu/srt
+  - pkg:github/haivision/srt
+  - pkg:rpm/fedora/srt
+  - pkg:rpm/opensuse/srt

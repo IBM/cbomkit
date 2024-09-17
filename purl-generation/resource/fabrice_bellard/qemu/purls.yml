@@ -1,0 +1,9 @@
+purls:
+  - pkg:bitbucket/niklastisk/qemu
+  - pkg:deb/debian/qemu
+  - pkg:deb/ubuntu/qemu
+  - pkg:github/qemu/qemu
+  - pkg:gitlab/qemu-project/qemu
+  - pkg:golang/github.com/qemu/qemu
+  - pkg:rpm/fedora/qemu
+  - pkg:rpm/opensuse/qemu

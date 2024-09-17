@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/xgboost
+  - pkg:deb/ubuntu/xgboost
+  - pkg:github/dmlc/xgboost
+  - pkg:pypi/xgboost
+  - pkg:rpm/opensuse/xgboost

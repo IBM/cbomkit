@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/burp
+  - pkg:deb/ubuntu/burp
+  - pkg:github/grke/burp
+  - pkg:rpm/fedora/burp
+  - pkg:rpm/opensuse/burp
+  - pkg:sourceforge/burp

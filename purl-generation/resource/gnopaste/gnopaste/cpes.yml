@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:gnopaste:gnopaste:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnopaste:gnopaste:0.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnopaste:gnopaste:0.5.3:*:*:*:*:*:*:*

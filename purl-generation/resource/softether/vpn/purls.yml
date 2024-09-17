@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/softethervpn/softethervpn
+  - pkg:rpm/opensuse/softethervpn
+  - pkg:sourceforge/softethervpn

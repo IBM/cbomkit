@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:exxxxxxxxxxx_project:exxxxxxxxxxx:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exxxxxxxxxxx_project:exxxxxxxxxxx:1.0.2:*:*:*:*:node.js:*:*

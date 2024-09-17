@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dropwizard/dropwizard
+  - pkg:maven/io.dropwizard/dropwizard-core

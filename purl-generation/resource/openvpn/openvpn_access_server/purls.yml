@@ -1,0 +1,5 @@
+purls:
+  - pkg:gem/lita-openvpnas
+  - pkg:github/openvpn/puppet-openvpnas
+  - pkg:npm/openvpn-access-server-scripts
+  - pkg:pypi/pyovpn-as

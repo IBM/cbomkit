@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/php-curl-class/php-curl-class
+  - pkg:sourceforge/php-curl-class.mirror

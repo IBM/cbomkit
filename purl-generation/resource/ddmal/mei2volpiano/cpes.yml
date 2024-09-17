@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:ddmal:mei2volpiano:0.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:ddmal:mei2volpiano:0.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:ddmal:mei2volpiano:0.2.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:ddmal:mei2volpiano:0.5.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:ddmal:mei2volpiano:0.6.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:ddmal:mei2volpiano:0.6.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:ddmal:mei2volpiano:0.7.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:ddmal:mei2volpiano:0.7.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:ddmal:mei2volpiano:0.7.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:ddmal:mei2volpiano:0.7.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:ddmal:mei2volpiano:0.8.2:*:*:*:*:python:*:*

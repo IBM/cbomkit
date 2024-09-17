@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:jenkins:rpmsign-plugin:0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rpmsign-plugin:0.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rpmsign-plugin:0.4.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rpmsign-plugin:0.4.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rpmsign-plugin:0.4.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rpmsign-plugin:0.4.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rpmsign-plugin:0.4.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rpmsign-plugin:0.4.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rpmsign-plugin:0.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rpmsign-plugin:0.5.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rpmsign-plugin:0.5.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rpmsign-plugin:0.5.2:*:*:*:*:jenkins:*:*

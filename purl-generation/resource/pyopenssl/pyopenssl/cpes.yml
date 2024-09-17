@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:pyopenssl:pyopenssl:0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyopenssl:pyopenssl:0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyopenssl:pyopenssl:0.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyopenssl:pyopenssl:16.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyopenssl:pyopenssl:16.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyopenssl:pyopenssl:16.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyopenssl:pyopenssl:17.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyopenssl:pyopenssl:17.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyopenssl:pyopenssl:17.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyopenssl:pyopenssl:17.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyopenssl:pyopenssl:17.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyopenssl:pyopenssl:17.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyopenssl:pyopenssl:18.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyopenssl:pyopenssl:19.0.0:*:*:*:*:*:*:*

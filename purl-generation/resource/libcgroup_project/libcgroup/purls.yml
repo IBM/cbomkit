@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/libcgroup
+  - pkg:deb/ubuntu/libcgroup
+  - pkg:github/libcgroup/libcgroup
+  - pkg:github/matsumotory/libcgroup
+  - pkg:gitlab/redhat/libcgroup
+  - pkg:rpm/centos/libcgroup
+  - pkg:rpm/fedora/libcgroup
+  - pkg:rpm/opensuse/libcgroup
+  - pkg:sourceforge/libcg

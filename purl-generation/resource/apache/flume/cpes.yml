@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:apache:flume:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:flume:1.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:flume:1.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:flume:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:flume:1.9.0:*:*:*:*:*:*:*

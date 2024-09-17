@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:najeebmedia:n-media_file_uploader:3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:najeebmedia:n-media_file_uploader:3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:najeebmedia:n-media_file_uploader:3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:najeebmedia:n-media_file_uploader:*:*:*:*:*:wordpress:*:*

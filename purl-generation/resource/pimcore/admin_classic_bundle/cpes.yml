@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.0.0:beta1:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.0.0:-:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.0.0:rc1:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.0.0:rc2:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.0.1:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.0.2:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.0.3:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.0.4:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.0.6:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.1.0:-:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.1.0:rc1:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.1.1:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.1.2:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.1.3:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.1.4:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.2.0:-:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.2.0:rc1:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.2.1:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.2.2:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.2.3:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.3.0:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.3.1:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:1.3.2:*:*:*:*:pimcore:*:*
+  - cpe:2.3:a:pimcore:admin_classic_bundle:-:*:*:*:*:pimcore:*:*

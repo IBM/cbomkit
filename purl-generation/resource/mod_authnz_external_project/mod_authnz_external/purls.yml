@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/phokz/mod-auth-external
+  - pkg:rpm/fedora/mod_authnz_external
+  - pkg:rpm/opensuse/mod_authnz_external

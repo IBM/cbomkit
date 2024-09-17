@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/node-zrender
+  - pkg:github/ecomfe/zrender
+  - pkg:maven/org.webjars.npm/zrender
+  - pkg:npm/zrender

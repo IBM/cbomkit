@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/evince
+  - pkg:deb/ubuntu/evince
+  - pkg:github/gnome/evince
+  - pkg:rpm/fedora/evince
+  - pkg:rpm/opensuse/evince

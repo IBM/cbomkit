@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:cspan:capture-tiny:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:cspan:capture-tiny:0.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:cspan:capture-tiny:0.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:cspan:capture-tiny:0.22:*:*:*:*:*:*:*

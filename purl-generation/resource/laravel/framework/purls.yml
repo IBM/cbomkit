@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/laravel/framework
+  - pkg:github/laravel/framework

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/Prestaul/skeemas
+  - pkg:golang/github.com/prestaul/skeemas
+  - pkg:npm/skeemas

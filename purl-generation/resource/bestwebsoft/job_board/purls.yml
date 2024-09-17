@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bestwebsoft/job-board-wordpress-plugin
+  - pkg:github/wp-plugins/job-board
+  - pkg:github/wpplugins/job-board

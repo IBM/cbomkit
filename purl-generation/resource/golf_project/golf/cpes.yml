@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:golf_project:golf:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:golf_project:golf:0.1.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:golf_project:golf:0.1.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:golf_project:golf:0.2.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:golf_project:golf:*:*:*:*:*:go:*:*
+  - cpe:2.3:a:golf_project:golf:-:*:*:*:*:go:*:*

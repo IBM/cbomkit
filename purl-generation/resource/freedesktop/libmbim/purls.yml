@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libmbim
+  - pkg:deb/ubuntu/libmbim
+  - pkg:github/freedesktop/libmbim
+  - pkg:gitlab/redhat/libmbim
+  - pkg:rpm/centos/libmbim
+  - pkg:rpm/fedora/libmbim
+  - pkg:rpm/opensuse/libmbim

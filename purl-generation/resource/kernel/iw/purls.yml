@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/iw
+  - pkg:deb/ubuntu/iw
+  - pkg:github/cozybit/iw
+  - pkg:github/idor/iw
+  - pkg:gitlab/kalilinux/iw
+  - pkg:gitlab/redhat/iw
+  - pkg:rpm/centos/iw
+  - pkg:rpm/fedora/iw
+  - pkg:rpm/opensuse/iw

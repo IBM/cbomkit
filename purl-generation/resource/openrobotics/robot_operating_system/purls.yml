@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/ros
+  - pkg:github/ros-infrastructure/www.ros.org
+  - pkg:github/ros/ros

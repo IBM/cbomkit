@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:amazon:aws_lambda:0.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_lambda:0.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_lambda:0.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_lambda:0.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_lambda:0.0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_lambda:0.0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_lambda:0.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_lambda:0.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_lambda:0.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_lambda:0.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_lambda:0.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_lambda:0.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_lambda:0.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_lambda:0.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_lambda:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_lambda:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_lambda:0.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_lambda:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_lambda:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_lambda:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_lambda:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_lambda:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_lambda:1.0.5:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/uw-imap/imap
+  - pkg:rpm/fedora/uw-imap
+  - pkg:rpm/opensuse/uw-imap

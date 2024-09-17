@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/davidjrice-hamweather
+  - pkg:github/davidjrice/hamweather

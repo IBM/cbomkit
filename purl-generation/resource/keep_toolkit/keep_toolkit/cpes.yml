@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:keep_toolkit:keep_toolkit:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:keep_toolkit:keep_toolkit:2.1:*:*:*:*:*:*:*

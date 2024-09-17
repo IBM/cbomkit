@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:stacklift:localstack:0.12.6:*:*:*:*:*:*:*

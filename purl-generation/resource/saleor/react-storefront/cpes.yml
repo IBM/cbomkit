@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:saleor:react-storefront:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:saleor:react-storefront:-:*:*:*:*:*:*:*

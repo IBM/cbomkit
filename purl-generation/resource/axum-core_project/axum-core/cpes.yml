@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:axum-core_project:axum-core:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:axum-core_project:axum-core:0.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:axum-core_project:axum-core:0.1.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:axum-core_project:axum-core:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:axum-core_project:axum-core:0.2.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:axum-core_project:axum-core:0.2.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:axum-core_project:axum-core:0.2.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:axum-core_project:axum-core:0.2.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:axum-core_project:axum-core:0.2.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:axum-core_project:axum-core:0.2.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:axum-core_project:axum-core:0.2.7:*:*:*:*:rust:*:*
+  - cpe:2.3:a:axum-core_project:axum-core:0.2.8:*:*:*:*:rust:*:*
+  - cpe:2.3:a:axum-core_project:axum-core:0.3.0:rc1:*:*:*:rust:*:*
+  - cpe:2.3:a:axum-core_project:axum-core:0.3.0:rc2:*:*:*:rust:*:*

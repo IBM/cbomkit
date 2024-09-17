@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:pivotal_software:cloud_foundry_uaa_release:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal_software:cloud_foundry_uaa_release:2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal_software:cloud_foundry_uaa_release:3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal_software:cloud_foundry_uaa_release:4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal_software:cloud_foundry_uaa_release:5:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal_software:cloud_foundry_uaa_release:6:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal_software:cloud_foundry_uaa_release:7:*:*:*:*:*:*:*

@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/logaraj82/gitpython
+  - pkg:github/gitpython-developers/gitpython
+  - pkg:pypi/gitpython
+  - pkg:rpm/fedora/gitpython
+  - pkg:rpm/opensuse/gitpython

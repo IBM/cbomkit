@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:gvectors:wpforo:1.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpforo:1.4.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpforo:1.4.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpforo:1.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpforo:1.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpforo:1.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpforo:1.4.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpforo:1.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpforo:1.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpforo:1.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpforo:1.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpforo:1.4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpforo:1.4.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gvectors:wpforo:1.6.5:*:*:*:*:wordpress:*:*

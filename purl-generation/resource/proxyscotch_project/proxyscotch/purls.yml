@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/hoppscotch/proxyscotch
+  - pkg:github/hoppscotch/proxyscotch

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/craftsmancoding/custom-content-type-manager
+  - pkg:github/wp-plugins/custom-content-type-manager

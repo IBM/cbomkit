@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/techsmith/mp4v2
+  - pkg:golang/github.com/techsmith/mp4v2

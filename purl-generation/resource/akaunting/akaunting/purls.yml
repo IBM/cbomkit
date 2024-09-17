@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/akaunting/akaunting
+  - pkg:github/akaunting/akaunting
+  - pkg:sourceforge/akaunting

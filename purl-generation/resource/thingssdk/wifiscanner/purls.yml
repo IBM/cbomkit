@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/thingssdk/wifiscanner
+  - pkg:npm/wifiscanner

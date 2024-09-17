@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/storm
+  - pkg:github/31z4/storm-docker

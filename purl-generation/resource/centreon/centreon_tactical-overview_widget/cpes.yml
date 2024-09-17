@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:centreon:centreon_tactical-overview_widget:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:centreon:centreon_tactical-overview_widget:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:centreon:centreon_tactical-overview_widget:18.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:centreon:centreon_tactical-overview_widget:18.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:centreon:centreon_tactical-overview_widget:19.04.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:centreon:centreon_tactical-overview_widget:19.04.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:centreon:centreon_tactical-overview_widget:19.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:centreon:centreon_tactical-overview_widget:19.10.1:*:*:*:*:*:*:*

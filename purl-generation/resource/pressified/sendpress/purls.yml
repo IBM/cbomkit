@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/brewlabs/sendpress
+  - pkg:github/wp-plugins/sendpress

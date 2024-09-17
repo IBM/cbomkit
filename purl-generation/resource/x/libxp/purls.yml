@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/freedesktop/libxp
+  - pkg:rpm/centos/libxp
+  - pkg:rpm/fedora/libxp
+  - pkg:rpm/opensuse/libxp

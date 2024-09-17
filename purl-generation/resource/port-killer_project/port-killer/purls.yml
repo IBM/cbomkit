@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/indatawetrust/portkiller
+  - pkg:npm/portkiller

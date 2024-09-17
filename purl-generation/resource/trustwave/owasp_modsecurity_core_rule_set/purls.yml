@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/spiderlabs/owasp-modsecurity-crs
+  - pkg:rpm/opensuse/owasp-modsecurity-crs

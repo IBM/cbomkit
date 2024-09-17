@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/thymeleaf/thymeleaf
+  - pkg:maven/org.thymeleaf/thymeleaf
+  - pkg:sourceforge/thymeleaf

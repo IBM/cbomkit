@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/ettercap
+  - pkg:deb/ubuntu/ettercap
+  - pkg:github/ettercap/ettercap
+  - pkg:gitlab/kalilinux/ettercap
+  - pkg:rpm/fedora/ettercap
+  - pkg:rpm/opensuse/ettercap
+  - pkg:sourceforge/ettercap

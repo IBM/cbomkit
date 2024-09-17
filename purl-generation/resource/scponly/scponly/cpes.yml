@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:scponly:scponly:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:scponly:scponly:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:scponly:scponly:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:scponly:scponly:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:scponly:scponly:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:scponly:scponly:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:scponly:scponly:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:scponly:scponly:3.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:scponly:scponly:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:scponly:scponly:3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:scponly:scponly:3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:scponly:scponly:3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:scponly:scponly:3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:scponly:scponly:3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:scponly:scponly:3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:scponly:scponly:3.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:scponly:scponly:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:scponly:scponly:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:scponly:scponly:4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:scponly:scponly:4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:scponly:scponly:4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:scponly:scponly:4.5:*:*:*:*:*:*:*

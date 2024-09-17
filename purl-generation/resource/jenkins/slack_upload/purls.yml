@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/slack-uploader-plugin
+  - pkg:github/masterlittle/slackuploader

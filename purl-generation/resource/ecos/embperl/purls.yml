@@ -1,0 +1,3 @@
+purls:
+  - pkg:cpan/html-embperl
+  - pkg:github/gitpan/html-embperl

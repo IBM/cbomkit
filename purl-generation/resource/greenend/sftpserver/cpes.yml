@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:greenend:sftpserver:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:greenend:sftpserver:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:greenend:sftpserver:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:greenend:sftpserver:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:greenend:sftpserver:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:greenend:sftpserver:0.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:greenend:sftpserver:1:*:*:*:*:*:*:*

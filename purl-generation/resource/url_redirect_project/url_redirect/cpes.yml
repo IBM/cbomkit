@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:url_redirect_project:url_redirect:1.0.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:url_redirect_project:url_redirect:1.0.1:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:url_redirect_project:url_redirect:1.1.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:url_redirect_project:url_redirect:1.1.1:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:url_redirect_project:url_redirect:1.1.3:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:url_redirect_project:url_redirect:1.2.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:url_redirect_project:url_redirect:1.2.1:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:url_redirect_project:url_redirect:1.2.2:*:*:*:*:typo3:*:*

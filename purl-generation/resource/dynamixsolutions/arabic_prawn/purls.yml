@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/Arabic-Prawn
+  - pkg:github/ozeron/prawn-arabic

@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/condor
+  - pkg:deb/ubuntu/condor
+  - pkg:github/htcondor/htcondor

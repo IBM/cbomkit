@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:webassembly:wat2wasm:1.0.32:*:*:*:*:*:*:*

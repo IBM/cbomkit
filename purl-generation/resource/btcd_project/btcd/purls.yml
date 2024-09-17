@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/zgzg98/btcd
+  - pkg:deb/debian/golang-github-btcsuite-btcd-btcec
+  - pkg:deb/ubuntu/golang-github-btcsuite-btcd-btcec
+  - pkg:github/btcsuite/btcd

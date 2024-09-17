@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/wixtoolset/wix3
+  - pkg:maven/org.wixtoolset/wix-toolset
+  - pkg:nuget/wix

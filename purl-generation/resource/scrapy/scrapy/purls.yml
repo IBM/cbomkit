@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/python-scrapy
+  - pkg:deb/ubuntu/python-scrapy
+  - pkg:github/bobdu/scrapy3
+  - pkg:github/scrapy/scrapy
+  - pkg:pypi/scrapy3
+  - pkg:rpm/fedora/python-scrapy
+  - pkg:rpm/opensuse/python-scrapy
+  - pkg:sourceforge/scrapy.mirror

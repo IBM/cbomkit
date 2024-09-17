@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:o:clonos_project:clonos:-:*:*:*:*:*:*:*
+  - cpe:2.3:o:clonos_project:clonos:2019-04-30:*:*:*:*:*:*:*

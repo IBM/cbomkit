@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openframeproject/openframe-image
+  - pkg:npm/openframe-image

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libnbd
+  - pkg:deb/ubuntu/libnbd
+  - pkg:github/libguestfs/libnbd
+  - pkg:gitlab/nbdkit/libnbd
+  - pkg:gitlab/redhat/libnbd
+  - pkg:rpm/centos/libnbd
+  - pkg:rpm/fedora/libnbd
+  - pkg:rpm/opensuse/libnbd

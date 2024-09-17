@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/phpldapadmin
+  - pkg:deb/ubuntu/phpldapadmin
+  - pkg:github/leenooks/phpldapadmin
+  - pkg:rpm/fedora/phpldapadmin
+  - pkg:rpm/opensuse/phpldapadmin
+  - pkg:sourceforge/phpldapadmin

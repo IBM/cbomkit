@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/rundeck/rundeck
+  - pkg:maven/org.rundeck/rundeck

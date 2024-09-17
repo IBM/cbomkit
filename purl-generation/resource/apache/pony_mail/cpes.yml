@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:apache:pony_mail:0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pony_mail:0.11:rc:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pony_mail:0.1a:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pony_mail:0.2a:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pony_mail:0.3a:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pony_mail:0.4a:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pony_mail:0.5a:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pony_mail:0.6c:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pony_mail:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pony_mail:0.7b:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pony_mail:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pony_mail:0.8b:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:pony_mail:0.9:*:*:*:*:*:*:*

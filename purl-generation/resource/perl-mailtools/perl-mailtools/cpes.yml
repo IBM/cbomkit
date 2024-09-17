@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:perl-mailtools:perl-mailtools:1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:perl-mailtools:perl-mailtools:1.1401:*:*:*:*:*:*:*
+  - cpe:2.3:a:perl-mailtools:perl-mailtools:1.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:perl-mailtools:perl-mailtools:1.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:perl-mailtools:perl-mailtools:1.42:*:*:*:*:*:*:*
+  - cpe:2.3:a:perl-mailtools:perl-mailtools:1.44:*:*:*:*:*:*:*
+  - cpe:2.3:a:perl-mailtools:perl-mailtools:1.47:*:*:*:*:*:*:*

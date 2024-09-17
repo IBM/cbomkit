@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:report_project:report:2021-01-21:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:report_project:report:-:*:*:*:*:mediawiki:*:*

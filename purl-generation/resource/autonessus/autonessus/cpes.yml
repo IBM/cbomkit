@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:autonessus:autonessus:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:autonessus:autonessus:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:autonessus:autonessus:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:autonessus:autonessus:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:autonessus:autonessus:1.2:*:*:*:*:*:*:*

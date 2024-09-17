@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/boky/csi-provisioner
+  - pkg:github/kubernetes-csi/external-provisioner
+  - pkg:rpm/opensuse/csi-external-provisioner

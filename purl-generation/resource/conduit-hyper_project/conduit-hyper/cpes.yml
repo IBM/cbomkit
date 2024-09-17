@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.1.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.1.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.2.0:alpha1:*:*:*:rust:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.2.0:alpha2:*:*:*:rust:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.2.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.2.0:alpha3:*:*:*:rust:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.2.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.2.0:alpha4:*:*:*:rust:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.2.0:-:*:*:*:rust:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.3.0:alpha0:*:*:*:rust:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.3.0:alpha1:*:*:*:rust:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.3.0:alpha2:*:*:*:rust:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.3.0:alpha3:*:*:*:rust:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.3.0:alpha4:*:*:*:rust:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.3.0:alpha5.1:*:*:*:rust:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.3.0:alpha5:*:*:*:rust:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.3.0:alpha6:*:*:*:rust:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.3.0:alpha7:*:*:*:rust:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.3.0:-:*:*:*:rust:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.4.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.4.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.4.2:*:*:*:*:rust:*:*

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/celery
+  - pkg:deb/ubuntu/celery
+  - pkg:github/celery/celery
+  - pkg:pypi/celery
+  - pkg:rpm/fedora/python-celery
+  - pkg:rpm/opensuse/python-celery
+  - pkg:sourceforge/celery.mirror

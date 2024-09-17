@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-uri-js
+  - pkg:deb/ubuntu/node-uri-js
+  - pkg:github/garycourt/uri-js
+  - pkg:maven/org.webjars.npm/uri-js
+  - pkg:npm/uri-js

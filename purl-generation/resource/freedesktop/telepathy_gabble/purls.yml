@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/telepathy-gabble
+  - pkg:deb/ubuntu/telepathy-gabble
+  - pkg:github/telepathyim/telepathy-gabble
+  - pkg:rpm/fedora/telepathy-gabble
+  - pkg:rpm/opensuse/telepathy-gabble

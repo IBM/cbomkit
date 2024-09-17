@@ -1,0 +1,8 @@
+purls:
+  - pkg:github/berkeleydb/libdb
+  - pkg:github/hyc/berkeleydb
+  - pkg:nuget/berkeley.db
+  - pkg:nuget/berkeley.db.v110
+  - pkg:nuget/berkeley.db.v120
+  - pkg:nuget/berkeley.db.v140
+  - pkg:rpm/opensuse/berkeleydb

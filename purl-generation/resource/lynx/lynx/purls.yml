@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/lynx
+  - pkg:deb/ubuntu/lynx
+  - pkg:github/kurtchen/lynx
+  - pkg:gitlab/redhat/lynx
+  - pkg:gnu/lynx
+  - pkg:rpm/centos/lynx
+  - pkg:rpm/fedora/lynx
+  - pkg:rpm/opensuse/lynx

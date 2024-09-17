@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/coredns/coredns
+  - pkg:golang/github.com/coredns/coredns

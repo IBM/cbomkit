@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/apr
+  - pkg:github/apache/apr
+  - pkg:rpm/fedora/apr

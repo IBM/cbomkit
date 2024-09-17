@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:apereo:bedework:3.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:bedework:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:bedework:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:bedework:4.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:bedework:4.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:bedework:4.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:bedework:4.0.5:*:*:*:*:*:*:*

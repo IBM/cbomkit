@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:eric_integrated_development_environment:eric_integrated_development_environment:3.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:eric_integrated_development_environment:eric_integrated_development_environment:3.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eric_integrated_development_environment:eric_integrated_development_environment:3.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:eric_integrated_development_environment:eric_integrated_development_environment:3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eric_integrated_development_environment:eric_integrated_development_environment:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:eric_integrated_development_environment:eric_integrated_development_environment:3.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:eric_integrated_development_environment:eric_integrated_development_environment:3.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eric_integrated_development_environment:eric_integrated_development_environment:3.7.1:*:*:*:*:*:*:*

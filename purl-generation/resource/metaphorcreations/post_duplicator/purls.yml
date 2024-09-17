@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/meta4creations/post-duplicator
+  - pkg:github/wp-plugins/post-duplicator
+  - pkg:github/wpplugins/post-duplicator

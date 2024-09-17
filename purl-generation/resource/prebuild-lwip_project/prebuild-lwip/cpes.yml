@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:prebuild-lwip_project:prebuild-lwip:0.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:prebuild-lwip_project:prebuild-lwip:0.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:prebuild-lwip_project:prebuild-lwip:0.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:prebuild-lwip_project:prebuild-lwip:0.0.4:*:*:*:*:node.js:*:*

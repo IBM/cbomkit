@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-crossbeam
+  - pkg:deb/ubuntu/rust-crossbeam
+  - pkg:github/crossbeam-rs/crossbeam
+  - pkg:rpm/fedora/rust-crossbeam
+  - pkg:rpm/opensuse/rust-crossbeam

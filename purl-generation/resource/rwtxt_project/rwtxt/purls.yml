@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/schollz/rwtxt
+  - pkg:github/schollz/rwtxt

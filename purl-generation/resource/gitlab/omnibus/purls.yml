@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/gitlabhq/omnibus-gitlab
+  - pkg:gitlab/gitlab-org/omnibus-gitlab
+  - pkg:golang/gitlab.com/gitlab-org/omnibus-gitlab

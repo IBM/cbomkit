@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/danfruehauf/networkmanager-ssh
+  - pkg:rpm/fedora/networkmanager-ssh
+  - pkg:rpm/opensusenetworkmanager-ssh

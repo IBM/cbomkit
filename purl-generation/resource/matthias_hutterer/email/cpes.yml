@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:matthias_hutterer:email:6.x-1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:matthias_hutterer:email:6.x-1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:matthias_hutterer:email:6.x-1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:matthias_hutterer:email:6.x-1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:matthias_hutterer:email:6.x-1.x:dev:*:*:*:*:*:*
+  - cpe:2.3:a:matthias_hutterer:email:7.x-1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:matthias_hutterer:email:7.x-1.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:matthias_hutterer:email:7.x-1.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:matthias_hutterer:email:7.x-1.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:matthias_hutterer:email:7.x-1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:matthias_hutterer:email:7.x-1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:matthias_hutterer:email:7.x-1.x:dev:*:*:*:*:*:*

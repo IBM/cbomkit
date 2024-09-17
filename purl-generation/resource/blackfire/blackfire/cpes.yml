@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:blackfire:blackfire:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:blackfire:blackfire:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:blackfire:blackfire:2020-12-14:*:*:*:*:*:*:*

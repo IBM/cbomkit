@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:news-articles_project:news-articles:00.09.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:news-articles_project:news-articles:00.10.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:news-articles_project:news-articles:00.11.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:news-articles_project:news-articles:00.11.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:news-articles_project:news-articles:00.11.03:*:*:*:*:*:*:*

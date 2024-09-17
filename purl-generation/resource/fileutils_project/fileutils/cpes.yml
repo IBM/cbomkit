@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:fileutils_project:fileutils:0.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:fileutils_project:fileutils:0.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:fileutils_project:fileutils:0.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:fileutils_project:fileutils:0.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:fileutils_project:fileutils:0.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:fileutils_project:fileutils:0.6:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:fileutils_project:fileutils:0.7.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:fileutils_project:fileutils:0.7.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:fileutils_project:fileutils:0.7:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:fileutils_project:fileutils:1.0.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:fileutils_project:fileutils:1.0.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:fileutils_project:fileutils:1.0.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:fileutils_project:fileutils:1.1.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:fileutils_project:fileutils:1.2.0:*:*:*:*:ruby:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:universis:universis_api:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:universis:universis_api:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:universis:universis_api:1.2.1:*:*:*:*:*:*:*

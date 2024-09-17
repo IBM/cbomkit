@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/arc
+  - pkg:deb/ubuntu/arc
+  - pkg:github/ani6al/arc
+  - pkg:rpm/fedora/arc
+  - pkg:rpm/opensuse/arc
+  - pkg:sourceforge/arc

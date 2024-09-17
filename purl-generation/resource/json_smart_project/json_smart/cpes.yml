@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:json_smart_project:json_smart:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:json_smart_project:json_smart:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:json_smart_project:json_smart:2.4:*:*:*:*:*:*:*

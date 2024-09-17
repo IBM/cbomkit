@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/ubuntu/sblim-sfcb
+  - pkg:github/zaneb/sblim-sfcb
+  - pkg:gitlab/redhat/sblim-sfcb
+  - pkg:rpm/fedora/sblim-sfcb
+  - pkg:rpm/opensuse/sblim-sfcb
+  - pkg:sourceforge/sblim

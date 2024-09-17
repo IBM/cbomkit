@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:goutils_project:goutils:1.0.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:goutils_project:goutils:1.0.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:goutils_project:goutils:1.1.0:*:*:*:*:go:*:*

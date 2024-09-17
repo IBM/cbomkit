@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:ansible_collections_project:community.crypto:-:*:*:*:*:*:*:*

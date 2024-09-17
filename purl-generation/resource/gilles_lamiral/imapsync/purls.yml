@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/imapsync/imapsync
+  - pkg:rpm/fedora/imapsync
+  - pkg:rpm/opensuse/imapsync

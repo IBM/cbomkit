@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:parc_project:parc:1.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:parc_project:parc:1.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:parc_project:parc:2020-11-14:*:*:*:*:rust:*:*
+  - cpe:2.3:a:parc_project:parc:-:*:*:*:*:rust:*:*

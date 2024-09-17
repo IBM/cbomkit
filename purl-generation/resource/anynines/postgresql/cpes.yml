@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:anynines:postgresql:0.9.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:anynines:postgresql:1.0.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:anynines:postgresql:1.0.1:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:anynines:postgresql:1.1.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:anynines:postgresql:2.0.1:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:anynines:postgresql:2.0.2:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:anynines:postgresql:2.1.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:anynines:postgresql:2.1.1:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:anynines:postgresql:2.1.2:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:anynines:postgresql:-:*:*:*:*:pivotal_cloud_foundry:*:*

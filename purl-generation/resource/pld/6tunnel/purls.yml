@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/6tunnel
+  - pkg:deb/ubuntu/6tunnel
+  - pkg:github/pld-linux/6tunnel
+  - pkg:rpm/fedora/6tunnel
+  - pkg:rpm/opensuse/6tunnel

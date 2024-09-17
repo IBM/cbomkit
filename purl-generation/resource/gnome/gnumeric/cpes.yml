@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:gnome:gnumeric:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnumeric:1.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnumeric:1.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnumeric:1.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnumeric:1.12.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnumeric:1.12.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnumeric:1.12.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnumeric:1.12.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnumeric:1.12.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnumeric:1.12.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnumeric:1.12.9:*:*:*:*:*:*:*

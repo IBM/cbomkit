@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/progfay/scrapbox-parser
+  - pkg:npm/%40progfay/scrapbox-parser

@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/hms-networks/flexy-osisoft-connector
+  - pkg:github/osisoft/pi-connector-for-ufl-samples
+  - pkg:maven/org.teiid/spring-data-osisoft-pi
+  - pkg:pypi/piconnect

@@ -1,0 +1,3 @@
+purls:
+  - pkg:apache/uima
+  - pkg:github/apache/uima-uimafit

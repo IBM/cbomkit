@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/apertium
+  - pkg:deb/ubuntu/apertium
+  - pkg:github/apertium/apertium
+  - pkg:rpm/fedora/apertium
+  - pkg:rpm/opensuse/apertium
+  - pkg:sourceforge/apertium

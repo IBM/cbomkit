@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:matomo:piwik_fpm-alpine_docker_image:3:*:*:*:*:*:*:*
+  - cpe:2.3:a:matomo:piwik_fpm-alpine_docker_image:3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:matomo:piwik_fpm-alpine_docker_image:3.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:matomo:piwik_fpm-alpine_docker_image:3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:matomo:piwik_fpm-alpine_docker_image:3.6.0:*:*:*:*:*:*:*

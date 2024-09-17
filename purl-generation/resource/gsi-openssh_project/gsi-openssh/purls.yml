@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/openssh/openssh-portable
+  - pkg:rpm/fedora/gsi-openssh
+  - pkg:rpm/opensuse/gsi-openssh

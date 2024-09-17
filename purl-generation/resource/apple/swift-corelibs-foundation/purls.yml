@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/apple/swift-corelibs-foundation
+  - pkg:golang/github.com/apple/swift-corelibs-foundation

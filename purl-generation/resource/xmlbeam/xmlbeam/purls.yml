@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/svenewald/xmlbeam
+  - pkg:maven/org.xmlbeam/xmlprojector

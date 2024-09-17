@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/babel/babel-polyfills
+  - pkg:npm/package/babel-plugin-polyfill-regenerator

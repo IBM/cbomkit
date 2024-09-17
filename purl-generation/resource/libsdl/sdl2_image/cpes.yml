@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:libsdl:sdl2_image:2.0.4:*:*:*:*:*:*:*

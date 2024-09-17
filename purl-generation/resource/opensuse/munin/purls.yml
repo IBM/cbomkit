@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/particlekit/munin-docker
+  - pkg:rpm/fedora/munin
+  - pkg:rpm/opensuse/munin

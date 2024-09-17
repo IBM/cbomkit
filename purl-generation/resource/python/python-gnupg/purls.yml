@@ -1,0 +1,6 @@
+purls:
+  - pkg:pypi/gnupg
+  - pkg:rpm/fedora/python-gnupg
+  - pkg:rpm/opensuse/python-gnupg
+  - pkg:rpm/opensuse/python-python-gnupg
+  - pkg:sourceforge/py-gnupg

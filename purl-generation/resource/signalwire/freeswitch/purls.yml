@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/signalwire/freeswitch
+  - pkg:golang/github.com/signalwire/freeswitch

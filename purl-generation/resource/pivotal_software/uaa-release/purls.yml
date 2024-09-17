@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cloudfoundry/uaa-release
+  - pkg:golang/github.com/cloudfoundry/uaa-release

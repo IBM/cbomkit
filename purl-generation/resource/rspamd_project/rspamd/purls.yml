@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rspamd
+  - pkg:deb/ubuntu/rspamd
+  - pkg:github/rspamd/rspamd
+  - pkg:rpm/opensuse/rspamd
+  - pkg:sourceforge/rspamd

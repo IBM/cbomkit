@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jugglinmike/selenium-chromedriver
+  - pkg:npm/selenium-chromedriver
+  - pkg:nuget/Selenium.WebDriver.ChromeDriver

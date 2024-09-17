@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:cpkwebsolutions:wp_csv:1.8.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cpkwebsolutions:wp_csv:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cpkwebsolutions:wp_csv:-:*:*:*:*:wordpress:*:*

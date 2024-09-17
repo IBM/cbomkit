@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/almanah
+  - pkg:deb/ubuntu/almanah
+  - pkg:github/alvaropg/almanah
+  - pkg:github/gnome/almanah
+  - pkg:rpm/fedora/almanah
+  - pkg:rpm/opensuse/almanah

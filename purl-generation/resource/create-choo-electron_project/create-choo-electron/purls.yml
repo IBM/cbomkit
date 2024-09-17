@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/choojs/create-choo-electron
+  - pkg:npm/create-choo-electron

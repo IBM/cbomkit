@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-horde-dav
+  - pkg:deb/ubuntu/php-horde-dav
+  - pkg:github/horde/dav
+  - pkg:rpm/fedora/php-horde-horde-dav
+  - pkg:rpm/opensuse/php-horde-horde-dav

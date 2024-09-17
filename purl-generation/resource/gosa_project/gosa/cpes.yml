@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:gosa_project:gosa:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gosa_project:gosa:2.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gosa_project:gosa:2.7.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gosa_project:gosa:2.7.5.2:*:*:*:*:*:*:*

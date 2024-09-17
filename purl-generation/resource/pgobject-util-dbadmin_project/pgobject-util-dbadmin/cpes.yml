@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:pgobject-util-dbadmin_project:pgobject-util-dbadmin:0.120.0:*:*:*:*:perl:*:*
+  - cpe:2.3:a:pgobject-util-dbadmin_project:pgobject-util-dbadmin:*:*:*:*:*:perl:*:*

@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:stalin_project:stalin:0.11-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:stalin_project:stalin:0.11-4:*:*:*:*:*:*:*
+  - cpe:2.3:a:stalin_project:stalin:0.11-5:*:*:*:*:*:*:*
+  - cpe:2.3:a:stalin_project:stalin:0.11-6:*:*:*:*:*:*:*

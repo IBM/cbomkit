@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:logkitty_project:logkitty:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:logkitty_project:logkitty:0.7.1:*:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ntopng
+  - pkg:deb/ubuntu/ntopng
+  - pkg:github/ntop/ntopng
+  - pkg:gitlab/kalilinux/ntopng
+  - pkg:rpm/opensuse/ntopng
+  - pkg:sourceforge/ntopng

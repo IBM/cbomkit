@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/edx/edx-platform
+  - pkg:gitlab/campusedu/edx-platform

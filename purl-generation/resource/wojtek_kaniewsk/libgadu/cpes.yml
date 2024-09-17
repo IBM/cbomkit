@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:wojtek_kaniewsk:libgadu:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:wojtek_kaniewsk:libgadu:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wojtek_kaniewsk:libgadu:1.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wojtek_kaniewsk:libgadu:1.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wojtek_kaniewsk:libgadu:1.8.0:*:*:*:*:*:*:*

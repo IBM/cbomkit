@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/ubuntu/opentype-sanitizer
+  - pkg:github/khaledhosny/ots
+  - pkg:github/pld-linux/otsanitizer
+  - pkg:pypi/opentype-sanitizer
+  - pkg:rpm/fedora/opentype-sanitizer

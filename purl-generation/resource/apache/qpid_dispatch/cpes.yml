@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:apache:qpid_dispatch:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:qpid_dispatch:0.8.0:*:*:*:*:*:*:*

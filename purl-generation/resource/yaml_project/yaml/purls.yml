@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/golang-gopkg-yaml.v3
+  - pkg:deb/ubuntu/golang-gopkg-yaml.v3
+  - pkg:github/go-yaml/yaml
+  - pkg:rpm/fedora/golang-gopkg-yaml

@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:jenkins:jenkins-cloudformation-plugin:0.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jenkins-cloudformation-plugin:0.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jenkins-cloudformation-plugin:0.12:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jenkins-cloudformation-plugin:0.13:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jenkins-cloudformation-plugin:0.14:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jenkins-cloudformation-plugin:0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jenkins-cloudformation-plugin:0.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jenkins-cloudformation-plugin:0.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jenkins-cloudformation-plugin:0.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jenkins-cloudformation-plugin:0.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jenkins-cloudformation-plugin:0.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jenkins-cloudformation-plugin:0.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jenkins-cloudformation-plugin:0.8.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jenkins-cloudformation-plugin:0.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jenkins-cloudformation-plugin:0.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jenkins-cloudformation-plugin:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jenkins-cloudformation-plugin:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jenkins-cloudformation-plugin:1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jenkins-cloudformation-plugin:-:*:*:*:*:jenkins:*:*

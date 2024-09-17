@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:xwiki:xwiki-rendering:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:xwiki:xwiki-rendering:15.0:rc1:*:*:*:*:*:*

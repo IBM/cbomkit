@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:x:x_display_manager:1.1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:x:x_display_manager:1.1.11:*:*:*:*:*:*:*

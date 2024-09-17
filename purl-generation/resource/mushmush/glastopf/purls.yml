@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mushorg/glastopf
+  - pkg:pypi/glastopf

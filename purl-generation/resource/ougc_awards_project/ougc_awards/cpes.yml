@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:ougc_awards_project:ougc_awards:1.1:*:*:*:*:mybb:*:*
+  - cpe:2.3:a:ougc_awards_project:ougc_awards:1.8.0:*:*:*:*:mybb:*:*
+  - cpe:2.3:a:ougc_awards_project:ougc_awards:1.8.19:*:*:*:*:mybb:*:*
+  - cpe:2.3:a:ougc_awards_project:ougc_awards:1.8.3:*:*:*:*:mybb:*:*
+  - cpe:2.3:a:ougc_awards_project:ougc_awards:1.8.3:r2:*:*:*:mybb:*:*

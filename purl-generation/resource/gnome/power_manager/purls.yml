@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/gnome-power-manager
+  - pkg:deb/ubuntu/gnome-power-manager
+  - pkg:github/gnome/gnome-power-manager
+  - pkg:gitlab/gnome/gnome-power-manager
+  - pkg:gnome/gnome-power-manager
+  - pkg:rpm/fedora/gnome-power-manager
+  - pkg:rpm/opensuse/gnome-power-manager

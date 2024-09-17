@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:fluxcd:source-controller:0.0.1:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:fluxcd:source-controller:0.0.1:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:fluxcd:source-controller:0.0.1:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:fluxcd:source-controller:0.0.1:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:fluxcd:source-controller:0.0.1:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:fluxcd:source-controller:0.0.1:alpha6:*:*:*:*:*:*
+  - cpe:2.3:a:fluxcd:source-controller:0.0.1:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:fluxcd:source-controller:0.0.1:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:fluxcd:source-controller:0.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fluxcd:source-controller:0.30.0:*:*:*:*:*:*:*

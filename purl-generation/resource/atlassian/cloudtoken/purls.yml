@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/atlassian/cloudtoken
+  - pkg:docker/atlassiancloudteam/cloudtoken
+  - pkg:pypi/cloudtoken

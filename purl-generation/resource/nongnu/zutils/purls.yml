@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/zutils
+  - pkg:deb/ubuntu/zutils
+  - pkg:gnu/zutils
+  - pkg:rpm/opensuse/zutils

@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/xymon
+  - pkg:deb/ubuntu/xymon
+  - pkg:sourceforge/xymon

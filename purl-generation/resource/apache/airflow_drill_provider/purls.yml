@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/airflow
+  - pkg:docker/apache/airflow
+  - pkg:github/apache/airflow
+  - pkg:golang/github.com/apache/airflow-client-go

@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/beam
+  - pkg:github/apache/beam
+  - pkg:sourceforge/apache-beam.mirror

@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:o:toaruos:toaruos:*:*:*:*:*:*:*:*
+  - cpe:2.3:o:toaruos:toaruos:1.10.10:*:*:*:*:*:*:*
+  - cpe:2.3:o:toaruos:toaruos:1.99.2:*:*:*:*:*:*:*
+  - cpe:2.3:o:toaruos:toaruos:2.0.1:*:*:*:*:*:*:*

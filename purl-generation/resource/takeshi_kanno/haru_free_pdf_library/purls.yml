@@ -1,0 +1,7 @@
+purls:
+  - pkg:github/libharu/libharu
+  - pkg:gitlab/redhat/libharu
+  - pkg:golang/github.com/libharu/libharu
+  - pkg:rpm/fedora/libharu
+  - pkg:rpm/opensuse/libharu
+  - pkg:sourceforge/libharu

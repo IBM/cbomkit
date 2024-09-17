@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-growl
+  - pkg:deb/ubuntu/node-growl
+  - pkg:gem/growl
+  - pkg:github/tj/node-growl
+  - pkg:maven/org.webjars.npm/growl
+  - pkg:npm/growl

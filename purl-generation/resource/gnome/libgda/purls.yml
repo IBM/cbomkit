@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libgda
+  - pkg:deb/ubuntu/libgda
+  - pkg:github/gnome/libgda
+  - pkg:gitlab/redhat/libgda
+  - pkg:rpm/fedora/libgda
+  - pkg:rpm/opensuse/libgda

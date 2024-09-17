@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/feh
+  - pkg:deb/ubuntu/feh
+  - pkg:github/derf/feh
+  - pkg:rpm/fedora/feh
+  - pkg:rpm/opensuse/feh

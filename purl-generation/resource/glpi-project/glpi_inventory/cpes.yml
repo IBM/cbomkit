@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:glpi-project:glpi_inventory:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:glpi-project:glpi_inventory:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:glpi-project:glpi_inventory:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:glpi-project:glpi_inventory:1.0.2:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/azure/azure-sdk-for-net
+  - pkg:nuget/Microsoft.Rest.ClientRuntime

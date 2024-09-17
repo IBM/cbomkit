@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:nophp_project:nophp:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nophp_project:nophp:-:*:*:*:*:*:*:*

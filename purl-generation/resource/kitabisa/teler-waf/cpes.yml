@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:kitabisa:teler-waf:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:kitabisa:teler-waf:0.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kitabisa:teler-waf:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kitabisa:teler-waf:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kitabisa:teler-waf:0.1.2:*:*:*:*:*:*:*

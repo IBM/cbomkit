@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:mediawiki:createredirect:2022-04-14:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:mediawiki:createredirect:-:*:*:*:*:mediawiki:*:*

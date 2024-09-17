@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/httpx
+  - pkg:deb/ubuntu/httpx
+  - pkg:github/encode/httpx
+  - pkg:pypi/httpx
+  - pkg:rpm/fedora/python-httpx
+  - pkg:rpm/opensuse/python-httpx
+  - pkg:sourceforge/httpx.mirror

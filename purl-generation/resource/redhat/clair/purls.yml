@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/quay/clair
+  - pkg:rpm/fedoragolang-github-quay-clair-3
+  - pkg:rpm/fedora/golang-github-quay-clair-4

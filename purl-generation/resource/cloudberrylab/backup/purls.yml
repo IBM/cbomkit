@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/jlesage/cloudberry-backup
+  - pkg:github/jlesage/docker-cloudberry-backup

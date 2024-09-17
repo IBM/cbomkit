@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:gnu:aspell:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:aspell:0.50-3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:aspell:0.50.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:aspell:0.60.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:aspell:0.60.7:-:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:aspell:0.60.7:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:aspell:0.60.7:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:aspell:0.60.8:*:*:*:*:*:*:*

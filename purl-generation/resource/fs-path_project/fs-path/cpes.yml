@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.14:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.15:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.16:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.17:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.18:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.19:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.20:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.21:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.22:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.23:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.24:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.25:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:fs-path_project:fs-path:0.0.9:*:*:*:*:node.js:*:*

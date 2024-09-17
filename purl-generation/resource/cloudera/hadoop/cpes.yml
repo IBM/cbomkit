@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:cloudera:hadoop:0.20.1\+169:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudera:hadoop:0.20.2\+923:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudera:hadoop:0.20.2\+923.197:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudera:hadoop:0.20-sbin:*:*:*:*:*:*:*

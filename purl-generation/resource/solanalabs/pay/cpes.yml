@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:solanalabs:pay:0.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:solanalabs:pay:0.1.0:alpha.0:*:*:*:*:*:*
+  - cpe:2.3:a:solanalabs:pay:0.1.0:alpha.1:*:*:*:*:*:*
+  - cpe:2.3:a:solanalabs:pay:0.1.0:alpha.2:*:*:*:*:*:*
+  - cpe:2.3:a:solanalabs:pay:0.1.0:alpha.3:*:*:*:*:*:*
+  - cpe:2.3:a:solanalabs:pay:0.1.0:alpha.4:*:*:*:*:*:*
+  - cpe:2.3:a:solanalabs:pay:0.1.0:alpha.5:*:*:*:*:*:*
+  - cpe:2.3:a:solanalabs:pay:0.1.0:alpha.6:*:*:*:*:*:*
+  - cpe:2.3:a:solanalabs:pay:0.1.0:alpha.7:*:*:*:*:*:*
+  - cpe:2.3:a:solanalabs:pay:0.1.0:alpha.8:*:*:*:*:*:*
+  - cpe:2.3:a:solanalabs:pay:0.1.0:alpha.9:*:*:*:*:*:*
+  - cpe:2.3:a:solanalabs:pay:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:solanalabs:pay:0.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:solanalabs:pay:0.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:solanalabs:pay:0.2.0:*:*:*:*:*:*:*

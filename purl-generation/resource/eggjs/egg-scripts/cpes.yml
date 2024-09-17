@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:eggjs:egg-scripts:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:eggjs:egg-scripts:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:eggjs:egg-scripts:1.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:eggjs:egg-scripts:1.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:eggjs:egg-scripts:1.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:eggjs:egg-scripts:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:eggjs:egg-scripts:2.10.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:eggjs:egg-scripts:2.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:eggjs:egg-scripts:2.11.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:eggjs:egg-scripts:2.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:eggjs:egg-scripts:2.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:eggjs:egg-scripts:2.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:eggjs:egg-scripts:2.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:eggjs:egg-scripts:2.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:eggjs:egg-scripts:2.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:eggjs:egg-scripts:2.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:eggjs:egg-scripts:2.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:eggjs:egg-scripts:2.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:eggjs:egg-scripts:2.8.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:eggjs:egg-scripts:2.9.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:eggjs:egg-scripts:2.9.1:*:*:*:*:node.js:*:*

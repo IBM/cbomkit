@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:apereo:bw-webdav:3.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:bw-webdav:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:bw-webdav:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:bw-webdav:4.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:bw-webdav:4.0.3:*:*:*:*:*:*:*

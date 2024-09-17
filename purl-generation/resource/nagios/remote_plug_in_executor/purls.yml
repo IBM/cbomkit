@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/nagios-nrpe
+  - pkg:deb/ubuntu/nagios-nrpe
+  - pkg:github/nagiosenterprises/nrpe
+  - pkg:rpm/opensuse/nagios-nrpe

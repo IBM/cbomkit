@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:nistec_project:nistec:0.0.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:nistec_project:nistec:*:*:*:*:*:go:*:*
+  - cpe:2.3:a:nistec_project:nistec:-:*:*:*:*:go:*:*

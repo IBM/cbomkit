@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ultralytics/yolov3
+  - pkg:pypi/yolov3

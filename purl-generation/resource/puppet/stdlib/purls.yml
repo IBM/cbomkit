@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/puppet-module-puppetlabs-stdlib
+  - pkg:deb/ubuntu/puppet-module-puppetlabs-stdlib
+  - pkg:github/puppetlabs/puppetlabs-stdlib
+  - pkg:gitlab/simp/puppetlabs-stdlib
+  - pkg:rpm/opensuse/puppetlabs-stdlib

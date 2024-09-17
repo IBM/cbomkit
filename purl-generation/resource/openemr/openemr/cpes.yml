@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:openemr:openemr:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openemr:openemr:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openemr:openemr:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openemr:openemr:5.0.1-dev:*:*:*:*:*:*:*

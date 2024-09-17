@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:sap:business-one-hana-chef-cookbook:0.1.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:sap:business-one-hana-chef-cookbook:0.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:sap:business-one-hana-chef-cookbook:0.1.7:*:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/checkstyle
+  - pkg:deb/ubuntu/checkstyle
+  - pkg:github/checkstyle/checkstyle
+  - pkg:maven/com.puppycrawl.tools/checkstyle
+  - pkg:rpm/opensuse/checkstyle
+  - pkg:sourceforge/checkstyle

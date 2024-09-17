@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:keplerproject:cgilua:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:keplerproject:cgilua:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:keplerproject:cgilua:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:keplerproject:cgilua:5.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:keplerproject:cgilua:5.2:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:keplerproject:cgilua:5.2:alpha2:*:*:*:*:*:*

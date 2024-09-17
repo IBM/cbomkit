@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/duncaen/opendoas
+  - pkg:github/nholstein/opendoas
+  - pkg:rpm/fedora/opendoas
+  - pkg:rpm/opensuse/opendoas

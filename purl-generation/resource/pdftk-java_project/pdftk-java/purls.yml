@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/pdftk-java
+  - pkg:deb/ubuntu/pdftk-java
+  - pkg:github/flock-homes/pdftk-java
+  - pkg:gitlab/pdftk-java/pdftk
+  - pkg:rpm/fedora/pdftk-java

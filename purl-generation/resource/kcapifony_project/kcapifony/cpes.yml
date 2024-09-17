@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:kcapifony_project:kcapifony:2.1.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:kcapifony_project:kcapifony:2.1.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:kcapifony_project:kcapifony:2.1.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:kcapifony_project:kcapifony:2.1.6:*:*:*:*:ruby:*:*

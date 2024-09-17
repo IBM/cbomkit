@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/fabiocaccamo/utils.js
+  - pkg:npm/%40fabiocaccamo/utils.js

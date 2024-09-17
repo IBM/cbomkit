@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/apache/airavata-django-portal
+  - pkg:github/apache/airavata-django-portal-commons
+  - pkg:github/apache/airavata-django-portal-sdk

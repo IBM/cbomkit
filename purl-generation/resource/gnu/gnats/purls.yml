@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/gnats
+  - pkg:deb/ubuntu/gnats
+  - pkg:gnu/gnats

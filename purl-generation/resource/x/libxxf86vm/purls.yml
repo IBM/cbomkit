@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libxxf86vm
+  - pkg:deb/ubuntu/libxxf86vm
+  - pkg:github/freedesktop/libxxf86vm
+  - pkg:github/freedesktop/xorg-libxxf86vm
+  - pkg:github/neverware-mirrors/libxxf86vm
+  - pkg:rpm/centos/libxxf86vm
+  - pkg:rpm/fedora/libxxf86vm
+  - pkg:rpm/opensuse/libxxf86vm

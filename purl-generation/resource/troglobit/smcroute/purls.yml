@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/smcroute
+  - pkg:deb/ubuntu/smcroute
+  - pkg:github/troglobit/smcroute
+  - pkg:rpm/opensuse/smcroute

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openstack/python-keystoneclient
+  - pkg:pypi/python-keystoneclient

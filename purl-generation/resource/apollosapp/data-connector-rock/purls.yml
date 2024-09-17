@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/apollosproject/apollos-apps
+  - pkg:npm/%40apollosproject/data-connector-rock

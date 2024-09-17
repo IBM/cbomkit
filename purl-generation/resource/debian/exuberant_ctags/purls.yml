@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/exuberant-ctags
+  - pkg:sourceforge/ctags

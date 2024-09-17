@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/websvnphp/websvn
+  - pkg:rpm/fedora/websvn
+  - pkg:rpm/opensuse/websvn

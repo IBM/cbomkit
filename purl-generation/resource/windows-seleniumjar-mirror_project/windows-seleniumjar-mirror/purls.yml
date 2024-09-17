@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/isnit0/windows_seleniumjar
+  - pkg:npm/windows-seleniumjar-mirror

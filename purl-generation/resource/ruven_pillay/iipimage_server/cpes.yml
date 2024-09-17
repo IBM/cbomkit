@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:ruven_pillay:iipimage_server:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ruven_pillay:iipimage_server:0.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ruven_pillay:iipimage_server:0.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ruven_pillay:iipimage_server:0.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ruven_pillay:iipimage_server:0.9.6:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/google/voice-builder
+  - pkg:googlesource/voice-builder

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ablankenship10/goserv
+  - pkg:npm/goserv

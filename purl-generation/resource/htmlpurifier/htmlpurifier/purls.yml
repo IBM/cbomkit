@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-htmlpurifier
+  - pkg:deb/ubuntu/php-htmlpurifier
+  - pkg:github/ezyang/htmlpurifier
+  - pkg:rpm/opensuse/php-pear-htmlpurifier

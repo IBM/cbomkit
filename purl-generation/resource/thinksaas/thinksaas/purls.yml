@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/thinksaas/thinksaas
+  - pkg:github/thinksaas/thinksaas

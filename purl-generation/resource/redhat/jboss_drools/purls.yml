@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bobmcwhirter/drools
+  - pkg:github/maciejwalkowiak/junit-drools

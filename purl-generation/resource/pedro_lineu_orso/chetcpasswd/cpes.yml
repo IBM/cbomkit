@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:pedro_lineu_orso:chetcpasswd:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pedro_lineu_orso:chetcpasswd:1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:pedro_lineu_orso:chetcpasswd:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pedro_lineu_orso:chetcpasswd:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pedro_lineu_orso:chetcpasswd:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pedro_lineu_orso:chetcpasswd:2.3.3:*:*:*:*:*:*:*

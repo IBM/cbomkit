@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-cache-base
+  - pkg:deb/ubuntu/node-cache-base
+  - pkg:github/jonschlinkert/cache-base
+  - pkg:maven/org.webjars.npm/cache-base
+  - pkg:npm/cache-base
+  - pkg:rpm/fedora/nodejs-cache-base

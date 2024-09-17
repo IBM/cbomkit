@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/vseryakov/bkjs-wand
+  - pkg:npm/bkjs-wand

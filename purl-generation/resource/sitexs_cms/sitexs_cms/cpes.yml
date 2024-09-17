@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:sitexs_cms:sitexs_cms:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sitexs_cms:sitexs_cms:0.1:pre-alpha:*:*:*:*:*:*
+  - cpe:2.3:a:sitexs_cms:sitexs_cms:*:pre-alpha:*:*:*:*:*:*

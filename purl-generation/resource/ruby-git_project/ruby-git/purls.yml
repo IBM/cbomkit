@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/ruby-git
+  - pkg:github/ruby-git/ruby-git

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libgd3
+  - pkg:deb/debian/libgd-dev
+  - pkg:deb/ubuntu/libgd3
+  - pkg:deb/ubuntu/libgd-dev
+  - pkg:github/libgd/libgd

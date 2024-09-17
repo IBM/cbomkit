@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/password-store
+  - pkg:deb/ubuntu/password-store
+  - pkg:github/zx2c4/password-store
+  - pkg:rpm/opensuse/password-store

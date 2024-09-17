@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:libgit2_project:libgit2:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:libgit2_project:libgit2:0.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libgit2_project:libgit2:0.25.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:libgit2_project:libgit2:0.25.0:rc2:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/redpanda-data/redpanda
+  - pkg:golang/github.com/redpanda-data/redpanda

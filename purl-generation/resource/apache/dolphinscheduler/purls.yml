@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/dolphinscheduler
+  - pkg:docker/apache/dolphinscheduler
+  - pkg:github/apache/dolphinscheduler
+  - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler

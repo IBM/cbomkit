@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dylanvann/react-native-fast-image
+  - pkg:npm/react-native-fast-image

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-mermaid
+  - pkg:deb/ubuntu/node-mermaid
+  - pkg:github/mermaid-js/mermaid
+  - pkg:maven/org.webjars.npm/mermaid
+  - pkg:npm/mermaid
+  - pkg:sourceforge/mermaid.mirror

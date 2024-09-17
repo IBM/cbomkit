@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/grilo
+  - pkg:deb/ubuntu/grilo
+  - pkg:github/gnome/grilo
+  - pkg:gitlab/redhat/grilo
+  - pkg:rpm/centos/grilo
+  - pkg:rpm/fedora/grilo
+  - pkg:rpm/opensuse/grilo

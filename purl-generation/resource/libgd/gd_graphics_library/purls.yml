@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/libgd/libgd
+  - pkg:golang/github.com/libgd/libgd

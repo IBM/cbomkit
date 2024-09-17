@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/php-horde-text-filter-jsmin
+  - pkg:deb/ubuntu/php-horde-text-filter-jsmin
+  - pkg:github/horde/text_filter_jsmin

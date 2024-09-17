@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:pixelpost:pixelpost:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixelpost:pixelpost:1.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixelpost:pixelpost:1.5_beta1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixelpost:pixelpost:1.5_rc1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixelpost:pixelpost:1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixelpost:pixelpost:1.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixelpost:pixelpost:1.7.1-5:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixelpost:pixelpost:1.7.3:*:*:*:*:*:*:*

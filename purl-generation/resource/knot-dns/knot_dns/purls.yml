@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/edmonds/knot-dns
+  - pkg:github/vanrein/knot-dns

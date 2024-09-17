@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/struts
+  - pkg:github/apache/struts
+  - pkg:maven/org.apache.struts/struts2-showcase

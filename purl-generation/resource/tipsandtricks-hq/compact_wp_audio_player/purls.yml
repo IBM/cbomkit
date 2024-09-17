@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/elimendonca/compact-wp-audio-player
+  - pkg:github/wp-plugins/compact-wp-audio-player
+  - pkg:github/wpplugins/compact-wp-audio-player

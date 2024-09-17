@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:synopsys:black_duck_hub:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:synopsys:black_duck_hub:2022.4.0:*:*:*:*:*:*:*

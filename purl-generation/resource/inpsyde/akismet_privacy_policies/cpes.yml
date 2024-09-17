@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:inpsyde:akismet_privacy_policies:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:inpsyde:akismet_privacy_policies:-:*:*:*:*:wordpress:*:*

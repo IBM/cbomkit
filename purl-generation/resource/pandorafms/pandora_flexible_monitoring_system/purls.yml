@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/pandorafms/pandorafms-base
+  - pkg:github/pandorafms/pandorafms
+  - pkg:sourceforge/pandora

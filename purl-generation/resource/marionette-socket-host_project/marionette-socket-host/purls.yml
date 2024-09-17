@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ahal/marionette-socket-host
+  - pkg:npm/marionette-socket-host

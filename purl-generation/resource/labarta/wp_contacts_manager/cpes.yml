@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:labarta:wp_contacts_manager:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:labarta:wp_contacts_manager:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:labarta:wp_contacts_manager:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:labarta:wp_contacts_manager:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:labarta:wp_contacts_manager:2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:labarta:wp_contacts_manager:2.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:labarta:wp_contacts_manager:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:labarta:wp_contacts_manager:-:*:*:*:*:wordpress:*:*

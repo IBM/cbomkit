@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/boot2docker/boot2docker
+  - pkg:github/boot2docker/boot2docker
+  - pkg:sourceforge/boot2docker.mirror

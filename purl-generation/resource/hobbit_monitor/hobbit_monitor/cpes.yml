@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:hobbit_monitor:hobbit_monitor:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:hobbit_monitor:hobbit_monitor:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hobbit_monitor:hobbit_monitor:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hobbit_monitor:hobbit_monitor:4.2_beta:*:*:*:*:*:*:*

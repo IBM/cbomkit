@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:jenkins:deployer_framework:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:deployer_framework:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:deployer_framework:1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:deployer_framework:85.v1d1888e8c021:*:*:*:*:jenkins:*:*

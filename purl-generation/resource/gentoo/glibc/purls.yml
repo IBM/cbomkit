@@ -1,0 +1,9 @@
+purls:
+  - pkg:bitbucket/instigorepo/glibc
+  - pkg:deb/debian/glibc
+  - pkg:deb/ubuntu/glibc
+  - pkg:github/gentoo/glibc
+  - pkg:gitlab/redhat/glibc
+  - pkg:rpm/centos/glibc
+  - pkg:rpm/fedora/glibc
+  - pkg:rpm/opensuse/glibc

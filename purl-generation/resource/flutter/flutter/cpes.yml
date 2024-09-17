@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:flutter:flutter:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:flutter:flutter:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:flutter:flutter:3.3.3:*:*:*:*:*:*:*

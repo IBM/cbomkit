@@ -1,0 +1,9 @@
+purls:
+  - pkg:cpan/python-decorator
+  - pkg:deb/debian/python-decorator
+  - pkg:deb/ubuntu/python-decorator
+  - pkg:gem/ruby_decorators
+  - pkg:gitlab/redhat/python-decorator
+  - pkg:pypi/decorator
+  - pkg:rpm/fedora/python-decorator
+  - pkg:rpm/opensuse/python-decorator

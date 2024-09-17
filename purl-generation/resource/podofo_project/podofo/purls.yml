@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/mekentosj/podofo
+  - pkg:rpm/fedora/podofo
+  - pkg:rpm/opensuse/podofo
+  - pkg:sourceforge/podofo

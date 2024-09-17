@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/antville/antville
+  - pkg:golang/github.com/antville/antville

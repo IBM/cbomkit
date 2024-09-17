@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jedwing/chmlib
+  - pkg:rpm/fedora/chmlib
+  - pkg:rpm/opensuse/chmlib

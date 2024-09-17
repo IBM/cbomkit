@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:ni:system_configuration:14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ni:system_configuration:14.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ni:system_configuration:14.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ni:system_configuration:15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ni:system_configuration:15.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ni:system_configuration:16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ni:system_configuration:16.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ni:system_configuration:17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ni:system_configuration:17.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ni:system_configuration:18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ni:system_configuration:18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ni:system_configuration:18.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ni:system_configuration:19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ni:system_configuration:19.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ni:system_configuration:20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ni:system_configuration:2022:q3:*:*:*:*:*:*
+  - cpe:2.3:a:ni:system_configuration:2023:q2:*:*:*:*:*:*
+  - cpe:2.3:a:ni:system_configuration:2023:q3:*:*:*:*:*:*
+  - cpe:2.3:a:ni:system_configuration:20.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ni:system_configuration:21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ni:system_configuration:21.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ni:system_configuration:5.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ni:system_configuration:5.6:*:*:*:*:*:*:*

@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:micromathematics_project:micromathematics:2.15.2:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:micromathematics_project:micromathematics:2.15.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:micromathematics_project:micromathematics:2.15.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:micromathematics_project:micromathematics:2.15.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:micromathematics_project:micromathematics:2.15.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:micromathematics_project:micromathematics:2.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:micromathematics_project:micromathematics:2.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:micromathematics_project:micromathematics:2.16.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:micromathematics_project:micromathematics:2.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:micromathematics_project:micromathematics:2.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:micromathematics_project:micromathematics:2.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:micromathematics_project:micromathematics:2.17.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:micromathematics_project:micromathematics:2.17.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:micromathematics_project:micromathematics:2.18.0:*:*:*:*:*:*:*

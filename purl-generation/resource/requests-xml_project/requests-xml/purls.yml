@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/erinxocon/requests-xml
+  - pkg:pypi/requests-xml

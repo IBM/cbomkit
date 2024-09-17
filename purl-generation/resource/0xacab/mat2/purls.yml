@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/mat2
+  - pkg:deb/ubuntu/mat2
+  - pkg:github/atenart/mat2
+  - pkg:github/jvoisin/mat2
+  - pkg:pypi/mat2
+  - pkg:rpm/opensuse/python-mat2

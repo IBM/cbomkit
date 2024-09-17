@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:httpserver_project:httpserver:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:httpserver_project:httpserver:-:*:*:*:*:*:*:*

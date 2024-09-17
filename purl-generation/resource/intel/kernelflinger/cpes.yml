@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:intel:kernelflinger:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:intel:kernelflinger:2021-06-28:*:*:*:*:*:*:*

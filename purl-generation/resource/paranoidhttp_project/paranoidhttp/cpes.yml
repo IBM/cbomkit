@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:paranoidhttp_project:paranoidhttp:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:paranoidhttp_project:paranoidhttp:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:paranoidhttp_project:paranoidhttp:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:paranoidhttp_project:paranoidhttp:0.2.0:*:*:*:*:*:*:*

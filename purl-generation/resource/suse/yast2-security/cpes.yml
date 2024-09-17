@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:suse:yast2-security:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:yast2-security:4.2.6:*:*:*:*:*:*:*

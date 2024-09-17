@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/btcpayserver/btcpayserver
+  - pkg:github/btcpayserver/btcpayserver

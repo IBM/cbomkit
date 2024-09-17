@@ -1,0 +1,10 @@
+purls:
+  - pkg:docker/finodigital/ruamel-yaml
+  - pkg:github/commx/ruamel-yaml
+  - pkg:github/pycontribs/ruyaml
+  - pkg:gitlab/redhat/python-ruamel-yaml
+  - pkg:pypi/ruamel.yaml
+  - pkg:pypi/ruyaml
+  - pkg:rpm/fedora/python-ruamel-yaml
+  - pkg:rpm/opensuse/python-ruamel-yaml
+  - pkg:sourceforge/ruamel-yaml

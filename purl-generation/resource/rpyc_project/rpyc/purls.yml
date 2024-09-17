@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/rpyc
+  - pkg:deb/ubuntu/rpyc
+  - pkg:github/tomerfiliba-org/rpyc
+  - pkg:pypi/rpyc
+  - pkg:rpm/fedora/python-rpyc
+  - pkg:rpm/opensuse/python-rpyc
+  - pkg:sourceforge/rpyc

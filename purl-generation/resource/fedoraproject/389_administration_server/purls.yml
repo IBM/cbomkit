@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/389-admin
+  - pkg:deb/ubuntu/389-admin
+  - pkg:github/389ds/389-ds-base
+  - pkg:rpm/fedora/389-admin
+  - pkg:rpm/opensuse/389-admin

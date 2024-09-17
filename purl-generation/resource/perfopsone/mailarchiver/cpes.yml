@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:perfopsone:mailarchiver:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:perfopsone:mailarchiver:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:perfopsone:mailarchiver:1.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:perfopsone:mailarchiver:1.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:perfopsone:mailarchiver:1.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:perfopsone:mailarchiver:1.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:perfopsone:mailarchiver:1.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:perfopsone:mailarchiver:1.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:perfopsone:mailarchiver:1.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:perfopsone:mailarchiver:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:perfopsone:mailarchiver:2.10.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:perfopsone:mailarchiver:2.10.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:perfopsone:mailarchiver:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:perfopsone:mailarchiver:2.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:perfopsone:mailarchiver:2.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:perfopsone:mailarchiver:2.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:perfopsone:mailarchiver:2.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:perfopsone:mailarchiver:2.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:perfopsone:mailarchiver:2.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:perfopsone:mailarchiver:2.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:perfopsone:mailarchiver:2.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:perfopsone:mailarchiver:2.8.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:perfopsone:mailarchiver:2.9.0:*:*:*:*:wordpress:*:*

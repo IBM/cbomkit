@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:cyberpowersystems:powerpanel:2.1.2:*:*:*:business:*:*:*
+  - cpe:2.3:a:cyberpowersystems:powerpanel:2.1.5:*:*:*:business:*:*:*
+  - cpe:2.3:a:cyberpowersystems:powerpanel:2.1.7:*:*:*:business:*:*:*
+  - cpe:2.3:a:cyberpowersystems:powerpanel:2.6.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:cyberpowersystems:powerpanel:2.9.0:*:*:*:business:*:*:*
+  - cpe:2.3:a:cyberpowersystems:powerpanel:3.1.2:*:*:*:business:*:*:*
+  - cpe:2.3:a:cyberpowersystems:powerpanel:3.1:*:*:*:business:*:*:*
+  - cpe:2.3:a:cyberpowersystems:powerpanel:3.2.1:*:*:*:business:*:*:*
+  - cpe:2.3:a:cyberpowersystems:powerpanel:3.2.2:*:*:*:business:*:*:*
+  - cpe:2.3:a:cyberpowersystems:powerpanel:3.2.3:*:*:*:business:*:*:*
+  - cpe:2.3:a:cyberpowersystems:powerpanel:3.2:*:*:*:business:*:*:*
+  - cpe:2.3:a:cyberpowersystems:powerpanel:3.3:*:*:*:business:*:*:*
+  - cpe:2.3:a:cyberpowersystems:powerpanel:3.4.0:*:*:*:business:*:*:*

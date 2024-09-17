@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/eernie/stashbranchparametersplugin
+  - pkg:github/jenkinsci/stash-branch-parameters-plugin
+  - pkg:github/proski/stash-branch-parameters-plugin

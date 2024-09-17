@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/tryton-proteus
+  - pkg:deb/ubuntu/tryton-proteus
+  - pkg:github/tryton/proteus
+  - pkg:pypi/proteus
+  - pkg:rpm/fedora/python-proteus
+  - pkg:rpm/opensuse/python-proteus

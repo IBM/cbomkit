@@ -1,0 +1,2 @@
+purls:
+  - pkg:github/flask-middleware/flask-security

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:d3.js_project:d3.js:1.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:d3.js_project:d3.js:-:*:*:*:*:node.js:*:*

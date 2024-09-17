@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/nagios4
+  - pkg:deb/ubuntu/nagios4
+  - pkg:github/nagiosenterprises/nagioscore
+  - pkg:rpm/fedora/nagios
+  - pkg:rpm/opensuse/nagios
+  - pkg:sourceforge/nagios

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/jython
+  - pkg:deb/ubuntu/jython
+  - pkg:github/jython/jython
+  - pkg:maven/org.python/jython
+  - pkg:rpm/fedora/jython
+  - pkg:rpm/opensuse/jython
+  - pkg:sourceforge/jython

@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/yukh/rconfig
+  - pkg:github/rconfig/rconfig

@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:export_users_to_csv_project:export_users_to_csv:0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:export_users_to_csv_project:export_users_to_csv:0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:export_users_to_csv_project:export_users_to_csv:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:export_users_to_csv_project:export_users_to_csv:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:export_users_to_csv_project:export_users_to_csv:1.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:export_users_to_csv_project:export_users_to_csv:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:export_users_to_csv_project:export_users_to_csv:1.4.2:*:*:*:*:wordpress:*:*

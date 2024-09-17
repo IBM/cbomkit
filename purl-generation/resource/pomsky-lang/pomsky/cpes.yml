@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:pomsky-lang:pomsky:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pomsky-lang:pomsky:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pomsky-lang:pomsky:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pomsky-lang:pomsky:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pomsky-lang:pomsky:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pomsky-lang:pomsky:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pomsky-lang:pomsky:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pomsky-lang:pomsky:0.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pomsky-lang:pomsky:0.4.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:pomsky-lang:pomsky:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:pomsky-lang:pomsky:0.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:pomsky-lang:pomsky:0.7:*:*:*:*:rust:*:*
+  - cpe:2.3:a:pomsky-lang:pomsky:*:*:*:*:*:rust:*:*

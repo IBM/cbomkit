@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:drupal:nodeaccess_userreference:5.x-1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:nodeaccess_userreference:5.x-1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:nodeaccess_userreference:5.x-1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:nodeaccess_userreference:5.x-1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:nodeaccess_userreference:5.x-1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:nodeaccess_userreference:5.x-2.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:nodeaccess_userreference:5.x-2.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:nodeaccess_userreference:5.x-2.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:nodeaccess_userreference:6.x-1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:nodeaccess_userreference:6.x-1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:nodeaccess_userreference:6.x-1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:nodeaccess_userreference:6.x-1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:nodeaccess_userreference:6.x-1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:nodeaccess_userreference:6.x-1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:nodeaccess_userreference:6.x-1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:nodeaccess_userreference:6.x-2.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:nodeaccess_userreference:6.x-2.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:nodeaccess_userreference:6.x-2.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:nodeaccess_userreference:6.x-2.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:nodeaccess_userreference:6.x-2.0:beta5:*:*:*:*:*:*

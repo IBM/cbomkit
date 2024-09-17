@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/codehaus-plexus/plexus-utils
+  - pkg:maven/org.codehaus.plexus/plexus-utils
+  - pkg:rpm/fedora/plexus-utils
+  - pkg:rpm/opensuse/plexus-utils

@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:falconpl:falconpl:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:falconpl:falconpl:0.8.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:falconpl:falconpl:0.9.6.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:falconpl:falconpl:0.9.6.9:*:*:*:*:*:*:*

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/onnx
+  - pkg:deb/ubuntu/onnx
+  - pkg:github/onnx/onnx
+  - pkg:golang/github.com/onnx/onnx
+  - pkg:pypi/onnx
+  - pkg:rpm/opensuse/libonnx
+  - pkg:sourceforge/onnx.mirror

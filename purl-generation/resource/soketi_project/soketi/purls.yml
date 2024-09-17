@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/soketi/soketi
+  - pkg:npm/%40soketi/soketi

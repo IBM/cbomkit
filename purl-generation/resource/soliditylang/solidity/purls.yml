@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ethereum/solidity
+  - pkg:rpm/opensuse/solidity
+  - pkg:sourceforge/solidity.mirror

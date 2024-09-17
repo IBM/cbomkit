@@ -1,0 +1,7 @@
+purls:
+  - pkg:github/onelogin/python-saml
+  - pkg:github/python3-saml
+  - pkg:pypi/python3-saml
+  - pkg:pypi/python-saml
+  - pkg:rpm/fedora/python3-saml
+  - pkg:rpm/opensuse/python-python-saml

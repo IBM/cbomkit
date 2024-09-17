@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/google/slo-generator
+  - pkg:pypi/slo-generator

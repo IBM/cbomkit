@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:ec-cube:amazon_pay:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:amazon_pay:2.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:amazon_pay:2.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:amazon_pay:2.4.2:*:*:*:*:*:*:*

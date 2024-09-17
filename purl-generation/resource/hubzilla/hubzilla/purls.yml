@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/briddle/hubzilla
+  - pkg:github/haakonme/hubzilla
+  - pkg:github/scjody/hubzilla

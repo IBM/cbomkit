@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cainthebest/nitrado.js
+  - pkg:npm/nitrado.js

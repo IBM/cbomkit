@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/prestashop/prestashop
+  - pkg:docker/prestashop/prestashop
+  - pkg:github/prestashop/prestashop

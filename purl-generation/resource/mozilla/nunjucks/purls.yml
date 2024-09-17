@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/mozilla/nunjucks
+  - pkg:maven/org.webjars.npm/nunjucks
+  - pkg:npm/nunjucks
+  - pkg:nuget/Nunjucks
+  - pkg:sourceforge/nunjucks.mirror

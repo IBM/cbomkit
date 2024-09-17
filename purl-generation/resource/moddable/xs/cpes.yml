@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:moddable:xs:10.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:moddable:xs:10.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:moddable:xs:10.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:moddable:xs:10.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:moddable:xs:10.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:moddable:xs:10.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:moddable:xs:8.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:moddable:xs:8.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:moddable:xs:8.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:moddable:xs:8.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:moddable:xs:8.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:moddable:xs:8.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:moddable:xs:8.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:moddable:xs:8.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:moddable:xs:9.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:moddable:xs:9.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:moddable:xs:9.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:moddable:xs:9.0.3:*:*:*:*:*:*:*

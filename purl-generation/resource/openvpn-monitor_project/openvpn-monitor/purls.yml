@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/furlongm/openvpn-monitor
+  - pkg:pypi/openvpn-monitor

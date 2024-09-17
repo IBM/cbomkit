@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/node-modules/treekill
+  - pkg:npm/treekill

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:everybit:encrypted_contact_form:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:everybit:encrypted_contact_form:1.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:everybit:encrypted_contact_form:1.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:everybit:encrypted_contact_form:1.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:everybit:encrypted_contact_form:1.1:*:*:*:*:wordpress:*:*

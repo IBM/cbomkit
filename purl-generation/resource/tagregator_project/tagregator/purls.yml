@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/nopesled/tagregator
+  - pkg:github/svn2github/tagregator
+  - pkg:github/wp-plugins/tagregator

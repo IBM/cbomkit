@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:manageengine:servicedesk_plus:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:manageengine:servicedesk_plus:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:manageengine:servicedesk_plus:7.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:manageengine:servicedesk_plus:7.0.0:build_7011:*:*:*:*:*:*
+  - cpe:2.3:a:manageengine:servicedesk_plus:7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:manageengine:servicedesk_plus:8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:manageengine:servicedesk_plus:8.1:*:*:*:*:*:*:*

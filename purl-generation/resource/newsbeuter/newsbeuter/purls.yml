@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/newsbeuter
+  - pkg:deb/ubuntu/newsbeuter
+  - pkg:github/akrennmair/newsbeuter
+  - pkg:rpm/fedora/newsbeuter
+  - pkg:rpm/opensuse/newsbeuter

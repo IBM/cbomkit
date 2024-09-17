@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/zip
+  - pkg:deb/ubuntu/zip
+  - pkg:github/cysin/info-zip
+  - pkg:github/luadist/zip
+  - pkg:gitlab/redhat/zip
+  - pkg:rpm/centos/zip
+  - pkg:rpm/fedora/zip
+  - pkg:rpm/opensuse/zip
+  - pkg:sourceforge/infozip

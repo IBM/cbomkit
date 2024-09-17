@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/python-virtualenv
+  - pkg:deb/ubuntu/python-virtualenv
+  - pkg:github/pypa/virtualenv
+  - pkg:gitlab/redhat/python-virtualenv
+  - pkg:pypi/virtualenv
+  - pkg:rpm/centos/python3-virtualenv
+  - pkg:rpm/fedora/python-virtualenv
+  - pkg:rpm/opensuse/python-virtualenv

@@ -1,0 +1,10 @@
+purls:
+  - pkg:bitbucket/seanvkdev/isync
+  - pkg:deb/debian/isync
+  - pkg:deb/ubuntu/isync
+  - pkg:github/brinchj/isync
+  - pkg:github/djnym/isync
+  - pkg:github/guns/isync
+  - pkg:rpm/fedora/isync
+  - pkg:rpm/opensuse/isync
+  - pkg:sourceforge/isync

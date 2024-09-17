@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:jenkins:servicenow_devops:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:servicenow_devops:1.29:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:servicenow_devops:1.30:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:servicenow_devops:1.31:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:servicenow_devops:1.32:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:servicenow_devops:1.33.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:servicenow_devops:1.34.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:servicenow_devops:1.34.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:servicenow_devops:1.35.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:servicenow_devops:1.35.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:servicenow_devops:1.36:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:servicenow_devops:1.37.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:servicenow_devops:1.38.0:*:*:*:*:jenkins:*:*

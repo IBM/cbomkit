@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/greycode/excel-streaming-reader
+  - pkg:github/monitorjbl/excel-streaming-reader
+  - pkg:github/pjfanning/excel-streaming-reader
+  - pkg:maven/com.github.greycode/excel-streaming-reader
+  - pkg:maven/com.github.pjfanning/excel-streaming-reader

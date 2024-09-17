@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:jenkins:literate:0.1:beta1:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:literate:0.1:beta2:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:literate:0.2:beta1:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:literate:0.2:beta2:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:literate:0.2:beta3:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:literate:0.2:beta4:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:literate:0.2:beta5:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:literate:1.0:*:*:*:*:jenkins:*:*

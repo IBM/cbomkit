@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/qpid
+  - pkg:github/apache/qpid-cpp
+  - pkg:rpm/opensuse/qpid-cpp

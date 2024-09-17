@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/woa7/benno-mailarchive
+  - pkg:github/mminks/docker-benno-mailarchive

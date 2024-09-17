@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:wordpress_page_contact_project:wordpress_page_contact:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wordpress_page_contact_project:wordpress_page_contact:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wordpress_page_contact_project:wordpress_page_contact:-:*:*:*:*:wordpress:*:*

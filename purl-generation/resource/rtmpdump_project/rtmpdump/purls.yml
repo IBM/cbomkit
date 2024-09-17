@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rtmpdump
+  - pkg:deb/ubuntu/rtmpdump
+  - pkg:github/aajanki/rtmpdump
+  - pkg:github/mstorsjo/rtmpdump
+  - pkg:rpm/opensuse/rtmpdump

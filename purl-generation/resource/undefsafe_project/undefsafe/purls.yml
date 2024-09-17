@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/remy/undefsafe
+  - pkg:maven/org.webjars.npm/undefsafe
+  - pkg:npm/undefsafe

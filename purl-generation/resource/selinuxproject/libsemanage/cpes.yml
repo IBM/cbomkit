@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:selinuxproject:libsemanage:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:libsemanage:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:libsemanage:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:libsemanage:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:libsemanage:2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:libsemanage:2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:libsemanage:2.8:-:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:libsemanage:2.8:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:libsemanage:2.8:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:libsemanage:2.8:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:libsemanage:2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:libsemanage:3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:libsemanage:3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:libsemanage:3.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:libsemanage:3.1:rc2:*:*:*:*:*:*

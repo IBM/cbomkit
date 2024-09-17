@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:nas4free:nas4free:9.1.0.1.798:*:*:*:*:*:*:*
+  - cpe:2.3:a:nas4free:nas4free:9.1.0.1.804:*:*:*:*:*:*:*
+  - cpe:2.3:a:nas4free:nas4free:9.1.0.1.847:*:*:*:*:*:*:*

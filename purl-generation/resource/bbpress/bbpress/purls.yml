@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bbpress/bbpress
+  - pkg:github/wp-plugins/bbpress

@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:jenkins:inedo_proget:0.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:inedo_proget:0.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:inedo_proget:0.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:inedo_proget:0.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:inedo_proget:0.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:inedo_proget:0.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:inedo_proget:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:inedo_proget:1.2:*:*:*:*:jenkins:*:*

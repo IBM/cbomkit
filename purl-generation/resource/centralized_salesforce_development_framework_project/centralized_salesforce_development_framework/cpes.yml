@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:centralized_salesforce_development_framework_project:centralized_salesforce_development_framework:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:centralized_salesforce_development_framework_project:centralized_salesforce_development_framework:-:*:*:*:*:*:*:*

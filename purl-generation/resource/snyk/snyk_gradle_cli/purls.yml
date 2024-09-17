@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/snyk/snyk-gradle-plugin
+  - pkg:maven/org.webjars.npm/snyk-gradle-plugin
+  - pkg:npm/snyk-gradle-plugin

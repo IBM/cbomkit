@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/oath-toolkit
+  - pkg:deb/ubuntu/oath-toolkit
+  - pkg:github/dimitripapadopoulos/oath-toolkit
+  - pkg:github/malept/oath-toolkit
+  - pkg:github/paulyc/oath-toolkit
+  - pkg:gnu/oath-toolkit
+  - pkg:rpm/fedora/oath-toolkit
+  - pkg:rpm/opensuse/oath-toolkit

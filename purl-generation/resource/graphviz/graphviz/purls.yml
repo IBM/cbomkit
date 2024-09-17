@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/graphviz
+  - pkg:deb/ubuntu/graphviz
+  - pkg:docker/graphviz/graphviz
+  - pkg:github/dreamsxin/graphviz
+  - pkg:github/ellson/mothballed-graphviz
+  - pkg:gitlab/graphviz/graphviz
+  - pkg:nuget/Graphviz
+  - pkg:rpm/centos/graphviz
+  - pkg:rpm/fedora/graphviz
+  - pkg:rpm/opensuse/graphviz

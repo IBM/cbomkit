@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/geonode/geonode
+  - pkg:pypi/geonode
+  - pkg:sourceforge/geonode.mirror

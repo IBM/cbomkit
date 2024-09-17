@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/php-horde-ansel
+  - pkg:deb/ubuntu/php-horde-ansel
+  - pkg:github/horde/ansel

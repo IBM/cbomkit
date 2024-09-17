@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gnome/fractal
+  - pkg:rpm/opensuse/fractal

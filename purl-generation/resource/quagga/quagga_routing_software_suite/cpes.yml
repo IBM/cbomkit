@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:quagga:quagga_routing_software_suite:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:quagga:quagga_routing_software_suite:0.95:*:*:*:*:*:*:*
+  - cpe:2.3:a:quagga:quagga_routing_software_suite:0.96.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:quagga:quagga_routing_software_suite:0.96.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:quagga:quagga_routing_software_suite:0.98.5:*:*:*:*:*:*:*

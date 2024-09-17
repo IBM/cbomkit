@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:yelp:osxcollector:1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:yelp:osxcollector:1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:yelp:osxcollector:1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:yelp:osxcollector:1.8:*:*:*:*:*:*:*

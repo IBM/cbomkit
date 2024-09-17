@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libmbedtls-dev
+  - pkg:deb/ubuntu/libmbedtls-dev
+  - pkg:github/armmbed/mbedtls
+  - pkg:rpm/fedora/mbedtls
+  - pkg:rpm/opensuse/mbedtls

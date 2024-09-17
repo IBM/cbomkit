@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/bluespice/bluespice-free
+  - pkg:sourcecode/bluespice

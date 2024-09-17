@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pandatix/go-cvss
+  - pkg:golang/github.com/pandatix/go-cvss

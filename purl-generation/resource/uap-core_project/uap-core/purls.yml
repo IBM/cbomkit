@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/uap-core
+  - pkg:deb/ubuntu/uap-core
+  - pkg:github/ua-parser/uap-core
+  - pkg:npm/uap-core

@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/wicked
+  - pkg:github/zombocom/wicked
+  - pkg:rpm/opensuse/rubygem-wicked

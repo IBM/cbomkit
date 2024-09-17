@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:2ndquadrant:pglogical:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:2ndquadrant:pglogical:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:2ndquadrant:pglogical:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:2ndquadrant:pglogical:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:2ndquadrant:pglogical:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:2ndquadrant:pglogical:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:2ndquadrant:pglogical:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:2ndquadrant:pglogical:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:2ndquadrant:pglogical:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:2ndquadrant:pglogical:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:2ndquadrant:pglogical:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:2ndquadrant:pglogical:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:2ndquadrant:pglogical:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:2ndquadrant:pglogical:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:2ndquadrant:pglogical:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:2ndquadrant:pglogical:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:2ndquadrant:pglogical:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:2ndquadrant:pglogical:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:2ndquadrant:pglogical:2.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:2ndquadrant:pglogical:2.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:2ndquadrant:pglogical:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:2ndquadrant:pglogical:3.6.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:2ndquadrant:pglogical:3.6.26:*:*:*:*:*:*:*

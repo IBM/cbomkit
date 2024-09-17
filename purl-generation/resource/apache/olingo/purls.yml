@@ -1,0 +1,3 @@
+purls:
+  - pkg:apache/olingo
+  - pkg:github/apache/olingo-odata4

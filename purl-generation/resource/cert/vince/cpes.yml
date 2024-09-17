@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:cert:vince:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:cert:vince:1.48.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cert:vince:1.49.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cert:vince:1.50.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cert:vince:1.50.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cert:vince:1.50.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cert:vince:1.50.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cert:vince:1.50.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:cert:vince:1.50.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:cert:vince:1.50.6:*:*:*:*:*:*:*

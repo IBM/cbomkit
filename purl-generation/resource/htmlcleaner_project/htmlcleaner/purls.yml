@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libhtmlcleaner-java
+  - pkg:deb/ubuntu/libhtmlcleaner-java
+  - pkg:github/amplafi/htmlcleaner
+  - pkg:github/davidsun/htmlcleaner
+  - pkg:github/sakulk/htmlcleaner
+  - pkg:maven/net.sourceforge.htmlcleaner/htmlcleaner
+  - pkg:sourceforge/htmlcleaner

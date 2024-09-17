@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/fasterxml/jackson-dataformats-text
+  - pkg:maven/com.fasterxml.jackson.core/jackson-databind

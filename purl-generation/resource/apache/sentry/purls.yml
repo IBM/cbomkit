@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/apache/sentry
+  - pkg:maven/org.apache.sentry/sentry

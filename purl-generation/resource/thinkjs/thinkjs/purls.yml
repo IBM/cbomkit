@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/thinkjs/thinkjs
+  - pkg:npm/thinkjs

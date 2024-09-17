@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:google:blink:-:*:*:*:*:chromium:*:*
+  - cpe:2.3:a:google:blink:*:*:*:*:*:chromium:x64:*
+  - cpe:2.3:a:google:blink:m11:*:*:*:*:chromium:*:*
+  - cpe:2.3:a:google:blink:m12:*:*:*:*:chromium:x64:*
+  - cpe:2.3:a:google:blink:m13:*:*:*:*:chromium:*:*

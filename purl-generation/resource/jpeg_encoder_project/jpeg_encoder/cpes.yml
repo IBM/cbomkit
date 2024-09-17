@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:jpeg_encoder_project:jpeg_encoder:2014-09-17:*:*:*:*:*:*:*
+  - cpe:2.3:a:jpeg_encoder_project:jpeg_encoder:2014-09-18:*:*:*:*:*:*:*
+  - cpe:2.3:a:jpeg_encoder_project:jpeg_encoder:2014-11-20:*:*:*:*:*:*:*
+  - cpe:2.3:a:jpeg_encoder_project:jpeg_encoder:2015-11-27:*:*:*:*:*:*:*

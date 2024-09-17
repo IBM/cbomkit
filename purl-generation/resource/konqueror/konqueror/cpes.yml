@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:konqueror:konqueror:3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:konqueror:konqueror:3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:konqueror:konqueror:3.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:konqueror:konqueror:3.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:konqueror:konqueror:3.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:konqueror:konqueror:3.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:konqueror:konqueror:3.0:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:konqueror:konqueror:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:konqueror:konqueror:3.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:konqueror:konqueror:3.1:rc1v:*:*:*:*:*:*
+  - cpe:2.3:a:konqueror:konqueror:3.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:konqueror:konqueror:3.1:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:konqueror:konqueror:3.1:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:konqueror:konqueror:3.1:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:konqueror:konqueror:3.1:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:konqueror:konqueror:3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:konqueror:konqueror:3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:konqueror:konqueror:3.5.9:*:*:*:*:*:*:*

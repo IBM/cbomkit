@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/queport/passport-sharepoint
+  - pkg:github/wp-plugins/shareaholic
+  - pkg:npm/passport-sharepoint

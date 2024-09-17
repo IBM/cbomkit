@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-ammonia
+  - pkg:deb/ubuntu/rust-ammonia
+  - pkg:github/rust-ammonia/ammonia
+  - pkg:rpm/fedora/rust-ammonia
+  - pkg:rpm/opensuse/rust-ammonia

@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/ezsystems/ezplatform-http-cache
+  - pkg:github/ezsystems/ezplatform-http-cache

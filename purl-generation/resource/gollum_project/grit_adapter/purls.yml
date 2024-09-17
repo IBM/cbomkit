@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/gollum-grit_adapter
+  - pkg:github/gollum/grit_adapter
+  - pkg:rpm/opensuse/rubygem-gollum-grit_adapter

@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/ralt/pyxtrlock
+  - pkg:github/leonnnn/pyxtrlock
+  - pkg:rpm/opensuse/pyxtrlock

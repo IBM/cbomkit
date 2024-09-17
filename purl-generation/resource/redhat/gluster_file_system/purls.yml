@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/glusterfs
+  - pkg:deb/ubuntu/glusterfs
+  - pkg:github/gluster/glusterfs
+  - pkg:gitlab/redhat/glusterfs
+  - pkg:gnu/glusterfs
+  - pkg:rpm/centos/glusterfs
+  - pkg:rpm/fedora/glusterfs
+  - pkg:rpm/opensuse/glusterfs

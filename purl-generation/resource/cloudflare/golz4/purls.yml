@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cloudflare/golz4
+  - pkg:golang/github.com/cloudflare/golz4

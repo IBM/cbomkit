@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/xchat-gnome/xchat-gnome
+  - pkg:rpm/opensuse/xchat-gnome

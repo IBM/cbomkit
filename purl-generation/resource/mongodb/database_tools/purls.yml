@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/mongo-tools
+  - pkg:deb/ubuntu/mongo-tools
+  - pkg:github/mongodb/mongo-tools
+  - pkg:rpm/opensuse/mongo-tools

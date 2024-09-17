@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:wpsymposiumpro:wp-symposium:14.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpsymposiumpro:wp-symposium:14.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpsymposiumpro:wp-symposium:14.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpsymposiumpro:wp-symposium:15.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpsymposiumpro:wp-symposium:15.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpsymposiumpro:wp-symposium:15.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpsymposiumpro:wp-symposium:15.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpsymposiumpro:wp-symposium:15.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpsymposiumpro:wp-symposium:15.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpsymposiumpro:wp-symposium:15.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpsymposiumpro:wp-symposium:-:*:*:*:*:wordpress:*:*

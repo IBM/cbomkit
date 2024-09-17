@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/snort
+  - pkg:deb/ubuntu/snort
+  - pkg:docker/vimagick/snort3
+  - pkg:github/snort3/snort3
+  - pkg:sourceforge/snort

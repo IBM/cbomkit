@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/thlorenz/parse-link-header
+  - pkg:maven/org.webjars.npm/parse-link-header
+  - pkg:npm/parse-link-header

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/crowdfavorite-mirrors/wp-w3-total-cache
+  - pkg:github/w3edge/w3-total-cache
+  - pkg:github/wp-plugins/w3-total-cache

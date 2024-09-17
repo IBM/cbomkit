@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/goauthentik/authentik
+  - pkg:golang/github.com/goauthentik/authentik

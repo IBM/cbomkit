@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/cairo
+  - pkg:deb/ubuntu/cairo
+  - pkg:github/freedesktop/cairo
+  - pkg:gitlab/redhat/cairo
+  - pkg:nuget/cairo
+  - pkg:rpm/centos/cairo
+  - pkg:rpm/fedora/cairo
+  - pkg:rpm/opensuse/cairo

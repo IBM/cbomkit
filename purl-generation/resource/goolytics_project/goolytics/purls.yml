@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/oliverschloebe/goolytics-simple-google-analytics
+  - pkg:github/wp-plugins/goolytics-simple-google-analytics
+  - pkg:github/wpplugins/goolytics-simple-google-analytics

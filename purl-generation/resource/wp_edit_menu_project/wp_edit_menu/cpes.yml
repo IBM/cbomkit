@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wp_edit_menu_project:wp_edit_menu:1.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_edit_menu_project:wp_edit_menu:-:*:*:*:*:wordpress:*:*

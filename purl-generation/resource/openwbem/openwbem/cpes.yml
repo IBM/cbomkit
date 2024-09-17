@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:openwbem:openwbem:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwbem:openwbem:3.2:*:*:*:*:*:*:*

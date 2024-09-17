@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:kordil_edms_project:kordil_edms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:kordil_edms_project:kordil_edms:2.2.60:rc3:*:*:*:*:*:*

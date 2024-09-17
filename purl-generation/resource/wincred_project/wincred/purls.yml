@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/rolangom/wincred
+  - pkg:npm/wincred

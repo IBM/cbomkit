@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:siteatschool:siteatschool:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:siteatschool:siteatschool:2.4.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:siteatschool:siteatschool:2.4.10:*:*:*:*:*:*:*

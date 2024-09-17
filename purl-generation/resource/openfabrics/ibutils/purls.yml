@@ -1,0 +1,4 @@
+purls:
+  - pkg:rpm/fedora/ibutils
+  - pkg:rpm/opensuse/ibutils
+  - pkg:rpm/opensuse/ibutils-ui

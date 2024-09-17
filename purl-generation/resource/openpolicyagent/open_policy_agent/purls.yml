@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/open-policy-agent/opa
+  - pkg:rpm/fedora/open-policy-agent

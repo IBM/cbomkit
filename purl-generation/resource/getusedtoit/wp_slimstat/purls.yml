@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bretweinraub/wp-slimstat
+  - pkg:github/slimstat/wp-slimstat
+  - pkg:github/wp-plugins/wp-slimstat

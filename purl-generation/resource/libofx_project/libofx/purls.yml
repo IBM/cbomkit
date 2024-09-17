@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libofx
+  - pkg:deb/ubuntu/libofx
+  - pkg:github/libofx/libofx
+  - pkg:rpm/fedora/libofx
+  - pkg:rpm/opensuse/libofx

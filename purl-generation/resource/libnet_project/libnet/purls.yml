@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/libnet/libnet
+  - pkg:gitlab/redhat/libnet
+  - pkg:rpm/centos/libnet
+  - pkg:rpm/fedora/libnet
+  - pkg:sourceforge/libnet-dev

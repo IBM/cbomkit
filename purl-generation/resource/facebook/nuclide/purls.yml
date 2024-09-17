@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/facebookarchive/nuclide
+  - pkg:npm/nuclide

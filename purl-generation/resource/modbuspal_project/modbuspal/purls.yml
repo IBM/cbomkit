@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/gavioto/modbuspal
+  - pkg:github/scada-lts/modbuspal
+  - pkg:github/zeelos/modbuspal
+  - pkg:sourceforge/modbuspal

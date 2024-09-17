@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:arenavec_project:arenavec:2021-01-12:*:*:*:*:rust:*:*
+  - cpe:2.3:a:arenavec_project:arenavec:-:*:*:*:*:rust:*:*

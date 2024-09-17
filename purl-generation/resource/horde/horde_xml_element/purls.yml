@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-xml-element
+  - pkg:deb/ubuntu/php-horde-xml-element
+  - pkg:github/horde/xml_element
+  - pkg:rpm/fedora/php-horde-horde-xml-element

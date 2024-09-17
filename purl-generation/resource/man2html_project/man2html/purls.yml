@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/man2html
+  - pkg:deb/ubuntu/man2html
+  - pkg:rpm/fedora/man2html
+  - pkg:rpm/opensuse/man2html

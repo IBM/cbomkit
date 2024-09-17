@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:bkmacdaddy:pinterest_rss_widget:2.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bkmacdaddy:pinterest_rss_widget:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bkmacdaddy:pinterest_rss_widget:-:*:*:*:*:wordpress:*:*

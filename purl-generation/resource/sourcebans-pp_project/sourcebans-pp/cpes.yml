@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:sourcebans-pp_project:sourcebans-pp:1.4.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourcebans-pp_project:sourcebans-pp:1.4.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourcebans-pp_project:sourcebans-pp:1.5.0f:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourcebans-pp_project:sourcebans-pp:1.5.1f:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourcebans-pp_project:sourcebans-pp:1.5.2f:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourcebans-pp_project:sourcebans-pp:1.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourcebans-pp_project:sourcebans-pp:1.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourcebans-pp_project:sourcebans-pp:1.5.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourcebans-pp_project:sourcebans-pp:1.5.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourcebans-pp_project:sourcebans-pp:1.5.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourcebans-pp_project:sourcebans-pp:1.5.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourcebans-pp_project:sourcebans-pp:1.5.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourcebans-pp_project:sourcebans-pp:1.5.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourcebans-pp_project:sourcebans-pp:1.5.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourcebans-pp_project:sourcebans-pp:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourcebans-pp_project:sourcebans-pp:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourcebans-pp_project:sourcebans-pp:1.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourcebans-pp_project:sourcebans-pp:1.6.3:*:*:*:*:*:*:*

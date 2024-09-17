@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:md_project:md:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:md_project:md:1.0:*:*:*:*:wechat:*:*

@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:wowraidmanager:wowraidmanager:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:wowraidmanager:wowraidmanager:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wowraidmanager:wowraidmanager:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wowraidmanager:wowraidmanager:3.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wowraidmanager:wowraidmanager:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wowraidmanager:wowraidmanager:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wowraidmanager:wowraidmanager:3.5.0:*:*:*:*:*:*:*

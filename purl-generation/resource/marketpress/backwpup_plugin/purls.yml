@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/akira-sakamoto/backwpup
+  - pkg:github/inpsyde/backwpup
+  - pkg:github/wp-plugins/backwpup

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:nintendo:mario_kart_8:-:*:*:*:-:*:*:*
+  - cpe:2.3:a:nintendo:mario_kart_8:*:*:*:*:deluxe:*:*:*
+  - cpe:2.3:a:nintendo:mario_kart_8:-:*:*:*:deluxe:*:*:*

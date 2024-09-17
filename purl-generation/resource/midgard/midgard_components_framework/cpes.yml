@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:midgard:midgard_components_framework:2.9:beta16-beta:*:*:*:*:*:*
+  - cpe:2.3:a:midgard:midgard_components_framework:2.9:beta17:*:*:*:*:*:*
+  - cpe:2.3:a:midgard:midgard_components_framework:8.09.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:midgard:midgard_components_framework:8.09.0:beta1-beta:*:*:*:*:*:*
+  - cpe:2.3:a:midgard:midgard_components_framework:8.09.0:beta2-beta:*:*:*:*:*:*
+  - cpe:2.3:a:midgard:midgard_components_framework:8.09.0:rc2_beta:*:*:*:*:*:*
+  - cpe:2.3:a:midgard:midgard_components_framework:8.09.0:rc_beta:*:*:*:*:*:*

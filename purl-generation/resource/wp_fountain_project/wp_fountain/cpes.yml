@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:wp_fountain_project:wp_fountain:1.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_fountain_project:wp_fountain:1.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_fountain_project:wp_fountain:1.5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_fountain_project:wp_fountain:1.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_fountain_project:wp_fountain:1.5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_fountain_project:wp_fountain:1.5.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_fountain_project:wp_fountain:1.5.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_fountain_project:wp_fountain:1.5.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_fountain_project:wp_fountain:-:*:*:*:*:wordpress:*:*

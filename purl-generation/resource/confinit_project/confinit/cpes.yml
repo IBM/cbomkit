@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:confinit_project:confinit:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:confinit_project:confinit:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:confinit_project:confinit:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:confinit_project:confinit:0.4.0:*:*:*:*:node.js:*:*

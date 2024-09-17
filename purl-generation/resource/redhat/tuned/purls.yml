@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/tuned
+  - pkg:deb/ubuntu/tuned
+  - pkg:github/redhat-performance/tuned
+  - pkg:gitlab/redhat/tuned
+  - pkg:rpm/centos/tuned
+  - pkg:rpm/fedora/tuned
+  - pkg:rpm/opensuse/tuned

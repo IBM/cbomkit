@@ -1,0 +1,9 @@
+purls:
+  - pkg:bitbucket/ormlondon/select2-forked
+  - pkg:deb/debian/select2.js
+  - pkg:deb/ubuntu/select2.js
+  - pkg:github/select2/select2
+  - pkg:maven/org.webjars.npm/select2
+  - pkg:npm/select2
+  - pkg:nuget/Select2.js
+  - pkg:sourceforge/select2.mirror

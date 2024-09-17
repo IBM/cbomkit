@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:o:coreboot:coreboot:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:coreboot:coreboot:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:coreboot:coreboot:4.10:*:*:*:*:*:*:*
+  - cpe:2.3:o:coreboot:coreboot:4.11:*:*:*:*:*:*:*
+  - cpe:2.3:o:coreboot:coreboot:4.12:*:*:*:*:*:*:*
+  - cpe:2.3:o:coreboot:coreboot:4.13:*:*:*:*:*:*:*
+  - cpe:2.3:o:coreboot:coreboot:4.14:*:*:*:*:*:*:*
+  - cpe:2.3:o:coreboot:coreboot:4.15:*:*:*:*:*:*:*
+  - cpe:2.3:o:coreboot:coreboot:4.16:*:*:*:*:*:*:*
+  - cpe:2.3:o:coreboot:coreboot:4.2:*:*:*:*:*:*:*
+  - cpe:2.3:o:coreboot:coreboot:4.3:*:*:*:*:*:*:*
+  - cpe:2.3:o:coreboot:coreboot:4.4:*:*:*:*:*:*:*
+  - cpe:2.3:o:coreboot:coreboot:4.5:*:*:*:*:*:*:*
+  - cpe:2.3:o:coreboot:coreboot:4.6:*:*:*:*:*:*:*
+  - cpe:2.3:o:coreboot:coreboot:4.7:*:*:*:*:*:*:*
+  - cpe:2.3:o:coreboot:coreboot:4.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:coreboot:coreboot:4.9:*:*:*:*:*:*:*

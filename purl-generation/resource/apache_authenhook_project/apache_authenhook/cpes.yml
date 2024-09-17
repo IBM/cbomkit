@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:apache_authenhook_project:apache_authenhook:2.00-01:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache_authenhook_project:apache_authenhook:2.00-02:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache_authenhook_project:apache_authenhook:2.00-03:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache_authenhook_project:apache_authenhook:2.00-04:*:*:*:*:*:*:*

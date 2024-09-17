@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libxdmcp
+  - pkg:deb/ubuntu/libxdmcp
+  - pkg:github/freedesktop/libxdmcp
+  - pkg:github/freedesktop/xorg-libxdmcp
+  - pkg:github/val-verde/libxdmcp
+  - pkg:rpm/centos/libxdmcp
+  - pkg:rpm/fedora/libxdmcp
+  - pkg:rpm/opensuse/libxdmcp

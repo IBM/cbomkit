@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-parsedown
+  - pkg:deb/ubuntu/php-parsedown
+  - pkg:github/erusev/parsedown
+  - pkg:rpm/fedora/php-erusev-parsedown
+  - pkg:sourceforge/parsedown.mirror

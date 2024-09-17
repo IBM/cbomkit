@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:matio_project:matio:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:matio_project:matio:1.5.9:*:*:*:*:*:*:*

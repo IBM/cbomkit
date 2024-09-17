@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:lesspipe_project:lesspipe:1.60:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspipe_project:lesspipe:1.70:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspipe_project:lesspipe:1.71:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspipe_project:lesspipe:1.72:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspipe_project:lesspipe:1.80:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspipe_project:lesspipe:1.81:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspipe_project:lesspipe:1.82:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspipe_project:lesspipe:1.83:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspipe_project:lesspipe:1.84:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspipe_project:lesspipe:1.85:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspipe_project:lesspipe:1.86:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspipe_project:lesspipe:1.87:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspipe_project:lesspipe:1.88:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspipe_project:lesspipe:1.89:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspipe_project:lesspipe:1.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspipe_project:lesspipe:1.91:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspipe_project:lesspipe:2.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspipe_project:lesspipe:2.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspipe_project:lesspipe:2.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspipe_project:lesspipe:2.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspipe_project:lesspipe:2.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspipe_project:lesspipe:2.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:lesspipe_project:lesspipe:2.06:*:*:*:*:*:*:*

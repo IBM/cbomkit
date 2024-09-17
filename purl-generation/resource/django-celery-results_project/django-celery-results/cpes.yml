@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:django-celery-results_project:django-celery-results:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-celery-results_project:django-celery-results:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-celery-results_project:django-celery-results:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-celery-results_project:django-celery-results:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-celery-results_project:django-celery-results:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-celery-results_project:django-celery-results:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-celery-results_project:django-celery-results:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-celery-results_project:django-celery-results:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-celery-results_project:django-celery-results:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-celery-results_project:django-celery-results:1.2.1:*:*:*:*:*:*:*

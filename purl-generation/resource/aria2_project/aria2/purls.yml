@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/aria2
+  - pkg:deb/ubuntu/aria2
+  - pkg:github/aria2/aria2
+  - pkg:rpm/fedora/aria2
+  - pkg:rpm/opensuse/aria2

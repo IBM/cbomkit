@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ezstream
+  - pkg:deb/ubuntu/ezstream
+  - pkg:github/xiph/ezstream
+  - pkg:rpm/fedora/ezstream
+  - pkg:rpm/opensuse/ezstream

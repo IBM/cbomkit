@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:synopsys:seeker_iast_service_broker:1.0.50:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:synopsys:seeker_iast_service_broker:1.2.14:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:synopsys:seeker_iast_service_broker:-:*:*:*:*:pivotal_cloud_foundry:*:*

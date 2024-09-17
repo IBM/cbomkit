@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ovirt/ovirt-engine
+  - pkg:maven/org.ovirt.engine.sdk/ovirt-engine-sdk-java
+  - pkg:rpm/fedora/ovirt-engine

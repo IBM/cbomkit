@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:mkportal:mkportal:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mkportal:mkportal:1.0.1_final:*:*:*:*:*:*:*
+  - cpe:2.3:a:mkportal:mkportal:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mkportal:mkportal:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mkportal:mkportal:1.1_rc1:*:*:*:*:*:*:*

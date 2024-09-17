@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/fuseiso
+  - pkg:deb/ubuntu/fuseiso
+  - pkg:github/kaos-community-packages/fuseiso
+  - pkg:rpm/opensuse/fuseiso
+  - pkg:sourceforge/fuseiso

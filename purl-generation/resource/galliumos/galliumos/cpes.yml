@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:o:galliumos:galliumos:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:galliumos:galliumos:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:galliumos:galliumos:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:galliumos:galliumos:3.0:*:*:*:*:*:*:*

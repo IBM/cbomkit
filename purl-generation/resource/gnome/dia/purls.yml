@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/dia
+  - pkg:deb/ubuntu/dia
+  - pkg:github/gnome/dia
+  - pkg:rpm/fedora/dia
+  - pkg:rpm/opensuse/dia
+  - pkg:sourceforge/dia-installer

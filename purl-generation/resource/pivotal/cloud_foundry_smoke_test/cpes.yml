@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:pivotal:cloud_foundry_smoke_test:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:cloud_foundry_smoke_test:40.0.113:*:*:*:*:*:*:*

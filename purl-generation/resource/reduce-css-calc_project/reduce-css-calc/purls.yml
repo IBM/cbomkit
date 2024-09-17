@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/moox/reduce-css-calc
+  - pkg:maven/org.webjars.npm/reduce-css-calc
+  - pkg:npm/reduce-css-calc

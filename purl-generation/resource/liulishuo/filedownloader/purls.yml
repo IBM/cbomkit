@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/lingochamp/filedownloader
+  - pkg:maven/com.liulishuo.filedownloader/library
+  - pkg:sourceforge/filedownloader.mirror

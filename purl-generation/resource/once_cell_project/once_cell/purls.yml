@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/matklad/once-cell
+  - pkg:rpm/fedora/rust-once-cell
+  - pkg:rpm/opensuse/rust-once-cell

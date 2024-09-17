@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:discourse:discourse_yearly_review:0.1:*:*:*:*:discourse:*:*
+  - cpe:2.3:a:discourse:discourse_yearly_review:*:*:*:*:*:discourse:*:*
+  - cpe:2.3:a:discourse:discourse_yearly_review:-:*:*:*:*:discourse:*:*

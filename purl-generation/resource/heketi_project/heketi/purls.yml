@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/heketi/heketi
+  - pkg:docker/heketi/heketi
+  - pkg:github/heketi/heketi

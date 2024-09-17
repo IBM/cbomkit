@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:st:stm32_mw_usb_host:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:st:stm32_mw_usb_host:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:st:stm32_mw_usb_host:3.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:st:stm32_mw_usb_host:3.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:st:stm32_mw_usb_host:3.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:st:stm32_mw_usb_host:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:st:stm32_mw_usb_host:3.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:st:stm32_mw_usb_host:3.5.0:*:*:*:*:*:*:*

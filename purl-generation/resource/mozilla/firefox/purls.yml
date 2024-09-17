@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/firefox
+  - pkg:mozilla/mozilla-central
+  - pkg:rpm/fedora/firefox
+  - pkg:rpm/opensuse/mozillafirefox

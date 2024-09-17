@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/gnome-autoar
+  - pkg:deb/ubuntu/gnome-autoar
+  - pkg:github/gnome/gnome-autoar
+  - pkg:rpm/fedora/gnome-autoar
+  - pkg:rpm/opensuse/gnome-autoar

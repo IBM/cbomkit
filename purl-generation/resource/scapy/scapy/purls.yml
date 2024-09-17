@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/scapy
+  - pkg:deb/ubuntu/scapy
+  - pkg:github/secdev/scapy
+  - pkg:pypi/scapy
+  - pkg:rpm/fedora/scapy
+  - pkg:rpm/opensuse/scapy
+  - pkg:sourceforge/scapy.mirror

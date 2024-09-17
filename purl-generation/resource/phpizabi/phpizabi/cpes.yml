@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:phpizabi:phpizabi:0.848b:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpizabi:phpizabi:0.848b:c1:*:*:*:*:*:*
+  - cpe:2.3:a:phpizabi:phpizabi:0.848b:c1_hfp1:*:*:*:*:*:*
+  - cpe:2.3:a:phpizabi:phpizabi:0.848b:c1_hfp3:*:*:*:*:*:*

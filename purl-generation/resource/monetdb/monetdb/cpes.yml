@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:monetdb:monetdb:11.27.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:monetdb:monetdb:11.31.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:monetdb:monetdb:11.31.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:monetdb:monetdb:11.33.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:monetdb:monetdb:11.35.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:monetdb:monetdb:11.37.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:monetdb:monetdb:11.39.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:monetdb:monetdb:11.43.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:monetdb:monetdb:11.45.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:monetdb:monetdb:11.46.0:*:*:*:*:*:*:*

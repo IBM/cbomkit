@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:caldera:caldera:2.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:caldera:caldera:9.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:caldera:caldera:9.20:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:w-dalil_project:w-dalil:1.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w-dalil_project:w-dalil:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w-dalil_project:w-dalil:2.0:*:*:*:*:wordpress:*:*

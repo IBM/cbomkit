@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mattermost/desktop
+  - pkg:sourceforge/mattermost-desktop.mirror

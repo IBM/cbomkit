@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/onesignal/react-native-onesignal
+  - pkg:npm/react-native-onesignal

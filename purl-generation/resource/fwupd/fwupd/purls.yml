@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/fwupd
+  - pkg:deb/ubuntu/fwupd
+  - pkg:github/fwupd/fwupd
+  - pkg:github/neverware-mirrors/fwupd
+  - pkg:rpm/centos/fwupd
+  - pkg:rpm/fedora/fwupd
+  - pkg:rpm/opensuse/fwupd

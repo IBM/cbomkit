@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/hakobe/paranoidhttp
+  - pkg:golang/github.com/hakobe/paranoidhttp

@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/spring-attic/spring-batch-admin
+  - pkg:maven/org.springframework.batch/spring-batch-admin-manager
+  - pkg:maven/org.springframework.batch/spring-batch-admin-resources
+  - pkg:maven/org.springframework.batch/spring-batch-core

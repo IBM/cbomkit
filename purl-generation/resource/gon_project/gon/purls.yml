@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/ruby-gon
+  - pkg:deb/ubuntu/ruby-gon
+  - pkg:gem/gon
+  - pkg:github/gazay/gon

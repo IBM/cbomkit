@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/failedjobdeactivator-plugin
+  - pkg:github/jochen-a-fuerbacher/failedjobdeactivator

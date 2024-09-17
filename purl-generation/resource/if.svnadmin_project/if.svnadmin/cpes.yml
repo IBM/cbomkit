@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:if.svnadmin_project:if.svnadmin:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:if.svnadmin_project:if.svnadmin:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:if.svnadmin_project:if.svnadmin:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:if.svnadmin_project:if.svnadmin:1.6.2:*:*:*:*:*:*:*

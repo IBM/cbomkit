@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/mutt/mutt
+  - pkg:deb/debian/mutt
+  - pkg:deb/ubuntu/mutt
+  - pkg:github/muttmua/mutt
+  - pkg:gitlab/muttmua/mutt
+  - pkg:rpm/fedora/mutt

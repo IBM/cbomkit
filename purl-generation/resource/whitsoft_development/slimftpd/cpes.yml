@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:whitsoft_development:slimftpd:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:whitsoft_development:slimftpd:3.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:whitsoft_development:slimftpd:3.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:whitsoft_development:slimftpd:3.17:*:*:*:*:*:*:*

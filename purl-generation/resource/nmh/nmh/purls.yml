@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/nmh
+  - pkg:deb/ubuntu/nmh
+  - pkg:github/cschuber/nmh
+  - pkg:github/mcr/nmh
+  - pkg:github/shnya/nmh
+  - pkg:gnu/nmh
+  - pkg:rpm/fedora/nmh
+  - pkg:rpm/opensuse/nmh

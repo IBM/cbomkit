@@ -1,0 +1,6 @@
+purls:
+  - pkg:cpan/kgb-bot
+  - pkg:deb/debian/kgb-bot
+  - pkg:deb/ubuntu/kgb-bot
+  - pkg:github/gitpan/app-kgb
+  - pkg:rpm/fedora/kgb-bot

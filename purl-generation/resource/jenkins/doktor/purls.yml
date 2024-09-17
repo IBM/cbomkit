@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/doktor-plugin
+  - pkg:github/madhead/doktor

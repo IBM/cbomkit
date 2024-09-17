@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-webrick
+  - pkg:deb/ubuntu/ruby-webrick
+  - pkg:gem/webrick
+  - pkg:github/ruby/webrick
+  - pkg:rpm/fedora/rubygem-webrick
+  - pkg:rpm/opensuse/rubygem-webrick

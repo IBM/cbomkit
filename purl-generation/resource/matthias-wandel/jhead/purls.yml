@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/jhead
+  - pkg:deb/ubuntu/jhead
+  - pkg:github/matthias-wandel/jhead
+  - pkg:rpm/fedora/jhead
+  - pkg:rpm/opensuse/jhead

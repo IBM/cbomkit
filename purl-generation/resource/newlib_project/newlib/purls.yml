@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/elenagit/newlib
+  - pkg:deb/debian/newlib
+  - pkg:deb/ubuntu/newlib
+  - pkg:github/bminor/newlib
+  - pkg:github/mirror/newlib-cygwin
+  - pkg:rpm/opensuse/newlib

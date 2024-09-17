@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/airflow
+  - pkg:github/apache/airflow
+  - pkg:pypi/apache-airflow-providers-apache-hive

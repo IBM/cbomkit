@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:sysvinit_project:sysvinit:2.88:*:*:*:*:*:*:*
+  - cpe:2.3:a:sysvinit_project:sysvinit:2.89:*:*:*:*:*:*:*
+  - cpe:2.3:a:sysvinit_project:sysvinit:2.89:beta:*:*:*:*:*:*
+  - cpe:2.3:a:sysvinit_project:sysvinit:2.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:sysvinit_project:sysvinit:2.90:beta:*:*:*:*:*:*
+  - cpe:2.3:a:sysvinit_project:sysvinit:2.91:*:*:*:*:*:*:*
+  - cpe:2.3:a:sysvinit_project:sysvinit:2.91:beta:*:*:*:*:*:*
+  - cpe:2.3:a:sysvinit_project:sysvinit:2.92:*:*:*:*:*:*:*
+  - cpe:2.3:a:sysvinit_project:sysvinit:2.92:beta:*:*:*:*:*:*
+  - cpe:2.3:a:sysvinit_project:sysvinit:2.93:*:*:*:*:*:*:*

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/rust-xcb
+  - pkg:deb/ubuntu/rust-xcb
+  - pkg:github/mstewartgallus/rust-xcb
+  - pkg:github/rtbo/rust-xcb
+  - pkg:github/rust-x-bindings/rust-xcb
+  - pkg:rpm/fedora/rust-xcb
+  - pkg:rpm/opensuse/rust-xcb

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/sabnzbdplus
+  - pkg:deb/ubuntu/sabnzbdplus
+  - pkg:github/sabnzbd/sabnzbd
+  - pkg:rpm/opensuse/sabnzbdplus
+  - pkg:sourceforge/sabnzbdplus

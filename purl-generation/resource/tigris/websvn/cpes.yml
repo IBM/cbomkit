@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:tigris:websvn:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigris:websvn:1.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigris:websvn:1.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigris:websvn:1.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigris:websvn:1.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigris:websvn:1.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigris:websvn:1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigris:websvn:1.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigris:websvn:1.31a:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigris:websvn:1.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigris:websvn:1.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigris:websvn:1.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigris:websvn:1.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigris:websvn:1.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigris:websvn:1.39:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigris:websvn:1.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigris:websvn:1.51:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigris:websvn:1.60:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigris:websvn:1.61:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigris:websvn:1.62:*:*:*:*:*:*:*
+  - cpe:2.3:a:tigris:websvn:2.0:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:openstack:icehouse:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:icehouse:2014.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:icehouse:rc-1:*:*:*:*:*:*:*

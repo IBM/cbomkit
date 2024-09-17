@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:theratstudios:the_rat_cms:2:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:theratstudios:the_rat_cms:2:pre_alpha:*:*:*:*:*:*

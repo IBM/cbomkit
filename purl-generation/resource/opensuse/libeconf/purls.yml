@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libeconf0
+  - pkg:deb/ubuntu/libeconf0
+  - pkg:github/opensuse/libeconf
+  - pkg:rpm/fedora/libeconf
+  - pkg:rpm/opensuse/libeconf

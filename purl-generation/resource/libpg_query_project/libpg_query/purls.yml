@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/pganalyze/libpg_query
+  - pkg:gitlab/gitlab-org/libpg_query
+  - pkg:rpm/opensuse/libpg_query

@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/karaf
+  - pkg:github/apache/karaf-decanter
+  - pkg:maven/org.apache..karaf/decanter

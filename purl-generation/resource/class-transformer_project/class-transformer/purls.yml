@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/typestack/class-transformer
+  - pkg:maven/org.webjars.npm/class-transformer
+  - pkg:npm/class-transformer

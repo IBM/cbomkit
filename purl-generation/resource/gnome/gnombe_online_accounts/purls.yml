@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/gnome-online-accounts
+  - pkg:deb/ubuntu/gnome-online-accounts
+  - pkg:github/gnome/gnome-online-accounts
+  - pkg:github/pop-os/gnome-online-accounts
+  - pkg:rpm/centos/gnome-online-accounts
+  - pkg:rpm/fedora/gnome-online-accounts
+  - pkg:rpm/opensuse/gnome-online-accounts

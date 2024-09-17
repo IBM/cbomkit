@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/authzed/spicedb
+  - pkg:github/authzed/spicedb

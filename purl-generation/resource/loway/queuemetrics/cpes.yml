@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:loway:queuemetrics:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:19.04.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:loway:queuemetrics:19.10.21:*:*:*:*:*:*:*

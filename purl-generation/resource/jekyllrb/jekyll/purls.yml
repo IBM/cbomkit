@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/jekyll
+  - pkg:deb/ubuntu/jekyll
+  - pkg:gem/ruby/jekyll
+  - pkg:github/jekyll/jekyll
+  - pkg:npm/jekyll
+  - pkg:rpm/fedora/rubygem-jekyll
+  - pkg:rpm/opensuse/rubygem-jekyll
+  - pkg:sourceforge/jekyll.mirror

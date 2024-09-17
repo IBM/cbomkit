@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:fogproject:fog:0.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:fogproject:fog:0.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:fogproject:fog:0.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:fogproject:fog:0.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:fogproject:fog:0.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:fogproject:fog:0.32:*:*:*:*:*:*:*

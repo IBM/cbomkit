@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/csaf-tools/cvrf-csaf-converter
+  - pkg:pypi/cvrf2csaf

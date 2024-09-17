@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/librecad
+  - pkg:deb/ubuntu/librecad
+  - pkg:github/librecad/librecad
+  - pkg:rpm/fedora/librecad
+  - pkg:rpm/opensuse/librecad
+  - pkg:sourceforge/librecad

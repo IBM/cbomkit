@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cloudbees/jenkins
+  - pkg:github/jenkinsci/jenkins

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-eslint-utils
+  - pkg:deb/ubuntu/node-eslint-utils
+  - pkg:github/mysticatea/eslint-utils
+  - pkg:maven/org.webjars.npm/eslint-utils
+  - pkg:npm/eslint-utils

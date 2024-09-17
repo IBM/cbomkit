@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.12:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.13:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.14:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.15:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.16:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.17:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.19:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.21:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.22:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.23:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.26:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.27:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.28:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.29:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.31:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.32:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.33:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.34:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.35:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.36:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.37:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.38:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:aws_codepipeline:0.9:*:*:*:*:jenkins:*:*

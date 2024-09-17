@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:censorify.tanisjr_project:censorify.tanisjr:0.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:censorify.tanisjr_project:censorify.tanisjr:0.1.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:censorify.tanisjr_project:censorify.tanisjr:0.1.4:*:*:*:*:node.js:*:*

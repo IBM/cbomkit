@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/node-fresh
+  - pkg:deb/ubuntu/node-fresh
+  - pkg:github/jshttp/fresh
+  - pkg:maven/org.webjars.bowergithub.jshttp/fresh
+  - pkg:maven/org.webjars.npm/fresh
+  - pkg:npm/fresh
+  - pkg:rpm/fedora/nodejs-fresh

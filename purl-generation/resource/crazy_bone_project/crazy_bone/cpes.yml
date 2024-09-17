@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:crazy_bone_project:crazy_bone:0.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:crazy_bone_project:crazy_bone:0.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:crazy_bone_project:crazy_bone:0.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:crazy_bone_project:crazy_bone:0.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:crazy_bone_project:crazy_bone:0.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:crazy_bone_project:crazy_bone:0.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:crazy_bone_project:crazy_bone:0.5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:crazy_bone_project:crazy_bone:0.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:crazy_bone_project:crazy_bone:0.5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:crazy_bone_project:crazy_bone:0.5.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:crazy_bone_project:crazy_bone:0.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:crazy_bone_project:crazy_bone:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/rwiki
+  - pkg:github/rwiki/rwiki

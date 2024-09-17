@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:directwebremoting:direct_web_remoting:2.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:directwebremoting:direct_web_remoting:3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:directwebremoting:direct_web_remoting:3.0:rc2:*:*:*:*:*:*

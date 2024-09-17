@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cloudfoundry/garden-runc-release
+  - pkg:golang/github.com/sergei-utinski/garden-runc-release

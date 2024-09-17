@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:hotplug_cms:hotplug_cms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:hotplug_cms:hotplug_cms:1.0:*:*:*:*:*:*:*

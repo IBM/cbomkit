@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/glassfish
+  - pkg:github/eclipse-ee4j/glassfish
+  - pkg:golang/github.com/eclipse-ee4j/glassfish

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/libpam-krb5
+  - pkg:deb/ubuntu/libpam-krb5
+  - pkg:github/rra/pam-krb5
+  - pkg:rpm/opensuse/pam-krb5

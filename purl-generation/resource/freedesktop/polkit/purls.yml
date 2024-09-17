@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/freedesktop/polkit
+  - pkg:gitlab/redhat/polkit
+  - pkg:rpm/centos/polkit
+  - pkg:rpm/fedora/polkit
+  - pkg:rpm/opensuse/polkit

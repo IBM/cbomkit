@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:tesseract_project:tesseract:1.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:1.04:-:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:1.04:beta:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:2.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:2.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:2.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:2.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:2.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:3.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:3.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:3.02.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:3.04.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:3.04.01:-:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:3.04.01:dev:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:3.05.00:-:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:3.05.00:dev:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:3.05.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:3.05.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:4.00.00:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:4.00.00:dev:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:4.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tesseract_project:tesseract:5.0.0:alpha-20210401:*:*:*:*:*:*

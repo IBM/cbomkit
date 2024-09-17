@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/scniro/scniro-validator
+  - pkg:npm/scniro-validator

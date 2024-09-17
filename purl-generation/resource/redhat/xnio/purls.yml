@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/jboss-xnio
+  - pkg:deb/ubuntu/jboss-xnio
+  - pkg:github/xnio/xnio
+  - pkg:maven/org.jboss.xnio/xnio-all

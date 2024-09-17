@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:bsdperimeter:pfsense:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bsdperimeter:pfsense:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bsdperimeter:pfsense:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bsdperimeter:pfsense:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bsdperimeter:pfsense:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bsdperimeter:pfsense:1.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:bsdperimeter:pfsense:1.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:bsdperimeter:pfsense:1.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:bsdperimeter:pfsense:1.2:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:bsdperimeter:pfsense:1.2:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:bsdperimeter:pfsense:2.0:beta4:*:*:*:*:*:*

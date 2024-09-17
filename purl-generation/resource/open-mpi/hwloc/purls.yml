@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/ianhinder/hwloc
+  - pkg:deb/debian/hwloc
+  - pkg:deb/ubuntu/hwloc
+  - pkg:github/open-mpi/hwloc
+  - pkg:gitlab/redhat/hwloc
+  - pkg:rpm/fedora/hwloc
+  - pkg:rpm/opensuse/hwloc

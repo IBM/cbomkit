@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mguinness/elfinder.aspnet
+  - pkg:nuget/elfinder.aspnet

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:opentrade_project:opentrade:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opentrade_project:opentrade:2019-11-23:*:*:*:*:*:*:*

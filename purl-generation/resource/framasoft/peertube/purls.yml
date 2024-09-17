@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/chocobozzz/peertube
+  - pkg:github/chocobozzz/peertube
+  - pkg:rpm/opensuse/peertube
+  - pkg:sourceforge/peertube.mirror

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-gollum-lib
+  - pkg:deb/ubuntu/ruby-gollum-lib
+  - pkg:gem/gollum-lib
+  - pkg:github/gollum/gollum-lib
+  - pkg:rpm/opensuse/rubygem-gollum-lib

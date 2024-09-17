@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/pyrad
+  - pkg:deb/ubuntu/pyrad
+  - pkg:github/pyradius/pyrad
+  - pkg:pypi/pyrad
+  - pkg:rpm/fedora/python-pyrad
+  - pkg:rpm/opensuse/python-pyrad

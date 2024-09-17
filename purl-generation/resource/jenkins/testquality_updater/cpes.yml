@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:jenkins:testquality_updater:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testquality_updater:1.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testquality_updater:*:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testquality_updater:-:*:*:*:*:jenkins:*:*

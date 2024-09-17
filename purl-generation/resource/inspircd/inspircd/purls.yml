@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/inspircd
+  - pkg:deb/ubuntu/inspircd
+  - pkg:github/inspircd/inspircd

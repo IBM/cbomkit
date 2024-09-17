@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/fastreports/fastreport
+  - pkg:nuget/FastReport.OpenSource
+  - pkg:sourceforge/fastreport-open-source

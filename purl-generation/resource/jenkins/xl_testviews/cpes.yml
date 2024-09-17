@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:jenkins:xl_testviews:1.0.0:beta1:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:xl_testviews:1.0.0:beta2:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:xl_testviews:1.0.0:-:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:xl_testviews:1.1.0:*:*:*:*:jenkins:*:*

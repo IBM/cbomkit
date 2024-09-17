@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/unzip
+  - pkg:deb/ubuntu/unzip
+  - pkg:github/distrotech/unzip
+  - pkg:github/madler/unzip
+  - pkg:gitlab/redhat/unzip
+  - pkg:rpm/centos/unzip
+  - pkg:rpm/fedora/unzip
+  - pkg:rpm/opensuse/unzip
+  - pkg:sourceforge/infozip

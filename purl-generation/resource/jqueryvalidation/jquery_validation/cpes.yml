@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.10.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.11.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.11.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.12.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.13.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.13.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.14.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.15.0:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.15.0:prerelease:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.15.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.16.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.17.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.18.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.19.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.19.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.19.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.19.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.19.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.8.0:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.8.0:prerelease:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.8.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jqueryvalidation:jquery_validation:1.9.0:*:*:*:*:node.js:*:*

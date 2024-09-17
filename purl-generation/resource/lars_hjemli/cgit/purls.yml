@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/opensource26/cgit
+  - pkg:deb/debian/cgit
+  - pkg:deb/ubuntu/cgit
+  - pkg:github/hjemli/cgit
+  - pkg:github/zx2c4/cgit
+  - pkg:rpm/fedora/cgit
+  - pkg:rpm/opensuse/cgit

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/frouriojs/frourio-express
+  - pkg:npm/frourio-express

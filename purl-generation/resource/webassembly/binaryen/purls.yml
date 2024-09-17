@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/binaryen
+  - pkg:deb/ubuntu/binaryen
+  - pkg:github/webassembly/binaryen
+  - pkg:rpm/fedora/binaryen
+  - pkg:rpm/opensuse/binaryen

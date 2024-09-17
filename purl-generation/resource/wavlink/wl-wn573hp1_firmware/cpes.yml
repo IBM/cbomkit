@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:o:wavlink:wl-wn573hp1_firmware:-:*:*:*:*:*:*:*
+  - cpe:2.3:o:wavlink:wl-wn573hp1_firmware:rpt70ha1.x:*:*:*:*:*:*:*

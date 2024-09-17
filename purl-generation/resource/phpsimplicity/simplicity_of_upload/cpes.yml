@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:phpsimplicity:simplicity_of_upload:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpsimplicity:simplicity_of_upload:1.3.2:*:*:*:*:*:*:*

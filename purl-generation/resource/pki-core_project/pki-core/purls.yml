@@ -1,0 +1,4 @@
+purls:
+  - pkg:gitlab/redhat/pki-core
+  - pkg:rpm/fedora/pki-core
+  - pkg:rpm/opensuse/pki-core

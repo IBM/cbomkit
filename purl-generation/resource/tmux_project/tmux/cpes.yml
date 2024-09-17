@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:tmux_project:tmux:2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:tmux_project:tmux:2.9a:*:*:*:*:*:*:*
+  - cpe:2.3:a:tmux_project:tmux:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tmux_project:tmux:3.0a:*:*:*:*:*:*:*
+  - cpe:2.3:a:tmux_project:tmux:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tmux_project:tmux:3.1a:*:*:*:*:*:*:*
+  - cpe:2.3:a:tmux_project:tmux:3.1b:*:*:*:*:*:*:*
+  - cpe:2.3:a:tmux_project:tmux:3.1c:*:*:*:*:*:*:*
+  - cpe:2.3:a:tmux_project:tmux:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tmux_project:tmux:3.2a:*:*:*:*:*:*:*
+  - cpe:2.3:a:tmux_project:tmux:3.3:*:*:*:*:*:*:*

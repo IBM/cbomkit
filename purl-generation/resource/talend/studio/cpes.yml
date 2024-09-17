@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:talend:studio:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:talend:studio:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:talend:studio:8.0.0:*:*:*:*:*:*:*

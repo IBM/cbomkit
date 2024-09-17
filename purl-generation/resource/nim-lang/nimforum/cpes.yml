@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:nim-lang:nimforum:2.1.0:*:*:*:*:nim:*:*
+  - cpe:2.3:a:nim-lang:nimforum:2.2.0:*:*:*:*:nim:*:*
+  - cpe:2.3:a:nim-lang:nimforum:-:*:*:*:*:nim:*:*

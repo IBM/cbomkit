@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/lvm2
+  - pkg:deb/ubuntu/lvm2
+  - pkg:github/lvmteam/lvm2
+  - pkg:github/steven676/lvm2
+  - pkg:rpm/centos/lvm2
+  - pkg:rpm/fedora/lvm2
+  - pkg:rpm/opensuse/lvm2

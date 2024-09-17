@@ -1,0 +1,9 @@
+purls:
+  - pkg:cpan/module-signature
+  - pkg:deb/debian/libmodule-signature-perl
+  - pkg:deb/ubuntu/libmodule-signature-perl
+  - pkg:github/audreyt/module-signature
+  - pkg:github/gitpan/module-signature
+  - pkg:rpm/centos/perl-module-signature
+  - pkg:rpm/fedora/perl-module-signature
+  - pkg:rpm/opensuse/perl-module-signature

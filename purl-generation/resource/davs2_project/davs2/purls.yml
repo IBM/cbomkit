@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/davs2
+  - pkg:deb/ubuntu/davs2
+  - pkg:github/deepin-community/davs2
+  - pkg:github/pkuvcl/davs2
+  - pkg:github/qxwd1123/davs2
+  - pkg:rpm/opensuse/davs2

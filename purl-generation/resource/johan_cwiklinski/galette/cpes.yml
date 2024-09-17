@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:johan_cwiklinski:galette:0.63:*:*:*:*:*:*:*
+  - cpe:2.3:a:johan_cwiklinski:galette:0.63.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:johan_cwiklinski:galette:0.63.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:johan_cwiklinski:galette:0.63.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:johan_cwiklinski:galette:0.63:rc1:*:*:*:*:*:*

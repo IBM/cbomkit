@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/patch
+  - pkg:deb/ubuntu/patch
+  - pkg:github/mirror/patch
+  - pkg:gitlab/redhat/patch
+  - pkg:gnu/patch
+  - pkg:rpm/centos/patch
+  - pkg:rpm/fedora/patch
+  - pkg:rpm/opensuse/patch

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/dbmail/dbmail
+  - pkg:rpm/opensuse/dbmail
+  - pkg:sourceforge/dbmail

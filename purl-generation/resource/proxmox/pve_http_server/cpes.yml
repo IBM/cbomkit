@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:proxmox:pve_http_server:*:*:*:*:*:*:*:*

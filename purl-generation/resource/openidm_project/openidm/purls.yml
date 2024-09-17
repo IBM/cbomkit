@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/openidentityplatform/openidm
+  - pkg:github/openrock/openidm

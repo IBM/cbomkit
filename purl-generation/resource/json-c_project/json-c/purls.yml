@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/json-c
+  - pkg:deb/ubuntu/json-c
+  - pkg:github/json-c/json-c
+  - pkg:gitlab/redhat/json-c
+  - pkg:rpm/centos/json-c
+  - pkg:rpm/fedora/json-c
+  - pkg:rpm/opensuse/json-c

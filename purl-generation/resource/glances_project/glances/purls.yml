@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nicolargo/glances
+  - pkg:pypi/glances

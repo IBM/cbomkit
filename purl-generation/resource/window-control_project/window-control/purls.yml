@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bruno-robert/window-control
+  - pkg:npm/window-control

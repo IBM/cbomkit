@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/datatables/datatablessrc
+  - pkg:maven/org.webjars.bowergithub.datatables/datatablessrc

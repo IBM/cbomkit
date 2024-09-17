@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:buddyboss:buddyboss:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:buddyboss:buddyboss:2.2.9:*:*:*:*:wordpress:*:*

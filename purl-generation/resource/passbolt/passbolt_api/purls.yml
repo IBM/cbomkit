@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/passbolt_pro/passbolt_pro_api
+  - pkg:github/passbolt/passbolt_api
+  - pkg:npm/passbolt-appjs
+  - pkg:pypi/passbolt-api

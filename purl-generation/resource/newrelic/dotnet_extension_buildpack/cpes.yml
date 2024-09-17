@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:newrelic:dotnet_extension_buildpack:0.2.14:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:newrelic:dotnet_extension_buildpack:1.0.1:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:newrelic:dotnet_extension_buildpack:1.1.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:newrelic:dotnet_extension_buildpack:1.1.1:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:newrelic:dotnet_extension_buildpack:-:*:*:*:*:pivotal_cloud_foundry:*:*

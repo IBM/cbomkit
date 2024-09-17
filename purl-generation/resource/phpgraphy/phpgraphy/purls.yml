@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sirleech/phpGraphy
+  - pkg:sourceforge/phpgraphy

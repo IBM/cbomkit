@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/jellyfin/jellyfin
+  - pkg:github/jellyfin/jellyfin
+  - pkg:rpm/opensuse/jellyfin

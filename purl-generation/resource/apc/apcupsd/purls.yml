@@ -1,0 +1,9 @@
+purls:
+  - pkg:bitbucket/hwair/apcupsd
+  - pkg:deb/debian/apcupsd
+  - pkg:deb/ubuntu/apcupsd
+  - pkg:github/jynychen/apcupsd
+  - pkg:github/therealbstern/apcupsd
+  - pkg:rpm/fedora/apcupsd
+  - pkg:rpm/opensuse/apcupsd
+  - pkg:sourceforge/apcupsd

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:flask-session-captcha_project:flask-session-captcha:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:flask-session-captcha_project:flask-session-captcha:1.2.1:*:*:*:*:*:*:*

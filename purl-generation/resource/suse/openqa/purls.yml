@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/openqa
+  - pkg:deb/ubuntu/openqa
+  - pkg:github/os-autoinst/openqa
+  - pkg:rpm/fedora/openqa
+  - pkg:rpm/opensuse/openqa

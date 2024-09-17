@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:zapping:zapping_vbi_library:0.2.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:zapping:zapping_vbi_library:0.2.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:zapping:zapping_vbi_library:0.2.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:zapping:zapping_vbi_library:0.2.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:zapping:zapping_vbi_library:0.2.24:*:*:*:*:*:*:*

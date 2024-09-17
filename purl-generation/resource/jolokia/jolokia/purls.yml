@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/rhuss/jolokia
+  - pkg:gitlab/redhat/jolokia-jvm-agent
+  - pkg:maven/org.jolokia/jolokia
+  - pkg:rpm/fedora/jolokia-jvm-agent
+  - pkg:rpm/opensuse/jolokia

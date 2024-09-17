@@ -1,0 +1,6 @@
+purls:
+  - pkg:apache/uima
+  - pkg:deb/debian/uima-as
+  - pkg:deb/ubuntu/uima-as
+  - pkg:github/apache/uima-as_old
+  - pkg:maven/org.apache.uima/uima-as-parent

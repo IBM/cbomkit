@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/zaproxy/zaproxy
+  - pkg:gitlab/kalilinux/zaproxy
+  - pkg:maven/org.zaproxy/zap

@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/3proxy/3proxy
+  - pkg:github/3proxy/3proxy
+  - pkg:github/z3apa3a/3proxy

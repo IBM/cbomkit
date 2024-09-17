@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/mpetroff/pannellum
+  - pkg:maven/org.webjars.npm/pannellum
+  - pkg:npm/pannellum
+  - pkg:sourceforge/pannellum

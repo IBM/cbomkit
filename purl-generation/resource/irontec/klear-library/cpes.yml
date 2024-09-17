@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:irontec:klear-library:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:irontec:klear-library:-:*:*:*:*:*:*:*

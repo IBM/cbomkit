@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:arr-flatten-unflatten_project:arr-flatten-unflatten:0.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:arr-flatten-unflatten_project:arr-flatten-unflatten:0.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:arr-flatten-unflatten_project:arr-flatten-unflatten:0.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:arr-flatten-unflatten_project:arr-flatten-unflatten:0.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:arr-flatten-unflatten_project:arr-flatten-unflatten:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:arr-flatten-unflatten_project:arr-flatten-unflatten:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:arr-flatten-unflatten_project:arr-flatten-unflatten:1.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:arr-flatten-unflatten_project:arr-flatten-unflatten:-:*:*:*:*:node.js:*:*

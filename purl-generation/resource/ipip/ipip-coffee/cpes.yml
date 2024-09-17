@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:ipip:ipip-coffee:1.0.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ipip:ipip-coffee:1.0.9:*:*:*:*:node.js:*:*

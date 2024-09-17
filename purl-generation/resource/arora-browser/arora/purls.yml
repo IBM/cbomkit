@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/ubuntu/arora
+  - pkg:github/arora/arora
+  - pkg:rpm/fedora/arora
+  - pkg:rpm/opensuse/arora

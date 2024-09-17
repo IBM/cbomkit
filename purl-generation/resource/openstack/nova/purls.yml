@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/openstack/nova
+  - pkg:pypi/nova
+  - pkg:rpm/opensuse/openstack-nova

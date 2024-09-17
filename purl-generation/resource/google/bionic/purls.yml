@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/aosp-mirror/platform_bionic
+  - pkg:github/slimroms/android_bionic

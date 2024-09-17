@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/gnome/libsoup
+  - pkg:gitlab/gnome/libsoup
+  - pkg:gnome/libsoup

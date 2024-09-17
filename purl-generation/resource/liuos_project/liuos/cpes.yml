@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:liuos_project:liuos:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:liuos_project:liuos:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:liuos_project:liuos:0.1.0:*:*:*:*:*:*:*

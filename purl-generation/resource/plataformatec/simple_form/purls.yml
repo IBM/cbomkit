@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/simple_form
+  - pkg:github/plataformatec/simple_form
+  - pkg:rpm/opensuse/rubygem-simple_form

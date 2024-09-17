@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/impala
+  - pkg:docker/apache/impala
+  - pkg:github/apache/impala

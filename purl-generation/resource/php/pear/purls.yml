@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/sandfish/php-pear
+  - pkg:deb/debian/php-pear
+  - pkg:deb/ubuntu/php-pear
+  - pkg:github/pear/pear-core
+  - pkg:gitlab/redhat/php-pear
+  - pkg:rpm/fedora/php-pear
+  - pkg:rpm/opensuse/php-pear

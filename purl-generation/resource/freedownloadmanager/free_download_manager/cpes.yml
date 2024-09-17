@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:freedownloadmanager:free_download_manager:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedownloadmanager:free_download_manager:2:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedownloadmanager:free_download_manager:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedownloadmanager:free_download_manager:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedownloadmanager:free_download_manager:2.5.700:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedownloadmanager:free_download_manager:2.5.704:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedownloadmanager:free_download_manager:2.5.724:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedownloadmanager:free_download_manager:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedownloadmanager:free_download_manager:3.0.843:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedownloadmanager:free_download_manager:3.0.848:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedownloadmanager:free_download_manager:3.0.850:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedownloadmanager:free_download_manager:3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedownloadmanager:free_download_manager:3.9.3:*:*:*:*:*:*:*

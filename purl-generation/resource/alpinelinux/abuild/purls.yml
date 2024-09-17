@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/alpinelinux/abuild
+  - pkg:gitlab/alpinelinux/abuild

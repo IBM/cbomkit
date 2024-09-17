@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mucommander/mucommander
+  - pkg:rpm/opensuse/mucommander
+  - pkg:sourceforge/mucommander

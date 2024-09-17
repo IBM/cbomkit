@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:ubuntu_developers:language-selector:0.110:*:*:*:*:*:*:*
+  - cpe:2.3:a:ubuntu_developers:language-selector:0.79:*:*:*:*:*:*:*
+  - cpe:2.3:a:ubuntu_developers:language-selector:0.79.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ubuntu_developers:language-selector:0.79.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ubuntu_developers:language-selector:0.79.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ubuntu_developers:language-selector:0.90:*:*:*:*:*:*:*

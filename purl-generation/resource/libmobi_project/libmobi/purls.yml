@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bfabiszewski/libmobi
+  - pkg:rpm/fedora/libmobi

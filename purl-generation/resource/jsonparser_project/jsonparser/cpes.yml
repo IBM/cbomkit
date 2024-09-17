@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jsonparser_project:jsonparser:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonparser_project:jsonparser:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jsonparser_project:jsonparser:2019-12-04:*:*:*:*:*:*:*

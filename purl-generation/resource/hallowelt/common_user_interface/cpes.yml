@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:hallowelt:common_user_interface:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:hallowelt:common_user_interface:3.0.0:*:*:*:*:*:*:*

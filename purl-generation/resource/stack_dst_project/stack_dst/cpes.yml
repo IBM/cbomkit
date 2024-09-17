@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:stack_dst_project:stack_dst:0.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stack_dst_project:stack_dst:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stack_dst_project:stack_dst:0.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stack_dst_project:stack_dst:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stack_dst_project:stack_dst:0.2.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stack_dst_project:stack_dst:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stack_dst_project:stack_dst:0.3.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stack_dst_project:stack_dst:0.4.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stack_dst_project:stack_dst:0.4.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stack_dst_project:stack_dst:0.4.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stack_dst_project:stack_dst:0.4.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stack_dst_project:stack_dst:0.5.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stack_dst_project:stack_dst:0.6.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stack_dst_project:stack_dst:0.6.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stack_dst_project:stack_dst:0.7.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stack_dst_project:stack_dst:0.7.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stack_dst_project:stack_dst:0.7.2:*:*:*:*:rust:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/planet-s/linked-list-allocator
+  - pkg:github/rust-osdev/linked-list-allocator

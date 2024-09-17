@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/yiwang/libhx
+  - pkg:deb/debian/libhx
+  - pkg:deb/ubuntu/libhx
+  - pkg:github/jengelh/libhx
+  - pkg:rpm/fedora/libhx
+  - pkg:rpm/opensuse/libhx
+  - pkg:sourceforge/libhx

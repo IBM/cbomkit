@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/python-oslo.middleware
+  - pkg:deb/ubuntu/python-oslo.middleware
+  - pkg:github/openstack/oslo.middleware
+  - pkg:pypi/oslo.middleware
+  - pkg:rpm/opensuse/python-oslo.middleware

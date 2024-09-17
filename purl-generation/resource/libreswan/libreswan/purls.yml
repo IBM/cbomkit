@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libreswan
+  - pkg:deb/ubuntu/libreswan
+  - pkg:github/libreswan/libreswan
+  - pkg:gitlab/redhat/libreswan
+  - pkg:rpm/centos/libreswan
+  - pkg:rpm/fedora/libreswan
+  - pkg:rpm/opensuse/libreswan

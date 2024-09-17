@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:bradford_barrett:webalizer:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:bradford_barrett:webalizer:2.0.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:bradford_barrett:webalizer:2.0.1.9:*:*:*:*:*:*:*

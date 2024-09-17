@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libwmf
+  - pkg:deb/ubuntu/libwmf
+  - pkg:github/caolanm/libwmf
+  - pkg:github/reporter123/libwmf
+  - pkg:rpm/centos/libwmf
+  - pkg:rpm/fedora/libwmf
+  - pkg:sourceforge/wvware

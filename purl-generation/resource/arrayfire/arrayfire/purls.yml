@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/arrayfire
+  - pkg:deb/ubuntu/arrayfire
+  - pkg:github/arrayfire/arrayfire
+  - pkg:pypi/arrayfire
+  - pkg:rpm/opensuse/arrayfire

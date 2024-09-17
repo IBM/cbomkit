@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:ocaml_batteries_project:ocaml_batteries:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml_batteries_project:ocaml_batteries:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml_batteries_project:ocaml_batteries:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml_batteries_project:ocaml_batteries:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml_batteries_project:ocaml_batteries:1.2.1a:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml_batteries_project:ocaml_batteries:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml_batteries_project:ocaml_batteries:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml_batteries_project:ocaml_batteries:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml_batteries_project:ocaml_batteries:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml_batteries_project:ocaml_batteries:1.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml_batteries_project:ocaml_batteries:1.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml_batteries_project:ocaml_batteries:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml_batteries_project:ocaml_batteries:2.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml_batteries_project:ocaml_batteries:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml_batteries_project:ocaml_batteries:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml_batteries_project:ocaml_batteries:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml_batteries_project:ocaml_batteries:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml_batteries_project:ocaml_batteries:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml_batteries_project:ocaml_batteries:2.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml_batteries_project:ocaml_batteries:2.6:*:*:*:*:*:*:*

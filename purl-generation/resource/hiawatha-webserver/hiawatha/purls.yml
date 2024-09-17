@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/alepharchives/hiawatha
+  - pkg:github/kyanha/hiawatha-webserver
+  - pkg:rpm/opensuse/hiawatha

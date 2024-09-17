@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/snipe/snipe-it
+  - pkg:github/snipe/snipe-it
+  - pkg:rpm/opensuse/snipe-it

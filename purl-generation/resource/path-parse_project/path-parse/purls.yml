@@ -1,0 +1,6 @@
+purls:
+  - pkg:cpan/parse-path
+  - pkg:github/jbgutierrez/path-parse
+  - pkg:maven/org.webjars.npm/path-parse
+  - pkg:npm/path-parse
+  - pkg:rpm/fedora/nodejs-path-parse

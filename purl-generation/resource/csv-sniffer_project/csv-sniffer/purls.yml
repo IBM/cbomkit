@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/csv_sniffer
+  - pkg:github/tim-ojo/csv_sniffer

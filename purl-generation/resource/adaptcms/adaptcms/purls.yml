@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/adaptcms/adaptcms
+  - pkg:github/adaptcms/adaptcms

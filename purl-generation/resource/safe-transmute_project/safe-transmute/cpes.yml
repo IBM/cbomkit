@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:safe-transmute_project:safe-transmute:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:safe-transmute_project:safe-transmute:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:safe-transmute_project:safe-transmute:0.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:safe-transmute_project:safe-transmute:0.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:safe-transmute_project:safe-transmute:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:safe-transmute_project:safe-transmute:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:safe-transmute_project:safe-transmute:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:safe-transmute_project:safe-transmute:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:safe-transmute_project:safe-transmute:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:safe-transmute_project:safe-transmute:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:safe-transmute_project:safe-transmute:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:safe-transmute_project:safe-transmute:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:safe-transmute_project:safe-transmute:0.9.0:*:*:*:*:*:*:*

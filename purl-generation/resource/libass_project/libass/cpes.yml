@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:libass_project:libass:0.13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:libass_project:libass:0.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libass_project:libass:0.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libass_project:libass:0.15.1:*:*:*:*:*:*:*

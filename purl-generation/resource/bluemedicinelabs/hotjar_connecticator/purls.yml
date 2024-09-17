@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/internetmedicineman/hotjar-connecticator
+  - pkg:github/wp-plugins/hotjar-connecticator
+  - pkg:github/wpplugins/hotjar-connecticator

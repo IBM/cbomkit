@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/lsyncd
+  - pkg:deb/ubuntu/lsyncd
+  - pkg:github/lsyncd/lsyncd
+  - pkg:golang/github.com/lsyncd/lsyncd
+  - pkg:rpm/fedora/lsyncd
+  - pkg:rpm/opensuse/lsyncd

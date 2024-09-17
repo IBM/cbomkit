@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:snyk:snyk_hex_cli:1.0.0:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_hex_cli:1.0.1:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_hex_cli:1.1.0:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_hex_cli:1.1.1:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_hex_cli:1.1.2:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_hex_cli:1.1.3:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_hex_cli:1.1.4:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_hex_cli:1.1.5:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_hex_cli:1.1.6:*:*:*:*:snyk:*:*

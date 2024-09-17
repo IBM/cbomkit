@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:antony_lesuisse:ajaxterm:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:antony_lesuisse:ajaxterm:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:antony_lesuisse:ajaxterm:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:antony_lesuisse:ajaxterm:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:antony_lesuisse:ajaxterm:0.9:*:*:*:*:*:*:*

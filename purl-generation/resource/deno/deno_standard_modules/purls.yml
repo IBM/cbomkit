@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/denoland/deno_std
+  - pkg:golang/github.com/denoland/deno_std

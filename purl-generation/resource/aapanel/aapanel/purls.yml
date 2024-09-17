@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/aapanel/aapanel
+  - pkg:github/aapanel/aapanel

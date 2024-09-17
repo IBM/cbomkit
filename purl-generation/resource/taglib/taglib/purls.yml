@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/taglib
+  - pkg:deb/ubuntu/taglib
+  - pkg:github/taglib/taglib
+  - pkg:nuget/taglibcpp
+  - pkg:rpm/fedora/taglib
+  - pkg:rpm/opensuse/taglib

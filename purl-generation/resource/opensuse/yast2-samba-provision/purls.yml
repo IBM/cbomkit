@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/yast/yast-samba-provision
+  - pkg:rpm/opensuse/yast2-samba-provision

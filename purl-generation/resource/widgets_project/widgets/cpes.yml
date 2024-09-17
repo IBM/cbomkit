@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:widgets_project:widgets:0.10.1:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:widgets_project:widgets:1.0:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:widgets_project:widgets:1.2.1:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:widgets_project:widgets:1.2:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:widgets_project:widgets:1.3.0:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:widgets_project:widgets:1.4.0:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:widgets_project:widgets:-:*:*:*:*:mediawiki:*:*

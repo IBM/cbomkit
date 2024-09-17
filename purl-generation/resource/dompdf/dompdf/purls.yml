@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/dompdf/dompdf
+  - pkg:github/dompdf/dompdf

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/knex/knex
+  - pkg:maven/org.webjars.npm/knex
+  - pkg:npm/knex

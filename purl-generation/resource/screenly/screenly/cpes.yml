@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:screenly:screenly:0.10:*:*:*:ose:*:*:*
+  - cpe:2.3:a:screenly:screenly:0.11:*:*:*:ose:*:*:*
+  - cpe:2.3:a:screenly:screenly:0.12.1:*:*:*:ose:*:*:*
+  - cpe:2.3:a:screenly:screenly:0.12:*:*:*:ose:*:*:*
+  - cpe:2.3:a:screenly:screenly:0.13:*:*:*:ose:*:*:*
+  - cpe:2.3:a:screenly:screenly:0.14:*:*:*:ose:*:*:*
+  - cpe:2.3:a:screenly:screenly:0.15.1:*:*:*:ose:*:*:*
+  - cpe:2.3:a:screenly:screenly:0.15:*:*:*:ose:*:*:*
+  - cpe:2.3:a:screenly:screenly:0.16:*:*:*:ose:*:*:*
+  - cpe:2.3:a:screenly:screenly:0.17:*:*:*:ose:*:*:*
+  - cpe:2.3:a:screenly:screenly:0.18.1:*:*:*:ose:*:*:*
+  - cpe:2.3:a:screenly:screenly:0.18.2:*:*:*:ose:*:*:*
+  - cpe:2.3:a:screenly:screenly:0.18.3:*:*:*:ose:*:*:*
+  - cpe:2.3:a:screenly:screenly:0.18:*:*:*:ose:*:*:*
+  - cpe:2.3:a:screenly:screenly:0.9.1:*:*:*:ose:*:*:*
+  - cpe:2.3:a:screenly:screenly:0.9:*:*:*:ose:*:*:*
+  - cpe:2.3:a:screenly:screenly:1.8.2:*:*:*:ose:*:*:*
+  - cpe:2.3:a:screenly:screenly:*:*:*:*:ose:*:*:*

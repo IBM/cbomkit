@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/tjatse/ansi-html
+  - pkg:maven/org.webjars.npm/ansi-html
+  - pkg:npm/ansi-html

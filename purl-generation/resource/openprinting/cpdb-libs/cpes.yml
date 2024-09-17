@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:openprinting:cpdb-libs:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openprinting:cpdb-libs:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openprinting:cpdb-libs:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openprinting:cpdb-libs:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openprinting:cpdb-libs:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openprinting:cpdb-libs:2.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:openprinting:cpdb-libs:2.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:openprinting:cpdb-libs:2.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:openprinting:cpdb-libs:2.0:beta4:*:*:*:*:*:*

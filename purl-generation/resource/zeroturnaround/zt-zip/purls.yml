@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/zeroturnaround/zt-zip
+  - pkg:maven/org.zeroturnaround/zt-zip

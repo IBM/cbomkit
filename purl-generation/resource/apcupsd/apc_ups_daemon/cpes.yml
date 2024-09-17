@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:apcupsd:apc_ups_daemon:3.14.14:*:*:*:*:*:*:*

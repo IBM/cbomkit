@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nektos/act
+  - pkg:golang/github.com/nektos/act

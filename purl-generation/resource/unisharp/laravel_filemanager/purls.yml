@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/unisharp/laravel-filemanager
+  - pkg:github/unisharp/laravel-filemanager

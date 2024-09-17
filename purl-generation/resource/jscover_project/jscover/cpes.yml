@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:jscover_project:jscover:0.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jscover_project:jscover:0.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jscover_project:jscover:0.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jscover_project:jscover:0.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jscover_project:jscover:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jscover_project:jscover:0.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jscover_project:jscover:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jscover_project:jscover:0.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jscover_project:jscover:0.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jscover_project:jscover:0.2.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jscover_project:jscover:0.2.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jscover_project:jscover:1.0.0:*:*:*:*:node.js:*:*

@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:opendev:virtualbmc:0.1.0:*:*:*:*:openstack:*:*
+  - cpe:2.3:a:opendev:virtualbmc:1.0.0:*:*:*:*:openstack:*:*
+  - cpe:2.3:a:opendev:virtualbmc:1.1.0:*:*:*:*:openstack:*:*
+  - cpe:2.3:a:opendev:virtualbmc:1.2.0:*:*:*:*:openstack:*:*
+  - cpe:2.3:a:opendev:virtualbmc:1.3.0:*:*:*:*:openstack:*:*
+  - cpe:2.3:a:opendev:virtualbmc:1.4.0:*:*:*:*:openstack:*:*
+  - cpe:2.3:a:opendev:virtualbmc:1.5.0:*:*:*:*:openstack:*:*
+  - cpe:2.3:a:opendev:virtualbmc:1.6.0:*:*:*:*:openstack:*:*
+  - cpe:2.3:a:opendev:virtualbmc:2.0.0:*:*:*:*:openstack:*:*
+  - cpe:2.3:a:opendev:virtualbmc:2.1.0:*:*:*:*:openstack:*:*
+  - cpe:2.3:a:opendev:virtualbmc:2.2.0:*:*:*:*:openstack:*:*
+  - cpe:2.3:a:opendev:virtualbmc:2.2.1:*:*:*:*:openstack:*:*
+  - cpe:2.3:a:opendev:virtualbmc:2.2.2:*:*:*:*:openstack:*:*
+  - cpe:2.3:a:opendev:virtualbmc:3.0.0:*:*:*:*:openstack:*:*

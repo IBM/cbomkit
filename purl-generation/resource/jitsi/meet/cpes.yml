@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jitsi:meet:*:*:*:*:*:docker:*:*
+  - cpe:2.3:a:jitsi:meet:*:*:*:*:*:moodle:*:*
+  - cpe:2.3:a:jitsi:meet:stable-4384-1:*:*:*:*:docker:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/librsvg
+  - pkg:deb/ubuntu/librsvg
+  - pkg:github/gnome/librsvg
+  - pkg:rpm/fedora/librsvg2
+  - pkg:rpm/opensuse/librsvg
+  - pkg:sourceforge/librsvg

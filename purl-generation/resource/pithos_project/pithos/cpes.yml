@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:pithos_project:pithos:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:pithos_project:pithos:0.3.5:*:*:*:*:*:*:*

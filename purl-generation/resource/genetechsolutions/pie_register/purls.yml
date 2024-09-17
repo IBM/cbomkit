@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/gtsolutions/pie-register
+  - pkg:github/wp-plugins/pie-register
+  - pkg:github/wpplugins/pie-register

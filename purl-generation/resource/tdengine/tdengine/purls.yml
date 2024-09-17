@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/taosdata/tdengine
+  - pkg:sourceforge/tdengine.mirror

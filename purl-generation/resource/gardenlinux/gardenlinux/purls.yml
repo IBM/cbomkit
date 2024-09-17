@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/gardenlinux/gardenlinux
+  - pkg:github/gardenlinux/gardenlinux

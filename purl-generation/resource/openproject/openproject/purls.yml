@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/opf/openproject
+  - pkg:rpm/opensuse/openproject
+  - pkg:sourceforge/openproject.mirror

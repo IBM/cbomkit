@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:liquidthreads_project:liquidthreads:2.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:liquidthreads_project:liquidthreads:2.1:alpha:*:*:*:*:*:*

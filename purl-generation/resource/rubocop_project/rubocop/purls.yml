@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rubocop
+  - pkg:deb/ubuntu/rubocop
+  - pkg:gem/rubocop
+  - pkg:github/rubocop/rubocop
+  - pkg:rpm/opensuse/rubygem-rubocop

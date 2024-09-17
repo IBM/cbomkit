@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/dmjx/octoprint
+  - pkg:docker/octoprint/octoprint
+  - pkg:github/octoprint/octoprint
+  - pkg:pypi/octoprint
+  - pkg:sourceforge/octoprint.mirror

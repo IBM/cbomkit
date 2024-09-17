@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/vilistextum
+  - pkg:deb/ubuntu/vilistextum
+  - pkg:github/bhaak/vilistextum
+  - pkg:rpm/opensuse/vilistextum
+  - pkg:sourceforge/vilistextum

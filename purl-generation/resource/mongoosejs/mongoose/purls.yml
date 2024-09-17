@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/automattic/mongoose
+  - pkg:npm/mongoose

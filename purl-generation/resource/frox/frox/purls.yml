@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/pradeo/frox
+  - pkg:rpm/opensuse/frox
+  - pkg:sourceforge/frox

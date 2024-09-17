@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libde265
+  - pkg:deb/ubuntu/libde265
+  - pkg:github/imagemagick/libde265
+  - pkg:github/strukturag/libde265
+  - pkg:github/tridge/libde265
+  - pkg:rpm/opensuse/libde265

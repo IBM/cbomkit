@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:rackspace:openstack_windows_guest_agent:1.2.5.0:-:-:*:-:xen_server:*:*
+  - cpe:2.3:a:rackspace:openstack_windows_guest_agent:1.2.6.0:-:-:*:-:xen_server:*:*
+  - cpe:2.3:a:rackspace:openstack_windows_guest_agent:1.2.6.1:-:-:*:-:xen_server:*:*

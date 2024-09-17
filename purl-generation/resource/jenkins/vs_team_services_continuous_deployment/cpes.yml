@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:jenkins:vs_team_services_continuous_deployment:-:*:*:*:*:jenkins:*:*

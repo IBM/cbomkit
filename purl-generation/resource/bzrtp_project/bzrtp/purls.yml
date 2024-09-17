@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/bzrtp
+  - pkg:deb/ubuntu/bzrtp
+  - pkg:github/belledonnecommunications/bzrtp
+  - pkg:rpm/opensuse/bzrtp

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/exempi
+  - pkg:deb/ubuntu/exempi
+  - pkg:github/hfiguiere/exempi
+  - pkg:github/sailfishos-mirror/exempi
+  - pkg:rpm/centos/exempi
+  - pkg:rpm/fedora/exempi
+  - pkg:rpm/opensuse/exempi

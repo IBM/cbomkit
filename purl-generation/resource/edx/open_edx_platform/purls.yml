@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/digitalhouse/edx-platform
+  - pkg:github/openedx/edx-platform
+  - pkg:gitlab/campusedu/edx-platform

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:miekg-dns_project:miekg-dns:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:miekg-dns_project:miekg-dns:1.1.25:*:*:*:*:*:*:*

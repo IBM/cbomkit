@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/puma
+  - pkg:deb/ubuntu/puma
+  - pkg:gem/gitlab-puma
+  - pkg:gem/puma
+  - pkg:github/puma/puma
+  - pkg:rpm/fedora/rubygem-puma
+  - pkg:rpm/opensuse/rubygem-puma
+  - pkg:sourceforge/puma.mirror

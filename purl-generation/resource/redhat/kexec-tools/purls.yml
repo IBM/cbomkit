@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/kexec-tools
+  - pkg:deb/ubuntu/kexec-tools
+  - pkg:github/horms/kexec-tools
+  - pkg:gitlab/redhat/kexec-tools
+  - pkg:gnome/kexec-tools
+  - pkg:rpm/fedora/kexec-tools
+  - pkg:rpm/fedora/kexec-tools-eppic
+  - pkg:rpm/opensuse/kexec-tools

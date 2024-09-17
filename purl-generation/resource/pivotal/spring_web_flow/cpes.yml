@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:pivotal:spring_web_flow:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:spring_web_flow:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:spring_web_flow:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:spring_web_flow:2.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:spring_web_flow:2.4.5:*:*:*:*:*:*:*

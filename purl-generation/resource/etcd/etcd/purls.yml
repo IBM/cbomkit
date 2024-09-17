@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/etcd
+  - pkg:deb/ubuntu/etcd
+  - pkg:github/etcd-io/etcd
+  - pkg:rpm/fedora/etcd
+  - pkg:rpm/opensuse/etcd

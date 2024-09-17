@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/hackademix/noscript
+  - pkg:rpm/fedora/mozilla-noscript
+  - pkg:rpm/opensuse/mozilla-noscript

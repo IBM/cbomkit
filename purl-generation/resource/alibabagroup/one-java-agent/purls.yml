@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/alibaba/one-java-agent
+  - pkg:maven/com.alibaba.oneagent/one-java-agent

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/readstat
+  - pkg:deb/ubuntu/readstat
+  - pkg:github/wizardmac/readstat
+  - pkg:rpm/opensuse/readstat

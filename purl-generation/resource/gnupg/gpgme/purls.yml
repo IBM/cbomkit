@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/golang-github-proglottis-gpgme
+  - pkg:deb/ubuntu/golang-github-proglottis-gpgme
+  - pkg:github/proglottis/gpgme

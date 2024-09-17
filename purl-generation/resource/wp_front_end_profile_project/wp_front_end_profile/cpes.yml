@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:wp_front_end_profile_project:wp_front_end_profile:0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_front_end_profile_project:wp_front_end_profile:0.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_front_end_profile_project:wp_front_end_profile:0.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_front_end_profile_project:wp_front_end_profile:0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_front_end_profile_project:wp_front_end_profile:-:*:*:*:*:wordpress:*:*

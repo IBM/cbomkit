@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mailcleaner/mailcleaner
+  - pkg:sourceforge/osmailcleaner

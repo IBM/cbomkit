@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bcgit/bc-csharp
+  - pkg:github/bcgit/bc-java
+  - pkg:nuget/bouncycastle.netframework

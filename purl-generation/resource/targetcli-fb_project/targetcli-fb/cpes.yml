@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:targetcli-fb_project:targetcli-fb:2.1.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:targetcli-fb_project:targetcli-fb:2.1.51:*:*:*:*:*:*:*
+  - cpe:2.3:a:targetcli-fb_project:targetcli-fb:2.1.52:*:*:*:*:*:*:*

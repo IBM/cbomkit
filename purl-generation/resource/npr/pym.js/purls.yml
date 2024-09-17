@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/nprapps/pym.js
+  - pkg:github/npr/responsiveiframe
+  - pkg:npm/pym.js

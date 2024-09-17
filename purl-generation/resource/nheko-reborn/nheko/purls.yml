@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/nheko
+  - pkg:deb/ubuntu/nheko
+  - pkg:github/nheko-reborn/nheko
+  - pkg:golang/github.com/nheko-reborn/nheko
+  - pkg:rpm/fedora/nheko
+  - pkg:rpm/opensuse/nheko

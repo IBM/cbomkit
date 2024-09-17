@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/php-phpdocumentor-reflection-common
+  - pkg:deb/ubuntu/php-phpdocumentor-reflection-common
+  - pkg:gem/phpdocr
+  - pkg:github/php/doc-en
+  - pkg:github/phpdocumentor/phpdocumentor
+  - pkg:gitlab/zerodogg/phpdocr
+  - pkg:opensuse/php-phpstan-phpdoc-parser
+  - pkg:rpm/fedora/phpdoc
+  - pkg:rpm/opensuse/php5-pear-phpdocumentor
+  - pkg:sourceforge/phpdocu

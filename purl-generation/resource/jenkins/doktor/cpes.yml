@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:jenkins:doktor:0.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:doktor:0.0.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:doktor:0.0.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:doktor:0.0.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:doktor:0.0.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:doktor:0.0.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:doktor:0.1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:doktor:0.1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:doktor:0.1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:doktor:0.2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:doktor:0.2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:doktor:0.3.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:doktor:0.3.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:doktor:0.3.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:doktor:0.3.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:doktor:0.4.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:doktor:0.4.1:*:*:*:*:jenkins:*:*

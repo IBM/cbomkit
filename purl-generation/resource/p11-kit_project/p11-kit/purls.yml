@@ -1,0 +1,9 @@
+purls:
+  - pkg:bitbucket/mrwags9085/p11-kit
+  - pkg:deb/debian/p11-kit
+  - pkg:deb/ubuntu/p11-kit
+  - pkg:github/p11-glue/p11-kit
+  - pkg:gitlab/redhat/p11-kit
+  - pkg:rpm/centos/p11-kit
+  - pkg:rpm/fedora/p11-kit
+  - pkg:rpm/opensuse/p11-kit

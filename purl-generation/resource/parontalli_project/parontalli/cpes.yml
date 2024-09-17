@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:parontalli_project:parontalli:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:parontalli_project:parontalli:-:*:*:*:*:*:*:*

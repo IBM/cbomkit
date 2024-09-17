@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/crowdfavorite-mirrors/wp-wp-google-map-plugin
+  - pkg:github/wp-plugins/wp-google-map-plugin
+  - pkg:github/wpplugins/wp-google-map-plugin

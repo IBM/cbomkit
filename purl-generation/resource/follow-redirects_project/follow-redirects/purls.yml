@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-follow-redirects
+  - pkg:deb/ubuntu/node-follow-redirects
+  - pkg:github/follow-redirects/follow-redirects
+  - pkg:maven/org.webjars.npm/follow-redirects
+  - pkg:npm/follow-redirects

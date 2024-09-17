@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-beaker
+  - pkg:github/beaker-project/beaker
+  - pkg:pypi/beaker
+  - pkg:rpm/fedora/beaker
+  - pkg:rpm/opensuse/python-beaker
+  - pkg:rpm/ubuntu/python-beaker

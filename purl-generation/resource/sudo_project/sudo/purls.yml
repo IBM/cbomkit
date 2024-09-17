@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/millert/sudo
+  - pkg:deb/debian/sudo
+  - pkg:deb/ubuntu/sudo
+  - pkg:github/sudo-project/sudo
+  - pkg:gitlab/redhat/sudo
+  - pkg:rpm/fedora/sudo

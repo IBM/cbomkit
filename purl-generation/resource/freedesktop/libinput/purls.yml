@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libinput
+  - pkg:deb/ubuntu/libinput
+  - pkg:github/freedesktop/wayland-libinput
+  - pkg:rpm/centos/libinput
+  - pkg:rpm/fedora/libinput
+  - pkg:rpm/opensuse/libinput

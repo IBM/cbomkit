@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/exp-anoop/validate-data
+  - pkg:npm/validate-data

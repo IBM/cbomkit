@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:hynotech:dropbox_folder_share:1.9.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hynotech:dropbox_folder_share:*:*:*:*:*:wordpress:*:*

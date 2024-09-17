@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/pcp
+  - pkg:deb/ubuntu/pcp
+  - pkg:github/performancecopilot/pcp
+  - pkg:gitlab/redhat/pcp
+  - pkg:pypi/pcp
+  - pkg:rpm/fedora/pcp
+  - pkg:rpm/opensuse/pcp

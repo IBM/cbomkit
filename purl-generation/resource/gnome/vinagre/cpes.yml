@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:gnome:vinagre:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:vinagre:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:vinagre:2.23.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:vinagre:2.23.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:vinagre:2.23.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:vinagre:2.23.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:vinagre:2.23.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:vinagre:2.23.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:vinagre:2.23.91:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:vinagre:2.23.92:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:vinagre:2.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:vinagre:2.24.1:*:*:*:*:*:*:*

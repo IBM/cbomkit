@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:contenido:contendio:4.5.2_alpha:*:*:*:*:*:*:*
+  - cpe:2.3:a:contenido:contendio:4.5.6_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:contenido:contendio:4.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:contenido:contendio:4.6.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:contenido:contendio:4.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:contenido:contendio:4.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:contenido:contendio:4.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:contenido:contendio:4.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:contenido:contendio:4.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:contenido:contendio:4.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:contenido:contendio:4.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:contenido:contendio:4.9.6:*:*:*:*:*:*:*

@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:tru-zone:nukeet:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:tru-zone:nukeet:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tru-zone:nukeet:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tru-zone:nukeet:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:tru-zone:nukeet:3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:tru-zone:nukeet:3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:tru-zone:nukeet:3.9:*:*:*:*:*:*:*

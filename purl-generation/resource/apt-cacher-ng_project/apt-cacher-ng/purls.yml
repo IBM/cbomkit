@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/apt-cacher-ng
+  - pkg:deb/ubuntu/apt-cacher-ng
+  - pkg:github/ashang/apt-cacher-ng
+  - pkg:rpm/fedora/apt-cacher-ng
+  - pkg:rpm/opensuse/apt-cacher-ng

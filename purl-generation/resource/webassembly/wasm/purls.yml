@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/webassembly/wabt
+  - pkg:golang/github.com/webassembly/wabt

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/smallrye/smallrye-config
+  - pkg:maven/io.smallrye/smallrye-config

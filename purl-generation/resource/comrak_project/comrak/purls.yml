@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/kivikakk/comrak
+  - pkg:rpm/fedora/rust-comrak
+  - pkg:rpm/opensuse/rust-comrak

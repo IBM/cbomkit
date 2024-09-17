@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kohsuke/libpam4j
+  - pkg:maven/org.kohsuke/libpam4j

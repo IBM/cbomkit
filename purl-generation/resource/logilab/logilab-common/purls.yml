@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/logilab-common
+  - pkg:deb/ubuntu/logilab-common
+  - pkg:github/cbonnet99/logilab_common
+  - pkg:github/musicmetric/logilab-common
+  - pkg:github/pombredanne/logilab-common
+  - pkg:pypi/logilab-common
+  - pkg:rpm/opensuse/python-logilab-common

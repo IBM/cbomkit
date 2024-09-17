@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jenkins:source_code_management_filter_jervis:0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:source_code_management_filter_jervis:0.2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:source_code_management_filter_jervis:0.2:*:*:*:*:jenkins:*:*

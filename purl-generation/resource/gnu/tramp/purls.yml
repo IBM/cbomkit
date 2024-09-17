@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gitgnu/gnu_tramp
+  - pkg:gnu/tramp

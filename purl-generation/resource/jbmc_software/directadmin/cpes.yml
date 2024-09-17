@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jbmc_software:directadmin:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:jbmc_software:directadmin:1.28.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jbmc_software:directadmin:1.293:*:*:*:*:*:*:*

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:nedap:mysql-binuuid-rails:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nedap:mysql-binuuid-rails:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nedap:mysql-binuuid-rails:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nedap:mysql-binuuid-rails:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nedap:mysql-binuuid-rails:1.2.1:*:*:*:*:*:*:*

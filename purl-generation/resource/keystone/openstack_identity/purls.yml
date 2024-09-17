@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/keystone
+  - pkg:deb/ubuntu/keystone
+  - pkg:github/openstack/keystone
+  - pkg:opensuse/openstack-keystone
+  - pkg:pypi/keystone
+  - pkg:rpm/fedora/openstack-keystone

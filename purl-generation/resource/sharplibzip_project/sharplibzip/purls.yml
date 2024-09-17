@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/icsharpcode/sharpziplib
+  - pkg:nuget/sharpziplib

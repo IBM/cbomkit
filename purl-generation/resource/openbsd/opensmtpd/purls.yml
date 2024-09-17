@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/ubuntu/opensmtpd
+  - pkg:github/opensmtpd/opensmtpd
+  - pkg:rpm/fedora/opensmtpd
+  - pkg:rpm/opensuse/opensmtpd

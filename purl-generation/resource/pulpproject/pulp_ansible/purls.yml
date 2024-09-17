@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pulp/pulp-ansible
+  - pkg:pypi/pulp-ansible

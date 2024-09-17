@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kuba--/zip
+  - pkg:golang/github.com/kuba--/zip

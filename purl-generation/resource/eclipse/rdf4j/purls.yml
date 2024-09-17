@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/asanchez75/rdf4j
+  - pkg:github/eclipse/rdf4j
+  - pkg:maven/org.eclipse.rdf4j/rdf4j

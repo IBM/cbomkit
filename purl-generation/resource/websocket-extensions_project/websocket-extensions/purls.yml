@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-websocket-extensions
+  - pkg:deb/ubuntu/ruby-websocket-extensions
+  - pkg:gem/websocket-extensions
+  - pkg:github/faye/websocket-extensions-ruby
+  - pkg:rpm/fedora/rubygem-websocket-extensions
+  - pkg:rpm/opensuse/rubygem-websocket-extensions

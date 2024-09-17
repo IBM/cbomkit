@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:o:openvz:vzkernel:-:*:*:*:*:*:*:*
+  - cpe:2.3:o:openvz:vzkernel:2.6.32:*:*:*:*:*:*:*

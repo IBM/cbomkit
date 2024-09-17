@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/mapbender/mapbender
+  - pkg:github/mapbender/mapbender

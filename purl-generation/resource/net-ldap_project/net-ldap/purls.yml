@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-net-ldap
+  - pkg:deb/ubuntu/ruby-net-ldap
+  - pkg:gem/net-ldap
+  - pkg:github/ruby-ldap/ruby-net-ldap
+  - pkg:rpm/fedora/rubygem-net-ldap
+  - pkg:rpm/opensuse/rubygem-net-ldap

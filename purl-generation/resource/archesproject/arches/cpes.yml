@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:archesproject:arches:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:archesproject:arches:6.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:archesproject:arches:6.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:archesproject:arches:7.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:archesproject:arches:7.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:archesproject:arches:7.1.1:*:*:*:*:*:*:*

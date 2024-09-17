@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/nmap
+  - pkg:deb/ubuntu/nmap
+  - pkg:github/nmap/nmap
+  - pkg:gitlab/kalilinux/nmap
+  - pkg:gitlab/redhat/nmap
+  - pkg:rpm/centos/nmap
+  - pkg:rpm/fedora/nmap
+  - pkg:rpm/opensuse/nmap

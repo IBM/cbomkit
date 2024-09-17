@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/python-untangle
+  - pkg:deb/ubuntu/python-untangle
+  - pkg:github/stchris/untangle
+  - pkg:pypi/untangle
+  - pkg:rpm/opensuse/python-untangle

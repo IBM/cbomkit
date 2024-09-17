@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-routes
+  - pkg:deb/ubuntu/php-horde-routes
+  - pkg:github/horde/routes
+  - pkg:rpm/fedora/php-horde-horde-routes

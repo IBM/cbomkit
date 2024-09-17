@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:opcua_project:opcua:0.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:opcua_project:opcua:0.10:*:*:*:*:rust:*:*
+  - cpe:2.3:a:opcua_project:opcua:0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:opcua_project:opcua:0.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:opcua_project:opcua:0.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:opcua_project:opcua:0.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:opcua_project:opcua:0.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:opcua_project:opcua:0.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:opcua_project:opcua:0.7:*:*:*:*:rust:*:*
+  - cpe:2.3:a:opcua_project:opcua:0.8:*:*:*:*:rust:*:*
+  - cpe:2.3:a:opcua_project:opcua:0.9:*:*:*:*:rust:*:*
+  - cpe:2.3:a:opcua_project:opcua:*:*:*:*:*:python:*:*

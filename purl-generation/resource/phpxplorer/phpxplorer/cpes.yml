@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:phpxplorer:phpxplorer:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpxplorer:phpxplorer:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpxplorer:phpxplorer:0.9.33:*:*:*:*:*:*:*

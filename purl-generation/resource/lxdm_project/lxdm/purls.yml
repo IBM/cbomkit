@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/lxdm
+  - pkg:deb/ubuntu/lxdm
+  - pkg:github/galliumos/lxdm
+  - pkg:github/kkang-wr/lxdm
+  - pkg:rpm/fedora/lxdm
+  - pkg:rpm/opensuse/lxdm
+  - pkg:sourceforge/lxdm

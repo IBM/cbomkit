@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:marmelab:ra-ui-materialui:4.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:marmelab:ra-ui-materialui:4.7.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:marmelab:ra-ui-materialui:*:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:marmelab:ra-ui-materialui:-:*:*:*:*:node.js:*:*

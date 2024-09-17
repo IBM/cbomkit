@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:troglobit:smcroute:0.94:*:*:*:*:*:*:*
+  - cpe:2.3:a:troglobit:smcroute:0.94.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:troglobit:smcroute:0.95:*:*:*:*:*:*:*
+  - cpe:2.3:a:troglobit:smcroute:1.98.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:troglobit:smcroute:1.98.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:troglobit:smcroute:1.98.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:troglobit:smcroute:1.98.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:troglobit:smcroute:1.99.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:troglobit:smcroute:1.99.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:troglobit:smcroute:1.99.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:troglobit:smcroute:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:troglobit:smcroute:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:troglobit:smcroute:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:troglobit:smcroute:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:troglobit:smcroute:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:troglobit:smcroute:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:troglobit:smcroute:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:troglobit:smcroute:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:troglobit:smcroute:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:troglobit:smcroute:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:troglobit:smcroute:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:troglobit:smcroute:2.4.3:*:*:*:*:*:*:*

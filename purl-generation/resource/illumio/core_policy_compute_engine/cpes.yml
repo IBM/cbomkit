@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:illumio:core_policy_compute_engine:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:illumio:core_policy_compute_engine:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:illumio:core_policy_compute_engine:21.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:illumio:core_policy_compute_engine:21.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:illumio:core_policy_compute_engine:22.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:illumio:core_policy_compute_engine:22.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:illumio:core_policy_compute_engine:23.2.0:*:*:*:*:*:*:*

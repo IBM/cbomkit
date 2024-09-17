@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/nolimits4web/swiper
+  - pkg:maven/org.webjars.bowergithub.nolimits4web/swiper
+  - pkg:maven/org.webjars.npm/swiper
+  - pkg:npm/swiper

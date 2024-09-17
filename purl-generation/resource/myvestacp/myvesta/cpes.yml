@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:myvestacp:myvesta:0.9.8-10:*:*:*:*:*:*:*
+  - cpe:2.3:a:myvestacp:myvesta:0.9.8-11:*:*:*:*:*:*:*
+  - cpe:2.3:a:myvestacp:myvesta:0.9.8-12:*:*:*:*:*:*:*
+  - cpe:2.3:a:myvestacp:myvesta:0.9.8-13:*:*:*:*:*:*:*
+  - cpe:2.3:a:myvestacp:myvesta:0.9.8-15:*:*:*:*:*:*:*
+  - cpe:2.3:a:myvestacp:myvesta:0.9.8-16:*:*:*:*:*:*:*
+  - cpe:2.3:a:myvestacp:myvesta:0.9.8-18:*:*:*:*:*:*:*
+  - cpe:2.3:a:myvestacp:myvesta:0.9.8-19:*:*:*:*:*:*:*
+  - cpe:2.3:a:myvestacp:myvesta:0.9.8-26-25:*:*:*:*:*:*:*
+  - cpe:2.3:a:myvestacp:myvesta:0.9.8-26-29:*:*:*:*:*:*:*
+  - cpe:2.3:a:myvestacp:myvesta:0.9.8-26-31:*:*:*:*:*:*:*
+  - cpe:2.3:a:myvestacp:myvesta:0.9.8-26-33:*:*:*:*:*:*:*
+  - cpe:2.3:a:myvestacp:myvesta:0.9.8-26-35:*:*:*:*:*:*:*
+  - cpe:2.3:a:myvestacp:myvesta:0.9.8-26-36:*:*:*:*:*:*:*
+  - cpe:2.3:a:myvestacp:myvesta:0.9.8-26-37:*:*:*:*:*:*:*
+  - cpe:2.3:a:myvestacp:myvesta:0.9.8-26-38:*:*:*:*:*:*:*
+  - cpe:2.3:a:myvestacp:myvesta:0.9.8-26-39:*:*:*:*:*:*:*

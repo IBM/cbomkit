@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:osisoft:pi_connector:1.0.0.54:*:*:*:*:ping:*:*
+  - cpe:2.3:a:osisoft:pi_connector:1.1.0.10:*:*:*:*:ethernet\/ip:*:*
+  - cpe:2.3:a:osisoft:pi_connector:1.2.0.42:*:*:*:*:dc_systems_rtscada:*:*
+  - cpe:2.3:a:osisoft:pi_connector:1.2.0.6:*:*:*:*:bacnet:*:*
+  - cpe:2.3:a:osisoft:pi_connector:1.2.1.71:*:*:*:*:siemens_simatic_pcs_7:*:*
+  - cpe:2.3:a:osisoft:pi_connector:1.2.2.79:*:*:*:*:iec_60870-5-104:*:*
+  - cpe:2.3:a:osisoft:pi_connector:1.3.0.130:*:*:*:*:opc-ua:*:*
+  - cpe:2.3:a:osisoft:pi_connector:1.3.0.1:*:*:*:*:hart-ip:*:*
+  - cpe:2.3:a:osisoft:pi_connector:1.3.1.135:*:*:*:*:ufl:*:*
+  - cpe:2.3:a:osisoft:pi_connector:1.4.0.17:*:*:*:*:cygnet:*:*
+  - cpe:2.3:a:osisoft:pi_connector:1.5.0.88:*:*:*:*:wonderware_historian:*:*

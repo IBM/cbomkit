@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:inextrix:astpp:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:inextrix:astpp:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:inextrix:astpp:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:inextrix:astpp:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:inextrix:astpp:1.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:inextrix:astpp:1.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:inextrix:astpp:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:inextrix:astpp:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:inextrix:astpp:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:inextrix:astpp:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:inextrix:astpp:3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:inextrix:astpp:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:inextrix:astpp:3.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:inextrix:astpp:3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:inextrix:astpp:3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:inextrix:astpp:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:inextrix:astpp:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:inextrix:astpp:4.0.2:*:*:*:*:*:*:*

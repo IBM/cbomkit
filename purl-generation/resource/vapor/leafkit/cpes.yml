@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:vapor:leafkit:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:vapor:leafkit:1.3.0:*:*:*:*:*:*:*

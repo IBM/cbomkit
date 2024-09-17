@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:gnu:grub_legacy:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:grub_legacy:0.92:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:grub_legacy:0.93:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:grub_legacy:0.94:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:grub_legacy:0.94-i386-pc:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:grub_legacy:0.95:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:grub_legacy:0.95-i386-pc:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:grub_legacy:0.96:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:grub_legacy:0.96-i386-pc:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:grub_legacy:0.97-i386-pc:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:goa.design:goa:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:goa.design:goa:1.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:goa.design:goa:*:*:*:*:*:go:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/phpmemcachedadmin
+  - pkg:github/codeb2cc/phpmemcachedadmin
+  - pkg:github/elijaa/phpmemcachedadmin

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ilanschnell/bsdiff4
+  - pkg:pypi/bsdiff4
+  - pkg:rpm/opensuse/python-bsdiff4

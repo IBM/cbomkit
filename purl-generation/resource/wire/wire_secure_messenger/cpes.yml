@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:wire:wire_secure_messenger:3.49.918:*:*:*:*:android:*:*
+  - cpe:2.3:a:wire:wire_secure_messenger:3.61:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:wire:wire_secure_messenger:*:*:*:*:*:android:*:*
+  - cpe:2.3:a:wire:wire_secure_messenger:*:*:*:*:*:iphone_os:*:*

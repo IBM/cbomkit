@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/mpack
+  - pkg:deb/ubuntu/mpack
+  - pkg:github/league/mpack
+  - pkg:sourceforge/mpack-win

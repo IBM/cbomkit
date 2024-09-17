@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:crossbar:autobahn:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:crossbar:autobahn:20.12.3:*:*:*:*:*:*:*

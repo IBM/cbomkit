@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/codeception/codeception
+  - pkg:github/codeception/codeception

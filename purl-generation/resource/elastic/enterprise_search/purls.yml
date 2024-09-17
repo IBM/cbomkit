@@ -1,0 +1,6 @@
+purls:
+  - pkg:gem/elastic-enterprise-search
+  - pkg:github/elastic/enterprise-search-php
+  - pkg:github/elastic/enterprise-search-python
+  - pkg:github/elastic/enterprise-search-ruby
+  - pkg:pypi/elastic-enterprise-search

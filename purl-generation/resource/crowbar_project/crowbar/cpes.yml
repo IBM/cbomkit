@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:crowbar_project:crowbar:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:crowbar_project:crowbar:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:crowbar_project:crowbar:3:*:*:*:*:*:*:*
+  - cpe:2.3:a:crowbar_project:crowbar:4:*:*:*:*:*:*:*
+  - cpe:2.3:a:crowbar_project:crowbar:5:*:*:*:*:*:*:*
+  - cpe:2.3:a:crowbar_project:crowbar:6:*:*:*:*:*:*:*
+  - cpe:2.3:a:crowbar_project:crowbar:7:*:*:*:*:*:*:*
+  - cpe:2.3:a:crowbar_project:crowbar:8:*:*:*:*:*:*:*
+  - cpe:2.3:a:crowbar_project:crowbar:9:*:*:*:*:*:*:*

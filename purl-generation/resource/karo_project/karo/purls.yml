@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/karo
+  - pkg:github/rahult/karo

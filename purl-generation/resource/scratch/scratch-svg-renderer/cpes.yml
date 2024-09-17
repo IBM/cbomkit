@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:scratch:scratch-svg-renderer:0.2.0:prerelease.20201009195807:*:*:*:node.js:*:*
+  - cpe:2.3:a:scratch:scratch-svg-renderer:0.2.0:prerelease.20201009202925:*:*:*:node.js:*:*
+  - cpe:2.3:a:scratch:scratch-svg-renderer:0.2.0:prerelease.20201009211507:*:*:*:node.js:*:*
+  - cpe:2.3:a:scratch:scratch-svg-renderer:0.2.0:prerelease.20201011114003:*:*:*:node.js:*:*
+  - cpe:2.3:a:scratch:scratch-svg-renderer:0.2.0:prerelease.20201012151417:*:*:*:node.js:*:*
+  - cpe:2.3:a:scratch:scratch-svg-renderer:0.2.0:prerelease.20201014105708:*:*:*:node.js:*:*
+  - cpe:2.3:a:scratch:scratch-svg-renderer:0.2.0:prerelease.20201014145347:*:*:*:node.js:*:*
+  - cpe:2.3:a:scratch:scratch-svg-renderer:0.2.0:prerelease.20201015122106:*:*:*:node.js:*:*
+  - cpe:2.3:a:scratch:scratch-svg-renderer:0.2.0:prerelease.20201015135047:*:*:*:node.js:*:*
+  - cpe:2.3:a:scratch:scratch-svg-renderer:0.2.0:prerelease.20201015194358:*:*:*:node.js:*:*

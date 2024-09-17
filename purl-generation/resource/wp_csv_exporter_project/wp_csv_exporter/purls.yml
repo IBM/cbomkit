@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/wp-plugins/wp-csv-exporter
+  - pkg:github/wpplugins/wp-csv-exporter
+  - pkg:github/yuesan/wp-csv-exporter

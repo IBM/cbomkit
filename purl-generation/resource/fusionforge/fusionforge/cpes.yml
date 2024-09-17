@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:fusionforge:fusionforge:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionforge:fusionforge:5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionforge:fusionforge:5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionforge:fusionforge:5.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionforge:fusionforge:6.0:rc3:*:*:*:*:*:*

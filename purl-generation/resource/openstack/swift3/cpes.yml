@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:openstack:swift3:1.8:*:*:*:*:*:*:*

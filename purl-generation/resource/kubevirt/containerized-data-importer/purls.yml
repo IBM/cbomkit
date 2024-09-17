@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kubevirt/containerized-data-importer
+  - pkg:rpm/opensuse/containerized-data-importer

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:printer_project:printer:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:printer_project:printer:-:*:*:*:*:*:*:*

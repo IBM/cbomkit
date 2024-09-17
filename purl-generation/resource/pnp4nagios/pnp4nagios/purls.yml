@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/lingej/pnp4nagios
+  - pkg:rpm/fedora/pnp4nagios
+  - pkg:rpm/opensuse/pnp4nagios
+  - pkg:sourceforge/pnp4nagios

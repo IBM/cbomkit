@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/graphql/graphql-playground
+  - pkg:npm/graphql-playground-middleware-lambda
+  - pkg:sourceforge/graphql-playground.mirror

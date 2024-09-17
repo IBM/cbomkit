@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/onshift/turbogears
+  - pkg:pypi/turbogears
+  - pkg:rpm/fedora/turbogears
+  - pkg:rpm/opensuse/python-turbogears
+  - pkg:sourceforge/turbogears.mirror

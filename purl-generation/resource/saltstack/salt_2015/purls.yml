@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/salt
+  - pkg:deb/ubuntu/salt
+  - pkg:docker/saltstack/salt
+  - pkg:github/saltstack/salt
+  - pkg:gitlab/saltstack/salt
+  - pkg:rpm/fedora/salt
+  - pkg:rpm/opensuse/salt
+  - pkg:sourceforge/salt.mirror

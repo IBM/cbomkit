@@ -1,0 +1,6 @@
+purls:
+  - pkg:apache/axis
+  - pkg:deb/debian/axis
+  - pkg:deb/ubuntu/axis
+  - pkg:github/apache/axis-site
+  - pkg:maven/org.apache.axis/axis

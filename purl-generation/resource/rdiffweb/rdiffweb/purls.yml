@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ikus060/rdiffweb
+  - pkg:golang/github.com/ikus060/rdiffweb
+  - pkg:pypi/rdiffweb

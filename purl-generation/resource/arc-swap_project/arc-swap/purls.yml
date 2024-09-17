@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-arc-swap
+  - pkg:deb/ubuntu/rust-arc-swap
+  - pkg:github/vorner/arc-swap
+  - pkg:rpm/fedora/rust-arc-swap
+  - pkg:rpm/opensuse/rust-arc-swap

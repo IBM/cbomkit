@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/trevp/tlslite
+  - pkg:pypi/tlslite
+  - pkg:rpm/opensuse/python-tlslite

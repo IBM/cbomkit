@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:wpsymposium:wp_symposium:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:wpsymposium:wp_symposium:11.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wpsymposium:wp_symposium:11.10.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:wpsymposium:wp_symposium:11.10.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:wpsymposium:wp_symposium:11.10.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:wpsymposium:wp_symposium:11.10.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:wpsymposium:wp_symposium:11.11.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:wpsymposium:wp_symposium:11.11.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:wpsymposium:wp_symposium:11.11.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:wpsymposium:wp_symposium:11.11.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:wpsymposium:wp_symposium:11.12.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:wpsymposium:wp_symposium:11.9.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:wpsymposium:wp_symposium:11.9.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:wpsymposium:wp_symposium:11.9.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:wpsymposium:wp_symposium:11.9.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:wpsymposium:wp_symposium:13.02:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpsymposium:wp_symposium:13.04:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpsymposium:wp_symposium:14.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpsymposium:wp_symposium:14.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpsymposium:wp_symposium:15.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpsymposium:wp_symposium:15.7:*:*:*:*:wordpress:*:*

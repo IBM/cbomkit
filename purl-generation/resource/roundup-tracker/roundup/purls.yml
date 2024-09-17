@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/roundup-tracker/roundup
+  - pkg:pypi/roundup
+  - pkg:sourceforge/roundup

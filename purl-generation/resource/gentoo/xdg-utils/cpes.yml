@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:gentoo:xdg-utils:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:xdg-utils:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:xdg-utils:1.1.0:rc1:*:*:*:*:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-notification
+  - pkg:deb/ubuntu/php-horde-notification
+  - pkg:github/horde/notification
+  - pkg:rpm/fedora/php-horde-horde-notification

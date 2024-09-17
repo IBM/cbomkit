@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:hunter2_project:hunter2:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hunter2_project:hunter2:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hunter2_project:hunter2:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hunter2_project:hunter2:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hunter2_project:hunter2:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hunter2_project:hunter2:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hunter2_project:hunter2:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hunter2_project:hunter2:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hunter2_project:hunter2:2.1.0:*:*:*:*:*:*:*

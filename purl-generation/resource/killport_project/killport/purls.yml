@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ssnau/killport
+  - pkg:npm/killport

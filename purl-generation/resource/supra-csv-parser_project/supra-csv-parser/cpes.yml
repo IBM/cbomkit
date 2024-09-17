@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:supra-csv-parser_project:supra-csv-parser:4.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:supra-csv-parser_project:supra-csv-parser:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:supra-csv-parser_project:supra-csv-parser:-:*:*:*:*:wordpress:*:*

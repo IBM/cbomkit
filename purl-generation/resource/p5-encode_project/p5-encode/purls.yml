@@ -1,0 +1,7 @@
+purls:
+  - pkg:cpan/encode
+  - pkg:github/dankogai/p5-encode
+  - pkg:gitlab/redhat/perl-encode
+  - pkg:rpm/centos/perl-encode
+  - pkg:rpm/fedora/perl-encode
+  - pkg:rpm/opensuse/perl-encode

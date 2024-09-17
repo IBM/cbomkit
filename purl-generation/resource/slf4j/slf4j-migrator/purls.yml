@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/qos-ch/slf4j
+  - pkg:github/synnks/slf4jmigrator
+  - pkg:maven/org.slf4j/slf4j-migrator

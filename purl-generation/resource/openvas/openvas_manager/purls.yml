@@ -1,0 +1,9 @@
+purls:
+  - pkg:cpan/openvas::omp
+  - pkg:deb/ubuntu/openvas-manager
+  - pkg:docker/camptocamp/openvas-manager
+  - pkg:github/greenbone/gvmd
+  - pkg:gitlab/kalilinux/openvas-manager
+  - pkg:pypi/openvas-lib
+  - pkg:rpm/fedora/openvas-manager
+  - pkg:rpm/opensuse/openvas-manager

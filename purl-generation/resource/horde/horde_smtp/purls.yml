@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-smtp
+  - pkg:deb/ubuntu/php-horde-smtp
+  - pkg:github/horde/smtp
+  - pkg:rpm/fedora/php-horde-horde-smtp

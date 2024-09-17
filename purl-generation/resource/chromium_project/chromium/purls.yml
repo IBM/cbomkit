@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/chromium
+  - pkg:deb/ubuntu/chromium-browser
+  - pkg:github/chromium/chromium
+  - pkg:googlesource/chromium/chromium
+  - pkg:rpm/fedora/chromium
+  - pkg:rpm/opensuse/chromium

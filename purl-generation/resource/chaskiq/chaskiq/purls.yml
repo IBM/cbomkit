@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/chaskiq
+  - pkg:github/chaskiq/chaskiq
+  - pkg:golang/github.com/chaskiq/chaskiq

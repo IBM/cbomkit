@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:webmaster-source:gocodes:1.3.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webmaster-source:gocodes:-:*:*:*:*:wordpress:*:*

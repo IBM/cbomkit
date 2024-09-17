@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:pgbouncer_project:pgbouncer:1.5.2:*:*:*:*:*:*:*

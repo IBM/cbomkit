@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-i18n
+  - pkg:deb/ubuntu/ruby-i18n
+  - pkg:gem/i18n
+  - pkg:github/ruby-i18n/i18n
+  - pkg:rpm/fedora/rubygem-i18n
+  - pkg:rpm/opensuse/rubygem-i18n

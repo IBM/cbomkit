@@ -1,0 +1,7 @@
+purls:
+  - pkg:github/arrad/dhcp
+  - pkg:github/isc-projects/dhcp
+  - pkg:gitlab/redhat/dhcp
+  - pkg:rpm/centos/dhcp
+  - pkg:rpm/fedora/dhcp
+  - pkg:rpm/opensuse/dhcp

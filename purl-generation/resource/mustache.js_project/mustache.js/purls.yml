@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/mustache.js
+  - pkg:deb/ubuntu/mustache.js
+  - pkg:github/janl/mustache.js
+  - pkg:maven/org.webjars.bowergithub.janl/mustache.js
+  - pkg:npm/mustache
+  - pkg:nuget/mustache.js
+  - pkg:sourceforge/mustache-js.mirror

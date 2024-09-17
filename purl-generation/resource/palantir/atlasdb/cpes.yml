@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:palantir:atlasdb:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:palantir:atlasdb:-:*:*:*:*:*:*:*

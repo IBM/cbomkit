@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/moxiecode/plupload
+  - pkg:maven/org.webjars.bower/plupload
+  - pkg:npm/plupload
+  - pkg:nuget/Plupload
+  - pkg:sourceforge/plupload.mirror

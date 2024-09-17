@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jeecgboot/jeecg-boot
+  - pkg:golang/github.com/jeecgboot/jeecg-boot

@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:auth0:auth0.net:1.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:auth0:auth0.net:1.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:auth0:auth0.net:1.11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:auth0:auth0.net:5.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:auth0:auth0.net:5.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:auth0:auth0.net:5.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:auth0:auth0.net:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:auth0:auth0.net:6.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:auth0:auth0.net:6.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:auth0:auth0.net:6.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:auth0:auth0.net:6.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:auth0:auth0.net:6.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:auth0:auth0.net:6.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:auth0:auth0.net:6.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:auth0:auth0.net:6.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:auth0:auth0.net:6.5.4:*:*:*:*:*:*:*

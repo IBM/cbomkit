@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/crispy-doom
+  - pkg:deb/ubuntu/crispy-doom
+  - pkg:github/fabiangreffrath/crispy-doom

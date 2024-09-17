@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/swoole/swoole-src
+  - pkg:sourceforge/swoole.mirror

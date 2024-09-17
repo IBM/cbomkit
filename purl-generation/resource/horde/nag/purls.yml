@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-nag
+  - pkg:deb/ubuntu/php-horde-nag
+  - pkg:github/horde/nag
+  - pkg:rpm/fedora/php-horde-nag

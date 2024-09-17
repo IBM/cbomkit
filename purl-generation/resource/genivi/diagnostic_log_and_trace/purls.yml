@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/dlt-daemon
+  - pkg:deb/ubuntu/dlt-daemon
+  - pkg:github/genivi/dlt-daemon

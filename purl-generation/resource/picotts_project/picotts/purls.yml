@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/luisivan/node-picotts
+  - pkg:npm/picotts

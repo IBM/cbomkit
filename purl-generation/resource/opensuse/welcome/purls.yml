@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/opensuse/opensuse-welcome
+  - pkg:rpm/opensuse/opensuse-welcome

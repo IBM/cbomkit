@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/hama
+  - pkg:apache/hama-dist
+  - pkg:github/apache/hama

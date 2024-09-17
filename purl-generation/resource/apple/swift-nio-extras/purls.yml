@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/apple/swift-nio-extras
+  - pkg:github/jquepi/swift-nio-extras

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/nbd
+  - pkg:deb/ubuntu/nbd
+  - pkg:github/networkblockdevice/nbd
+  - pkg:rpm/fedora/nbd
+  - pkg:rpm/opensuse/nbd

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/opendaylight/openflowplugin
+  - pkg:maven/org.opendaylight.openflowplugin/openflowplugin

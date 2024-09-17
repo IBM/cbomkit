@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/pear/html_quickform
+  - pkg:rpm/fedora/php-pear-html-quickform
+  - pkg:rpm/opensuse/php-pear-html-quickform

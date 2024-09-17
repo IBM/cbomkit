@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/vim-syntastic
+  - pkg:deb/ubuntu/vim-syntastic
+  - pkg:github/vim-syntastic/syntastic
+  - pkg:rpm/fedora/vim-syntastic
+  - pkg:rpm/opensuse/vim-syntastic
+  - pkg:sourceforge/syntastic.mirror

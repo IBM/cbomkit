@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:skyarc:multifileuploader:0.44:*:*:*:*:*:*:*
+  - cpe:2.3:a:skyarc:multifileuploader:0.45:*:*:*:*:*:*:*

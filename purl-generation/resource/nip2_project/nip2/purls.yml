@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/libvips/nip2
+  - pkg:rpm/fedora/nip2
+  - pkg:rpm/opensuse/nip2

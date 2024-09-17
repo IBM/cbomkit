@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/devsu/tao
+  - pkg:github/devsu/docker-tao

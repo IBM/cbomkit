@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/app-detector-plugin
+  - pkg:github/justice3120/app-detector-plugin

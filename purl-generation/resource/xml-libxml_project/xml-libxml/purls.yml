@@ -1,0 +1,9 @@
+purls:
+  - pkg:cpan/xml-libxml
+  - pkg:deb/debian/perl-xml-libxml
+  - pkg:deb/ubuntu/perl-xml-libxml
+  - pkg:github/shlomif/perl-xml-libxml
+  - pkg:gitlab/redhat/perl-xml-libxml
+  - pkg:rpm/centos/perl-xml-libxml
+  - pkg:rpm/fedora/perl-xml-libxml
+  - pkg:rpm/opensuse/perl-xml-libxml

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jfhbrook/node-ecstatic
+  - pkg:maven/org.webjars.npm/ecstatic
+  - pkg:npm/ecstatic

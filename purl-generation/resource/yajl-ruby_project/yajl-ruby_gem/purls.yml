@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/yajl-ruby
+  - pkg:github/brianmario/yajl-ruby
+  - pkg:golang/github.com/brianmario/yajl-ruby

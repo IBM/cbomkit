@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ledger
+  - pkg:deb/ubuntu/ledger
+  - pkg:github/ledger/ledger
+  - pkg:rpm/fedora/ledger
+  - pkg:rpm/opensuse/ledger

@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/openwhisk
+  - pkg:github/apache/openwhisk
+  - pkg:github/apache/openwhisk-runtime-docker
+  - pkg:sourceforge/openwhisk.mirror

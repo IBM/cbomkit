@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:awful-salmonella-tar_project:awful-salmonella-tar:0.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:awful-salmonella-tar_project:awful-salmonella-tar:0.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:awful-salmonella-tar_project:awful-salmonella-tar:0.0.4:*:*:*:*:*:*:*

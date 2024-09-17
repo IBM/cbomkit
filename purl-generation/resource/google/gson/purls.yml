@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libgoogle-gson-java
+  - pkg:deb/ubuntu/libgoogle-gson-java
+  - pkg:github/google/gson
+  - pkg:rpm/fedora/google-gson
+  - pkg:rpm/opensuse/google-gson

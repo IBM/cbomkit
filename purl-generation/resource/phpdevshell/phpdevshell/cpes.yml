@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:phpdevshell:phpdevshell:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpdevshell:phpdevshell:3.0.0:beta-4b:*:*:*:*:*:*

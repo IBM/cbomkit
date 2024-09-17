@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:icoutils_project:icoutils:0.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:icoutils_project:icoutils:0.26.0-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:icoutils_project:icoutils:0.27.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:icoutils_project:icoutils:0.28.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:icoutils_project:icoutils:0.29.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:icoutils_project:icoutils:0.29.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:icoutils_project:icoutils:0.30.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:icoutils_project:icoutils:0.31.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:icoutils_project:icoutils:0.31.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:icoutils_project:icoutils:0.31.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:icoutils_project:icoutils:0.31.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:icoutils_project:icoutils:0.32.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:icoutils_project:icoutils:0.32.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:icoutils_project:icoutils:0.32.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:icoutils_project:icoutils:0.32.3:*:*:*:*:*:*:*

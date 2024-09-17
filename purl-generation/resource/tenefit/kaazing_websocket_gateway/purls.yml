@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/kaazing-gateway
+  - pkg:github/kaazing/gateway
+  - pkg:maven/org.kaazing/gateway

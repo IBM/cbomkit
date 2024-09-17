@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/twig
+  - pkg:deb/ubuntu/twig
+  - pkg:github/twigphp/twig
+  - pkg:nuget/twig.twig
+  - pkg:rpm/fedora/php-twig

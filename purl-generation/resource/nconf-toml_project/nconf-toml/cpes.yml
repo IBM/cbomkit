@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:nconf-toml_project:nconf-toml:0.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nconf-toml_project:nconf-toml:0.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nconf-toml_project:nconf-toml:-:*:*:*:*:node.js:*:*

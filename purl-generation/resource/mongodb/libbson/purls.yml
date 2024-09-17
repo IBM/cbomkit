@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libbson
+  - pkg:deb/ubuntu/libbson
+  - pkg:github/mongodb/libbson
+  - pkg:github/mongodb/mongo-c-driver
+  - pkg:rpm/fedora/libbson

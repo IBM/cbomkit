@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/nrel/energyplus
+  - pkg:github/nrel/energyplus

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/bzip3
+  - pkg:deb/ubuntu/bzip3
+  - pkg:github/kspalaiologos/bzip3
+  - pkg:rpm/fedora/bzip3
+  - pkg:rpm/opensuse/bzip3

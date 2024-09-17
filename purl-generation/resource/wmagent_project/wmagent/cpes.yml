@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wmagent_project:wmagent:1.3.3:rc1:*:*:*:python:*:*
+  - cpe:2.3:a:wmagent_project:wmagent:1.3.3:rc2:*:*:*:python:*:*

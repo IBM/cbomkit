@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:optical_character_recognition_project:optical_character_recognition:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:optical_character_recognition_project:optical_character_recognition:0.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:optical_character_recognition_project:optical_character_recognition:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:optical_character_recognition_project:optical_character_recognition:0.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:optical_character_recognition_project:optical_character_recognition:0.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:optical_character_recognition_project:optical_character_recognition:0.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:optical_character_recognition_project:optical_character_recognition:0.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:optical_character_recognition_project:optical_character_recognition:0.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:optical_character_recognition_project:optical_character_recognition:0.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:optical_character_recognition_project:optical_character_recognition:0.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:optical_character_recognition_project:optical_character_recognition:0.39:*:*:*:*:*:*:*
+  - cpe:2.3:a:optical_character_recognition_project:optical_character_recognition:0.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:optical_character_recognition_project:optical_character_recognition:0.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:optical_character_recognition_project:optical_character_recognition:0.42:*:*:*:*:*:*:*
+  - cpe:2.3:a:optical_character_recognition_project:optical_character_recognition:0.43:*:*:*:*:*:*:*
+  - cpe:2.3:a:optical_character_recognition_project:optical_character_recognition:0.44:*:*:*:*:*:*:*
+  - cpe:2.3:a:optical_character_recognition_project:optical_character_recognition:0.45:*:*:*:*:*:*:*
+  - cpe:2.3:a:optical_character_recognition_project:optical_character_recognition:0.46:*:*:*:*:*:*:*
+  - cpe:2.3:a:optical_character_recognition_project:optical_character_recognition:0.47:*:*:*:*:*:*:*
+  - cpe:2.3:a:optical_character_recognition_project:optical_character_recognition:0.53-20200802:*:*:*:*:*:*:*

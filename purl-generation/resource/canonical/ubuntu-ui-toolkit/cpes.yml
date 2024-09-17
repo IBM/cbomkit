@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:canonical:ubuntu-ui-toolkit:1.1.1188:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:ubuntu-ui-toolkit:1.1.1188\+14.10.20140813.4-0ubuntu1:*:*:*:*:*:*:*

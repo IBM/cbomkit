@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/omeka/omeka
+  - pkg:github/omeka/omeka

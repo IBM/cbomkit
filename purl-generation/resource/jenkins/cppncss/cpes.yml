@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:jenkins:cppncss:1.0:beta3:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:cppncss:1.0:beta4:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:cppncss:1.0:beta5:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:cppncss:1.0:-:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:cppncss:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:cppncss:1.2:*:*:*:*:jenkins:*:*

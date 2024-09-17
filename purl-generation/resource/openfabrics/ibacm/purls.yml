@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ofiwg/ibacm
+  - pkg:rpm/opensuse/ibacm

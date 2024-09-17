@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:irzip_project:irzip:0.621:*:*:*:*:*:*:*
+  - cpe:2.3:a:irzip_project:irzip:0.631:*:*:*:*:*:*:*
+  - cpe:2.3:a:irzip_project:irzip:0.640:*:*:*:*:*:*:*
+  - cpe:2.3:a:irzip_project:irzip:0.641:*:*:*:*:*:*:*

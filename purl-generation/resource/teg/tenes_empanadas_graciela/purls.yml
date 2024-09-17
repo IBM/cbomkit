@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/teg
+  - pkg:deb/ubuntu/teg
+  - pkg:github/wfx/teg
+  - pkg:sourceforge/teg

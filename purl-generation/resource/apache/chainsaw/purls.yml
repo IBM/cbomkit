@@ -1,0 +1,3 @@
+purls:
+  - pkg:apache/chainsaw
+  - pkg:github/apache/chainsaw

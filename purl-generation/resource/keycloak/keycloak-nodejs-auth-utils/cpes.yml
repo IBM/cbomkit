@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:keycloak:keycloak-nodejs-auth-utils:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:keycloak:keycloak-nodejs-auth-utils:2.5.0:cr1:*:*:*:*:*:*
+  - cpe:2.3:a:keycloak:keycloak-nodejs-auth-utils:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:keycloak:keycloak-nodejs-auth-utils:2.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:keycloak:keycloak-nodejs-auth-utils:2.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:keycloak:keycloak-nodejs-auth-utils:2.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:keycloak:keycloak-nodejs-auth-utils:2.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:keycloak:keycloak-nodejs-auth-utils:2.5.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:keycloak:keycloak-nodejs-auth-utils:2.5.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:keycloak:keycloak-nodejs-auth-utils:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:keycloak:keycloak-nodejs-auth-utils:3.0.0:cr1:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/lifion/lifion-verify-deps
+  - pkg:npm/lifion-verify-deps

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kylefarris/clamscan
+  - pkg:npm/clamscan

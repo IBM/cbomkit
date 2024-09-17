@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/hashicorp/boundary
+  - pkg:github/hashicorp/boundary

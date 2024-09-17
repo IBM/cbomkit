@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/perm
+  - pkg:deb/ubuntu/perm

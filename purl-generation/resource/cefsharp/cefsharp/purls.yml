@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cefsharp/cefsharp
+  - pkg:golang/github.com/cefsharp/cefsharp

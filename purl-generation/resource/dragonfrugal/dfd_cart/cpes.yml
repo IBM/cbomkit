@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:dragonfrugal:dfd_cart:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:dragonfrugal:dfd_cart:1.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dragonfrugal:dfd_cart:1.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dragonfrugal:dfd_cart:1.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:dragonfrugal:dfd_cart:1.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:dragonfrugal:dfd_cart:1.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:dragonfrugal:dfd_cart:1.192:*:*:*:*:*:*:*
+  - cpe:2.3:a:dragonfrugal:dfd_cart:1.193:*:*:*:*:*:*:*
+  - cpe:2.3:a:dragonfrugal:dfd_cart:1.194:*:*:*:*:*:*:*
+  - cpe:2.3:a:dragonfrugal:dfd_cart:1.195:*:*:*:*:*:*:*
+  - cpe:2.3:a:dragonfrugal:dfd_cart:1.196:*:*:*:*:*:*:*
+  - cpe:2.3:a:dragonfrugal:dfd_cart:1.197:*:*:*:*:*:*:*

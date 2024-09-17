@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/gpg/gpgme
+  - pkg:gitlab/redhat/gpgme
+  - pkg:rpm/centos/gpgme
+  - pkg:rpm/fedora/gpgme
+  - pkg:rpm/opensuse/gpgme

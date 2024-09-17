@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/geddy/geddy
+  - pkg:npm/geddy

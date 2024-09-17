@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:net2_project:net2:0.2.22:*:*:*:*:rust:*:*
+  - cpe:2.3:a:net2_project:net2:0.2.23:*:*:*:*:rust:*:*
+  - cpe:2.3:a:net2_project:net2:0.2.24:*:*:*:*:rust:*:*
+  - cpe:2.3:a:net2_project:net2:0.2.25:*:*:*:*:rust:*:*
+  - cpe:2.3:a:net2_project:net2:0.2.26:*:*:*:*:rust:*:*
+  - cpe:2.3:a:net2_project:net2:0.2.27:*:*:*:*:rust:*:*
+  - cpe:2.3:a:net2_project:net2:0.2.28:*:*:*:*:rust:*:*
+  - cpe:2.3:a:net2_project:net2:0.2.29:*:*:*:*:rust:*:*
+  - cpe:2.3:a:net2_project:net2:0.2.30:*:*:*:*:rust:*:*
+  - cpe:2.3:a:net2_project:net2:0.2.31:*:*:*:*:rust:*:*
+  - cpe:2.3:a:net2_project:net2:0.2.32:*:*:*:*:rust:*:*
+  - cpe:2.3:a:net2_project:net2:0.2.33:*:*:*:*:rust:*:*
+  - cpe:2.3:a:net2_project:net2:0.2.34:*:*:*:*:rust:*:*
+  - cpe:2.3:a:net2_project:net2:0.2.35:*:*:*:*:rust:*:*
+  - cpe:2.3:a:net2_project:net2:0.2.36:*:*:*:*:rust:*:*
+  - cpe:2.3:a:net2_project:net2:-:*:*:*:*:rust:*:*

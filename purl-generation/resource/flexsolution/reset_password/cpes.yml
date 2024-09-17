@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:flexsolution:reset_password:1.1.0:-:*:*:*:alfresco:*:*
+  - cpe:2.3:a:flexsolution:reset_password:1.1.0:rc2:*:*:*:alfresco:*:*
+  - cpe:2.3:a:flexsolution:reset_password:1.1.0:rc3:*:*:*:alfresco:*:*
+  - cpe:2.3:a:flexsolution:reset_password:1.2.0:-:*:*:*:alfresco:*:*
+  - cpe:2.3:a:flexsolution:reset_password:1.2.0:rc1:*:*:*:alfresco:*:*
+  - cpe:2.3:a:flexsolution:reset_password:-:*:*:*:*:alfresco:*:*

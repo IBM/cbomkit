@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/minux/tinycc
+  - pkg:github/mirror/tinycc
+  - pkg:github/tinycc/tinycc
+  - pkg:gnu/tinycc
+  - pkg:rpm/opensuse/tinycc

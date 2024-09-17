@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/xplico/xplico
+  - pkg:gitlab/kalilinux/xplico
+  - pkg:sourceforge/xplico

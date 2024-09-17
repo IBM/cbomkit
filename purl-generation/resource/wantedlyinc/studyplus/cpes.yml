@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:wantedlyinc:studyplus:6.3.7:*:*:*:*:android:*:*
+  - cpe:2.3:a:wantedlyinc:studyplus:8.29.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:wantedlyinc:studyplus:-:*:*:*:*:android:*:*
+  - cpe:2.3:a:wantedlyinc:studyplus:-:*:*:*:*:iphone_os:*:*

@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:opentext:opentext_extended_ecm:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:opentext:opentext_extended_ecm:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:opentext:opentext_extended_ecm:16.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opentext:opentext_extended_ecm:20.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:opentext:opentext_extended_ecm:21.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opentext:opentext_extended_ecm:22.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opentext:opentext_extended_ecm:22.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opentext:opentext_extended_ecm:22.4:*:*:*:*:*:*:*

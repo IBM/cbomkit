@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:processmaker:processmaker:3.0.1.7:*:*:*:community:*:*:*
+  - cpe:2.3:a:processmaker:processmaker:3.0.1.7:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:processmaker:processmaker:3.4.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:processmaker:processmaker:3.5.4:*:*:*:*:*:*:*

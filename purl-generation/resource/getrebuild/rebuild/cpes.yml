@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:getrebuild:rebuild:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:getrebuild:rebuild:2.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:getrebuild:rebuild:2.8.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:getrebuild:rebuild:3.2:*:*:*:*:*:*:*

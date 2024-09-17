@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/setools
+  - pkg:deb/ubuntu/setools
+  - pkg:github/selinuxproject/setools
+  - pkg:gitlab/redhat/setools
+  - pkg:rpm/centos/setools
+  - pkg:rpm/fedora/setools
+  - pkg:rpm/opensuse/setools

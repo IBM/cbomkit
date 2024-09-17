@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/awstats
+  - pkg:deb/ubuntu/awstats
+  - pkg:gituhb/eldy/awstats
+  - pkg:rpm/fedora/awstats
+  - pkg:rpm/opensuse/awstats
+  - pkg:sourceforge/awstats

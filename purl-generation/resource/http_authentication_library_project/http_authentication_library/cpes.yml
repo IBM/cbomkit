@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:http_authentication_library_project:http_authentication_library:0.1.0:*:*:*:*:nim:*:*
+  - cpe:2.3:a:http_authentication_library_project:http_authentication_library:0.1.2:*:*:*:*:nim:*:*
+  - cpe:2.3:a:http_authentication_library_project:http_authentication_library:0.1.3:*:*:*:*:nim:*:*
+  - cpe:2.3:a:http_authentication_library_project:http_authentication_library:0.2.0:*:*:*:*:nim:*:*
+  - cpe:2.3:a:http_authentication_library_project:http_authentication_library:2019-12-27:*:*:*:*:nim:*:*
+  - cpe:2.3:a:http_authentication_library_project:http_authentication_library:-:*:*:*:*:nim:*:*

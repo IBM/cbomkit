@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:linux:direct_connect:0.686:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:direct_connect:0.699:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:direct_connect:0.700:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:direct_connect:0.701:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:direct_connect:0.702:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:direct_connect:0.703:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:direct_connect:0.704:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:direct_connect:0.705:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:direct_connect:0.706:*:*:*:*:*:*:*

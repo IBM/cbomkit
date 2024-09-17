@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/graphql/graphql-playground
+  - pkg:maven/org.webjars.npm/graphql-playground
+  - pkg:npm/graphql-playground

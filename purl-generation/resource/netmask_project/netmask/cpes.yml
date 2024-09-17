@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:netmask_project:netmask:0.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:netmask_project:netmask:0.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:netmask_project:netmask:1.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:netmask_project:netmask:1.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:netmask_project:netmask:1.0.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:netmask_project:netmask:1.0.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:netmask_project:netmask:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:netmask_project:netmask:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:netmask_project:netmask:2.0.1:*:*:*:*:node.js:*:*

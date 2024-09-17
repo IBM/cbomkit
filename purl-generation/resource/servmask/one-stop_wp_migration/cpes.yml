@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:servmask:one-stop_wp_migration:7.39:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:servmask:one-stop_wp_migration:7.40:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:servmask:one-stop_wp_migration:7.41:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:servmask:one-stop_wp_migration:7.42:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:servmask:one-stop_wp_migration:7.43:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:servmask:one-stop_wp_migration:7.44:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:servmask:one-stop_wp_migration:7.45:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:servmask:one-stop_wp_migration:7.46:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:servmask:one-stop_wp_migration:7.47:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:servmask:one-stop_wp_migration:7.48:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:servmask:one-stop_wp_migration:7.49:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:servmask:one-stop_wp_migration:7.50:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:servmask:one-stop_wp_migration:7.51:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:servmask:one-stop_wp_migration:7.52:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:servmask:one-stop_wp_migration:7.53:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:servmask:one-stop_wp_migration:7.54:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:servmask:one-stop_wp_migration:7.55:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:servmask:one-stop_wp_migration:7.56:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:servmask:one-stop_wp_migration:-:*:*:*:*:wordpress:*:*

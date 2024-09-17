@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/rtl-433
+  - pkg:deb/ubuntu/rtl-433
+  - pkg:github/merbanan/rtl_433

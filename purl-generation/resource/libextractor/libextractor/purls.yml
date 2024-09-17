@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libextractor
+  - pkg:deb/ubuntu/libextractor
+  - pkg:github/ndurner/libextractor
+  - pkg:gnu/libextractor
+  - pkg:rpm/fedora/libextractor
+  - pkg:rpm/opensuse/libextractor

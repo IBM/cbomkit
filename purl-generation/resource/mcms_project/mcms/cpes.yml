@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:mcms_project:mcms:4.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mcms_project:mcms:4.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mcms_project:mcms:4.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mcms_project:mcms:5.0.0:*:*:*:*:*:*:*

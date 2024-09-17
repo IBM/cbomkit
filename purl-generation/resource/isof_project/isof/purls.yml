@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/davglass/node-lsof
+  - pkg:npm/lsof

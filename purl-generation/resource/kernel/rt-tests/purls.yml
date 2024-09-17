@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/rt-tests
+  - pkg:deb/ubuntu/rt-tests
+  - pkg:github/jlelli/rt-tests
+  - pkg:github/vianpl/rt-tests
+  - pkg:gitlab/redhat/rt-tests
+  - pkg:rpm/centos/rt-tests
+  - pkg:rpm/opensuse/rt-tests

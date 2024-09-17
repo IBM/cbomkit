@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/git
+  - pkg:deb/ubuntu/git
+  - pkg:github/git/git
+  - pkg:gitlab/gitlab-org/git
+  - pkg:rpm/centos/git
+  - pkg:rpm/fedora/git
+  - pkg:rpm/opensuse/git

@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/redgiant/pango
+  - pkg:deb/debian/pango1.0
+  - pkg:deb/ubuntu/pango1.0
+  - pkg:github/gnome/pango
+  - pkg:rpm/centos/pango
+  - pkg:rpm/fedora/pango
+  - pkg:rpm/opensuse/pango

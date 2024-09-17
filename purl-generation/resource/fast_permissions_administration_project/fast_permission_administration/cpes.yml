@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:fast_permissions_administration_project:fast_permission_administration:6.x-2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fast_permissions_administration_project:fast_permission_administration:6.x-2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fast_permissions_administration_project:fast_permission_administration:6.x-2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fast_permissions_administration_project:fast_permission_administration:6.x-2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fast_permissions_administration_project:fast_permission_administration:6.x-2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:fast_permissions_administration_project:fast_permission_administration:6.x-2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:fast_permissions_administration_project:fast_permission_administration:6.x-2.x:dev:*:*:*:*:*:*
+  - cpe:2.3:a:fast_permissions_administration_project:fast_permission_administration:7.x-2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fast_permissions_administration_project:fast_permission_administration:7.x-2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fast_permissions_administration_project:fast_permission_administration:7.x-2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fast_permissions_administration_project:fast_permission_administration:7.x-2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fast_permissions_administration_project:fast_permission_administration:7.x-2.x:dev:*:*:*:*:*:*

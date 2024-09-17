@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/zutty
+  - pkg:deb/ubuntu/zutty
+  - pkg:github/tomszilagyi/zutty

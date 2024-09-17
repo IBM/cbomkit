@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/drudru/ansi_up
+  - pkg:maven/org.webjars.npm/ansi_up
+  - pkg:npm/ansi_up

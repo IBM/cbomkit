@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:addressable_project:addressable:2.3.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.3.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.3.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.3.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.3.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.3.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.3.6:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.3.7:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.3.8:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.4.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.5.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.5.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.5.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.6.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.7.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:addressable_project:addressable:2.8.0:*:*:*:*:ruby:*:*

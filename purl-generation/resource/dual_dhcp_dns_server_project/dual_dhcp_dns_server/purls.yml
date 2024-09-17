@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ajschlosser/dual-dhcp-dns-server
+  - pkg:sourceforge/dhcp-dns-server

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/srtp
+  - pkg:deb/ubuntu/srtp
+  - pkg:github/cisco/libsrtp
+  - pkg:gitlab/redhat/libsrtp
+  - pkg:rpm/centos/libsrtp
+  - pkg:rpm/fedora/libsrtp
+  - pkg:rpm/opensuse/libsrtp
+  - pkg:sourceforge/srtp

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/uglifyjs
+  - pkg:deb/ubuntu/uglifyjs
+  - pkg:github/mishoo/uglifyjs
+  - pkg:rpm/centos/uglifyjs
+  - pkg:rpm/opensuse/nodejs-uglifyjs
+  - pkg:sourceforge/uglifyjs-3.mirror

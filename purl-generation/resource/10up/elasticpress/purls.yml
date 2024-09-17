@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/10up/elasticpress
+  - pkg:github/10up/elasticpress

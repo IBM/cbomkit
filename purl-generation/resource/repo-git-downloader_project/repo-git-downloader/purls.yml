@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mnichangxin/repo-git-downloader
+  - pkg:npm/repo-git-downloader

@@ -1,0 +1,8 @@
+purls:
+  - pkg:cpan/Image-Info
+  - pkg:deb/debian/libimage-info-perl
+  - pkg:deb/ubuntu/libimage-info-perl
+  - pkg:github/eserte/image-info
+  - pkg:rpm/centos/perl-Image-Info
+  - pkg:rpm/fedora/perl-Image-Info
+  - pkg:rpm/opensuse/perl-Image-Info

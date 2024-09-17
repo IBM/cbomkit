@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/eclipse-egit
+  - pkg:deb/ubuntu/eclipse-egit
+  - pkg:maven/org.eclipse.mylyn.github/org.eclipse.egit.github.core
+  - pkg:rpm/fedora/eclipse-egit
+  - pkg:rpm/opensuse/eclipse-egit

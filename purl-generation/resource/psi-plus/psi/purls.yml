@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/psi
+  - pkg:deb/ubuntu/psi
+  - pkg:sourceforge/psi

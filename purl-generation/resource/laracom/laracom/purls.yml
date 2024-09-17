@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/jaytips/laracom
+  - pkg:docker/jsdecena/laracom
+  - pkg:github/jsdecena/laracom

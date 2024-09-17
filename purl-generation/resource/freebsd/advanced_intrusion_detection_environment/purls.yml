@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/aide
+  - pkg:deb/ubuntu/aide
+  - pkg:github/aide/aide
+  - pkg:gitlab/redhat/aide
+  - pkg:rpm/centos/aide
+  - pkg:rpm/fedora/aide
+  - pkg:rpm/opensuse/aide
+  - pkg:sourceforge/aide

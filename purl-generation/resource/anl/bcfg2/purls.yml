@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/pombredanne/bcfg2
+  - pkg:deb/debian/bcfg2
+  - pkg:deb/ubuntu/bcfg2
+  - pkg:github/bcfg2/bcfg2
+  - pkg:pypi/bcfg2

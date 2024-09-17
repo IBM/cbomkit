@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:redgraphic:sapid_cms:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:redgraphic:sapid_cms:1.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:redgraphic:sapid_cms:1.2.3.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:redgraphic:sapid_cms:1.2.3.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:redgraphic:sapid_cms:1.2.3:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:redgraphic:sapid_cms:1.2.3:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:redgraphic:sapid_cms:1.2.3:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:redgraphic:sapid_cms:1.2.3:stable:*:*:*:*:*:*

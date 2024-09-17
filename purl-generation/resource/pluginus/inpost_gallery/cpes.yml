@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:pluginus:inpost_gallery:2.1.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pluginus:inpost_gallery:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:pluginus:inpost_gallery:-:*:*:*:*:wordpress:*:*

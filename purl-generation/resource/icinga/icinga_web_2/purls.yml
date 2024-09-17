@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/icinga/icingaweb2
+  - pkg:rpm/opensuse/icingaweb2

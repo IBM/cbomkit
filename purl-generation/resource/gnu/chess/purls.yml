@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/gnuchess
+  - pkg:deb/ubuntu/gnuchess
+  - pkg:github/distrotech/gnuchess
+  - pkg:github/duy-thanh/gnuchess
+  - pkg:github/jasonbrianhall/gnuchess
+  - pkg:github/madnight/gnuchess
+  - pkg:gnu/chess
+  - pkg:rpm/fedora/gnuchess
+  - pkg:rpm/opensuse/gnuchess

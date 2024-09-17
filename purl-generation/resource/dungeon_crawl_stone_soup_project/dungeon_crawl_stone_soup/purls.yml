@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/crawl
+  - pkg:deb/ubuntu/crawl
+  - pkg:github/crawl/crawl
+  - pkg:rpm/fedora/http:/crawl
+  - pkg:rpm/opensuse/crawl
+  - pkg:sourceforge/dungeoncrawlstonesoup.mirror

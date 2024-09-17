@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tensoar/iniparser.js
+  - pkg:npm/iniparserjs

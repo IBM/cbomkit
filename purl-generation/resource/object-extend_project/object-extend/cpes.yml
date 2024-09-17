@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:object-extend_project:object-extend:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:object-extend_project:object-extend:0.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:object-extend_project:object-extend:-:*:*:*:*:node.js:*:*

@@ -1,0 +1,33 @@
+// This contains styling for BOTH the light and dark mode of the carbon design
+// This should not be used directly as styling. Instead, compile it first to CSS using:
+// npx sass --load-path=node_modules src/styles/_carbon-both.scss src/styles/carbon-both.css
+
+$feature-flags: (
+  enable-css-custom-properties: true,
+);
+
+@import "carbon-components/src/globals/scss/vars";
+@import "carbon-components/src/globals/scss/mixins";
+@import "@carbon/type/scss/reset";
+@import "carbon-components/scss/globals/scss/css--font-face";
+@import "carbon-components/scss/globals/grid/grid";
+@import "carbon-components/scss/globals/scss/styles";
+
+// Use the white theme by default
+$carbon--theme: $carbon--theme--white;
+
+// Use the white theme wherever this class is added
+.make-the-carbon-theme-go-white {
+  @include carbon--theme(
+    $theme: $carbon--theme--white,
+    $emit-custom-properties: true
+  );
+}
+
+// Use the g90 dark theme wherever this class is added
+.make-the-carbon-theme-go-dark {
+  @include carbon--theme(
+    $theme: $carbon--theme--g90,
+    $emit-custom-properties: true
+  );
+}

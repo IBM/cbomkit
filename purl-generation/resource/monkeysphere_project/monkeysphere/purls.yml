@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/monkeysphere
+  - pkg:deb/ubuntu/monkeysphere
+  - pkg:github/dkg/monkeysphere
+  - pkg:rpm/fedora/monkeysphere
+  - pkg:rpm/opensuse/monkeysphere

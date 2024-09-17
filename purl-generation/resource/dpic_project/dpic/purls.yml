@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/dpic
+  - pkg:deb/ubuntu/dpic
+  - pkg:github/rpuntaie/dpic
+  - pkg:github/tim-tx/dpic
+  - pkg:gitlab/aplevich/dpic
+  - pkg:rpm/opensuse/dpic

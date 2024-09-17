@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mikaelbr/mversion
+  - pkg:npm/mversion

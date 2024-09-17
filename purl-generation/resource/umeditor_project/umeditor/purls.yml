@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/angzhou/umeditor
+  - pkg:github/fex-team/umeditor
+  - pkg:npm/umeditor

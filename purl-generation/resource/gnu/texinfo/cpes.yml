@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:gnu:texinfo:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:texinfo:4.8:*:*:*:*:*:*:*

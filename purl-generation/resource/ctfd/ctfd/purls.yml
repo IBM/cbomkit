@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/mshs-siber/ctfd
+  - pkg:docker/ctfd/ctfd
+  - pkg:github/ctfd/ctfd

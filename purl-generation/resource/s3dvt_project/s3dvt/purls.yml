@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/s3d
+  - pkg:deb/ubuntu/s3d
+  - pkg:sourceforge/s3d

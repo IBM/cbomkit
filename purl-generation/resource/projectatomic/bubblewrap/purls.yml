@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/bubblewrap
+  - pkg:deb/ubuntu/bubblewrap
+  - pkg:github/containers/bubblewrap
+  - pkg:gitlab/redhat/bubblewrap
+  - pkg:rpm/centos/bubblewrap
+  - pkg:rpm/fedora/bubblewrap
+  - pkg:rpm/opensuse/bubblewrap

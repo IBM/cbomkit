@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:symantec_veritas:netbackup_global_data_manager:4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:symantec_veritas:netbackup_global_data_manager:4.5_fp1:*:*:*:*:*:*:*
+  - cpe:2.3:a:symantec_veritas:netbackup_global_data_manager:4.5_fp2:*:*:*:*:*:*:*
+  - cpe:2.3:a:symantec_veritas:netbackup_global_data_manager:4.5_fp3:*:*:*:*:*:*:*
+  - cpe:2.3:a:symantec_veritas:netbackup_global_data_manager:4.5_mp1:*:*:*:*:*:*:*
+  - cpe:2.3:a:symantec_veritas:netbackup_global_data_manager:4.5_mp2:*:*:*:*:*:*:*
+  - cpe:2.3:a:symantec_veritas:netbackup_global_data_manager:4.5_mp3:*:*:*:*:*:*:*

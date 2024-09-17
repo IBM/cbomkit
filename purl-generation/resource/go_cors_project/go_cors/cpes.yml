@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:go_cors_project:go_cors:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:go_cors_project:go_cors:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:go_cors_project:go_cors:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:go_cors_project:go_cors:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:go_cors_project:go_cors:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:go_cors_project:go_cors:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:go_cors_project:go_cors:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:go_cors_project:go_cors:1.7.0:*:*:*:*:*:*:*

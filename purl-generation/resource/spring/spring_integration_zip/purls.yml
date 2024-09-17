@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/spring-tips/spring-integration-zip
+  - pkg:maven/org.springframework.integration/spring-integration-zip

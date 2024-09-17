@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/rich-text-publisher-plugin
+  - pkg:github/masterhard/rich-text-publisher-plugin

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/nfstream/nfstream
+  - pkg:pypi/nfstream
+  - pkg:rpm/opensuse/python-nfstream

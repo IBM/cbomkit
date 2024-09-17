@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/weaveworks/tf-controller
+  - pkg:golang/github.com/weaveworks/tf-controller

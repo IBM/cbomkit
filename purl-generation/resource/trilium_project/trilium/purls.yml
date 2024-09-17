@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/zadam/trilium
+  - pkg:github/zadam/trilium
+  - pkg:sourceforge/trilium-notes.mirror

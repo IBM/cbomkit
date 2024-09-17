@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/reportico-web/reportico
+  - pkg:github/reportico-web/reportico

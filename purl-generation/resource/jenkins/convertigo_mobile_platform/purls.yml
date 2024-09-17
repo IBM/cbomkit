@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/convertigo/jenkins-plugin
+  - pkg:github/jenkinsci/convertigo-mobile-platform-plugin

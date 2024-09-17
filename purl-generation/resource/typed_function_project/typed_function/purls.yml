@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/josdejong/typed-function
+  - pkg:maven/org.webjars.npm/typed-function
+  - pkg:npm/typed-function

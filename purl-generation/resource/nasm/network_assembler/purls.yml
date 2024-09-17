@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/nasm
+  - pkg:deb/ubuntu/nasm
+  - pkg:github/letolabs/nasm
+  - pkg:github/netwide-assembler/nasm
+  - pkg:gitlab/redhat/nasm
+  - pkg:nuget/nasm
+  - pkg:rpm/centos/nasm
+  - pkg:rpm/fedora/nasm
+  - pkg:rpm/opensuse/nasm
+  - pkg:sourceforge/nasm

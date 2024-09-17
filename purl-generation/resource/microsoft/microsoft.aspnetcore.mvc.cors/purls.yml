@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/aspnet/cors
+  - pkg:github/aspnet/mvc

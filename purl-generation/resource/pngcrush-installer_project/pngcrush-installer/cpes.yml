@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:pngcrush-installer_project:pngcrush-installer:1.7.66-0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pngcrush-installer_project:pngcrush-installer:1.7.66-10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pngcrush-installer_project:pngcrush-installer:1.7.66-11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pngcrush-installer_project:pngcrush-installer:1.7.66-12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pngcrush-installer_project:pngcrush-installer:1.7.66-13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pngcrush-installer_project:pngcrush-installer:1.7.66-14:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pngcrush-installer_project:pngcrush-installer:1.7.66-1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pngcrush-installer_project:pngcrush-installer:1.7.66-2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pngcrush-installer_project:pngcrush-installer:1.7.66-3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pngcrush-installer_project:pngcrush-installer:1.7.66-4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pngcrush-installer_project:pngcrush-installer:1.7.66-5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pngcrush-installer_project:pngcrush-installer:1.7.66-6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pngcrush-installer_project:pngcrush-installer:1.7.66-7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pngcrush-installer_project:pngcrush-installer:1.7.66-8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pngcrush-installer_project:pngcrush-installer:1.7.66-9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pngcrush-installer_project:pngcrush-installer:1.7.67-0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pngcrush-installer_project:pngcrush-installer:1.7.67-1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pngcrush-installer_project:pngcrush-installer:1.7.67-2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pngcrush-installer_project:pngcrush-installer:1.7.70-1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pngcrush-installer_project:pngcrush-installer:1.7.72-0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:pngcrush-installer_project:pngcrush-installer:1.8.10:*:*:*:*:node.js:*:*

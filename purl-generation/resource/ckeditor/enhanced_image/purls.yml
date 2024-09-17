@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ckeditor/ckeditor4
+  - pkg:maven/org.webjars.npm/ckeditor4
+  - pkg:npm/ckeditor4

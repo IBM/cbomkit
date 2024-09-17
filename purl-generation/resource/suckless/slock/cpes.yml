@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:suckless:slock:0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:suckless:slock:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:suckless:slock:1.3:*:*:*:*:*:*:*

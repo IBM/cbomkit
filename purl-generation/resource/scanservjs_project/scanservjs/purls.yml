@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/sbs20/scanservjs
+  - pkg:github/sbs20/scanservjs

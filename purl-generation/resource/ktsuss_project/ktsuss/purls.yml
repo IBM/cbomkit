@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nomius/ktsuss
+  - pkg:rpm/opensuse/ktsuss

@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:gegl:generic_graphics_library:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gegl:generic_graphics_library:0.3.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:gegl:generic_graphics_library:0.3.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:gegl:generic_graphics_library:0.3.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:gegl:generic_graphics_library:0.3.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:gegl:generic_graphics_library:0.3.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:gegl:generic_graphics_library:0.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gegl:generic_graphics_library:0.3.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:gegl:generic_graphics_library:0.3.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:gegl:generic_graphics_library:0.3.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:gegl:generic_graphics_library:0.3.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:gegl:generic_graphics_library:0.3.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:gegl:generic_graphics_library:0.3.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:gegl:generic_graphics_library:0.3.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:gegl:generic_graphics_library:0.3.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:gegl:generic_graphics_library:0.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gegl:generic_graphics_library:0.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gegl:generic_graphics_library:0.3.8:*:*:*:*:*:*:*

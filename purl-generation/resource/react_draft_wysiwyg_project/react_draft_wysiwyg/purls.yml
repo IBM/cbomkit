@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jpuri/react-draft-wysiwyg
+  - pkg:npm/react-draft-wysiwyg

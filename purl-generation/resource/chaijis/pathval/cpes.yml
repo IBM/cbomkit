@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:chaijis:pathval:0.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:chaijis:pathval:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:chaijis:pathval:0.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:chaijis:pathval:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:chaijis:pathval:0.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:chaijis:pathval:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:chaijis:pathval:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:chaijis:pathval:1.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:chaijis:pathval:-:*:*:*:*:node.js:*:*

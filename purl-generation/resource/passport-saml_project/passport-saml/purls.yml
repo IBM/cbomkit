@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/sasaki_dev/passport-saml
+  - pkg:github/node-saml/passport-saml
+  - pkg:npm/passport-saml

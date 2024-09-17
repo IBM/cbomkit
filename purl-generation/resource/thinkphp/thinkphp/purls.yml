@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/silenceper/thinkphp
+  - pkg:github/top-think/framework
+  - pkg:sourceforge/thinkphp

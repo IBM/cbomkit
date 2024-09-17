@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:redhat:jboss-remoting:3.3.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss-remoting:5.0.14:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss-remoting:5.0.20:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss-remoting:5.0.20:sp1-redhat-00001:*:*:*:*:*:*

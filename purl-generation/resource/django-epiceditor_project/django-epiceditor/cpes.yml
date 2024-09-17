@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:django-epiceditor_project:django-epiceditor:0.2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-epiceditor_project:django-epiceditor:0.2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-epiceditor_project:django-epiceditor:0.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-epiceditor_project:django-epiceditor:0.2.3:*:*:*:*:*:*:*

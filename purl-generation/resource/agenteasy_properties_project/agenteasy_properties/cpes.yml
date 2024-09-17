@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:agenteasy_properties_project:agenteasy_properties:1.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:agenteasy_properties_project:agenteasy_properties:1.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:agenteasy_properties_project:agenteasy_properties:-:*:*:*:*:wordpress:*:*

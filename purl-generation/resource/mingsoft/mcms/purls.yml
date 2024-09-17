@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ming-soft/mcms
+  - pkg:maven/net.mingsoft/ms-mcms

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/d6lts/webform_multifile
+  - pkg:github/delzhand/webform_multifile
+  - pkg:github/drupalprojects/webform_multifile

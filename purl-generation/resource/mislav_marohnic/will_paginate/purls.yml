@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-will-paginate
+  - pkg:deb/ubuntu/ruby-will-paginate
+  - pkg:gem/will_paginate
+  - pkg:github/mislav/will_paginate
+  - pkg:rpm/opensuse/rubygem-will_paginate

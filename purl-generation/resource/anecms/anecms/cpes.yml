@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:anecms:anecms:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:anecms:anecms:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:anecms:anecms:2e2c583:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/rossant/ipycache
+  - pkg:pypi/ipycache

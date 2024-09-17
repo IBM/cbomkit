@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/netpbm-free
+  - pkg:deb/ubuntu/netpbm-free
+  - pkg:github/t6/netpbm
+  - pkg:gitlab/redhat/netpbm
+  - pkg:rpm/centos/netpbm
+  - pkg:rpm/fedora/netpbm
+  - pkg:rpm/opensuse/netpbm
+  - pkg:sourceforge/netpbm

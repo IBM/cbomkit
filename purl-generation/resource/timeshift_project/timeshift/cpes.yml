@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:timeshift_project:timeshift:17.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:timeshift_project:timeshift:17.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:timeshift_project:timeshift:17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:timeshift_project:timeshift:18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:timeshift_project:timeshift:18.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:timeshift_project:timeshift:18.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:timeshift_project:timeshift:18.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:timeshift_project:timeshift:18.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:timeshift_project:timeshift:18.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:timeshift_project:timeshift:18.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:timeshift_project:timeshift:18.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:timeshift_project:timeshift:18.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:timeshift_project:timeshift:19.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:timeshift_project:timeshift:19.08.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:timeshift_project:timeshift:20.03:*:*:*:*:*:*:*

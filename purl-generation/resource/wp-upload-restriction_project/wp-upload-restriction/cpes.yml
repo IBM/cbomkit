@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:wp-upload-restriction_project:wp-upload-restriction:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-upload-restriction_project:wp-upload-restriction:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-upload-restriction_project:wp-upload-restriction:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-upload-restriction_project:wp-upload-restriction:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-upload-restriction_project:wp-upload-restriction:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-upload-restriction_project:wp-upload-restriction:2.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-upload-restriction_project:wp-upload-restriction:2.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-upload-restriction_project:wp-upload-restriction:2.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-upload-restriction_project:wp-upload-restriction:-:*:*:*:*:wordpress:*:*

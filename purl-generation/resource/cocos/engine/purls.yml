@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/cocos2d/cocos2d-x
+  - pkg:golang/github.com/cocos2d/cocos2d-x
+  - pkg:sourceforge/cocos2dxgame2

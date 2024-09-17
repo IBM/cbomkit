@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:mysql:mysql_tools:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysql:mysql_tools:5.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysql:mysql_tools:5.0.17:*:*:*:*:*:*:*

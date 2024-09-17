@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/pango1.0
+  - pkg:deb/ubuntu/pango1.0
+  - pkg:github/gnome/pango
+  - pkg:rpm/fedora/pango
+  - pkg:rpm/opensuse/pango

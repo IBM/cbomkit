@@ -1,0 +1,4 @@
+purls:
+  - pkg:githubahornero/clean-login
+  - pkg:github/clowj/clean-login
+  - pkg:github/wp-plugins/clean-login

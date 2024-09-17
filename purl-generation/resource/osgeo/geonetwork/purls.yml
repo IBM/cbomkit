@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/geonetwork
+  - pkg:github/geonetwork/core-geonetwork
+  - pkg:sourceforge/geonetwork

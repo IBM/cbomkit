@@ -1,0 +1,7 @@
+purls:
+  - pkg:gem/paypal-sdk-merchant
+  - pkg:github/paypal/merchant-sdk-dotnet
+  - pkg:github/paypal/merchant-sdk-java
+  - pkg:github/paypal/merchant-sdk-php
+  - pkg:github/paypal/merchant-sdk-ruby
+  - pkg:nuget/PayPalMerchantSDK

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:yngve_svendsen:gnatsweb:2.7_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:yngve_svendsen:gnatsweb:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:yngve_svendsen:gnatsweb:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:yngve_svendsen:gnatsweb:3.95:gnats_4:*:*:*:*:*:*
+  - cpe:2.3:a:yngve_svendsen:gnatsweb:4.00:*:*:*:*:*:*:*

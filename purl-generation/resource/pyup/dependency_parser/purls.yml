@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/pyupio/dparse
+  - pkg:pypi/dparse
+  - pkg:rpm/opensuse/python-dparse

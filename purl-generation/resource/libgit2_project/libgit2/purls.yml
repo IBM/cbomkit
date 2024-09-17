@@ -1,0 +1,10 @@
+purls:
+  - pkg:bitbucket/evzijst/libgit2
+  - pkg:deb/debian/libgit2-1.5
+  - pkg:deb/ubuntu/libgit2-1.5
+  - pkg:github/libgit2/libgit2
+  - pkg:gitlab/gitlab-org/libgit2
+  - pkg:golang/github.com/libgit2/libgit2
+  - pkg:rpm/fedora/libgit2
+  - pkg:rpm/opensuse/libgit2
+  - pkg:sourceforge/libgit2.mirror

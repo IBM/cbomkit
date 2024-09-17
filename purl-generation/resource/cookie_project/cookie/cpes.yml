@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:cookie_project:cookie:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:cookie_project:cookie:0.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cookie_project:cookie:0.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:cookie_project:cookie:0.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:cookie_project:cookie:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cookie_project:cookie:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cookie_project:cookie:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cookie_project:cookie:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cookie_project:cookie:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cookie_project:cookie:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cookie_project:cookie:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cookie_project:cookie:0.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cookie_project:cookie:0.7.6:*:*:*:*:*:*:*

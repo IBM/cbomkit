@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:rpc.py_project:rpc.py:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rpc.py_project:rpc.py:0.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rpc.py_project:rpc.py:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rpc.py_project:rpc.py:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rpc.py_project:rpc.py:0.6.0:*:*:*:*:*:*:*

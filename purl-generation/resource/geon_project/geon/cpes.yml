@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:geon_project:geon:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:geon_project:geon:1.1.0:*:*:*:*:*:*:*

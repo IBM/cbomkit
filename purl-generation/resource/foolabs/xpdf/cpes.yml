@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:foolabs:xpdf:0.5a:*:*:*:*:*:*:*
+  - cpe:2.3:a:foolabs:xpdf:0.7a:*:*:*:*:*:*:*
+  - cpe:2.3:a:foolabs:xpdf:0.91a:*:*:*:*:*:*:*
+  - cpe:2.3:a:foolabs:xpdf:0.91b:*:*:*:*:*:*:*
+  - cpe:2.3:a:foolabs:xpdf:0.91c:*:*:*:*:*:*:*
+  - cpe:2.3:a:foolabs:xpdf:0.92a:*:*:*:*:*:*:*
+  - cpe:2.3:a:foolabs:xpdf:0.92b:*:*:*:*:*:*:*
+  - cpe:2.3:a:foolabs:xpdf:0.92c:*:*:*:*:*:*:*
+  - cpe:2.3:a:foolabs:xpdf:0.92d:*:*:*:*:*:*:*
+  - cpe:2.3:a:foolabs:xpdf:0.92e:*:*:*:*:*:*:*
+  - cpe:2.3:a:foolabs:xpdf:0.93a:*:*:*:*:*:*:*
+  - cpe:2.3:a:foolabs:xpdf:0.93b:*:*:*:*:*:*:*
+  - cpe:2.3:a:foolabs:xpdf:0.93c:*:*:*:*:*:*:*
+  - cpe:2.3:a:foolabs:xpdf:1.00a:*:*:*:*:*:*:*
+  - cpe:2.3:a:foolabs:xpdf:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:foolabs:xpdf:3.02pl1:*:*:*:*:*:*:*
+  - cpe:2.3:a:foolabs:xpdf:3.02pl2:*:*:*:*:*:*:*
+  - cpe:2.3:a:foolabs:xpdf:3.02pl3:*:*:*:*:*:*:*
+  - cpe:2.3:a:foolabs:xpdf:3.02pl4:*:*:*:*:*:*:*

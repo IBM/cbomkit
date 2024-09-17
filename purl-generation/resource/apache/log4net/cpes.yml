@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:apache:log4net:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:1.2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:1.2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:1.2.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:1.2.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:1.2.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:1.2.9_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:2.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:2.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:log4net:2.0.8:*:*:*:*:*:*:*

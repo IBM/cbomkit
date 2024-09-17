@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:the_gimp_team:gimp:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:the_gimp_team:gimp:1.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:the_gimp_team:gimp:2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:the_gimp_team:gimp:2.2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:the_gimp_team:gimp:2.2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:the_gimp_team:gimp:2.2.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:the_gimp_team:gimp:2.2.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:the_gimp_team:gimp:2.2.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:the_gimp_team:gimp:2.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:the_gimp_team:gimp:2.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:the_gimp_team:gimp:2.2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:the_gimp_team:gimp:2.2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:the_gimp_team:gimp:2.2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:the_gimp_team:gimp:2.3.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:the_gimp_team:gimp:2.3.9:*:*:*:*:*:*:*

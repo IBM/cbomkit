@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:convert-svg-core_project:convert-svg-core:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:convert-svg-core_project:convert-svg-core:0.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:convert-svg-core_project:convert-svg-core:0.3.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:convert-svg-core_project:convert-svg-core:0.3.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:convert-svg-core_project:convert-svg-core:0.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:convert-svg-core_project:convert-svg-core:0.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:convert-svg-core_project:convert-svg-core:0.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:convert-svg-core_project:convert-svg-core:0.6.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:convert-svg-core_project:convert-svg-core:0.6.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:convert-svg-core_project:convert-svg-core:0.6.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:convert-svg-core_project:convert-svg-core:0.6.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:convert-svg-core_project:convert-svg-core:-:*:*:*:*:node.js:*:*

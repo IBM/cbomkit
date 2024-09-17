@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:apache:velocity_engine:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:velocity_engine:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:velocity_engine:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:velocity_engine:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:velocity_engine:1.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:velocity_engine:1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:velocity_engine:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:velocity_engine:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:velocity_engine:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:velocity_engine:2.3:*:*:*:*:*:*:*

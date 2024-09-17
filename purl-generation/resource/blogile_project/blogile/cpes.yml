@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:blogile_project:blogile:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:blogile_project:blogile:-:*:*:*:*:*:*:*

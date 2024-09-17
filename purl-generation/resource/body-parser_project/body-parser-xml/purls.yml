@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/fiznool/body-parser-xml
+  - pkg:npm/body-parser-xml

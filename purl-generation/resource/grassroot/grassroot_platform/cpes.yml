@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:grassroot:grassroot_platform:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:grassroot:grassroot_platform:1.3.1:*:*:*:*:*:*:*

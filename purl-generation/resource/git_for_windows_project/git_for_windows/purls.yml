@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/git-for-windows/git
+  - pkg:github/git/git
+  - pkg:nuget/GitForWindows

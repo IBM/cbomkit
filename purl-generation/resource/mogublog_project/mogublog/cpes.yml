@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:mogublog_project:mogublog:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mogublog_project:mogublog:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:mogublog_project:mogublog:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mogublog_project:mogublog:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mogublog_project:mogublog:4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mogublog_project:mogublog:4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mogublog_project:mogublog:4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mogublog_project:mogublog:4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mogublog_project:mogublog:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mogublog_project:mogublog:5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mogublog_project:mogublog:5.2:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/kubernetes-sigs/aws-iam-authenticator
+  - pkg:rpm/fedora/golang-sigs-k8s-aws-iam-authenticator
+  - pkg:rpm/opensuse/aws-iam-authenticator

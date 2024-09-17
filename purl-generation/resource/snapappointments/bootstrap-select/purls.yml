@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/snapappointments/bootstrap-select
+  - pkg:maven/org.webjars.npm/bootstrap-select
+  - pkg:npm/bootstrap-select
+  - pkg:nuget/bootstrap-select

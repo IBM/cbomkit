@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/validators
+  - pkg:deb/ubuntu/validators
+  - pkg:github/kvesteri/validators
+  - pkg:gitlab/kalilinux/python-validators
+  - pkg:pypi/validators
+  - pkg:rpm/fedora/python-validators
+  - pkg:rpm/opensuse/python-validators

@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:boxbilling:boxbilling:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:boxbilling:boxbilling:0.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:boxbilling:boxbilling:4.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:boxbilling:boxbilling:4.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:boxbilling:boxbilling:4.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:boxbilling:boxbilling:4.21:*:*:*:*:*:*:*

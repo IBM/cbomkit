@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libpcap
+  - pkg:Deb/ubuntu/libpcap
+  - pkg:github/the-tcpdump-group/libpcap
+  - pkg:gitlab/kalilinux/libpcap
+  - pkg:rpm/centos/libpcap
+  - pkg:rpm/fedora/libpcap
+  - pkg:rpm/opensuse/libpcap

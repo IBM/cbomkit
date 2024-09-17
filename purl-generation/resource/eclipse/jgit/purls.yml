@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/albfan/jgit
+  - pkg:deb/debian/jgit
+  - pkg:deb/ubuntu/jgit
+  - pkg:github/dpursehouse/jgit
+  - pkg:github/terabyte/jgit
+  - pkg:rpm/fedora/jgit
+  - pkg:rpm/opensuse/jgit

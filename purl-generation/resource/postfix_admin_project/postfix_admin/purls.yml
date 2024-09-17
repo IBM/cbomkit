@@ -1,0 +1,7 @@
+purls:
+  - pkg:cpan/mail-postfixadmin
+  - pkg:docker/postfixadmin
+  - pkg:github/postfixadmin/docker
+  - pkg:github/postfixadmin/postfixadmin
+  - pkg:rpm/opensuse/postfixadmin
+  - pkg:sourceforge/postfixadmin

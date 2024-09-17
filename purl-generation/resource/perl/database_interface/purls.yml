@@ -1,0 +1,7 @@
+purls:
+  - pkg:cpan/dbi
+  - pkg:github/perl5-dbi/dbi
+  - pkg:gitlab/redhat/perl-dbi
+  - pkg:rpm/centos/perl-dbi
+  - pkg:rpm/fedora/perl-dbi
+  - pkg:rpm/opensuse/perl-dbi

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tcltk/tk
+  - pkg:golang/github.com/tcltk/tk

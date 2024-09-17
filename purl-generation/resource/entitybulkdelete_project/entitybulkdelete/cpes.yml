@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:entitybulkdelete_project:entitybulkdelete:7.x-1.0:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:entitybulkdelete_project:entitybulkdelete:7.x-1.1:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:entitybulkdelete_project:entitybulkdelete:7.x-1.x:dev:*:*:*:drupal:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/soyuka/pidusage
+  - pkg:github/svjard/pidusage
+  - pkg:maven/org.webjars.npm/pidusage
+  - pkg:npm/roar-pidusage

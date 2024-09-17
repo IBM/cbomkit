@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/gupnp
+  - pkg:deb/ubuntu/gupnp
+  - pkg:github/gnome/gupnp
+  - pkg:rpm/centos/gupnp
+  - pkg:rpm/fedora/gupnp
+  - pkg:rpm/opensuse/gupnp

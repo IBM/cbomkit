@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/pyo3/pyo3
+  - pkg:rpm/fedora/rust-pyo3
+  - pkg:rpm/opensuse/rust-pyo3

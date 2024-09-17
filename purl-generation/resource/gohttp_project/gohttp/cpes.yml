@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:gohttp_project:gohttp:2013-09-30:*:*:*:*:*:*:*
+  - cpe:2.3:a:gohttp_project:gohttp:2013-11-07:*:*:*:*:*:*:*
+  - cpe:2.3:a:gohttp_project:gohttp:2015-06-15:*:*:*:*:*:*:*
+  - cpe:2.3:a:gohttp_project:gohttp:2015-06-16:*:*:*:*:*:*:*
+  - cpe:2.3:a:gohttp_project:gohttp:2015-06-22:*:*:*:*:*:*:*
+  - cpe:2.3:a:gohttp_project:gohttp:2017-04-18:*:*:*:*:*:*:*
+  - cpe:2.3:a:gohttp_project:gohttp:2017-07-12:*:*:*:*:*:*:*
+  - cpe:2.3:a:gohttp_project:gohttp:2017-07-24:*:*:*:*:*:*:*
+  - cpe:2.3:a:gohttp_project:gohttp:2017-07-25:*:*:*:*:*:*:*
+  - cpe:2.3:a:gohttp_project:gohttp:20170725:*:*:*:*:*:*:*

@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:twilio:authy_2-factor_authentication:24.3.7:*:*:*:*:android:*:*

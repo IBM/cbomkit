@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:lite-server_project:lite-server:*:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:lite-server_project:lite-server:-:*:*:*:*:node.js:*:*

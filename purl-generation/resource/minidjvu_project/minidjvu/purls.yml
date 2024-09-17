@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/minidjvu
+  - pkg:deb/ubuntu/minidjvu
+  - pkg:github/barak/minidjvu
+  - pkg:rpm/opensuse/minidjvu
+  - pkg:sourceforge/minidjvu

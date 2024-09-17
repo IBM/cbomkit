@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/contribsys/faktory
+  - pkg:github/contribsys/faktory
+  - pkg:golang/github.com/contribsys/faktory

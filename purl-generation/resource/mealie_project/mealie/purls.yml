@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/hkotel/mealie
+  - pkg:github/hay-kot/mealie

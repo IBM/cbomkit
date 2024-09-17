@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/postgresql-common
+  - pkg:deb/ubuntu/postgresql-common
+  - pkg:github/petere/postgresql-common
+  - pkg:rpm/opensuse/postgresql-common

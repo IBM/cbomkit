@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/leonnnn/pyxtrlock
+  - pkg:rpm/opensuse/pyxtrlock

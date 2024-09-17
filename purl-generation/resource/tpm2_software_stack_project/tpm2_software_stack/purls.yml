@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/tpm2-tss
+  - pkg:deb/ubuntu/tpm2-tss
+  - pkg:github/tpm2-software/tpm2-tss
+  - pkg:gitlab/redhat/tpm2-tss
+  - pkg:rpm/centos/tpm2-tss
+  - pkg:rpm/fedora/tpm2-tss
+  - pkg:rpm/opensuse/tpm2-tss

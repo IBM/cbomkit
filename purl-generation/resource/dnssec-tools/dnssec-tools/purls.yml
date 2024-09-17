@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/suhaybh/dnssec-tools
+  - pkg:github/dnssec-tools/dnssec-tools
+  - pkg:rpm/fedora/dnssec-tools
+  - pkg:rpm/opensuse/dnssec-tools
+  - pkg:sourceforge/dnssec-tools

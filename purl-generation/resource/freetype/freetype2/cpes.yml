@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:freetype:freetype2:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:freetype:freetype2:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:freetype:freetype2:2.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:freetype:freetype2:2.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:freetype:freetype2:2.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:freetype:freetype2:2.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:freetype:freetype2:2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:freetype:freetype2:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:freetype:freetype2:2.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:freetype:freetype2:2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:freetype:freetype2:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:freetype:freetype2:2.9:*:*:*:*:*:*:*

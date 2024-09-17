@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:osm-static-maps_project:osm-static-maps:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:osm-static-maps_project:osm-static-maps:2.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:osm-static-maps_project:osm-static-maps:3.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:osm-static-maps_project:osm-static-maps:3.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:osm-static-maps_project:osm-static-maps:3.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:osm-static-maps_project:osm-static-maps:3.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:osm-static-maps_project:osm-static-maps:3.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:osm-static-maps_project:osm-static-maps:3.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:osm-static-maps_project:osm-static-maps:3.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:osm-static-maps_project:osm-static-maps:3.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:osm-static-maps_project:osm-static-maps:3.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:osm-static-maps_project:osm-static-maps:3.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:osm-static-maps_project:osm-static-maps:3.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:osm-static-maps_project:osm-static-maps:3.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:osm-static-maps_project:osm-static-maps:3.8.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:osm-static-maps_project:osm-static-maps:3.9.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:osm-static-maps_project:osm-static-maps:-:*:*:*:*:node.js:*:*

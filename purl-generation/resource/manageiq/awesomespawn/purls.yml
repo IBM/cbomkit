@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/awesome_spawn
+  - pkg:github/manageiq/awesome_spawn
+  - pkg:rpm/opensuse/rubygem-awesome_spawn

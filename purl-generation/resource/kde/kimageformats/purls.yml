@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/kimageformat-plugins
+  - pkg:deb/ubuntu/kimageformat-plugins
+  - pkg:github/kde/kimageformats
+  - pkg:rpm/opensuse/kimageformats

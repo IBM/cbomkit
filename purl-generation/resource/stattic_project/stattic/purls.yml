@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jmjuanes/stattic
+  - pkg:npm/stattic

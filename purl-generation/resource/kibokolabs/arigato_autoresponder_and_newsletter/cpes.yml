@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:kibokolabs:arigato_autoresponder_and_newsletter:1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kibokolabs:arigato_autoresponder_and_newsletter:1.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kibokolabs:arigato_autoresponder_and_newsletter:1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kibokolabs:arigato_autoresponder_and_newsletter:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kibokolabs:arigato_autoresponder_and_newsletter:2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kibokolabs:arigato_autoresponder_and_newsletter:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kibokolabs:arigato_autoresponder_and_newsletter:2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kibokolabs:arigato_autoresponder_and_newsletter:2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kibokolabs:arigato_autoresponder_and_newsletter:2.5.1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kibokolabs:arigato_autoresponder_and_newsletter:2.5.1.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kibokolabs:arigato_autoresponder_and_newsletter:2.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kibokolabs:arigato_autoresponder_and_newsletter:2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kibokolabs:arigato_autoresponder_and_newsletter:2.7.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kibokolabs:arigato_autoresponder_and_newsletter:*:*:*:*:*:wordpress:*:*

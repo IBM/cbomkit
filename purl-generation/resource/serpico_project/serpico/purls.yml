@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/serpico/serpico
+  - pkg:github/serpicoproject/serpico

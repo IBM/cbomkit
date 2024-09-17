@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/immerjs/immer
+  - pkg:maven/org.webjars.npm/immer
+  - pkg:npm/immer

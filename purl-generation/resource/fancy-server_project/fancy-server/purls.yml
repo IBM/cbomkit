@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dtao/fancy-server
+  - pkg:npm/fancy-server

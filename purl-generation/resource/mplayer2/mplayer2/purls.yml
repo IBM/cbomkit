@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/mpv
+  - pkg:deb/ubuntu/mpv
+  - pkg:github/astiob/mplayer2
+  - pkg:github/mpv-player/mpv
+  - pkg:nuget/mpv
+  - pkg:rpm/opensuse/mpv
+  - pkg:sourceforge/mpv.mirror

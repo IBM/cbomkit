@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:visualizationlibrary:visualization_library:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:visualizationlibrary:visualization_library:2009.07.640:*:*:*:*:*:*:*
+  - cpe:2.3:a:visualizationlibrary:visualization_library:2009.08.800:*:*:*:*:*:*:*
+  - cpe:2.3:a:visualizationlibrary:visualization_library:2009.08.802:*:*:*:*:*:*:*
+  - cpe:2.3:a:visualizationlibrary:visualization_library:2009.08.812:*:*:*:*:*:*:*

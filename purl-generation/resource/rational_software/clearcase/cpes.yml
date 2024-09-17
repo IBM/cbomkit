@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:rational_software:clearcase:2002-05-00:*:*:*:*:*:*:*
+  - cpe:2.3:a:rational_software:clearcase:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rational_software:clearcase:3.2_plus:*:*:*:*:*:*:*
+  - cpe:2.3:a:rational_software:clearcase:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rational_software:clearcase:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rational_software:clearcase:4.2:*:*:*:*:*:*:*

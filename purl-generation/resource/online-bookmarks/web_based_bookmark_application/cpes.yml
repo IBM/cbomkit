@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:online-bookmarks:web_based_bookmark_application:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:online-bookmarks:web_based_bookmark_application:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:online-bookmarks:web_based_bookmark_application:0.4.4:*:*:*:*:*:*:*

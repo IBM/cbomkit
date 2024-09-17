@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/rhysd/shiba
+  - pkg:npm/shiba

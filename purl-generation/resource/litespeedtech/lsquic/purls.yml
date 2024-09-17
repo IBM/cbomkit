@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/litespeedtech/lsquic-qir
+  - pkg:github/litespeedtech/lsquic

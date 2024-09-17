@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/accountsservice
+  - pkg:deb/ubuntu/accountsservice
+  - pkg:gitlab/redhat/accountsservice
+  - pkg:rpm/fedora/accountsservice
+  - pkg:rpm/opensuse/accountsservice

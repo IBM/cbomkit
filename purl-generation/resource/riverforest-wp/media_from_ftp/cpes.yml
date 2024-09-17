@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:riverforest-wp:media_from_ftp:11.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:riverforest-wp:media_from_ftp:11.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:riverforest-wp:media_from_ftp:-:*:*:*:*:wordpress:*:*

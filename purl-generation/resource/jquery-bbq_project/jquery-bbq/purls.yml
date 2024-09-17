@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cowboy/jquery-bbq
+  - pkg:npm/jquery-bbq

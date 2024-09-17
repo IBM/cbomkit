@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/kgpg
+  - pkg:deb/ubuntu/kgpg
+  - pkg:github/kde/kgpg
+  - pkg:rpm/fedora/kgpg
+  - pkg:rpm/opensuse/kgpg

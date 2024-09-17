@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:accessibility_project:accessibility:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accessibility_project:accessibility:1.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accessibility_project:accessibility:1.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accessibility_project:accessibility:1.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:accessibility_project:accessibility:1.0:*:*:*:*:wordpress:*:*

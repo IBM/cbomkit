@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/anuko/timetracker
+  - pkg:golang/github.com/anuko/timetracker

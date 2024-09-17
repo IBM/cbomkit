@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/slim
+  - pkg:deb/ubuntu/slim
+  - pkg:github/iwamatsu/slim
+  - pkg:github/simonerota/slim
+  - pkg:rpm/fedora/slim
+  - pkg:sourceforge/slim.berlios

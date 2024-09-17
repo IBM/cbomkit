@@ -1,0 +1,10 @@
+purls:
+  - pkg:github/gregkh/linux
+  - pkg:github/rockchip-linux/kernel
+  - pkg:github/torvalds/linux
+  - pkg:gitlab/mergetb/kernel
+  - pkg:googlesource/torvalds/linux
+  - pkg:kernel/linux
+  - pkg:rpm/centos/kernel
+  - pkg:rpm/fedora/kernel
+  - pkg:rpm/opensuse/kernel

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/octopusdeploy-plugin
+  - pkg:github/octopusdeploy/octopus-jenkins-plugin

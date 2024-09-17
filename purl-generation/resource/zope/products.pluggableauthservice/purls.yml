@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/zopefoundation/products.pluggableauthservice
+  - pkg:pypi/products.pluggableauthservice

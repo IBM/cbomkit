@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/solidus
+  - pkg:github/solidusio/solidus

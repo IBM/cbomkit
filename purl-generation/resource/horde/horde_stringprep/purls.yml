@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/horde/stringprep
+  - pkg:rpm/fedora/php-horde-horde-stringprep
+  - pkg:rpm/opensuse/php-horde-horde-stringprep

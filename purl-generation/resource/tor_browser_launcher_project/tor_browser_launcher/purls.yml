@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/torbrowser-launcher
+  - pkg:deb/ubuntu/torbrowser-launcher
+  - pkg:github/micahflee/torbrowser-launcher
+  - pkg:rpm/fedora/torbrowser-launcher
+  - pkg:rpm/opensuse/torbrowser-launcher

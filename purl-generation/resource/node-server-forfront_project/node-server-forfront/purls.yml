@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/wangcaifeng/node-server-forfront
+  - pkg:npm/node-server-forfront

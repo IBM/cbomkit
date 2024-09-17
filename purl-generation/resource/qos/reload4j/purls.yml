@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/qos-ch/reload4j
+  - pkg:maven/ch.qos.reload4j/reload4j
+  - pkg:rpm/opensuse/reload4j

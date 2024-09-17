@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/transloadit/uppy
+  - pkg:maven/org.webjars.npm/uppy
+  - pkg:npm/uppy

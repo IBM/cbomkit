@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:tad_uploader_project:tad_uploader:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:tad_uploader_project:tad_uploader:3.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:tad_uploader_project:tad_uploader:3.5.4:*:*:*:*:*:*:*

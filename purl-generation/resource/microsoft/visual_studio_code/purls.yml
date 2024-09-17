@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/microsoft/vscode
+  - pkg:nuget/rb.vscode
+  - pkg:rpm/opensuse/microsoft-vscode

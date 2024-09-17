@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libproxy
+  - pkg:deb/ubuntu/libproxy
+  - pkg:github/libproxy/libproxy
+  - pkg:gitlab/redhat/libproxy
+  - pkg:rpm/centos/libproxy
+  - pkg:rpm/fedora/libproxy
+  - pkg:rpm/opensuse/libproxy

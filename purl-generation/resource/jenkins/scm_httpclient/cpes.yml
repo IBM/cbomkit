@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:jenkins:scm_httpclient:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:scm_httpclient:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:scm_httpclient:1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:scm_httpclient:1.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:scm_httpclient:1.5:*:*:*:*:jenkins:*:*

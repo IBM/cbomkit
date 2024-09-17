@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:cyberseo:xpinner_lite:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cyberseo:xpinner_lite:-:*:*:*:*:wordpress:*:*

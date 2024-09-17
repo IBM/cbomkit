@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/moxiecode/plupload
+  - pkg:maven/org.webjars.bowergithub.moxiecode/plupload
+  - pkg:maven/org.webjars.bower/plupload
+  - pkg:npm/plupload

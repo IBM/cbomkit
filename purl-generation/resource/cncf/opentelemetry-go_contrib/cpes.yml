@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:cncf:opentelemetry-go_contrib:0.38.0:*:*:*:*:opentelemetry-go:*:*
+  - cpe:2.3:a:cncf:opentelemetry-go_contrib:*:*:*:*:*:opentelemetry-go:*:*
+  - cpe:2.3:a:cncf:opentelemetry-go_contrib:-:*:*:*:*:opentelemetry-go:*:*

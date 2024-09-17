@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/sergk/dosbox
+  - pkg:deb/debian/dosbox
+  - pkg:deb/ubuntu/dosbox
+  - pkg:rpm/fedora/dosbox
+  - pkg:rpm/opensuse/dosbox
+  - pkg:sourceforge/dosbox

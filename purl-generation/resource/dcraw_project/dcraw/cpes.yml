@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:dcraw_project:dcraw:7.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:dcraw_project:dcraw:9.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:dcraw_project:dcraw:9.28-2:*:*:*:*:*:*:*

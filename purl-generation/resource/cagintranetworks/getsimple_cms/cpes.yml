@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:cagintranetworks:getsimple_cms:3.3.13_:*:*:*:*:*:*:*
+  - cpe:2.3:a:cagintranetworks:getsimple_cms:3.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cagintranetworks:getsimple_cms:3.3.4:*:*:*:*:*:*:*

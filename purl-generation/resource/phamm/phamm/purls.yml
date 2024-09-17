@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/phamm
+  - pkg:deb/ubuntu/phamm
+  - pkg:github/f0rth/phamm
+  - pkg:github/lota/phamm
+  - pkg:gnu/phamm

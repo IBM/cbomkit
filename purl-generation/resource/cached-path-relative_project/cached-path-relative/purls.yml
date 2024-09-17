@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-cached-path-relative
+  - pkg:deb/ubuntu/node-cached-path-relative
+  - pkg:github/ashaffer/cached-path-relative
+  - pkg:maven/org.webjars.npm/cached-path-relative
+  - pkg:npm/cached-path-relative

@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:infinite_automation_systems:mango_automation:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:infinite_automation_systems:mango_automation:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:infinite_automation_systems:mango_automation:2.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:infinite_automation_systems:mango_automation:2.6.0:*:*:*:*:*:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/mcfreis/coapthon3
+  - pkg:github/tanganelli/coapthon3
+  - pkg:pypi/coapthon3
+  - pkg:rpm/fedora/python-coapthon3

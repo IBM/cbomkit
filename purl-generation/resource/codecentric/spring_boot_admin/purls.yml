@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/codecentric/spring-boot-admin
+  - pkg:golang/github.com/codecentric/spring-boot-admin
+  - pkg:maven/de.codecentric/spring-boot-admin

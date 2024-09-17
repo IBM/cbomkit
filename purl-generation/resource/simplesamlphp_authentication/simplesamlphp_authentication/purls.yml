@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/simplesamlphp/simplesamlphp
+  - pkg:github/simplesamlphp/simplesamlphp

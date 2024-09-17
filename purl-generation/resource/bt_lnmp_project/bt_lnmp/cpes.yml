@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:bt_lnmp_project:bt_lnmp:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:bt_lnmp_project:bt_lnmp:2019-10-10:*:*:*:*:*:*:*

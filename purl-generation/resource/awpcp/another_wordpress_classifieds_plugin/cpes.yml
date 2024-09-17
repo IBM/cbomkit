@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:awpcp:another_wordpress_classifieds_plugin:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:awpcp:another_wordpress_classifieds_plugin:3.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awpcp:another_wordpress_classifieds_plugin:4.3:*:*:*:*:wordpress:*:*

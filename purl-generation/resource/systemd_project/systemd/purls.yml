@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/systemd
+  - pkg:deb/ubuntu/systemd
+  - pkg:github/freedesktop/systemd
+  - pkg:github/systemd/systemd
+  - pkg:gitlab/redhat/systemd
+  - pkg:rpm/centos/systemd
+  - pkg:rpm/fedora/systemd
+  - pkg:rpm/opensuse/systemd

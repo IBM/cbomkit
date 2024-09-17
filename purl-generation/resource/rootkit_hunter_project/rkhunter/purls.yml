@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/rkhunter
+  - pkg:deb/ubuntu/rkhunter
+  - pkg:github/youngunix/rkhunter
+  - pkg:rpm/fedora/rkhunter
+  - pkg:rpm/opensuse/rkhunter
+  - pkg:sourceforge/rkhunter

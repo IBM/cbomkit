@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/heimdal
+  - pkg:deb/ubuntu/heimdal
+  - pkg:docker/linuxserver/heimdall
+  - pkg:github/heimdal/heimdal
+  - pkg:rpm/fedora/heimdal
+  - pkg:rpm/opensuse/heimdal

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/python-impacket
+  - pkg:deb/ubuntu/python-impacket
+  - pkg:github/fortra/impacket
+  - pkg:pypi/impacket
+  - pkg:rpm/fedora/python-impacket
+  - pkg:rpm/opensuse/python-impacket
+  - pkg:sourceforge/impacket.mirror

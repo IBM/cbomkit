@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/tarantool
+  - pkg:deb/ubuntu/tarantool
+  - pkg:github/tarantool/tarantool
+  - pkg:gitlab/tarantool/tarantool
+  - pkg:rpm/fedora/tarantool
+  - pkg:rpm/opensuse/tarantool

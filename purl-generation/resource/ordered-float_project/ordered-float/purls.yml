@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/reem/rust-ordered-float
+  - pkg:rpm/fedora/rust-ordered-float
+  - pkg:rpm/opensuse/rust-ordered-float

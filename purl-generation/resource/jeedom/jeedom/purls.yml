@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/jeedom/jeedom
+  - pkg:github/jeedom/core

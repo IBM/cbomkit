@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/spring-cloud/spring-cloud-connectors
+  - pkg:maven/io.pivotal.spring.cloud/spring-cloud-sso-connector

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/vsftpd
+  - pkg:deb/ubuntu/vsftpd
+  - pkg:github/djarosz/vsftpd
+  - pkg:gitlab/redhat/vsftpd
+  - pkg:rpm/fedora/vsftpd
+  - pkg:rpm/opensuse/vsftpd

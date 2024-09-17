@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/nbconvert
+  - pkg:deb/ubuntu/nbconvert
+  - pkg:github/jupyter/nbconvert
+  - pkg:pypi/nbconvert
+  - pkg:rpm/fedora/python-nbconvert
+  - pkg:rpm/opensuse/python-nbconvert

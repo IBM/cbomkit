@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:ultimatesmsnotifications:ultimate_sms_notifications_for_woocommerce:1.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ultimatesmsnotifications:ultimate_sms_notifications_for_woocommerce:*:*:*:*:*:wordpress:*:*

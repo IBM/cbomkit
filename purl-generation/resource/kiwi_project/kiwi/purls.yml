@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/kiwi
+  - pkg:github/osinside/kiwi
+  - pkg:pypi/kiwi
+  - pkg:rpm/fedora/kiwi
+  - pkg:rpm/opensuse/python-kiwi

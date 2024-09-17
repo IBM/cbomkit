@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/devopology/slf4j-simple
+  - pkg:github/qos-ch/slf4j
+  - pkg:maven/org.slf4j/slf4j-simple

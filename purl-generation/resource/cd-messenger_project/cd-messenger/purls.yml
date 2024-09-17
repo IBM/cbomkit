@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mikeerickson/cd-messenger
+  - pkg:npm/cd-messenger

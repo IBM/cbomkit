@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/keystonejs/keystone-5
+  - pkg:npm/%40keystonejs/keystone

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/sa7mon/s3scanner
+  - pkg:golang/github.com/sa7mon/s3scanner
+  - pkg:pypi/s3scanner

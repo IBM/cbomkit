@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:rust-lang:mdbook:0.1.10:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.1.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.1.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.1.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.1.7:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.1.8:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.1.9:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.2.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.2.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.2.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.3.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.3.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.3.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.3.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.3.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.3.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.3.7:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.4.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.4.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.4.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.4.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.4.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:0.4.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:mdbook:-:*:*:*:*:rust:*:*

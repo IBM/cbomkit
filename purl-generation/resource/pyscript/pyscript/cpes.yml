@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:pyscript:pyscript:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyscript:pyscript:2022-05-04:*:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/v4l2loopback
+  - pkg:deb/ubuntu/v4l2loopback
+  - pkg:github/johnweber/v4l2loopback
+  - pkg:github/pop-os/v4l2loopback
+  - pkg:github/umlaeute/v4l2loopback
+  - pkg:rpm/opensuse/v4l2loopback

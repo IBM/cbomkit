@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:workerman-thinkphp-redis_project:workerman-thinkphp-redis:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:workerman-thinkphp-redis_project:workerman-thinkphp-redis:2018-03-16:*:*:*:*:*:*:*

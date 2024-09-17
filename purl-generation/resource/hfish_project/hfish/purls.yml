@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/imdevops/hfish
+  - pkg:github/hacklcx/hfish
+  - pkg:golang/github.com/hacklcx/hfish

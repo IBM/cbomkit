@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/jquery-minicolors
+  - pkg:deb/ubuntu/jquery-minicolors
+  - pkg:github/claviska/jquery-minicolors
+  - pkg:maven/org.webjars.bowergithub.claviska/jquery-minicolors
+  - pkg:npm/%40claviska/jquery-minicolors

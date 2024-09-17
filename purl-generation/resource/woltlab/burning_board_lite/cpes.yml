@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:woltlab:burning_board_lite:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:woltlab:burning_board_lite:1.0.1e:*:*:*:*:*:*:*
+  - cpe:2.3:a:woltlab:burning_board_lite:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:woltlab:burning_board_lite:1.0.2_pl3e:*:*:*:*:*:*:*
+  - cpe:2.3:a:woltlab:burning_board_lite:2.0:beta_1:*:*:*:*:*:*

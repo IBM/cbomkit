@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/aurelia/path
+  - pkg:maven/org.webjars.npm/aurelia-path
+  - pkg:npm/aurelia-path

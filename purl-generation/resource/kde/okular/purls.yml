@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/okular
+  - pkg:deb/ubuntu/okular
+  - pkg:github/kde/okular
+  - pkg:rpm/centos/okular
+  - pkg:rpm/fedora/okular
+  - pkg:rpm/opensuse/okular

@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/logging
+  - pkg:deb/debian/log4net
+  - pkg:deb/ubuntu/log4net
+  - pkg:github/apache/logging-log4net
+  - pkg:rpm/fedora/log4net
+  - pkg:rpm/opensuse/log4net

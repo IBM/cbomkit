@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/xjamundx/gitblame
+  - pkg:npm/gitblame

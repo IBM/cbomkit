@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ionic-team/cordova-plugin-ionic-webview
+  - pkg:npm/cordova-plugin-ionic-webview

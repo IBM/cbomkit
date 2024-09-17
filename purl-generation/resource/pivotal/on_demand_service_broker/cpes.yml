@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:pivotal:on_demand_service_broker:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:on_demand_service_broker:0.15.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:on_demand_service_broker:0.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:on_demand_service_broker:0.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:on_demand_service_broker:0.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:on_demand_service_broker:0.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:on_demand_service_broker:0.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:on_demand_service_broker:0.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:on_demand_service_broker:0.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:on_demand_service_broker:0.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:on_demand_service_broker:0.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:on_demand_service_broker:0.21.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:on_demand_service_broker:0.21.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:on_demand_service_broker:0.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:on_demand_service_broker:0.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:on_demand_service_broker:0.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:on_demand_service_broker:0.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:on_demand_service_broker:0.26.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:on_demand_service_broker:0.26.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:on_demand_service_broker:0.27.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:on_demand_service_broker:0.28.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:on_demand_service_broker:0.29.0:*:*:*:*:*:*:*

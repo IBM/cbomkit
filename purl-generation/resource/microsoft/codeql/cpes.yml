@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:microsoft:codeql:1.0.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:codeql:1.0.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:codeql:1.0.2:*:*:*:*:visual_studio_code:*:*

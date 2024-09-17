@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:zeromq:libzmq:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:zeromq:libzmq:4.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:zeromq:libzmq:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:zeromq:libzmq:4.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:zeromq:libzmq:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:zeromq:libzmq:4.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:zeromq:libzmq:4.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:zeromq:libzmq:4.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:zeromq:libzmq:4.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:zeromq:libzmq:4.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:zeromq:libzmq:4.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:zeromq:libzmq:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:zeromq:libzmq:4.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:zeromq:libzmq:4.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:zeromq:libzmq:4.3.3:*:*:*:*:*:*:*

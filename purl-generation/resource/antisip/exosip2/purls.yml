@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libexosip2
+  - pkg:deb/ubuntu/libexosip2
+  - pkg:github/aurelihein/exosip
+  - pkg:gnu/exosip
+  - pkg:rpm/fedora/libexosip2
+  - pkg:rpm/opensuse/libexosip2

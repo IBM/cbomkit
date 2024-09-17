@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:rubyonrails:globalid:0.2.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rubyonrails:globalid:0.2.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rubyonrails:globalid:0.2.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rubyonrails:globalid:0.3.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rubyonrails:globalid:0.3.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rubyonrails:globalid:0.3.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rubyonrails:globalid:0.3.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rubyonrails:globalid:0.3.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rubyonrails:globalid:0.3.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rubyonrails:globalid:0.3.6:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rubyonrails:globalid:0.3.7:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rubyonrails:globalid:0.4.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rubyonrails:globalid:0.4.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rubyonrails:globalid:0.4.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rubyonrails:globalid:0.5.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rubyonrails:globalid:0.5.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rubyonrails:globalid:0.5.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rubyonrails:globalid:0.6.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rubyonrails:globalid:1.0.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:rubyonrails:globalid:*:*:*:*:*:ruby:*:*

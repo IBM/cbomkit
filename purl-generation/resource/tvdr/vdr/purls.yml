@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/vdr
+  - pkg:deb/ubuntu/vdr
+  - pkg:github/vdr-projects/vdr
+  - pkg:rpm/fedora/vdr
+  - pkg:rpm/opensuse/vdr

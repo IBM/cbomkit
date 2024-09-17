@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/kong
+  - pkg:github/kong/kong
+  - pkg:sourceforge/kong.mirror

@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/ibmcom/ceilometer
+  - pkg:github/openstack/ceilometer
+  - pkg:maven/org.ow2.xlcloud/openstack-ceilometer-sdk
+  - pkg:pypi/ceilometer
+  - pkg:rpm/opensuse/openstack-ceilometer

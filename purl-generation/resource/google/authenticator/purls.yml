@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/google-authenticator
+  - pkg:deb/ubuntu/google-authenticator
+  - pkg:github/google/google-authenticator
+  - pkg:rpm/opensuse/google-authenticator

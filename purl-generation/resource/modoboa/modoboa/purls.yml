@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/modoboa/modoboa
+  - pkg:pypi/modoboa

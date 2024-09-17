@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/jbtronics/part-db
+  - pkg:github/part-db/part-db

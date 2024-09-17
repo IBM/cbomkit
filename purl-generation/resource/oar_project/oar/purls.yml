@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/oar
+  - pkg:deb/ubuntu/oar
+  - pkg:github/oar-team/oar

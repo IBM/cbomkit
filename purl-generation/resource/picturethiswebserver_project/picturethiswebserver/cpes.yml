@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:picturethiswebserver_project:picturethiswebserver:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:picturethiswebserver_project:picturethiswebserver:-:*:*:*:*:*:*:*

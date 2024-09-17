@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/eeems/pooledwebsocket
+  - pkg:npm/pooledwebsocket

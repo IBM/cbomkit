@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:jforum:jforum:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:jforum:jforum:2.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:jforum:jforum:2.1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:jforum:jforum:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jforum:jforum:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:jforum:jforum:3.0:beta:*:*:*:*:*:*

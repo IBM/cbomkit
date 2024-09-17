@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:gnu:mailutils:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:mailutils:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:mailutils:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:mailutils:1.0.6.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:mailutils:3.8:*:*:*:*:*:*:*

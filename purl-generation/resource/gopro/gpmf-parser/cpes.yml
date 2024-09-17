@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:gopro:gpmf-parser:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gopro:gpmf-parser:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gopro:gpmf-parser:1.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:gopro:gpmf-parser:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gopro:gpmf-parser:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gopro:gpmf-parser:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gopro:gpmf-parser:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gopro:gpmf-parser:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gopro:gpmf-parser:1.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gopro:gpmf-parser:1.5:*:*:*:*:*:*:*

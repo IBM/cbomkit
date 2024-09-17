@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/freexl
+  - pkg:deb/ubuntu/freexl
+  - pkg:rpm/fedora/freexl
+  - pkg:rpm/opensuse/freexl

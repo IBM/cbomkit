@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:skolelinux:debian-edu-config:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:skolelinux:debian-edu-config:1.818:*:*:*:*:*:*:*
+  - cpe:2.3:a:skolelinux:debian-edu-config:1.929:*:*:*:*:*:*:*
+  - cpe:2.3:a:skolelinux:debian-edu-config:2.10.65:*:*:*:*:*:*:*
+  - cpe:2.3:a:skolelinux:debian-edu-config:2.11.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:skolelinux:debian-edu-config:2.11.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:skolelinux:debian-edu-config:2.11.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:skolelinux:debian-edu-config:2.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:skolelinux:debian-edu-config:2.12.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:skolelinux:debian-edu-config:2.12.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:skolelinux:debian-edu-config:2.12.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:skolelinux:debian-edu-config:2.12.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:skolelinux:debian-edu-config:2.12.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:skolelinux:debian-edu-config:2.12.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:skolelinux:debian-edu-config:2.12.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:skolelinux:debian-edu-config:2.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:skolelinux:debian-edu-config:2.12.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:skolelinux:debian-edu-config:2.12.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:skolelinux:debian-edu-config:2.12.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:skolelinux:debian-edu-config:2.12.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:skolelinux:debian-edu-config:2.12.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:skolelinux:debian-edu-config:2.12.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:skolelinux:debian-edu-config:2.12.9:*:*:*:*:*:*:*

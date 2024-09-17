@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:gentoo:nvclock:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:nvclock:0.7:*:*:*:*:*:*:*

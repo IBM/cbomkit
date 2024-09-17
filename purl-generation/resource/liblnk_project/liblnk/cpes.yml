@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:liblnk_project:liblnk:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:liblnk_project:liblnk:20171101:*:*:*:*:*:*:*
+  - cpe:2.3:a:liblnk_project:liblnk:20180419:*:*:*:*:*:*:*
+  - cpe:2.3:a:liblnk_project:liblnk:20180626:*:*:*:*:*:*:*
+  - cpe:2.3:a:liblnk_project:liblnk:20181227:*:*:*:*:*:*:*
+  - cpe:2.3:a:liblnk_project:liblnk:20191006:*:*:*:*:*:*:*

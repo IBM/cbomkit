@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/xdg-user-dirs
+  - pkg:deb/ubuntu/xdg-user-dirs
+  - pkg:github/freedesktop/xdg-user-dirs
+  - pkg:gitlab/redhat/xdg-user-dirs
+  - pkg:rpm/centos/xdg-user-dirs
+  - pkg:rpm/fedora/xdg-user-dirs
+  - pkg:rpm/opensuse/xdg-user-dirs

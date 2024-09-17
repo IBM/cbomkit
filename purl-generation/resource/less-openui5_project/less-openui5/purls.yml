@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sap/less-openui5
+  - pkg:npm/less-openui5

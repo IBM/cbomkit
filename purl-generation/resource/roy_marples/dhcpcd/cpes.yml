@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:roy_marples:dhcpcd:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:roy_marples:dhcpcd:3.2.3:*:*:*:*:*:*:*

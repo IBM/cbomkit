@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/prelude-siem/prewikka
+  - pkg:pypi/prewikka

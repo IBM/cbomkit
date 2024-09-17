@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libmysofa
+  - pkg:deb/ubuntu/libmysofa
+  - pkg:github/hoene/libmysofa
+  - pkg:rpm/fedora/libmysofa
+  - pkg:rpm/opensuse/libmysofa

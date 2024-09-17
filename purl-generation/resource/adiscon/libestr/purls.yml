@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/rsyslog/libestr
+  - pkg:gitlab/redhat/libestr
+  - pkg:rpm/centos/libestr
+  - pkg:rpm/fedora/libestr
+  - pkg:rpm/opensuse/libestr

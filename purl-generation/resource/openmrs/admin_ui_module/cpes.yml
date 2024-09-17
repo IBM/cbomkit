@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:openmrs:admin_ui_module:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openmrs:admin_ui_module:1.5.0:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/sonarqube
+  - pkg:github/sonarsource/sonarqube
+  - pkg:maven/org.sonarsource.sonarqube/sonarqube

@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/tomee
+  - pkg:github/apache/tomee
+  - pkg:maven/org.apache.tomee/tomee

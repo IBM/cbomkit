@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kubeoperator/kubeoperator
+  - pkg:golang/github.com/kubeoperator/kubeoperator

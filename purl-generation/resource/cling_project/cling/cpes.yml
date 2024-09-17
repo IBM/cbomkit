@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:cling_project:cling:2.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:cling_project:cling:2.0.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:cling_project:cling:2.0.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:cling_project:cling:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cling_project:cling:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cling_project:cling:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cling_project:cling:2.1.2:*:*:*:*:*:*:*

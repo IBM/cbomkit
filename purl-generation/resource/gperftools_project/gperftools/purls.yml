@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/gperftools/gperftools
+  - pkg:rpm/fedora/gperftools
+  - pkg:rpm/opensuse/gperftools
+  - pkg:sourceforge/gperftools.mirror

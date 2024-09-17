@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:mainwp:code_snippets_extension:0.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mainwp:code_snippets_extension:0.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mainwp:code_snippets_extension:0.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mainwp:code_snippets_extension:0.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mainwp:code_snippets_extension:0.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mainwp:code_snippets_extension:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mainwp:code_snippets_extension:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mainwp:code_snippets_extension:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mainwp:code_snippets_extension:4.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mainwp:code_snippets_extension:4.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mainwp:code_snippets_extension:4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mainwp:code_snippets_extension:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mainwp:code_snippets_extension:-:*:*:*:*:wordpress:*:*

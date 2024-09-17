@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/waycrate/swhkd
+  - pkg:rpm/opensuse/swhkd

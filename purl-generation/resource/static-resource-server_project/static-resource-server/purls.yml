@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/Hfimy/staticfile-server
+  - pkg:npm/static-resource-server

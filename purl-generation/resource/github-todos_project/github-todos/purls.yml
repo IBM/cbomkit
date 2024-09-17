@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/naholyr/github-todos
+  - pkg:npm/github-todos

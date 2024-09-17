@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:jenkins:clif_performance_testing:1.0.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:clif_performance_testing:1.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:clif_performance_testing:1.0.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:clif_performance_testing:64.vc0d66de1dfb_f:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:clif_performance_testing:70.v7214dfdb_32ec:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:clif_performance_testing:71.v0741865e206f:*:*:*:*:jenkins:*:*

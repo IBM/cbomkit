@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/yacy/yacy_search_server
+  - pkg:github/yacy/yacy_search_server
+  - pkg:rpm/opensuse/yacy
+  - pkg:sourceforge/yacy

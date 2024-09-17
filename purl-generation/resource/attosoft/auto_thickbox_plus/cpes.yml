@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:attosoft:auto_thickbox_plus:1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:attosoft:auto_thickbox_plus:-:*:*:*:*:wordpress:*:*

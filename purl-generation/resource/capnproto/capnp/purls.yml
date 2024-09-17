@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/capnproto/capnproto-rust
+  - pkg:rpm/fedora/rust-capnp

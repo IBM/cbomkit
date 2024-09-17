@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/ubuntu/rust-futures-task
+  - pkg:github/rust-lang/futures-rs
+  - pkg:rpm/fedora/rust-futures-task
+  - pkg:rpm/opensuse/rust-futures-task

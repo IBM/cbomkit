@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:voteapp_project:voteapp:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:voteapp_project:voteapp:-:*:*:*:*:*:*:*

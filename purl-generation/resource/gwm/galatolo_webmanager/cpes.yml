@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:gwm:galatolo_webmanager:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gwm:galatolo_webmanager:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gwm:galatolo_webmanager:1.3a:*:*:*:*:*:*:*

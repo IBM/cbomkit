@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:vms-studio:quizlord:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vms-studio:quizlord:2.0:*:*:*:*:wordpress:*:*

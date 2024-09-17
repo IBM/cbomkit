@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gomarkdown/markdown
+  - pkg:golang/github.com/gomarkdown/markdown

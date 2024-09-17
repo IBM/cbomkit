@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/crowdfavorite-mirrors/wp-wp-dbmanager
+  - pkg:github/lesterchan/wp-dbmanager
+  - pkg:github/wp-plugins/wp-dbmanager

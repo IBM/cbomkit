@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/yajl
+  - pkg:deb/ubuntu/yajl
+  - pkg:github/lloyd/yajl
+  - pkg:rpm/fedora/yajl
+  - pkg:rpm/opensuse/yajl

@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:openstack:orchestration_api:2015.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:orchestration_api:2015.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:orchestration_api:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:orchestration_api:5.0.1:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/riendsofredaxo/redaxo
+  - pkg:github/redaxo/redaxo

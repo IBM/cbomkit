@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/e17
+  - pkg:deb/ubuntu/e17
+  - pkg:github/enlightenment/enlightenment
+  - pkg:github/shr-project/enlightenment
+  - pkg:rpm/fedora/enlightenment
+  - pkg:rpm/opensuse/enlightenment
+  - pkg:sourceforge/enlightenment

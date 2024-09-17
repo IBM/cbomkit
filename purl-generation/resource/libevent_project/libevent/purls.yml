@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/libevent
+  - pkg:deb/ubuntu/libevent
+  - pkg:github/libevent/libevent
+  - pkg:gitlab/gitlab-org/libevent
+  - pkg:nuget/libevent_vc120
+  - pkg:rpm/centos/libevent
+  - pkg:rpm/fedora/libevent
+  - pkg:rpm/opensuse/libevent
+  - pkg:sourceforge/libevent.mirror

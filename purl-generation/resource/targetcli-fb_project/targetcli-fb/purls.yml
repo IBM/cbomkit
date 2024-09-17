@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/targetcli-fb
+  - pkg:deb/ubuntu/targetcli-fb
+  - pkg:github/open-iscsi/targetcli-fb
+  - pkg:pypi/targetcli-fb
+  - pkg:rpm/opensuse/targetcli-fb

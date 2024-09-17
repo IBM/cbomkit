@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:travianz_project:travianz:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:travianz_project:travianz:8.3.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:travianz_project:travianz:8.3.3:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:travianz_project:travianz:8.3.3:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:travianz_project:travianz:8.3.3:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:travianz_project:travianz:8.3.4:*:*:*:*:*:*:*

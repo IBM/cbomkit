@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:node-static_project:node-static:-:*:*:*:*:node.js:*:*

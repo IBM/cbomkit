@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/show_in_browser
+  - pkg:github/jonleung/show_in_browser

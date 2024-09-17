@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:compact_arena_project:compact_arena:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:compact_arena_project:compact_arena:0.4.0:*:*:*:*:*:*:*

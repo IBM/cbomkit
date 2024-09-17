@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/sniproxy
+  - pkg:deb/ubuntu/sniproxy
+  - pkg:github/dlundquist/sniproxy
+  - pkg:golang/github.com/dlundquist/sniproxy

@@ -1,0 +1,10 @@
+purls:
+  - pkg:bitbucket/solidfire/libunwind
+  - pkg:deb/debian/libunwind
+  - pkg:deb/ubuntu/libunwind
+  - pkg:github/dropbox/libunwind
+  - pkg:github/libunwind/libunwind
+  - pkg:gnu/libunwind
+  - pkg:rpm/centos/libunwind
+  - pkg:rpm/fedora/libunwind
+  - pkg:rpm/opensuse/libunwind

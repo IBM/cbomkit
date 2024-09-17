@@ -1,0 +1,2 @@
+purls:
+  - pkg:github/cloudflare/lua-resty-json

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jenkins:lucene-search:370.v62a5f618cd3a:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:lucene-search:387.v938a_ecb_f7fe9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:lucene-search:-:*:*:*:*:jenkins:*:*

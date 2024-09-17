@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/leispire/sqlcipher
+  - pkg:deb/debian/sqlcipher
+  - pkg:deb/ubuntu/sqlcipher
+  - pkg:github/sqlcipher/sqlcipher
+  - pkg:rpm/fedora/sqlcipher
+  - pkg:rpm/opensuse/sqlcipher

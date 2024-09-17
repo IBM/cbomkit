@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/django-tastypie
+  - pkg:deb/ubuntu/django-tastypie
+  - pkg:github/django-tastypie/django-tastypie
+  - pkg:pypi/django-tastypie
+  - pkg:rpm/opensuse/python-django-tastypie

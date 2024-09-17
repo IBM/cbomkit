@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:email-subscriber_project:email-subscriber:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:email-subscriber_project:email-subscriber:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:email-subscriber_project:email-subscriber:-:*:*:*:*:wordpress:*:*

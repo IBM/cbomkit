@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:linux:util-linux:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:util-linux:2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:util-linux:2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:util-linux:2.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:util-linux:2.12:pre:*:*:*:*:*:*
+  - cpe:2.3:a:linux:util-linux:2.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:util-linux:2.13.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:util-linux:2.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:util-linux:2.13.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:util-linux:2.13:pre:*:*:*:*:*:*
+  - cpe:2.3:a:linux:util-linux:2.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:util-linux:2.14:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:linux:util-linux:2.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:util-linux:2.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:util-linux:2.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:util-linux:2.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:util-linux:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:util-linux:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:util-linux:2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:util-linux:2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux:util-linux:2.9:*:*:*:*:*:*:*

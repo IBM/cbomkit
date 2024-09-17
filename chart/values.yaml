@@ -1,0 +1,25 @@
+common:
+  clusterDomain: ""
+backend:
+  name: cbomkit
+  image: cbomkit
+  tag: 1.0.0
+frontend:
+  name: cbomkit-frontend
+  image: cbomkit
+  tag: 1.0.0
+regulator:
+  enabled: false
+  name: cbomkit-regulator
+  image: ""
+  tag: ""
+  opa:
+    name: cbomkit-opa
+    image: openpolicyagent/opa
+    tag: 0.66.0
+postgresql:
+  fullnameOverride: cbomkit-postgres
+  auth:
+    username: ""
+    password: ""
+    database: postgres

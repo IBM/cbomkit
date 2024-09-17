@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:shredzone:cilla:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:shredzone:cilla:-:*:*:*:*:*:*:*

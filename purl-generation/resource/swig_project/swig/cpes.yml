@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:swig_project:swig:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:swig_project:swig:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:swig_project:swig:1.4.2:*:*:*:*:*:*:*

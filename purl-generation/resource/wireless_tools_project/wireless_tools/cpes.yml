@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:wireless_tools_project:wireless_tools:10:*:*:*:*:*:*:*
+  - cpe:2.3:a:wireless_tools_project:wireless_tools:19:*:*:*:*:*:*:*
+  - cpe:2.3:a:wireless_tools_project:wireless_tools:20:*:*:*:*:*:*:*
+  - cpe:2.3:a:wireless_tools_project:wireless_tools:21:*:*:*:*:*:*:*
+  - cpe:2.3:a:wireless_tools_project:wireless_tools:22:*:*:*:*:*:*:*
+  - cpe:2.3:a:wireless_tools_project:wireless_tools:23:*:*:*:*:*:*:*
+  - cpe:2.3:a:wireless_tools_project:wireless_tools:24:*:*:*:*:*:*:*
+  - cpe:2.3:a:wireless_tools_project:wireless_tools:25:*:*:*:*:*:*:*
+  - cpe:2.3:a:wireless_tools_project:wireless_tools:26:*:*:*:*:*:*:*
+  - cpe:2.3:a:wireless_tools_project:wireless_tools:27:*:*:*:*:*:*:*
+  - cpe:2.3:a:wireless_tools_project:wireless_tools:28:*:*:*:*:*:*:*
+  - cpe:2.3:a:wireless_tools_project:wireless_tools:29:*:*:*:*:*:*:*
+  - cpe:2.3:a:wireless_tools_project:wireless_tools:30:pre9:*:*:*:*:*:*

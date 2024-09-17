@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/simpleledger/slpjs
+  - pkg:npm/slpjs

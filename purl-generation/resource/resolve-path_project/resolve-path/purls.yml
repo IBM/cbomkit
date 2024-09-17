@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pillarjs/resolve-path
+  - pkg:npm/resolve-path

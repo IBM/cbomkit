@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:user_project:user:1.4.5:*:*:*:*:octobercms:*:*
+  - cpe:2.3:a:user_project:user:1.5.0:*:*:*:*:octobercms:*:*
+  - cpe:2.3:a:user_project:user:1.5.1:*:*:*:*:octobercms:*:*
+  - cpe:2.3:a:user_project:user:1.5.2:*:*:*:*:octobercms:*:*
+  - cpe:2.3:a:user_project:user:1.5.3:*:*:*:*:octobercms:*:*

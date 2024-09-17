@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dkpro/dkpro-core
+  - pkg:maven/org.dkpro.core/dkpro-core

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/nagvis
+  - pkg:deb/ubuntu/nagvis
+  - pkg:github/nagvis/nagvis
+  - pkg:rpm/opensuse/nagvis
+  - pkg:sourceforge/nagvis

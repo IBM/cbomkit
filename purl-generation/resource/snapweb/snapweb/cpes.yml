@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:snapweb:snapweb:0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:snapweb:snapweb:0.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:snapweb:snapweb:0.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:snapweb:snapweb:0.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:snapweb:snapweb:0.21.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:snapweb:snapweb:0.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:snapweb:snapweb:0.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:snapweb:snapweb:0.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:snapweb:snapweb:0.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:snapweb:snapweb:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:snapweb:snapweb:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:snapweb:snapweb:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:snapweb:snapweb:0.9:*:*:*:*:*:*:*

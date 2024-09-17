@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:canonical:ubuntu_cobbler:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:ubuntu_cobbler:2.2.2:*:*:*:*:*:*:*

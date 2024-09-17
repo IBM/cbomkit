@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/rs/node-netmask
+  - pkg:maven/org.webjars.npm/netmask
+  - pkg:npm/netmask
+  - pkg:rpm/fedora/nodejs-netmask

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/gnupg
+  - pkg:deb/ubuntu/gnupg
+  - pkg:github/gpg/gnupg
+  - pkg:gnupg/gnupg

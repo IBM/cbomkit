@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/expat
+  - pkg:deb/ubuntu/expat
+  - pkg:github/libexpat/libexpat
+  - pkg:rpm/centos/expat
+  - pkg:rpm/fedora/expat
+  - pkg:Rpm/opensuse/expat
+  - pkg:sourceforge/expat

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:marcus_krause:t3sec_saltedpw:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:marcus_krause:t3sec_saltedpw:0.2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:marcus_krause:t3sec_saltedpw:0.2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:marcus_krause:t3sec_saltedpw:0.2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:marcus_krause:t3sec_saltedpw:0.2.9:*:*:*:*:*:*:*

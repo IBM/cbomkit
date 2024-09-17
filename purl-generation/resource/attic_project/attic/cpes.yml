@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:attic_project:attic:0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:attic_project:attic:0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:attic_project:attic:0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:attic_project:attic:0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:attic_project:attic:0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:attic_project:attic:0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:attic_project:attic:0.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:attic_project:attic:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:attic_project:attic:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:attic_project:attic:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:attic_project:attic:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:attic_project:attic:0.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:attic_project:attic:0.9:*:*:*:*:*:*:*

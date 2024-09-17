@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bestwebsoft/htaccess-wordpress-plugin
+  - pkg:github/wp-plugins/htaccess
+  - pkg:github/wpplugins/htaccess

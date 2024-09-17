@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:inria:ocaml:1.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:inria:ocaml:2.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:inria:ocaml:2.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:inria:ocaml:2.99:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:inria:ocaml:3.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:inria:ocaml:3.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:inria:ocaml:3.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:inria:ocaml:3.03:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:inria:ocaml:3.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:inria:ocaml:3.05:beta:*:*:*:*:*:*
+  - cpe:2.3:a:inria:ocaml:3.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:inria:ocaml:3.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:inria:ocaml:3.07:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:inria:ocaml:3.07:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:inria:ocaml:3.07:pl2:*:*:*:*:*:*
+  - cpe:2.3:a:inria:ocaml:3.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:inria:ocaml:3.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:inria:ocaml:3.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:inria:ocaml:3.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:inria:ocaml:3.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:inria:ocaml:3.12.1:*:*:*:*:*:*:*

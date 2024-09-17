@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ai/nanoid
+  - pkg:maven/org.webjars.npm/nanoid
+  - pkg:npm/nanoid

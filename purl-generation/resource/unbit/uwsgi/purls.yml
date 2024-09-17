@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/uwsgi
+  - pkg:deb/ubuntu/uwsgi
+  - pkg:github/unbit/uwsgi
+  - pkg:rpm/fedora/uwsgi
+  - pkg:rpm/opensuse/uwsgi

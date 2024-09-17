@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/libsdl-org/sdl
+  - pkg:golang/github.com/libsdl-org/sdl

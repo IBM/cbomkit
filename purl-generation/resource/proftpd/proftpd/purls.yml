@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/proftpd-basic
+  - pkg:deb/debian/proftpd-core
+  - pkg:deb/ubuntu/proftpd-basic
+  - pkg:deb/ubuntu/proftpd-core
+  - pkg:github/proftpd/proftpd
+  - pkg:rpm/fedora/proftpd
+  - pkg:rpm/opensuse/proftpd

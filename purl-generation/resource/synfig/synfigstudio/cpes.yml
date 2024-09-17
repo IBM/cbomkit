@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:synfig:synfigstudio:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:synfig:synfigstudio:0.61.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:synfig:synfigstudio:0.61.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:synfig:synfigstudio:0.61.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:synfig:synfigstudio:0.61.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:synfig:synfigstudio:0.61.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:synfig:synfigstudio:0.61.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:synfig:synfigstudio:0.61.07:rc1:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bmeck/node-cookiejar
+  - pkg:npm/cookiejar

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:simple_download_monitor_project:simple_download_monitor:3.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_download_monitor_project:simple_download_monitor:*:*:*:*:*:wordpress:*:*

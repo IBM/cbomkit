@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/ngircd/ngircd
+  - pkg:deb/debian/ngircd
+  - pkg:deb/ubuntu/ngircd
+  - pkg:github/ngircd/ngircd
+  - pkg:rpm/fedora/ngircd
+  - pkg:rpm/opensuse/ngircd
+  - pkg:sourceforge/ngircd

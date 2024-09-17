@@ -1,0 +1,3 @@
+purls:
+  - pkg:gitee/getrebuild/rebuild
+  - pkg:github/getrebuild/rebuild

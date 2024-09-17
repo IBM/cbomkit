@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/rohankumardubey/stackrox
+  - pkg:github/stackrox/stackrox

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/dojo
+  - pkg:deb/ubuntu/dojo
+  - pkg:github/dojo/framework
+  - pkg:maven/org.dojotoolkit/dojo
+  - pkg:npm/dojo
+  - pkg:nuget/dojo
+  - pkg:rpm/fedora/dojo
+  - pkg:rpm/opensuse/dojo

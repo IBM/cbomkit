@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:jenkins:echarts_api:4.4.0-1:beta1:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:echarts_api:4.4.0-2:beta1:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:echarts_api:4.4.0-3:beta1:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:echarts_api:4.4.0-4:beta1:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:echarts_api:4.4.0-5:beta1:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:echarts_api:4.4.0-6:beta1:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:echarts_api:4.4.0-7:beta1:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:echarts_api:4.4.0-8:beta1:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:echarts_api:4.6.0-10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:echarts_api:4.6.0-1:beta1:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:echarts_api:4.6.0-2:beta1:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:echarts_api:4.6.0-3:beta1:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:echarts_api:4.6.0-4:beta1:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:echarts_api:4.6.0-5:beta1:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:echarts_api:4.6.0-7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:echarts_api:4.6.0-8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:echarts_api:4.6.0-9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:echarts_api:4.7.0-1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:echarts_api:4.7.0-2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:echarts_api:4.7.0-3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:echarts_api:4.7.0-4:*:*:*:*:jenkins:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/freedesktop/poppler
+  - pkg:rpm/fedora/poppler
+  - pkg:rpm/opensuse/poppler

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/netzpirat/haml-coffee
+  - pkg:npm/haml-coffee

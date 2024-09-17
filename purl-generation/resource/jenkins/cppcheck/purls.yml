@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/cppcheck-plugin
+  - pkg:maven/com.thalesgroup.jenkins-ci.plugins/cppcheck

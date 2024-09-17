@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/node-chart.js
+  - pkg:deb/ubuntu/node-chart.js
+  - pkg:github/chartjs/chart.js
+  - pkg:maven/org.webjars.npm/chart.js
+  - pkg:npm/chart.js
+  - pkg:nuget/Chart.js
+  - pkg:sourceforge/chartjs.mirror

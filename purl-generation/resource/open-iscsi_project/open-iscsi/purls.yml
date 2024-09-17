@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/solidfire/open-iscsi
+  - pkg:deb/debian/open-iscsi
+  - pkg:deb/ubuntu/open-iscsi
+  - pkg:github/open-iscsi/open-iscsi
+  - pkg:rpm/opensuse/open-iscsi

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bem-archive/image-optim
+  - pkg:npm/imageoptim

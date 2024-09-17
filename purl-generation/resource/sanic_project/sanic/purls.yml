@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/sanic-org/sanic
+  - pkg:pypi/sanic
+  - pkg:rpm/opensuse/python-sanic
+  - pkg:sourceforge/sanic.mirror

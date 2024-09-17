@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/fast-cpp-csv-parser
+  - pkg:deb/ubuntu/fast-cpp-csv-parser
+  - pkg:github/ben-strasser/fast-cpp-csv-parser

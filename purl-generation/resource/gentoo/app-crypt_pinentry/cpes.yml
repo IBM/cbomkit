@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:gentoo:app-crypt_pinentry:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:app-crypt_pinentry:0.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:app-crypt_pinentry:0.7.2:r1:*:*:*:*:*:*

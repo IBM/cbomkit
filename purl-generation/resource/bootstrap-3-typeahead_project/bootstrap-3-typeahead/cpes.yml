@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:bootstrap-3-typeahead_project:bootstrap-3-typeahead:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:bootstrap-3-typeahead_project:bootstrap-3-typeahead:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:bootstrap-3-typeahead_project:bootstrap-3-typeahead:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:bootstrap-3-typeahead_project:bootstrap-3-typeahead:3.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:bootstrap-3-typeahead_project:bootstrap-3-typeahead:3.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:bootstrap-3-typeahead_project:bootstrap-3-typeahead:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bootstrap-3-typeahead_project:bootstrap-3-typeahead:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bootstrap-3-typeahead_project:bootstrap-3-typeahead:4.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:bootstrap-3-typeahead_project:bootstrap-3-typeahead:4.0.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:bootstrap-3-typeahead_project:bootstrap-3-typeahead:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bootstrap-3-typeahead_project:bootstrap-3-typeahead:4.0.2:*:*:*:*:*:*:*

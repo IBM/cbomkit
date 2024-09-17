@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ipmctl
+  - pkg:deb/ubuntu/ipmctl
+  - pkg:github/intel/ipmctl
+  - pkg:rpm/fedora/ipmctl
+  - pkg:rpm/opensuse/ipmctl

@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:agiletestware:pangolin_connector_for_testrail:2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:agiletestware:pangolin_connector_for_testrail:2.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:agiletestware:pangolin_connector_for_testrail:2.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:agiletestware:pangolin_connector_for_testrail:2.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:agiletestware:pangolin_connector_for_testrail:2.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:agiletestware:pangolin_connector_for_testrail:2.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:agiletestware:pangolin_connector_for_testrail:2.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:agiletestware:pangolin_connector_for_testrail:-:*:*:*:*:jenkins:*:*

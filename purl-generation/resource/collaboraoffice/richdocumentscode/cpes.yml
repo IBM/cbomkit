@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:collaboraoffice:richdocumentscode:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:collaboraoffice:richdocumentscode:23.5.5:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:collaboraoffice:richdocumentscode:23.5.601:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:collaboraoffice:richdocumentscode:*:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:collaboraoffice:richdocumentscode:-:*:*:*:*:nextcloud:*:*

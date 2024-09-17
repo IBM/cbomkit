@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/evolution
+  - pkg:deb/ubuntu/evolution
+  - pkg:github/gnome/evolution
+  - pkg:gitlab/redhat/evolution
+  - pkg:rpm/fedora/evolution
+  - pkg:rpm/opensuse/evolution

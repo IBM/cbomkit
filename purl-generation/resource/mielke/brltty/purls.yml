@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/brltty/brltty
+  - pkg:deb/debian/brltty
+  - pkg:deb/ubuntu/brltty
+  - pkg:github/brltty/brltty
+  - pkg:gitlab/redhat/brltty
+  - pkg:rpm/fedora/brltty
+  - pkg:rpm/opensuse/brltty

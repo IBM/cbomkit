@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/ubuntu/python-reportlab
+  - pkg:github/distrotech/reportlab
+  - pkg:github/mrbitbucket/reportlab-mirror
+  - pkg:pypi/reportlab
+  - pkg:rpm/fedora/python-reportlab
+  - pkg:rpm/opensuse/python-reportlab
+  - pkg:sourceforge/reportlab

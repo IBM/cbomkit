@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ankane/pgsync
+  - pkg:golang/github.com/ankane/pgsync

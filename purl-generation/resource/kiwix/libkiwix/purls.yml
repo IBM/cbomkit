@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/libkiwix
+  - pkg:deb/ubuntu/libkiwix
+  - pkg:github/kiwix/libkiwix
+  - pkg:rpm/fedora/libkiwix

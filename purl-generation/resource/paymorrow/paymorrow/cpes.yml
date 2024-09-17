@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:paymorrow:paymorrow:1.0.0:*:*:*:*:oxid_eshop:*:*
+  - cpe:2.3:a:paymorrow:paymorrow:1.0.2:rc1:*:*:*:oxid_eshop:*:*
+  - cpe:2.3:a:paymorrow:paymorrow:2.0.0:*:*:*:*:oxid_eshop:*:*

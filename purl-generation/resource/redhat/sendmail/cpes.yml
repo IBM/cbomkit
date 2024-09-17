@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:redhat:sendmail:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:sendmail:8.12.5-7:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:sendmail:8.12.5-7:*:i386:*:*:*:*:*
+  - cpe:2.3:a:redhat:sendmail:8.12.5-7:*:i386_cf:*:*:*:*:*
+  - cpe:2.3:a:redhat:sendmail:8.12.5-7:*:i386_dev:*:*:*:*:*
+  - cpe:2.3:a:redhat:sendmail:8.12.5-7:*:i386_doc:*:*:*:*:*
+  - cpe:2.3:a:redhat:sendmail:8.12.8-4:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:sendmail:8.12.8-4:*:i386:*:*:*:*:*
+  - cpe:2.3:a:redhat:sendmail:8.12.8-4:*:i386_cf:*:*:*:*:*
+  - cpe:2.3:a:redhat:sendmail:8.12.8-4:*:i386_dev:*:*:*:*:*
+  - cpe:2.3:a:redhat:sendmail:8.12.8-4:*:i386_doc:*:*:*:*:*

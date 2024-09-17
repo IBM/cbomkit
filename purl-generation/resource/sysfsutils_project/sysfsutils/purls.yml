@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/sysfsutils
+  - pkg:deb/ubuntu/sysfsutils
+  - pkg:github/distrotech/sysfsutils
+  - pkg:github/linux-ras/sysfsutils
+  - pkg:github/myarchsource/sysfsutils
+  - pkg:gitlab/redhat/sysfsutils
+  - pkg:rpm/centos/sysfsutils
+  - pkg:rpm/fedora/sysfsutils
+  - pkg:rpm/opensuse/sysfsutils
+  - pkg:sourceforge/linux-diag

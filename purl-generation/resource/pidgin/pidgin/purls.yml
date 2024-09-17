@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/pidgin
+  - pkg:deb/debian/pidgin
+  - pkg:github/pidgin/pidgin
+  - pkg:imfreedom/pidgin/pidgin
+  - pkg:rpm/opensuse/pidgin
+  - 'pkg:sourceforge/pidgin '

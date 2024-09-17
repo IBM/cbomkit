@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/kitty
+  - pkg:deb/ubuntu/kitty
+  - pkg:github/kovidgoyal/kitty
+  - pkg:rpm/fedora/kitty
+  - pkg:rpm/opensuse/kitty
+  - pkg:sourceforge/kitty.mirror

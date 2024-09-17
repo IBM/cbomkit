@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:formforall:formforall:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:formforall:formforall:*:*:*:*:*:wordpress:*:*

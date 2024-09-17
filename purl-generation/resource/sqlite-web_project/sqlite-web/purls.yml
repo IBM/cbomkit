@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/coleifer/sqlite-web
+  - pkg:github/coleifer/sqlite-web
+  - pkg:pypi/sqlite-web

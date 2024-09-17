@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:openstack:python-muranoclient:0.7.2:*:*:*:*:*:*:*

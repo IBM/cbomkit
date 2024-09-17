@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:jenkins:elastest:0.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:elastest:0.9.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:elastest:1.0.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:elastest:1.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:elastest:1.1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:elastest:1.2.1:*:*:*:*:jenkins:*:*

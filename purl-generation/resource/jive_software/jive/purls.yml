@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jivesoftware/jive-sdk
+  - pkg:npm/jive-sdk

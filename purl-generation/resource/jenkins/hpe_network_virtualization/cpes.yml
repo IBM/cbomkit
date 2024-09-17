@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:jenkins:hpe_network_virtualization:1.0:*:*:*:*:jenkins:*:*

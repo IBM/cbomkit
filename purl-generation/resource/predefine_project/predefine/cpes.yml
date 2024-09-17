@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:predefine_project:predefine:0.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:predefine_project:predefine:0.1.2:*:*:*:*:node.js:*:*

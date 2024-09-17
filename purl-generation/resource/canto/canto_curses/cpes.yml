@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:canto:canto_curses:0.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:canto:canto_curses:0.9.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:canto:canto_curses:0.9.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:canto:canto_curses:0.9.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:canto:canto_curses:*:alpha5:*:*:*:*:*:*

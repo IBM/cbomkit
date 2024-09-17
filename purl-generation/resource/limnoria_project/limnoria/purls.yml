@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/wolfy1339/limnoria
+  - pkg:deb/debian/limnoria
+  - pkg:deb/ubuntu/limnoria
+  - pkg:github/progval/limnoria
+  - pkg:pypi/limnoria
+  - pkg:rpm/fedora/limnoria
+  - pkg:rpm/opensuse/python-limnoria

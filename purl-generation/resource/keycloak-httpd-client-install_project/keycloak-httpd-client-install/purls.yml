@@ -1,0 +1,8 @@
+purls:
+  - pkg:github/jdennis/keycloak-httpd-client-install
+  - pkg:github/latchset/keycloak-httpd-client-install
+  - pkg:gitlab/redhat/keycloak-httpd-client-install
+  - pkg:pypi/keycloak-httpd-client-install
+  - pkg:rpm/centos/keycloak-httpd-client-install
+  - pkg:rpm/fedora/keycloak-httpd-client-install
+  - pkg:rpm/opensuse/keycloak-httpd-client-install

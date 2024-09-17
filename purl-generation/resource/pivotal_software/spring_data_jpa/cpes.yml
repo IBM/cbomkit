@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:pivotal_software:spring_data_jpa:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal_software:spring_data_jpa:1.10.2:*:*:*:*:*:*:*

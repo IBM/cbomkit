@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:osgeo:shapelib:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:osgeo:shapelib:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:osgeo:shapelib:1.5.0:*:*:*:*:*:*:*

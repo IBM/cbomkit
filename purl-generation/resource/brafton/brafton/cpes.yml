@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:brafton:brafton:3.3.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brafton:brafton:3.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brafton:brafton:3.4.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brafton:brafton:3.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brafton:brafton:3.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brafton:brafton:3.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brafton:brafton:3.4.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brafton:brafton:3.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brafton:brafton:3.4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brafton:brafton:-:*:*:*:*:wordpress:*:*

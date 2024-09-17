@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/kaffeine
+  - pkg:deb/ubuntu/kaffeine
+  - pkg:docker/maurochehab/kaffeine
+  - pkg:github/kde/kaffeine
+  - pkg:rpm/opensuse/kaffeine
+  - pkg:sourceforge/kaffeine

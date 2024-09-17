@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:tippingpoint:tipping_point:1200:*:*:*:*:*:*:*
+  - cpe:2.3:a:tippingpoint:tipping_point:1200e:*:*:*:*:*:*:*
+  - cpe:2.3:a:tippingpoint:tipping_point:200:*:*:*:*:*:*:*
+  - cpe:2.3:a:tippingpoint:tipping_point:200e:*:*:*:*:*:*:*
+  - cpe:2.3:a:tippingpoint:tipping_point:2400e:*:*:*:*:*:*:*
+  - cpe:2.3:a:tippingpoint:tipping_point:400:*:*:*:*:*:*:*
+  - cpe:2.3:a:tippingpoint:tipping_point:50:*:*:*:*:*:*:*
+  - cpe:2.3:a:tippingpoint:tipping_point:5000e:*:*:*:*:*:*:*
+  - cpe:2.3:a:tippingpoint:tipping_point:600e:*:*:*:*:*:*:*
+  - cpe:2.3:a:tippingpoint:tipping_point:sms:*:*:*:*:*:*:*
+  - cpe:2.3:a:tippingpoint:tipping_point:x505:*:*:*:*:*:*:*
+  - cpe:2.3:a:tippingpoint:tipping_point:x506:*:*:*:*:*:*:*
+  - cpe:2.3:a:tippingpoint:tipping_point:zpha:*:*:*:*:*:*:*

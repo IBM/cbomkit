@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/kubernetes/kubernetes
+  - pkg:googlesource/kubernetes
+  - pkg:rpm/fedora/kubernetes
+  - pkg:rpm/opensuse/kubernetes
+  - pkg:sourceforge/kubernetes.mirror

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/weston
+  - pkg:deb/ubuntu/weston
+  - pkg:github/wayland-project/weston
+  - pkg:rpm/fedora/weston
+  - pkg:rpm/opensuse/weston

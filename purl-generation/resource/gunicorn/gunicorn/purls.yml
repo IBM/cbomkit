@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/gunicorn
+  - pkg:deb/ubuntu/gunicorn
+  - pkg:github/benoitc/gunicorn
+  - pkg:pypi/gunicorn
+  - pkg:rpm/fedora/python-gunicorn
+  - pkg:rpm/opensuse/python-gunicorn
+  - pkg:sourceforge/gunicorn.mirror

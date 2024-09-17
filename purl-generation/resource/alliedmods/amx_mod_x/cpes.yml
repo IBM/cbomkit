@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:alliedmods:amx_mod_x:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:0.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:0.20:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:0.20:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:0.20:rc7:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:1.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:1.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:1.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:1.55:*:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:1.60:*:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:1.70:*:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:1.71:*:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:1.75:-:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:1.75:a:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:1.76:-:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:1.76:a:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:1.76:b:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:1.76:c:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:1.76:d:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:1.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:alliedmods:amx_mod_x:1.8.2:*:*:*:*:*:*:*

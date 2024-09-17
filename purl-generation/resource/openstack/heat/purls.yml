@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/openstackhelm/heat
+  - pkg:github/openstack/heat
+  - pkg:npm/openstack-heat-wrapper
+  - pkg:pypi/openstack-heat
+  - pkg:rpm/opensuse/openstack-heat

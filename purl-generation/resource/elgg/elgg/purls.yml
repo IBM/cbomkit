@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/elgg/elgg
+  - pkg:rpm/opensuse/elgg
+  - pkg:sourceforge/elgg

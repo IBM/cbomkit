@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tinacms/tinacms
+  - pkg:npm/tinacms

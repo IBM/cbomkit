@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-getobject
+  - pkg:deb/ubuntu/node-getobject
+  - pkg:github/cowboy/node-getobject
+  - pkg:maven/org.webjars.npm/getobject
+  - pkg:npm/getobject
+  - pkg:rpm/fedora/nodejs-getobject

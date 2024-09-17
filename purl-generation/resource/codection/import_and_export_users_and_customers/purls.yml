@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/projectestac/wordpress-import-users-from-csv-with-meta
+  - pkg:github/wp-plugins/import-users-from-csv-with-meta
+  - pkg:github/wpplugins/import-users-from-csv-with-meta

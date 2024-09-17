@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/aptimumio/lightsaml
+  - pkg:bitbucket/bluecomgroup/lightsaml
+  - pkg:github/lightsaml/lightsaml

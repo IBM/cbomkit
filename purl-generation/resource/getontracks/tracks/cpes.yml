@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:getontracks:tracks:1.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:getontracks:tracks:2.0:devel:*:*:*:*:*:*
+  - cpe:2.3:a:getontracks:tracks:2.0:rc2:*:*:*:*:*:*

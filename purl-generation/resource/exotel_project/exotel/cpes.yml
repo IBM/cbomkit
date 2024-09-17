@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:exotel_project:exotel:0.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:exotel_project:exotel:0.1.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:exotel_project:exotel:0.1.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:exotel_project:exotel:0.1.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:exotel_project:exotel:0.1.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:exotel_project:exotel:0.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:exotel_project:exotel:0.1.6:*:*:*:*:python:*:*

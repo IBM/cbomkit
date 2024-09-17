@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jenkins:build_notifications:1.4.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:build_notifications:1.4.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:build_notifications:1.5.0:*:*:*:*:jenkins:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/ebfe/rust-blake2
+  - pkg:github/rustcrypto/hashes
+  - pkg:rpm/fedora/rust-blake2
+  - pkg:rpm/opensuse/rust-blake2

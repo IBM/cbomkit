@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/darkfoxprime/python-easy_xml
+  - pkg:pypi/easy-xml

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/lua/lua
+  - pkg:rpm/centos/lua
+  - pkg:rpm/fedora/lua

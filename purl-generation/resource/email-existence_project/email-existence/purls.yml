@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/nmanousos/email-existence
+  - pkg:npm/%40stationf/email-existence
+  - pkg:npm/email-existence

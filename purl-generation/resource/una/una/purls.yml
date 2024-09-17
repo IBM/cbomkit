@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/unaio/una
+  - pkg:github/unaio/una

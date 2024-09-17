@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:libgcrypt20_project:libgcrypt20:1.6.3-2\+deb8u4:*:*:*:*:*:*:*
+  - cpe:2.3:a:libgcrypt20_project:libgcrypt20:1.7.6-2\+deb9u3:*:*:*:*:*:*:*
+  - cpe:2.3:a:libgcrypt20_project:libgcrypt20:1.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libgcrypt20_project:libgcrypt20:1.8.4-5:*:*:*:*:*:*:*

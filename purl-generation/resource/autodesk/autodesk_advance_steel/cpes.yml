@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:autodesk:autodesk_advance_steel:2019:*:*:*:*:*:*:*
+  - cpe:2.3:a:autodesk:autodesk_advance_steel:2020:*:*:*:*:*:*:*
+  - cpe:2.3:a:autodesk:autodesk_advance_steel:2021:*:*:*:*:*:*:*
+  - cpe:2.3:a:autodesk:autodesk_advance_steel:2022:*:*:*:*:*:*:*

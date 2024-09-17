@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:jython_project:jython:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jython_project:jython:2.7.0:*:*:*:*:*:*:*

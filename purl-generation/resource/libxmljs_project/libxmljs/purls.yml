@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/libxmljs/libxmljs
+  - pkg:npm/libxmljs
+  - pkg:rpm/fedora/nodejs-libxmljs

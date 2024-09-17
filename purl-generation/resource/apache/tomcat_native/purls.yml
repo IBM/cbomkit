@@ -1,0 +1,3 @@
+purls:
+  - pkg:apache/tomcat
+  - pkg:github/apache/tomcat-native

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-bindata
+  - pkg:deb/ubuntu/ruby-bindata
+  - pkg:gem/bindata
+  - pkg:github/dmendel/bindata
+  - pkg:rpm/opensuse/rubygem-bindata

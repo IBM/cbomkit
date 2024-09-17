@@ -1,0 +1,12 @@
+purls:
+  - pkg:deb/debian/cpio
+  - pkg:deb/ubuntu/cpio
+  - pkg:github/distrotech/cpio
+  - pkg:github/gitgnu/gnu_cpio
+  - pkg:github/sailfishos-mirror/cpio
+  - pkg:github/sshedi/cpio
+  - pkg:gitlab/redhat/cpio
+  - pkg:gnu/cpio
+  - pkg:rpm/centos/cpio
+  - pkg:rpm/fedora/cpio
+  - pkg:rpm/opensuse/cpio

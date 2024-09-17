@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/docker-dev
+  - pkg:github/docker/engine
+  - pkg:github/moby/moby
+  - pkg:sourceforge/moby.mirror

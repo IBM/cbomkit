@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/pyupio/safety
+  - pkg:pypi/safety
+  - pkg:rpm/opensuse/python-safety

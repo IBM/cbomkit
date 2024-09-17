@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/apostrophecms/sanitize-html
+  - pkg:maven/org.webjars.npm/sanitize-html
+  - pkg:npm/sanitize-html

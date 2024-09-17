@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/jxplorer
+  - pkg:deb/ubuntu/jxplorer
+  - pkg:github/pegacat/jxplorer
+  - pkg:rpm/opensuse/jxplorer
+  - pkg:sourceforge/jxplorer

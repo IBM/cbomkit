@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/glance
+  - pkg:deb/ubuntu/glance
+  - pkg:github/openstack/glance
+  - pkg:pypi/glance
+  - pkg:rpm/opensuse/openstack-glance

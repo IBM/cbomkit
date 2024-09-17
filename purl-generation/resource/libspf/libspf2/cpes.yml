@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:libspf:libspf2:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:libspf:libspf2:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libspf:libspf2:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:libspf:libspf2:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:libspf:libspf2:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libspf:libspf2:1.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:libspf:libspf2:1.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:libspf:libspf2:1.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:libspf:libspf2:1.2.6:*:*:*:*:*:*:*

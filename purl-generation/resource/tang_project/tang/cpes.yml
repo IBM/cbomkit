@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:tang_project:tang:10:*:*:*:*:*:*:*
+  - cpe:2.3:a:tang_project:tang:11:*:*:*:*:*:*:*
+  - cpe:2.3:a:tang_project:tang:8:*:*:*:*:*:*:*
+  - cpe:2.3:a:tang_project:tang:9:*:*:*:*:*:*:*

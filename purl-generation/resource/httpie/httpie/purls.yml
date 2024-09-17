@@ -1,0 +1,10 @@
+purls:
+  - pkg:bitbucket/ratan/httpie
+  - pkg:deb/debian/httpie
+  - pkg:deb/ubuntu/httpie
+  - pkg:docker/clue/httpie
+  - pkg:github/httpie/httpie
+  - pkg:pypi/httpie
+  - pkg:rpm/fedora/httpie
+  - pkg:rpm/opensuse/httpie
+  - pkg:sourceforge/httpie.mirror

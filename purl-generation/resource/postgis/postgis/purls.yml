@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/postgis
+  - pkg:deb/ubuntu/postgis
+  - pkg:docker/postgis/postgis
+  - pkg:github/postgis/docker-postgis
+  - pkg:github/postgis/postgis
+  - pkg:github/postgis/postgis-java
+  - pkg:rpm/fedora/postgis

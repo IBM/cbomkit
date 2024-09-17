@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/davedoesdev/python-jwt
+  - pkg:pypi/python-jwt

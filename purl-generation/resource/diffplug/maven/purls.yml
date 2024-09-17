@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/diffplug/spotless
+  - pkg:maven/com.diffplug.spotless/spotless-maven-plugin

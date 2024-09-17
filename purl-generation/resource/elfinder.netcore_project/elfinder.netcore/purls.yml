@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gordon-matt/elfinder.netcore
+  - pkg:nuget/elFinder.NetCore

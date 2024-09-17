@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:ordered-float_project:ordered-float:0.2.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:ordered-float_project:ordered-float:0.2.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:ordered-float_project:ordered-float:0.4.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:ordered-float_project:ordered-float:0.5.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:ordered-float_project:ordered-float:0.5.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:ordered-float_project:ordered-float:0.5.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:ordered-float_project:ordered-float:1.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:ordered-float_project:ordered-float:1.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:ordered-float_project:ordered-float:1.0.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:ordered-float_project:ordered-float:1.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:ordered-float_project:ordered-float:1.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:ordered-float_project:ordered-float:2.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:ordered-float_project:ordered-float:2.0.1:*:*:*:*:rust:*:*

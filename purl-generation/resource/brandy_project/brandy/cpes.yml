@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:brandy_project:brandy:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:brandy_project:brandy:1.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:brandy_project:brandy:1.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:brandy_project:brandy:1.21:*:*:*:*:*:*:*

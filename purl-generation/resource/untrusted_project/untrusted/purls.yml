@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-untrusted
+  - pkg:deb/ubuntu/rust-untrusted
+  - pkg:github/briansmith/untrusted
+  - pkg:rpm/fedora/rust-untrusted
+  - pkg:rpm/opensuse/rust-untrusted

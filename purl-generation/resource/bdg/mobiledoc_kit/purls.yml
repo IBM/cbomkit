@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bustle/mobiledoc-kit
+  - pkg:maven/org.webjars.npm/mobiledoc-kit
+  - pkg:npm/mobiledoc-kit

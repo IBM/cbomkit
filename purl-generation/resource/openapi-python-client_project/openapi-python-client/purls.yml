@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openapi-generators/openapi-python-client
+  - pkg:pypi/openapi-python-client

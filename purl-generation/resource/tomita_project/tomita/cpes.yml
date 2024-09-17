@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:tomita_project:tomita:0.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:tomita_project:tomita:0.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:tomita_project:tomita:-:*:*:*:*:node.js:*:*

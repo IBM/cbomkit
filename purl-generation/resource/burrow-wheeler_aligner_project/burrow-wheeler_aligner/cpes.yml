@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.5.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.5.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.17:-:*:*:*:*:*:*
+  - cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.17:r1198:*:*:*:*:*:*
+  - cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:0.7.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:burrow-wheeler_aligner_project:burrow-wheeler_aligner:2019-01-23:*:*:*:*:*:*:*

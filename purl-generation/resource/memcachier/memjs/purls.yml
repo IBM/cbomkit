@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/memcachier/memjs
+  - pkg:npm/memjs

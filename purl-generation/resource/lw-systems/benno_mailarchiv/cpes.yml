@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:lw-systems:benno_mailarchiv:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:lw-systems:benno_mailarchiv:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:lw-systems:benno_mailarchiv:2.10.1:*:*:*:*:*:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/checkinstall
+  - pkg:deb/ubuntu/checkinstall
+  - pkg:github/ruxkor/checkinstall
+  - pkg:rpm/opensuse/checkinstall

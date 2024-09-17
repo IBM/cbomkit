@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:ttrrs-auth-ldap_project:ttrrs-auth-ldap:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:ttrrs-auth-ldap_project:ttrrs-auth-ldap:0.5:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:ttrrs-auth-ldap_project:ttrrs-auth-ldap:0.5:rc2:*:*:*:*:*:*

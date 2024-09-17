@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/opencryptoki
+  - pkg:deb/ubuntu/opencryptoki
+  - pkg:github/opencryptoki/opencryptoki
+  - pkg:rpm/centos/opencryptoki
+  - pkg:rpm/fedora/opencryptoki
+  - pkg:rpm/opensuse/opencryptoki
+  - pkg:sourceforge/opencryptoki

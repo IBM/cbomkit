@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:redhat:kie_workbench:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:kie_workbench:6.0.1:*:*:*:*:*:*:*

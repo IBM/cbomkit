@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/erikdubbelboer/phpredisadmin
+  - pkg:github/erikdubbelboer/phpredisadmin

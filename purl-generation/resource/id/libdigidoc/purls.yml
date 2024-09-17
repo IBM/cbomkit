@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/open-eid/libdigidocpp
+  - pkg:rpm/fedora/libdigidocpp
+  - pkg:rpm/opensuse/libdigidocpp

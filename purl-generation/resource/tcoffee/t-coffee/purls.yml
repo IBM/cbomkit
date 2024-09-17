@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/t-coffee
+  - pkg:deb/ubuntu/t-coffee
+  - pkg:github/cbcrg/tcoffee

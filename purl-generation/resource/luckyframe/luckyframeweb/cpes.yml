@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:luckyframe:luckyframeweb:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:luckyframe:luckyframeweb:3.5:*:*:*:*:luckyframe:*:*

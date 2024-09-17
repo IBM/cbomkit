@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/pyro
+  - pkg:deb/ubuntu/pyro
+  - pkg:pypi/pyro
+  - pkg:pypi/pyro4
+  - pkg:rpm/fedora/python-pyro
+  - pkg:rpm/opensuse/python-pyro

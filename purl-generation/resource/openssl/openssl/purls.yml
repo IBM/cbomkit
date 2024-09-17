@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/openssl
+  - pkg:deb/ubuntu/openssl
+  - pkg:github/openssl/openssl
+  - pkg:rpm/centos/openssl
+  - pkg:rpm/fedora/openssl
+  - pkg:rpm/opensuse/openssl

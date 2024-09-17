@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/magynhard/curly-bracket-parser
+  - pkg:npm/curly-bracket-parser

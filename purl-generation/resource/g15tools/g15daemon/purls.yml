@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/g15daemon
+  - pkg:deb/ubuntu/g15daemon
+  - pkg:github/mike-petersen/g15daemon
+  - pkg:rpm/opensuse/g15daemon
+  - pkg:sourceforge/g15daemon

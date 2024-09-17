@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/mail
+  - pkg:github/mikel/mail
+  - pkg:golang/github.com/mikel/mail

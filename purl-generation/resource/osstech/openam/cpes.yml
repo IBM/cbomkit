@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:osstech:openam:11.0.0-112:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:osstech:openam:11.0.0:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:osstech:openam:13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:osstech:openam:13.0.0-120:*:*:*:*:*:*:*
+  - cpe:2.3:a:osstech:openam:13.0.0-73:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:osstech:openam:13.0.0:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:osstech:openam:14.0.0:*:*:*:consortium:*:*:*
+  - cpe:2.3:a:osstech:openam:9.5.5-41:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:osstech:openam:9.5.5:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:osstech:openam:*:*:*:*:consortium:*:*:*

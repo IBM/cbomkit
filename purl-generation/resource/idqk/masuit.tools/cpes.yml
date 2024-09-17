@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:idqk:masuit.tools:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:idqk:masuit.tools:-:*:*:*:*:*:*:*

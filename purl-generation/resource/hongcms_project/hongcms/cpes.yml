@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:hongcms_project:hongcms:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hongcms_project:hongcms:4.0.0:*:*:*:*:*:*:*

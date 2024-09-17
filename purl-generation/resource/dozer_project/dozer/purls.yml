@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/fuzails/dozer
+  - pkg:github/dozermapper/dozer
+  - pkg:sourceforge/dozer

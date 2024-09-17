@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/igiannis/svn_partial_release_mgr
+  - pkg:github/jenkinsci/svn-partial-release-mgr-plugin

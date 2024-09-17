@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/fwbuilder
+  - pkg:deb/ubuntu/fwbuilder
+  - pkg:github/fwbuilder/fwbuilder
+  - pkg:rpm/fedora/fwbuilder
+  - pkg:rpm/opensuse/fwbuilder
+  - pkg:sourceforge/fwbuilder

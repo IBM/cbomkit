@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:o:oracle:opensolaris:*:*:*:*:*:*:*:*
+  - cpe:2.3:o:oracle:opensolaris:10:*:*:*:*:*:*:*
+  - cpe:2.3:o:oracle:opensolaris:8:*:*:*:*:*:*:*
+  - cpe:2.3:o:oracle:opensolaris:9:*:*:*:*:*:*:*
+  - cpe:2.3:o:oracle:opensolaris:snv_01:*:*:*:*:*:*:*
+  - cpe:2.3:o:oracle:opensolaris:snv_103:*:*:*:*:*:*:*
+  - cpe:2.3:o:oracle:opensolaris:snv_119:*:*:*:*:*:*:*
+  - cpe:2.3:o:oracle:opensolaris:snv_128:*:*:*:*:*:*:*
+  - cpe:2.3:o:oracle:opensolaris:snv_134:*:*:*:*:*:*:*
+  - cpe:2.3:o:oracle:opensolaris:snv_98:*:*:*:*:*:*:*
+  - cpe:2.3:o:oracle:opensolaris:*:*:*:*:*:*:sparc:*

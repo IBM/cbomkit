@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:any_hostname_project:any_hostname:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:any_hostname_project:any_hostname:1.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:any_hostname_project:any_hostname:-:*:*:*:*:wordpress:*:*

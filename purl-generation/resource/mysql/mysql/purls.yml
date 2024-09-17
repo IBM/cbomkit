@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/mysql-8.0
+  - pkg:deb/ubuntu/mysql-8.0
+  - pkg:docker/mysql
+  - pkg:github/mysql/mysql-server
+  - pkg:rpm/centos/mysql-8.0

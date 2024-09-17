@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/couchbase/manifest
+  - pkg:github/membase/manifest

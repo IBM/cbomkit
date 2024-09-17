@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/fireline-plugin
+  - pkg:github/oggboy/firelinejenkinsplugin

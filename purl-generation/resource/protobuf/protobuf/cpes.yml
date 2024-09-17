@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:protobuf:protobuf:1.29.0:*:*:*:*:go:*:*

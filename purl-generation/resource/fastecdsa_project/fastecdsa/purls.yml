@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/antonkueltz/fastecdsa
+  - pkg:pypi/fastecdsa
+  - pkg:rpm/opensuse/python-fastecdsa

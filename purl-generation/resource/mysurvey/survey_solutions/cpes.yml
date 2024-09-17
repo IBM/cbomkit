@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:mysurvey:survey_solutions:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysurvey:survey_solutions:19.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysurvey:survey_solutions:21.01.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysurvey:survey_solutions:21.01.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysurvey:survey_solutions:21.01.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysurvey:survey_solutions:21.01.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysurvey:survey_solutions:21.01.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysurvey:survey_solutions:21.01.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysurvey:survey_solutions:21.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysurvey:survey_solutions:21.05.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysurvey:survey_solutions:21.05.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysurvey:survey_solutions:21.05.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysurvey:survey_solutions:21.05.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysurvey:survey_solutions:21.05.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysurvey:survey_solutions:21.05.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysurvey:survey_solutions:21.05.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysurvey:survey_solutions:21.05.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysurvey:survey_solutions:21.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysurvey:survey_solutions:21.06.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysurvey:survey_solutions:21.06.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysurvey:survey_solutions:21.06.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysurvey:survey_solutions:21.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysurvey:survey_solutions:21.09.1:*:*:*:*:*:*:*

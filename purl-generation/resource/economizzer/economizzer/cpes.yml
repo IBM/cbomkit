@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:economizzer:economizzer:0.9:beta1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:economizzer:economizzer:april_2023:*:*:*:*:wordpress:*:*

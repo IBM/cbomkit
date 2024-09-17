@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:daydream:daydream_bbs:2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:daydream:daydream_bbs:2.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:daydream:daydream_bbs:2.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:daydream:daydream_bbs:2.9:*:*:*:*:*:*:*

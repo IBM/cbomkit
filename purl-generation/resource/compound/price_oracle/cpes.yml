@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:compound:price_oracle:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:compound:price_oracle:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:compound:price_oracle:2.0:*:*:*:*:*:*:*

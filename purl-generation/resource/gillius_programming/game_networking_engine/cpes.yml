@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:gillius_programming:game_networking_engine:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gillius_programming:game_networking_engine:cvs_2006-07-23:*:*:*:*:*:*:*

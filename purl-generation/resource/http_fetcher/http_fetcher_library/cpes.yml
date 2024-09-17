@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:http_fetcher:http_fetcher_library:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:http_fetcher:http_fetcher_library:1.0.1:*:*:*:*:*:*:*

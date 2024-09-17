@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/cozy/cozy-stack
+  - pkg:github/cozy/cozy
+  - pkg:github/cozy/cozy-stack

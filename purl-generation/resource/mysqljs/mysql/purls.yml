@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-mysql
+  - pkg:deb/ubuntu/node-mysql
+  - pkg:github/mysqljs/mysql
+  - pkg:maven/org.webjars.npm/mysql
+  - pkg:npm/mysql
+  - pkg:rpm/fedora/nodejs-mysql

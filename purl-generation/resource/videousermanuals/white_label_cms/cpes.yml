@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:videousermanuals:white_label_cms:2.2.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:videousermanuals:white_label_cms:-:*:*:*:*:wordpress:*:*

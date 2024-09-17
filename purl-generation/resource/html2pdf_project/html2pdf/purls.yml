@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/eloomi/html2pdf
+  - pkg:github/spipu/html2pdf
+  - pkg:sourceforge/phphtml2pdf

@@ -1,0 +1,7 @@
+purls:
+  - pkg:docker/pypi/ovirt-engine-sdk-python
+  - pkg:github/mnecas/ovirt-engine-sdk-python
+  - pkg:github/ovirt/ovirt-engine-sdk
+  - pkg:github/ovirt/python-ovirt-engine-sdk4
+  - pkg:pypi/ovirt-engine-sdk-python
+  - pkg:rpm/fedora/ovirt-engine-sdk-python

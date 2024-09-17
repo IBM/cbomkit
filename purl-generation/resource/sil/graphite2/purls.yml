@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/graphite2
+  - pkg:deb/ubuntu/graphite2
+  - pkg:github/silnrsi/graphite
+  - pkg:rpm/fedora/graphite2
+  - pkg:rpm/opensuse/graphite2

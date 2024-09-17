@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:multicorewareinc:x265_high_efficiency_video_coding:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:multicorewareinc:x265_high_efficiency_video_coding:2.4:*:*:*:*:*:*:*

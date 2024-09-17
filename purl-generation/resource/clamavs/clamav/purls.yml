@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cisco-talos/clamav
+  - pkg:golang/github.com/cisco-talos/clamav

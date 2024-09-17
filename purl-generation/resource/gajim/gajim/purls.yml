@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/gajim
+  - pkg:deb/ubuntu/gajim
+  - pkg:github/gajim/gajim
+  - pkg:rpm/fedora/gajim
+  - pkg:rpm/opensuse/gajim

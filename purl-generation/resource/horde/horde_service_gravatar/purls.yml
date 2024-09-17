@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-service-gravatar
+  - pkg:deb/ubuntu/php-horde-service-gravatar
+  - pkg:github/horde/service_gravatar
+  - pkg:rpm/fedora/php-horde-horde-service-gravatar

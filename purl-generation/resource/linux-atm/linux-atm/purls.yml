@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/linux-atm
+  - pkg:deb/ubuntu/linux-atm
+  - pkg:github/ystk/debian-linux-atm
+  - pkg:rpm/fedora/linux-atm
+  - pkg:rpm/opensuse/linux-atm
+  - pkg:sourceforge/linux-atm

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:phpshare:phpshare:0.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpshare:phpshare:0.6_beta_1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpshare:phpshare:0.6_beta_2:*:*:*:*:*:*:*

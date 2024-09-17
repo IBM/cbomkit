@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/rave
+  - pkg:github/apache/rave
+  - pkg:maven/org.apache.rave/rave-core

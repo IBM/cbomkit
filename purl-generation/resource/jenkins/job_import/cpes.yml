@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:jenkins:job_import:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_import:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_import:1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_import:1.3.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_import:1.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_import:1.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_import:1.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_import:1.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_import:1.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_import:1.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_import:2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_import:2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_import:3.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_import:3.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:job_import:3.6:*:*:*:*:jenkins:*:*

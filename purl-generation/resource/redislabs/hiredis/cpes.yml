@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:redislabs:hiredis:0.14.0:*:*:*:*:*:*:*

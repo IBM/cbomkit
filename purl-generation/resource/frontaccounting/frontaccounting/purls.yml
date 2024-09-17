@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/apmuthu/frontaccounting
+  - pkg:github/frontaccountingerp/fa
+  - pkg:sourceforge/frontaccounting

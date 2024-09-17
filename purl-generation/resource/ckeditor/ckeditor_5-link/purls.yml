@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ckeditor/ckeditor5-link
+  - pkg:npm/%40ckeditor/ckeditor5-link

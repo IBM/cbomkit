@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:ajax_bootmodal_login_project:ajax_bootmodal_login:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ajax_bootmodal_login_project:ajax_bootmodal_login:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ajax_bootmodal_login_project:ajax_bootmodal_login:1.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ajax_bootmodal_login_project:ajax_bootmodal_login:1.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ajax_bootmodal_login_project:ajax_bootmodal_login:1.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ajax_bootmodal_login_project:ajax_bootmodal_login:1.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ajax_bootmodal_login_project:ajax_bootmodal_login:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ajax_bootmodal_login_project:ajax_bootmodal_login:1.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ajax_bootmodal_login_project:ajax_bootmodal_login:1.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ajax_bootmodal_login_project:ajax_bootmodal_login:1.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ajax_bootmodal_login_project:ajax_bootmodal_login:1.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ajax_bootmodal_login_project:ajax_bootmodal_login:1.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ajax_bootmodal_login_project:ajax_bootmodal_login:1.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ajax_bootmodal_login_project:ajax_bootmodal_login:1.4.3:*:*:*:*:wordpress:*:*

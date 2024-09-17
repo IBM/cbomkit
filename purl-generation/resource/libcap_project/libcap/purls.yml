@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libcap2
+  - pkg:deb/ubuntu/libcap2
+  - pkg:github/distrotech/libcap
+  - pkg:github/mhiramat/libcap
+  - pkg:gitlab/redhat/libcap
+  - pkg:rpm/centos/libcap
+  - pkg:rpm/fedora/libcap
+  - pkg:rpm/opensuse/libcap

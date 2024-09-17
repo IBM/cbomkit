@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/kildclient
+  - pkg:deb/ubuntu/kildclient
+  - pkg:sourceforge/kildclient

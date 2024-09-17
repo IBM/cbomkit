@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/volkerwiegand/serendipity
+  - pkg:github/s9y/serendipity
+  - pkg:sourceforge/php-blog

@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:ocsinventory-ng:ocs_inventory_ng:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocsinventory-ng:ocs_inventory_ng:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocsinventory-ng:ocs_inventory_ng:1.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocsinventory-ng:ocs_inventory_ng:1.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocsinventory-ng:ocs_inventory_ng:1.02.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocsinventory-ng:ocs_inventory_ng:1.02:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:ocsinventory-ng:ocs_inventory_ng:1.02:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:ocsinventory-ng:ocs_inventory_ng:1.02:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:ocsinventory-ng:ocs_inventory_ng:1.02:*:unix:*:*:*:*:*
+  - cpe:2.3:a:ocsinventory-ng:ocs_inventory_ng:1.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:ocsinventory-ng:ocs_inventory_ng:1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:ocsinventory-ng:ocs_inventory_ng:1.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:ocsinventory-ng:ocs_inventory_ng:1.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:ocsinventory-ng:ocs_inventory_ng:1.0:rc3-1:*:*:*:*:*:*

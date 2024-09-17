@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/yassl/yassl
+  - pkg:sourceforge/yassl

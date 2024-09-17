@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:codecov:nodejs_uploader:3.6.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:codecov:nodejs_uploader:*:*:*:*:*:node.js:*:*

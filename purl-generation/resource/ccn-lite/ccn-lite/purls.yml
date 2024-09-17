@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/cnuofbasel/ccn-lite
+  - pkg:github/cn-uofbasel/ccn-lite

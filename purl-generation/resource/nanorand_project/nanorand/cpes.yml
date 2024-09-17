@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:nanorand_project:nanorand:0.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:nanorand_project:nanorand:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:nanorand_project:nanorand:0.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:nanorand_project:nanorand:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:nanorand_project:nanorand:0.2.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:nanorand_project:nanorand:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:nanorand_project:nanorand:0.4.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:nanorand_project:nanorand:0.4.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:nanorand_project:nanorand:0.4.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:nanorand_project:nanorand:0.4.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:nanorand_project:nanorand:0.4.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:nanorand_project:nanorand:0.5.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:nanorand_project:nanorand:0.5.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:nanorand_project:nanorand:0.5.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:nanorand_project:nanorand:0.6.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:nanorand_project:nanorand:0.6.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:nanorand_project:nanorand:*:*:*:*:*:rust:*:*
+  - cpe:2.3:a:nanorand_project:nanorand:-:*:*:*:*:rust:*:*

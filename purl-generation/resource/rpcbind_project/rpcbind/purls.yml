@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/rpcbind
+  - pkg:deb/ubuntu/rpcbind
+  - pkg:github/okirch/rpcbind
+  - pkg:github/teg/rpcbind
+  - pkg:gitlab/redhat/rpcbind
+  - pkg:rpm/fedora/rpcbind
+  - pkg:sourceforge/rpcbind

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/haxefoundation/npm-haxe
+  - pkg:npm/haxe3

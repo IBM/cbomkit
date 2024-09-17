@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/sonatype/nexus3
+  - pkg:github/sonatype/docker-nexus3
+  - pkg:github/sonatype/nexus-public
+  - pkg:sonatype/repomanager3

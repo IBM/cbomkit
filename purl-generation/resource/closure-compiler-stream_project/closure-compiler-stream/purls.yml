@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/rekow/closure-compiler-stream
+  - pkg:npm/closure-compiler-stream

@@ -1,0 +1,134 @@
+# CBOMkit - the essentials for CBOMs
+
+CBOMkit is a toolset for dealing with Cryptography Bill of Materials (CBOM). CBOMkit includes a
+- **CBOM Generation**: Generate CBOMs from source code by scanning git repositories to find the used cryptography.
+- **CBOM Viewer**: Visualize a generated or uploaded CBOM and access comprehensive statistics.
+- **CBOM Compliance Check**: Evaluate CBOMs created or uploaded against specified compliance policies and receive detailed compliance status reports.
+- **CBOM Database**: Collect and store CBOMs into the database and expose this data through a RESTful API.
+
+
+![CBOMkit Demo](.github/img/cbomkit.gif)
+
+## Quickstart
+
+Starting the CBOMkit using `docker-compose`.
+```shell
+# clone the repository 
+git clone https://github.com/IBM/cbomkit
+# run the make command to start the docker compose 
+make production
+```
+Deploy using the helm chart to a kubernetes environment.
+```shell
+# clone the repository 
+git clone https://github.com/IBM/cbomkit
+# deploy using helm
+helm install cbomkit 
+  --set postgresql.auth.username={POSTGRES_USER} 
+  --set postgresql.auth.password={POSTGRES_PASSWORD} 
+  ./chart
+```
+
+## Architecture
+
+The CBOMkit consists of three integral components: a web frontend, an API server, and a database.
+
+### Frontend and CBOM Viewer
+
+The web frontend serves as an intuitive user interface for interacting with the API server. It offers a range of functionalities, including:
+ - Browsing the inventory of existing Cryptographic Bills of Materials (CBOMs)
+ - Initiating new scans to generate CBOMs 
+ - Uploading existing CBOMs for visualization and analysis
+
+#### CBOM Viewer
+
+For enhanced flexibility, the frontend component can be deployed as a standalone version, known as the CBOM Viewer. 
+This option allows for streamlined visualization and compliance analysis independent of the full CBOMkit suite.
+
+```shell
+# use this command if you want to run only the CBOM Viewer
+make viewer
+```
+
+### API Server
+
+The API server functions as the central component of the CBOMkit, offering a comprehensive RESTful API 
+(see [OpenAPI specification](openapi.yaml)) with the following key features:
+
+#### Features
+- Retrieve the most recent generated CBOMs
+- Access stored CBOMs from the database using Package URLs (PURL)
+- Execute targeted searches for scanned Git repositories utilizing specific algorithms (by name and Oid)
+- Perform compliance checks for user-provided CBOMs against specified policies 
+- Conduct compliance assessments for stored or generated CBOMs against defined policies
+
+*Sample Query to Retrieve CBOM by Package URL*
+```shell
+curl --request GET \
+  --url 'http://localhost:8081/api/v1/cbom?purls=pkg:github/OddSource/java-license-manager'
+```
+
+In addition to the RESTful API, the server incorporates WebSocket integration, enabling:
+ - Initiation of CBOM generation through Git repository scanning 
+ - Real-time progress updates during the scanning process, transmitted via WebSocket connection
+
+### Compliance
+
+A critical component of the CBOMkit is its compliance checking mechanism for Cryptography Bills of Materials (CBOMs). 
+The CBOM structure represents a hierarchical tree of cryptographic assets detected and used by an application. 
+This standardized format facilitates the development and implementation of generalized policies 
+to identify and flag violations in cryptographic usage.
+
+The CBOMkit currently features a foundational `quantum-safe` compliance check. 
+This initial implementation serves as a proof of concept and demonstrates the system's capability to evaluate
+cryptographic components against defined policies.
+
+The compliance framework is designed with extensibility in mind, providing a solid platform for:
+ - Implementing additional compliance checks 
+ - Enhancing existing verification processes 
+ - Integrating custom compliance checks (external)
+
+#### Configuration
+
+Different deployment configurations utilize distinct sources for compliance verification.
+
+| Deployment       | How is the compliance check performed?                                                                                                                                                                                                                                                                                                                                                                                               |
+|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `viewer`         | A `quantum-safe` algorithm compliance check is natively implemented within the frontend. This integration allows for immediate, client-side assessment of basic quantum resistance criteria.                                                                                                                                                                                                                                         |
+| `production`     | In the standard deployment, a core compliance service is integrated into the backend service. This implementation enables the execution of compliance checks via the RESTful API, providing a scalable and centralized approach to cryptographic policy verification.                                                                                                                                                                |
+| `ext-compliance` | In advanced deployment scenarios, compliance evaluation is delegated to a dedicated external service. This service can invoked by the API server as needed. This configuration maintains the standard user experience for both the frontend and API of the CBOMkit, mirroring the functionality of the `production` configuration while allowing for more sophisticated or specialized compliance checks to be performed externally. |
+
+### Scanning and CBOM Generation
+
+The CBOMkit leverages advanced scanning technology to identify cryptographic usage within source code and generate 
+Cryptography Bills of Materials (CBOMs). This scanning capability is provided by the 
+[Sonar Cryptography Plugin](https://github.com/IBM/sonar-cryptography), an open-source tool developed by IBM.
+
+#### Supported languages and libraries
+
+The current scanning capabilities of the CBOMkit are defined by the Sonar Cryptography Plugin's supported languages 
+and cryptographic libraries:
+
+| Language | Cryptographic Library                                                                         | Coverage | 
+|----------|-----------------------------------------------------------------------------------------------|----------|
+| Java     | [JCA](https://docs.oracle.com/javase/8/docs/technotes/guides/security/crypto/CryptoSpec.html) | 100%     |
+|          | [BouncyCastle](https://github.com/bcgit/bc-java) (*light-weight API*)                         | 100%[^1] |
+| Python   | [pyca/cryptography](https://cryptography.io/en/latest/)                                       | 100%     |
+
+[^1]: We only cover the BouncyCastle *light-weight API* according to [this specification](https://javadoc.io/static/org.bouncycastle/bctls-jdk14/1.75/specifications.html)
+
+While the CBOMkit's scanning capabilities are currently bound to the Sonar Cryptography Plugin, the modular 
+design of this plugin allows for potential expansion to support additional languages and cryptographic libraries in 
+future updates.
+
+## Contribution Guidelines
+
+If you'd like to contribute to CBOMkit, please take a look at our
+[contribution guidelines](CONTRIBUTING.md). By participating, you are expected to uphold our [code of conduct](CODE_OF_CONDUCT.md).
+
+We use [GitHub issues](https://github.com/IBM/cbomkit/issues) for tracking requests and bugs. For questions
+start a discussion using [GitHub Discussions](https://github.com/IBM/cbomkit/discussions).
+
+## License
+
+[Apache License 2.0](LICENSE.txt)

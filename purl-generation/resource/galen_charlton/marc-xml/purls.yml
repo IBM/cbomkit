@@ -1,0 +1,7 @@
+purls:
+  - pkg:cpan/marc-xml
+  - pkg:deb/debian/libmarc-xml-perl
+  - pkg:deb/ubuntu/libmarc-xml-perl
+  - pkg:github/gitpan/marc-xml
+  - pkg:rpm/fedora/perl-marc-xml
+  - pkg:rpm/opensuse/perl-marc-xml

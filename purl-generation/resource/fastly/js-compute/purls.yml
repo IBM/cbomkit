@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/fastly/js-compute-runtime
+  - pkg:npm/%40fastly/js-compute

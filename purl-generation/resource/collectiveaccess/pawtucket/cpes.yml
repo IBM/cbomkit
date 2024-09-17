@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:collectiveaccess:pawtucket:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:collectiveaccess:pawtucket:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:collectiveaccess:pawtucket:1.3:*:*:*:*:*:*:*

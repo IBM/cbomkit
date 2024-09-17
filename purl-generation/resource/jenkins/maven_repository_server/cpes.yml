@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:jenkins:maven_repository_server:*:*:*:*:*:jenkins:*:*

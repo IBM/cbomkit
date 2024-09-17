@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:phpcart:phpcart:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcart:phpcart:3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcart:phpcart:4.6.4:*:*:*:*:*:*:*

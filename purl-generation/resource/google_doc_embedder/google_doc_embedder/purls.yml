@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/crowdfavorite-mirrors/wp-google-document-embedder
+  - pkg:github/wp-plugins/google-document-embedder
+  - pkg:github/wpplugins/google-document-embedder

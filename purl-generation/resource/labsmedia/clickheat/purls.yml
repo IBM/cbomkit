@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/irricrops/clickheat
+  - pkg:docker/tjqc0512/clickheat
+  - pkg:github/dugwood/clickheat
+  - pkg:github/tjqc0512/clickheat
+  - pkg:sourceforge/clickheat

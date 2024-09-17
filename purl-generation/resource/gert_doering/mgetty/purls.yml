@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/mgetty
+  - pkg:deb/ubuntu/mgetty
+  - pkg:github/distrotech/mgetty
+  - pkg:rpm/fedora/mgetty
+  - pkg:rpm/opensuse/mgetty

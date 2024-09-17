@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:elementalx:elementalx:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:elementalx:elementalx:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:elementalx:elementalx:1.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:elementalx:elementalx:2.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:elementalx:elementalx:3.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:elementalx:elementalx:4.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:elementalx:elementalx:5.00:*:*:*:*:*:*:*

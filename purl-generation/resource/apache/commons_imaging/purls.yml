@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/commons
+  - pkg:github/apache/commons-imaging
+  - pkg:maven/org.apache.commons/commons-imaging

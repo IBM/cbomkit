@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:webassembly:wabt:1.0.29:*:*:*:*:*:*:*

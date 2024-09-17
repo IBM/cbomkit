@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-httplib2
+  - pkg:deb/ubuntu/python-httplib2
+  - pkg:github/httplib2/httplib2
+  - pkg:pypi/httplib2
+  - pkg:rpm/fedora/python-httplib2
+  - pkg:rpm/opensuse/python-httplib2

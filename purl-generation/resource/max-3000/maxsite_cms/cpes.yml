@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:max-3000:maxsite_cms:0.87:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:0.87.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:0.88:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:0.89:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:0.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:0.91:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:0.92:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:0.93:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:0.94:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:0.95:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:0.96:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:100:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:101:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:102:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:104:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:106:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:107:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:107.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:108:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:180:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:97:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:98:*:*:*:*:*:*:*
+  - cpe:2.3:a:max-3000:maxsite_cms:99:*:*:*:*:*:*:*

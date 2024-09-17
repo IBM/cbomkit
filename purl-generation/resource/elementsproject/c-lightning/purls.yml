@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/elementsproject/lightning
+  - pkg:rpm/opensuse/c-lightning

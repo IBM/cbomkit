@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:ipython:ipython_notebook:0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:ipython:ipython_notebook:0.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ipython:ipython_notebook:0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:ipython:ipython_notebook:0.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ipython:ipython_notebook:0.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ipython:ipython_notebook:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ipython:ipython_notebook:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ipython:ipython_notebook:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ipython:ipython_notebook:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ipython:ipython_notebook:2.1.0:*:*:*:*:*:*:*

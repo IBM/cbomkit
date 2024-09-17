@@ -1,0 +1,7 @@
+purls:
+  - pkg:gem/rdoc
+  - pkg:github/ruby/rdoc
+  - pkg:gitlab/gitlab-org/gitlab-rdoc
+  - pkg:rpm/centos/rubygem-rdoc
+  - pkg:rpm/fedora/rubygem-rdoc
+  - pkg:rpm/opensuse/rubygem-rdoc

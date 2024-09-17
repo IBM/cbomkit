@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/softwaremill/akka-http-session
+  - pkg:maven/com.softwaremill.akka-http-session/core

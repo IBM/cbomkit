@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:slf4j:slf4j-converter:1.4.3:*:*:*:*:*:*:*

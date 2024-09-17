@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/sympa
+  - pkg:deb/ubuntu/sympa
+  - pkg:github/sympa-community/sympa
+  - pkg:rpm/fedora/sympa
+  - pkg:rpm/opensuse/sympa

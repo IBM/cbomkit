@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/hunspell
+  - pkg:deb/ubuntu/hunspell
+  - pkg:github/hunspell/hunspell
+  - pkg:gitlab/redhat/hunspell
+  - pkg:rpm/centos/hunspell
+  - pkg:rpm/fedora/hunspell
+  - pkg:rpm/opensuse/hunspell
+  - pkg:sourceforge/hunspell

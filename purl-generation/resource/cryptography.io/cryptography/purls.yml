@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/python-cryptography
+  - pkg:deb/ubuntu/python-cryptography
+  - pkg:github/pyca/cryptography
+  - pkg:gitlab/kalilinux/python-cryptography
+  - pkg:pypi/cryptography
+  - pkg:rpm/fedora/python-cryptography
+  - pkg:rpm/opensuse/python-cryptography

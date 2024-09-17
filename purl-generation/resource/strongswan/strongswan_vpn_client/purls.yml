@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/strongswan
+  - pkg:deb/ubuntu/strongswan
+  - pkg:github/strongswan/strongswan
+  - pkg:rpm/fedora/strongswan
+  - pkg:rpm/opensuse/strongswan

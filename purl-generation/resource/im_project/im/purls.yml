@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-im-rc
+  - pkg:deb/ubuntu/rust-im-rc
+  - pkg:github/bodil/im-rs
+  - pkg:rpm/fedora/rust-im-rc
+  - pkg:rpm/opensuse/rust-im-rc

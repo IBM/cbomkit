@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:reddcoin:reddcoin:1.1.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:reddcoin:reddcoin:1.1.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:reddcoin:reddcoin:1.1.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:reddcoin:reddcoin:1.2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:reddcoin:reddcoin:1.2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:reddcoin:reddcoin:1.3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:reddcoin:reddcoin:1.3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:reddcoin:reddcoin:1.3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:reddcoin:reddcoin:1.3.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:reddcoin:reddcoin:1.4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:reddcoin:reddcoin:1.4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:reddcoin:reddcoin:2.0.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:reddcoin:reddcoin:2.0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:reddcoin:reddcoin:2.0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:reddcoin:reddcoin:2.0.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:reddcoin:reddcoin:2.1.0.5:*:*:*:*:*:*:*

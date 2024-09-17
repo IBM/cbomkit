@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/kde/rekonq
+  - pkg:rpm/fedora/rekonq
+  - pkg:rpm/opensuse/rekonq

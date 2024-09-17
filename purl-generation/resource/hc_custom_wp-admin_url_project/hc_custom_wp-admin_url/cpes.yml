@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:hc_custom_wp-admin_url_project:hc_custom_wp-admin_url:1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hc_custom_wp-admin_url_project:hc_custom_wp-admin_url:-:*:*:*:*:wordpress:*:*

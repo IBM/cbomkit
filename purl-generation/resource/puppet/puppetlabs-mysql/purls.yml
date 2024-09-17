@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/puppet-module-puppetlabs-mysql
+  - pkg:deb/ubuntu/puppet-module-puppetlabs-mysql
+  - pkg:docker/eugenetolan/puppetlabs-mysql
+  - pkg:github/eugenetolan/puppetlabs-mysql
+  - pkg:github/puppetlabs/puppetlabs-mysql
+  - pkg:gitlab/simp/puppetlabs-mysql

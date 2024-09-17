@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:opensuse:autoyast2:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:autoyast2:4.0.70-3.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:autoyast2:4.1.9-3.9.1:*:*:*:*:*:*:*

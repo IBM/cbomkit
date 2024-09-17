@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/suds
+  - pkg:deb/ubuntu/suds
+  - pkg:github/jortel/suds
+  - pkg:rpm/centos/python-suds
+  - pkg:rpm/fedora/python-suds
+  - pkg:rpm/opensuse/python-suds
+  - pkg:sourceforge/python-suds

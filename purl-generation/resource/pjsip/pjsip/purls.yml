@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/pjproject
+  - pkg:deb/ubuntu/pjproject
+  - pkg:github/chakrit/pjsip
+  - pkg:github/halex2005/pjproject
+  - pkg:github/pjsip/pjproject
+  - pkg:rpm/fedora/pjproject
+  - pkg:rpm/opensuse/pjproject

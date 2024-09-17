@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:wp-downloadmanager_project:wp-downloadmanager:1.60:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-downloadmanager_project:wp-downloadmanager:1.61:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-downloadmanager_project:wp-downloadmanager:1.62:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-downloadmanager_project:wp-downloadmanager:1.63:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-downloadmanager_project:wp-downloadmanager:1.64:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-downloadmanager_project:wp-downloadmanager:1.65:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-downloadmanager_project:wp-downloadmanager:1.66:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-downloadmanager_project:wp-downloadmanager:1.67:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-downloadmanager_project:wp-downloadmanager:1.68.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-downloadmanager_project:wp-downloadmanager:1.68.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-downloadmanager_project:wp-downloadmanager:1.68.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-downloadmanager_project:wp-downloadmanager:1.68.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-downloadmanager_project:wp-downloadmanager:1.68.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-downloadmanager_project:wp-downloadmanager:1.68.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-downloadmanager_project:wp-downloadmanager:1.68:*:*:*:*:wordpress:*:*

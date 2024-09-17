@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/skiboot
+  - pkg:deb/ubuntu/skiboot
+  - pkg:github/open-power/skiboot
+  - pkg:rpm/opensuse/skiboot

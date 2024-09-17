@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/ttmrichter/asn1c
+  - pkg:deb/debian/asn1c
+  - pkg:deb/ubuntu/asn1c
+  - pkg:github/vlm/asn1c
+  - pkg:rpm/fedora/asn1c
+  - pkg:rpm/opensuse/libasn1c

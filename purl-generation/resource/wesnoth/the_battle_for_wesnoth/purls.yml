@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/wesnoth-1.12
+  - pkg:deb/ubuntu/wesnoth-1.12
+  - pkg:github/wesnoth/wesnoth
+  - pkg:rpm/fedora/wesnoth
+  - pkg:rpm/opensuse/wesnoth
+  - pkg:sourceforge/wesnoth

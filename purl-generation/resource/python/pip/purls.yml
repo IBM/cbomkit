@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/pypa/pip
+  - pkg:golang/github.com/pypa/pip
+  - pkg:pypi/pip

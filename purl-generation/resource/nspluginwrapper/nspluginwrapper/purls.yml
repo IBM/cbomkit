@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/davidben/nspluginwrapper
+  - pkg:rpm/fedora/nspluginwrapper
+  - pkg:rpm/opensuse/nspluginwrapper

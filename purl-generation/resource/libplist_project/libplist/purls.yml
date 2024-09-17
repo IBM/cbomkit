@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libplist
+  - pkg:deb/ubuntu/libplist
+  - pkg:github/libimobiledevice/libplist
+  - pkg:gitlab/redhat/libplist
+  - pkg:rpm/fedora/libplist
+  - pkg:rpm/opensuse/libplist

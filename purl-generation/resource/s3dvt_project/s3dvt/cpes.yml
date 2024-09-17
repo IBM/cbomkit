@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:s3dvt_project:s3dvt:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:s3dvt_project:s3dvt:0.2.2:*:*:*:*:*:*:*

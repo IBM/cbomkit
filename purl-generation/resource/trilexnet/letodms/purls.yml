@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/letodms
+  - pkg:deb/ubuntu/letodms
+  - pkg:github/trilexlabs/letodms
+  - pkg:sourceforge/mydms

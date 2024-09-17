@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libphp-phpmailer
+  - pkg:deb/ubuntu/libphp-phpmailer
+  - pkg:github/phpmailer/phpmailer
+  - pkg:rpm/fedora/php-phpmailer
+  - pkg:rpm/opensuse/php-phpmailer
+  - pkg:sourceforge/phpmailer.mirror

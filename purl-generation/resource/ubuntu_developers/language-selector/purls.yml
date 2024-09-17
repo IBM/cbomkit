@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/ubuntu/language-selector
+  - pkg:github/babycaseny/language-selector
+  - pkg:github/tomoe-musashi/language-selector

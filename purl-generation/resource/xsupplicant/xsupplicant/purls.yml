@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/opensuse/xsupplicant
+  - pkg:github/zero3k/xsupplicant
+  - pkg:sourceforge/open1x

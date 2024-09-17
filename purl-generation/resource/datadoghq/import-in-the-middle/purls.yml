@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/datadog/import-in-the-middle
+  - pkg:npm/import-in-the-middle

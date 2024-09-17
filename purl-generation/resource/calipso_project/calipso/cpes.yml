@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:calipso_project:calipso:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:calipso_project:calipso:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:calipso_project:calipso:0.1.2:*:*:*:*:*:*:*

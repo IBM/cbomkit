@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/highlightjs/highlight.js
+  - pkg:maven/org.webjars.bowergithub.highlightjs/highlight.js
+  - pkg:npm/%40highlightjs/highlight.js

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/dshanske/indieweb-post-kinds
+  - pkg:github/wp-plugins/indieweb-post-kinds
+  - pkg:github/wpplugins/indieweb-post-kinds

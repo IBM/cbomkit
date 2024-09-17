@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/pgpool2
+  - pkg:deb/ubuntu/pgpool2
+  - pkg:github/pgpool/pgpool2
+  - pkg:rpm/opensuse/pgpool-II

@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/alfredd/transmission
+  - pkg:deb/debian/transmission
+  - pkg:deb/ubuntu/transmission
+  - pkg:github/transmission/transmission
+  - pkg:rpm/fedora/transmission
+  - pkg:rpm/opensuse/transmission
+  - pkg:sourceforge/transmission-daemon-cfp

@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/flatbuffers
+  - pkg:deb/ubuntu/flatbuffers
+  - pkg:github/google/flatbuffers
+  - pkg:github/mcrlc/flatbuffers
+  - pkg:googlesource/flatbuffers
+  - pkg:maven/org.webjars.npm/flatbuffer
+  - pkg:npm/flatbuffers
+  - pkg:rpm/fedora/flatbuffers
+  - pkg:rpm/opensuse/flatbuffers
+  - pkg:sourceforge/flatbuffers.mirror

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/midnightcommander/mc
+  - pkg:gnu/mc
+  - pkg:sourceforge/mcwin32

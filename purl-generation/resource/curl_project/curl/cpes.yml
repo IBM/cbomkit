@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:curl_project:curl:0.0.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:curl_project:curl:0.0.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:curl_project:curl:0.0.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:curl_project:curl:0.0.6:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:curl_project:curl:0.0.7:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:curl_project:curl:0.0.8:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:curl_project:curl:0.0.9:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:curl_project:curl:-:*:*:*:*:ruby:*:*

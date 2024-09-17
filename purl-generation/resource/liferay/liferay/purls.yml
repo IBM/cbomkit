@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/liferay/liferay-portal
+  - pkg:sourceforge/lportal

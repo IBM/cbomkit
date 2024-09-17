@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:zeroboard:zeroboard:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:zeroboard:zeroboard:4.1_pl2:*:*:*:*:*:*:*
+  - cpe:2.3:a:zeroboard:zeroboard:4.1_pl3:*:*:*:*:*:*:*
+  - cpe:2.3:a:zeroboard:zeroboard:4.1_pl4:*:*:*:*:*:*:*
+  - cpe:2.3:a:zeroboard:zeroboard:4.1_pl5:*:*:*:*:*:*:*
+  - cpe:2.3:a:zeroboard:zeroboard:4.1_pl6:*:*:*:*:*:*:*
+  - cpe:2.3:a:zeroboard:zeroboard:4.1_pl7:*:*:*:*:*:*:*
+  - cpe:2.3:a:zeroboard:zeroboard:4.1_pl8:*:*:*:*:*:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/cobbler/cobbler
+  - pkg:pypi/cobbler
+  - pkg:rpm/fedora/cobbler
+  - pkg:rpm/opensuse/cobbler

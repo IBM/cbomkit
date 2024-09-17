@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/vesoft/nebula-graph-studio
+  - pkg:github/vesoft-inc/nebula-studio
+  - pkg:golang/github.com/vesoft-inc/nebula-studio

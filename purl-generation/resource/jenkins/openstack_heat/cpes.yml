@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:jenkins:openstack_heat:1.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:openstack_heat:-:*:*:*:*:jenkins:*:*

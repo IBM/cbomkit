@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/skylot/jadx
+  - pkg:maven/io.github.skylot/jadx-core
+  - pkg:sourceforge/jadx.mirror

@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/ignite
+  - pkg:github/apache/ignite
+  - pkg:maven/org.apache.ignite/ignite-core

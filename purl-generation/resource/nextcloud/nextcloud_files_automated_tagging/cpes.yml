@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:nextcloud:nextcloud_files_automated_tagging:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_files_automated_tagging:1.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_files_automated_tagging:1.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_files_automated_tagging:1.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_files_automated_tagging:1.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_files_automated_tagging:1.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nextcloud:nextcloud_files_automated_tagging:1.16.0:*:*:*:*:*:*:*

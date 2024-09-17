@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ipython
+  - pkg:deb/ubuntu/ipython
+  - pkg:github/ipython/ipython
+  - pkg:pypi/ipython
+  - pkg:rpm/opensuse/python-ipython
+  - pkg:sourceforge/ipython.mirror

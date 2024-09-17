@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-json-schema
+  - pkg:deb/ubuntu/node-json-schema
+  - pkg:github/kriszyp/json-schema
+  - pkg:maven/org.webjars.npm/json-schema
+  - pkg:npm/json-schema

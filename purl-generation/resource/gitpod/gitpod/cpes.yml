@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:gitpod:gitpod:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gitpod:gitpod:0.10.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:gitpod:gitpod:0.10.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:gitpod:gitpod:0.10.0:test1:*:*:*:*:*:*
+  - cpe:2.3:a:gitpod:gitpod:0.6.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:gitpod:gitpod:0.6.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:gitpod:gitpod:0.6.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:gitpod:gitpod:0.6.0:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:gitpod:gitpod:0.8.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:gitpod:gitpod:0.8.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:gitpod:gitpod:0.8.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:gitpod:gitpod:0.8.0:rc12:*:*:*:*:*:*
+  - cpe:2.3:a:gitpod:gitpod:0.8.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:gitpod:gitpod:0.8.0:test3:*:*:*:*:*:*
+  - cpe:2.3:a:gitpod:gitpod:0.8.0:test4:*:*:*:*:*:*
+  - cpe:2.3:a:gitpod:gitpod:0.8.0:test5:*:*:*:*:*:*
+  - cpe:2.3:a:gitpod:gitpod:0.9.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:gitpod:gitpod:0.9.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:gitpod:gitpod:0.9.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:gitpod:gitpod:0.9.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:gitpod:gitpod:2022.11.2:*:*:*:*:*:*:*

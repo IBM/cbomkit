@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:zealousweb:track_geolocation_of_users_using_contact_form_7:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:zealousweb:track_geolocation_of_users_using_contact_form_7:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:zealousweb:track_geolocation_of_users_using_contact_form_7:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:zealousweb:track_geolocation_of_users_using_contact_form_7:1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:zealousweb:track_geolocation_of_users_using_contact_form_7:1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:zealousweb:track_geolocation_of_users_using_contact_form_7:*:*:*:*:*:wordpress:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/mongo-express
+  - pkg:github/mongo-express/mongo-express
+  - pkg:npm/mongo-express

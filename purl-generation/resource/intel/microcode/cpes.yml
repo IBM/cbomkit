@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:intel:microcode:-:*:*:*:*:*:*:*
+  - cpe:2.3:o:intel:microcode:-:*:*:*:*:*:*:*
+  - cpe:2.3:o:intel:microcode:20190312:*:*:*:*:*:*:*
+  - cpe:2.3:o:intel:microcode:20190514:*:*:*:*:*:*:*
+  - cpe:2.3:o:intel:microcode:20190514a:*:*:*:*:*:*:*
+  - cpe:2.3:o:intel:microcode:20190618:*:*:*:*:*:*:*
+  - cpe:2.3:o:intel:microcode:20190918:*:*:*:*:*:*:*
+  - cpe:2.3:o:intel:microcode:20191112:*:*:*:*:*:*:*
+  - cpe:2.3:o:intel:microcode:20191113:*:*:*:*:*:*:*
+  - cpe:2.3:o:intel:microcode:20191115:*:*:*:*:*:*:*
+  - cpe:2.3:o:intel:microcode:20200508:*:*:*:*:*:*:*
+  - cpe:2.3:o:intel:microcode:20200520:*:*:*:*:*:*:*
+  - cpe:2.3:o:intel:microcode:20200609:*:*:*:*:*:*:*
+  - cpe:2.3:o:intel:microcode:20200616:*:*:*:*:*:*:*
+  - cpe:2.3:o:intel:microcode:20201110:*:*:*:*:*:*:*
+  - cpe:2.3:o:intel:microcode:20201112:*:*:*:*:*:*:*
+  - cpe:2.3:o:intel:microcode:20201118:*:*:*:*:*:*:*
+  - cpe:2.3:o:intel:microcode:20210216:*:*:*:*:*:*:*
+  - cpe:2.3:o:intel:microcode:20210608:*:*:*:*:*:*:*

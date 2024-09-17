@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/python-tqdm
+  - pkg:deb/ubuntu/python-tqdm
+  - pkg:docker/tqdm/tqdm
+  - pkg:github/tqdm/tqdm
+  - pkg:pypi/tqdm
+  - pkg:rpm/fedora/python-tqdm
+  - pkg:rpm/opensuse/python-tqdm
+  - pkg:sourceforge/tqdm.mirror

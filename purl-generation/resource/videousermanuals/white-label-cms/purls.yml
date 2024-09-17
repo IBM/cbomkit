@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/crowdfavorite-mirrors/wp-white-label-cms
+  - pkg:github/sjondegast/white-label-cms
+  - pkg:github/wp-plugins/white-label-cms

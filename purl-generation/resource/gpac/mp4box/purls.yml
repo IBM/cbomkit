@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/gcswest/gpac
+  - pkg:deb/debian/gpac
+  - pkg:deb/ubuntu/gpac
+  - pkg:github/felixge/gpac
+  - pkg:github/gpac/gpac

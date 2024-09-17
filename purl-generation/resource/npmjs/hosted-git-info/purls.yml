@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/npm/hosted-git-info
+  - pkg:npm/hosted-git-info

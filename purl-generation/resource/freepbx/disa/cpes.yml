@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:freepbx:disa:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:freepbx:disa:13.0.6.2:*:*:*:*:*:*:*

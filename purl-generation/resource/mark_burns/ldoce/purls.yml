@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/ldoce
+  - pkg:github/markburns/ldoce

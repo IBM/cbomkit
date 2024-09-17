@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:daniel_stenberg:c-ares:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:daniel_stenberg:c-ares:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:daniel_stenberg:c-ares:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:daniel_stenberg:c-ares:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:daniel_stenberg:c-ares:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:daniel_stenberg:c-ares:1.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:daniel_stenberg:c-ares:1.3.2:*:*:*:*:*:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/ubuntu/hhvm
+  - pkg:github/facebook/hhvm
+  - pkg:rpm/opensuse/hhvm
+  - pkg:sourceforge/hhvm.mirror

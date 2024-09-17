@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:artifex:afpl_ghostscript:6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:afpl_ghostscript:6.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:afpl_ghostscript:6.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:afpl_ghostscript:7.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:afpl_ghostscript:7.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:afpl_ghostscript:7.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:afpl_ghostscript:8.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:afpl_ghostscript:8.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:afpl_ghostscript:8.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:afpl_ghostscript:8.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:afpl_ghostscript:8.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:afpl_ghostscript:8.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:afpl_ghostscript:8.51:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:afpl_ghostscript:8.52:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:afpl_ghostscript:8.53:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:afpl_ghostscript:8.54:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:afpl_ghostscript:9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:artifex:afpl_ghostscript:9.10:*:*:*:*:*:*:*

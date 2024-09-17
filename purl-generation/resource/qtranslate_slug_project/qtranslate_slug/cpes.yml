@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:qtranslate_slug_project:qtranslate_slug:0.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:qtranslate_slug_project:qtranslate_slug:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:qtranslate_slug_project:qtranslate_slug:1.1.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:qtranslate_slug_project:qtranslate_slug:1.1.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:qtranslate_slug_project:qtranslate_slug:1.1.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:qtranslate_slug_project:qtranslate_slug:1.1.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:qtranslate_slug_project:qtranslate_slug:1.1.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:qtranslate_slug_project:qtranslate_slug:1.1.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:qtranslate_slug_project:qtranslate_slug:1.1.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:qtranslate_slug_project:qtranslate_slug:1.1.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:qtranslate_slug_project:qtranslate_slug:1.1.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:qtranslate_slug_project:qtranslate_slug:1.1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:qtranslate_slug_project:qtranslate_slug:1.1.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:qtranslate_slug_project:qtranslate_slug:1.1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:qtranslate_slug_project:qtranslate_slug:1.1.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:qtranslate_slug_project:qtranslate_slug:1.1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:qtranslate_slug_project:qtranslate_slug:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:qtranslate_slug_project:qtranslate_slug:-:*:*:*:*:wordpress:*:*

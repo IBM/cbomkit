@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dottgonzo/node-promise-probe
+  - pkg:npm/promise-probe

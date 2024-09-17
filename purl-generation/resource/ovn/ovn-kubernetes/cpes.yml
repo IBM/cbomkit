@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:ovn:ovn-kubernetes:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:ovn:ovn-kubernetes:0.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:ovn:ovn-kubernetes:0.1.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:ovn:ovn-kubernetes:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ovn:ovn-kubernetes:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ovn:ovn-kubernetes:0.3.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:ovn:ovn-kubernetes:4.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ovn:ovn-kubernetes:4.10.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:ovn:ovn-kubernetes:4.7.47:*:*:*:*:*:*:*
+  - cpe:2.3:a:ovn:ovn-kubernetes:4.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ovn:ovn-kubernetes:4.8.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:ovn:ovn-kubernetes:4.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ovn:ovn-kubernetes:4.9.27:*:*:*:*:*:*:*

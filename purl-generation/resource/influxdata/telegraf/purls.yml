@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/influxdata/telegraf
+  - pkg:golang/github.com/influxdata/telegraf
+  - pkg:rpm/opensuse/telegraf
+  - pkg:sourceforge/telegraf.mirror

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:openstack:oslo:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:oslo:2013:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:oslo:2013.2:*:*:*:*:*:*:*

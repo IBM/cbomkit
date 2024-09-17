@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/flexpaper/pdf2json
+  - pkg:rpm/opensuse/pdf2json

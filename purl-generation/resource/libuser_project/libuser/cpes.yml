@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:libuser_project:libuser:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.56.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.56.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.56.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.56.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.56.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.56.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.56.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.56.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.56.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.57:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.57.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.57.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.57.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.57.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.57.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.57.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.57.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.58:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.59:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.60:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.61:*:*:*:*:*:*:*
+  - cpe:2.3:a:libuser_project:libuser:0.62:*:*:*:*:*:*:*

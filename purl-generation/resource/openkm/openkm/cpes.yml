@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:openkm:openkm:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkm:openkm:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkm:openkm:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkm:openkm:5.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkm:openkm:5.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkm:openkm:6.3.10:*:*:*:community:*:*:*
+  - cpe:2.3:a:openkm:openkm:6.3.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkm:openkm:6.3.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkm:openkm:6.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkm:openkm:6.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkm:openkm:6.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkm:openkm:6.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkm:openkm:6.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkm:openkm:6.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkm:openkm:6.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkm:openkm:6.4.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:openkm:openkm:6.4.18:*:*:*:professional:*:*:*
+  - cpe:2.3:a:openkm:openkm:7.1.40:*:*:*:professional:*:*:*

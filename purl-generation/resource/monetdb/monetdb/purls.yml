@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/monetdb/monetdb
+  - pkg:rpm/opensuse/monetdb

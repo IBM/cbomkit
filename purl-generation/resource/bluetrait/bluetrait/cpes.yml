@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:bluetrait:bluetrait:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.3.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.3.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.4.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.4.8_beta1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.4.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:0.5_beta2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:bluetrait:bluetrait:1.1.0:*:*:*:*:*:*:*

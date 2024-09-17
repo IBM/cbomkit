@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/kannel
+  - pkg:deb/ubuntu/kannel
+  - pkg:github/pruiz/kannel
+  - pkg:rpm/opensuse/kannel

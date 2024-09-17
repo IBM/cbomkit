@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:miniblog.core_project:miniblog.core:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniblog.core_project:miniblog.core:2018-08-21:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniblog.core_project:miniblog.core:2018-08-30:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniblog.core_project:miniblog.core:2018-09-10:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniblog.core_project:miniblog.core:2018-10-01:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniblog.core_project:miniblog.core:2019-01-16:*:*:*:*:*:*:*

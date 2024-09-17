@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-rmagick
+  - pkg:deb/ubuntu/ruby-rmagick
+  - pkg:gem/rmagick
+  - pkg:github/rmagick/rmagick
+  - pkg:rpm/fedora/rubygem-rmagick
+  - pkg:rpm/opensuse/rubygem-rmagick

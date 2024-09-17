@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:sysfsutils_project:sysfsutils:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sysfsutils_project:sysfsutils:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sysfsutils_project:sysfsutils:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sysfsutils_project:sysfsutils:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sysfsutils_project:sysfsutils:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sysfsutils_project:sysfsutils:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sysfsutils_project:sysfsutils:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sysfsutils_project:sysfsutils:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sysfsutils_project:sysfsutils:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sysfsutils_project:sysfsutils:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sysfsutils_project:sysfsutils:2.1.0:*:*:*:*:*:*:*

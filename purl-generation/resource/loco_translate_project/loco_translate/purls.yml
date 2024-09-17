@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/loco/wp-loco
+  - pkg:github/wp-plugins/loco-translate

@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:softether:vpn:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:softether:vpn:4.41-9782:beta:*:*:*:*:*:*
+  - cpe:2.3:a:softether:vpn:5.01.9674:*:*:*:*:*:*:*
+  - cpe:2.3:a:softether:vpn:5.01.9674:-:*:*:*:*:*:*
+  - cpe:2.3:a:softether:vpn:5.01.9674:beta:*:*:*:*:*:*
+  - cpe:2.3:a:softether:vpn:5.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:softether:vpn:5.02:-:*:*:*:*:*:*
+  - cpe:2.3:a:softether:vpn:5.02:beta:*:*:*:*:*:*

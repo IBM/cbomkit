@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/xbuffy
+  - pkg:deb/ubuntu/xbuffy

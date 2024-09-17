@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:html2csv_project:html2csv:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:html2csv_project:html2csv:0.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:html2csv_project:html2csv:0.0.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:html2csv_project:html2csv:0.0.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:html2csv_project:html2csv:0.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:html2csv_project:html2csv:0.1.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:html2csv_project:html2csv:0.1.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:html2csv_project:html2csv:0.1.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:html2csv_project:html2csv:1.0.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:html2csv_project:html2csv:1.0.1:*:*:*:*:python:*:*

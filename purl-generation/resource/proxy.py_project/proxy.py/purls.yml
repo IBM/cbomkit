@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/abhinavsingh/proxy.py
+  - pkg:github/abhinavsingh/proxy.py
+  - pkg:pypi/proxy.py
+  - pkg:rpm/fedora/python-proxy.py

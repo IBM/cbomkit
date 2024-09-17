@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/bluez
+  - pkg:deb/ubuntu/bluez
+  - pkg:github/bluez/bluez
+  - pkg:rpm/fedora/bluez
+  - pkg:rpm/opensuse/bluez

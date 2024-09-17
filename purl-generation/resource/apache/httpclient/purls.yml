@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/hc
+  - pkg:github/apache/httpcomponents-client
+  - pkg:maven/org.apache.httpcomponents/httpclient

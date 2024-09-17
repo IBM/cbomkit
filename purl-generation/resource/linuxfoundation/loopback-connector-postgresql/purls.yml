@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/loopbackio/loopback-connector-postgresql
+  - pkg:npm/loopback-connector-postgresql

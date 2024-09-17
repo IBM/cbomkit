@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:diskusage-ng_project:diskusage-ng:0.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:diskusage-ng_project:diskusage-ng:0.2.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:diskusage-ng_project:diskusage-ng:0.2.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:diskusage-ng_project:diskusage-ng:-:*:*:*:*:node.js:*:*

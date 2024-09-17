@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/postageapp/ss5
+  - pkg:rpm/fedora/ss5
+  - pkg:sourceforge/ss5

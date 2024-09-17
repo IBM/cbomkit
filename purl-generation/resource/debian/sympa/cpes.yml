@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:debian:sympa:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:sympa:3.3.3:*:*:*:*:*:*:*

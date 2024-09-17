@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:simple_captcha2_project:simple_captcha2:0.2.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:simple_captcha2_project:simple_captcha2:0.2.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:simple_captcha2_project:simple_captcha2:0.2.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:simple_captcha2_project:simple_captcha2:0.2.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:simple_captcha2_project:simple_captcha2:0.3.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:simple_captcha2_project:simple_captcha2:0.3.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:simple_captcha2_project:simple_captcha2:0.3.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:simple_captcha2_project:simple_captcha2:0.3.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:simple_captcha2_project:simple_captcha2:0.3.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:simple_captcha2_project:simple_captcha2:0.4.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:simple_captcha2_project:simple_captcha2:0.4.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:simple_captcha2_project:simple_captcha2:0.4.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:simple_captcha2_project:simple_captcha2:0.4.4:*:*:*:*:ruby:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/adriancmiranda/proto
+  - pkg:npm/proto

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/gridgain/gridgain
+  - pkg:maven/org.gridgain/gridgain-core
+  - pkg:nuget/GridGain

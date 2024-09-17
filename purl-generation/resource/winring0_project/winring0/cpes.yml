@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:winring0_project:winring0:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:winring0_project:winring0:1.3.0:*:*:*:*:*:*:*

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/python-pulp
+  - pkg:deb/ubuntu/python-pulp
+  - pkg:github/coin-or/pulp
+  - pkg:pypi/pulp
+  - pkg:rpm/fedora/python-pulp

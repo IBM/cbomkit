@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/vboxwrapper-plugin
+  - pkg:github/theirix/vboxwrapper-plugin

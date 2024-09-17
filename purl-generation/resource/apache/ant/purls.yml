@@ -1,0 +1,8 @@
+purls:
+  - pkg:apache/ant
+  - pkg:deb/debian/ant
+  - pkg:deb/ubuntu/ant
+  - pkg:github/apache/ant
+  - pkg:github/uriziel47/ant
+  - pkg:maven/org.apache.ant/ant
+  - pkg:rpm/fedora/ant

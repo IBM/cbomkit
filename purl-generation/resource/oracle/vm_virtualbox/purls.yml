@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mirror/vbox
+  - pkg:oracle/vm/virtualbox-downloads
+  - pkg:virtualbox/vbox

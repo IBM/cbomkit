@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/php/php-src
+  - pkg:golang/github.com/php/php-src

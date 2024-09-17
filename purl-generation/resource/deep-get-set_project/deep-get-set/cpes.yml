@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:deep-get-set_project:deep-get-set:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:deep-get-set_project:deep-get-set:0.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:deep-get-set_project:deep-get-set:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:deep-get-set_project:deep-get-set:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:deep-get-set_project:deep-get-set:1.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:deep-get-set_project:deep-get-set:-:*:*:*:*:node.js:*:*

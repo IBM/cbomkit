@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/fedora-infra/bodhi
+  - pkg:pypi/bodhi
+  - pkg:rpm/fedora/bodhi

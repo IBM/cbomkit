@@ -1,0 +1,4 @@
+purls:
+  - pkg:gitee/weiye-jing/datax-web
+  - pkg:github/weiye-jing/datax-web
+  - pkg:golang/github.com/weiye-jing/datax-web

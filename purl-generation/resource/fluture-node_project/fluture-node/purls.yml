@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/fluture-js/fluture-node
+  - pkg:npm/fluture-node

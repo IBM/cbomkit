@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/gnome/gdm
+  - pkg:gitlab/gnome/gdm
+  - pkg:gnome/gdm

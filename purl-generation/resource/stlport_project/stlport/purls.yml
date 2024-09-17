@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/frida/stlport
+  - pkg:github/livemirror/stlport
+  - pkg:sourceforge/stlport

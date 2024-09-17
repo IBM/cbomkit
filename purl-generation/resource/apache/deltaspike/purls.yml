@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/deltaspike
+  - pkg:github/apache/deltaspike
+  - pkg:maven/org.apache.deltaspike/deltaspike

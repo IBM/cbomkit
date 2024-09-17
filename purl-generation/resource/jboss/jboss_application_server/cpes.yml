@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:jboss:jboss_application_server:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:jboss:jboss_application_server:3.2.5_final:*:*:*:*:*:*:*
+  - cpe:2.3:a:jboss:jboss_application_server:3.2.6_final:*:*:*:*:*:*:*
+  - cpe:2.3:a:jboss:jboss_application_server:3.2.7_final:*:*:*:*:*:*:*
+  - cpe:2.3:a:jboss:jboss_application_server:3.2.8_final:*:*:*:*:*:*:*
+  - cpe:2.3:a:jboss:jboss_application_server:3.2.8.sp1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jboss:jboss_application_server:4.0.0_final:*:*:*:*:*:*:*
+  - cpe:2.3:a:jboss:jboss_application_server:4.0.1_final:*:*:*:*:*:*:*
+  - cpe:2.3:a:jboss:jboss_application_server:4.0.1_sp1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jboss:jboss_application_server:4.0.2_final:*:*:*:*:*:*:*
+  - cpe:2.3:a:jboss:jboss_application_server:4.0.2.ga_cp02:*:*:*:*:*:*:*
+  - cpe:2.3:a:jboss:jboss_application_server:4.0.2.ga_cp03:*:*:*:*:*:*:*
+  - cpe:2.3:a:jboss:jboss_application_server:4.0.2.ga_cp04:*:*:*:*:*:*:*
+  - cpe:2.3:a:jboss:jboss_application_server:4.0.3_final:*:*:*:*:*:*:*
+  - cpe:2.3:a:jboss:jboss_application_server:4.0.4.ga:*:*:*:*:*:*:*
+  - cpe:2.3:a:jboss:jboss_application_server:4.0.5_cp01:*:*:*:*:*:*:*
+  - cpe:2.3:a:jboss:jboss_application_server:4.0.5_cp02:*:*:*:*:*:*:*
+  - cpe:2.3:a:jboss:jboss_application_server:4.0.5.ga:*:*:*:*:*:*:*

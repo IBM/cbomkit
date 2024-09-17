@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:artis.imag:basilic:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:artis.imag:basilic:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:artis.imag:basilic:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:artis.imag:basilic:1.5.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:artis.imag:basilic:1.5.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:artis.imag:basilic:1.5.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:artis.imag:basilic:1.5.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:artis.imag:basilic:1.5.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:artis.imag:basilic:1.5.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:artis.imag:basilic:1.5.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:artis.imag:basilic:1.5.9:*:*:*:*:*:*:*

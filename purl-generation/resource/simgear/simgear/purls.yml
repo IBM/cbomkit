@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/simgear2.4.0
+  - pkg:deb/ubuntu/simgear
+  - pkg:github/ltoenning/simgear
+  - pkg:github/megamotion/simgear
+  - pkg:rpm/fedora/simgear
+  - pkg:rpm/opensuse/simgear
+  - pkg:sourceforge/simgear

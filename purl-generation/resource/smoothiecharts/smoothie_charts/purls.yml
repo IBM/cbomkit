@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/joewalnes/smoothie
+  - pkg:npm/smoothie

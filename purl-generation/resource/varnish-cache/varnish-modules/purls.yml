@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/varnish/varnish-modules
+  - pkg:golang/github.com/varnish/varnish-modules

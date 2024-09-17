@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:sap:mobile_sdk_certificate_provider:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:sap:mobile_sdk_certificate_provider:3.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:sap:mobile_sdk_certificate_provider:3.0.8:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/llk/scratch-svg-renderer
+  - pkg:npm/scratch-svg-renderer

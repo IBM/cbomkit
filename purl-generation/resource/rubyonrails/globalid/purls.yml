@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-globalid
+  - pkg:deb/ubuntu/ruby-globalid
+  - pkg:gem/globalid
+  - pkg:github/rails/globalid
+  - pkg:rpm/fedora/rubygem-globalid
+  - pkg:rpm/opensuse/rubygem-globalid

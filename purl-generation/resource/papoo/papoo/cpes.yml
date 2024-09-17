@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:papoo:papoo:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:papoo:papoo:21.02:*:*:*:light:*:*:*
+  - cpe:2.3:a:papoo:papoo:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:papoo:papoo:2.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:papoo:papoo:2.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:papoo:papoo:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:papoo:papoo:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:papoo:papoo:3.0.0_beta1:*:*:*:*:*:*:*
+  - cpe:2.3:a:papoo:papoo:3.0.0_rc3:*:*:*:*:*:*:*
+  - cpe:2.3:a:papoo:papoo:3.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:papoo:papoo:3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:papoo:papoo:3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:papoo:papoo:3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:papoo:papoo:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:papoo:papoo:3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:papoo:papoo:6.0.1:*:*:*:pro:*:*:*
+  - cpe:2.3:a:papoo:papoo:-:*:*:*:light:*:*:*
+  - cpe:2.3:a:papoo:papoo:-:*:*:*:pro:*:*:*

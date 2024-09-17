@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:open-xchange:open-xchange_documentconverter_api:7.8.3:revision5:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_documentconverter_api:7.8.3:revision6:*:*:*:*:*:*
+  - cpe:2.3:a:open-xchange:open-xchange_documentconverter_api:7.8.3:revision7:*:*:*:*:*:*

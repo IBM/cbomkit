@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jenkins:tics:2020.3.0.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:tics:2020.3.0.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:tics:-:*:*:*:*:jenkins:*:*

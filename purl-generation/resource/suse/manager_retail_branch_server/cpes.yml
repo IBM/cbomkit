@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:suse:manager_retail_branch_server:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:manager_retail_branch_server:4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:manager_retail_branch_server:4.3:*:*:*:*:*:*:*

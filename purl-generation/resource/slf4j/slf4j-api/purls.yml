@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/qos-ch/slf4j
+  - pkg:maven/org.slf4j/slf4j-api
+  - pkg:nuget/slf4j-api
+  - pkg:nuget/Slf4jApi

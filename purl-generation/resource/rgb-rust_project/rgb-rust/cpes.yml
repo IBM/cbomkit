@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:rgb-rust_project:rgb-rust:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:rgb-rust_project:rgb-rust:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rgb-rust_project:rgb-rust:0.8.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:rgb-rust_project:rgb-rust:0.8.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:rgb-rust_project:rgb-rust:0.8.20:*:*:*:*:*:*:*

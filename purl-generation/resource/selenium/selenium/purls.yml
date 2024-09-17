@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/seleniumhq/selenium
+  - pkg:maven/org.seleniumhq.selenium/selenium
+  - pkg:pypi/selenium
+  - pkg:sourceforge/seleniumhq.mirror

@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/adequate
+  - pkg:deb/ubuntu/adequate

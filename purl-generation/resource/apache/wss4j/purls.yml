@@ -1,0 +1,6 @@
+purls:
+  - pkg:apache/ws
+  - pkg:deb/debian/wss4j
+  - pkg:deb/ubuntu/wss4j
+  - pkg:github/apache/ws-wss4j
+  - pkg:maven/org.apache.wss4j/wss4j

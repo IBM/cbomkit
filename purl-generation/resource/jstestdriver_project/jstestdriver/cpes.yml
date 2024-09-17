@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:jstestdriver_project:jstestdriver:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jstestdriver_project:jstestdriver:-:*:*:*:*:node.js:*:*

@@ -1,0 +1,100 @@
+# CBOMkit
+# Copyright (C) 2024 IBM
+#
+# This program is free software; you can redistribute it and/or
+# modify it under the terms of the GNU Lesser General Public
+# License as published by the Free Software Foundation; either
+# version 3 of the License, or (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# Lesser General Public License for more details.
+#
+# You should have received a copy of the GNU Lesser General Public License
+# along with this program; if not, write to the Free Software Foundation,
+# Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+services:
+  backend:
+    image: cbomkit:${CBOMKIT_VERSION}
+    environment:
+      CBOMKIT_DB_TYPE: postgresql
+      CBOMKIT_DB_JDBC_URL: jdbc:postgresql://db:5432/postgres
+      CBOMKIT_PORT: 8081
+      CBOMKIT_DB_USERNAME: ${POSTGRESQL_AUTH_USERNAME}
+      CBOMKIT_DB_PASSWORD: ${POSTGRESQL_AUTH_PASSWORD}
+      CBOMKIT_FRONTEND_URL_CORS: "http://localhost:8001"
+#      CBOMKIT_REGULATOR_API_BASE: "http://regulator:8080"
+#      CBOMKIT_QS_EXPLORER_API_BASE: "http://localhost:8000/api/v1/scan"
+    ports:
+      - "8081:8081"
+    volumes:
+      - cbomkit-volume:/home/user/.cbomkit
+    restart: always
+    deploy:
+      resources:
+        reservations:
+          memory: 8192m
+    profiles:
+      - prod
+      - ext-compliance
+      - dev-frontend
+  frontend:
+    image: cbomkit-frontend:${CBOMKIT_VERSION}
+    environment:
+      VUE_APP_HTTP_API_BASE: "http://localhost:8081"
+      VUE_APP_WS_API_BASE: "ws://localhost:8081"
+      VUE_APP_TITLE: "CBOMkit"
+      VUE_APP_VIEWER_ONLY: ${CBOMKIT_VIEWER}
+    ports:
+      - "8001:8000"
+    restart: always
+    profiles:
+      - prod
+      - ext-compliance
+      - dev-backend
+      - viewer
+  db:
+    image: postgres:15-alpine
+    user: postgres
+    environment:
+      POSTGRES_DB: postgres
+      POSTGRES_USER: ${POSTGRESQL_AUTH_USERNAME}
+      POSTGRES_PASSWORD: ${POSTGRESQL_AUTH_PASSWORD}
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: [ "CMD", "pg_isready -U postgres" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    volumes:
+      - "pg-volume:/var/lib/postgresql/data/"
+    restart: always
+    profiles:
+      - prod
+      - ext-compliance
+      - dev
+      - dev-backend
+      - dev-frontend
+  regulator:
+    image: ibm-regulator
+    environment:
+      OPA_BASE_URL: "http://opa:8181"
+    ports:
+      - "8080:8080"
+    profiles:
+      - ext-compliance
+  opa:
+    image: openpolicyagent/opa:0.66.0
+    command:
+      - "run"
+      - "--addr=0.0.0.0:8181"
+      - "--server"
+    ports:
+      - "8181:8181"
+    profiles:
+      - ext-compliance
+volumes:
+  cbomkit-volume:
+  pg-volume:

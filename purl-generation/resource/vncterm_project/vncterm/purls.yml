@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/libvnc/vncterm
+  - pkg:rpm/opensuse/vncterm

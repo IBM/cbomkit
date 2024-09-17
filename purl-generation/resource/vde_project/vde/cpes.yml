@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:vde_project:vde:2.0.1:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:vde_project:vde:2.0.2:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:vde_project:vde:2.0:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:vde_project:vde:2.1.0:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:vde_project:vde:2.1.1:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:vde_project:vde:2.1.2:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:vde_project:vde:2.1.3:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:vde_project:vde:2.1.4:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:vde_project:vde:2.1.5:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:vde_project:vde:2.1.6:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:vde_project:vde:2.2.0:pre1:*:*:*:gentoo:*:*
+  - cpe:2.3:a:vde_project:vde:2.2.1:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:vde_project:vde:2.2.2:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:vde_project:vde:2.2.3:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:vde_project:vde:2.3.1:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:vde_project:vde:2.3.2:r4:*:*:*:gentoo:*:*
+  - cpe:2.3:a:vde_project:vde:2.3:*:*:*:*:gentoo:*:*
+  - cpe:2.3:a:vde_project:vde:*:r4:*:*:*:gentoo:*:*

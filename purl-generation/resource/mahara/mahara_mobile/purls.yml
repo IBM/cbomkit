@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/holloway/mahara-mobile
+  - pkg:github/maharaproject/mahara-mobile-cordova

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/guake
+  - pkg:deb/ubuntu/guake
+  - pkg:github/guake/guake
+  - pkg:pypi/guake
+  - pkg:rpm/fedora/guake
+  - pkg:rpm/opensuse/guake

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:neocrome:seditio:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:neocrome:seditio:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:neocrome:seditio:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:neocrome:seditio:102:*:*:*:*:*:*:*
+  - cpe:2.3:a:neocrome:seditio:1.10:*:*:*:*:*:*:*

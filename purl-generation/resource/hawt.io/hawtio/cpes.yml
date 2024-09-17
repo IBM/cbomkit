@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:hawt.io:hawtio:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:hawt.io:hawtio:1.5.5:*:*:*:*:*:*:*

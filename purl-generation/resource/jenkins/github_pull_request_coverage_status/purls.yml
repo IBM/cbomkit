@@ -1,0 +1,2 @@
+purls:
+  - pkg:github/jenkinsci/github-pr-coverage-status-plugin

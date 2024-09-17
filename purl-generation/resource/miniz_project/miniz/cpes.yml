@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:miniz_project:miniz:109:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniz_project:miniz:111:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniz_project:miniz:112:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniz_project:miniz:113:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniz_project:miniz:114:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniz_project:miniz:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniz_project:miniz:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniz_project:miniz:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniz_project:miniz:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniz_project:miniz:2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniz_project:miniz:2.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniz_project:miniz:2.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniz_project:miniz:2.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniz_project:miniz:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniz_project:miniz:22.0.1:*:*:*:*:*:*:*

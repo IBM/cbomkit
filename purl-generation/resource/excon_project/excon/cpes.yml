@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:excon_project:excon:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:excon_project:excon:0.64.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:excon_project:excon:0.65.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:excon_project:excon:0.66.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:excon_project:excon:0.67.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:excon_project:excon:0.68.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:excon_project:excon:0.69.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:excon_project:excon:0.69.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:excon_project:excon:0.70.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:excon_project:excon:0.71.0:*:*:*:*:*:*:*

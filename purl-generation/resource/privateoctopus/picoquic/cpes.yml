@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:privateoctopus:picoquic:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:privateoctopus:picoquic:2020-07-03:*:*:*:*:*:*:*

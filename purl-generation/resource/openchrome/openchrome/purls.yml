@@ -1,0 +1,7 @@
+purls:
+  - pkg:github/freedesktop/openchrome-drm-openchrome
+  - pkg:github/freedesktop/openchrome-xf86-video-openchrome
+  - pkg:rpm/fedora/xorg-x11-drv-openchrome
+  - pkg:rpm/opensuse/xf86-video-openchrome
+  - pkg:rpm/opensuse/xorg-x11-drv-openchrome
+  - pkg:sourceforge/openchrome

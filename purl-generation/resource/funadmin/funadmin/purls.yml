@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/funadmin/funadmin
+  - pkg:gitee/funadmin/funadmin
+  - pkg:github/funadmin/funadmin

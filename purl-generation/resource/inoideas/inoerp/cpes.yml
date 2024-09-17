@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:inoideas:inoerp:0.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:inoideas:inoerp:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:inoideas:inoerp:0.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:inoideas:inoerp:0.2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:inoideas:inoerp:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:inoideas:inoerp:0.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:inoideas:inoerp:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:inoideas:inoerp:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:inoideas:inoerp:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:inoideas:inoerp:0.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:inoideas:inoerp:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:inoideas:inoerp:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:inoideas:inoerp:4.15:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:avbooklibrary:avbooklibrary:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:avbooklibrary:avbooklibrary:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:avbooklibrary:avbooklibrary:1.0.1:*:*:*:*:*:*:*

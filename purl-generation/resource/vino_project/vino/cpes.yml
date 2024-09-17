@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:vino_project:vino:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:vino_project:vino:2017-12-15:*:*:*:*:*:*:*

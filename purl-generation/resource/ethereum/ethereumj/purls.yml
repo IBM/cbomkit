@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ethereum/ethereumj
+  - pkg:github/hashgraph/ethereumj
+  - pkg:maven/com.hedera.hashgraph/ethereumj-core

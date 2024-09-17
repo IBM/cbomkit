@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sheetjs/sheetjs
+  - pkg:npm/sheetjs

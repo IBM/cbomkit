@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bestwebsoft/multilanguage-wordpress-plugin
+  - pkg:github/wp-plugins/multilanguage
+  - pkg:github/wpplugins/multilanguage

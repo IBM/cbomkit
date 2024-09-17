@@ -1,0 +1,12 @@
+purls:
+  - pkg:cpan/crypt::net::slp
+  - pkg:gem/rslp
+  - pkg:github/openslp-org/openslp
+  - pkg:npm/slp
+  - pkg:pypi/pyslp
+  - pkg:rpm/fedora/openslp
+  - pkg:rpm/opensuse/openslp
+  - pkg:rpm/opensuse/openslp-32bit
+  - pkg:rpm/opensuse/openslp-64bit
+  - pkg:rpm/opensuse/openslp-x86
+  - pkg:sourceforge/openslp

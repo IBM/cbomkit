@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/resmo/jamwiki
+  - pkg:github/node/jamwiki
+  - pkg:maven/org.olat.jamwiki/jamwiki-core
+  - pkg:sourceforge/jamwiki

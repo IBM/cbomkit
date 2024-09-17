@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:mmbase:mmbase:1.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mmbase:mmbase:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mmbase:mmbase:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mmbase:mmbase:1.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mmbase:mmbase:1.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mmbase:mmbase:1.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mmbase:mmbase:1.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mmbase:mmbase:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mmbase:mmbase:1.7.0_rc1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mmbase:mmbase:1.7.0_rc2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mmbase:mmbase:1.7.0_rc3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mmbase:mmbase:1.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mmbase:mmbase:1.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mmbase:mmbase:1.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mmbase:mmbase:1.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mmbase:mmbase:1.7.4_rc1:*:*:*:*:*:*:*

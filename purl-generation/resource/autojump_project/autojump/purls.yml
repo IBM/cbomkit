@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/autojump
+  - pkg:deb/ubuntu/autojump
+  - pkg:github/wting/autojump
+  - pkg:rpm/fedora/autojump
+  - pkg:rpm/opensuse/autojump

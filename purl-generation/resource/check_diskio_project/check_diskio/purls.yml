@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/matteocorti/check_diskio
+  - pkg:github/openmandrivaassociation/nagios-check_diskio

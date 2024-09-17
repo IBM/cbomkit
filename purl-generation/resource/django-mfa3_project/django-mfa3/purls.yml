@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/xi/django-mfa3
+  - pkg:pypi/django-mfa3

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/k3s-io/k3s
+  - pkg:golang/github.com/k3s-io/k3s
+  - pkg:rpm/opensuse/k3s

@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:parted_project:parted:1.6.25.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:parted_project:parted:1.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:parted_project:parted:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:parted_project:parted:1.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:parted_project:parted:1.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:parted_project:parted:1.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:parted_project:parted:1.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:parted_project:parted:1.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:parted_project:parted:1.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:parted_project:parted:1.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:parted_project:parted:1.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:parted_project:parted:1.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:parted_project:parted:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:parted_project:parted:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:parted_project:parted:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:parted_project:parted:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:parted_project:parted:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:parted_project:parted:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:parted_project:parted:3.2:*:*:*:*:*:*:*

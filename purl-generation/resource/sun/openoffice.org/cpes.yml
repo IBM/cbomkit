@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:sun:openoffice.org:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:2.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:3.1.9420:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sun:openoffice.org:3.3.9567:*:*:*:*:*:*:*

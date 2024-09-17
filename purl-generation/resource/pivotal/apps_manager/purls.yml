@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/lafin/node-cloudfoundry-apps-manager
+  - pkg:npm/node-cloudfoundry-apps-manager

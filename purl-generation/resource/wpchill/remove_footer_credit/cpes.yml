@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:wpchill:remove_footer_credit:1.0.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:remove_footer_credit:1.0.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:remove_footer_credit:1.0.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:remove_footer_credit:1.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:remove_footer_credit:1.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:remove_footer_credit:1.0.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:remove_footer_credit:1.0.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpchill:remove_footer_credit:-:*:*:*:*:wordpress:*:*

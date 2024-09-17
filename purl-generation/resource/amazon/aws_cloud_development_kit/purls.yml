@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/aws/aws-cdk
+  - pkg:npm/aws-cdk

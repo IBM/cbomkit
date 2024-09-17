@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:gnu:lightning:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:lightning:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:lightning:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:lightning:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:lightning:1.99:-:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:lightning:1.99:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:lightning:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:lightning:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:lightning:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:lightning:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:lightning:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:lightning:2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:lightning:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:lightning:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:lightning:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:lightning:2.1.3:*:*:*:*:*:*:*

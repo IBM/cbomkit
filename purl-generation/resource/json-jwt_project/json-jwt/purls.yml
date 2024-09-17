@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-json-jwt
+  - pkg:deb/ubuntu/ruby-json-jwt
+  - pkg:gem/json-jwt
+  - pkg:github/nov/json-jwt
+  - pkg:rpm/opensuse/rubygem-json-jwt

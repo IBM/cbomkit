@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/pound
+  - pkg:deb/ubuntu/pound
+  - pkg:github/fireeye/pound
+  - pkg:github/srcshelton/pound
+  - pkg:rpm/fedora/pound
+  - pkg:rpm/opensuse/pound

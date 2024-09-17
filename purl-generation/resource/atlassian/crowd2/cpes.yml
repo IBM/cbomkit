@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:atlassian:crowd2:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:atlassian:crowd2:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:atlassian:crowd2:1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:atlassian:crowd2:1.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:atlassian:crowd2:1.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:atlassian:crowd2:1.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:atlassian:crowd2:1.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:atlassian:crowd2:1.7:beta1:*:*:*:jenkins:*:*
+  - cpe:2.3:a:atlassian:crowd2:1.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:atlassian:crowd2:1.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:atlassian:crowd2:2.0.0:beta1:*:*:*:jenkins:*:*
+  - cpe:2.3:a:atlassian:crowd2:2.0.0:beta2:*:*:*:jenkins:*:*
+  - cpe:2.3:a:atlassian:crowd2:2.0.0:beta3:*:*:*:jenkins:*:*
+  - cpe:2.3:a:atlassian:crowd2:2.0.0:beta4:*:*:*:jenkins:*:*
+  - cpe:2.3:a:atlassian:crowd2:2.0.0:-:*:*:*:jenkins:*:*
+  - cpe:2.3:a:atlassian:crowd2:2.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:atlassian:crowd2:2.0.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:atlassian:crowd2:-:*:*:*:*:jenkins:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/apache/activemq-apollo
+  - pkg:github/chirino/activemq-apollo
+  - pkg:maven/org.apache.activemq/apollo-project

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-league-flysystem
+  - pkg:deb/ubuntu/php-league-flysystem
+  - pkg:github/thephpleague/flysystem
+  - pkg:rpm/fedora/php-league-flysystem
+  - pkg:sourceforge/flysystem.mirror

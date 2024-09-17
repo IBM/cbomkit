@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:goldplugins:locations:3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:goldplugins:locations:3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:goldplugins:locations:3.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:goldplugins:locations:3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:goldplugins:locations:4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:goldplugins:locations:-:*:*:*:*:wordpress:*:*

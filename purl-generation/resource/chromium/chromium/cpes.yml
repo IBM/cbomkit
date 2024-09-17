@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:chromium:chromium:11.0.696.64:*:*:*:*:*:*:*
+  - cpe:2.3:a:chromium:chromium:112.0.5592.0:*:*:*:*:*:x64:*
+  - cpe:2.3:a:chromium:chromium:40.0.2214.110:*:*:*:*:*:*:*
+  - cpe:2.3:a:chromium:chromium:40.0.2214.94:*:*:*:*:*:*:*
+  - cpe:2.3:a:chromium:chromium:61.0.3163.79:*:*:*:*:*:*:*

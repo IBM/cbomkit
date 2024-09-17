@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bluejekyll/trust-dns
+  - pkg:rpm/fedora/rust-trust-dns-proto
+  - pkg:rpm/opensuse/rust-trust-dns-proto

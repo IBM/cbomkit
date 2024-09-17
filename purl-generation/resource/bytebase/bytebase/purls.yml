@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/bytebase/bytebase
+  - pkg:github/bytebase/bytebase

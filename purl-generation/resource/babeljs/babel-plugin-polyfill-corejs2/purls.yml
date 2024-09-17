@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/babel/babel-polyfills
+  - pkg:maven/org.mvnpm/babel-plugin-polyfill-corejs2
+  - pkg:npm/babel-plugin-polyfill-corejs2

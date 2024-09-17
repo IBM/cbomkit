@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/awslabs/aws-c-io
+  - pkg:rpm/opensuse/aws-c-io

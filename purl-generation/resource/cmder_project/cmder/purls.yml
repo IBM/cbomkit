@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/cmderdev/cmder
+  - pkg:golang/github.com/cmderdev/cmder
+  - pkg:sourceforge/cmder.mirror

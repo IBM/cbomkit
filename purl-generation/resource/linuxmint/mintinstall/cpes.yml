@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:linuxmint:mintinstall:6.3.7.1:*:*:*:*:linux_mint:*:*
+  - cpe:2.3:a:linuxmint:mintinstall:6.3.8:*:*:*:*:linux_mint:*:*
+  - cpe:2.3:a:linuxmint:mintinstall:6.3.9:*:*:*:*:linux_mint:*:*
+  - cpe:2.3:a:linuxmint:mintinstall:6.4.0:*:*:*:*:linux_mint:*:*
+  - cpe:2.3:a:linuxmint:mintinstall:6.4.1:*:*:*:*:linux_mint:*:*
+  - cpe:2.3:a:linuxmint:mintinstall:6.4.2:*:*:*:*:linux_mint:*:*
+  - cpe:2.3:a:linuxmint:mintinstall:6.4.3:*:*:*:*:linux_mint:*:*
+  - cpe:2.3:a:linuxmint:mintinstall:6.4.4:*:*:*:*:linux_mint:*:*
+  - cpe:2.3:a:linuxmint:mintinstall:6.4.5:*:*:*:*:linux_mint:*:*
+  - cpe:2.3:a:linuxmint:mintinstall:7.9.9:*:*:*:*:linux_mint:*:*

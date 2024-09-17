@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:dokan_project:dokan:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokan_project:dokan:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokan_project:dokan:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokan_project:dokan:0.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokan_project:dokan:0.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokan_project:dokan:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokan_project:dokan:1.0.0.5000:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokan_project:dokan:1.0.1.1000:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokan_project:dokan:1.0.2.1000:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokan_project:dokan:1.0.3.1000:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokan_project:dokan:1.0.4.1000:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokan_project:dokan:1.0.5.1000:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokan_project:dokan:1.1.0.1000:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokan_project:dokan:1.1.0.2000:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokan_project:dokan:1.2.0.1000:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokan_project:dokan:1.2.1.1000:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokan_project:dokan:1.2.1.2000:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokan_project:dokan:1.2.2.1000:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokan_project:dokan:1.3.0.1000:*:*:*:*:*:*:*

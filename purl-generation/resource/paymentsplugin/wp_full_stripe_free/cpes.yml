@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:paymentsplugin:wp_full_stripe_free:1.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymentsplugin:wp_full_stripe_free:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:paymentsplugin:wp_full_stripe_free:-:*:*:*:*:wordpress:*:*

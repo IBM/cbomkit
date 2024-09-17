@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/jabberd2
+  - pkg:deb/ubuntu/jabberd2
+  - pkg:github/jabberd2/jabberd2

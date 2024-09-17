@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/drupalprojects/views_bulk_operations
+  - pkg:github/fastcat/views_bulk_operations

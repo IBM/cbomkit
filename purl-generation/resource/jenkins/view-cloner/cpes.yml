@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:jenkins:view-cloner:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:view-cloner:1.1:*:*:*:*:jenkins:*:*

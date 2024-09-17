@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jchristn/ipmatcher
+  - pkg:nuget/IpMatcher

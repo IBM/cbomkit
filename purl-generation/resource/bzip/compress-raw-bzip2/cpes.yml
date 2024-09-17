@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:bzip:compress-raw-bzip2:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:bzip:compress-raw-bzip2:2.0.00_10:*:*:*:*:*:*:*
+  - cpe:2.3:a:bzip:compress-raw-bzip2:2.0.00_12:*:*:*:*:*:*:*
+  - cpe:2.3:a:bzip:compress-raw-bzip2:2.0.00_14:*:*:*:*:*:*:*
+  - cpe:2.3:a:bzip:compress-raw-bzip2:2.0.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:bzip:compress-raw-bzip2:2.0.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:bzip:compress-raw-bzip2:2.0.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:bzip:compress-raw-bzip2:2.0.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:bzip:compress-raw-bzip2:2.0.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:bzip:compress-raw-bzip2:2.0.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:bzip:compress-raw-bzip2:2.0.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:bzip:compress-raw-bzip2:2.010:*:*:*:*:*:*:*
+  - cpe:2.3:a:bzip:compress-raw-bzip2:2.011:*:*:*:*:*:*:*
+  - cpe:2.3:a:bzip:compress-raw-bzip2:2.012:*:*:*:*:*:*:*
+  - cpe:2.3:a:bzip:compress-raw-bzip2:2.014:*:*:*:*:*:*:*
+  - cpe:2.3:a:bzip:compress-raw-bzip2:2.015:*:*:*:*:*:*:*

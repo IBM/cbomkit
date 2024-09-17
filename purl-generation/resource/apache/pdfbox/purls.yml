@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/pdfbox
+  - pkg:github/apache/pdfbox
+  - pkg:maven/org.apache..pdfbox/pdfbox
+  - pkg:rpm/fedora/pdfbox
+  - pkg:rpm/opensuse/apache-pdfbox
+  - pkg:sourceforge/pdfbox

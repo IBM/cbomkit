@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/libretime/libretime
+  - pkg:golang/github.com/libretime/libretime

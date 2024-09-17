@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/gitlab/gitlab-runner
+  - pkg:github/gitlabhq/gitlab-runner
+  - pkg:gitlab/gitlab-org/gitlab-runner
+  - pkg:rpm/opensuse/gitlab-runner

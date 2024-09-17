@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/joomla/joomla-cms
+  - pkg:rpm/opensuse/joomla
+  - pkg:sourceforge/joomla.mirror

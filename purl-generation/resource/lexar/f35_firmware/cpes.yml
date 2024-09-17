@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:o:lexar:f35_firmware:1.0.34:*:*:*:*:*:*:*
+  - cpe:2.3:o:lexar:f35_firmware:1.0.34.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:lexar:f35_firmware:1.0.34.0:*:*:*:*:windows:*:*

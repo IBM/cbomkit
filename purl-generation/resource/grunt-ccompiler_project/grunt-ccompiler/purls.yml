@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/alfonsofilho/grunt-ccompiler
+  - pkg:npm/grunt-ccompiler

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jonschlinkert/git-add-remote
+  - pkg:npm/git-add-remote

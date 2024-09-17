@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/electron/electron
+  - pkg:gitlab/immersaview/electron
+  - pkg:npm/electron
+  - pkg:rpm/opensuse/nodejs-electron
+  - pkg:sourceforge/electron.mirror

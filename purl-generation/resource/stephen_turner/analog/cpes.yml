@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:stephen_turner:analog:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:stephen_turner:analog:3.90_beta1:*:*:*:*:*:*:*
+  - cpe:2.3:a:stephen_turner:analog:3.90_beta2:*:*:*:*:*:*:*
+  - cpe:2.3:a:stephen_turner:analog:4.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:stephen_turner:analog:4.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:stephen_turner:analog:4.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:stephen_turner:analog:4.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:stephen_turner:analog:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:stephen_turner:analog:4.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:stephen_turner:analog:4.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:stephen_turner:analog:4.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:stephen_turner:analog:4.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:stephen_turner:analog:4.90_beta2:*:*:*:*:*:*:*
+  - cpe:2.3:a:stephen_turner:analog:4.90_beta3:*:*:*:*:*:*:*
+  - cpe:2.3:a:stephen_turner:analog:4.90_beta4:*:*:*:*:*:*:*
+  - cpe:2.3:a:stephen_turner:analog:4.91_beta1:*:*:*:*:*:*:*
+  - cpe:2.3:a:stephen_turner:analog:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:stephen_turner:analog:5.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:stephen_turner:analog:5.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:stephen_turner:analog:5.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:stephen_turner:analog:5.1a:*:*:*:*:*:*:*
+  - cpe:2.3:a:stephen_turner:analog:5.2:*:*:*:*:*:*:*

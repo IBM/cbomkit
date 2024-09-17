@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:vitamin_plugin_project:vitamin:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vitamin_plugin_project:vitamin:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:vitamin_plugin_project:vitamin:1.2.0:*:*:*:*:wordpress:*:*

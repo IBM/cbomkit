@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:mystem-wrapper_project:mystem-wrapper:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mystem-wrapper_project:mystem-wrapper:0.2.0:*:*:*:*:node.js:*:*

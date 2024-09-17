@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/cbioportal/cbioportal
+  - pkg:github/cbioportal/cbioportal

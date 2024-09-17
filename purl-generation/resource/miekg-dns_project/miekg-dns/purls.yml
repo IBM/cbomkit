@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/golang-github-miekg-dns
+  - pkg:deb/ubuntu/golang-github-miekg-dns
+  - pkg:github/miekg/dns
+  - pkg:rpm/fedora/golang-github-miekg-dns

@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:is-svg_project:is-svg:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-svg_project:is-svg:0.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-svg_project:is-svg:0.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-svg_project:is-svg:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-svg_project:is-svg:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-svg_project:is-svg:1.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-svg_project:is-svg:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-svg_project:is-svg:1.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-svg_project:is-svg:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-svg_project:is-svg:2.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-svg_project:is-svg:2.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-svg_project:is-svg:3.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-svg_project:is-svg:4.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-svg_project:is-svg:4.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-svg_project:is-svg:4.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-svg_project:is-svg:4.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-svg_project:is-svg:4.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-svg_project:is-svg:4.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-svg_project:is-svg:4.3.1:*:*:*:*:node.js:*:*

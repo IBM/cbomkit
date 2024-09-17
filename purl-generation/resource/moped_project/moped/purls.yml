@@ -1,0 +1,5 @@
+purls:
+  - pkg:gem/moped
+  - pkg:github/mongoid/moped
+  - pkg:rpm/fedora/rubygem-moped
+  - pkg:rpm/opensuse/rubygem-moped

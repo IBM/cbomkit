@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/wackowiki/wackowiki
+  - pkg:composer/wackowiki/wackowiki
+  - pkg:github/wackowiki/wackowiki
+  - pkg:sourceforge/wackowiki

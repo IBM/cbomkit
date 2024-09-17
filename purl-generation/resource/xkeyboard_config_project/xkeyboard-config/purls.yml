@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/xkeyboard-config
+  - pkg:deb/ubuntu/xkeyboard-config
+  - pkg:github/freedesktop/xkeyboard-config
+  - pkg:gitlab/redhat/xkeyboard-config
+  - pkg:rpm/fedora/xkeyboard-config
+  - pkg:rpm/opensuse/xkeyboard-config

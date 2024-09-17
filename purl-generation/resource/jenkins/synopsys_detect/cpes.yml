@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:jenkins:synopsys_detect:1.0.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:synopsys_detect:1.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:synopsys_detect:1.0.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:synopsys_detect:1.1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:synopsys_detect:1.2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:synopsys_detect:1.3.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:synopsys_detect:1.4.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:synopsys_detect:1.4.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:synopsys_detect:1.5.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:synopsys_detect:2.0.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:synopsys_detect:2.0.1:*:*:*:*:jenkins:*:*

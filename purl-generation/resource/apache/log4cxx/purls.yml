@@ -1,0 +1,9 @@
+purls:
+  - pkg:apache/apache-log4cxx
+  - pkg:deb/debian/log4cxx
+  - pkg:deb/ubuntu/log4cxx
+  - pkg:github/apache/logging-log4cxx
+  - pkg:maven/apache-log4cxx.contrib/log4cxx
+  - pkg:rpm/fedora/log4cxx
+  - pkg:rpm/opensuse/log4cxx
+  - pkg:sourceforge/log4cxx

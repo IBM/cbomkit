@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/sosreport/sos-collector
+  - pkg:gitlab/redhat/sos-collector
+  - pkg:rpm/centos/sos-collector
+  - pkg:rpm/opensuse/sos-collector

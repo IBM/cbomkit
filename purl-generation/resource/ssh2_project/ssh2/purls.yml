@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mscdex/ssh2
+  - pkg:npm/ssh2

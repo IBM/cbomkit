@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:noise-java_project:noise-java:2016-10-08:*:*:*:*:*:*:*
+  - cpe:2.3:a:noise-java_project:noise-java:2019-08-13:*:*:*:*:*:*:*
+  - cpe:2.3:a:noise-java_project:noise-java:2020-08-27:*:*:*:*:*:*:*
+  - cpe:2.3:a:noise-java_project:noise-java:2020-08-28:*:*:*:*:*:*:*
+  - cpe:2.3:a:noise-java_project:noise-java:2020-09-02:*:*:*:*:*:*:*
+  - cpe:2.3:a:noise-java_project:noise-java:2020-09-03:*:*:*:*:*:*:*
+  - cpe:2.3:a:noise-java_project:noise-java:2020-10-13:*:*:*:*:*:*:*
+  - cpe:2.3:a:noise-java_project:noise-java:2020-10-20:*:*:*:*:*:*:*

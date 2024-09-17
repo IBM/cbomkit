@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gradio-app/gradio
+  - pkg:pypi/gradio

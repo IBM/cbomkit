@@ -1,0 +1,8 @@
+purls:
+  - pkg:cpan/pdflib
+  - pkg:gem/pdflib_wrapper
+  - pkg:gnu/pypdflib
+  - pkg:npm/pdflib
+  - pkg:nuget/PDFLib
+  - pkg:pypi/pdflib
+  - pkg:sourceforge/pdflib

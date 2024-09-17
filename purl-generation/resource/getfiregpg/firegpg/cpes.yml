@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:getfiregpg:firegpg:0.6.1:*:*:*:*:firefox:*:*
+  - cpe:2.3:a:getfiregpg:firegpg:0.6.2:*:*:*:*:firefox:*:*
+  - cpe:2.3:a:getfiregpg:firegpg:0.6.3:*:*:*:*:firefox:*:*
+  - cpe:2.3:a:getfiregpg:firegpg:0.6.4:*:*:*:*:firefox:*:*
+  - cpe:2.3:a:getfiregpg:firegpg:0.6:*:*:*:*:firefox:*:*
+  - cpe:2.3:a:getfiregpg:firegpg:0.7.10:*:*:*:*:firefox:*:*
+  - cpe:2.3:a:getfiregpg:firegpg:0.7.1:*:*:*:*:firefox:*:*
+  - cpe:2.3:a:getfiregpg:firegpg:0.7.2:*:*:*:*:firefox:*:*
+  - cpe:2.3:a:getfiregpg:firegpg:0.7.3:*:*:*:*:firefox:*:*
+  - cpe:2.3:a:getfiregpg:firegpg:0.7.4:*:*:*:*:firefox:*:*
+  - cpe:2.3:a:getfiregpg:firegpg:0.7.5:*:*:*:*:firefox:*:*
+  - cpe:2.3:a:getfiregpg:firegpg:0.7.6:*:*:*:*:firefox:*:*
+  - cpe:2.3:a:getfiregpg:firegpg:0.7.7:*:*:*:*:firefox:*:*
+  - cpe:2.3:a:getfiregpg:firegpg:0.7.8:*:*:*:*:firefox:*:*
+  - cpe:2.3:a:getfiregpg:firegpg:0.7.9:*:*:*:*:firefox:*:*
+  - cpe:2.3:a:getfiregpg:firegpg:0.7:*:*:*:*:firefox:*:*
+  - cpe:2.3:a:getfiregpg:firegpg:0.8:*:*:*:*:firefox:*:*
+  - cpe:2.3:a:getfiregpg:firegpg:-:*:*:*:*:firefox:*:*

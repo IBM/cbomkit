@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ecorvo/wp-visual-slidebox-builder
+  - pkg:github/wp-plugins/wp-visual-slidebox-builder
+  - pkg:github/wpplugins/wp-visual-slidebox-builder

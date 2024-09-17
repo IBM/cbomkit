@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/connected-web/product-monitor
+  - pkg:npm/product-monitor

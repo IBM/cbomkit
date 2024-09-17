@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-doctrine-dbal
+  - pkg:deb/ubuntu/php-doctrine-dbal
+  - pkg:github/doctrine/dbal
+  - pkg:rpm/fedora/php-doctrine-dbal
+  - pkg:sourceforge/doctrine-dbal.mirror

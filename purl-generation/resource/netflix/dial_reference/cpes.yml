@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:netflix:dial_reference:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:netflix:dial_reference:6-18-2019:*:*:*:*:*:*:*

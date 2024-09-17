@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:o:espressif:esp32_firmware:-:*:*:*:*:*:*:*
+  - cpe:2.3:o:espressif:esp32_firmware:4.2:*:*:*:*:*:*:*

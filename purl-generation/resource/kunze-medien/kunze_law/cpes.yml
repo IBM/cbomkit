@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:kunze-medien:kunze_law:1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kunze-medien:kunze_law:2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kunze-medien:kunze_law:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:gnu:zebra:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:zebra:0.91:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:zebra:0.91a:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:zebra:0.92a:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:zebra:0.93a:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:zebra:0.93b:*:*:*:*:*:*:*

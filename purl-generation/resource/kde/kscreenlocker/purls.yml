@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/kscreenlocker
+  - pkg:deb/ubuntu/kscreenlocker
+  - pkg:github/kde/kscreenlocker
+  - pkg:rpm/fedora/kscreenlocker
+  - pkg:rpm/opensuse/kscreenlocker

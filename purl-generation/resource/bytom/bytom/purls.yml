@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/bytom/bytom
+  - pkg:docker/bytom/bytom
+  - pkg:github/bytom/bytom

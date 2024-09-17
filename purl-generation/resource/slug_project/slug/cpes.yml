@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:slug_project:slug:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:0.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:0.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:0.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:0.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:0.3.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:0.3.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:0.3.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:0.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:0.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:0.4.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:0.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:0.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:0.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:0.7.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:0.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:0.9.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:0.9.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:0.9.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:0.9.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:0.9.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:slug_project:slug:1.1.0:*:*:*:*:node.js:*:*

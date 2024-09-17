@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/tpp
+  - pkg:deb/ubuntu/tpp
+  - pkg:gem/tpp
+  - pkg:github/akrennmair/tpp
+  - pkg:github/yong/tpp
+  - pkg:rpm/fedora/tpp
+  - pkg:rpm/opensuse/tpp

@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/libdbd-pg-perl
+  - pkg:deb/ubuntu/libdbd-pg-perl
+  - pkg:github/bucardo/dbdpg

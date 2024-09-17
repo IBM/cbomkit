@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:nodeserver_project:nodeserver:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nodeserver_project:nodeserver:-:*:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:github/bminor/xz
+  - pkg:github/smart-make/xz
+  - pkg:gitlab/redhat/xz
+  - pkg:rpm/centos/xz
+  - pkg:rpm/fedora/xz
+  - pkg:rpm/opensuse/xz

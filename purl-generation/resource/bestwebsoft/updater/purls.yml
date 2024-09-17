@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bestwebsoft/updater-wordpress-plugin
+  - pkg:github/wp-plugins/updater
+  - pkg:github/wpplugins/updater

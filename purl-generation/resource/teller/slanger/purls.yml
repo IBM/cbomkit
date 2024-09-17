@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/daveed/slanger
+  - pkg:gem/slanger
+  - pkg:github/stevegraham/slanger

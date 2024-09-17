@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/ethtool
+  - pkg:deb/ubuntu/ethtool
+  - pkg:github/distrotech/ethtool
+  - pkg:gitlab/redhat/ethtool
+  - pkg:rpm/centos/ethtool
+  - pkg:rpm/fedora/ethtool
+  - pkg:rpm/opensuse/ethtool

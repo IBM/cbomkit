@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ipsilon-project/ipsilon
+  - pkg:rpm/fedora/ipsilon
+  - pkg:rpm/opensuse/ipsilon

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-bson
+  - pkg:deb/ubuntu/ruby-bson
+  - pkg:gem/bson
+  - pkg:github/mongodb/bson-ruby
+  - pkg:rpm/fedora/rubygem-bson
+  - pkg:rpm/opensuse/rubygem-bson

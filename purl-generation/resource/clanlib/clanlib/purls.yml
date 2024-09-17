@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/sphair/clanlib
+  - pkg:rpm/fedora/clanlib
+  - pkg:rpm/opensuse/clanlib
+  - pkg:sourceforge/clanlib

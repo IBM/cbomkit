@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/jassistbucket/node-sass
+  - pkg:deb/debian/node-node-sass
+  - pkg:deb/ubuntu/node-node-sass
+  - pkg:github/sass/node-sass
+  - pkg:maven/org.webjars.npm/node-sass
+  - pkg:npm/node-sass
+  - pkg:rpm/opensuse/nodejs-node-sass

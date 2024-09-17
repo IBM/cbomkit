@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/open-cas/open-cas-linux
+  - pkg:golang/github.com/open-cas/open-cas-linux

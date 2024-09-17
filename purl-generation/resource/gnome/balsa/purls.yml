@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/balsa
+  - pkg:deb/ubuntu/balsa
+  - pkg:github/gnome/balsa
+  - pkg:rpm/fedora/balsa
+  - pkg:rpm/opensuse/balsa

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:overlay_weaver:overlay_weaver:0.5.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:overlay_weaver:overlay_weaver:0.5.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:overlay_weaver:overlay_weaver:0.5.9:*:*:*:*:*:*:*

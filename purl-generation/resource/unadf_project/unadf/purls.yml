@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/unadf
+  - pkg:deb/ubuntu/unadf

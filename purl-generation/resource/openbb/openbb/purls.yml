@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/openbb-finance/openbbterminal
+  - pkg:golang/github.com/openbb-finance/openbbterminal
+  - pkg:pypi/openbb

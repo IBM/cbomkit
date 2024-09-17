@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pulp/pulp
+  - pkg:pypi/pulp-container

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:zavedil:flightlog:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:zavedil:flightlog:3.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:zavedil:flightlog:-:*:*:*:*:wordpress:*:*

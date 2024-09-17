@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/peercoin/peercoind
+  - pkg:github/peercoin/peercoin

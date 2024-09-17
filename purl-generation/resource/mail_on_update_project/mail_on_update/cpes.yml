@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:mail_on_update_project:mail_on_update:5.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mail_on_update_project:mail_on_update:5.1.0:*:*:*:*:wordpress:*:*

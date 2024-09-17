@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:prestashop:product_comments:3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestashop:product_comments:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestashop:product_comments:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestashop:product_comments:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestashop:product_comments:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestashop:product_comments:4.2.0:*:*:*:*:*:*:*

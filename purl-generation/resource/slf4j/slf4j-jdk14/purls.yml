@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/qos-ch/slf4j
+  - pkg:maven/org.slf4j/slf4j-jdk14
+  - pkg:rpm/opensuse/slf4j-jdk14

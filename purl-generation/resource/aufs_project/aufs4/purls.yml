@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/aufs
+  - pkg:github/sfjro/aufs4-linux
+  - pkg:sourceforge/aufs

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/sasstools/sass-lint
+  - pkg:golang/github.com/sasstools/sass-lint
+  - pkg:npm/sass-lint

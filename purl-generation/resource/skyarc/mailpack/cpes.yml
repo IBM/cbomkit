@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:skyarc:mailpack:1.741:*:*:*:*:*:*:*
+  - cpe:2.3:a:skyarc:mailpack:1.9:*:*:*:*:*:*:*

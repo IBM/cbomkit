@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/layui/layui
+  - pkg:npm/layui

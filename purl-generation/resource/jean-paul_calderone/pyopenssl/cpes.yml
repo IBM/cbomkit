@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:jean-paul_calderone:pyopenssl:0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:jean-paul_calderone:pyopenssl:0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:jean-paul_calderone:pyopenssl:0.11:a1:*:*:*:*:*:*
+  - cpe:2.3:a:jean-paul_calderone:pyopenssl:0.11:a2:*:*:*:*:*:*
+  - cpe:2.3:a:jean-paul_calderone:pyopenssl:0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:jean-paul_calderone:pyopenssl:0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:jean-paul_calderone:pyopenssl:0.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jean-paul_calderone:pyopenssl:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:jean-paul_calderone:pyopenssl:0.8:a1:*:*:*:*:*:*
+  - cpe:2.3:a:jean-paul_calderone:pyopenssl:0.9:*:*:*:*:*:*:*

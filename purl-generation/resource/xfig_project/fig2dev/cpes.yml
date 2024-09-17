@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:xfig_project:fig2dev:3.2.6:-:*:*:*:*:*:*
+  - cpe:2.3:a:xfig_project:fig2dev:3.2.6:beta:*:*:*:*:*:*
+  - cpe:2.3:a:xfig_project:fig2dev:3.2.6:rc:*:*:*:*:*:*
+  - cpe:2.3:a:xfig_project:fig2dev:3.2.7:-:*:*:*:*:*:*
+  - cpe:2.3:a:xfig_project:fig2dev:3.2.7:a:*:*:*:*:*:*
+  - cpe:2.3:a:xfig_project:fig2dev:3.2.7:b:*:*:*:*:*:*
+  - cpe:2.3:a:xfig_project:fig2dev:3.2.8:a:*:*:*:*:*:*

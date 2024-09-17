@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/orca
+  - pkg:deb/ubuntu/orca
+  - pkg:github/gnome/orca
+  - pkg:rpm/centos/orca
+  - pkg:rpm/fedora/orca
+  - pkg:rpm/opensuse/orca

@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:apache_tomcat:apache_tomcat:5.0.16:*:*:*:*:*:*:*

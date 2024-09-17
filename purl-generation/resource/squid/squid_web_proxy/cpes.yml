@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:squid:squid_web_proxy:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:squid:squid_web_proxy:2.3stable3:*:*:*:*:*:*:*
+  - cpe:2.3:a:squid:squid_web_proxy:2.3stable4:*:*:*:*:*:*:*

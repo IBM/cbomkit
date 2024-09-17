@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/jhipster/jhipster
+  - pkg:github/jhipster/generator-jhipster
+  - pkg:sourceforge/jhipster.mirror

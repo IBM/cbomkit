@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/alxchk/emacs-jabber
+  - pkg:deb/debian/emacs-jabber
+  - pkg:deb/ubuntu/emacs-jabber
+  - pkg:github/legoscia/emacs-jabber
+  - pkg:gnome/emacs-jabber
+  - pkg:sourceforge/emacs-jabber

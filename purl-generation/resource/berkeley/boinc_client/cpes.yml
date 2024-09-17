@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:berkeley:boinc_client:6.2.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:berkeley:boinc_client:6.4.5:*:*:*:*:*:*:*

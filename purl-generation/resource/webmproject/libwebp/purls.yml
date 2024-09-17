@@ -1,0 +1,10 @@
+purls:
+  - pkg:bitbucket/posthype/libwebp
+  - pkg:deb/debian/libwebp
+  - pkg:deb/ubuntu/libwebp
+  - pkg:github/webmproject/libwebp
+  - pkg:googlesource/webp
+  - pkg:nuget/vii.libwebp
+  - pkg:rpm/centos/libwebp
+  - pkg:rpm/fedora/libwebp
+  - pkg:rpm/opensuse/libwebp

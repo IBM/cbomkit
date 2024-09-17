@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:path_breadcrumbs_project:path_breadcrumbs:7.x-3.0:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:path_breadcrumbs_project:path_breadcrumbs:7.x-3.1:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:path_breadcrumbs_project:path_breadcrumbs:7.x-3.2:*:*:*:*:drupal:*:*

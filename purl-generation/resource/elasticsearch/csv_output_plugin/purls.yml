@@ -1,0 +1,2 @@
+purls:
+  - pkg:github/logstash-plugins/logstash-output-csv

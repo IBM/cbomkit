@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:kb:multiner:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:kb:multiner:-:*:*:*:*:*:*:*

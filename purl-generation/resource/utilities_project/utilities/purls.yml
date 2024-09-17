@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mde/utilities
+  - pkg:npm/utilities

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/lxterminal
+  - pkg:deb/ubuntu/lxterminal
+  - pkg:github/lxde/lxterminal
+  - pkg:rpm/fedora/lxterminal
+  - pkg:rpm/opensuse/lxterminal
+  - pkg:sourceforge/lxde

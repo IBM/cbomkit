@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libutempter
+  - pkg:deb/ubuntu/libutempter
+  - pkg:github/altlinux/libutempter
+  - pkg:rpm/centos/libutempter
+  - pkg:rpm/fedora/libutempter
+  - pkg:rpm/opensuse/libutempter

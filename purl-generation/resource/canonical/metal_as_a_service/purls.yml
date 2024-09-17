@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/ubuntu/maas
+  - pkg:github/maas/maas

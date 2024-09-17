@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/admesh
+  - pkg:deb/ubuntu/admesh
+  - pkg:github/admesh/admesh
+  - pkg:rpm/fedora/admesh
+  - pkg:rpm/opensuse/admesh

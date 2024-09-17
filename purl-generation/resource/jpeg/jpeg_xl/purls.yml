@@ -1,0 +1,6 @@
+purls:
+  - pkg:Deb/debian/jpeg-xl
+  - pkg:github/imagemagick/jpeg-xl
+  - pkg:github/libjxl/libjxl
+  - pkg:gitlab/wg1/jpeg-xl
+  - pkg:rpm/fedora/jpegxl

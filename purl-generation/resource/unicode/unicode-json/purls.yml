@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/dodo/node-unicodetable
+  - pkg:github/zertz/unicode-json
+  - pkg:npm/unicode-json

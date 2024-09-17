@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/duyet/static-html-server
+  - pkg:npm/static-html-server

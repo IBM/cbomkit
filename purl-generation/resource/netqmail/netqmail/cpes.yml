@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:netqmail:netqmail:1.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:netqmail:netqmail:1.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:netqmail:netqmail:1.06:*:*:*:*:*:*:*

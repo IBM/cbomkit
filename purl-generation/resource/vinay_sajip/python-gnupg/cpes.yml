@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:vinay_sajip:python-gnupg:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vinay_sajip:python-gnupg:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vinay_sajip:python-gnupg:0.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:vinay_sajip:python-gnupg:0.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:vinay_sajip:python-gnupg:0.3.4:*:*:*:*:*:*:*

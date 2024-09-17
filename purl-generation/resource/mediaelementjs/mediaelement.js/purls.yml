@@ -1,0 +1,8 @@
+purls:
+  - pkg:github/mediaelement/mediaelement
+  - pkg:github/opensight/mediaelement
+  - pkg:maven/org.webjars.bower/mediaelement
+  - pkg:maven/org.webjars.npm/mediaelement
+  - pkg:npm/mediaelement
+  - pkg:npm/mediaelementjs
+  - pkg:sourceforge/mediaelement-js.mirror

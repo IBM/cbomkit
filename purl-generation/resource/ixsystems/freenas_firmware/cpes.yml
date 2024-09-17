@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:o:ixsystems:freenas_firmware:11.2:-:*:*:*:*:*:*
+  - cpe:2.3:o:ixsystems:freenas_firmware:11.2:u1:*:*:*:*:*:*
+  - cpe:2.3:o:ixsystems:freenas_firmware:11.2:u2:*:*:*:*:*:*
+  - cpe:2.3:o:ixsystems:freenas_firmware:11.2:u2.1:*:*:*:*:*:*
+  - cpe:2.3:o:ixsystems:freenas_firmware:11.2:u3:*:*:*:*:*:*
+  - cpe:2.3:o:ixsystems:freenas_firmware:11.2:u4:*:*:*:*:*:*
+  - cpe:2.3:o:ixsystems:freenas_firmware:11.2:u4.1:*:*:*:*:*:*
+  - cpe:2.3:o:ixsystems:freenas_firmware:11.2:u5:*:*:*:*:*:*
+  - cpe:2.3:o:ixsystems:freenas_firmware:11.2:u5.1:*:*:*:*:*:*
+  - cpe:2.3:o:ixsystems:freenas_firmware:11.2:u6:*:*:*:*:*:*
+  - cpe:2.3:o:ixsystems:freenas_firmware:11.2:u6.1:*:*:*:*:*:*
+  - cpe:2.3:o:ixsystems:freenas_firmware:11.2:u7:*:*:*:*:*:*
+  - cpe:2.3:o:ixsystems:freenas_firmware:11.3:-:*:*:*:*:*:*
+  - cpe:2.3:o:ixsystems:freenas_firmware:11.3:alpha1:*:*:*:*:*:*
+  - cpe:2.3:o:ixsystems:freenas_firmware:11.3:alpha2:*:*:*:*:*:*
+  - cpe:2.3:o:ixsystems:freenas_firmware:11.3:beta1:*:*:*:*:*:*
+  - cpe:2.3:o:ixsystems:freenas_firmware:11.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:o:ixsystems:freenas_firmware:11.3:rc2:*:*:*:*:*:*

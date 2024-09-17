@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/sofastack/sofa-hessian
+  - pkg:github/sofastack/sofa-hessian-node
+  - pkg:maven/com.alipay.sofa/hessian
+  - pkg:npm/sofa-hessian-node

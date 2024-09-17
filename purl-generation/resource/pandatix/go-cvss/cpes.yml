@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:pandatix:go-cvss:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pandatix:go-cvss:0.2.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:pandatix:go-cvss:0.3.0:*:*:*:*:go:*:*

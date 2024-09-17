@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:slf4j:slf4j-archtype:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-archtype:1.1.0:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-archtype:1.1.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-archtype:1.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-archtype:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-archtype:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-archtype:1.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-archtype:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-archtype:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-archtype:1.4.2:*:*:*:*:*:*:*

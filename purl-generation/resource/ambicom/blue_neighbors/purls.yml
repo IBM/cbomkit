@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libesmtp
+  - pkg:deb/ubuntu/libesmtp
+  - pkg:github/libesmtp/libesmtp
+  - pkg:gitlab/redhat/libesmtp
+  - pkg:rpm/fedora/libesmtp
+  - pkg:rpm/opensuse/libesmtp

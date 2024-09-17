@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:django-mfa3_project:django-mfa3:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-mfa3_project:django-mfa3:0.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-mfa3_project:django-mfa3:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-mfa3_project:django-mfa3:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-mfa3_project:django-mfa3:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-mfa3_project:django-mfa3:0.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-mfa3_project:django-mfa3:0.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-mfa3_project:django-mfa3:0.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-mfa3_project:django-mfa3:0.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-mfa3_project:django-mfa3:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-mfa3_project:django-mfa3:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:django-mfa3_project:django-mfa3:0.5.0:*:*:*:*:*:*:*

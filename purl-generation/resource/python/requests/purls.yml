@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/requests
+  - pkg:deb/ubuntu/requests
+  - pkg:github/psf/requests
+  - pkg:gitlab/gitlab-org/requests
+  - pkg:gitlab/kalilinux/requests
+  - pkg:pypi/requests
+  - pkg:rpm/fedora/python-requests
+  - pkg:rpm/opensuse/python-requests

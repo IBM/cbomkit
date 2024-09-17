@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libsolv
+  - pkg:deb/ubuntu/libsolv
+  - pkg:github/opensuse/libsolv
+  - pkg:rpm/centos/libsolv
+  - pkg:rpm/fedora/libsolv
+  - pkg:rpm/opensuse/libsolv

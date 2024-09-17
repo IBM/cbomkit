@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:ecryptfs:ecryptfs_utils:45:*:*:*:*:*:*:*
+  - cpe:2.3:a:ecryptfs:ecryptfs_utils:46:*:*:*:*:*:*:*
+  - cpe:2.3:a:ecryptfs:ecryptfs_utils:47:*:*:*:*:*:*:*
+  - cpe:2.3:a:ecryptfs:ecryptfs_utils:48:*:*:*:*:*:*:*
+  - cpe:2.3:a:ecryptfs:ecryptfs_utils:49:*:*:*:*:*:*:*
+  - cpe:2.3:a:ecryptfs:ecryptfs_utils:50:*:*:*:*:*:*:*
+  - cpe:2.3:a:ecryptfs:ecryptfs_utils:51:*:*:*:*:*:*:*
+  - cpe:2.3:a:ecryptfs:ecryptfs_utils:53:*:*:*:*:*:*:*
+  - cpe:2.3:a:ecryptfs:ecryptfs_utils:54:*:*:*:*:*:*:*
+  - cpe:2.3:a:ecryptfs:ecryptfs_utils:55:*:*:*:*:*:*:*
+  - cpe:2.3:a:ecryptfs:ecryptfs_utils:56:*:*:*:*:*:*:*
+  - cpe:2.3:a:ecryptfs:ecryptfs_utils:57:*:*:*:*:*:*:*
+  - cpe:2.3:a:ecryptfs:ecryptfs_utils:58:*:*:*:*:*:*:*
+  - cpe:2.3:a:ecryptfs:ecryptfs_utils:59:*:*:*:*:*:*:*
+  - cpe:2.3:a:ecryptfs:ecryptfs_utils:60:*:*:*:*:*:*:*
+  - cpe:2.3:a:ecryptfs:ecryptfs_utils:61:*:*:*:*:*:*:*

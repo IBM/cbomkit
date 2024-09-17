@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/ubuntu/mesa
+  - pkg:github/sezero/mesafx-3.4
+  - pkg:gitlab/redhat/mesa
+  - pkg:rpm/fedora/mesa
+  - pkg:rpm/opensuse/mesa
+  - pkg:sourceforge/mesa3d

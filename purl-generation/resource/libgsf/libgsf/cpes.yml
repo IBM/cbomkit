@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:libgsf:libgsf:1.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libgsf:libgsf:1.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libgsf:libgsf:1.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:libgsf:libgsf:1.14.1:*:*:*:*:*:*:*

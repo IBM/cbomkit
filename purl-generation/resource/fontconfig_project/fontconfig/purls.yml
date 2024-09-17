@@ -1,0 +1,11 @@
+purls:
+  - pkg:bitbucket/chemoelectric/fontconfig
+  - pkg:bitbucket/redgiant/fontconfig
+  - pkg:deb/debian/fontconfig
+  - pkg:deb/ubuntu/fontconfig
+  - pkg:github/behdad/fontconfig
+  - pkg:github/shiftmediaproject/fontconfig
+  - pkg:gitlab/kalilinux/fontconfig
+  - pkg:rpm/centos/fontconfig
+  - pkg:rpm/fedora/fontconfig
+  - pkg:rpm/opensuse/fontconfig

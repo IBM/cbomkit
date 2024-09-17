@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/bitnami/codiad
+  - pkg:github/codiad/codiad

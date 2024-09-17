@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:cloudsync_project:cloudsync:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudsync_project:cloudsync:-:*:*:*:*:*:*:*

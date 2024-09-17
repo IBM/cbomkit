@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/byterazor/wikindx
+  - pkg:github/byterazor/docker-wikindx

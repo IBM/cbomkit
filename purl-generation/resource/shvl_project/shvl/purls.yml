@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/robinvdvleuten/shvl
+  - pkg:maven/org.webjars.npm/shvl
+  - pkg:npm/shvl

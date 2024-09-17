@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openpgpjs/openpgpjs
+  - pkg:maven/org.webjars.bowergithub.openpgpjs/openpgpjs

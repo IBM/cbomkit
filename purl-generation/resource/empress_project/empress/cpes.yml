@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:empress_project:empress:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:empress_project:empress:-:*:*:*:*:*:*:*

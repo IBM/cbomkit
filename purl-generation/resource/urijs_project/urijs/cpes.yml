@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:urijs_project:urijs:1.16.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:urijs_project:urijs:1.17.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:urijs_project:urijs:1.17.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:urijs_project:urijs:1.18.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:urijs_project:urijs:1.18.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:urijs_project:urijs:1.18.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:urijs_project:urijs:1.18.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:urijs_project:urijs:1.18.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:urijs_project:urijs:1.18.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:urijs_project:urijs:1.18.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:urijs_project:urijs:1.18.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:urijs_project:urijs:1.18.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:urijs_project:urijs:1.18.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:urijs_project:urijs:1.18.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:urijs_project:urijs:1.18.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:urijs_project:urijs:1.18.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:urijs_project:urijs:1.19.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:urijs_project:urijs:1.19.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:urijs_project:urijs:1.19.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:urijs_project:urijs:1.19.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:urijs_project:urijs:1.19.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:urijs_project:urijs:1.19.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:urijs_project:urijs:1.19.6:*:*:*:*:node.js:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/fabn/resourcespace
+  - pkg:github/ivorypenguin/resourcespace
+  - pkg:rpm/opensuse/resourcespace

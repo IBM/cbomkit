@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/yadm
+  - pkg:deb/ubuntu/yadm
+  - pkg:github/thelocehiliosan/yadm

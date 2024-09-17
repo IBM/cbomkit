@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:aegirproject:hostmaster:6.x-2.0:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:aegirproject:hostmaster:6.x-2.1:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:aegirproject:hostmaster:6.x-2.2:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:aegirproject:hostmaster:6.x-2.3:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:aegirproject:hostmaster:6.x-3.0:beta1:*:*:*:drupal:*:*

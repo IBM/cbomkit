@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/notary
+  - pkg:github/docker/notary-official-images

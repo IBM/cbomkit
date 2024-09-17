@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/distrotech/radius
+  - pkg:github/gnu-mirror-unofficial/radius
+  - pkg:gnu/radius

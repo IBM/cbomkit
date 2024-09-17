@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libnetfilter-cttimeout
+  - pkg:deb/ubuntu/libnetfilter-cttimeout
+  - pkg:github/distrotech/libnetfilter_cttimeout
+  - pkg:gitlab/redhat/libnetfilter_cttimeout
+  - pkg:rpm/centos/libnetfilter_cttimeout
+  - pkg:rpm/fedora/libnetfilter_cttimeout

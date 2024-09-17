@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/pax
+  - pkg:deb/ubuntu/pax
+  - pkg:github/jchris/pax
+  - pkg:gnu/pax
+  - pkg:npm/pax
+  - pkg:rpm/fedora/pax
+  - pkg:rpm/opensuse/pax

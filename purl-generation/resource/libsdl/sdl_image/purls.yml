@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/libsdl-org/sdl_image
+  - pkg:rpm/fedora/sdl_image
+  - pkg:rpm/opensuse/sdl_image

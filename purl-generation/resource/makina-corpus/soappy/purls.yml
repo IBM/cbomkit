@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/python-soappy
+  - pkg:deb/ubuntu/python-soappy
+  - pkg:github/jeffkit/soappy
+  - pkg:github/kiorky/soappy
+  - pkg:github/pelletier/soappy
+  - pkg:pypi/soappy
+  - pkg:rpm/opensuse/python-soappy

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:atomphotoblog:atomphotoblog:1.0.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:atomphotoblog:atomphotoblog:1.1.5:b1:*:*:*:*:*:*

@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/wget
+  - pkg:deb/ubuntu/wget
+  - pkg:github/darnir/wget
+  - pkg:github/gitgnu/gnu_wget
+  - pkg:github/val-verde/wget
+  - pkg:gitlab/redhat/wget
+  - pkg:gnu/wget
+  - pkg:rpm/centos/wget
+  - pkg:rpm/fedora/wget
+  - pkg:rpm/opensuse/wget

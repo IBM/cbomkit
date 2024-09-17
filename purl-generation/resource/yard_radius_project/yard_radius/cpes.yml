@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:yard_radius_project:yard_radius:1.0.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:yard_radius_project:yard_radius:1.1.2-4:*:*:*:*:*:*:*

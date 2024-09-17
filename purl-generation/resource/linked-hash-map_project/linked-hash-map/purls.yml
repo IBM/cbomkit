@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-linked-hash-map
+  - pkg:deb/ubuntu/rust-linked-hash-map
+  - pkg:github/contain-rs/linked-hash-map
+  - pkg:rpm/fedora/rust-linked-hash-map
+  - pkg:rpm/opensuse/rust-linked-hash-map

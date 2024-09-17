@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:ncsa:myproxy:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ncsa:myproxy:5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ncsa:myproxy:5.2:*:*:*:*:*:*:*

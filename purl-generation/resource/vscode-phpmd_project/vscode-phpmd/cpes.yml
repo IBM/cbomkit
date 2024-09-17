@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:vscode-phpmd_project:vscode-phpmd:*:*:*:*:*:visual_studio_code:*:*

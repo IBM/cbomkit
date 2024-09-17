@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/calcite
+  - pkg:github/apache/calcite
+  - pkg:maven/org.apache.calcite/calcite
+  - pkg:maven/org.apache.calcite/calcite-core

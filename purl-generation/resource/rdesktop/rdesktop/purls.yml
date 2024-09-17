@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/rdesktop
+  - pkg:deb/ubuntu/rdesktop
+  - pkg:github/rdesktop/rdesktop
+  - pkg:rpm/fedora/rdesktop
+  - pkg:rpm/opensuse/rdesktop
+  - pkg:sourceforge/rdesktop

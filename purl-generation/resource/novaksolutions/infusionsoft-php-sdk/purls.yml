@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/alexv66/infusionsoft-php-sdk
+  - pkg:github/novaksolutions/infusionsoft-php-sdk

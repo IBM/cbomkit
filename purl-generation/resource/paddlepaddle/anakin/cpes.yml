@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:paddlepaddle:anakin:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:paddlepaddle:anakin:0.1.1:*:*:*:*:*:*:*

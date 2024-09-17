@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/korynunn/list-n-stream
+  - pkg:npm/list-n-stream

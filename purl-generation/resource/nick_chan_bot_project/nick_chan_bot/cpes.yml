@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:nick_chan_bot_project:nick_chan_bot:1.0.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:nick_chan_bot_project:nick_chan_bot:1.0.0:beta_pre_11:*:*:*:*:*:*
+  - cpe:2.3:a:nick_chan_bot_project:nick_chan_bot:1.0.0:beta_pre_7:*:*:*:*:*:*
+  - cpe:2.3:a:nick_chan_bot_project:nick_chan_bot:1.0.0:beta_pre_8:*:*:*:*:*:*
+  - cpe:2.3:a:nick_chan_bot_project:nick_chan_bot:1.0.0:beta_pre_9:*:*:*:*:*:*
+  - cpe:2.3:a:nick_chan_bot_project:nick_chan_bot:1.0.0:beta_pre_release:*:*:*:*:*:*
+  - cpe:2.3:a:nick_chan_bot_project:nick_chan_bot:1.0.0:idk:*:*:*:*:*:*
+  - cpe:2.3:a:nick_chan_bot_project:nick_chan_bot:1.0.0:pre-release:*:*:*:*:*:*

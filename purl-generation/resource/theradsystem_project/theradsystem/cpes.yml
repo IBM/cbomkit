@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:theradsystem_project:theradsystem:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:theradsystem_project:theradsystem:-:*:*:*:*:*:*:*

@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:wordpress:wp_maintenance_mode_plugin:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wp_maintenance_mode_plugin:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wp_maintenance_mode_plugin:1.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wp_maintenance_mode_plugin:1.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wp_maintenance_mode_plugin:1.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wp_maintenance_mode_plugin:1.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wp_maintenance_mode_plugin:1.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wp_maintenance_mode_plugin:1.8.6:*:*:*:*:*:*:*

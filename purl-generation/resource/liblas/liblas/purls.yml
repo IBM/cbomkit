@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/liblas
+  - pkg:deb/ubuntu/liblas
+  - pkg:github/liblas/liblas
+  - pkg:rpm/fedora/liblas
+  - pkg:rpm/opensuse/liblas

@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/cvsweb
+  - pkg:deb/ubuntu/cvsweb

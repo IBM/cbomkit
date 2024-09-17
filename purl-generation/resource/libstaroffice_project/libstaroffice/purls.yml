@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libstaroffice
+  - pkg:deb/ubuntu/libstaroffice
+  - pkg:github/fosnola/libstaroffice
+  - pkg:rpm/centos/libstaroffice
+  - pkg:rpm/fedora/libstaroffice
+  - pkg:rpm/opensuse/libstaroffice

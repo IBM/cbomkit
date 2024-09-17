@@ -1,0 +1,5 @@
+purls:
+  - 'pkg:github/tiran/mod_nss '
+  - pkg:rpm/centos/mod_nss
+  - pkg:rpm/fedora/mod_nss
+  - pkg:rpm/opensuse/mod_nss

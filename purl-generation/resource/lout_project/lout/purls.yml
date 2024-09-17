@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/lout
+  - pkg:deb/ubuntu/lout
+  - pkg:github/william8000/lout
+  - pkg:gnu/lout
+  - pkg:rpm/fedora/lout
+  - pkg:rpm/opensuse/lout
+  - pkg:sourceforge/lout

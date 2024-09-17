@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/icu
+  - pkg:deb/ubuntu/icu
+  - pkg:github/unicode-org/icu
+  - pkg:gitlab/omnibus-mirror/libicu
+  - pkg:maven/com.ibm.icu/icu4j
+  - pkg:rpm/centos/icu
+  - pkg:rpm/fedora/icu
+  - pkg:rpm/opensuse/icu

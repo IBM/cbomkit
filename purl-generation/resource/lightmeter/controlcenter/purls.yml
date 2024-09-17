@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/lightmeter/controlcenter
+  - pkg:github/lightmeterio/controlcenter
+  - pkg:gitlab/lightmeter/controlcenter

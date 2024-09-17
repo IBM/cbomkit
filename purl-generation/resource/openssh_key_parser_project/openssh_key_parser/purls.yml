@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/scottcwang/openssh_key_parser
+  - pkg:pypi/openssh-key-parser

@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/valgrind
+  - pkg:deb/ubuntu/valgrind
+  - pkg:github/pmem/valgrind
+  - pkg:github/rantoniello/valgrind
+  - pkg:github/tklengyel/valgrind
+  - pkg:gitlab/kalilinux/valgrind
+  - pkg:gitlab/redhat/valgrind
+  - pkg:rpm/centos/valgrind
+  - pkg:rpm/fedora/valgrind
+  - pkg:rpm/opensuse/valgrind

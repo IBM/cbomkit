@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/debian-goodies
+  - pkg:deb/ubuntu/debian-goodies
+  - pkg:github/tpo/debian-goodies

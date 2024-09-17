@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-ingo
+  - pkg:deb/ubuntu/php-horde-ingo
+  - pkg:github/horde/ingo
+  - pkg:rpm/fedora/php-horde-ingo

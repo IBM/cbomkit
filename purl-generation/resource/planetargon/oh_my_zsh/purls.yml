@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ohmyzsh/ohmyzsh
+  - pkg:rpm/opensuse/ohmyzsh

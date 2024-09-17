@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-rsa
+  - pkg:deb/ubuntu/python-rsa
+  - pkg:github/sybrenstuvel/python-rsa
+  - pkg:pypi/rsa
+  - pkg:rpm/fedora/python-rsa
+  - pkg:rpm/opensuse/python-rsa

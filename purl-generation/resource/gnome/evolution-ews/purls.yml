@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/evolution-ews
+  - pkg:deb/ubuntu/evolution-ews
+  - pkg:github/gnome/evolution-ews
+  - pkg:gitlab/gnome/evolution-ews
+  - pkg:rpm/centos/evolution-ews
+  - pkg:rpm/fedora/evolution-ews
+  - pkg:rpm/opensuse/evolution-ews

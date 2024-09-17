@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/audiofile
+  - pkg:deb/ubuntu/audiofile
+  - pkg:github/mpruett/audiofile
+  - pkg:rpm/centos/audiofile
+  - pkg:rpm/fedora/audiofile
+  - pkg:rpm/opensuse/audiofile

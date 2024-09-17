@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:open-audit:open-audit:2.1.1:*:*:*:professional:*:*:*
+  - cpe:2.3:a:open-audit:open-audit:2.1:*:*:*:professional:*:*:*

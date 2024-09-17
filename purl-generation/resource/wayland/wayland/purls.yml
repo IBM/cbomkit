@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/wayland
+  - pkg:deb/ubuntu/wayland
+  - pkg:github/freedesktop/wayland
+  - pkg:github/wayland-project/wayland
+  - pkg:gitlab/redhat/wayland
+  - pkg:rpm/centos/wayland
+  - pkg:rpm/fedora/wayland
+  - pkg:rpm/opensuse/wayland

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/wormnest/crawltrack
+  - pkg:sourceforge/crawltrack

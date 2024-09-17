@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/naturalintelligence/fast-xml-parser
+  - pkg:maven/org.webjars.npm/fast-xml-parser
+  - pkg:npm/fast-xml-parser

@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/slivajakub/magnum
+  - pkg:deb/debian/magnum
+  - pkg:deb/ubuntu/magnum
+  - pkg:github/openstack/magnum
+  - pkg:pypi/magnum

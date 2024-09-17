@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:alqo:alqo:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:alqo:alqo:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:alqo:alqo:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:alqo:alqo:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:alqo:alqo:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:alqo:alqo:3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:alqo:alqo:4.1:*:*:*:*:*:*:*

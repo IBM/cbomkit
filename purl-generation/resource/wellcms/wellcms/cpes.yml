@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:wellcms:wellcms:2.0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:wellcms:wellcms:2.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:wellcms:wellcms:2.2.0:*:*:*:*:*:*:*

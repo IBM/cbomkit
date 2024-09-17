@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:reasoncms:reasoncms:0.93.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:reasoncms:reasoncms:0.93.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:reasoncms:reasoncms:0.93.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:reasoncms:reasoncms:0.93.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:reasoncms:reasoncms:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:reasoncms:reasoncms:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:reasoncms:reasoncms:4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:reasoncms:reasoncms:4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:reasoncms:reasoncms:4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:reasoncms:reasoncms:4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:reasoncms:reasoncms:4.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:reasoncms:reasoncms:4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:reasoncms:reasoncms:4.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:reasoncms:reasoncms:4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:reasoncms:reasoncms:4.7:-:*:*:*:*:*:*
+  - cpe:2.3:a:reasoncms:reasoncms:4.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:reasoncms:reasoncms:4.7:rc:*:*:*:*:*:*
+  - cpe:2.3:a:reasoncms:reasoncms:4.7:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:reasoncms:reasoncms:4.7:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:reasoncms:reasoncms:4.8:*:*:*:*:*:*:*

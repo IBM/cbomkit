@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/vmolsa/webrtc-native
+  - pkg:npm/webrtc-native

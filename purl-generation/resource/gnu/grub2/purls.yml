@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/grub2
+  - pkg:deb/ubuntu/grub2
+  - pkg:github/3mdeb/grub2
+  - pkg:github/fanjinfei/grub2
+  - pkg:github/flihp/grub2
+  - pkg:gitlab/kalilinux/grub2
+  - pkg:gnu/grub
+  - pkg:rpm/fedora/grub2
+  - pkg:rpm/opensuse/grub2

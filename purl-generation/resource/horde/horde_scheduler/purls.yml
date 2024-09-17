@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/php-horde-scheduler
+  - pkg:deb/ubuntu/php-horde-scheduler
+  - pkg:github/horde/scheduler

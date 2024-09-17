@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/dnsmasq
+  - pkg:deb/ubuntu/dnsmasq
+  - pkg:github/infrastructureservices/dnsmasq
+  - pkg:gitlab/redhat/dnsmasq
+  - pkg:rpm/fedora/dnsmasq
+  - pkg:rpm/opensuse/dnsmasq

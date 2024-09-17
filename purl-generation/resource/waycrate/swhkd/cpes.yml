@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:waycrate:swhkd:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:waycrate:swhkd:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:waycrate:swhkd:1.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:waycrate:swhkd:1.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:waycrate:swhkd:1.1.7:*:*:*:*:*:*:*

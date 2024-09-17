@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/miniupnp/miniupnp
+  - pkg:golang/github.com/miniupnp/miniupnp

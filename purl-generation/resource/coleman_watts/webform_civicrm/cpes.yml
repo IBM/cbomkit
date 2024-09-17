@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:coleman_watts:webform_civicrm:7.x-3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:coleman_watts:webform_civicrm:7.x-3.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:coleman_watts:webform_civicrm:7.x-3.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:coleman_watts:webform_civicrm:7.x-3.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:coleman_watts:webform_civicrm:7.x-3.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:coleman_watts:webform_civicrm:7.x-3.0:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:coleman_watts:webform_civicrm:7.x-3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:coleman_watts:webform_civicrm:7.x-3.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:coleman_watts:webform_civicrm:7.x-3.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:coleman_watts:webform_civicrm:7.x-3.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:coleman_watts:webform_civicrm:7.x-3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:coleman_watts:webform_civicrm:7.x-3.x:dev:*:*:*:*:*:*

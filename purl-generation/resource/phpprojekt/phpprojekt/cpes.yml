@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:phpprojekt:phpprojekt:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpprojekt:phpprojekt:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpprojekt:phpprojekt:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpprojekt:phpprojekt:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpprojekt:phpprojekt:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpprojekt:phpprojekt:2.1a:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpprojekt:phpprojekt:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpprojekt:phpprojekt:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpprojekt:phpprojekt:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpprojekt:phpprojekt:3.1a:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpprojekt:phpprojekt:5.2.0:*:*:*:*:*:*:*

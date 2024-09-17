@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/davideicardi/confinit
+  - pkg:npm/confinit

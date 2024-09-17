@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/git-extras
+  - pkg:deb/ubuntu/git-extras
+  - pkg:github/tj/git-extras
+  - pkg:rpm/fedora/git-extras
+  - pkg:rpm/opensuse/git-extras

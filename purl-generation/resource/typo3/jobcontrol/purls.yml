@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/coderscare/dmmjobcontrol
+  - pkg:github/coders-care/dmmjobcontrol
+  - pkg:gitlab/coderscare/dmmjobcontrol

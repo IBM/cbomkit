@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:infogami:infogami:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:infogami:infogami:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:infogami:infogami:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:infogami:infogami:ol_201908:*:*:*:*:*:*:*

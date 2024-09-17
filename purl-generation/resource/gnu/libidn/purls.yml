@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libidn
+  - pkg:deb/ubuntu/libidn
+  - pkg:github/clearlinux-pkgs/libidn
+  - pkg:gitlab/redhat/libidn
+  - pkg:gnu/libidn
+  - pkg:rpm/centos/libidn
+  - pkg:rpm/fedora/libidn
+  - pkg:rpm/opensuse/libidn

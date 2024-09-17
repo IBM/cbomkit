@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ezsystems/ezpublish-kernel
+  - pkg:github/ezsystems/ezpublish-legacy

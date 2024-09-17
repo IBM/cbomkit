@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/andyvand/ext2fsd
+  - pkg:github/livemirror/ext2fsd
+  - pkg:github/ysangkok/ext2fsd
+  - pkg:sourceforge/ext2fsd

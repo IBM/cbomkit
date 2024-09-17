@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jcubic/sysend.js
+  - pkg:npm/sysend

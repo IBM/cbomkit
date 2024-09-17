@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/postfix-mta-sts-resolver
+  - pkg:deb/ubuntu/postfix-mta-sts-resolver
+  - pkg:docker/yarmak/postfix-mta-sts-resolver
+  - pkg:github/snawoot/postfix-mta-sts-resolver
+  - pkg:pypi/project/postfix-mta-sts-resolver
+  - pkg:rpm/fedora/postfix-mta-sts-resolver
+  - pkg:rpm/opensuse/postfix-mta-sts-resolver

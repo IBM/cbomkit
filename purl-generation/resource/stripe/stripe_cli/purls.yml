@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/stripe/stripe-cli
+  - pkg:github/stripe/stripe-cli

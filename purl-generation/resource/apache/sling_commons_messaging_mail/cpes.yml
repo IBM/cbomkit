@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:apache:sling_commons_messaging_mail:1.0.0:*:*:*:*:*:*:*

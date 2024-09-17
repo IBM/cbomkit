@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:simgear:simgear:1.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:simgear:simgear:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simgear:simgear:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simgear:simgear:2.6.0.1:*:*:*:*:*:*:*

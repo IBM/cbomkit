@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mhdawson/io.js
+  - pkg:github/nodejs/node

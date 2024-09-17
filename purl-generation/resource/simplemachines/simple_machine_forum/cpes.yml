@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:simplemachines:simple_machine_forum:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplemachines:simple_machine_forum:1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:simplemachines:simple_machine_forum:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplemachines:simple_machine_forum:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplemachines:simple_machine_forum:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplemachines:simple_machine_forum:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplemachines:simple_machine_forum:1.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:simplemachines:simple_machine_forum:1.0:beta5p:*:*:*:*:*:*
+  - cpe:2.3:a:simplemachines:simple_machine_forum:1.0:pre-release:*:*:*:*:*:*
+  - cpe:2.3:a:simplemachines:simple_machine_forum:1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:simplemachines:simple_machine_forum:1.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:simplemachines:simple_machine_forum:2.0.17:*:*:*:*:*:*:*

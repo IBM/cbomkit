@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/smallrye/smallrye-health
+  - pkg:maven/io.smallrye/smallrye-health

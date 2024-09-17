@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:ovirt:log_collector:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:ovirt:log_collector:4.4.7-2.el8ev:*:*:*:*:*:*:*

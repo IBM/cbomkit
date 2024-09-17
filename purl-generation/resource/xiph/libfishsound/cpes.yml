@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:xiph:libfishsound:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:xiph:libfishsound:0.5.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:xiph:libfishsound:0.5.42:*:*:*:*:*:*:*
+  - cpe:2.3:a:xiph:libfishsound:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xiph:libfishsound:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xiph:libfishsound:0.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:xiph:libfishsound:0.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:xiph:libfishsound:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xiph:libfishsound:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xiph:libfishsound:0.8.1:*:*:*:*:*:*:*

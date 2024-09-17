@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-trim-newlines
+  - pkg:deb/ubuntu/node-trim-newlines
+  - pkg:github/sindresorhus/trim-newlines
+  - pkg:maven/org.webjars.npm/trim-newlines
+  - pkg:npm/trim-newlines

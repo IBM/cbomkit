@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/astc-encoder
+  - pkg:deb/ubuntu/astc-encoder
+  - pkg:github/arm-software/astc-encoder

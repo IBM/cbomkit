@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/pads
+  - pkg:deb/ubuntu/pads
+  - pkg:github/gamelinux/pads
+  - pkg:rpm/fedora/pads

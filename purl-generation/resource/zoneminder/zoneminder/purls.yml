@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/zoneminder
+  - pkg:deb/ubuntu/zoneminder
+  - pkg:github/zoneminder/zoneminder
+  - pkg:rpm/opensuse/zoneminder
+  - pkg:sourceforge/zoneminder

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/davidtanner/aws-beanstalk-publisher
+  - pkg:github/jenkinsci/aws-beanstalk-publisher-plugin

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:favicon-switcher_project:favicon-switcher:1.2.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:favicon-switcher_project:favicon-switcher:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:favicon-switcher_project:favicon-switcher:-:*:*:*:*:wordpress:*:*

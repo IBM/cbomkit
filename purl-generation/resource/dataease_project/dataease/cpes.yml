@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:dataease_project:dataease:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease_project:dataease:1.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease_project:dataease:1.11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dataease_project:dataease:1.6.1:*:*:*:*:*:*:*

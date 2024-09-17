@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/containerbuildsystem/osbs-client
+  - pkg:rpm/fedora/osbs-client
+  - pkg:rpm/opensuse/osbs-client

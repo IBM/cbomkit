@@ -1,0 +1,8 @@
+purls:
+  - pkg:docker/fiware/md2pdf
+  - pkg:gem/md2pdf
+  - pkg:github/jmaupetit/md2pdf
+  - pkg:github/rwestgeest/md2pdf
+  - pkg:maven/rg.clojars.michael-valdron/clj-md2pdf
+  - pkg:npm/md2pdf
+  - pkg:pypi/md2pdf

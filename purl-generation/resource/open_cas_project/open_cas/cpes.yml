@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:open_cas_project:open_cas:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:open_cas_project:open_cas:22.3.1:*:*:*:*:*:*:*

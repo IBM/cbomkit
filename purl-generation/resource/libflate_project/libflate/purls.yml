@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-libflate
+  - pkg:deb/ubuntu/rust-libflate
+  - pkg:github/sile/libflate
+  - pkg:rpm/fedora/rust-libflate
+  - pkg:rpm/opensuse/rust-libflate

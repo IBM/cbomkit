@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/sass/node-sass
+  - pkg:npm/node-sass
+  - pkg:rpm/opensuse/nodejs-node-sass

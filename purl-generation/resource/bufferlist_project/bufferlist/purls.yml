@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-bl
+  - pkg:deb/ubuntu/node-bl
+  - pkg:github/rvagg/bl
+  - pkg:maven/org.webjars.npm/bl
+  - pkg:npm/bl

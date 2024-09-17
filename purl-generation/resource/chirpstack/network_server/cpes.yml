@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:chirpstack:network_server:3.9.0:*:*:*:*:*:*:*

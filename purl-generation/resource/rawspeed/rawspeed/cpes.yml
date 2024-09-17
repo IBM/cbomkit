@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:rawspeed:rawspeed:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rawspeed:rawspeed:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rawspeed:rawspeed:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rawspeed:rawspeed:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rawspeed:rawspeed:3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rawspeed:rawspeed:3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rawspeed:rawspeed:3.5:*:*:*:*:*:*:*

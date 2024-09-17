@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libmongocrypt
+  - pkg:deb/ubuntu/libmongocrypt
+  - pkg:github/mongodb/libmongocrypt
+  - pkg:npm/mongodb-client-encryption
+  - pkg:rpm/fedora/libmongocrypt
+  - pkg:rpm/opensuse/libmongocrypt

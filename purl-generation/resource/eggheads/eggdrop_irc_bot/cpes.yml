@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:eggheads:eggdrop_irc_bot:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_irc_bot:1.6.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_irc_bot:1.6.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_irc_bot:1.6.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_irc_bot:1.6.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_irc_bot:1.6.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_irc_bot:1.6.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_irc_bot:1.6.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_irc_bot:1.6.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_irc_bot:1.6.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:eggheads:eggdrop_irc_bot:1.6.9:*:*:*:*:*:*:*

@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:ppgo_jobs_project:ppgo_jobs:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:ppgo_jobs_project:ppgo_jobs:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ppgo_jobs_project:ppgo_jobs:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ppgo_jobs_project:ppgo_jobs:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ppgo_jobs_project:ppgo_jobs:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ppgo_jobs_project:ppgo_jobs:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ppgo_jobs_project:ppgo_jobs:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ppgo_jobs_project:ppgo_jobs:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ppgo_jobs_project:ppgo_jobs:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ppgo_jobs_project:ppgo_jobs:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ppgo_jobs_project:ppgo_jobs:2.8.0:*:*:*:*:*:*:*

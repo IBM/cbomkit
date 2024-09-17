@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:advanced_recent_posts_project:advanced_recent_posts:0.6.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:advanced_recent_posts_project:advanced_recent_posts:-:*:*:*:*:wordpress:*:*

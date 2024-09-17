@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:pam_mysql:pam_mysql:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pam_mysql:pam_mysql:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pam_mysql:pam_mysql:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pam_mysql:pam_mysql:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pam_mysql:pam_mysql:0.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:pam_mysql:pam_mysql:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:pam_mysql:pam_mysql:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:pam_mysql:pam_mysql:0.7_pre1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pam_mysql:pam_mysql:0.7_pre2:*:*:*:*:*:*:*

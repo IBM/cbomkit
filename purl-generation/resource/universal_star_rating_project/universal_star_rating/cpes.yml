@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:universal_star_rating_project:universal_star_rating:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:universal_star_rating_project:universal_star_rating:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:universal_star_rating_project:universal_star_rating:-:*:*:*:*:wordpress:*:*

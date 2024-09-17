@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ibmdb/node-ibm_db
+  - pkg:npm/ibm_db

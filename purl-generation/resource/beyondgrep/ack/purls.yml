@@ -1,0 +1,7 @@
+purls:
+  - pkg:cpan/ack
+  - pkg:deb/debian/ack
+  - pkg:deb/ubuntu/ack
+  - pkg:github/beyondgrep/ack3
+  - pkg:rpm/fedora/ack
+  - pkg:rpm/opensuse/ack

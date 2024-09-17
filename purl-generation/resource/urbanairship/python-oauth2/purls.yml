@@ -1,0 +1,8 @@
+purls:
+  - pkg:docker/pypi/python-oauth2
+  - pkg:github/joestump/python-oauth2
+  - pkg:github/wndhydrnt/python-oauth2
+  - pkg:pypi/oauth2
+  - pkg:pypi/python-oauth2
+  - pkg:rpm/fedora/python-oauth2
+  - pkg:rpm/opensuse/python-oauth2

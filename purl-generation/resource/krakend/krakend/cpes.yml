@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:krakend:krakend:2.0.0:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:krakend:krakend:2.0.2:*:*:*:community:*:*:*
+  - cpe:2.3:a:krakend:krakend:-:*:*:*:community:*:*:*
+  - cpe:2.3:a:krakend:krakend:-:*:*:*:enterprise:*:*:*

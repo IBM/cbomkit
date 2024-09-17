@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/scandipwa/create-magento-app
+  - pkg:npm/%40scandipwa/magento-scripts

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/prosody
+  - pkg:deb/ubuntu/prosody
+  - pkg:docker/prosody/prosody
+  - pkg:github/prosody/prosody-docker
+  - pkg:rpm/fedora/prosody
+  - pkg:rpm/opensuse/prosody

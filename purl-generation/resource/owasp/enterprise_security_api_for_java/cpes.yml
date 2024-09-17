@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:owasp:enterprise_security_api_for_java:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:enterprise_security_api_for_java:2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:owasp:enterprise_security_api_for_java:2.0:rc1:*:*:*:*:*:*

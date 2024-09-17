@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/snappy
+  - pkg:deb/ubuntu/snappy
+  - pkg:github/google/snappy
+  - pkg:gitlab/redhat/snappy
+  - pkg:googlesource/snappy
+  - pkg:rpm/centos/snappy
+  - pkg:rpm/fedora/snappy
+  - pkg:rpm/opensuse/snappy

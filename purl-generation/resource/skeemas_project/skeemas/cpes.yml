@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:skeemas_project:skeemas:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:skeemas_project:skeemas:-:*:*:*:*:*:*:*

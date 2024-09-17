@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/azure/ms-rest-nodeauth
+  - pkg:npm/%40azure/ms-rest-nodeauth

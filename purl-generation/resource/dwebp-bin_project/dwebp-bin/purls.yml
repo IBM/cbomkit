@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/1000ch/dwebp-bin
+  - pkg:npm/dwebp-bin

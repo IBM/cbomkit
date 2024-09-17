@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:thttpd:thttpd_http_server:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:thttpd:thttpd_http_server:1.90a:*:*:*:*:*:*:*

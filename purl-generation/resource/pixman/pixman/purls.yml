@@ -1,0 +1,7 @@
+purls:
+  - pkg:github/coapp-packages/pixman
+  - pkg:gitlab/redhat/pixman
+  - pkg:maven/com.viliussutkus89.licenseonly/pixman
+  - pkg:nuget/pixman
+  - pkg:rpm/fedora/pixman
+  - pkg:rpm/opensuse/pixman

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libvigraimpex
+  - pkg:deb/ubuntu/libvigraimpex
+  - pkg:github/ukoethe/vigra
+  - pkg:rpm/centos/vigra
+  - pkg:rpm/fedora/vigra
+  - pkg:rpm/opensuse/vigra

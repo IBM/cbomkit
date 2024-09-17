@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libjs-jquery-file-upload
+  - pkg:deb/ubuntu/libjs-jquery-file-upload
+  - pkg:github/blueimp/jquery-file-upload
+  - pkg:maven/org.webjars.bowergithub.blueimp/jquery-file-upload
+  - pkg:nuget/jQuery.FileUpload

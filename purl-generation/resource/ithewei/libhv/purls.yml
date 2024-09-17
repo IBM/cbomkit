@@ -1,0 +1,4 @@
+purls:
+  - pkg:gitee/ithewei/libhv
+  - pkg:github/ithewei/libhv
+  - pkg:golang/github.com/ithewei/libhv

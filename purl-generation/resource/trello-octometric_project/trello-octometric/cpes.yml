@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:trello-octometric_project:trello-octometric:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:trello-octometric_project:trello-octometric:-:*:*:*:*:*:*:*

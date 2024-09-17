@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/nuttx
+  - pkg:github/apache/incubator-nuttx
+  - pkg:github/michal-lyszczek-red/nuttx
+  - pkg:sourceforge/nuttx

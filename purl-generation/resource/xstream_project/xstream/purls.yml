@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libxstream-java
+  - pkg:deb/ubuntu/libxstream-java
+  - pkg:github/x-stream/xstream
+  - pkg:maven/xstream/xstream
+  - pkg:rpm/fedora/xstream
+  - pkg:rpm/opensuse/xstream

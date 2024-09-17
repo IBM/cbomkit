@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/sinfin/pawtucket
+  - pkg:github/collectiveaccess/pawtucket
+  - pkg:github/collectiveaccess/pawtucket2

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/sosreport
+  - pkg:deb/ubuntu/sosreport
+  - pkg:github/sosreport/sos
+  - pkg:gitlab/redhat/sos
+  - pkg:pypi/sosreport
+  - pkg:rpm/centos/sos
+  - pkg:rpm/fedora/sos

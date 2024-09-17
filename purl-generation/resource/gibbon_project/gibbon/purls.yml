@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/gibbon
+  - pkg:github/amro/gibbon

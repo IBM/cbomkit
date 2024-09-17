@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/juddi
+  - pkg:github/apache/juddi
+  - pkg:github/kurtstam/juddi
+  - pkg:maven/org.apache.juddi/juddi
+  - pkg:maven/org.apache.juddi/juddi-core
+  - pkg:sourceforge/juddi

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:vapor_project:vapor:4.29.4:*:*:*:*:swift:*:*
+  - cpe:2.3:a:vapor_project:vapor:*:*:*:*:*:swift:*:*

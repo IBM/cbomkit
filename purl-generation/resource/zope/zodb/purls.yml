@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/zopefoundation/zodb
+  - pkg:pypi/zodb3
+  - pkg:rpm/fedora/python-zodb3
+  - pkg:rpm/opensuse/python-zodb3

@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:snyk:snyk_cocoapods_cli:1.0.0:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_cocoapods_cli:1.0.1:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_cocoapods_cli:1.0.2:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_cocoapods_cli:1.0.3:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_cocoapods_cli:2.0.0:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_cocoapods_cli:2.0.1:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_cocoapods_cli:2.1.0:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_cocoapods_cli:2.1.1:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_cocoapods_cli:2.2.0:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_cocoapods_cli:2.3.0:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_cocoapods_cli:2.3.1:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_cocoapods_cli:2.3.2:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_cocoapods_cli:2.4.0:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_cocoapods_cli:2.5.0:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_cocoapods_cli:2.5.1:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_cocoapods_cli:2.5.2:*:*:*:*:snyk:*:*
+  - cpe:2.3:a:snyk:snyk_cocoapods_cli:2.5.3:*:*:*:*:snyk:*:*

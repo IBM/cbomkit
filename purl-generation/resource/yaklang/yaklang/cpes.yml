@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:yaklang:yaklang:1.2.0:sp6:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.0:sp7:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.0:sp8:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.1:sp1:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.1:sp2:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.1:sp3:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.1:sp4:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.1:sp5:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.1:sp6:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.1:sp7:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.1:sp8:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.1:sp9:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.2:sp1:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.2:sp2:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.2:sp3:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.2:sp4:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.2:sp5:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.2:sp6:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.2:sp7:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.3:sp1:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.3:sp2:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.3:sp3:*:*:*:*:*:*
+  - cpe:2.3:a:yaklang:yaklang:1.2.4:-:*:*:*:*:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/octavia
+  - pkg:deb/ubuntu/octavia
+  - pkg:github/openstack/octavia
+  - pkg:pypi/octavia

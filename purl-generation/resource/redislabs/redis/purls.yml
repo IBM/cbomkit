@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/redis
+  - pkg:github/redis/redis
+  - pkg:redis/redis

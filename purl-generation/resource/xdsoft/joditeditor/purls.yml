@@ -1,0 +1,6 @@
+purls:
+  - pkg:composer/xdan/jodit
+  - pkg:github/xdan/jodit
+  - pkg:maven/org.webjars.npm/jodit
+  - pkg:npm/jodit
+  - pkg:sourceforge/jodit-editor-3.mirror

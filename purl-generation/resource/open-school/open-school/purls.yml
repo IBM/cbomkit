@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/plutonyx/open-school-ce
+  - pkg:github/traprajith/open-school-ce

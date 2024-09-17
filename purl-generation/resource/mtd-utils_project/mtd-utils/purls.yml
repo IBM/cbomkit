@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/mtd-utils
+  - pkg:deb/ubuntu/mtd-utils
+  - pkg:github/sigma-star/mtd-utils
+  - pkg:rpm/fedora/mtd-utils
+  - pkg:rpm/opensuse/mtd-utils

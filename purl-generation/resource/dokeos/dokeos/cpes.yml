@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:dokeos:dokeos:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokeos:dokeos:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokeos:dokeos:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokeos:dokeos:1.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokeos:dokeos:1.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokeos:dokeos:1.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokeos:dokeos:1.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokeos:dokeos:1.6_rc2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokeos:dokeos:1.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokeos:dokeos:1.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokeos:dokeos:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokeos:dokeos:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dokeos:dokeos:2.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:dokeos:dokeos:*:rc2:*:*:*:*:*:*

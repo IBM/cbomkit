@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/keepassxc
+  - pkg:deb/ubuntu/keepassxc
+  - pkg:docker/keepassxreboot/keepassxc
+  - pkg:github/keepassxreboot/keepassxc
+  - pkg:rpm/fedora/keepassxc
+  - pkg:rpm/opensuse/keepassxc
+  - pkg:sourceforge/keepassxc

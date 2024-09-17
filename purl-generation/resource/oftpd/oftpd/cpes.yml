@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:oftpd:oftpd:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:oftpd:oftpd:0.3.7:*:*:*:*:*:*:*

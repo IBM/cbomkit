@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:btiteam:btitracker:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:btiteam:btitracker:1.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:btiteam:btitracker:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:btiteam:btitracker:1.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:btiteam:btitracker:1.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:btiteam:btitracker:1.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:btiteam:btitracker:1.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:btiteam:btitracker:1.4.6:*:*:*:*:*:*:*

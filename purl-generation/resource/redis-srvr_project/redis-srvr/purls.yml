@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/lennym/redis-srvr
+  - pkg:npm/redis-srvr

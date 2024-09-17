@@ -1,0 +1,9 @@
+purls:
+  - pkg:bitbucket/aminm-asaltech/dracut
+  - pkg:deb/debian/dracut
+  - pkg:deb/ubuntu/dracut
+  - pkg:github/dracutdevs/dracut
+  - pkg:rpm/centos/dracut
+  - pkg:rpm/fedora/dracut
+  - pkg:rpm/opensuse/dracut
+  - pkg:sourceforge/dracut

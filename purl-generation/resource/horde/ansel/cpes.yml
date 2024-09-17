@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:horde:ansel:2.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:horde:ansel:2.0.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:horde:ansel:2.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:horde:ansel:2.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:horde:ansel:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:ansel:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:ansel:3.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:horde:ansel:3.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:horde:ansel:3.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:horde:ansel:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:ansel:3.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:ansel:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:ansel:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:ansel:3.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:ansel:3.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:ansel:3.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:ansel:3.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:ansel:3.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:ansel:3.0.9:*:*:*:*:*:*:*

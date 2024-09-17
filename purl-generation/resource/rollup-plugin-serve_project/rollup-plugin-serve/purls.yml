@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/thgh/rollup-plugin-serve
+  - pkg:npm/rollup-plugin-serve

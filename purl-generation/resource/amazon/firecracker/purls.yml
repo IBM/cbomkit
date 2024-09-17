@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/firecracker-microvm/firecracker
+  - pkg:rpm/opensuse/firecracker

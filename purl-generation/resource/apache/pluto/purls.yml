@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/portals
+  - pkg:github/apache/pluto
+  - pkg:maven/org.apache.pluto/pluto

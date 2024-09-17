@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/masqmail
+  - pkg:deb/ubuntu/masqmail

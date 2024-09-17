@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gerhobbelt/pthread-win32
+  - pkg:github/winbuilds/pthread-win32

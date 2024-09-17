@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:wec_map_project:wec_map:3.0.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:wec_map_project:wec_map:3.0.1:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:wec_map_project:wec_map:3.0.2:*:*:*:*:typo3:*:*

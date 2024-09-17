@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/faizalpribadi/merge-object
+  - pkg:npm/merge-object

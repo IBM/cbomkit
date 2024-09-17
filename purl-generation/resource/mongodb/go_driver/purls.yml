@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/golang-mongodb-mongo-driver
+  - pkg:github/mongodb/mongo-go-driver
+  - pkg:rpm/fedora/golang-mongodb-mongo-driver

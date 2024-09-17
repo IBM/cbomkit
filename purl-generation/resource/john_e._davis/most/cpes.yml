@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:john_e._davis:most:4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:john_e._davis:most:4.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:john_e._davis:most:4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:john_e._davis:most:4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:john_e._davis:most:4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:john_e._davis:most:4.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:john_e._davis:most:4.9.1:*:*:*:*:*:*:*

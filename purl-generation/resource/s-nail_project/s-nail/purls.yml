@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/s-nail
+  - pkg:deb/ubuntu/s-nail
+  - pkg:docker/lwith/s-nail
+  - pkg:gitlab/redhat/s-nail
+  - pkg:rpm/fedora/s-nail
+  - pkg:sourceforge/s-nail

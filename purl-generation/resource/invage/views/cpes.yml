@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:invage:views:6.x-2.16:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:invage:views:6.x-3.0:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:invage:views:7.x-3.8:*:*:*:*:drupal:*:*

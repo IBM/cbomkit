@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:projectfloodlight:open_sdn_controller:0.85:*:*:*:*:*:*:*
+  - cpe:2.3:a:projectfloodlight:open_sdn_controller:0.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:projectfloodlight:open_sdn_controller:0.91:*:*:*:*:*:*:*
+  - cpe:2.3:a:projectfloodlight:open_sdn_controller:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:projectfloodlight:open_sdn_controller:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:projectfloodlight:open_sdn_controller:1.2:*:*:*:*:*:*:*

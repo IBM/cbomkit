@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libraw-bin
+  - pkg:deb/ubuntu/libraw-bin
+  - pkg:github/libraw/libraw
+  - pkg:gitlab/redhat/libraw
+  - pkg:libraw/libraw
+  - pkg:rpm/centos/libraw
+  - pkg:rpm/fedora/libraw
+  - pkg:rpm/opensuse/libraw

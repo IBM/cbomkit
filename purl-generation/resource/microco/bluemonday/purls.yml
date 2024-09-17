@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/golang-github-microcosm-cc-bluemonday
+  - pkg:deb/ubuntu/golang-github-microcosm-cc-bluemonday
+  - pkg:github/microcosm-cc/bluemonday
+  - pkg:rpm/fedora/golang-github-microcosm-cc-bluemonday

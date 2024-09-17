@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libimobiledevice
+  - pkg:deb/ubuntu/libimobiledevice
+  - pkg:github/libimobiledevice/libimobiledevice
+  - pkg:gitlab/redhat/libimobiledevice
+  - pkg:rpm/centos/libimobiledevice
+  - pkg:rpm/fedora/libimobiledevice
+  - pkg:rpm/opensuse/libimobiledevice

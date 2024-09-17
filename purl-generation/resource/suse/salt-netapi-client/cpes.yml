@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:suse:salt-netapi-client:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:salt-netapi-client:0.16.0-4.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:salt-netapi-client:0.17.0-3.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:salt-netapi-client:0.17.0-4.6.3:*:*:*:*:*:*:*

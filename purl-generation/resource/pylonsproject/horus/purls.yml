@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pylons/horus
+  - pkg:golang/github.com/pylons/horus

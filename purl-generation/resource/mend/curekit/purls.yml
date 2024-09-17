@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/whitesource/curekit
+  - pkg:maven/io.whitesource/curekit

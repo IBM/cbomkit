@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/gthumb
+  - pkg:deb/ubuntu/gthumb
+  - pkg:github/gnome/gthumb
+  - pkg:rpm/fedora/gthumb
+  - pkg:rpm/opensuse/gthumb
+  - pkg:sourceforge/gthumb

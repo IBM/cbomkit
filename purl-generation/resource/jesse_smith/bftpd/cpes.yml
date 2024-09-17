@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:jesse_smith:bftpd:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:jesse_smith:bftpd:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:jesse_smith:bftpd:1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:jesse_smith:bftpd:1.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jesse_smith:bftpd:1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:jesse_smith:bftpd:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jesse_smith:bftpd:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:jesse_smith:bftpd:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jesse_smith:bftpd:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jesse_smith:bftpd:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jesse_smith:bftpd:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jesse_smith:bftpd:2.2.1:*:*:*:*:*:*:*

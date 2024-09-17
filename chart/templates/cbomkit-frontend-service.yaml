@@ -1,0 +1,18 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ .Values.frontend.name }}
+  labels:
+    app: {{ .Values.frontend.name }}
+    resource: {{ .Values.frontend.name }}
+spec:
+  ports:
+    - name: 8000-tcp
+      port: 8000
+      protocol: TCP
+      targetPort: 8000
+  selector:
+    app: {{ .Values.frontend.name }}
+    resource: {{ .Values.frontend.name }}
+  sessionAffinity: None
+  type: ClusterIP

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:rails-cv-app_project:rails-cv-app:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:rails-cv-app_project:rails-cv-app:-:*:*:*:*:*:*:*

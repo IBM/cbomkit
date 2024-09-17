@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:wp-d3_project:wp-d3:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-d3_project:wp-d3:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-d3_project:wp-d3:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-d3_project:wp-d3:1.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-d3_project:wp-d3:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-d3_project:wp-d3:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-d3_project:wp-d3:2.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-d3_project:wp-d3:2.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-d3_project:wp-d3:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-d3_project:wp-d3:2.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-d3_project:wp-d3:2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-d3_project:wp-d3:2.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-d3_project:wp-d3:2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-d3_project:wp-d3:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/krb5
+  - pkg:deb/ubuntu/krb5
+  - pkg:github/krb5/krb5
+  - pkg:gitlab/redhat/krb5
+  - pkg:rpm/fedora/krb5
+  - pkg:rpm/opensuse/krb5

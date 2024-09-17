@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:todo_filter_project:todo_filter:6.x-1.0:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:todo_filter_project:todo_filter:7.x-1.0:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:todo_filter_project:todo_filter:7.x-1.x-dev:*:*:*:*:drupal:*:*

@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:jenkins:subversion_release_manager:0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:subversion_release_manager:0.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:subversion_release_manager:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:subversion_release_manager:1.2:*:*:*:*:jenkins:*:*

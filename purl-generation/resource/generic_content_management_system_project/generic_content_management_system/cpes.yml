@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:generic_content_management_system_project:generic_content_management_system:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:generic_content_management_system_project:generic_content_management_system:2018-01-04:*:*:*:*:*:*:*
+  - cpe:2.3:a:generic_content_management_system_project:generic_content_management_system:2018-01-05:*:*:*:*:*:*:*
+  - cpe:2.3:a:generic_content_management_system_project:generic_content_management_system:2018-01-08:*:*:*:*:*:*:*
+  - cpe:2.3:a:generic_content_management_system_project:generic_content_management_system:2018-03-03:*:*:*:*:*:*:*
+  - cpe:2.3:a:generic_content_management_system_project:generic_content_management_system:2018-04-10:*:*:*:*:*:*:*
+  - cpe:2.3:a:generic_content_management_system_project:generic_content_management_system:2018-04-28:*:*:*:*:*:*:*

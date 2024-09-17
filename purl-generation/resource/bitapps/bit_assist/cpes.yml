@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:bitapps:bit_assist:1.1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bitapps:bit_assist:*:*:*:*:*:wordpress:*:*

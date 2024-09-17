@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/flitbit/json-ptr
+  - pkg:maven/org.webjars.npm/json-ptr
+  - pkg:npm/json-ptr

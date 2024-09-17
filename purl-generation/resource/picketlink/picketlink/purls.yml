@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/picketlink/picketlink
+  - pkg:maven/org.picketlink/picketlink

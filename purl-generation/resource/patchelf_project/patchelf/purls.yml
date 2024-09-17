@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/patchelf
+  - pkg:github/nixos/patchelf
+  - pkg:pypi/patchelf
+  - pkg:rpm/fedora/patchelf
+  - pkg:rpm/opensuse/patchelf

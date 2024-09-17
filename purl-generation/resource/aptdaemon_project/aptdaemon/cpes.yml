@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:aptdaemon_project:aptdaemon:1.1.1:bzr982-0ubuntu14.4:*:*:*:*:*:*
+  - cpe:2.3:a:aptdaemon_project:aptdaemon:1.1.1:bzr982-0ubuntu19.4:*:*:*:*:*:*
+  - cpe:2.3:a:aptdaemon_project:aptdaemon:1.1.1:bzr982-0ubuntu32.2:*:*:*:*:*:*

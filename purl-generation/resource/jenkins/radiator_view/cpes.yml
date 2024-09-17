@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:jenkins:radiator_view:1.14:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:radiator_view:1.15:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:radiator_view:1.16:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:radiator_view:1.17:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:radiator_view:1.18:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:radiator_view:1.19:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:radiator_view:1.20:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:radiator_view:1.21:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:radiator_view:1.22:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:radiator_view:1.23:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:radiator_view:1.24:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:radiator_view:1.25:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:radiator_view:1.26:beta1:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:radiator_view:1.26:beta2:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:radiator_view:1.26:-:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:radiator_view:1.28:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:radiator_view:1.29:*:*:*:*:jenkins:*:*

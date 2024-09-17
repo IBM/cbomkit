@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-groupware
+  - pkg:deb/ubuntu/php-horde-groupware
+  - pkg:github/horde/groupware
+  - pkg:gnome/php-horde-groupware

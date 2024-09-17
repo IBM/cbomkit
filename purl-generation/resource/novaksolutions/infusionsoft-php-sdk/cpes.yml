@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:novaksolutions:infusionsoft-php-sdk:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:novaksolutions:infusionsoft-php-sdk:2014-02-18:*:*:*:*:*:*:*
+  - cpe:2.3:a:novaksolutions:infusionsoft-php-sdk:2014-03-07:*:*:*:*:*:*:*
+  - cpe:2.3:a:novaksolutions:infusionsoft-php-sdk:2014-04-11:*:*:*:*:*:*:*
+  - cpe:2.3:a:novaksolutions:infusionsoft-php-sdk:2014-05-09:*:*:*:*:*:*:*
+  - cpe:2.3:a:novaksolutions:infusionsoft-php-sdk:2014-09-11:*:*:*:*:*:*:*
+  - cpe:2.3:a:novaksolutions:infusionsoft-php-sdk:2016-10-31:*:*:*:*:*:*:*
+  - cpe:2.3:a:novaksolutions:infusionsoft-php-sdk:2019-01-30:*:*:*:*:*:*:*
+  - cpe:2.3:a:novaksolutions:infusionsoft-php-sdk:2019-06-07:*:*:*:*:*:*:*

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:likewise:likewise_open:5.3:*:enterprise:*:*:*:*:*
+  - cpe:2.3:a:likewise:likewise_open:5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:likewise:likewise_open:6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:likewise:likewise_open:6.0:*:enterprise:*:*:*:*:*
+  - cpe:2.3:a:likewise:likewise_open:6.1:*:*:*:*:*:*:*

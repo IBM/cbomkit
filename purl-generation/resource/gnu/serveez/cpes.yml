@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:gnu:serveez:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:serveez:0.2.2:*:*:*:*:*:*:*

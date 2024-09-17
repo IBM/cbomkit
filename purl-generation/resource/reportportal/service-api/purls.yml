@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/reportportal/service-api
+  - pkg:github/reportportal/service-api
+  - pkg:maven/com.epam.reportportal/service-api

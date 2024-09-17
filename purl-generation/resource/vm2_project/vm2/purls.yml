@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/patriksimek/vm2
+  - pkg:npm/vm2

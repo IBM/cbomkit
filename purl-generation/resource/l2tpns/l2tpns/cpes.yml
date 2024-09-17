@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:l2tpns:l2tpns:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:l2tpns:l2tpns:2.0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:l2tpns:l2tpns:2.1:*:*:*:*:*:*:*

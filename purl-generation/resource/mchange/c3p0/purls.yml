@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/c3p0
+  - pkg:deb/ubuntu/c3p0
+  - pkg:github/swaldman/c3p0
+  - pkg:maven/c3p0/c3p0
+  - pkg:rpm/opensuse/c3p0
+  - pkg:sourceforge/c3p0

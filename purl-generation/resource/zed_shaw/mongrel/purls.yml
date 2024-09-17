@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/mongrel
+  - pkg:github/mongrel/mongrel

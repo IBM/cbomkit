@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:ambrosia_software:maelstrom:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ambrosia_software:maelstrom:3.0.6:*:*:*:*:*:*:*

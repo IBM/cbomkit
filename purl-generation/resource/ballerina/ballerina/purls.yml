@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/ballerina/ballerina
+  - pkg:github/ballerina-platform/ballerina-lang

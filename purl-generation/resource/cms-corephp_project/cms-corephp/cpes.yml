@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:cms-corephp_project:cms-corephp:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:cms-corephp_project:cms-corephp:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:cms-corephp_project:cms-corephp:2021-05-19:*:*:*:*:*:*:*

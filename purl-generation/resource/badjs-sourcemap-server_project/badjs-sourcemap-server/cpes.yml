@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:badjs-sourcemap-server_project:badjs-sourcemap-server:0.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:badjs-sourcemap-server_project:badjs-sourcemap-server:0.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:badjs-sourcemap-server_project:badjs-sourcemap-server:0.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:badjs-sourcemap-server_project:badjs-sourcemap-server:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:badjs-sourcemap-server_project:badjs-sourcemap-server:0.1.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:badjs-sourcemap-server_project:badjs-sourcemap-server:0.1.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:badjs-sourcemap-server_project:badjs-sourcemap-server:0.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:badjs-sourcemap-server_project:badjs-sourcemap-server:0.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:badjs-sourcemap-server_project:badjs-sourcemap-server:0.1.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:badjs-sourcemap-server_project:badjs-sourcemap-server:0.1.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:badjs-sourcemap-server_project:badjs-sourcemap-server:0.1.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:badjs-sourcemap-server_project:badjs-sourcemap-server:0.1.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:badjs-sourcemap-server_project:badjs-sourcemap-server:0.1.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:badjs-sourcemap-server_project:badjs-sourcemap-server:0.1.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:badjs-sourcemap-server_project:badjs-sourcemap-server:0.1.9:*:*:*:*:node.js:*:*

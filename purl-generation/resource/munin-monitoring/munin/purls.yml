@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/munin
+  - pkg:deb/ubuntu/munin
+  - pkg:github/munin-monitoring/munin
+  - pkg:rpm/fedora/munin
+  - pkg:rpm/opensuse/munin

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/perltidy
+  - pkg:deb/ubuntu/perltidy
+  - pkg:github/perltidy/perltidy
+  - pkg:gitlab/redhat/perltidy
+  - pkg:rpm/fedora/perltidy
+  - pkg:rpm/opensuse/perltidy
+  - pkg:sourceforge/perltidy

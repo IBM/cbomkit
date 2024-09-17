@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:martin_nagy:bind-dyndb-ldap:0.1.0:a1:*:*:*:*:*:*
+  - cpe:2.3:a:martin_nagy:bind-dyndb-ldap:0.1.0:b:*:*:*:*:*:*
+  - cpe:2.3:a:martin_nagy:bind-dyndb-ldap:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:martin_nagy:bind-dyndb-ldap:1.0.0:b1:*:*:*:*:*:*
+  - cpe:2.3:a:martin_nagy:bind-dyndb-ldap:1.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:martin_nagy:bind-dyndb-ldap:1.1.0:a1:*:*:*:*:*:*
+  - cpe:2.3:a:martin_nagy:bind-dyndb-ldap:1.1.0:a2:*:*:*:*:*:*
+  - cpe:2.3:a:martin_nagy:bind-dyndb-ldap:1.1.0:b1:*:*:*:*:*:*
+  - cpe:2.3:a:martin_nagy:bind-dyndb-ldap:1.1.0:b2:*:*:*:*:*:*
+  - cpe:2.3:a:martin_nagy:bind-dyndb-ldap:1.1.0:rc1:*:*:*:*:*:*

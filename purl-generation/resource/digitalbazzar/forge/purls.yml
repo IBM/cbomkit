@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-node-forge
+  - pkg:deb/ubuntu/node-node-forge
+  - pkg:github/digitalbazaar/forge
+  - pkg:maven/org.webjars.npm/node-forge
+  - pkg:npm/node-forge

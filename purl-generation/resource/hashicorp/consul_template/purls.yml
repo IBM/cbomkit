@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/hashicorp/consul-template
+  - pkg:github/hashicorp/consul-template

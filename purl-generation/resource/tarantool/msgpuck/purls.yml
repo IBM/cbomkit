@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/msgpuck
+  - pkg:deb/ubuntu/msgpuck
+  - pkg:github/rtsisyk/msgpuck
+  - pkg:github/tarantool/msgpuck
+  - pkg:rpm/fedora/msgpuck

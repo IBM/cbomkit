@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:xerver:xerver:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:xerver:xerver:4.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:xerver:xerver:4.17h:*:*:*:*:*:*:*
+  - cpe:2.3:a:xerver:xerver:4.32:*:*:*:*:*:*:*

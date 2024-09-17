@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/inspec
+  - pkg:github/inspec/inspec

@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:byte_struct_project:byte_struct:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:byte_struct_project:byte_struct:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:byte_struct_project:byte_struct:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:byte_struct_project:byte_struct:0.4.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:byte_struct_project:byte_struct:0.4.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:byte_struct_project:byte_struct:0.4.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:byte_struct_project:byte_struct:0.5.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:byte_struct_project:byte_struct:0.6.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:byte_struct_project:byte_struct:0.6.1:*:*:*:*:rust:*:*

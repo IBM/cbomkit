@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/golang-github-valyala-fasthttp
+  - pkg:deb/ubuntu/golang-github-valyala-fasthttp
+  - pkg:github/valyala/fasthttp
+  - pkg:rpm/fedora/golang-github-valyala-fasthttp
+  - pkg:sourceforge/fasthttp.mirror

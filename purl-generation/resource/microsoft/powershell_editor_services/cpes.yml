@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:microsoft:powershell_editor_services:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:microsoft:powershell_editor_services:1.7.0:*:*:*:*:*:*:*

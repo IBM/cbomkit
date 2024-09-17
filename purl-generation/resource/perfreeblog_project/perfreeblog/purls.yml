@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/perfree/perfree
+  - pkg:gitee/perfree/perfreeblog
+  - pkg:github/perfree/perfreeblog

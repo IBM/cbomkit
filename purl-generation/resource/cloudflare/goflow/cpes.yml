@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:cloudflare:goflow:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:goflow:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:goflow:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:goflow:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:goflow:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:goflow:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:goflow:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:goflow:2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:goflow:2.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:goflow:2.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:goflow:2.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:goflow:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:goflow:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:goflow:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:goflow:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:goflow:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:goflow:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:goflow:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:goflow:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:goflow:3.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:goflow:3.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:goflow:3.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudflare:goflow:3.4.4:*:*:*:*:*:*:*

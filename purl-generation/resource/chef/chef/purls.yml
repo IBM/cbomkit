@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/chef/chef
+  - pkg:gem/chef
+  - pkg:github/chef/chef

@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:wp_attachment_export_project:wp_attachment_export:0.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_attachment_export_project:wp_attachment_export:0.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_attachment_export_project:wp_attachment_export:0.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_attachment_export_project:wp_attachment_export:0.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_attachment_export_project:wp_attachment_export:0.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_attachment_export_project:wp_attachment_export:0.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_attachment_export_project:wp_attachment_export:0.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_attachment_export_project:wp_attachment_export:0.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_attachment_export_project:wp_attachment_export:0.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_attachment_export_project:wp_attachment_export:0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_attachment_export_project:wp_attachment_export:-:*:*:*:*:wordpress:*:*

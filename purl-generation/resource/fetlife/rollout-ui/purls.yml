@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/rollout-ui
+  - pkg:github/fetlife/rollout-ui

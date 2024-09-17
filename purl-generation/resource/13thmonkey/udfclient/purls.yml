@@ -1,0 +1,5 @@
+purls:
+  - pkg:13thmonkey/udfclient
+  - pkg:deb/debian/udfclient
+  - pkg:generic/13thmonkey/udfclient
+  - pkg:rpm/freebsd/udfclient

@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:findingscience:mod_auth_openid:0.1:*:*:*:*:apache:*:*
+  - cpe:2.3:a:findingscience:mod_auth_openid:0.2.1:*:*:*:*:apache:*:*
+  - cpe:2.3:a:findingscience:mod_auth_openid:0.2:*:*:*:*:apache:*:*
+  - cpe:2.3:a:findingscience:mod_auth_openid:0.3:*:*:*:*:apache:*:*
+  - cpe:2.3:a:findingscience:mod_auth_openid:0.4:*:*:*:*:apache:*:*
+  - cpe:2.3:a:findingscience:mod_auth_openid:0.5:*:*:*:*:apache:*:*
+  - cpe:2.3:a:findingscience:mod_auth_openid:0.6:*:*:*:*:apache:*:*
+  - cpe:2.3:a:findingscience:mod_auth_openid:0.7:*:*:*:*:apache:*:*

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:nibbleblog:nibbleblog:3.7.1a:*:*:*:*:*:*:*
+  - cpe:2.3:a:nibbleblog:nibbleblog:3.7.1b:*:*:*:*:*:*:*
+  - cpe:2.3:a:nibbleblog:nibbleblog:3.7.1c:*:*:*:*:*:*:*
+  - cpe:2.3:a:nibbleblog:nibbleblog:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nibbleblog:nibbleblog:4.0.5:*:*:*:*:*:*:*

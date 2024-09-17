@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:puppet-facter_project:puppet-facter:*:*:*:*:*:node.js:*:*

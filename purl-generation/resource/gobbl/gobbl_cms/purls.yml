@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gobblejs/gobble
+  - pkg:npm/gobble

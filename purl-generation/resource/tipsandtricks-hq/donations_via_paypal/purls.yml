@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/artstorm/paypal-donations
+  - pkg:github/wp-plugins/paypal-donations

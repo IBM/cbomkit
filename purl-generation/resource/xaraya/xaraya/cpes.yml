@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:xaraya:xaraya:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:xaraya:xaraya:1.0_rc1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xaraya:xaraya:1.0_rc2:*:*:*:*:*:*:*
+  - cpe:2.3:a:xaraya:xaraya:1.0_rc3:*:*:*:*:*:*:*
+  - cpe:2.3:a:xaraya:xaraya:1.0_rc4:*:*:*:*:*:*:*
+  - cpe:2.3:a:xaraya:xaraya:2.4.0:b1:*:*:*:*:*:*

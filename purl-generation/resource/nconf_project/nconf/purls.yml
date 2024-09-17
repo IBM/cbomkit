@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/indexzero/nconf
+  - pkg:npm/nconf

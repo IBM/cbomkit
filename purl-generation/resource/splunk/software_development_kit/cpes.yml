@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:splunk:software_development_kit:0.1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:0.8.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:1.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:1.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:1.2.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:1.2.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:1.2.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:1.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:1.3.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:1.3.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:1.4.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:1.5.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:1.6.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:1.6.10:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:1.6.11:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:1.6.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:1.6.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:1.6.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:1.6.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:1.6.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:1.6.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:1.6.7:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:1.6.8:*:*:*:*:python:*:*
+  - cpe:2.3:a:splunk:software_development_kit:1.6.9:*:*:*:*:python:*:*

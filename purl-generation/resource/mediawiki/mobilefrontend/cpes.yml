@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:mediawiki:mobilefrontend:1.31.0:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:mediawiki:mobilefrontend:1.32.0:*:*:*:*:mediawiki:*:*
+  - cpe:2.3:a:mediawiki:mobilefrontend:1.33.0:*:*:*:*:mediawiki:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/googlecontainertools/jib
+  - pkg:gitlab/gitlab-gold/jib
+  - pkg:sourceforge/jib.mirror

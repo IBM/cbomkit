@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:icebb:icebb:0.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:icebb:icebb:0.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:icebb:icebb:0.9.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:icebb:icebb:0.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:icebb:icebb:0.9.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:icebb:icebb:0.9:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:icebb:icebb:1.0:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:icebb:icebb:1.0_rc_5:*:*:*:*:*:*:*
+  - cpe:2.3:a:icebb:icebb:1.0:rc5.1:*:*:*:*:*:*
+  - cpe:2.3:a:icebb:icebb:1.0-rc6:*:*:*:*:*:*:*
+  - cpe:2.3:a:icebb:icebb:1.0:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:icebb:icebb:1.0:rc7:*:*:*:*:*:*
+  - cpe:2.3:a:icebb:icebb:1.0:rc8:*:*:*:*:*:*
+  - cpe:2.3:a:icebb:icebb:1.0:rc9:*:*:*:*:*:*
+  - cpe:2.3:a:icebb:icebb:1.0:rc9.1:*:*:*:*:*:*
+  - cpe:2.3:a:icebb:icebb:1.0:rc9.2:*:*:*:*:*:*
+  - cpe:2.3:a:icebb:icebb:*:rc9.3:*:*:*:*:*:*

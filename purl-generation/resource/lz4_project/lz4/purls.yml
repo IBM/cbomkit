@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/lz4
+  - pkg:deb/ubuntu/lz4
+  - pkg:github/lz4/lz4
+  - pkg:nuget/lz4
+  - pkg:rpm/centos/lz4
+  - pkg:rpm/fedora/lz4
+  - pkg:rpm/opensuse/lz4

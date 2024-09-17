@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:digitalocean:golang-nanoauth:2016-07-22:*:*:*:*:go:*:*
+  - cpe:2.3:a:digitalocean:golang-nanoauth:2016-07-25:*:*:*:*:go:*:*
+  - cpe:2.3:a:digitalocean:golang-nanoauth:2016-08-22:*:*:*:*:go:*:*
+  - cpe:2.3:a:digitalocean:golang-nanoauth:2016-10-26:*:*:*:*:go:*:*
+  - cpe:2.3:a:digitalocean:golang-nanoauth:2019-03-11:*:*:*:*:go:*:*
+  - cpe:2.3:a:digitalocean:golang-nanoauth:2019-03-18:*:*:*:*:go:*:*
+  - cpe:2.3:a:digitalocean:golang-nanoauth:2020-01-31:*:*:*:*:go:*:*
+  - cpe:2.3:a:digitalocean:golang-nanoauth:*:*:*:*:*:go:*:*
+  - cpe:2.3:a:digitalocean:golang-nanoauth:-:*:*:*:*:go:*:*

@@ -1,0 +1,10 @@
+purls:
+  - pkg:apache/qpid
+  - pkg:deb/debian/qpid-proton
+  - pkg:deb/ubuntu/qpid-proton
+  - pkg:github/apache/qpid-proton
+  - pkg:gitlab/redhat/qpid-proton
+  - pkg:maven/org.apache.qpid/proton
+  - pkg:pypi/python-qpid-proton
+  - pkg:rpm/fedora/qpid-proton
+  - pkg:rpm/opensuse/qpid-proton

@@ -1,0 +1,2 @@
+purls:
+  - pkg:github/jenkinsci/anchore-container-scanner-plugin

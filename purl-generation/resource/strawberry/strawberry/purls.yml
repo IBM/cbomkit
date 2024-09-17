@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/strawberry
+  - pkg:deb/ubuntu/strawberry
+  - pkg:github/strawberrymusicplayer/strawberry
+  - pkg:golang/github.com/strawberrymusicplayer/strawberry
+  - pkg:rpm/fedora/strawberry
+  - pkg:rpm/opensuse/strawberry

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:perlblog:perlblog:1.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:perlblog:perlblog:1.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:perlblog:perlblog:1.09b:*:*:*:*:*:*:*

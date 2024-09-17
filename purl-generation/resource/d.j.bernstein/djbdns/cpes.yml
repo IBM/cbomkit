@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:d.j.bernstein:djbdns:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:d.j.bernstein:djbdns:1.05:*:*:*:*:*:*:*

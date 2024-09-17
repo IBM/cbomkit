@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:dronecode:micro_air_vehicle_link:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:dronecode:micro_air_vehicle_link:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dronecode:micro_air_vehicle_link:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dronecode:micro_air_vehicle_link:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dronecode:micro_air_vehicle_link:1.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:dronecode:micro_air_vehicle_link:1.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:dronecode:micro_air_vehicle_link:1.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:dronecode:micro_air_vehicle_link:1.0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:dronecode:micro_air_vehicle_link:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dronecode:micro_air_vehicle_link:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dronecode:micro_air_vehicle_link:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dronecode:micro_air_vehicle_link:1.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dronecode:micro_air_vehicle_link:1.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:dronecode:micro_air_vehicle_link:1.0.9:*:*:*:*:*:*:*

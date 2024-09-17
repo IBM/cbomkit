@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/digitalarsenal/openssl.js
+  - pkg:npm/openssl.js

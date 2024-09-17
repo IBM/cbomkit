@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/atlassian-marketplace/authentikat-jwt
+  - pkg:github/jasongoodwin/authentikat-jwt
+  - pkg:maven/com.jason-goodwin/authentikat-jwt

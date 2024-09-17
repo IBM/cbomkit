@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:torrentflux_project:torrentflux:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:torrentflux_project:torrentflux:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:torrentflux_project:torrentflux:2.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:torrentflux_project:torrentflux:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:torrentflux_project:torrentflux:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:torrentflux_project:torrentflux:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:torrentflux_project:torrentflux:2.4:*:*:*:*:*:*:*

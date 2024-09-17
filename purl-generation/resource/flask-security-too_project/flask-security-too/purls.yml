@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/flask-middleware/flask-security
+  - pkg:pypi/flask-security-too
+  - pkg:rpm/fedora/python-flask-security-too
+  - pkg:rpm/opensuse/python-flask-security-too

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/carlos8f/node-accesslog
+  - pkg:npm/accesslog

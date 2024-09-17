@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:chafa_project:chafa:0.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:chafa_project:chafa:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:chafa_project:chafa:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:chafa_project:chafa:1.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:chafa_project:chafa:1.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:chafa_project:chafa:1.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:chafa_project:chafa:1.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:chafa_project:chafa:1.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:chafa_project:chafa:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:chafa_project:chafa:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:chafa_project:chafa:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:chafa_project:chafa:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:chafa_project:chafa:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:chafa_project:chafa:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:chafa_project:chafa:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:chafa_project:chafa:1.8.0:*:*:*:*:*:*:*

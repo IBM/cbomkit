@@ -1,0 +1,7 @@
+purls:
+  - pkg:gitlab/redhat/x3270
+  - pkg:maven/com.github.filipesimoes/j3270
+  - pkg:pypi/py3270
+  - pkg:rpm/fedora/x3270
+  - pkg:rpm/opensuse/x3270
+  - pkg:sourceforge/x3270

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/tripwire
+  - pkg:deb/ubuntu/tripwire
+  - pkg:github/tripwire/tripwire-open-source
+  - pkg:rpm/fedora/tripwire
+  - pkg:rpm/opensuse/tripwire
+  - pkg:sourceforge/tripwire

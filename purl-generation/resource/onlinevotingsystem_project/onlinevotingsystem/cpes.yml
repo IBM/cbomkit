@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:onlinevotingsystem_project:onlinevotingsystem:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:onlinevotingsystem_project:onlinevotingsystem:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:onlinevotingsystem_project:onlinevotingsystem:1.1.2:*:*:*:*:*:*:*

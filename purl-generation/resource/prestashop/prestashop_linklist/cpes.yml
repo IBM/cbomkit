@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:prestashop:prestashop_linklist:1.0.4:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_linklist:1.1.0:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_linklist:1.2.0:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_linklist:2.0.0:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_linklist:2.0.1:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_linklist:2.1.0:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_linklist:2.1.1:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_linklist:2.1.2:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_linklist:2.1.3:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_linklist:2.1.4:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_linklist:2.1.5:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_linklist:2.1.6:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_linklist:3.0.0:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_linklist:3.0.1:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_linklist:3.0.2:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_linklist:3.0.3:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_linklist:3.0.4:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:prestashop_linklist:3.1.0:*:*:*:*:prestashop:*:*

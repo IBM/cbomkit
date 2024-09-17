@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/bitnami/opencart
+  - pkg:github/opencart/opencart
+  - pkg:sourceforge/opencart.mirror

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/returntocorp/semgrep
+  - pkg:golang/github.com/returntocorp/semgrep
+  - pkg:pypi/semgrep

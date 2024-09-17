@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-kronolith
+  - pkg:deb/ubuntu/php-horde-kronolith
+  - pkg:github/horde/kronolith
+  - pkg:rpm/fedora/php-horde-kronolith

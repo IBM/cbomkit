@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:min-http-server_project:min-http-server:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:min-http-server_project:min-http-server:1.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:min-http-server_project:min-http-server:1.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:min-http-server_project:min-http-server:1.0.6:*:*:*:*:node.js:*:*

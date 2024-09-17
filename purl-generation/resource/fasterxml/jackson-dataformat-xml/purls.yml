@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/jackson-dataformat-xml
+  - pkg:deb/ubuntu/jackson-dataformat-xml
+  - pkg:github/fasterxml/jackson-dataformat-xml
+  - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:spatie:browsershot:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:spatie:browsershot:3.57.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:spatie:browsershot:3.57.3:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/openfga/openfga
+  - pkg:github/openfga/openfga

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/abcmidi
+  - pkg:deb/ubuntu/abcmidi
+  - pkg:github/sshlien/abcmidi
+  - pkg:rpm/fedora/abcmidi
+  - pkg:rpm/opensuse/abcmidi
+  - pkg:sourceforge/abc

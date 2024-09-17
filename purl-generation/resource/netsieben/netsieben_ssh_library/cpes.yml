@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:netsieben:netsieben_ssh_library:1.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:netsieben:netsieben_ssh_library:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:netsieben:netsieben_ssh_library:1.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:netsieben:netsieben_ssh_library:1.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:netsieben:netsieben_ssh_library:1.2.0:*:*:*:*:*:*:*

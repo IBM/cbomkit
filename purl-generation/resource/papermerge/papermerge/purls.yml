@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/eugenci/papermerge
+  - pkg:github/ciur/papermerge
+  - pkg:pypi/papermerge

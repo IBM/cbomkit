@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/matmoul/g810-led
+  - pkg:github/matmoul/g810-led-python
+  - pkg:github/matmoul/g810-led-resources

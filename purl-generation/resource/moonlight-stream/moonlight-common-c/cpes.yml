@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:moonlight-stream:moonlight-common-c:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:moonlight-stream:moonlight-common-c:2022-11-04:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pld-linux/pam-pam_smb
+  - pkg:rpm/opensuse/pam_smb

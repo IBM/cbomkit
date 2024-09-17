@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/radsecproxy
+  - pkg:deb/ubuntu/radsecproxy
+  - pkg:github/radsecproxy/radsecproxy
+  - pkg:rpm/fedora/radsecproxy
+  - pkg:rpm/opensuse/radsecproxy

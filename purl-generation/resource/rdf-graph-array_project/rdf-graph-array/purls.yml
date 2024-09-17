@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/rdf-ext-archive/rdf-graph-array
+  - pkg:npm/rdf-graph-array

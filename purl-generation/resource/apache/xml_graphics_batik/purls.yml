@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/xmlgraphics
+  - pkg:github/apache/xmlgraphics-batik
+  - pkg:maven/org.apache.xmlgraphics/batik
+  - pkg:rpm/opensuse/xmlgraphics-batik

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:cvrf-csaf-converter_project:cvrf-csaf-converter:1.0.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:cvrf-csaf-converter_project:cvrf-csaf-converter:1.0.0:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:cvrf-csaf-converter_project:cvrf-csaf-converter:1.0.0:dev2:*:*:*:*:*:*
+  - cpe:2.3:a:cvrf-csaf-converter_project:cvrf-csaf-converter:1.0.0:dev3:*:*:*:*:*:*
+  - cpe:2.3:a:cvrf-csaf-converter_project:cvrf-csaf-converter:1.0.0:rc1:*:*:*:*:*:*

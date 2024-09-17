@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-ajv
+  - pkg:deb/ubuntu/node-ajv
+  - pkg:github/ajv-validator/ajv
+  - pkg:maven/org.webjars.npm/ajv
+  - pkg:npm/ajv
+  - pkg:sourceforge/ajv-json-schema.mirror

@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/texmacs/texmacs
+  - pkg:gnu/texmacs
+  - pkg:rpm/fedora/texmacs
+  - pkg:rpm/opensuse/texmacs

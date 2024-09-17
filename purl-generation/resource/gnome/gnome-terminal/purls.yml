@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/gnome-terminal
+  - pkg:deb/ubuntu/gnome-terminal
+  - pkg:github/gnome/gnome-terminal
+  - pkg:gitlab/kalilinux/gnome-terminal
+  - pkg:rpm/centos/gnome-terminal
+  - pkg:rpm/fedora/gnome-terminal
+  - pkg:rpm/opensuse/gnome-terminal

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/oliverschloebe/admin-management-xtended
+  - pkg:github/wp-plugins/admin-management-xtended
+  - pkg:github/wpplugins/admin-management-xtended

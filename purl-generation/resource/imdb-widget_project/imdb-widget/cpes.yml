@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:imdb-widget_project:imdb-widget:1.0.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:imdb-widget_project:imdb-widget:1.0.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:imdb-widget_project:imdb-widget:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:imdb-widget_project:imdb-widget:-:*:*:*:*:wordpress:*:*

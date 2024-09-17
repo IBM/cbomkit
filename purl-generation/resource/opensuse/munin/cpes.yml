@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:opensuse:munin:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:munin:2.0.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:munin:2.0.49-4.2:*:*:*:*:*:*:*

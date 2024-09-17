@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mikaelbr/node-notifier
+  - pkg:maven/org.webjars.npm/node-notifier
+  - pkg:npm/node-notifier

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/omg-dds/dds-security
+  - pkg:maven/org.omg.dds.security/dds-security-xml

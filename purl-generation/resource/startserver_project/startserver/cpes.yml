@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:startserver_project:startserver:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:startserver_project:startserver:0.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:startserver_project:startserver:0.2.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:startserver_project:startserver:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:startserver_project:startserver:0.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:startserver_project:startserver:0.4.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:startserver_project:startserver:0.4.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:startserver_project:startserver:0.5.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:startserver_project:startserver:0.5.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:startserver_project:startserver:0.5.14:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:startserver_project:startserver:0.5.16:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:startserver_project:startserver:0.5.26:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:startserver_project:startserver:0.5.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:startserver_project:startserver:0.5.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:startserver_project:startserver:0.6.16:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:startserver_project:startserver:0.6.32:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:startserver_project:startserver:0.6.34:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:startserver_project:startserver:0.6.36:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:startserver_project:startserver:1.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:startserver_project:startserver:1.2.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:startserver_project:startserver:1.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:startserver_project:startserver:-:*:*:*:*:node.js:*:*

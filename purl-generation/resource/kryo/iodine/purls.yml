@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/iodine
+  - pkg:deb/ubuntu/iodine
+  - pkg:github/yarrick/iodine
+  - pkg:rpm/fedora/iodine
+  - pkg:rpm/opensuse/iodine

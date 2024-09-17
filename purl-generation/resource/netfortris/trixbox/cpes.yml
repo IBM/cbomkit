@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:netfortris:trixbox:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfortris:trixbox:1.2.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:netfortris:trixbox:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfortris:trixbox:2.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfortris:trixbox:2.8.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfortris:trixbox:2.8.0.4:*:*:*:-:*:*:*
+  - cpe:2.3:a:netfortris:trixbox:2.8.0.4:*:*:*:community:*:*:*

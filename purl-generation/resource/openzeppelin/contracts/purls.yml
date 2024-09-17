@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openzeppelin/openzeppelin-contracts
+  - pkg:npm/%40openzeppelin/contracts

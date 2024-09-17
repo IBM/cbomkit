@@ -1,0 +1,8 @@
+purls:
+  - pkg:apache/activemq
+  - pkg:deb/debian/activemq
+  - pkg:deb/ubuntu/activemq
+  - pkg:dokcer/pharmazon/activemq_artemis
+  - pkg:github/apache/activemq
+  - pkg:maven/org.apache.activemq/activemq
+  - pkg:maven/org.apache.activemq/activemq-core

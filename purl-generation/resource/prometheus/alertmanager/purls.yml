@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/prometheus-alertmanager
+  - pkg:deb/ubuntu/prometheus-alertmanager
+  - pkg:docker/ubuntu/prometheus-alertmanager
+  - pkg:golang/github.com/prometheus/alertmanager
+  - pkg:rpm/opensuse/alertmanager
+  - pkg:sourceforge/alertmanager.mirror

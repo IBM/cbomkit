@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/commons
+  - pkg:github/apache/commons-collections
+  - pkg:gitlab/redhat/apache-commons-collections
+  - pkg:maven/org.apache.commons/commons-collections4
+  - pkg:rpm/fedora/apache-commons-collections
+  - pkg:rpm/opensuse/apache-commons-collections

@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/ranger
+  - pkg:github/apache/ranger
+  - pkg:maven/org.apache.ranger/ranger

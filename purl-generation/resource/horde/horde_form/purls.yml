@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-horde-form
+  - pkg:deb/ubuntu/php-horde-form
+  - pkg:github/horde/form
+  - pkg:rpm/fedora/php-horde-horde-form
+  - pkg:rpm/opensuse/php-horde-horde-form

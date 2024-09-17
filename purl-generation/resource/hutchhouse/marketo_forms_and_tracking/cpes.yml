@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:hutchhouse:marketo_forms_and_tracking:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hutchhouse:marketo_forms_and_tracking:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:hutchhouse:marketo_forms_and_tracking:1.0.2:*:*:*:*:wordpress:*:*

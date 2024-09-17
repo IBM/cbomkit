@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:gpgme_project:gpgme:0.1.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:gpgme_project:gpgme:0.1.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:gpgme_project:gpgme:0.1.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:gpgme_project:gpgme:0.1.3:*:*:*:*:go:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/veyon
+  - pkg:deb/ubuntu/veyon
+  - pkg:github/veyon/veyon
+  - pkg:rpm/opensuse/veyon

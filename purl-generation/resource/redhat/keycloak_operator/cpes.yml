@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:redhat:keycloak_operator:8.0.0:*:*:*:community:*:*:*
+  - cpe:2.3:a:redhat:keycloak_operator:8.0.1:*:*:*:community:*:*:*
+  - cpe:2.3:a:redhat:keycloak_operator:8.0.2:*:*:*:community:*:*:*

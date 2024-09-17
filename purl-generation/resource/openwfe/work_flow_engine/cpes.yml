@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:openwfe:work_flow_engine:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwfe:work_flow_engine:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwfe:work_flow_engine:1.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwfe:work_flow_engine:1.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwfe:work_flow_engine:1.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openwfe:work_flow_engine:1.4.5:*:*:*:*:*:*:*

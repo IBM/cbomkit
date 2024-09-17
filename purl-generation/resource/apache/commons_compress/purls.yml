@@ -1,0 +1,9 @@
+purls:
+  - pkg:apache/commons
+  - pkg:deb/debian/libcommons-compress-java
+  - pkg:deb/ubuntu/libcommons-compress-java
+  - pkg:github/apache/commons-compress
+  - pkg:gitlab/redhat/apache-commons-compress
+  - pkg:maven/org.apache.commons/commons-compress
+  - pkg:rpm/fedora/apache-commons-compress
+  - pkg:rpm/opensuse/apache-commons-compress

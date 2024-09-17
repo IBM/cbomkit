@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:mendix:excel_importer:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:5.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:5.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:5.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:5.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:5.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:5.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:5.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:5.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:5.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:5.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:5.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:5.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:7.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:8.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:8.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:8.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:8.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:8.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:8.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:8.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:9.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:9.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:9.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mendix:excel_importer:9.0.3:*:*:*:*:*:*:*

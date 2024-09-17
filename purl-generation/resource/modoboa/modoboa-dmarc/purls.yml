@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/modoboa/modoboa-dmarc
+  - pkg:pypi/modoboa-dmarc

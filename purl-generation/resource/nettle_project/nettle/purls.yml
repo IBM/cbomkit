@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/nettle
+  - pkg:deb/ubuntu/nettle
+  - pkg:github/breadwallet/nettle
+  - pkg:github/gnutls/nettle
+  - pkg:gitlab/redhat/nettle
+  - pkg:rpm/centos/nettle
+  - pkg:rpm/fedora/nettle
+  - pkg:rpm/opensuse/nettle

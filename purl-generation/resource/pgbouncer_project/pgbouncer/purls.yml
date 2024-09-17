@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/pgbouncer
+  - pkg:deb/ubuntu/pgbouncer
+  - pkg:github/pgbouncer/pgbouncer
+  - pkg:gitlab/gitlab-gold/pgbouncer
+  - pkg:rpm/fedora/pgbouncer
+  - pkg:rpm/opensuse/pgbouncer

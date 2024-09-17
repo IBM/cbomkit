@@ -1,0 +1,211 @@
+---
+openapi: 3.0.3
+info:
+  title: CBOMkit API
+  description: Service for generating and retrieving CBOMs
+  version: 1.0.0
+paths:
+  /api:
+    get:
+      tags:
+      - Api Endpoint
+      summary: Health test
+      description: Health test endpoint
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                example:
+                  status: ok
+  /api/v1/cbom:
+    get:
+      tags:
+      - CBOM Resource
+      summary: Returns a list of CBOMs related to the provided package urls
+      description: Returns a list of stored CBOMs for each provided package url.
+      parameters:
+      - name: cbomVersion
+        in: query
+        schema:
+          default: "1.6"
+          type: string
+      - name: purls
+        in: query
+        schema:
+          type: array
+          items:
+            type: string
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                example: "[{\"purl\": \"pkg:maven/commons-io/commons-io@2.11.0\",\"\
+                  cbom\": {\"id\": 251,\"gitUrl\":  \"https://github.com/apache/commons-io\"\
+                  ,\"branch\":  \"rel/commons-io-2.11.0\",\"cbomVersion\":  \"1.4-cbom-1.0\"\
+                  ,\"createdAt\": \"2023-10-24T10:55:20.404+00:00\",\"bom: {}\"}}]"
+        "404":
+          description: Purl not found
+  /api/v1/cbom/algorithm/searchByName:
+    get:
+      tags:
+      - CBOM Resource
+      summary: Returns the git URLs of all CBOMs that use the specified algorithm
+        name.
+      description: Returns the git URLs of all CBOMs that use the specified algorithm
+        name.
+      parameters:
+      - name: algorithm
+        in: query
+        schema:
+          type: string
+      - name: limit
+        in: query
+        schema:
+          format: int32
+          default: 5
+          type: integer
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                example:
+                - https://github.com/quarkusio/quarkus
+  /api/v1/cbom/algorithm/searchByOid:
+    get:
+      tags:
+      - CBOM Resource
+      summary: Returns the git URLs of all CBOMs that use the specified algorithm.
+      description: Returns the git URLs of all CBOMs that use the specified algorithm.
+      parameters:
+      - name: limit
+        in: query
+        schema:
+          format: int32
+          default: 5
+          type: integer
+      - name: oid
+        in: query
+        schema:
+          type: string
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                example:
+                - https://github.com/quarkusio/quarkus
+  /api/v1/cbom/lastn:
+    get:
+      tags:
+      - CBOM Resource
+      summary: Return recently generated CBOMs from the repository
+      description: Returns a list of the most recently generated CBOMs. The length
+        of the list can by specified via the optional 'limit' parameter.
+      parameters:
+      - name: limit
+        in: query
+        schema:
+          format: int32
+          default: 5
+          type: integer
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                example:
+                - id: 251
+                  gitUrl: https://github.com/quarkusio/quarkus
+                  branch: main
+                  cbomVersion: 1.4-cbom-1.0
+                  createdAt: 2023-10-24T10:55:20.404+00:00
+                  base64: ewogICJib21Gb3JtY...
+  /api/v1/compliance/check:
+    post:
+      tags:
+      - Compliance Resource
+      summary: Verify the compliance of a provided CBOM against a policy
+      description: "Returns the JSON sent by the Regulator API, containing various\
+        \ information about the compliance of the CBOM for a set policy."
+      parameters:
+      - name: policyIdentifier
+        in: query
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: string
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                example:
+                  policyIdentifier: ipsec
+                  policyDocumentTitle: Some Policy Detailed Name
+                  policyDocumentVersion: v0.4
+                  policyDocumentURL: https://example.com/...
+                  compliant: false
+                  findings: []
+        "503":
+          description: Not found
+          content:
+            application/json:
+              schema:
+                example:
+                  regulator_url: some url
+                  unavailable: true
+  /api/v1/compliance/check/purl:
+    get:
+      tags:
+      - Compliance Resource
+      summary: Verify the compliance of a stored CBOM identified by it's PURL against
+        a policy
+      description: "Returns the JSON sent by the Regulator API, containing various\
+        \ information about the compliance of the CBOM for a set policy."
+      parameters:
+      - name: cbomVersion
+        in: query
+        schema:
+          default: "1.6"
+          type: string
+      - name: policyIdentifier
+        in: query
+        schema:
+          type: string
+      - name: purl
+        in: query
+        schema:
+          type: string
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                example:
+                  policyIdentifier: quantum_safe
+                  policyDocumentTitle: Some Policy Detailed Name
+                  policyDocumentVersion: v0.4
+                  policyDocumentURL: https://example.com/...
+                  compliant: false
+                  findings: []
+        "503":
+          description: Not found
+          content:
+            application/json:
+              schema:
+                example:
+                  regulator_url: some url
+                  unavailable: true

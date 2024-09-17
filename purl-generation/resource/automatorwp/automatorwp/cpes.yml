@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:automatorwp:automatorwp:1.7.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automatorwp:automatorwp:2.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:automatorwp:automatorwp:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:snow_monkey_forms_project:snow_monkey_forms:5.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:snow_monkey_forms_project:snow_monkey_forms:*:*:*:*:*:wordpress:*:*

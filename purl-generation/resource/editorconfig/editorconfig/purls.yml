@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/editorconfig/editorconfig-core-c
+  - pkg:github/editorconfig/editorconfig-core-c
+  - pkg:golang/github.com/editorconfig/editorconfig-core-c
+  - pkg:rpm/opensuse/editorconfig-core-c
+  - pkg:sourceforge/editorconfig

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/kismet
+  - pkg:deb/ubuntu/kismet
+  - pkg:github/kismetwireless/kismet
+  - pkg:gitlab/kalilinux/kismet
+  - pkg:rpm/fedora/kismet
+  - pkg:rpm/opensuse/kismet

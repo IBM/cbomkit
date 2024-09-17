@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/grahamdumpleton/mod_wsgi
+  - pkg:gitlab/redhat/mod_wsgi
+  - pkg:rpm/centos/mod_wsgi
+  - pkg:rpm/fedora/mod_wsgi
+  - pkg:rpm/opensuse/mod_wsgi

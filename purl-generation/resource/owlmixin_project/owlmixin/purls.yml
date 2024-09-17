@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tadashi-aikawa/owlmixin
+  - pkg:pypi/owlmixin

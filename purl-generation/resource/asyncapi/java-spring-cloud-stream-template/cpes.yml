@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.10.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.3.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.6.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.6.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.6.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.6.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.6.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.6.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.6.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.6.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.6.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.7.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.7.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.7.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.7.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.9.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:asyncapi:java-spring-cloud-stream-template:0.9.1:*:*:*:*:node.js:*:*

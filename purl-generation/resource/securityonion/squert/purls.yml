@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/int13h/squert
+  - pkg:github/security-onion-solutions/securityonion-squert
+  - pkg:sourceforge/squert

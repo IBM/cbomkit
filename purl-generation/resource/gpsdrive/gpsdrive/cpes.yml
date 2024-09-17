@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:gpsdrive:gpsdrive:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gpsdrive:gpsdrive:1.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:gpsdrive:gpsdrive:1.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:gpsdrive:gpsdrive:2.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:gpsdrive:gpsdrive:*:pre2:*:*:*:*:*:*

@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:simple_slug_translate_project:simple_slug_translate:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_slug_translate_project:simple_slug_translate:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_slug_translate_project:simple_slug_translate:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_slug_translate_project:simple_slug_translate:1.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_slug_translate_project:simple_slug_translate:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_slug_translate_project:simple_slug_translate:1.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_slug_translate_project:simple_slug_translate:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_slug_translate_project:simple_slug_translate:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_slug_translate_project:simple_slug_translate:2.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_slug_translate_project:simple_slug_translate:2.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_slug_translate_project:simple_slug_translate:2.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_slug_translate_project:simple_slug_translate:2.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_slug_translate_project:simple_slug_translate:2.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_slug_translate_project:simple_slug_translate:2.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_slug_translate_project:simple_slug_translate:2.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_slug_translate_project:simple_slug_translate:2.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_slug_translate_project:simple_slug_translate:2.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_slug_translate_project:simple_slug_translate:2.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_slug_translate_project:simple_slug_translate:2.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_slug_translate_project:simple_slug_translate:-:*:*:*:*:wordpress:*:*

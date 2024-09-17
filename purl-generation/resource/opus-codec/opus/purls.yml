@@ -1,0 +1,12 @@
+purls:
+  - pkg:cpan/audio::opusfile
+  - pkg:deb/ubuntu/opus
+  - pkg:deb/ubuntu/opusfile
+  - pkg:gem/opus-ruby
+  - pkg:github/martoreto/opuscodec
+  - pkg:github/xiph/opusfile
+  - pkg:gitlab/redhat/opus
+  - pkg:maven/org.lwjgl/lwjgl-opus
+  - pkg:rpm/fedora/opus
+  - pkg:rpm/fedora/opusfile
+  - pkg:rpm/opensuse/opus

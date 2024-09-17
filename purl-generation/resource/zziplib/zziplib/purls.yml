@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/zziplib
+  - pkg:deb/ubuntu/zziplib
+  - pkg:github/gdraheim/zziplib
+  - pkg:rpm/fedora/zziplib
+  - pkg:rpm/opensuse/zziplib
+  - pkg:sourceforge/zziplib

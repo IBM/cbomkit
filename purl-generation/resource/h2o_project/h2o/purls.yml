@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/h2o
+  - pkg:deb/ubuntu/h2o
+  - pkg:github/h2o/h2o
+  - pkg:github/urbit/h2o
+  - pkg:rpm/opensuse/h2o
+  - pkg:sourceforge/h2o.mirror

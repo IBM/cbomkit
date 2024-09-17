@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:marked-tree_project:marked-tree:0.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:marked-tree_project:marked-tree:0.7.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:marked-tree_project:marked-tree:0.7.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:marked-tree_project:marked-tree:0.7.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:marked-tree_project:marked-tree:0.7.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:marked-tree_project:marked-tree:0.7.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:marked-tree_project:marked-tree:0.7.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:marked-tree_project:marked-tree:0.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:marked-tree_project:marked-tree:0.8.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:marked-tree_project:marked-tree:-:*:*:*:*:node.js:*:*

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/zsh
+  - pkg:deb/ubuntu/zsh
+  - pkg:docker/zshusers/zsh
+  - pkg:github/zsh-users/zsh
+  - pkg:gitlab/redhat/zsh
+  - pkg:rpm/fedora/zsh
+  - pkg:rpm/opensuse/zsh
+  - pkg:sourceforge/zsh

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/git-annex
+  - pkg:deb/ubuntu/git-annex
+  - pkg:github/atemu/git-annex
+  - pkg:github/brawnski/git-annex
+  - pkg:github/richih/git-annex
+  - pkg:rpm/fedora/git-annex
+  - pkg:rpm/opensuse/git-annex

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pofider/node-script-manager
+  - pkg:npm/script-manager

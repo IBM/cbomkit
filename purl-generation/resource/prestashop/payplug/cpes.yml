@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:prestashop:payplug:3.6.0:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:payplug:3.6.1:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:payplug:3.6.2:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:payplug:3.6.3:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:payplug:3.7.0:*:*:*:*:prestashop:*:*
+  - cpe:2.3:a:prestashop:payplug:*:*:*:*:*:prestashop:*:*

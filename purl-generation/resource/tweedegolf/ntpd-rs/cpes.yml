@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:tweedegolf:ntpd-rs:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:tweedegolf:ntpd-rs:0.3.0:alpha0:*:*:*:rust:*:*
+  - cpe:2.3:a:tweedegolf:ntpd-rs:0.3.0:alpha1:*:*:*:rust:*:*
+  - cpe:2.3:a:tweedegolf:ntpd-rs:0.3.0:alpha2:*:*:*:rust:*:*
+  - cpe:2.3:a:tweedegolf:ntpd-rs:0.3.0:alpha3:*:*:*:rust:*:*
+  - cpe:2.3:a:tweedegolf:ntpd-rs:0.3.0:alpha4:*:*:*:rust:*:*
+  - cpe:2.3:a:tweedegolf:ntpd-rs:0.3.0:-:*:*:*:rust:*:*
+  - cpe:2.3:a:tweedegolf:ntpd-rs:0.3.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:tweedegolf:ntpd-rs:0.3.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:tweedegolf:ntpd-rs:*:*:*:*:*:rust:*:*

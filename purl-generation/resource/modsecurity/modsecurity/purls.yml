@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/modsecurity
+  - pkg:deb/ubuntu/modsecurity
+  - pkg:github/spiderlabs/modsecurity
+  - pkg:rpm/fedora/libmodsecurity
+  - pkg:rpm/opensuse/modsecurity
+  - pkg:sourceforge/modsecurity.mirror

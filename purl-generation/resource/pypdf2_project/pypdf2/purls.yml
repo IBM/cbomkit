@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/pypdf2
+  - pkg:deb/ubuntu/pypdf2
+  - pkg:github/py-pdf/pypdf2
+  - pkg:pypi/pypdf2
+  - pkg:rpm/fedora/python-pypdf2
+  - pkg:rpm/opensuse/python-pypdf2

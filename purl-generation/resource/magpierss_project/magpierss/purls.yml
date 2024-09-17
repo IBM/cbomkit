@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/magpierss
+  - pkg:deb/ubuntu/magpierss
+  - pkg:github/kellan/magpierss
+  - pkg:sourceforge/magpierss

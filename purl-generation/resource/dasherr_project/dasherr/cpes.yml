@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:dasherr_project:dasherr:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:dasherr_project:dasherr:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dasherr_project:dasherr:1.00.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:dasherr_project:dasherr:1.01.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:dasherr_project:dasherr:1.01.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:dasherr_project:dasherr:1.01.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:dasherr_project:dasherr:1.02.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:dasherr_project:dasherr:1.03.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:dasherr_project:dasherr:1.03.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:dasherr_project:dasherr:1.04.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:dasherr_project:dasherr:1.04.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:dasherr_project:dasherr:1.04.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:dasherr_project:dasherr:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dasherr_project:dasherr:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dasherr_project:dasherr:1.1.2:*:*:*:*:*:*:*

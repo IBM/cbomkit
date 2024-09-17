@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:multibit:multibit_hd:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:multibit:multibit_hd:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:multibit:multibit_hd:0.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:multibit:multibit_hd:0.0.7:beta:*:*:*:*:*:*
+  - cpe:2.3:a:multibit:multibit_hd:0.0.8:beta:*:*:*:*:*:*
+  - cpe:2.3:a:multibit:multibit_hd:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:multibit:multibit_hd:0.1.1:*:*:*:*:*:*:*

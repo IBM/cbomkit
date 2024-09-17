@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:wordnet:wordnet:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordnet:wordnet:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordnet:wordnet:3.0:*:*:*:*:*:*:*

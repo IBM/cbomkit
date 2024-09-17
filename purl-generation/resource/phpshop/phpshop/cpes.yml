@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:phpshop:phpshop:0.6.1b:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpshop:phpshop:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpshop:phpshop:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpshop:phpshop:0.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpshop:phpshop:*:*:enterprise:*:*:*:*:*

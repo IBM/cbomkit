@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:nekohtml_project:nekohtml:1.9.21:*:*:*:*:nokogiri:*:*
+  - cpe:2.3:a:nekohtml_project:nekohtml:1.9.22.noko2:*:*:*:*:nokogiri:*:*
+  - cpe:2.3:a:nekohtml_project:nekohtml:1.9.22:*:*:*:*:nokogiri:*:*
+  - cpe:2.3:a:nekohtml_project:nekohtml:-:*:*:*:*:nokogiri:*:*

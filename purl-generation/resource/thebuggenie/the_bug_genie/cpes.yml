@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:thebuggenie:the_bug_genie:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:thebuggenie:the_bug_genie:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:thebuggenie:the_bug_genie:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thebuggenie:the_bug_genie:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:thebuggenie:the_bug_genie:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:thebuggenie:the_bug_genie:3.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:thebuggenie:the_bug_genie:3.2.6:*:*:*:*:*:*:*

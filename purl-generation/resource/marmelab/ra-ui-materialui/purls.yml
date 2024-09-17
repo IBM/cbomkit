@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mui/material-ui
+  - pkg:github/mui/material-ui-docs
+  - pkg:github/mui/material-ui-pickers

@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/m2crypto
+  - pkg:deb/ubuntu/m2crypto
+  - pkg:github/m2crypto/m2crypto
+  - pkg:github/mcepl/m2crypto
+  - pkg:gitlab/m2crypto/m2crypto
+  - pkg:pypi/m2crypto
+  - pkg:rpm/fedora/m2crypto
+  - pkg:rpm/opensuse/python-m2crypto
+  - pkg:sourceforge/m2crypto

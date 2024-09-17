@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:jenkins:zap_pipeline:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:zap_pipeline:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:zap_pipeline:1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:zap_pipeline:1.4.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:zap_pipeline:1.4.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:zap_pipeline:1.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:zap_pipeline:1.5.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:zap_pipeline:1.5.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:zap_pipeline:1.5.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:zap_pipeline:1.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:zap_pipeline:1.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:zap_pipeline:1.8.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:zap_pipeline:1.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:zap_pipeline:1.9:*:*:*:*:jenkins:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/minaco2/pukiwiki
+  - pkg:github/nao-pon/pukiwikimod
+  - pkg:github/pukiwiki/pukiwiki

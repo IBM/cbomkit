@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/nginx
+  - pkg:deb/ubuntu/nginx
+  - pkg:docker/nginx
+  - pkg:github/stnoonan/spnego-http-auth-nginx-module
+  - pkg:rpm/centos/nginx
+  - pkg:rpm/fedora/nginx
+  - pkg:rpm/opensuse/nginx

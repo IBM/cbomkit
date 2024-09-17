@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/dmitry
+  - pkg:deb/ubuntu/dmitry
+  - pkg:github/jaygreig86/dmitry
+  - pkg:gitlab/kalilinux/dmitry

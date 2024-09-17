@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:sergey_korostel:php_upload_center:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:sergey_korostel:php_upload_center:2.0:*:*:*:*:*:*:*

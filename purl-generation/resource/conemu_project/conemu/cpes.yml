@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:conemu_project:conemu:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:conemu_project:conemu:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:conemu_project:conemu:220807:*:*:*:*:*:*:*
+  - cpe:2.3:a:conemu_project:conemu:230724:*:*:*:*:*:*:*

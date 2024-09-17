@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:rgb2hex_project:rgb2hex:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:rgb2hex_project:rgb2hex:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:rgb2hex_project:rgb2hex:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rgb2hex_project:rgb2hex:0.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rgb2hex_project:rgb2hex:0.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rgb2hex_project:rgb2hex:0.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rgb2hex_project:rgb2hex:0.1.5:*:*:*:*:*:*:*

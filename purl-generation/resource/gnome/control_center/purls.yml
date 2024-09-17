@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/gnome-control-center
+  - pkg:deb/ubuntu/gnome-control-center
+  - pkg:github/gnome/gnome-control-center
+  - pkg:gitlab/kalilinux/gnome-control-center
+  - pkg:rpm/fedora/gnome-control-center

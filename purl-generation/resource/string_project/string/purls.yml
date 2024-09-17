@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jprichardson/string.js
+  - pkg:maven/org.webjars.npm/string
+  - pkg:npm/string

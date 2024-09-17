@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:rpm_spec_project:rpm_spec:0.2.3:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:rpm_spec_project:rpm_spec:0.3.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:rpm_spec_project:rpm_spec:0.3.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:rpm_spec_project:rpm_spec:0.3.2:*:*:*:*:visual_studio_code:*:*

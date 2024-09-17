@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/gnutls/gnutls
+  - pkg:gitlab/gnutls/gnutls
+  - pkg:gnu/gnutls
+  - pkg:rpm/fedora/gnutls
+  - pkg:rpm/opensuse/gnutls

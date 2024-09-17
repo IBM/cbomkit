@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/iloveican/agg
+  - pkg:github/timothygu/agg
+  - pkg:rpm/centos/agg

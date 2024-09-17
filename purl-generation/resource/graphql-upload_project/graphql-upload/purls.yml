@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jaydenseric/graphql-upload
+  - pkg:npm/graphql-upload

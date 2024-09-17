@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/synfigstudio
+  - pkg:deb/ubuntu/synfigstudio
+  - pkg:github/synfig/synfig
+  - pkg:rpm/fedora/synfigstudio
+  - pkg:rpm/opensuse/synfigstudio
+  - pkg:sourceforge/synfig

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/samnan/mywebsql
+  - pkg:github/thioshp/mywebsql
+  - pkg:sourceforge/mywebsql

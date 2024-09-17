@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/replit/crosis
+  - pkg:npm/@replit/crosis

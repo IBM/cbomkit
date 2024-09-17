@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:symless:synergy:1.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:symless:synergy:1.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:symless:synergy:1.10.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:symless:synergy:1.10.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:symless:synergy:1.10.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:symless:synergy:1.10.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:symless:synergy:1.10.3:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:symless:synergy:1.11.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:symless:synergy:1.11.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:symless:synergy:1.11.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:symless:synergy:1.11.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:symless:synergy:1.12.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:symless:synergy:1.12.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:symless:synergy:1.12.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:symless:synergy:1.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:symless:synergy:1.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:symless:synergy:1.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:symless:synergy:2.0.0:*:*:*:*:*:*:*

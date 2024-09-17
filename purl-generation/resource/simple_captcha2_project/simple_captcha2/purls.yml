@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/ruby-simple-captcha2
+  - pkg:deb/ubuntu/ruby-simple-captcha2
+  - pkg:gem/simple_captcha2
+  - pkg:github/pludoni/simple-captcha

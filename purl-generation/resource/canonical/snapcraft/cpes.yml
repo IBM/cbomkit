@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:canonical:snapcraft:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:canonical:snapcraft:4.4.4:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/googlefonts/sfntly
+  - pkg:googlesource/sfntly

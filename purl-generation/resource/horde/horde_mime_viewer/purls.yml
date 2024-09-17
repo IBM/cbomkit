@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-horde-mime-viewer
+  - pkg:deb/ubuntu/php-horde-mime-viewer
+  - pkg:github/horde/mime_viewer
+  - pkg:rpm/fedora/php-horde-horde-mime-viewer
+  - pkg:rpm/opensuse/php-horde-horde-mime-viewer

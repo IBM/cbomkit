@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/python-colander
+  - pkg:github/pylons/colander
+  - pkg:pypi/colander
+  - pkg:rpm/fedora/python-colander
+  - pkg:rpm/opensuse/python-colander

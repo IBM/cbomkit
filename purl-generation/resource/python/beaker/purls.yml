@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bbangert/beaker
+  - pkg:pypi/beaker

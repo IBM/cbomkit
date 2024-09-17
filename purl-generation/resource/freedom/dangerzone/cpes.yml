@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:freedom:dangerzone:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.3.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.3.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.3.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.3.2:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.3:dev1:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.4.0-2:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.4.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.4.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.4.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:freedom:dangerzone:0.4.1:rc3:*:*:*:*:*:*

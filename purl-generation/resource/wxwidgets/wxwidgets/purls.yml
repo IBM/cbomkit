@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/wxwidgets3.0
+  - pkg:deb/ubuntu/wxwidgets3.0
+  - pkg:github/wuganhao/wxwidgets
+  - pkg:github/wxwidgets/wxwidgets
+  - pkg:gitlab/kicad/wxWidgets
+  - pkg:nuget/wxWidgets
+  - pkg:rpm/fedora/mingw-wxwidgets
+  - pkg:sourceforge/wxwindows

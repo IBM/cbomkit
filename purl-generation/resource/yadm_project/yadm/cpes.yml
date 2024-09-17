@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:yadm_project:yadm:1.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:yadm_project:yadm:1.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:yadm_project:yadm:1.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:yadm_project:yadm:1.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:yadm_project:yadm:1.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:yadm_project:yadm:1.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:yadm_project:yadm:1.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:yadm_project:yadm:1.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:yadm_project:yadm:1.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:yadm_project:yadm:1.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:yadm_project:yadm:1.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:yadm_project:yadm:1.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:yadm_project:yadm:1.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:yadm_project:yadm:1.12.0:*:*:*:*:*:*:*

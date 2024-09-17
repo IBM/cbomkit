@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:netflix:dispatch:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:netflix:dispatch:20200421:*:*:*:*:*:*:*
+  - cpe:2.3:a:netflix:dispatch:20200518:*:*:*:*:*:*:*
+  - cpe:2.3:a:netflix:dispatch:20200603:*:*:*:*:*:*:*
+  - cpe:2.3:a:netflix:dispatch:20200617:*:*:*:*:*:*:*
+  - cpe:2.3:a:netflix:dispatch:20200702:*:*:*:*:*:*:*
+  - cpe:2.3:a:netflix:dispatch:20200727:*:*:*:*:*:*:*
+  - cpe:2.3:a:netflix:dispatch:20200922:*:*:*:*:*:*:*
+  - cpe:2.3:a:netflix:dispatch:20200922.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:netflix:dispatch:20201001:*:*:*:*:*:*:*
+  - cpe:2.3:a:netflix:dispatch:20201013:*:*:*:*:*:*:*
+  - cpe:2.3:a:netflix:dispatch:20201027:*:*:*:*:*:*:*
+  - cpe:2.3:a:netflix:dispatch:20201106:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cyassl/cyassl
+  - pkg:github/wolfssl/wolfssl

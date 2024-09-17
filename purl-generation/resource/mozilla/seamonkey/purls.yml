@@ -1,0 +1,4 @@
+purls:
+  - pkg:gitlab/seamonkey-project/seamonkey-2.53-comm
+  - pkg:mozilla/seamonkey
+  - pkg:rpm/fedora/seamonkey

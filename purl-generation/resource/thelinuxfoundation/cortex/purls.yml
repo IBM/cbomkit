@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cortexproject/cortex
+  - pkg:golang/github.com/cortexproject/cortex

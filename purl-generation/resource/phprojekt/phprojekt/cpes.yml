@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:phprojekt:phprojekt:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprojekt:phprojekt:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprojekt:phprojekt:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprojekt:phprojekt:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprojekt:phprojekt:2.1a:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprojekt:phprojekt:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprojekt:phprojekt:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprojekt:phprojekt:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprojekt:phprojekt:2.4a:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprojekt:phprojekt:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprojekt:phprojekt:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprojekt:phprojekt:3.1a:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprojekt:phprojekt:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprojekt:phprojekt:4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprojekt:phprojekt:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprojekt:phprojekt:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprojekt:phprojekt:5.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprojekt:phprojekt:5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprojekt:phprojekt:5.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprojekt:phprojekt:5.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprojekt:phprojekt:5.1_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprojekt:phprojekt:5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprojekt:phprojekt:6.0.5:*:*:*:*:*:*:*

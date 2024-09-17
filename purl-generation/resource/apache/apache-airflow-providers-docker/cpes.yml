@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:apache:apache-airflow-providers-docker:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-docker:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-docker:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-docker:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-docker:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-docker:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-docker:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-docker:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-docker:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-docker:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-docker:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-docker:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-docker:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-docker:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-docker:2.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-docker:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-docker:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-docker:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-docker:3.1.0:*:*:*:*:*:*:*

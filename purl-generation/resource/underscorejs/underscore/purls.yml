@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/underscore
+  - pkg:deb/ubuntu/underscore
+  - pkg:github/jashkenas/underscore
+  - pkg:maven/org.webjars.bowergithub.jashkenas/underscore
+  - pkg:maven/org.webjars.npm/underscore
+  - pkg:npm/underscore
+  - pkg:rpm/fedora/nodejs-underscore
+  - pkg:rpm/opensuse/nodejs-underscore

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/initramfs-tools
+  - pkg:deb/ubuntu/initramfs-tools
+  - pkg:github/genesi/initramfs-tools
+  - pkg:gnome/initramfs-tools

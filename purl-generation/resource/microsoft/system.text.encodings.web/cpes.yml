@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:microsoft:system.text.encodings.web:4.0.0:*:*:*:*:asp.net:*:*
+  - cpe:2.3:a:microsoft:system.text.encodings.web:4.3.0:*:*:*:*:asp.net:*:*

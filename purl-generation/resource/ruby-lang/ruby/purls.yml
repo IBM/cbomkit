@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ruby/ruby
+  - pkg:ruby-lang/ruby

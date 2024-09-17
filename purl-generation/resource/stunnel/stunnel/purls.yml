@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/stunnel4
+  - pkg:deb/ubuntu/stunnel4
+  - pkg:github/mtrojnar/stunnel
+  - pkg:gitlab/redhat/stunnel
+  - pkg:rpm/fedora/stunnel
+  - pkg:rpm/opensuse/stunnel

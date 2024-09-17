@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/apt-listchanges
+  - pkg:deb/ubuntu/apt-listchanges
+  - pkg:github/jlu5/apt-listchanges

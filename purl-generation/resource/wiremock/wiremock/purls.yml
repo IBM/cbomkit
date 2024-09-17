@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/wiremock/wiremock
+  - pkg:maven/com.github.tomakehurst/wiremock

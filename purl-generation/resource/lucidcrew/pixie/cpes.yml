@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:lucidcrew:pixie:1.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:lucidcrew:pixie:1.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:lucidcrew:pixie:1.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:lucidcrew:pixie:1.04:*:*:*:*:*:*:*

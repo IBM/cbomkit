@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/gromacs
+  - pkg:deb/ubuntu/gromacs
+  - pkg:github/gromacs/gromacs
+  - pkg:gitlab/gromacs/gromacs
+  - pkg:rpm/fedora/gromacs
+  - pkg:rpm/opensuse/gromacs
+  - pkg:sourceforge/gromacs

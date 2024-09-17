@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:java-xmlbuilder_project:java-xmlbuilder:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:java-xmlbuilder_project:java-xmlbuilder:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:java-xmlbuilder_project:java-xmlbuilder:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:java-xmlbuilder_project:java-xmlbuilder:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:java-xmlbuilder_project:java-xmlbuilder:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:java-xmlbuilder_project:java-xmlbuilder:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:java-xmlbuilder_project:java-xmlbuilder:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:java-xmlbuilder_project:java-xmlbuilder:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:java-xmlbuilder_project:java-xmlbuilder:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:java-xmlbuilder_project:java-xmlbuilder:1.1:*:*:*:*:*:*:*

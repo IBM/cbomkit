@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ihalila/pancurses
+  - pkg:rpm/fedora/rust-pancurses

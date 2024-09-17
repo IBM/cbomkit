@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/mini-httpd
+  - pkg:deb/ubuntu/mini-httpd
+  - pkg:github/peter-leonov/mini_httpd

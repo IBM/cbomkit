@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/retroarch
+  - pkg:deb/ubuntu/retroarch
+  - pkg:github/libretro/retroarch
+  - pkg:rpm/opensuse/retroarch
+  - pkg:sourceforge/retroarch.mirror

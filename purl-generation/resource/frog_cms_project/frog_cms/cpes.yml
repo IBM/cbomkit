@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:frog_cms_project:frog_cms:0.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:frog_cms_project:frog_cms:1.1:*:*:*:*:*:*:*

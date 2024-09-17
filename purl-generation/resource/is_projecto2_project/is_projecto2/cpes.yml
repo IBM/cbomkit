@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:is_projecto2_project:is_projecto2:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:is_projecto2_project:is_projecto2:-:*:*:*:*:*:*:*

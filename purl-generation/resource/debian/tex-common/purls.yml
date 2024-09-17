@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/tex-common
+  - pkg:deb/ubuntu/tex-common

@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/recon-ng
+  - pkg:deb/ubuntu/recon-ng
+  - pkg:github/lanmaster53/recon-ng

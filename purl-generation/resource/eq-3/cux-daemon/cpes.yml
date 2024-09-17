@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:eq-3:cux-daemon:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:eq-3:cux-daemon:1.11a:*:*:*:*:*:*:*
+  - cpe:2.3:a:eq-3:cux-daemon:1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:eq-3:cux-daemon:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eq-3:cux-daemon:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eq-3:cux-daemon:2.2.0:*:*:*:*:*:*:*

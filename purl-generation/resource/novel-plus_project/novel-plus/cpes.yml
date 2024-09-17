@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:novel-plus_project:novel-plus:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:novel-plus_project:novel-plus:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:novel-plus_project:novel-plus:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:novel-plus_project:novel-plus:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:novel-plus_project:novel-plus:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:novel-plus_project:novel-plus:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:novel-plus_project:novel-plus:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:novel-plus_project:novel-plus:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:novel-plus_project:novel-plus:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:novel-plus_project:novel-plus:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:novel-plus_project:novel-plus:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:novel-plus_project:novel-plus:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:novel-plus_project:novel-plus:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:novel-plus_project:novel-plus:3.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:novel-plus_project:novel-plus:3.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:novel-plus_project:novel-plus:3.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:novel-plus_project:novel-plus:3.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:novel-plus_project:novel-plus:3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:novel-plus_project:novel-plus:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:novel-plus_project:novel-plus:3.6.2:*:*:*:*:*:*:*

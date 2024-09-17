@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:jenkins:xpath_configuration_viewer:1.0.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:xpath_configuration_viewer:1.0.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:xpath_configuration_viewer:1.0.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:xpath_configuration_viewer:1.1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:xpath_configuration_viewer:1.1.1:*:*:*:*:jenkins:*:*

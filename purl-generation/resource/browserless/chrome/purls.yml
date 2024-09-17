@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/browserless/chrome
+  - pkg:github/browserless/chrome
+  - pkg:npm/browserless-chrome

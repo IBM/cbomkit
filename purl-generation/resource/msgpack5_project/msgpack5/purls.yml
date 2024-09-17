@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mcollina/msgpack5
+  - pkg:maven/org.webjars.npm/msgpack5
+  - pkg:npm/msgpack5

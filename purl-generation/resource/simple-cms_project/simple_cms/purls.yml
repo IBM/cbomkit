@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/mablanco/cmsmadesimple
+  - pkg:github/cmsmadesimple/cmsmadesimple-2-0
+  - pkg:sourceforge/cmsmadesimple

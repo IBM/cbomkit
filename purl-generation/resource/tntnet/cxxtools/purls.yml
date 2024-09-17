@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/maekitalo/cxxtools
+  - pkg:github/olafradicke/cxxtools
+  - pkg:rpm/fedora/cxxtools
+  - pkg:rpm/opensuse/cxxtools

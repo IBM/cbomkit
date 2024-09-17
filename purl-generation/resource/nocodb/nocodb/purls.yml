@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nocodb/nocodb
+  - pkg:pypi/nocodb

@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/secure_headers
+  - pkg:github/github/secure_headers
+  - pkg:rpm/opensuse/rubygem-secure_headers

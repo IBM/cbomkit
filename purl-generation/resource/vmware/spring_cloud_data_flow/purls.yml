@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/esthermateosd/spring-cloud-dataflow
+  - pkg:bitbucket/esthermd/spring-cloud-dataflow
+  - pkg:github/spring-cloud/spring-cloud-dataflow
+  - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-parent

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/cmus
+  - pkg:deb/ubuntu/cmus
+  - pkg:github/cmus/cmus
+  - pkg:golang/github.com/cmus/cmus
+  - pkg:rpm/opensuse/cmus
+  - pkg:sourceforge/cmus.mirror

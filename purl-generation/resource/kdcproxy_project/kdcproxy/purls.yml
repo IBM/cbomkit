@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/python-kdcproxy
+  - pkg:deb/ubuntu/python-kdcproxy
+  - pkg:github/latchset/kdcproxy
+  - pkg:pypi/kdcproxy
+  - pkg:rpm/centos/python-kdcproxy
+  - pkg:rpm/fedora/python-kdcproxy
+  - pkg:rpm/opensuse/python-kdcproxy

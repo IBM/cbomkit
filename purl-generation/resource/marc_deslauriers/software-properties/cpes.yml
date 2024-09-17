@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:marc_deslauriers:software-properties:0.82.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:marc_deslauriers:software-properties:0.82.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:marc_deslauriers:software-properties:0.82.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:marc_deslauriers:software-properties:0.82.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:marc_deslauriers:software-properties:0.82.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:marc_deslauriers:software-properties:0.82.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:marc_deslauriers:software-properties:0.92.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:marc_deslauriers:software-properties:0.92.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:marc_deslauriers:software-properties:0.92.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:marc_deslauriers:software-properties:0.92.17.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:marc_deslauriers:software-properties:0.92.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:marc_deslauriers:software-properties:0.92.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:marc_deslauriers:software-properties:0.92.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:marc_deslauriers:software-properties:0.92.9.3:*:*:*:*:*:*:*

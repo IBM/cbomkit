@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/openwrtorg/sdk
+  - pkg:github/openwrt/openwrt
+  - pkg:gitlab/sdr/openwrt
+  - pkg:sourceforge/openwrt

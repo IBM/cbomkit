@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:domain_technologie_control:domain_technologie_control:0.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:domain_technologie_control:domain_technologie_control:0.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:domain_technologie_control:domain_technologie_control:0.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:domain_technologie_control:domain_technologie_control:0.24.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:domain_technologie_control:domain_technologie_control:0.24.5_r0:*:*:*:*:*:*:*
+  - cpe:2.3:a:domain_technologie_control:domain_technologie_control:0.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:domain_technologie_control:domain_technologie_control:0.25.1:*:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libpgf
+  - pkg:deb/ubuntu/libpgf
+  - pkg:github/clbr/libpgf
+  - pkg:rpm/fedora/libpgf
+  - pkg:rpm/opensuse/libpgf
+  - pkg:sourceforge/libpgf

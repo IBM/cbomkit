@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/onionshare
+  - pkg:deb/ubuntu/onionshare
+  - pkg:github/onionshare/onionshare
+  - pkg:rpm/fedora/onionshare
+  - pkg:rpm/opensuse/onionshare
+  - pkg:sourceforge/onionshare.mirror

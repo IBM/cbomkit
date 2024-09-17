@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:tad_book3_project:tad_book3:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:tad_book3_project:tad_book3:3.89:*:*:*:*:*:*:*
+  - cpe:2.3:a:tad_book3_project:tad_book3:3.9:*:*:*:*:*:*:*

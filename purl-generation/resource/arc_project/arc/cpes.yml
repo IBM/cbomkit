@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:arc_project:arc:5.21m:*:*:*:*:*:*:*
+  - cpe:2.3:a:arc_project:arc:5.21n:*:*:*:*:*:*:*
+  - cpe:2.3:a:arc_project:arc:5.21o:*:*:*:*:*:*:*
+  - cpe:2.3:a:arc_project:arc:5.21p:*:*:*:*:*:*:*
+  - cpe:2.3:a:arc_project:arc:5.21q:*:*:*:*:*:*:*

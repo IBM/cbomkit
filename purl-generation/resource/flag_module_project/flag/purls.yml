@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/drupalprojects/flag
+  - pkg:github/mikl/drupal-flag

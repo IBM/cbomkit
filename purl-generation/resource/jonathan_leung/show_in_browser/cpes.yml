@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jonathan_leung:show_in_browser:0.0.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:jonathan_leung:show_in_browser:0.0.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:jonathan_leung:show_in_browser:0.0.3:*:*:*:*:ruby:*:*

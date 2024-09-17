@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ignition
+  - pkg:deb/ubuntu/ignition
+  - pkg:github/coreos/ignition
+  - pkg:rpm/centos/ignition
+  - pkg:rpm/fedora/ignition
+  - pkg:rpm/opensuse/ignition

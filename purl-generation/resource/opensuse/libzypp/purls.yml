@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/opensuse/libzypp
+  - pkg:rpm/fedora/libzypp
+  - pkg:rpm/opensuse/libzypp

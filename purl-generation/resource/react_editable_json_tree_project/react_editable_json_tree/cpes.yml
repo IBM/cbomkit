@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:react_editable_json_tree_project:react_editable_json_tree:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:react_editable_json_tree_project:react_editable_json_tree:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:react_editable_json_tree_project:react_editable_json_tree:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:react_editable_json_tree_project:react_editable_json_tree:1.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:react_editable_json_tree_project:react_editable_json_tree:1.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:react_editable_json_tree_project:react_editable_json_tree:1.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:react_editable_json_tree_project:react_editable_json_tree:1.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:react_editable_json_tree_project:react_editable_json_tree:1.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:react_editable_json_tree_project:react_editable_json_tree:1.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:react_editable_json_tree_project:react_editable_json_tree:1.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:react_editable_json_tree_project:react_editable_json_tree:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:react_editable_json_tree_project:react_editable_json_tree:2.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:react_editable_json_tree_project:react_editable_json_tree:2.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:react_editable_json_tree_project:react_editable_json_tree:2.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:react_editable_json_tree_project:react_editable_json_tree:2.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:react_editable_json_tree_project:react_editable_json_tree:-:*:*:*:*:node.js:*:*

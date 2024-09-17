@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/graphql-java/graphql-java
+  - pkg:maven/graphql-java/graphql-java

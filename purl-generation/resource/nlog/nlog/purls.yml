@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nlog/nlog
+  - pkg:nuget/nlog

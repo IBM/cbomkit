@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:libcacard_project:libcacard:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcacard_project:libcacard:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcacard_project:libcacard:2.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcacard_project:libcacard:2.5.3:*:*:*:*:*:*:*

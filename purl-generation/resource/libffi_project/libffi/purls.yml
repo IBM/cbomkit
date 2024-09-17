@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/libffi
+  - pkg:deb/ubuntu/libffi
+  - pkg:github/coapp-packages/libffi
+  - pkg:github/libffi/libffi
+  - pkg:gitlab/redhat/libffi
+  - pkg:nuget/libffi
+  - pkg:rpm/centos/libffi
+  - pkg:rpm/fedora/libffi
+  - pkg:rpm/opensuse/libffi

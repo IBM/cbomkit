@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ipsilon-project/ipsilon
+  - pkg:pypi/ipsilon

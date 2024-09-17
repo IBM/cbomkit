@@ -1,0 +1,7 @@
+purls:
+  - pkg:github/pyinstaller/pyinstaller
+  - pkg:gitlab/kalilinux/pyinstaller
+  - pkg:pypi/pyinstaller
+  - pkg:rpm/opensuse/python-pyinstaller
+  - pkg:sourceforge/pyinstaller
+  - pkg:sourceforge/pyinstaller.mirror

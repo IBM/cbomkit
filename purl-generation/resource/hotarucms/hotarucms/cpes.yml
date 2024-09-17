@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:hotarucms:hotarucms:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:hotarucms:hotarucms:1.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:hotarucms:hotarucms:1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:hotarucms:hotarucms:1.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hotarucms:hotarucms:1.7.2:*:*:*:*:*:*:*

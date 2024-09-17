@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:libwpd:libwpd_library:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:libwpd:libwpd_library:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libwpd:libwpd_library:0.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:libwpd:libwpd_library:0.8.7:*:*:*:*:*:*:*

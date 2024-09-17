@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:apache:xml_graphics_batik:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xml_graphics_batik:1.16:*:*:*:*:*:*:*

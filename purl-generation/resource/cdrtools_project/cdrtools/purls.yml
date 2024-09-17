@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/distrotech/cdrtools
+  - pkg:github/jobermayr/cdrtools
+  - pkg:github/paulyc/cdrtools
+  - pkg:rpm/opensuse/cdrtools
+  - pkg:sourceforge/cdrtools

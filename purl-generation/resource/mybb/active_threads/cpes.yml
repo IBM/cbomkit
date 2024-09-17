@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:mybb:active_threads:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mybb:active_threads:1.3.0:*:*:*:*:*:*:*

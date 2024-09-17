@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:ethereum:eth-account:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ethereum:eth-account:0.1.0:alpha1:*:*:*:python:*:*
+  - cpe:2.3:a:ethereum:eth-account:0.1.0:alpha2:*:*:*:python:*:*
+  - cpe:2.3:a:ethereum:eth-account:0.2.0:alpha0:*:*:*:python:*:*
+  - cpe:2.3:a:ethereum:eth-account:0.2.0:-:*:*:*:python:*:*
+  - cpe:2.3:a:ethereum:eth-account:0.2.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:ethereum:eth-account:0.2.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:ethereum:eth-account:0.2.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:ethereum:eth-account:0.3.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:ethereum:eth-account:0.4.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:ethereum:eth-account:0.5.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:ethereum:eth-account:0.5.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:ethereum:eth-account:0.5.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:ethereum:eth-account:0.5.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:ethereum:eth-account:0.5.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:ethereum:eth-account:0.5.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:ethereum:eth-account:0.5.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:ethereum:eth-account:0.5.7:*:*:*:*:python:*:*
+  - cpe:2.3:a:ethereum:eth-account:0.5.8:*:*:*:*:python:*:*
+  - cpe:2.3:a:ethereum:eth-account:0.5.9:*:*:*:*:python:*:*
+  - cpe:2.3:a:ethereum:eth-account:0.6.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:ethereum:eth-account:0.6.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:ethereum:eth-account:0.7.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:ethereum:eth-account:-:*:*:*:*:python:*:*

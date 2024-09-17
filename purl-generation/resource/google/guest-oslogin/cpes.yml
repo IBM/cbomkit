@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:google:guest-oslogin:20190304.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:guest-oslogin:20200113.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:guest-oslogin:20200116.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:guest-oslogin:20200325.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:guest-oslogin:20200504.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:guest-oslogin:20200507.00:*:*:*:*:*:*:*

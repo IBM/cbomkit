@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/quernest/arr-flatten-unflatten
+  - pkg:npm/arr-flatten-unflatten

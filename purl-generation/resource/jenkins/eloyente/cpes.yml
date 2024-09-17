@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:jenkins:eloyente:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:eloyente:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:eloyente:1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:eloyente:1.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:eloyente:1.4:*:*:*:*:jenkins:*:*

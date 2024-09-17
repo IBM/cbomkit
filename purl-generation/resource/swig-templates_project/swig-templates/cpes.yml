@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:swig-templates_project:swig-templates:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:swig-templates_project:swig-templates:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:swig-templates_project:swig-templates:2.0.4:*:*:*:*:*:*:*

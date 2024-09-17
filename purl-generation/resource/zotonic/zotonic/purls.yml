@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/zotonic/zotonic
+  - pkg:github/zotonic/zotonic

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:tips_and_tricks_hq:all_in_one_wordpress_security_and_firewall:3.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tips_and_tricks_hq:all_in_one_wordpress_security_and_firewall:3.8.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tips_and_tricks_hq:all_in_one_wordpress_security_and_firewall:3.8.9:*:*:*:*:wordpress:*:*

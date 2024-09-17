@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-dalli
+  - pkg:deb/ubuntu/ruby-dalli
+  - pkg:gem/dalli
+  - pkg:github/petergoldstein/dalli
+  - pkg:rpm/fedora/rubygem-dalli
+  - pkg:rpm/opensuse/rubygem-dalli

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gcc-mirror/gcc
+  - pkg:golang/github.com/gcc-mirror/gcc

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:gnu:gnumail:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:gnumail:1.1.2:*:*:*:*:*:*:*

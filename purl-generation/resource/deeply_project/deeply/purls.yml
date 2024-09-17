@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/alexindigo/deeply
+  - pkg:npm/deeply

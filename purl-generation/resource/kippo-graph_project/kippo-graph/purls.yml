@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/ikonspirasi/kippo-graph
+  - pkg:github/hypn/kippo-graph
+  - pkg:github/ikoniaris/kippo-graph

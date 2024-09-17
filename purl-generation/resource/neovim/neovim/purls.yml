@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/neovim
+  - pkg:deb/ubuntu/neovim
+  - pkg:github/neovim/neovim
+  - pkg:rpm/fedora/neovim
+  - pkg:rpm/opensuse/neovim
+  - pkg:sourceforge/neovim.mirror

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/polylang/polylang
+  - pkg:github/wp-plugins/polylang
+  - pkg:github/wpplugins/polylang

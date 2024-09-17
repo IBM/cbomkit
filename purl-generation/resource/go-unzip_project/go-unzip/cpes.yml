@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:go-unzip_project:go-unzip:*:*:*:*:*:go:*:*
+  - cpe:2.3:a:go-unzip_project:go-unzip:-:*:*:*:*:go:*:*

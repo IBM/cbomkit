@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/lightdm-link/lightdm
+  - pkg:deb/debian/lightdm
+  - pkg:deb/ubuntu/lightdm
+  - pkg:docker/lightdmlinki/lightdm
+  - pkg:github/canonical/lightdm
+  - pkg:rpm/fedora/lightdm
+  - pkg:rpm/opensuse/lightdm

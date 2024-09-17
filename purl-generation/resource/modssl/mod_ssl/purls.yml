@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/httpd
+  - pkg:cpan/apache2-modssl
+  - pkg:github/apache/httpd
+  - pkg:rpm/centos/mod_ssl
+  - pkg:rpm/fedora/mod_ssl
+  - pkg:rpm/opensuse/mod_ssl

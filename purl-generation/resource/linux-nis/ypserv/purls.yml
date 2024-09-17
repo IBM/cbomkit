@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/ypserv
+  - pkg:deb/ubuntu/ypserv
+  - pkg:github/thkukuk/ypserv
+  - pkg:gitlab/redhat/ypserv
+  - pkg:rpm/centos/ypserv
+  - pkg:rpm/fedora/ypserv
+  - pkg:rpm/opensuse/ypserv

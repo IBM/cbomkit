@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libpoppler-dev
+  - pkg:deb/ubuntu/libpoppler-dev
+  - pkg:freedesktop/poppler/poppler
+  - pkg:github/freedesktop/poppler
+  - pkg:rpm/fedora/poppler
+  - pkg:rpm/opensuse/poppler

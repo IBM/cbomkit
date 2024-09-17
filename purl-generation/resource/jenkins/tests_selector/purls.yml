@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/selected-tests-executor-plugin
+  - pkg:github/tamar-camus/testexecuter

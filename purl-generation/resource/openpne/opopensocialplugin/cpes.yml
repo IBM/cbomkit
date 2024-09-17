@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:openpne:opopensocialplugin:0.8.2.1:*:*:*:*:openpne:*:*
+  - cpe:2.3:a:openpne:opopensocialplugin:0.9.13:*:*:*:*:openpne:*:*
+  - cpe:2.3:a:openpne:opopensocialplugin:0.9.9.2:*:*:*:*:openpne:*:*
+  - cpe:2.3:a:openpne:opopensocialplugin:1.2.6:*:*:*:*:openpne:*:*

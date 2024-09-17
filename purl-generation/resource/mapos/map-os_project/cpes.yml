@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:mapos:map-os_project:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mapos:map-os_project:4.39.0:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/boaglio/jenkins-plugin-sqlplus-script-runner
+  - pkg:github/jenkinsci/sqlplus-script-runner-plugin

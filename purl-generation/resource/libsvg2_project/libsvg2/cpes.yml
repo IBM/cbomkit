@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:libsvg2_project:libsvg2:2012-10-10:*:*:*:*:*:*:*
+  - cpe:2.3:a:libsvg2_project:libsvg2:2012-10-11:*:*:*:*:*:*:*
+  - cpe:2.3:a:libsvg2_project:libsvg2:2012-10-12:*:*:*:*:*:*:*
+  - cpe:2.3:a:libsvg2_project:libsvg2:2012-10-15:*:*:*:*:*:*:*
+  - cpe:2.3:a:libsvg2_project:libsvg2:2012-10-16:*:*:*:*:*:*:*
+  - cpe:2.3:a:libsvg2_project:libsvg2:2012-10-17:*:*:*:*:*:*:*
+  - cpe:2.3:a:libsvg2_project:libsvg2:2012-10-18:*:*:*:*:*:*:*
+  - cpe:2.3:a:libsvg2_project:libsvg2:2012-10-19:*:*:*:*:*:*:*

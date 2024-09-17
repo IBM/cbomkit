@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:amazon:aws_opensearch:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_opensearch:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_opensearch:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:aws_opensearch:1.2.1:*:*:*:*:*:*:*

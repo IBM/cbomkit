@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:peg-markdown_project:peg-markdown:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:peg-markdown_project:peg-markdown:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:peg-markdown_project:peg-markdown:0.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:peg-markdown_project:peg-markdown:0.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:peg-markdown_project:peg-markdown:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:peg-markdown_project:peg-markdown:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:peg-markdown_project:peg-markdown:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:peg-markdown_project:peg-markdown:0.4.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:peg-markdown_project:peg-markdown:0.4.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:peg-markdown_project:peg-markdown:0.4.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:peg-markdown_project:peg-markdown:0.4.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:peg-markdown_project:peg-markdown:0.4.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:peg-markdown_project:peg-markdown:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:peg-markdown_project:peg-markdown:0.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:peg-markdown_project:peg-markdown:0.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:peg-markdown_project:peg-markdown:0.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:peg-markdown_project:peg-markdown:0.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:peg-markdown_project:peg-markdown:0.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:peg-markdown_project:peg-markdown:0.4.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:peg-markdown_project:peg-markdown:0.4.9:*:*:*:*:*:*:*

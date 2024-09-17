@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:attrs_project:attrs:15.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:15.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:15.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:16.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:16.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:16.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:16.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:17.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:17.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:17.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:17.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:18.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:18.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:19.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:19.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:19.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:20.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:20.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:20.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:21.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:21.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:21.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:21.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:attrs_project:attrs:22.1.0:*:*:*:*:*:*:*

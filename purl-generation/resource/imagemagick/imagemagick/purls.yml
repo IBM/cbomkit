@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/imagemagick/imagemagick
+  - pkg:imagemagick/imagemagick

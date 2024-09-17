@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/alphasoc/nfr
+  - pkg:golang/github.com/alphasoc/nfr

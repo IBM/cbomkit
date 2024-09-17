@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:linux-ha:heartbeat:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux-ha:heartbeat:0.4.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux-ha:heartbeat:1.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:linux-ha:heartbeat:2.0.5:*:*:*:*:*:*:*

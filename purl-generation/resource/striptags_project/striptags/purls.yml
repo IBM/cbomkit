@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ericnorris/striptags
+  - pkg:maven/org.webjars.npm/striptags
+  - pkg:npm/striptags

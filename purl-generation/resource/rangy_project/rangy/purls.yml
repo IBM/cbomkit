@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/timdown/rangy
+  - pkg:npm/rangy

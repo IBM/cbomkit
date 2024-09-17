@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/gotenberg/gotenberg
+  - pkg:github/gotenberg/gotenberg

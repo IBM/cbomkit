@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:pyenv:pyenv:1.2.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:1.2.24.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:1.2.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:1.2.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:1.2.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:2.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:2.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:2.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:2.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:2.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:2.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:2.2.4-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:2.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyenv:pyenv:2.3.2:*:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/freeipa
+  - pkg:deb/ubuntu/freeipa
+  - pkg:docker/centos/freeipa
+  - pkg:github/freeipa/freeipa
+  - pkg:gitlab/redhat/freeipa
+  - pkg:rpm/fedora/freeipa

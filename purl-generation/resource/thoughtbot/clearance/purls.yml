@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/ruby/clearance
+  - pkg:github/thoughtbot/clearance
+  - pkg:rpm/opensuse/rubygem-clearance

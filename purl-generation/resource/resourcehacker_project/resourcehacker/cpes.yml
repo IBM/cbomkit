@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:resourcehacker_project:resourcehacker:4.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:resourcehacker_project:resourcehacker:4.2.51:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:resourcehacker_project:resourcehacker:4.2.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:resourcehacker_project:resourcehacker:-:*:*:*:*:node.js:*:*

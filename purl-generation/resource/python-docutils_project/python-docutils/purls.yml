@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/python-docutils
+  - pkg:deb/ubuntu/python-docutils
+  - pkg:github/lbt/python-docutils
+  - pkg:gitlab/redhat/python-docutils
+  - pkg:pypi/docutils
+  - pkg:rpm/fedora/python-docutils
+  - pkg:rpm/opensuse/python-docutils
+  - pkg:sourceforge/docutils

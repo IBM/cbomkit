@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:linbit:csync2:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:linbit:csync2:1.34:*:*:*:*:*:*:*
+  - cpe:2.3:a:linbit:csync2:2.0:*:*:*:*:*:*:*

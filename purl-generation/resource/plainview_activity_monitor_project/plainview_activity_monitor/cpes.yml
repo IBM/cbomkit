@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:plainview_activity_monitor_project:plainview_activity_monitor:20140511:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainview_activity_monitor_project:plainview_activity_monitor:20140521:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainview_activity_monitor_project:plainview_activity_monitor:20140605:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainview_activity_monitor_project:plainview_activity_monitor:20140615:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainview_activity_monitor_project:plainview_activity_monitor:20140623:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainview_activity_monitor_project:plainview_activity_monitor:20141013:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainview_activity_monitor_project:plainview_activity_monitor:20141016:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainview_activity_monitor_project:plainview_activity_monitor:20150508:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainview_activity_monitor_project:plainview_activity_monitor:20150806:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainview_activity_monitor_project:plainview_activity_monitor:20151112:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainview_activity_monitor_project:plainview_activity_monitor:20151119:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainview_activity_monitor_project:plainview_activity_monitor:20151211:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainview_activity_monitor_project:plainview_activity_monitor:20151224:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainview_activity_monitor_project:plainview_activity_monitor:20160107:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainview_activity_monitor_project:plainview_activity_monitor:20160202:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainview_activity_monitor_project:plainview_activity_monitor:20160210:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainview_activity_monitor_project:plainview_activity_monitor:20161228:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:plainview_activity_monitor_project:plainview_activity_monitor:20180826:*:*:*:*:wordpress:*:*

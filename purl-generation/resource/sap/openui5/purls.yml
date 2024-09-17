@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/uzmo/openui5
+  - pkg:github/sap/openui5

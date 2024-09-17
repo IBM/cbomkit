@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/raysan5/raylib
+  - pkg:golang/github.com/raysan5/raylib
+  - pkg:rpm/opensuse/raylib
+  - pkg:sourceforge/raylib.mirror

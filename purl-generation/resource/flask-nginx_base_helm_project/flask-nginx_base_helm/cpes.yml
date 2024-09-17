@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:flask-nginx_base_helm_project:flask-nginx_base_helm:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:flask-nginx_base_helm_project:flask-nginx_base_helm:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:flask-nginx_base_helm_project:flask-nginx_base_helm:2022-05-25:*:*:*:*:*:*:*

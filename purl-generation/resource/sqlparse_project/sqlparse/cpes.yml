@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:sqlparse_project:sqlparse:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:sqlparse_project:sqlparse:0.1.15:*:*:*:*:python:*:*
+  - cpe:2.3:a:sqlparse_project:sqlparse:0.1.16:*:*:*:*:python:*:*
+  - cpe:2.3:a:sqlparse_project:sqlparse:0.1.17:*:*:*:*:python:*:*
+  - cpe:2.3:a:sqlparse_project:sqlparse:0.1.18:*:*:*:*:python:*:*
+  - cpe:2.3:a:sqlparse_project:sqlparse:0.1.19:*:*:*:*:python:*:*
+  - cpe:2.3:a:sqlparse_project:sqlparse:0.2.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:sqlparse_project:sqlparse:0.2.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:sqlparse_project:sqlparse:0.2.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:sqlparse_project:sqlparse:0.2.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:sqlparse_project:sqlparse:0.2.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:sqlparse_project:sqlparse:0.3.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:sqlparse_project:sqlparse:0.3.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:sqlparse_project:sqlparse:0.4.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:sqlparse_project:sqlparse:0.4.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:sqlparse_project:sqlparse:0.4.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:sqlparse_project:sqlparse:0.4.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:sqlparse_project:sqlparse:0.4.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:sqlparse_project:sqlparse:0.5.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:sqlparse_project:sqlparse:*:*:*:*:*:python:*:*

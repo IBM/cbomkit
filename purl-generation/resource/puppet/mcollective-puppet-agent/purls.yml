@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/choria-legacy/mcollective-puppet-agent
+  - pkg:github/puppetlabs/mcollective-puppet-agent

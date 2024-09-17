@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:globee:woocommerce:1.0.1:*:*:*:*:woocommerce:*:*
+  - cpe:2.3:a:globee:woocommerce:1.1.0:*:*:*:*:woocommerce:*:*
+  - cpe:2.3:a:globee:woocommerce:1.1.1:*:*:*:*:woocommerce:*:*
+  - cpe:2.3:a:globee:woocommerce:1.1.2:*:*:*:*:woocommerce:*:*
+  - cpe:2.3:a:globee:woocommerce:3.0.8:*:*:*:*:woocommerce:*:*
+  - cpe:2.3:a:globee:woocommerce:3.1.2:*:*:*:*:woocommerce:*:*

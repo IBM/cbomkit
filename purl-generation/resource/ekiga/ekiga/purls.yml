@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ekiga
+  - pkg:deb/ubuntu/ekiga
+  - pkg:github/seksa/ekiga
+  - pkg:rpm/centos/ekiga
+  - pkg:rpm/opensuse/ekiga

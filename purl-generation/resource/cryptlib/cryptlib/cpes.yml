@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:cryptlib:cryptlib:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:cryptlib:cryptlib:3.4.4:*:*:*:*:*:*:*

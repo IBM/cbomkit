@@ -1,0 +1,11 @@
+purls:
+  - pkg:bitbucket/king_duckz/mcpp
+  - pkg:deb/debian/mcpp
+  - pkg:deb/ubuntu/mcpp
+  - pkg:github/mblsha/mcpp
+  - pkg:github/ned14/mcpp
+  - pkg:gitlab/redhat/mcpp
+  - pkg:rpm/centos/mcpp
+  - pkg:rpm/fedora/mcpp
+  - pkg:rpm/opensuse/mcpp
+  - pkg:sourceforge/mcpp

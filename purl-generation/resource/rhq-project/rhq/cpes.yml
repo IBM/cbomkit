@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:rhq-project:rhq:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhq-project:rhq:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhq-project:rhq:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhq-project:rhq:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhq-project:rhq:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhq-project:rhq:4.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:rhq-project:rhq:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rhq-project:rhq:4.2.0:*:*:*:*:*:*:*

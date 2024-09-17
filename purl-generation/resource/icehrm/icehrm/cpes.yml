@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:icehrm:icehrm:13.1.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:14.0.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:14.1.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:15.0.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:15.2.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:16.0.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:16.1.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:18.0.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:19.0.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:20.0.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:20.2.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:20.3.0.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:21.0.0.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:21.1.0.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:23.0.0.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:23.0.1.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:24.0.0.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:26.2.0.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:26.6.0.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:27.0.0.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:27.0.1.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:27.0.2.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:29.0.0.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:30.0.0.os:*:*:*:*:*:*:*
+  - cpe:2.3:a:icehrm:icehrm:31.0.0.os:*:*:*:*:*:*:*

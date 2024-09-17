@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:totaljs:flow:10.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:totaljs:flow:*:*:*:*:*:node.js:*:*

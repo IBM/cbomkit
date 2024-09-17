@@ -1,0 +1,7 @@
+purls:
+  - pkg:github/bennoleslie/mpfr
+  - pkg:github/sabermod/gnu-mpfr
+  - pkg:gitlab/redhat/mpfr
+  - pkg:rpm/centos/mpfr
+  - pkg:rpm/fedora/mpfr
+  - pkg:rpm/opensuse/mpfr

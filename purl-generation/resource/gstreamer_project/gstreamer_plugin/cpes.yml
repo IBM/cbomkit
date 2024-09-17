@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:gstreamer_project:gstreamer_plugin:1.10:*:*:*:*:*:*:*

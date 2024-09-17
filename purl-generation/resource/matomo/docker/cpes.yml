@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:matomo:docker:3.5.1-fpm-alpine:*:*:*:*:*:*:*
+  - cpe:2.3:a:matomo:docker:3.5-fpm-alpine:*:*:*:*:*:*:*
+  - cpe:2.3:a:matomo:docker:3.6.0-fpm-alpine:*:*:*:*:*:*:*
+  - cpe:2.3:a:matomo:docker:3.6-fpm-alpine:*:*:*:*:*:*:*
+  - cpe:2.3:a:matomo:docker:3-fpm-alpine:*:*:*:*:*:*:*

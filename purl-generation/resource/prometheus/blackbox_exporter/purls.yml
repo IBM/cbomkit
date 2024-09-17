@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/prometheus/blackbox_exporter
+  - pkg:rpm/opensuse/blackbox_exporter
+  - pkg:rpm/opensuse/golang-github-prometheus-blackbox_exporter
+  - pkg:rpm/opensuse/prometheus-blackbox_exporter

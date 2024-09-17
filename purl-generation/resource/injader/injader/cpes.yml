@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:injader:injader:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:injader:injader:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:injader:injader:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:injader:injader:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:injader:injader:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:injader:injader:2.4.4:*:*:*:*:*:*:*

@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:2fauth:2fauth:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:1.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:3.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:3.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:3.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:3.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:3.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:4.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:4.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:2fauth:2fauth:4.0.2:*:*:*:*:*:*:*

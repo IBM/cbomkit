@@ -1,0 +1,6 @@
+purls:
+  - pkg:apache/brooklyn
+  - pkg:docker/apache/brooklyn
+  - pkg:github/apache/brooklyn
+  - pkg:github/apache/incubator-brooklyn
+  - pkg:maven/org.apache.brooklyn/brooklyn

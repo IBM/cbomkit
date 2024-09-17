@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/angular/angular.js
+  - pkg:golang/github.com/angular/angular.js
+  - pkg:maven/org.webjars.bowergithub.angular/angular.js

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/rancher/rke2
+  - pkg:rpm/opensuse/rke2

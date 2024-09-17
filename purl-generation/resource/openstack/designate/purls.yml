@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/openstackhelm/designate
+  - pkg:github/openstack/designate
+  - pkg:npm/designate-rr-monitor
+  - pkg:pypi/designate
+  - pkg:rpm/opensuse/openstack-designate

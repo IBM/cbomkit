@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/codecov/codecov-python
+  - pkg:pypi/codecov
+  - pkg:rpm/fedora/python-codecov
+  - pkg:rpm/opensuse/python-codecov

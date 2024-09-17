@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/rust-serde-yaml
+  - pkg:deb/ubuntu/rust-serde-yaml
+  - pkg:github/dtolnay/serde-yaml

@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/tinymce
+  - pkg:deb/ubuntu/tinymce
+  - pkg:github/tinymce/tinymce

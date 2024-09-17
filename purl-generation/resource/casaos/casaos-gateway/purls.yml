@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/chef-server
+  - pkg:github/chef/chef-server

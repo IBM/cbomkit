@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:pfsense:snort_package:3.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:pfsense:snort_package:3.0.13:*:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/coryjb/mochiweb
+  - pkg:deb/debian/mochiweb
+  - pkg:deb/ubuntu/mochiweb
+  - pkg:github/mochi/mochiweb
+  - pkg:rpm/fedora/erlang-mochiweb
+  - pkg:rpm/opensuse/erlang-mochiweb

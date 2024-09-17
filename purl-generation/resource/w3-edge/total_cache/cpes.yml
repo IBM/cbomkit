@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:w3-edge:total_cache:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:w3-edge:total_cache:0.10.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3-edge:total_cache:0.10.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3-edge:total_cache:0.10.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3-edge:total_cache:0.9.2.5:*:*:*:*:-:*:*
+  - cpe:2.3:a:w3-edge:total_cache:0.9.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3-edge:total_cache:0.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3-edge:total_cache:0.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3-edge:total_cache:0.9.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3-edge:total_cache:0.9.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3-edge:total_cache:0.9.5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3-edge:total_cache:0.9.5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3-edge:total_cache:0.9.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3-edge:total_cache:0.9.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3-edge:total_cache:0.9.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3-edge:total_cache:0.9.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3-edge:total_cache:0.9.7.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3-edge:total_cache:0.9.7.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3-edge:total_cache:0.9.7.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3-edge:total_cache:0.9.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3-edge:total_cache:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3-edge:total_cache:-:*:*:*:*:wordpress:*:*

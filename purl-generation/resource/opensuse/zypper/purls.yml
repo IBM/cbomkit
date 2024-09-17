@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/ubuntu/zypper
+  - pkg:gem/zypper
+  - pkg:github/opensuse/rubygem-zypper/
+  - pkg:github/opensuse/zypper
+  - pkg:rpm/fedora/zypper
+  - pkg:rpm/opensuse/zypper
+  - pkg:sourceforge/pkgzypper

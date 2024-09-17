@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/openapitools/openapi-generator
+  - pkg:github/openapitools/openapi-generator
+  - pkg:maven/org.openapitools/openapi-generator-project

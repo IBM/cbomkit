@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:openstack:cloud_magnum_orchestration:7:*:*:*:*:*:*:*

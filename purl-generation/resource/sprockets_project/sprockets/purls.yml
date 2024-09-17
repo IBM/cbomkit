@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-sprockets
+  - pkg:deb/ubuntu/ruby-sprockets
+  - pkg:gem/sprockets
+  - pkg:github/rails/sprockets
+  - pkg:rpm/fedora/rubygem-sprockets
+  - pkg:rpm/opensuse/rubygem-sprockets

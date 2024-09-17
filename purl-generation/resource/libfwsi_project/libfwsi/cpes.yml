@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:libfwsi_project:libfwsi:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:libfwsi_project:libfwsi:20181227:*:*:*:*:*:*:*
+  - cpe:2.3:a:libfwsi_project:libfwsi:20191006:*:*:*:*:*:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/0x0b501e7e/zrtpcpp
+  - pkg:github/wernerd/zrtpcpp
+  - pkg:rpm/fedora/libzrtpcpp
+  - pkg:rpm/opensuse/libzrtpcpp

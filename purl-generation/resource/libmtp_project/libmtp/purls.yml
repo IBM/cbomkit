@@ -1,0 +1,10 @@
+purls:
+  - pkg:bitbucket/dsokoloski/libmtp
+  - pkg:deb/debian/libmtp
+  - pkg:deb/ubuntu/libmtp
+  - pkg:github/libmtp/libmtp
+  - pkg:gitlab/redhat/libmtp
+  - pkg:rpm/centos/libmtp
+  - pkg:rpm/fedora/libmtp
+  - pkg:rpm/opensuse/libmtp
+  - pkg:sourceforge/libmtp

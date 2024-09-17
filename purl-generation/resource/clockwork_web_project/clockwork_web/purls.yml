@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/clockwork_web
+  - pkg:github/ankane/clockwork_web

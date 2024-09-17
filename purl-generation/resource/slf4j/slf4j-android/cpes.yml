@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:slf4j:slf4j-android:1.6.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-android:1.7.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-android:1.7.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-android:1.7.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-android:1.7.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-android:1.7.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-android:1.7.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-android:1.7.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-android:1.7.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-android:1.7.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-android:1.7.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-android:1.7.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-android:1.7.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-android:1.7.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-android:1.7.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-android:1.7.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-android:1.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-android:1.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-android:1.7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-android:1.7.9:*:*:*:*:*:*:*

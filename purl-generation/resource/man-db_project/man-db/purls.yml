@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/man-db
+  - pkg:deb/ubuntu/man-db
+  - pkg:github/distrotech/man-db
+  - pkg:github/qunixorg/man-db
+  - pkg:github/shivox/man-db
+  - pkg:gitlab/redhat/man-db
+  - pkg:gnu/man-db
+  - pkg:rpm/centos/man-db
+  - pkg:rpm/fedora/man-db
+  - pkg:rpm/opensuse/man-db

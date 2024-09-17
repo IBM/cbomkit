@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:groupon:selenium-download:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:1.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:1.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:1.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:1.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:1.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:2.0.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:2.0.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:2.0.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:2.0.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:2.0.14:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:2.0.15:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:2.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:2.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:2.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:2.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:2.0.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:2.0.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:2.0.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:2.0.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:groupon:selenium-download:2.0.9:*:*:*:*:node.js:*:*

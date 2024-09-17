@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/uqeresearch/dnrd
+  - pkg:github/trustin/dnrd
+  - pkg:sourceforge/dnrd

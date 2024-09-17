@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/texinfo
+  - pkg:deb/ubuntu/texinfo
+  - pkg:github/distrotech/texinfo
+  - pkg:github/mwcampbell/texinfo
+  - pkg:github/svn-mirror/gnu-texinfo
+  - pkg:gitlab/redhat/texinfo
+  - pkg:gnu/texinfo
+  - pkg:rpm/centos/texinfo
+  - pkg:rpm/fedora/texinfo
+  - pkg:rpm/opensuse/texinfo

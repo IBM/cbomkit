@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sabberworm/php-css-parser
+  - pkg:rpm/fedora/php-php-css-parser

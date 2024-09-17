@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/certifi/python-certifi
+  - pkg:pypi/certifi

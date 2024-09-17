@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:simple_machines:smf_shoutbox:1.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:simple_machines:smf_shoutbox:1.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:simple_machines:smf_shoutbox:1.16b:*:*:*:*:*:*:*

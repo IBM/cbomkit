@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/arnaudboub/gwolle-gb
+  - pkg:github/wp-plugins/gwolle-gb
+  - pkg:github/wpplugins/gwolle-gb

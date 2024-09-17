@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:drupal:mailhandler:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:mailhandler:5.x-1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:mailhandler:5.x-1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:mailhandler:5.x-1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:mailhandler:5.x-1.x-dev:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:mailhandler:6.x-1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:mailhandler:6.x-1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:mailhandler:6.x-1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:mailhandler:6.x-1.x-dev:*:*:*:*:*:*:*

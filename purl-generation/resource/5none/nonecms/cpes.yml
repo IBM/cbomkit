@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:5none:nonecms:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:5none:nonecms:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:5none:nonecms:1.3.0:*:*:*:*:*:*:*

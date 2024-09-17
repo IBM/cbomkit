@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:mpfm:mask_php_file_manager:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mpfm:mask_php_file_manager:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mpfm:mask_php_file_manager:1.1:a:*:*:*:*:*:*
+  - cpe:2.3:a:mpfm:mask_php_file_manager:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mpfm:mask_php_file_manager:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mpfm:mask_php_file_manager:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mpfm:mask_php_file_manager:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mpfm:mask_php_file_manager:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:mpfm:mask_php_file_manager:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mpfm:mask_php_file_manager:*:a:*:*:*:*:*:*
+  - cpe:2.3:a:mpfm:mask_php_file_manager:*:c:*:*:*:*:*:*
+  - cpe:2.3:a:mpfm:mask_php_file_manager:*:d:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/autohotkey/autohotkey
+  - pkg:github/lexikos/autohotkey_l
+  - pkg:sourceforge/autohotkey.mirror

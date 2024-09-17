@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/elastic/elasticsearch
+  - pkg:elastic/elasticsearch
+  - pkg:github/elastic/elasticsearch
+  - pkg:rpm/opensuse/elasticsearch

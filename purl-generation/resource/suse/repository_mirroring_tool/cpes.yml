@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:suse:repository_mirroring_tool:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:repository_mirroring_tool:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:suse:repository_mirroring_tool:1.1.2:*:*:*:*:*:*:*

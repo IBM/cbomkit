@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/ubuntu/tripleo-heat-templates
+  - pkg:github/openstack/tripleo-heat-templates
+  - pkg:pypi/tripleo-heat-templates

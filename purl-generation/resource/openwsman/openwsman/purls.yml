@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/ubuntu/openwsman
+  - pkg:github/openwsman/openwsman
+  - pkg:gitlab/redhat/openwsman
+  - pkg:rpm/fedora/openwsman
+  - pkg:rpm/opensuse/openwsman

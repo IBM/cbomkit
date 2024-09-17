@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sonnyp/json8
+  - pkg:npm/json8

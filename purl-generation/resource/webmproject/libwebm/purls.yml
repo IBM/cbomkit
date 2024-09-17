@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libwebp
+  - pkg:deb/ubuntu/libwebp
+  - pkg:github/webmproject/libwebm
+  - pkg:googlesource/webp
+  - pkg:nuget/vii.libwebp
+  - pkg:rpm/centos/libwebp
+  - pkg:rpm/fedora/libwebp
+  - pkg:rpm/opensuse/libwebp

@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/must/pybitmessage
+  - pkg:github/bitmessage/pybitmessage
+  - pkg:github/must-/pybitmessage
+  - pkg:rpm/opensuse/pybitmessage

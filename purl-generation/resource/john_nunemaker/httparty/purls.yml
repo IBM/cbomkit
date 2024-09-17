@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/ruby-httparty
+  - pkg:deb/ubuntu/ruby-httparty
+  - pkg:docker/rubygem/httparty
+  - pkg:gem/httparty
+  - pkg:github/jnunemaker/httparty
+  - pkg:rpm/fedora/rubygem-httparty
+  - pkg:rpm/opensuse/rubygem-httparty
+  - pkg:sourceforge/httparty.mirror

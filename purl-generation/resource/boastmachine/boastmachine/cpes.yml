@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:boastmachine:boastmachine:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:boastmachine:boastmachine:2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:boastmachine:boastmachine:3.0:*:platinum:*:*:*:*:*
+  - cpe:2.3:a:boastmachine:boastmachine:3.1:*:*:*:*:*:*:*

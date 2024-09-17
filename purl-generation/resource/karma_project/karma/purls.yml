@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/karma-runner/karma
+  - pkg:maven/org.webjars.npm/karma
+  - pkg:npm/karma
+  - pkg:sourceforge/karma.mirror

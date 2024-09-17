@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/heron
+  - pkg:docker/apache/heron
+  - pkg:github/apache/incubator-heron

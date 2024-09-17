@@ -1,0 +1,3 @@
+purls:
+  - pkg:cargo/sudo-rs
+  - pkg:github/memorysafety/sudo-rs

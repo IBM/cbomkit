@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/ruby-carrierwave
+  - pkg:deb/ubuntu/ruby-carrierwave
+  - pkg:gem/carrierwave
+  - pkg:github/carrierwaveuploader/carrierwave
+  - pkg:gitlab/stanhu/carrierwave
+  - pkg:rpm/opensuse/rubygem-carrierwave
+  - pkg:sourceforge/carrierwave.mirror

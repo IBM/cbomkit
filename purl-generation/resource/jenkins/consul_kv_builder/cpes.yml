@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:jenkins:consul_kv_builder:2.0.13:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:consul_kv_builder:*:*:*:*:*:jenkins:*:*

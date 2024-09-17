@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:arm:mbed_ualloc:1.3.0:*:*:*:*:*:*:*

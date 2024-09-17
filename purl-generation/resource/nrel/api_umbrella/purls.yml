@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nrel/api-umbrella
+  - pkg:golang/github.com/nrel/api-umbrella

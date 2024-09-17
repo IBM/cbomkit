@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:tera_charts_plugin_project:tera-charts:0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tera_charts_plugin_project:tera-charts:1.0:*:*:*:*:wordpress:*:*

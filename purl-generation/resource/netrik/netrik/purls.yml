@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/netrik
+  - pkg:deb/ubuntu/netrik
+  - pkg:sourceforge/netrik

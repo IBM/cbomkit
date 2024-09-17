@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:graniteds:graniteds:2.2.0:sp1:*:*:*:*:*:*
+  - cpe:2.3:a:graniteds:graniteds:2.2.0:sp2:*:*:*:*:*:*
+  - cpe:2.3:a:graniteds:graniteds:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:graniteds:graniteds:2.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:graniteds:graniteds:2.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:graniteds:graniteds:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:graniteds:graniteds:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:graniteds:graniteds:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:graniteds:graniteds:3.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:graniteds:graniteds:3.0.0:m1:*:*:*:*:*:*
+  - cpe:2.3:a:graniteds:graniteds:3.0.0:m2:*:*:*:*:*:*
+  - cpe:2.3:a:graniteds:graniteds:3.0.0:m3:*:*:*:*:*:*
+  - cpe:2.3:a:graniteds:graniteds:3.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:graniteds:graniteds:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:graniteds:graniteds:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:graniteds:graniteds:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:graniteds:graniteds:3.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:graniteds:graniteds:3.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:graniteds:graniteds:3.1.0:m1:*:*:*:*:*:*
+  - cpe:2.3:a:graniteds:graniteds:3.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:graniteds:graniteds:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:graniteds:graniteds:3.1.1.g:*:*:*:*:*:*:*

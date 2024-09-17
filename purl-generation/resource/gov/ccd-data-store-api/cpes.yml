@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:gov:ccd-data-store-api:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gov:ccd-data-store-api:2019-06-10:*:*:*:*:*:*:*

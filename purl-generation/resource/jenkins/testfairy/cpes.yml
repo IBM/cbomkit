@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:jenkins:testfairy:2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:2.2.5:beta:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:2.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:2.3.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:2.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:2.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:2.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:2.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:2.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:2.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:2.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:3.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:3.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:3.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:3.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:3.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:3.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:4.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:4.16:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:4.17.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:4.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:4.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:testfairy:-:*:*:*:*:jenkins:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/podium-lib/proxy
+  - pkg:npm/%40podium/proxy

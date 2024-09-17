@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/cockpit
+  - pkg:deb/ubuntu/cockpit
+  - pkg:github/cockpit-project/cockpit
+  - pkg:gitlab/redhat/cockpit
+  - pkg:rpm/centos/cockpit
+  - pkg:rpm/fedora/cockpit
+  - pkg:rpm/opensuse/cockpit
+  - pkg:sourceforge/cockpit.mirror

@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:docker2aci_project:docker2aci:0.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker2aci_project:docker2aci:0.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker2aci_project:docker2aci:0.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker2aci_project:docker2aci:0.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker2aci_project:docker2aci:0.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker2aci_project:docker2aci:0.12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker2aci_project:docker2aci:0.12.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker2aci_project:docker2aci:0.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker2aci_project:docker2aci:0.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker2aci_project:docker2aci:0.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker2aci_project:docker2aci:0.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker2aci_project:docker2aci:0.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker2aci_project:docker2aci:0.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker2aci_project:docker2aci:0.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker2aci_project:docker2aci:0.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker2aci_project:docker2aci:0.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker2aci_project:docker2aci:0.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker2aci_project:docker2aci:0.9.3:*:*:*:*:*:*:*

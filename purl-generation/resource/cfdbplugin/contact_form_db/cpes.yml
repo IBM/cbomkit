@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:cfdbplugin:contact_form_db:2.8.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cfdbplugin:contact_form_db:2.8.26:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cfdbplugin:contact_form_db:2.8.31:*:*:*:*:wordpress:*:*

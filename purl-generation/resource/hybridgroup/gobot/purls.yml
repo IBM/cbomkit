@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/hybridgroup/gobot
+  - pkg:sourceforge/gobot.mirror

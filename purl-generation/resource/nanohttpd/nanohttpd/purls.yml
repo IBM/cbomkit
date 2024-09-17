@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/nanohttpd/nanohttpd
+  - pkg:maven/org.nanohttpd/nanohttpd
+  - pkg:sourceforge/nanohttpd.mirror

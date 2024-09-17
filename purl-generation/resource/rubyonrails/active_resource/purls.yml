@@ -1,0 +1,5 @@
+purls:
+  - pkg:gem/activeresource
+  - pkg:github/rails/activeresource
+  - pkg:rpm/fedora/rubygem-activeresource
+  - pkg:rpm/opensuse/rubygem-activeresource

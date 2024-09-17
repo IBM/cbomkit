@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:mealie_project:mealie:0.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mealie_project:mealie:0.5.5:*:*:*:*:docker:*:*
+  - cpe:2.3:a:mealie_project:mealie:1.0.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:mealie_project:mealie:1.0.0:beta3:*:*:*:docker:*:*

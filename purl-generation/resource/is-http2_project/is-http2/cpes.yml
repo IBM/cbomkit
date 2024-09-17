@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:is-http2_project:is-http2:-:*:*:*:*:node.js:*:*

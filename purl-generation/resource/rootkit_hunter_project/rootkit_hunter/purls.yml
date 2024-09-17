@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/rkhunter
+  - pkg:deb/ubuntu/rkhunter
+  - pkg:github/softasap/sa-secure-audit-rkhunter
+  - pkg:rpm/fedora/rkhunter
+  - pkg:rpm/opensuse/rkhunter
+  - pkg:sourceforge/rkhunter

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/wger-project/wger
+  - pkg:pypi/wger

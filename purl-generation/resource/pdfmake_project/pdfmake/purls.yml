@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/bpampuch/pdfmake
+  - pkg:maven/org.webjars.bower/pdfmake
+  - pkg:npm/pdfmake
+  - pkg:sourceforge/pdfmake.mirror

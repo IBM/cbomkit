@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:opendaylight:opendaylight:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:opendaylight:opendaylight:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opendaylight:opendaylight:3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:opendaylight:opendaylight:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:opendaylight:opendaylight:boron:*:*:*:*:*:*:*
+  - cpe:2.3:a:opendaylight:opendaylight:carbon:*:*:*:*:*:*:*
+  - cpe:2.3:a:opendaylight:opendaylight:nitrogen:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sshnet/ssh.net
+  - pkg:nuget/SSH.NET

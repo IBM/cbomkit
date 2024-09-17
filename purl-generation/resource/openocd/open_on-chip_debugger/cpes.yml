@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:openocd:open_on-chip_debugger:0.10.0:*:*:*:*:*:*:*

@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:apache:apache-airflow-providers-smtp:1.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-smtp:1.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-smtp:1.0.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-smtp:1.0.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-smtp:1.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-smtp:1.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-smtp:1.1.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-smtp:1.2.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:apache-airflow-providers-smtp:1.2.0:rc1:*:*:*:*:*:*

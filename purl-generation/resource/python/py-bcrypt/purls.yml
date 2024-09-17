@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/erlichmen/py-bcrypt
+  - pkg:pypi/py-bcrypt
+  - pkg:rpm/fedora/py-bcrypt
+  - pkg:rpm/opensuse/py-bcrypt

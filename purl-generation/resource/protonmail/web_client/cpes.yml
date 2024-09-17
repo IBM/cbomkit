@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:protonmail:web_client:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:protonmail:web_client:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:protonmail:web_client:3.16.60:*:*:*:*:*:*:*

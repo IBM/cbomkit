@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/tigervnc
+  - pkg:deb/ubuntu/tigervnc
+  - pkg:github/tigervnc/tigervnc
+  - pkg:rpm/centos/tigervnc
+  - pkg:rpm/fedora/tigervnc
+  - pkg:rpm/opensuse/tigervnc
+  - pkg:sourceforge/tigervnc

@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/diffutils
+  - pkg:deb/ubuntu/diffutils
+  - pkg:github/distrotech/diffutils
+  - pkg:github/qunixorg/diffutils
+  - pkg:gitlab/redhat/diffutils
+  - pkg:gnu/diffutils
+  - pkg:rpm/centos/diffutils
+  - pkg:rpm/fedora/diffutils
+  - pkg:rpm/opensuse/diffutils

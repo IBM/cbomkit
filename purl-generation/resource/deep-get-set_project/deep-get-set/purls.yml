@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/acstll/deep-get-set
+  - pkg:github/juliangruber/deep-access
+  - pkg:npm/deep-get-set

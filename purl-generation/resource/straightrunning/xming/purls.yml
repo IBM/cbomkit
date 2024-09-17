@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/sourcecode-reloaded/xming
+  - pkg:github/talregev/xming
+  - pkg:sourceforge/xming

@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/visjs/vis-timeline
+  - pkg:maven/org.webjars.bowergithub.visjs/vis-timeline
+  - pkg:maven/org.webjars.npm/vis-timeline
+  - pkg:npm/vis-timeline

@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/liquibase/liquibase
+  - pkg:maven/org.liquibase/liquibase-core
+  - pkg:rpm/fedora/liquibase
+  - pkg:rpm/opensuse/liquibase

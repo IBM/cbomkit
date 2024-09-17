@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/salimane/xhprof
+  - pkg:github/phacility/xhprof
+  - pkg:opensuse/php53-xhprof
+  - pkg:rpm/fedora/php-pecl-xhprof
+  - pkg:rpm/opensuse/php5-xhprof

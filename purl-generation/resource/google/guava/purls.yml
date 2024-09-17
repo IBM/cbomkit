@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/guava
+  - pkg:deb/ubuntu/guava
+  - pkg:github/google/guava
+  - pkg:gitlab/redhat/guava
+  - pkg:googlesource/guava
+  - pkg:maven/com.google.guava/guava
+  - pkg:rpm/centos/guava
+  - pkg:rpm/fedora/guava
+  - pkg:rpm/opensuse/guava
+  - pkg:sourceforge/guava.mirror

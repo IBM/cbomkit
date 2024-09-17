@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/uvdesk/community-skeleton
+  - pkg:github/uvdesk/community-skeleton

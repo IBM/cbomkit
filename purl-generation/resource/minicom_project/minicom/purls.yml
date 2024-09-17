@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/minicom
+  - pkg:deb/ubuntu/minicom
+  - pkg:github/dereknex/minicom
+  - pkg:github/distrotech/minicom
+  - pkg:gitlab/redhat/minicom
+  - pkg:rpm/centos/minicom
+  - pkg:rpm/fedora/minicom
+  - pkg:rpm/opensuse/minicom

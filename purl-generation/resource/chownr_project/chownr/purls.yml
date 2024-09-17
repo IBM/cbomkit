@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-chownr
+  - pkg:deb/ubuntu/node-chownr
+  - pkg:github/isaacs/chownr
+  - pkg:maven/org.webjars.npm/chownr
+  - pkg:npm/chownr

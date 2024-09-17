@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:novnc:novnc:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:novnc:novnc:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:novnc:novnc:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:novnc:novnc:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:novnc:novnc:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:novnc:novnc:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:novnc:novnc:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:novnc:novnc:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:novnc:novnc:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:novnc:novnc:0.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:novnc:novnc:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:novnc:novnc:1.1.0:*:*:*:*:*:*:*

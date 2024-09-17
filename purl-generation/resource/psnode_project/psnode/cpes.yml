@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:psnode_project:psnode:0.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:psnode_project:psnode:-:*:*:*:*:node.js:*:*

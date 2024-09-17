@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/arangamani/gem-publisher-jenkins
+  - pkg:github/jenkinsci/gem-publisher-plugin

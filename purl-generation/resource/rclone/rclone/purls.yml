@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/rclone
+  - pkg:deb/ubuntu/rclone
+  - pkg:docker/rclone/rclone
+  - pkg:github/rclone/rclone
+  - pkg:rpm/fedora/rclone
+  - pkg:rpm/opensuse/rclone
+  - pkg:sourceforge/rclone.mirror

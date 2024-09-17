@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/xwiki/xwiki-commons
+  - pkg:maven/org.xwiki.commons/xwiki-commons

@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:apache:doris:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:doris:0.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:doris:0.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:doris:0.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:doris:0.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:doris:0.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:doris:0.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:doris:0.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:doris:1.0.0:*:*:*:*:*:*:*

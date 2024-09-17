@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:cloudfoundry:bosh_azure_cpi:22:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:bosh_azure_cpi:v22:*:*:*:*:*:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/vimagick/live555
+  - pkg:github/che0/live555
+  - pkg:github/rgaufman/live555
+  - pkg:rpm/opensuse/live555

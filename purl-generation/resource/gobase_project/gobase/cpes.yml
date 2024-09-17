@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:gobase_project:gobase:0.1.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.2.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.3.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.4.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.4.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.5.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.5.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.5.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.6.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.6.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.6.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.7.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.7.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:gobase_project:gobase:0.7.2:*:*:*:*:*:*:*

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/jinja2
+  - pkg:deb/ubuntu/jinja2
+  - pkg:github/pallets/jinja
+  - pkg:gitlab/redhat/python-jinja2
+  - pkg:pypi/jinja
+  - pkg:rpm/fedora/python-jinja2
+  - pkg:rpm/opensuse/python-Jinja2

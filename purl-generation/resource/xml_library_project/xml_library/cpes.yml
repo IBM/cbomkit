@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:xml_library_project:xml_library:0.2.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.3.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.3.7:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.3.8:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.4.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.5.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.6.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.6.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.6.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.7.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.8.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.8.10:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.8.11:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.8.12:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.8.13:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.8.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.8.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.8.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.8.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.8.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.8.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.8.7:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.8.8:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:0.8.9:*:*:*:*:rust:*:*
+  - cpe:2.3:a:xml_library_project:xml_library:-:*:*:*:*:rust:*:*

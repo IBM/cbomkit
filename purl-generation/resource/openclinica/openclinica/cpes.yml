@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:openclinica:openclinica:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinica:openclinica:3.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinica:openclinica:3.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinica:openclinica:3.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinica:openclinica:3.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openclinica:openclinica:4.13.0:*:*:*:*:*:*:*

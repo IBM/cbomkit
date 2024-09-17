@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/cherokee/webserver
+  - pkg:rpm/fedora/cherokee
+  - pkg:rpm/opensuse/cherokee

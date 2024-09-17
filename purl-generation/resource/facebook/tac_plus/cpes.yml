@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:facebook:tac_plus:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:facebook:tac_plus:-:*:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/lrzip
+  - pkg:deb/ubuntu/lrzip
+  - pkg:github/ckolivas/lrzip
+  - pkg:pypi/lrzip
+  - pkg:rpm/opensuse/lrzip
+  - pkg:sourceforge/lrzip

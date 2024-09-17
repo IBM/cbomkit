@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:jumio:jumio_sdk:1.5.0:*:*:*:*:android:*:*
+  - cpe:2.3:a:jumio:jumio_sdk:2.10.0:*:*:*:*:android:*:*
+  - cpe:2.3:a:jumio:jumio_sdk:2.10.1:*:*:*:*:android:*:*
+  - cpe:2.3:a:jumio:jumio_sdk:2.11.0:*:*:*:*:android:*:*
+  - cpe:2.3:a:jumio:jumio_sdk:2.12.0:*:*:*:*:android:*:*
+  - cpe:2.3:a:jumio:jumio_sdk:2.12.1:*:*:*:*:android:*:*
+  - cpe:2.3:a:jumio:jumio_sdk:2.13.0:*:*:*:*:android:*:*
+  - cpe:2.3:a:jumio:jumio_sdk:2.14.0:*:*:*:*:android:*:*
+  - cpe:2.3:a:jumio:jumio_sdk:2.15.0:*:*:*:*:android:*:*
+  - cpe:2.3:a:jumio:jumio_sdk:2.6.0:*:*:*:*:android:*:*
+  - cpe:2.3:a:jumio:jumio_sdk:2.6.1:*:*:*:*:android:*:*
+  - cpe:2.3:a:jumio:jumio_sdk:2.7.0:*:*:*:*:android:*:*
+  - cpe:2.3:a:jumio:jumio_sdk:2.8.0:*:*:*:*:android:*:*
+  - cpe:2.3:a:jumio:jumio_sdk:2.9.0:*:*:*:*:android:*:*
+  - cpe:2.3:a:jumio:jumio_sdk:3.0.0:*:*:*:*:android:*:*
+  - cpe:2.3:a:jumio:jumio_sdk:3.1.0:*:*:*:*:android:*:*
+  - cpe:2.3:a:jumio:jumio_sdk:3.2.0:*:*:*:*:android:*:*
+  - cpe:2.3:a:jumio:jumio_sdk:3.2.1:*:*:*:*:android:*:*
+  - cpe:2.3:a:jumio:jumio_sdk:3.3.0:*:*:*:*:android:*:*
+  - cpe:2.3:a:jumio:jumio_sdk:3.3.1:*:*:*:*:android:*:*
+  - cpe:2.3:a:jumio:jumio_sdk:3.3.2:*:*:*:*:android:*:*
+  - cpe:2.3:a:jumio:jumio_sdk:*:*:*:*:*:android:*:*

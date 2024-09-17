@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:hesiod_project:hesiod:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hesiod_project:hesiod:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hesiod_project:hesiod:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hesiod_project:hesiod:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hesiod_project:hesiod:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hesiod_project:hesiod:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hesiod_project:hesiod:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hesiod_project:hesiod:3.2.1:*:*:*:*:*:*:*

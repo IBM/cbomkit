@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/node-ws
+  - pkg:deb/ubuntu/node-ws
+  - pkg:github/websockets/ws
+  - pkg:maven/org.webjars.npm/ws
+  - pkg:npm/ws
+  - pkg:rpm/fedora/nodejs-ws
+  - pkg:rpm/opensuse/nodejs-ws

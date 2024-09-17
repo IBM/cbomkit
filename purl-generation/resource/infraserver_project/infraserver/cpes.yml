@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:infraserver_project:infraserver:0.0.1:*:*:*:*:node.js:*:*

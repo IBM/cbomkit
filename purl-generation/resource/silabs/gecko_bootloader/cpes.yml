@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:silabs:gecko_bootloader:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:silabs:gecko_bootloader:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:silabs:gecko_bootloader:4.2.4:*:*:*:*:*:arm:*
+  - cpe:2.3:a:silabs:gecko_bootloader:4.3.0:*:*:*:*:*:arm:*
+  - cpe:2.3:a:silabs:gecko_bootloader:4.3.1:*:*:*:*:*:arm:*
+  - cpe:2.3:a:silabs:gecko_bootloader:*:*:*:*:*:*:arm:*

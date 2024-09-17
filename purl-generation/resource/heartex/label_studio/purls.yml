@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/filmbuffai/mirror_label-studio
+  - pkg:docker/heartexlabs/label-studio
+  - pkg:github/heartexlabs/label-studio
+  - pkg:pypi/label-studio

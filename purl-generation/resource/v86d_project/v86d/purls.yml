@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/v86d
+  - pkg:deb/ubuntu/v86d
+  - pkg:github/mjanusz/v86d
+  - pkg:rpm/opensuse/v86d

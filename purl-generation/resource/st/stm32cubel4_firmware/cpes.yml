@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:o:st:stm32cubel4_firmware:-:*:*:*:*:*:*:*
+  - cpe:2.3:o:st:stm32cubel4_firmware:1.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:st:stm32cubel4_firmware:1.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:st:stm32cubel4_firmware:1.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:st:stm32cubel4_firmware:1.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:st:stm32cubel4_firmware:1.17.0:*:*:*:*:*:*:*

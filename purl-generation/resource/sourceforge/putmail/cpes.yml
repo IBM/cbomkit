@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:sourceforge:putmail:.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourceforge:putmail:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourceforge:putmail:.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourceforge:putmail:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourceforge:putmail:.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourceforge:putmail:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourceforge:putmail:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourceforge:putmail:.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:sourceforge:putmail:.9:*:*:*:*:*:*:*

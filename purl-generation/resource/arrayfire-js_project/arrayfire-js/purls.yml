@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/arrayfire/arrayfire-js
+  - pkg:npm/arrayfire-js

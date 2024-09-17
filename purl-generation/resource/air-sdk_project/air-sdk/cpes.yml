@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:air-sdk_project:air-sdk:16.0.0-272-10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:air-sdk_project:air-sdk:16.0.0-272-11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:air-sdk_project:air-sdk:16.0.0-272-12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:air-sdk_project:air-sdk:16.0.0-272-13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:air-sdk_project:air-sdk:16.0.0-272-14:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:air-sdk_project:air-sdk:16.0.0-272-15:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:air-sdk_project:air-sdk:16.0.0-272-16:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:air-sdk_project:air-sdk:16.0.0-272-2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:air-sdk_project:air-sdk:16.0.0-272-3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:air-sdk_project:air-sdk:16.0.0-272-4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:air-sdk_project:air-sdk:16.0.0-272-6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:air-sdk_project:air-sdk:16.0.0-272-8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:air-sdk_project:air-sdk:16.0.0-272-9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:air-sdk_project:air-sdk:16.0.0-272:*:*:*:*:node.js:*:*

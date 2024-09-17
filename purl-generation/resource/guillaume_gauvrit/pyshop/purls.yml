@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/mardiros/pyshop
+  - pkg:github/mardiros/pyshop
+  - pkg:pypi/pyshop

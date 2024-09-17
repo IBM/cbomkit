@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:jenkins:shelve_project:0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:shelve_project:0.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:shelve_project:0.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:shelve_project:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:shelve_project:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:shelve_project:1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:shelve_project:1.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:shelve_project:1.4.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:shelve_project:1.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:shelve_project:1.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:shelve_project:2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:shelve_project:2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:shelve_project:2.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:shelve_project:2.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:shelve_project:2.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:shelve_project:3.0:*:*:*:*:jenkins:*:*

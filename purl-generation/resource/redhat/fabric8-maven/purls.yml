@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/eclipse/jkube
+  - pkg:github/fabric8io/fabric8-maven-plugin
+  - pkg:maven/io.fabric8/fabric8-maven-plugin

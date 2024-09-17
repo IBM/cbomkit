@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libslirp
+  - pkg:deb/ubuntu/libslirp
+  - pkg:github/utmapp/libslirp
+  - pkg:github/walton-io/libslirp
+  - pkg:rpm/centos/libslirp
+  - pkg:rpm/fedora/libslirp
+  - pkg:rpm/opensuse/libslirp

@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:teamst:testlink:1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamst:testlink:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamst:testlink:1.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamst:testlink:1.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamst:testlink:1.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamst:testlink:1.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamst:testlink:1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamst:testlink:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamst:testlink:1.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamst:testlink:1.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamst:testlink:1.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamst:testlink:1.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamst:testlink:1.8:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:teamst:testlink:1.8:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:teamst:testlink:1.8:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:teamst:testlink:1.8:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:teamst:testlink:1.9.3:*:*:*:*:*:*:*

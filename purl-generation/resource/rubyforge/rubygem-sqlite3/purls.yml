@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-sqlite3
+  - pkg:deb/ubuntu/ruby-sqlite3
+  - pkg:gem/sqlite3
+  - pkg:github/sparklemotion/sqlite3-ruby
+  - pkg:gitlab/redhat/rubygem-sqlite3
+  - pkg:golang/github.com/sparklemotion/sqlite3-ruby

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/containrrr/watchtower
+  - pkg:golang/github.com/containrrr/watchtower
+  - pkg:sourceforge/wtelements

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/vala
+  - pkg:deb/ubuntu/vala
+  - pkg:github/gnome/vala
+  - pkg:gitlab/redhat/vala
+  - pkg:rpm/centos/vala
+  - pkg:rpm/fedora/vala
+  - pkg:rpm/opensuse/vala

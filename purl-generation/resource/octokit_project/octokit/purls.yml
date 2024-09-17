@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-octokit
+  - pkg:deb/ubuntu/ruby-octokit
+  - pkg:gem/octokit
+  - pkg:github/octokit/octokit.rb
+  - pkg:rpm/opensuse/rubygem-octokit

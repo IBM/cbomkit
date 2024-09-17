@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-xml-wbxml
+  - pkg:deb/ubuntu/php-horde-xml-wbxml
+  - pkg:github/horde/xml_wbxml
+  - pkg:rpm/fedora/php-horde-horde-xml-wbxml

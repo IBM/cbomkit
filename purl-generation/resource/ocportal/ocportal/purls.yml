@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/chrisgraham/ocportal
+  - pkg:github/ocproducts/composr
+  - pkg:gitlab/composr-foundation/composr

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:silc:silc_client:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:silc:silc_client:1.1.1:*:*:*:*:*:*:*

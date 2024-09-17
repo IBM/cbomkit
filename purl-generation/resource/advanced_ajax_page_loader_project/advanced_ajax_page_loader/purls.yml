@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mdressman/advanced-ajax-page-loader
+  - pkg:github/wp-plugins/advanced-ajax-page-loader
+  - pkg:github/wpplugins/advanced-ajax-page-loader

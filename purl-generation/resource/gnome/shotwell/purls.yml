@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/shotwell
+  - pkg:deb/ubuntu/shotwell
+  - pkg:github/gnome/shotwell
+  - pkg:rpm/centos/shotwell
+  - pkg:rpm/fedora/shotwell
+  - pkg:rpm/opensuse/shotwell

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:jenkins:code_dx:*:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:code_dx:*:*:*:*:*:wordpress:*:*

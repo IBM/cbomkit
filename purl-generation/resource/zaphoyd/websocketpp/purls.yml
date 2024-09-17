@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/websocketpp
+  - pkg:deb/ubuntu/websocketpp
+  - pkg:github/zaphoyd/websocketpp
+  - pkg:npm/websocketpp
+  - pkg:nuget/websocketpp-mtk.repack
+  - pkg:rpm/fedora/websocketpp
+  - pkg:rpm/opensuse/websocketpp

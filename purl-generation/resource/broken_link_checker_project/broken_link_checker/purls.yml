@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/stevenvachon/broken-link-checker
+  - pkg:golang/github.com/stevenvachon/broken-link-checker
+  - pkg:npm/broken-link-checker

@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/devise_masquerade
+  - pkg:github/oivoodoo/devise_masquerade

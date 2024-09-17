@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:conquer-once_project:conquer-once:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:conquer-once_project:conquer-once:0.3.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:conquer-once_project:conquer-once:0.3.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:conquer-once_project:conquer-once:-:*:*:*:*:rust:*:*

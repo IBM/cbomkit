@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/golang-github-blevesearch-bleve
+  - pkg:deb/ubuntu/golang-github-blevesearch-bleve
+  - pkg:github/blevesearch/bleve
+  - pkg:sourceforge/bleve.mirror

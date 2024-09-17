@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wpupper_share_buttons_project:wpupper_share_buttons:3.42:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpupper_share_buttons_project:wpupper_share_buttons:*:*:*:*:*:wordpress:*:*

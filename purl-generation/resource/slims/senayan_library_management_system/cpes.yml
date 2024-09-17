@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:slims:senayan_library_management_system:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:8.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:9.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:9.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:9.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:9.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:9.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:9.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:9.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:9.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:9.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:9.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:9.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:9.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:9.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:slims:senayan_library_management_system:9.6.1:*:*:*:*:*:*:*

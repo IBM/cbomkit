@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:tinyftp_project:tinyftp:0.52:d:*:*:*:*:*:*
+  - cpe:2.3:a:tinyftp_project:tinyftp:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tinyftp_project:tinyftp:1.1:*:*:*:*:*:*:*

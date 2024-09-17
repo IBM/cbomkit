@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/bzflag
+  - pkg:deb/ubuntu/bzflag
+  - pkg:github/bzflag-dev/bzflag
+  - pkg:rpm/fedora/bzflag
+  - pkg:rpm/opensuse/bzflag
+  - pkg:sourceforge/bzflag

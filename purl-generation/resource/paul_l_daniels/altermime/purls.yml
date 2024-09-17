@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/altermime
+  - pkg:deb/ubuntu/altermime
+  - pkg:github/ac000/altermime
+  - pkg:rpm/fedora/altermime
+  - pkg:rpm/opensuse/altermime

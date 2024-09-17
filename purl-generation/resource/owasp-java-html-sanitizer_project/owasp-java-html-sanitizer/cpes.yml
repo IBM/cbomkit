@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:owasp-java-html-sanitizer_project:owasp-java-html-sanitizer:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp-java-html-sanitizer_project:owasp-java-html-sanitizer:42:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp-java-html-sanitizer_project:owasp-java-html-sanitizer:48:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp-java-html-sanitizer_project:owasp-java-html-sanitizer:50:*:*:*:*:*:*:*
+  - cpe:2.3:a:owasp-java-html-sanitizer_project:owasp-java-html-sanitizer:74:*:*:*:*:*:*:*

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libdmx
+  - pkg:deb/ubuntu/libdmx
+  - pkg:github/freedesktop/libdmx
+  - pkg:github/freedesktop/xorg-libdmx
+  - pkg:gitlab/redhat/libdmx
+  - pkg:rpm/centos/libdmx
+  - pkg:rpm/fedora/libdmx
+  - pkg:rpm/opensuse/libdmx

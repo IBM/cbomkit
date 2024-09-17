@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/pdf_info
+  - pkg:github/newspaperclub/pdf_info

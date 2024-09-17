@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/eclipse/birt
+  - pkg:maven/org.eclipse.birt/org.eclipse.birt-parent

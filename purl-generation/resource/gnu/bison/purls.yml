@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/bison
+  - pkg:deb/ubuntu/bison
+  - pkg:github/akimd/bison
+  - pkg:github/distrotech/bison
+  - pkg:github/tsafin/bison
+  - pkg:gitlab/redhat/bison
+  - pkg:gnu/bison
+  - pkg:rpm/centos/bison
+  - pkg:rpm/fedora/bison
+  - pkg:rpm/opensuse/bison

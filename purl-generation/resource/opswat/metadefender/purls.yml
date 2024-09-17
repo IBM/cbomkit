@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/opswat/metadefendercore-centos
+  - pkg:docker/opswat/metadefendercore-debian
+  - pkg:npm/metadefender

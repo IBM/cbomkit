@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/processing-core
+  - pkg:deb/ubuntu/processing-core
+  - pkg:github/processing/processing
+  - pkg:github/processing/processing4
+  - pkg:maven/org.processing/processing-complete
+  - pkg:sourceforge/processing.mirror

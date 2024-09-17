@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:drupal:mayo:7.x-1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:mayo:7.x-1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:mayo:7.x-1.x-dev:*:*:*:*:*:*:*

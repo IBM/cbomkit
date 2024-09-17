@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/kvirc/kvirc
+  - pkg:rpm/fedora/kvirc
+  - pkg:rpm/opensuse/kvirc

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/yomguithereal/baobab
+  - pkg:golang/github.com/yomguithereal/baobab
+  - pkg:maven/org.webjars.bowergithub.yomguithereal/baobab

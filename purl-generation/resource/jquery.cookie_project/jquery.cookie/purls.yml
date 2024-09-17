@@ -1,0 +1,7 @@
+purls:
+  - pkg:github/carhartl/jquery-cookie
+  - pkg:github/js-cookie/js-cookie
+  - pkg:maven/org.webjars.bower/jquery-cookie
+  - pkg:npm/jquery.cookie
+  - pkg:nuget/jquery.cookie
+  - pkg:pypi/js.jquery-cookie

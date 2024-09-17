@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/nekohtml
+  - pkg:deb/ubuntu/nekohtml
+  - pkg:github/roberthschmidt/nekohtml
+  - pkg:github/sparklemotion/nekohtml
+  - pkg:maven/net.sourceforge.nekohtml/nekohtml
+  - pkg:rpm/fedora/nekohtml
+  - pkg:rpm/opensuse/nekohtml
+  - 'pkg:sourceforge/nekohtml '

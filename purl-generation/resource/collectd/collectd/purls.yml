@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/collectd
+  - pkg:deb/ubuntu/collectd
+  - pkg:github/collectd/collectd
+  - pkg:rpm/fedora/collectd
+  - pkg:rpm/opensuse/collectd

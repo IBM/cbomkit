@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/s3ql
+  - pkg:deb/ubuntu/s3ql
+  - pkg:github/s3ql/s3ql

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/dokan-dev/dokany
+  - pkg:nuget/DokanNet
+  - pkg:sourceforge/dokany.mirror

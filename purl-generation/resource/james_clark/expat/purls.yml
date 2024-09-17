@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/libexpat/libexpat
+  - pkg:sourceforge/expat

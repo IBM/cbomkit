@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:everestthemes:everest_news:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:everestthemes:everest_news:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:everestthemes:everest_news:-:*:*:*:*:wordpress:*:*

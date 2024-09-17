@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:colorscore_project:colorscore:0.0.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:colorscore_project:colorscore:0.0.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:colorscore_project:colorscore:0.0.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:colorscore_project:colorscore:0.0.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:colorscore_project:colorscore:0.0.5:*:*:*:*:ruby:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jenkins:codescan:0.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:codescan:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:codescan:-:*:*:*:*:jenkins:*:*

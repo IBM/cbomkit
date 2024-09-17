@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mjmlio/mjml
+  - pkg:maven/org.webjars.npm/mjml
+  - pkg:npm/mjml

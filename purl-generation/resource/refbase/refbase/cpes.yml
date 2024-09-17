@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:refbase:refbase:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:refbase:refbase:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:refbase:refbase:0.6.1:b1:*:*:*:*:*:*
+  - cpe:2.3:a:refbase:refbase:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:refbase:refbase:0.8.0:*:*:*:*:*:*:*

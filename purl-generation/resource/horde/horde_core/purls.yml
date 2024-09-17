@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-core
+  - pkg:deb/ubuntu/php-horde-core
+  - pkg:github/horde/core
+  - pkg:rpm/fedora/php-horde-horde-core

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/py7zr
+  - pkg:deb/ubuntu/py7zr
+  - pkg:github/miurahr/py7zr
+  - pkg:pypi/py7zr
+  - pkg:rpm/opensuse/python-py7zr

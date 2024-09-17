@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/openbgpd
+  - pkg:deb/ubuntu/openbgpd
+  - pkg:docker/openbgpd/openbgpd
+  - pkg:github/openbgpd-portable/openbgpd-portable
+  - pkg:rpm/fedora/openbgpd
+  - pkg:rpm/opensuse/openbgpd

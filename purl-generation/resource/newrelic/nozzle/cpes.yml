@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:newrelic:nozzle:0.8.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:newrelic:nozzle:1.0.4:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:newrelic:nozzle:1.1.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:newrelic:nozzle:1.1.13:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:newrelic:nozzle:1.1.14:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:newrelic:nozzle:1.1.16:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:newrelic:nozzle:1.1.17:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:newrelic:nozzle:-:*:*:*:*:pivotal_cloud_foundry:*:*

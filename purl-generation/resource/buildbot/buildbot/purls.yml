@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/buildbot
+  - pkg:deb/ubuntu/buildbot
+  - pkg:docker/buildbot/buildbot-master
+  - pkg:github/buildbot/buildbot
+  - pkg:pypi/buildbot
+  - pkg:rpm/fedora/buildbot
+  - pkg:sourceforge/buildbot

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/laminas/laminas-http
+  - pkg:rpm/fedora/php-laminas-http

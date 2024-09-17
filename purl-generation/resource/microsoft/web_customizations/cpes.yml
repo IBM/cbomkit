@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:microsoft:web_customizations:0.1:*:*:*:*:active_directory_federation_services:*:*
+  - cpe:2.3:a:microsoft:web_customizations:*:*:*:*:*:active_directory_federation_services:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/golang/go
+  - pkg:golang/go/go
+  - pkg:googlesource/go

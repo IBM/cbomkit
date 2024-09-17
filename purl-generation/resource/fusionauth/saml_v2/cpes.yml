@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:fusionauth:saml_v2:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionauth:saml_v2:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionauth:saml_v2:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionauth:saml_v2:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionauth:saml_v2:0.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionauth:saml_v2:0.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionauth:saml_v2:0.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionauth:saml_v2:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionauth:saml_v2:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionauth:saml_v2:0.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionauth:saml_v2:0.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionauth:saml_v2:0.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionauth:saml_v2:0.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionauth:saml_v2:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionauth:saml_v2:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionauth:saml_v2:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionauth:saml_v2:0.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionauth:saml_v2:0.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionauth:saml_v2:0.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionauth:saml_v2:0.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionauth:saml_v2:0.5.6:*:*:*:*:*:*:*

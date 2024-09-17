@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:icmsdev:icms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:icmsdev:icms:7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:icmsdev:icms:7.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:icmsdev:icms:7.0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:icmsdev:icms:7.0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:icmsdev:icms:7.0.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:icmsdev:icms:7.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:icmsdev:icms:7.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:icmsdev:icms:7.0.9:*:*:*:*:*:*:*

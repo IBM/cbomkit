@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/gooselinux/tog-pegasus
+  - pkg:github/openpegasus/openpegasus
+  - pkg:sourceforge/pegasus

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/fusionauth/fusionauth-jwt
+  - pkg:github/ws-apps/prime-jwt
+  - pkg:maven/com.inversoft/prime-jwt

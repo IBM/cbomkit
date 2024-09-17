@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/phpliteadmin/public
+  - pkg:deb/debian/phpliteadmin
+  - pkg:deb/ubuntu/phpliteadmin
+  - pkg:docker/acttaiwan/phpliteadmin
+  - pkg:github/phpliteadmin/pla

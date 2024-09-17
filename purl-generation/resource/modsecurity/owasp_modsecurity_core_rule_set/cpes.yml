@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:modsecurity:owasp_modsecurity_core_rule_set:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:modsecurity:owasp_modsecurity_core_rule_set:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:modsecurity:owasp_modsecurity_core_rule_set:3.1.0:*:*:*:*:*:*:*

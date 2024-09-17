@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:openfiler:openfiler:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openfiler:openfiler:2.99:*:*:*:*:*:*:*
+  - cpe:2.3:a:openfiler:openfiler:2.99.1:*:*:*:*:*:*:*

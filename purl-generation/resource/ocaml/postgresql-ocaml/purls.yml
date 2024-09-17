@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mmottl/postgresql-ocaml
+  - pkg:gitlab/redhat/ocaml
+  - pkg:rpm/fedora/ocaml

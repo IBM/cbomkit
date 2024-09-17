@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:ivan_kartolo:direct_mail:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ivan_kartolo:direct_mail:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ivan_kartolo:direct_mail:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ivan_kartolo:direct_mail:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ivan_kartolo:direct_mail:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ivan_kartolo:direct_mail:2.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ivan_kartolo:direct_mail:2.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ivan_kartolo:direct_mail:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ivan_kartolo:direct_mail:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ivan_kartolo:direct_mail:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ivan_kartolo:direct_mail:2.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ivan_kartolo:direct_mail:2.6.3:*:*:*:*:*:*:*

@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:jenkins:twitter:0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:twitter:0.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:twitter:0.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:twitter:0.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:twitter:0.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:twitter:0.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:twitter:0.7:*:*:*:*:jenkins:*:*

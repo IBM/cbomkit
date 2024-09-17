@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:portaudio-rs_project:portaudio-rs:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:portaudio-rs_project:portaudio-rs:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:portaudio-rs_project:portaudio-rs:0.3.1:*:*:*:*:*:*:*

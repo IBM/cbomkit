@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:mozilla:firefox_mobile:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:10.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:10.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:10.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:10.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:4.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:4.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:4.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:4.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:6.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:6.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mozilla:firefox_mobile:9.0:*:*:*:*:*:*:*

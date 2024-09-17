@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/vsviridov/mootools-node
+  - pkg:npm/mootools

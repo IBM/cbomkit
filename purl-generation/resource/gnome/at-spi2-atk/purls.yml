@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/at-spi2-atk
+  - pkg:deb/ubuntu/at-spi2-atk
+  - pkg:github/gnome/at-spi2-atk
+  - pkg:gitlab/redhat/at-spi2-atk
+  - pkg:rpm/centos/at-spi2-atk
+  - pkg:rpm/fedora/at-spi2-atk
+  - pkg:rpm/opensuse/at-spi2-atk

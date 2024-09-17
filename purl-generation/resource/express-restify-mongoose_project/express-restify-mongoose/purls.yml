@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/florianholzapfel/express-restify-mongoose
+  - pkg:npm/express-restify-mongoose

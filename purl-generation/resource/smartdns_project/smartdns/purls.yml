@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/smartdns
+  - pkg:deb/ubuntu/smartdns
+  - pkg:docker/ghostry/smartdns
+  - pkg:github/pymumu/smartdns
+  - pkg:golang/github.com/pymumu/smartdns
+  - pkg:rpm/opensuse/smartdns
+  - pkg:sourceforge/smartdns.mirror

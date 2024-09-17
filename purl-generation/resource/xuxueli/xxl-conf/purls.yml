@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/xuxueli/xxl-conf-admin
+  - pkg:github/xuxueli/xxl-conf
+  - pkg:maven/com.xuxueli/xxl-conf

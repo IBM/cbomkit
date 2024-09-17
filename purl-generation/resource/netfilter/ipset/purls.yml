@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/ipset
+  - pkg:deb/ubuntu/ipset
+  - pkg:github/olipro/ipset
+  - pkg:github/serhepopovych/ipset
+  - pkg:github/vel21ripn/ipset
+  - pkg:gitlab/redhat/ipset
+  - pkg:rpm/centos/ipset
+  - pkg:rpm/fedora/ipset
+  - pkg:rpm/opensuse/ipset

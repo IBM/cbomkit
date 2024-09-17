@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:phpcollab:phpcollab:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcollab:phpcollab:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcollab:phpcollab:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcollab:phpcollab:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcollab:phpcollab:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcollab:phpcollab:2.5:beta_4:*:*:*:*:*:*
+  - cpe:2.3:a:phpcollab:phpcollab:2.5:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:phpcollab:phpcollab:2.5:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:phpcollab:phpcollab:2.5.rc3:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcollab:phpcollab:2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcollab:phpcollab:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcollab:phpcollab:2.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcollab:phpcollab:2.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcollab:phpcollab:2.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcollab:phpcollab:*:rc3:*:*:*:*:*:*

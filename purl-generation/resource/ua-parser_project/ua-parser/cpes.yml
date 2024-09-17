@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:ua-parser_project:ua-parser:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ua-parser_project:ua-parser:0.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ua-parser_project:ua-parser:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ua-parser_project:ua-parser:0.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ua-parser_project:ua-parser:0.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ua-parser_project:ua-parser:0.2.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ua-parser_project:ua-parser:0.2.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ua-parser_project:ua-parser:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ua-parser_project:ua-parser:0.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ua-parser_project:ua-parser:0.3.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ua-parser_project:ua-parser:0.3.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ua-parser_project:ua-parser:0.3.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ua-parser_project:ua-parser:0.3.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ua-parser_project:ua-parser:0.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ua-parser_project:ua-parser:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ua-parser_project:ua-parser:*:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ua-parser_project:ua-parser:-:*:*:*:*:node.js:*:*

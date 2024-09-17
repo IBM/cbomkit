@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:netfilter:libnfnetlink:0.0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnfnetlink:0.0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnfnetlink:0.0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnfnetlink:0.0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnfnetlink:0.0.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnfnetlink:0.0.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnfnetlink:0.0.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnfnetlink:0.0.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnfnetlink:0.0.38:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnfnetlink:0.0.39:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnfnetlink:0.0.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnfnetlink:0.0.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnfnetlink:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:netfilter:libnfnetlink:1.0.1:*:*:*:*:*:*:*

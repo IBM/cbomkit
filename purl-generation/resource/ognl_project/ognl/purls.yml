@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/commons-ognl
+  - pkg:deb/debian/ognl
+  - pkg:deb/ubuntu/ognl
+  - pkg:github/jkuhnert/ognl
+  - pkg:maven/ognl/ognl
+  - pkg:rpm/opensuse/apache-commons-ognl

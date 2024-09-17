@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/dorftv/codem-transcode
+  - pkg:github/madebyhiro/codem-transcode
+  - pkg:npm/codem-transcode

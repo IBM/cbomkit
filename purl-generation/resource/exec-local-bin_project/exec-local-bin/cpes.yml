@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:exec-local-bin_project:exec-local-bin:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:exec-local-bin_project:exec-local-bin:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exec-local-bin_project:exec-local-bin:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exec-local-bin_project:exec-local-bin:1.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exec-local-bin_project:exec-local-bin:1.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exec-local-bin_project:exec-local-bin:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exec-local-bin_project:exec-local-bin:1.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:exec-local-bin_project:exec-local-bin:-:*:*:*:*:node.js:*:*

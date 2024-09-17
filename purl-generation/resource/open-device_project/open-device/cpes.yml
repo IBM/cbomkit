@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:open-device_project:open-device:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:open-device_project:open-device:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:open-device_project:open-device:4.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:open-device_project:open-device:4.0.1:*:*:*:*:node.js:*:*

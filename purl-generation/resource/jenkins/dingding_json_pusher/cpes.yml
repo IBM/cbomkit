@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:jenkins:dingding_json_pusher:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingding_json_pusher:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingding_json_pusher:1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingding_json_pusher:2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingding_json_pusher:*:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dingding_json_pusher:-:*:*:*:*:jenkins:*:*

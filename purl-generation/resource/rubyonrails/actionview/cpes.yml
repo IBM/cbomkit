@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:rubyonrails:actionview:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:rubyonrails:actionview:5.2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rubyonrails:actionview:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rubyonrails:actionview:6.0.2.2:*:*:*:*:*:*:*

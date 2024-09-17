@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/sling
+  - pkg:docker/apache/sling
+  - pkg:maven/org.apache.sling/sling

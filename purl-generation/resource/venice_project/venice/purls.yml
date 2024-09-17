@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jlangch/venice
+  - pkg:maven/com.github.jlangch/venice

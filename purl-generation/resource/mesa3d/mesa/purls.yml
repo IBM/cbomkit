@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/mesa
+  - pkg:deb/ubuntu/mesa
+  - pkg:github/anholt/mesa
+  - pkg:github/mesa3d/mesa
+  - pkg:gitlab/cleveron-mobility/mesa
+  - pkg:rpm/fedora/mesa
+  - pkg:rpm/opensuse/mesa
+  - pkg:sourceforge/mesa

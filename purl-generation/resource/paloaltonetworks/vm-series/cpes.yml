@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:paloaltonetworks:vm-series:1.0.8:*:*:*:*:azure:*:*
+  - cpe:2.3:a:paloaltonetworks:vm-series:1.0.9:*:*:*:*:azure:*:*
+  - cpe:2.3:a:paloaltonetworks:vm-series:1.0:*:*:*:*:azure:*:*

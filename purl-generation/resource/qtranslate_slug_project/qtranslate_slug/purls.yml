@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/logicalway/qtranslate-slug
+  - pkg:github/not-only-code/qtranslate-slug
+  - pkg:github/wp-plugins/qtranslate-slug

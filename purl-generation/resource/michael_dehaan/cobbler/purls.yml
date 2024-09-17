@@ -1,0 +1,7 @@
+purls:
+  - pkg:github/cobbler/cobbler
+  - pkg:gitlab/redhat/cobbler
+  - pkg:pypi/cobbler
+  - pkg:rpm/fedora/cobbler
+  - pkg:rpm/opensuse/cobbler
+  - pkg:sourceforge/cobbler.mirror

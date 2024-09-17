@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:fastxml:jackson-databind:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:fastxml:jackson-databind:2.13.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:fastxml:jackson-databind:2.13.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:fastxml:jackson-databind:2.13.0:rc2:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/divshot/slashify
+  - pkg:github/tag-epic/slashify
+  - pkg:npm/slashify

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:linuxfoundation:opentelemetry-go_contrib:0.38.0:*:*:*:*:opentelemetry-go:*:*
+  - cpe:2.3:a:linuxfoundation:opentelemetry-go_contrib:*:*:*:*:*:opentelemetry-go:*:*

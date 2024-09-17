@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:getgophish:gophish:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgophish:gophish:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgophish:gophish:0.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgophish:gophish:0.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgophish:gophish:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgophish:gophish:0.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgophish:gophish:0.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgophish:gophish:0.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgophish:gophish:0.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgophish:gophish:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgophish:gophish:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgophish:gophish:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgophish:gophish:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgophish:gophish:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgophish:gophish:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgophish:gophish:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgophish:gophish:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getgophish:gophish:0.9.0:*:*:*:*:*:*:*

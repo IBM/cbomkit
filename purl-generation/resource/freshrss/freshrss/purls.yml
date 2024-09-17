@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/freshrss/freshrss
+  - pkg:github/freshrss/freshrss

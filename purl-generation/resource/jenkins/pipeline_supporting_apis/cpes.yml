@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:jenkins:pipeline_supporting_apis:2.15:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_supporting_apis:2.16:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_supporting_apis:2.17:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_supporting_apis:838.va_3a_087b_4055b:*:*:*:*:jenkins:*:*

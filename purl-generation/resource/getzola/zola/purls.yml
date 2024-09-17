@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/getzola/zola
+  - pkg:rpm/opensuse/zola

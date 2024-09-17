@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:hotels:styx:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hotels:styx:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:hotels:styx:0.7.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:hotels:styx:0.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:hotels:styx:0.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:hotels:styx:0.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:hotels:styx:0.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:hotels:styx:0.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:hotels:styx:0.7.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:hotels:styx:0.7.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:hotels:styx:1.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:hotels:styx:1.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:hotels:styx:1.0.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:hotels:styx:1.0.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:hotels:styx:1.0.0:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:hotels:styx:1.0.0:beta6:*:*:*:*:*:*
+  - cpe:2.3:a:hotels:styx:1.0.0:beta7:*:*:*:*:*:*
+  - cpe:2.3:a:hotels:styx:1.0.0:beta8:*:*:*:*:*:*
+  - cpe:2.3:a:hotels:styx:1.0.0:beta9:*:*:*:*:*:*
+  - cpe:2.3:a:hotels:styx:1.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:hotels:styx:1.0.0:rc2:*:*:*:*:*:*

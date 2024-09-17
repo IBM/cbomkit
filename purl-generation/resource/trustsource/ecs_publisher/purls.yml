@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/eacg-gmbh/ts-jenkins
+  - pkg:github/jenkinsci/ecs-publisher-plugin

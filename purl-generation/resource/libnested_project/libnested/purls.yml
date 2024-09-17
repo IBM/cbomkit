@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dominictarr/libnested
+  - pkg:npm/libnested

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/uhexen2
+  - pkg:deb/ubuntu/uhexen2
+  - pkg:github/sezero/uhexen2
+  - pkg:sourceforge/uhexen2

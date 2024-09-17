@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/firehol
+  - pkg:deb/ubuntu/firehol
+  - pkg:github/firehol/firehol
+  - pkg:rpm/opensuse/firehol
+  - pkg:sourceforge/firehol

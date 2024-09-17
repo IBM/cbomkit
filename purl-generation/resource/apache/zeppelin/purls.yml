@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/zeppelin
+  - pkg:docker/apache/zeppelin
+  - pkg:github/apache/zeppelin
+  - pkg:maven/org.apache.zeppelin/zeppelin

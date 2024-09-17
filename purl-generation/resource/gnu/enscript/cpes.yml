@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:gnu:enscript:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:enscript:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:enscript:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:enscript:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:enscript:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:enscript:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:enscript:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:enscript:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:enscript:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:enscript:1.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:enscript:1.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:enscript:1.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:enscript:1.6.4:beta:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:enscript:1.6.4_beta:*:*:*:*:*:*:*

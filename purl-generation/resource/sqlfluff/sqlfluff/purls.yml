@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/sqlfluff
+  - pkg:deb/ubuntu/sqlfluff
+  - pkg:github/sqlfluff/sqlfluff
+  - pkg:pypi/sqlfluff

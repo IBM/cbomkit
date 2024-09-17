@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/firegento/magento
+  - pkg:magento/project-community-edition

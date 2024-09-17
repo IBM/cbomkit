@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:libp2p:go-libp2p:0.28.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:libp2p:go-libp2p:0.29.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:libp2p:go-libp2p:0.29.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:libp2p:go-libp2p:*:*:*:*:*:go:*:*

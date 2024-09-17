@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/avahi
+  - pkg:deb/ubuntu/avahi
+  - pkg:github/lathiat/avahi
+  - pkg:gitlab/redhat/avahi
+  - pkg:rpm/centos/avahi
+  - pkg:rpm/fedora/avahi
+  - pkg:rpm/opensuse/avahi

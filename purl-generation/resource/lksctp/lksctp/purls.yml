@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/lksctp-tools
+  - pkg:deb/ubuntu/lksctp-tools
+  - pkg:github/sctp/lksctp-tools
+  - pkg:gnome/lksctp-tools
+  - pkg:rpm/fedora/lksctp-tools
+  - pkg:rpm/opensuse/lksctp-tools

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sandy98/node-simple-router
+  - pkg:npm/node-simple-router

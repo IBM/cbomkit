@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/google/gvisor
+  - pkg:rpm/fedora/golang-gvisor

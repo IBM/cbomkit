@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:rencode_project:rencode:1.0.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:rencode_project:rencode:1.0.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:rencode_project:rencode:1.0.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:rencode_project:rencode:1.0.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:rencode_project:rencode:1.0:*:*:*:*:python:*:*

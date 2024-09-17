@@ -1,0 +1,7 @@
+purls:
+  - pkg:github/socketio/engine.io-client
+  - pkg:gitlab/redhat/keycloak-httpd-client-install
+  - pkg:pypi/keycloak-httpd-client-install
+  - pkg:rpm/centos/keycloak-httpd-client-install
+  - pkg:rpm/fedora/augeas/keycloak-httpd-client-install
+  - pkg:rpm/opensuse/keycloak-httpd-client-install

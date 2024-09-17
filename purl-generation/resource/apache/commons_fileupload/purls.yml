@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/commons
+  - pkg:deb/debian/libcommons-fileupload-java
+  - pkg:deb/ubuntu/libcommons-fileupload-java
+  - pkg:github/apache/commons-fileupload
+  - pkg:rpm/fedora/apache-commons-fileupload
+  - pkg:rpm/opensuse/apache-commons-fileupload

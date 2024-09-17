@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/chbrown/rfc6902
+  - pkg:npm/rfc6902

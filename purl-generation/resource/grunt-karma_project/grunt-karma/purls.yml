@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/karma-runner/grunt-karma
+  - pkg:maven/org.webjars.npm/grunt-karma
+  - pkg:npm/grunt-karma

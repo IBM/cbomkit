@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/monica
+  - pkg:github/monicahq/monica

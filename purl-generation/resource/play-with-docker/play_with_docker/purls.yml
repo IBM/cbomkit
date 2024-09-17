@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/play-with-docker/play-with-docker
+  - pkg:golang/github.com/play-with-docker/play-with-docker

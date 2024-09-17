@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/chrony
+  - pkg:deb/ubuntu/chrony
+  - pkg:github/mlichvar/chrony
+  - pkg:github/rfairley/chrony
+  - pkg:github/wl4g-collect/chrony
+  - pkg:gitlab/redhat/chrony
+  - pkg:rpm/centos/chrony
+  - pkg:rpm/fedora/chrony
+  - pkg:rpm/opensuse/chrony

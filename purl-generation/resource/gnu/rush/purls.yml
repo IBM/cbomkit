@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/rush
+  - pkg:deb/ubuntu/rush
+  - pkg:github/gitgnu/gnu_rush
+  - pkg:github/gnu-mirror-unofficial/rush
+  - pkg:gnu/rush
+  - pkg:rpm/opensuse/rush

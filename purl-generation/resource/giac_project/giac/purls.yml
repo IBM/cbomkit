@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/giac
+  - pkg:deb/ubuntu/giac
+  - pkg:github/dmaugis/giac
+  - pkg:github/geogebra/giac
+  - pkg:rpm/fedora/giac
+  - pkg:rpm/opensuse/giac
+  - pkg:sourceforge/xcas

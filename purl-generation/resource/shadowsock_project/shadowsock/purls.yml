@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/npm/security-holder
+  - pkg:npm/shadowsock

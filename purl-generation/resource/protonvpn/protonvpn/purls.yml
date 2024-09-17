@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/tprasadtp/protonvpn
+  - pkg:github/protonvpn/android-app
+  - pkg:github/protonvpn/ios-app
+  - pkg:github/protonvpn/mac-app
+  - pkg:github/tprasadtp/protonvpn-docker

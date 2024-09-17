@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/quarkusio/quarkus-security
+  - pkg:maven/io.quarkus/quarkus-security

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:twofactorauth_project:twofactorauth:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:twofactorauth_project:twofactorauth:-:*:*:*:*:*:*:*

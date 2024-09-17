@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gerhobbelt/xmail
+  - pkg:rpm/opensuse/xmail

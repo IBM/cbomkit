@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:npm-dependency-versions_project:npm-dependency-versions:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:npm-dependency-versions_project:npm-dependency-versions:0.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:npm-dependency-versions_project:npm-dependency-versions:0.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:npm-dependency-versions_project:npm-dependency-versions:0.1.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:npm-dependency-versions_project:npm-dependency-versions:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:npm-dependency-versions_project:npm-dependency-versions:0.3.0:*:*:*:*:node.js:*:*

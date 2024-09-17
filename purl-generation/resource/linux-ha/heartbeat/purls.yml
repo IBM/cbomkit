@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/heartbeat
+  - pkg:deb/ubuntu/heartbeat
+  - pkg:github/sipwise/heartbeat

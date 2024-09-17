@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:mattias_hutterer:taxonomy_manager:5.x-1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattias_hutterer:taxonomy_manager:5.x-1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattias_hutterer:taxonomy_manager:5.x-1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattias_hutterer:taxonomy_manager:5.x-1.x-dev:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattias_hutterer:taxonomy_manager:6.x-2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattias_hutterer:taxonomy_manager:6.x-2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattias_hutterer:taxonomy_manager:6.x-2.x:dev:*:*:*:*:*:*
+  - cpe:2.3:a:mattias_hutterer:taxonomy_manager:7.x-1.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:mattias_hutterer:taxonomy_manager:7.x-1.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:mattias_hutterer:taxonomy_manager:7.x-1.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:mattias_hutterer:taxonomy_manager:7.x-1.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:mattias_hutterer:taxonomy_manager:7.x-1.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:mattias_hutterer:taxonomy_manager:7.x-1.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:mattias_hutterer:taxonomy_manager:7.x-1.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:mattias_hutterer:taxonomy_manager:7.x-1.x:dev:*:*:*:*:*:*

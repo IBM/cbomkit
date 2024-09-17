@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/gnome-system-log
+  - pkg:deb/ubuntu/gnome-system-log
+  - pkg:rpm/fedora/gnome-system-log
+  - pkg:rpm/opensuse/gnome-system-log

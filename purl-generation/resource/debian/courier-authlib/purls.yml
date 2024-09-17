@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/courier-authlib
+  - pkg:deb/ubuntu/courier-authlib
+  - pkg:github/pld-linux/courier-authlib
+  - pkg:rpm/opensuse/courier-authlib

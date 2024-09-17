@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/samtools/htsjdk
+  - pkg:maven/com.github.samtools/htsjdk

@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:vladtheenterprising_project:vladtheenterprising:0.1.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:vladtheenterprising_project:vladtheenterprising:0.1.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:vladtheenterprising_project:vladtheenterprising:0.1.6:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:vladtheenterprising_project:vladtheenterprising:0.1.7:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:vladtheenterprising_project:vladtheenterprising:0.1.8:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:vladtheenterprising_project:vladtheenterprising:0.2.0:*:*:*:*:ruby:*:*

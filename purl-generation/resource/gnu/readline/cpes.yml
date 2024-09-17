@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:gnu:readline:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:readline:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:readline:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:readline:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:readline:4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:readline:4.2:a:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:readline:4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:readline:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:readline:5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:readline:5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:readline:6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:readline:6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:readline:6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:readline:6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:readline:6.3:3:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:readline:7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:readline:8.0:*:*:*:*:*:*:*

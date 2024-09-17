@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/mate-screensaver
+  - pkg:deb/ubuntu/mate-screensaver
+  - pkg:github/mate-desktop/mate-screensaver
+  - pkg:rpm/fedora/mate-screensaver
+  - pkg:rpm/opensuse/mate-screensaver

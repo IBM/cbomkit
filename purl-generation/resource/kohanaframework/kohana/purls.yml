@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kohana/core
+  - pkg:github/kohana/kohana

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/antiword
+  - pkg:deb/ubuntu/antiword
+  - pkg:rpm/fedora/antiword
+  - pkg:rpm/opensuse/antiword

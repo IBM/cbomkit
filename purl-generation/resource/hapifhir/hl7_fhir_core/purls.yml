@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/hapifhir/org.hl7.fhir.core
+  - pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.core

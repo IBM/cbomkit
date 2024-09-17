@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:jenkins:octopusdeploy:1.3.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:octopusdeploy:1.3.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:octopusdeploy:1.4.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:octopusdeploy:1.5.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:octopusdeploy:1.6.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:octopusdeploy:1.7.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:octopusdeploy:1.8.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:octopusdeploy:1.8.1:*:*:*:*:jenkins:*:*

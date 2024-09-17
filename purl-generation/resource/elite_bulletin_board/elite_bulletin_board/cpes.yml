@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:elite_bulletin_board:elite_bulletin_board:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:elite_bulletin_board:elite_bulletin_board:1.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:elite_bulletin_board:elite_bulletin_board:1.0.9:*:*:*:*:*:*:*

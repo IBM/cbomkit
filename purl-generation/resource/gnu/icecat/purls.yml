@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/eyedeekay/gnuzilla
+  - pkg:github/gnu-mirror-unofficial/gnuzilla
+  - pkg:gnu/gnuzilla

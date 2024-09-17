@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:simplexrd_project:simplexrd:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplexrd_project:simplexrd:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplexrd_project:simplexrd:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplexrd_project:simplexrd:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplexrd_project:simplexrd:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplexrd_project:simplexrd:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplexrd_project:simplexrd:3.1:*:*:*:*:*:*:*

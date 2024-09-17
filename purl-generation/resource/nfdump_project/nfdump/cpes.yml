@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:nfdump_project:nfdump:1.6.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:nfdump_project:nfdump:1.6.14:-:*:*:*:*:*:*
+  - cpe:2.3:a:nfdump_project:nfdump:1.6.14:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:nfdump_project:nfdump:1.6.14:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:nfdump_project:nfdump:1.6.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:nfdump_project:nfdump:1.6.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:nfdump_project:nfdump:1.6.17:*:*:*:*:*:*:*

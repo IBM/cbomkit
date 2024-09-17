@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/python-jwcrypto
+  - pkg:deb/ubuntu/python-jwcrypto
+  - pkg:github/latchset/jwcrypto
+  - pkg:gitlab/python-jwcrypto
+  - pkg:pypi/jwcrypto
+  - pkg:rpm/centos/python-jwcrypto
+  - pkg:rpm/fedora/python-jwcrypto
+  - pkg:rpm/opensuse/python-jwcrypto

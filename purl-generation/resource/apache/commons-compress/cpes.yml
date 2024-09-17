@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:apache:commons-compress:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons-compress:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons-compress:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons-compress:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons-compress:1.3:*:*:*:*:*:*:*

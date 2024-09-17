@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:dot-prop_project:dot-prop:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-prop_project:dot-prop:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-prop_project:dot-prop:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-prop_project:dot-prop:2.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-prop_project:dot-prop:2.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-prop_project:dot-prop:2.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-prop_project:dot-prop:2.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-prop_project:dot-prop:3.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-prop_project:dot-prop:4.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-prop_project:dot-prop:4.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-prop_project:dot-prop:4.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-prop_project:dot-prop:4.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-prop_project:dot-prop:5.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-prop_project:dot-prop:5.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-prop_project:dot-prop:5.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-prop_project:dot-prop:5.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-prop_project:dot-prop:5.2.0:*:*:*:*:node.js:*:*

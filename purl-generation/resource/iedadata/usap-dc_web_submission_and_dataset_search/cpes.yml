@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:iedadata:usap-dc_web_submission_and_dataset_search:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:iedadata:usap-dc_web_submission_and_dataset_search:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:iedadata:usap-dc_web_submission_and_dataset_search:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:iedadata:usap-dc_web_submission_and_dataset_search:1.1:*:*:*:*:*:*:*

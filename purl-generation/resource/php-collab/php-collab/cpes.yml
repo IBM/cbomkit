@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:php-collab:php-collab:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-collab:php-collab:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-collab:php-collab:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:php-collab:php-collab:*:rc3:*:*:*:*:*:*

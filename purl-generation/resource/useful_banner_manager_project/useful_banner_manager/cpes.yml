@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:useful_banner_manager_project:useful_banner_manager:1.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:useful_banner_manager_project:useful_banner_manager:-:*:*:*:*:wordpress:*:*

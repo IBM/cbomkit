@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/ubuntu/ubuntu-image
+  - pkg:github/canonical/ubuntu-image-legacy

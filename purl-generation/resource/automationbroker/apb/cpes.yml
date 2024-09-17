@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:automationbroker:apb:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:automationbroker:apb:1.9.1-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:automationbroker:apb:1.9.2-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:automationbroker:apb:1.9.3-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:automationbroker:apb:1.9.4-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:automationbroker:apb:1.9.5-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:automationbroker:apb:1.9.6-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:automationbroker:apb:1.9.7-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:automationbroker:apb:1.9.8-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:automationbroker:apb:2.0.1-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:automationbroker:apb:2.0.2-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:automationbroker:apb:2.0.3-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:automationbroker:apb:2.0.4-1:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/batocera-linux/mali-bifrost
+  - pkg:github/johnbergago/mali_bifrost_gpu_kernel_drivers
+  - pkg:github/libreelec/mali-bifrost

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/spring-projects/spring-kafka
+  - pkg:maven/org.springframework.kafka/spring-kafka

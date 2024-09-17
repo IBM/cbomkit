@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/posthog/posthog
+  - pkg:github/posthog/posthog

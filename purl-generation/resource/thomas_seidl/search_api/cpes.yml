@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:thomas_seidl:search_api:7.x-1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:thomas_seidl:search_api:7.x-1.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:thomas_seidl:search_api:7.x-1.0:beta10:*:*:*:*:*:*
+  - cpe:2.3:a:thomas_seidl:search_api:7.x-1.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:thomas_seidl:search_api:7.x-1.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:thomas_seidl:search_api:7.x-1.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:thomas_seidl:search_api:7.x-1.0:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:thomas_seidl:search_api:7.x-1.0:beta6:*:*:*:*:*:*
+  - cpe:2.3:a:thomas_seidl:search_api:7.x-1.0:beta7:*:*:*:*:*:*
+  - cpe:2.3:a:thomas_seidl:search_api:7.x-1.0:beta8:*:*:*:*:*:*
+  - cpe:2.3:a:thomas_seidl:search_api:7.x-1.0:beta9:*:*:*:*:*:*
+  - cpe:2.3:a:thomas_seidl:search_api:7.x-1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:thomas_seidl:search_api:7.x-1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:thomas_seidl:search_api:7.x-1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:thomas_seidl:search_api:7.x-1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:thomas_seidl:search_api:7.x-1.x:dev:*:*:*:*:*:*

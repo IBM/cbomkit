@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/manctl/quazip
+  - pkg:deb/debian/libquazip
+  - pkg:deb/ubuntu/libquazip
+  - pkg:github/stachenov/quazip
+  - pkg:rpm/fedora/quazip
+  - pkg:rpm/opensuse/quazip
+  - pkg:sourceforge/quazip

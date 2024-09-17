@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/adobe/ops-cli
+  - pkg:github/adobe/ops-cli
+  - pkg:pypi/ops-cli

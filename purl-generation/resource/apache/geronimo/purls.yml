@@ -1,0 +1,9 @@
+purls:
+  - pkg:apache/geronimo
+  - pkg:cpan/geronimo
+  - pkg:deb/debian/geronimo-concurrent-1.0-spec
+  - pkg:deb/ubuntu/geronimo-concurrent-1.0-spec
+  - pkg:github/apache/geronimo
+  - pkg:maven/geronimo/geronimo
+  - pkg:maven/geronimo/geronimo-core
+  - pkg:maven/org.apache.geronimo/geronimo

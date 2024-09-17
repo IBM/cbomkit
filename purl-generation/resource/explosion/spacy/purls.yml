@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/explosion/spacy
+  - pkg:pypi/spacy
+  - pkg:sourceforge/spacy.mirror

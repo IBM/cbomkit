@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/neverware-mirrors/nspr
+  - pkg:github/servo/nspr
+  - pkg:gitlab/redhat/nspr
+  - pkg:rpm/centos/nspr
+  - pkg:rpm/opensuse/nspr

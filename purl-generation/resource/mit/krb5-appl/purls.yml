@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/krb5/krb5-appl
+  - pkg:rpm/opensuse/krb5-appl

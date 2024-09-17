@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/wjdavis5/truecrypt
+  - pkg:github/fauxfaux/truecrypt
+  - pkg:github/freeapophis/truecrypt
+  - pkg:gitlab/kalilinux/truecrypt
+  - pkg:sourceforge/truecrypt

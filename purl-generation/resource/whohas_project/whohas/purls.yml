@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/whohas/whohas
+  - pkg:golang/github.com/whohas/whohas

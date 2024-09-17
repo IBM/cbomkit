@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/armmbed/mbed-os
+  - pkg:sourceforge/arm-mbed-os.mirror

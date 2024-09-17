@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:claymore_dual_miner_project:claymore_dual_miner:10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:claymore_dual_miner_project:claymore_dual_miner:10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:claymore_dual_miner_project:claymore_dual_miner:10.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:claymore_dual_miner_project:claymore_dual_miner:11.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:claymore_dual_miner_project:claymore_dual_miner:12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:claymore_dual_miner_project:claymore_dual_miner:7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:claymore_dual_miner_project:claymore_dual_miner:8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:claymore_dual_miner_project:claymore_dual_miner:8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:claymore_dual_miner_project:claymore_dual_miner:9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:claymore_dual_miner_project:claymore_dual_miner:9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:claymore_dual_miner_project:claymore_dual_miner:9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:claymore_dual_miner_project:claymore_dual_miner:9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:claymore_dual_miner_project:claymore_dual_miner:9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:claymore_dual_miner_project:claymore_dual_miner:9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:claymore_dual_miner_project:claymore_dual_miner:9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:claymore_dual_miner_project:claymore_dual_miner:9.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:claymore_dual_miner_project:claymore_dual_miner:9.8:*:*:*:*:*:*:*

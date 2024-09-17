@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-tar
+  - pkg:deb/ubuntu/node-tar
+  - pkg:github/npm/node-tar
+  - pkg:maven/org.webjars.npm/tar
+  - pkg:npm/tar

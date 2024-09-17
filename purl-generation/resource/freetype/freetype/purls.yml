@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/freetype/freetype
+  - pkg:gnu/freetype
+  - pkg:rpm/fedora/freetype

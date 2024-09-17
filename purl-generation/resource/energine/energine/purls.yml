@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/energine-cmf/energine
+  - pkg:github/energine-cmf/energine
+  - pkg:sourceforge/energine

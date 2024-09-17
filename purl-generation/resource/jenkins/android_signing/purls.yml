@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bignerdranch/jenkins-android-signing
+  - pkg:github/jenkinsci/android-signing-plugin
+  - pkg:github/restjohn/jenkins-android-signing-plugin

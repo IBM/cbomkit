@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:typofr_project:typofr:0.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:typofr_project:typofr:-:*:*:*:*:wordpress:*:*

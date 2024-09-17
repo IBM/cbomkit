@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-markdown-it
+  - pkg:deb/ubuntu/node-markdown-it
+  - pkg:github/markdown-it/markdown-it
+  - pkg:maven/org.webjars.npm/markdown-it
+  - pkg:npm/markdown-it

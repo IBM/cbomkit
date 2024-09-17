@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/ntpsec/ntpsec
+  - pkg:deb/debian/ntpsec
+  - pkg:deb/ubuntu/ntpsec
+  - pkg:github/ntpsec/ntpsec
+  - pkg:rpm/fedora/ntpsec
+  - pkg:rpm/opensuse/ntpsec

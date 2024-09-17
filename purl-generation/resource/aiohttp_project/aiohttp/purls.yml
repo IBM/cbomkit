@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-aiohttp
+  - pkg:deb/ubuntu/python-aiohttp
+  - pkg:github/aio-libs/aiohttp
+  - pkg:pypi/aiohttp
+  - pkg:rpm/fedora/python-aiohttp
+  - pkg:rpm/opensuse/python-aiohttp

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:keycloak:keycloak:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:keycloak:keycloak:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:keycloak:keycloak:-:*:*:*:*:oauth:*:*

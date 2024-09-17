@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/menu-cache
+  - pkg:deb/ubuntu/menu-cache
+  - pkg:github/lxde/menu-cache
+  - pkg:rpm/fedora/menu-cache
+  - pkg:rpm/opensuse/menu-cache

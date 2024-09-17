@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/confuse
+  - pkg:deb/ubuntu/confuse
+  - pkg:github/martinh/libconfuse
+  - pkg:gnu/confuse
+  - pkg:rpm/fedora/libconfuse
+  - pkg:rpm/opensuse/libconfuse

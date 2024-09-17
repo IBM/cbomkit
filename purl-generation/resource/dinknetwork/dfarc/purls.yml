@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/freedink-dfarc
+  - pkg:deb/ubuntu/freedink-dfarc
+  - pkg:gnu/freedink
+  - pkg:rpm/fedora/freedink-dfarc
+  - pkg:rpm/opensuse/freedink-dfarc

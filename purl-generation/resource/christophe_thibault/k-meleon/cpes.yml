@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:christophe_thibault:k-meleon:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:christophe_thibault:k-meleon:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:christophe_thibault:k-meleon:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:christophe_thibault:k-meleon:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:christophe_thibault:k-meleon:1.5.3:*:*:*:*:*:*:*

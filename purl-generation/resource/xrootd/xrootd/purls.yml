@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/xrootd
+  - pkg:deb/ubuntu/xrootd
+  - pkg:github/xrootd/xrootd
+  - pkg:rpm/fedora/xrootd
+  - pkg:rpm/opensuse/xrootd

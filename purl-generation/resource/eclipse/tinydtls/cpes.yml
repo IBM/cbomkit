@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:eclipse:tinydtls:0.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:tinydtls:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:tinydtls:0.9:rc1:*:*:*:*:*:*

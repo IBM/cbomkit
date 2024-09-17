@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:open_tftp_server_project:open_tftp_server:1.64:*:*:*:mt:*:*:*
+  - cpe:2.3:a:open_tftp_server_project:open_tftp_server:1.64:*:*:*:sp:*:*:*
+  - cpe:2.3:a:open_tftp_server_project:open_tftp_server:1.65:*:*:*:mt:*:*:*
+  - cpe:2.3:a:open_tftp_server_project:open_tftp_server:1.66:*:*:*:mt:*:*:*
+  - cpe:2.3:a:open_tftp_server_project:open_tftp_server:1.66:*:*:*:sp:*:*:*
+  - cpe:2.3:a:open_tftp_server_project:open_tftp_server:-:*:*:*:mt:*:*:*
+  - cpe:2.3:a:open_tftp_server_project:open_tftp_server:-:*:*:*:sp:*:*:*

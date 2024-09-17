@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rbenv
+  - pkg:deb/ubuntu/rbenv
+  - pkg:github/rbenv/rbenv
+  - pkg:rpm/opensuse/rbenv
+  - pkg:sourceforge/rbenv.mirror

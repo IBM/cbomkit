@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/galkahana/hummusjs
+  - pkg:npm/hummus

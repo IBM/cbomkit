@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/slixmpp
+  - pkg:deb/ubuntu/slixmpp
+  - pkg:github/poezio/slixmpp
+  - pkg:pypi/slixmpp
+  - pkg:rpm/fedora/python-slixmpp
+  - pkg:rpm/opensuse/python-slixmpp

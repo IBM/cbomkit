@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/gjots2
+  - pkg:deb/ubuntu/gjots2
+  - pkg:github/leggewie-dm/gjots2
+  - pkg:rpm/fedora/gjots2
+  - pkg:sourceforge/gjots2

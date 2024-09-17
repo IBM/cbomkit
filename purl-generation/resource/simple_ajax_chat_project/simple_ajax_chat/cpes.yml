@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:simple_ajax_chat_project:simple_ajax_chat:20220115:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_ajax_chat_project:simple_ajax_chat:*:*:*:*:*:wordpress:*:*

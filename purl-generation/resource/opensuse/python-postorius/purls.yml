@@ -1,0 +1,4 @@
+purls:
+  - pkg:pypi/postorius
+  - pkg:rpm/fedora/python-postorius
+  - pkg:rpm/opensuse/python-postorius

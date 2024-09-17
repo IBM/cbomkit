@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/oracle/opengrok
+  - pkg:rpm/opensuse/opengrok

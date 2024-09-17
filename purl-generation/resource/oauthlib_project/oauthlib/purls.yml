@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/jonasteuwen/oauthlib
+  - pkg:deb/debian/python-oauthlib
+  - pkg:deb/ubuntu/python-oauthlib
+  - pkg:github/oauthlib/oauthlib
+  - pkg:pypi/oauthlib
+  - pkg:rpm/fedora/python-oauthlib
+  - pkg:rpm/opensuse/python-oauthlib

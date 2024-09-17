@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:google:cloud_iot_device_sdk_for_embedded_c:*:*:*:*:*:*:*:*

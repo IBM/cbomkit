@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:zonecheck:zonecheck:2.0.4-13:*:*:*:*:*:*:*
+  - cpe:2.3:a:zonecheck:zonecheck:2.1.0:*:*:*:*:*:*:*

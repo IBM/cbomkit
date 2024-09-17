@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:videowhisper:video_presentation:3.25:-:-:*:-:wordpress:*:*
+  - cpe:2.3:a:videowhisper:video_presentation:3.31.17:*:*:*:*:wordpress:*:*

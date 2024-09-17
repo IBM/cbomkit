@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/http
+  - pkg:github/httprb/http

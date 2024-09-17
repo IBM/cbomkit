@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-auth
+  - pkg:deb/ubuntu/php-horde-auth
+  - pkg:github/horde/auth
+  - pkg:rpm/fedora/php-horde-horde-auth

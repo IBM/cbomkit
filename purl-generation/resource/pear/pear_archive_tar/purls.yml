@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/pear/archive_tar
+  - pkg:github/pear/archive_tar

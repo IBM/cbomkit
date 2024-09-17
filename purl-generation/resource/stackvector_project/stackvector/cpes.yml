@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:stackvector_project:stackvector:1.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stackvector_project:stackvector:1.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stackvector_project:stackvector:1.0.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stackvector_project:stackvector:1.0.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stackvector_project:stackvector:1.0.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stackvector_project:stackvector:1.0.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stackvector_project:stackvector:1.0.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stackvector_project:stackvector:1.0.7:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stackvector_project:stackvector:1.0.8:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stackvector_project:stackvector:1.0.9:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stackvector_project:stackvector:1.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stackvector_project:stackvector:1.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stackvector_project:stackvector:2021-02-19:*:*:*:*:rust:*:*
+  - cpe:2.3:a:stackvector_project:stackvector:-:*:*:*:*:rust:*:*

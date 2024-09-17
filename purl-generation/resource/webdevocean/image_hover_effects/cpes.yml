@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:webdevocean:image_hover_effects:5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webdevocean:image_hover_effects:5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webdevocean:image_hover_effects:*:*:*:*:*:wordpress:*:*

@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:getambassador:emissary-ingress:1.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getambassador:emissary-ingress:1.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:getambassador:emissary-ingress:1.13.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:getambassador:emissary-ingress:1.13.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:getambassador:emissary-ingress:1.13.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:getambassador:emissary-ingress:1.13.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:getambassador:emissary-ingress:1.13.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:getambassador:emissary-ingress:1.13.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:getambassador:emissary-ingress:1.13.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:getambassador:emissary-ingress:1.13.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:getambassador:emissary-ingress:1.13.9:*:*:*:*:*:*:*

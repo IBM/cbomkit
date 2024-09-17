@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/as31
+  - pkg:deb/ubuntu/as31
+  - pkg:github/lhondareyte/as31

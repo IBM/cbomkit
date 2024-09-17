@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/nifi
+  - pkg:docker/apache/nifi-registry
+  - pkg:github/apache/nifi-registry
+  - pkg:maven/org.apache.nifi.registry/nifi-registry

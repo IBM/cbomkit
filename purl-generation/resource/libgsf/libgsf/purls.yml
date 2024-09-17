@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libgsf
+  - pkg:deb/ubuntu/libgsf
+  - pkg:github/gnome/libgsf
+  - pkg:gitlab/gnome/libgsf
+  - pkg:gnome/libgsf
+  - pkg:rpm/fedora/libgsf
+  - pkg:rpm/opensuse/libgsf

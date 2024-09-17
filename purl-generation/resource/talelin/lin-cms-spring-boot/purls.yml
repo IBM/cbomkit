@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/luantian/lin-cms-spring-boot
+  - pkg:github/niu11g/lin-cms-spring-boot
+  - pkg:github/talelin/lin-cms-spring-boot

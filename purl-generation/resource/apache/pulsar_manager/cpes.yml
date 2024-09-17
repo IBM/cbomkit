@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:apache:pulsar_manager:0.1.0:*:*:*:*:*:*:*

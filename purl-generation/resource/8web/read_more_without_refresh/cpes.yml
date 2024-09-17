@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:8web:read_more_without_refresh:0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:8web:read_more_without_refresh:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:8web:read_more_without_refresh:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:8web:read_more_without_refresh:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:8web:read_more_without_refresh:2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:8web:read_more_without_refresh:3.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:8web:read_more_without_refresh:3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:8web:read_more_without_refresh:3.1:*:*:*:*:wordpress:*:*

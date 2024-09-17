@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/apache/incubator-linkis
+  - pkg:maven/org.apache.linkis/linkis

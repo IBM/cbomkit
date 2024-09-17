@@ -1,0 +1,3 @@
+purls:
+  - pkg:cpan/catalyst-plugin-session
+  - pkg:github/perl-catalyst/catalyst-plugin-session

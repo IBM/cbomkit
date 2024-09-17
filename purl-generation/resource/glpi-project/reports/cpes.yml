@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:glpi-project:reports:1.13.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:glpi-project:reports:1.13.1:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:glpi-project:reports:1.14.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:glpi-project:reports:1.14.1:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:glpi-project:reports:1.15.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:glpi-project:reports:1.16.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:glpi-project:reports:-:*:*:*:*:glpi:*:*

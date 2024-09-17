@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:microsoft:system.net.http.winhttphandler:4.0.1:*:*:*:*:asp.net:*:*
+  - cpe:2.3:a:microsoft:system.net.http.winhttphandler:4.3.0:*:*:*:*:asp.net:*:*

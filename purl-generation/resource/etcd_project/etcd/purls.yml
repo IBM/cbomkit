@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/etcd-io/etcd
+  - pkg:golang/github.com/etcd-io/etcd

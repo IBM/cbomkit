@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:apache:airavata_django_portal:*:*:*:*:*:*:*:*

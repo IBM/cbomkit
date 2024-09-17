@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/clearsilver
+  - pkg:deb/ubuntu/clearsilver
+  - pkg:github/blong42/clearsilver
+  - pkg:pypi/clearsilver
+  - pkg:rpm/fedora/clearsilver
+  - pkg:rpm/opensuse/clearsilver

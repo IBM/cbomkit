@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:debian:apache2:*:sid:*:*:*:*:*:*
+  - cpe:2.3:a:debian:apache2:*:squeeze10:*:*:*:*:*:*
+  - cpe:2.3:a:debian:apache2:*:squeeze6:*:*:*:*:*:*
+  - cpe:2.3:a:debian:apache2:*:wheezy:*:*:*:*:*:*

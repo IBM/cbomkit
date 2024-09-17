@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/arve0/node-geoip-country
+  - pkg:github/geoip-lite/node-geoip
+  - pkg:npm/geoip-lite-country

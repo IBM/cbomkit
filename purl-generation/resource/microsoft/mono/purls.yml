@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/mono
+  - pkg:deb/ubuntu/mono
+  - pkg:docker/mono
+  - pkg:github/mono/mono
+  - pkg:rpm/fedora/mono

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/dovecot-core
+  - pkg:deb/ubuntu/dovecot-core
+  - pkg:docker/dovecot/dovecot
+  - pkg:github/dovecot/core
+  - pkg:rpm/fedora/dovecot
+  - pkg:rpm/opensuse/dovecot-core

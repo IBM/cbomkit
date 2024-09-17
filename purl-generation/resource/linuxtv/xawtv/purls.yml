@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/xawtv
+  - pkg:deb/ubuntu/xawtv
+  - pkg:github/mchehab/xawtv3
+  - pkg:github/truefitness/xawtv
+  - pkg:rpm/fedora/xawtv
+  - pkg:rpm/opensuse/xawtv

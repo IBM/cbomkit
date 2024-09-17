@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/petsc/pkg-hdf5
+  - pkg:deb/debian/hdf5
+  - pkg:deb/ubuntu/hdf5
+  - pkg:github/hdfgroup/hdf5
+  - pkg:rpm/fedora/hdf5
+  - pkg:rpm/opensuse/hdf5

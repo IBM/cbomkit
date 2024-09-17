@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/spawn-fcgi
+  - pkg:deb/ubuntu/spawn-fcgi
+  - pkg:github/kindy61/spawn-fcgi
+  - pkg:github/lighttpd/spawn-fcgi
+  - pkg:rpm/fedora/spawn-fcgi
+  - pkg:rpm/opensuse/spawn-fcgi

@@ -1,0 +1,3 @@
+purls:
+  - pkg:gitlab/redhat/opensc
+  - pkg:gnu/opensc

@@ -1,0 +1,5 @@
+purls:
+  - pkg:gitlab/redhat/libtirpc
+  - pkg:rpm/fedora/libtirpc
+  - pkg:rpm/opensuse/libtirpc
+  - pkg:sourceforge/libtirpc

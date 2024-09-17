@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/golang-github-containers-buildah
+  - pkg:deb/ubuntu/golang-github-containers-buildah
+  - pkg:github/containers/buildah
+  - pkg:gitlab/redhat/buildah
+  - pkg:rpm/centos/buildah
+  - pkg:rpm/fedora/buildah
+  - pkg:rpm/opensuse/buildah

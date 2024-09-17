@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:apache:commons_messaging_mail:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:commons_messaging_mail:1.0.0:*:*:*:*:*:*:*

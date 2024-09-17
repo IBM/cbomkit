@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/signing-party
+  - pkg:deb/ubuntu/signing-party
+  - pkg:rpm/opensuse/signing-party

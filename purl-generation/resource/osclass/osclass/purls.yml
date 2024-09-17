@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/ricktaylord/osclass
+  - pkg:docker/bitnami/osclass
+  - pkg:github/mindstellar/osclass
+  - pkg:github/osclass/osclass
+  - pkg:npm/%40helm-charts/bitnami-osclass
+  - pkg:sourceforge/osclass

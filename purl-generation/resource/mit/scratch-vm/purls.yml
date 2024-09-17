@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/llk/scratch-vm
+  - pkg:npm/scratch-vm

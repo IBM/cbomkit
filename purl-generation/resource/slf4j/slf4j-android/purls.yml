@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/nomis/slf4j-android
+  - pkg:maven/eu.lp0.slf4j/slf4j-android
+  - pkg:maven/org.slf4j/slf4j-android

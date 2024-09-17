@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/mateerladnam/fat-free-crm
+  - pkg:docker/udalov/fat-free-crm
+  - pkg:gem/fat-free-crm
+  - pkg:github/fatfreecrm/fat-free-crm
+  - pkg:github/fatfreecrm/fat_free_crm
+  - pkg:github/sergio-fry/fat-free-crm

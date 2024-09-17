@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:nb-connect_project:nb-connect:1.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:nb-connect_project:nb-connect:1.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:nb-connect_project:nb-connect:1.0.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:nb-connect_project:nb-connect:1.0.3:*:*:*:*:rust:*:*

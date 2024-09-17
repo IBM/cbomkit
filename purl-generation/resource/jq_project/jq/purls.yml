@@ -1,0 +1,12 @@
+purls:
+  - pkg:deb/debian/jq
+  - pkg:deb/ubuntu/jq
+  - pkg:docker/stedolan/jq
+  - pkg:gem/ruby/ruby-jq
+  - pkg:github/stedolan/jq
+  - pkg:gitlab/redhat/jq
+  - pkg:pypi/jq
+  - pkg:rpm/centos/jq
+  - pkg:rpm/fedora/jq
+  - pkg:rpm/opensuse/jq
+  - pkg:sourceforge/stedolan-jq.mirror

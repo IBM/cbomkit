@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libpod
+  - pkg:deb/ubuntu/libpod
+  - pkg:github/containers/podman
+  - pkg:gitlab/redhat/podman
+  - pkg:rpm/centos/podman
+  - pkg:rpm/fedora/podman
+  - pkg:rpm/opensuse/podman
+  - pkg:sourceforge/podman.mirror

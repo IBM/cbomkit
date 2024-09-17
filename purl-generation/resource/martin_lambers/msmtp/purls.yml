@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/msmtp
+  - pkg:deb/ubuntu/msmtp
+  - pkg:github/marlam/msmtp-mirror
+  - pkg:rpm/fedora/msmtp
+  - pkg:rpm/opensuse/msmtp

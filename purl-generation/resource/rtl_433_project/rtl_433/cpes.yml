@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:rtl_433_project:rtl_433:0.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:rtl_433_project:rtl_433:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rtl_433_project:rtl_433:18.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:rtl_433_project:rtl_433:18.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:rtl_433_project:rtl_433:19.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:rtl_433_project:rtl_433:20.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:rtl_433_project:rtl_433:21.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:rtl_433_project:rtl_433:21.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:rtl_433_project:rtl_433:21.12:*:*:*:*:*:*:*

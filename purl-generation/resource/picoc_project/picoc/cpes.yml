@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:picoc_project:picoc:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:picoc_project:picoc:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:picoc_project:picoc:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:picoc_project:picoc:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:picoc_project:picoc:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:picoc_project:picoc:3.2.2:*:*:*:*:*:*:*

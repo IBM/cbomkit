@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:qlik:qlikview:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:qlik:qlikview:*:*:*:*:*:*:*:.
+  - cpe:2.3:a:qlik:qlikview:-:*:*:*:*:*:*:.
+  - cpe:2.3:a:qlik:qlikview:12.60:*:*:*:*:*:*:*
+  - cpe:2.3:a:qlik:qlikview:12.60.20100.0:*:*:*:*:*:*:.
+  - cpe:2.3:a:qlik:qlikview:*:sr11:*:*:*:*:*:*

@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:electric_studio_client_login_project:electric_studio_client_login:0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:electric_studio_client_login_project:electric_studio_client_login:0.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:electric_studio_client_login_project:electric_studio_client_login:0.7.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:electric_studio_client_login_project:electric_studio_client_login:0.7.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:electric_studio_client_login_project:electric_studio_client_login:0.7.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:electric_studio_client_login_project:electric_studio_client_login:0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:electric_studio_client_login_project:electric_studio_client_login:0.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:electric_studio_client_login_project:electric_studio_client_login:0.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:electric_studio_client_login_project:electric_studio_client_login:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:electric_studio_client_login_project:electric_studio_client_login:-:*:*:*:*:wordpress:*:*

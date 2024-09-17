@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:crowdfavorite:progressive_license:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:crowdfavorite:progressive_license:-:*:*:*:*:wordpress:*:*

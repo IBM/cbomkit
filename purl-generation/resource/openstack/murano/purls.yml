@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/openstack/murano
+  - pkg:pypi/murano
+  - pkg:rpm/opensuse/openstack-murano

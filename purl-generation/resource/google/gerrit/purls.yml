@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gerritcodereview/gerrit
+  - pkg:googlesource/gerrit

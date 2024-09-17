@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:aas9:zerocms:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:aas9:zerocms:1.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:aas9:zerocms:1.3.3:*:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:rdiffweb:rdiffweb:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:rdiffweb:rdiffweb:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rdiffweb:rdiffweb:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rdiffweb:rdiffweb:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rdiffweb:rdiffweb:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rdiffweb:rdiffweb:0.3.2:*:*:*:*:*:*:*

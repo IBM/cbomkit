@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/cyrus-imapd
+  - pkg:deb/ubuntu/cyrus-imapd
+  - pkg:github/cyrusimap/cyrus-imapd
+  - pkg:rpm/fedora/cyrus-imapd
+  - pkg:rpm/opensuse/cyrus-imapd

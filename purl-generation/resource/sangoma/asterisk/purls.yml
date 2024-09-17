@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/asterisk
+  - pkg:deb/ubuntu/asterisk
+  - pkg:docker/andrius/asterisk
+  - pkg:github/sangoma/asterisk
+  - pkg:maven/org.asteriskjava/asterisk-java
+  - pkg:rpm/fedora/asterisk
+  - pkg:rpm/opensuse/asterisk

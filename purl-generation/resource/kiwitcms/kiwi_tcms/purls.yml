@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jgesim/kiwitcms
+  - pkg:github/kiwitcms/kiwi
+  - pkg:pypi/kiwitcms

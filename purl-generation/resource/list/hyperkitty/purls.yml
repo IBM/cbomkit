@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/nakaner/hyperkitty-debian
+  - pkg:gitlab/mailman/hyperkitty
+  - pkg:pypi/hyperkitty

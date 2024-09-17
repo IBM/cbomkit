@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/nextcloud/server
+  - pkg:gitlab/gitlab-gold/nextcloud-server
+  - pkg:sourceforge/nextcloud-server.mirror

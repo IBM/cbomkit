@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/lipnitsk/libcue
+  - pkg:golang/github.com/lipnitsk/libcue

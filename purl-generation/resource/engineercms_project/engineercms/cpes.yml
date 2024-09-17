@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:engineercms_project:engineercms:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:engineercms_project:engineercms:1.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:engineercms_project:engineercms:1.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:engineercms_project:engineercms:1.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:engineercms_project:engineercms:1.1.0:*:*:*:*:*:*:*

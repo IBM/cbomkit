@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/spotify/luigi
+  - pkg:pypi/luigi
+  - pkg:sourceforge/luigi.mirror

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-axios
+  - pkg:deb/ubuntu/node-axios
+  - pkg:github/axios/axios
+  - pkg:npm/axios
+  - pkg:sourceforge/axios.mirror

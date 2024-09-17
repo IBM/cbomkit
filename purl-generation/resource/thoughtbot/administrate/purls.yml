@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/administrate
+  - pkg:github/thoughtbot/administrate
+  - pkg:sourceforge/administrate.mirror

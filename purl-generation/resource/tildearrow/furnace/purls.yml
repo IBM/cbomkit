@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tildearrow/furnace
+  - pkg:rpm/opensuse/furnace

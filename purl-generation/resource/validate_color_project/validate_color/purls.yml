@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dreamyguy/validate-color
+  - pkg:npm/validate-color

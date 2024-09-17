@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/gnif/mod_rpaf
+  - pkg:github/y-ken/mod_rpaf
+  - pkg:rpm/opensuse/mod_rpaf

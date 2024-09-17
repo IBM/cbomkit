@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libpeas
+  - pkg:deb/ubuntu/libpeas
+  - pkg:github/gnome/libpeas
+  - pkg:gitlab/redhat/libpeas
+  - pkg:rpm/centos/libpeas
+  - pkg:rpm/fedora/libpeas
+  - pkg:rpm/opensuse/libpeas

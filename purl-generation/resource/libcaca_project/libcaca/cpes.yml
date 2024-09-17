@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:libcaca_project:libcaca:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:libcaca_project:libcaca:0.99:beta14:*:*:*:*:*:*
+  - cpe:2.3:a:libcaca_project:libcaca:0.99:beta15:*:*:*:*:*:*
+  - cpe:2.3:a:libcaca_project:libcaca:0.99:beta16:*:*:*:*:*:*
+  - cpe:2.3:a:libcaca_project:libcaca:0.99:beta17:*:*:*:*:*:*
+  - cpe:2.3:a:libcaca_project:libcaca:0.99:beta18:*:*:*:*:*:*
+  - cpe:2.3:a:libcaca_project:libcaca:0.99:beta19:*:*:*:*:*:*
+  - cpe:2.3:a:libcaca_project:libcaca:0.99:beta20:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/lesterchan/wp-postviews
+  - pkg:github/wp-plugins/wp-postviews
+  - pkg:github/wpplugins/wp-postviews

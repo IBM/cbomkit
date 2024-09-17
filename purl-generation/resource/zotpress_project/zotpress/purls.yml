@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jalberts/zotpress
+  - pkg:github/s4ndhyac/zotpress
+  - pkg:github/wp-plugins/zotpress

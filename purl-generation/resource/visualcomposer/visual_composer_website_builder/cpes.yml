@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:visualcomposer:visual_composer_website_builder:45.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:visualcomposer:visual_composer_website_builder:*:*:*:*:*:wordpress:*:*

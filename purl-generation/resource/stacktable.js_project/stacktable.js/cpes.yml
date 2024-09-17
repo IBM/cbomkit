@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:stacktable.js_project:stacktable.js:1.0.0:*:*:*:*:jquery:*:*
+  - cpe:2.3:a:stacktable.js_project:stacktable.js:1.0.1:*:*:*:*:jquery:*:*
+  - cpe:2.3:a:stacktable.js_project:stacktable.js:1.0.2:*:*:*:*:jquery:*:*
+  - cpe:2.3:a:stacktable.js_project:stacktable.js:1.0.3:*:*:*:*:jquery:*:*
+  - cpe:2.3:a:stacktable.js_project:stacktable.js:1.0.4:*:*:*:*:jquery:*:*
+  - cpe:2.3:a:stacktable.js_project:stacktable.js:-:*:*:*:*:jquery:*:*

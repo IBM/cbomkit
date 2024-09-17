@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-cocaine
+  - pkg:deb/ubuntu/ruby-cocaine
+  - pkg:gem/cocaine
+  - pkg:github/thoughtbot/cocaine
+  - pkg:rpm/opensuse/rubygem-cocaine

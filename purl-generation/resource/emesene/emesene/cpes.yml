@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:emesene:emesene:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:emesene:emesene:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:emesene:emesene:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:emesene:emesene:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:emesene:emesene:1.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:emesene:emesene:1.6:*:*:*:*:*:*:*

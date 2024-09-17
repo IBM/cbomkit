@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/zopefoundation/restrictedpython
+  - pkg:pypi/restrictedpython

@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:pdfalto_project:pdfalto:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pdfalto_project:pdfalto:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pdfalto_project:pdfalto:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pdfalto_project:pdfalto:0.4:*:*:*:*:*:*:*

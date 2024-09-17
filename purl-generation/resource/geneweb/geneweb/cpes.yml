@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:geneweb:geneweb:4.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:geneweb:geneweb:4.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:geneweb:geneweb:4.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:geneweb:geneweb:4.08:*:*:*:*:*:*:*

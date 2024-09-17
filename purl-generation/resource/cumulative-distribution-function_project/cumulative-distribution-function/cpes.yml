@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:cumulative-distribution-function_project:cumulative-distribution-function:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:cumulative-distribution-function_project:cumulative-distribution-function:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:cumulative-distribution-function_project:cumulative-distribution-function:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:cumulative-distribution-function_project:cumulative-distribution-function:1.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:cumulative-distribution-function_project:cumulative-distribution-function:1.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:cumulative-distribution-function_project:cumulative-distribution-function:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:cumulative-distribution-function_project:cumulative-distribution-function:-:*:*:*:*:node.js:*:*

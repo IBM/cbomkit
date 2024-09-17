@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:freedesktop:dbus1.0:rc1:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus1.0:rc2:*:*:*:*:*:*:*
+  - cpe:2.3:a:freedesktop:dbus1.0:rc3:*:*:*:*:*:*:*

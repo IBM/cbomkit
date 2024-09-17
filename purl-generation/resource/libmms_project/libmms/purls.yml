@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/libmms
+  - pkg:deb/ubuntu/libmms
+  - pkg:rpm/opensuse/libmms
+  - pkg:sourceforge/libmms

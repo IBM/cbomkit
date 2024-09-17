@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/native-toolkit/libtinyfiledialogs
+  - pkg:sourceforge/tinyfiledialogs

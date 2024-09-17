@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/denyhosts/denyhosts
+  - pkg:rpm/opensuse/denyhosts
+  - pkg:sourceforge/denyhosts

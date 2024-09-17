@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/postgrey
+  - pkg:deb/ubuntu/postgrey
+  - pkg:github/schweikert/postgrey
+  - pkg:rpm/fedora/postgrey
+  - pkg:rpm/opensuse/postgrey

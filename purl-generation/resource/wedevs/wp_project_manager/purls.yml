@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/wedevsofficial/wp-project-manager
+  - pkg:github/wp-plugins/wedevs-project-manager
+  - pkg:github/wpplugins/wedevs-project-manager

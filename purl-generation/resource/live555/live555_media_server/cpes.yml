@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:live555:live555_media_server:0.92:*:*:*:*:*:*:*
+  - cpe:2.3:a:live555:live555_media_server:0.93:*:*:*:*:*:*:*

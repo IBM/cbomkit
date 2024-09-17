@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/mde/ejs
+  - pkg:maven/org.webjars.npm/ejs
+  - pkg:npm/ejs
+  - pkg:nuget/EJS

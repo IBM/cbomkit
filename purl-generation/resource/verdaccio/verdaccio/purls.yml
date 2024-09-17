@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/verdaccio/verdaccio
+  - pkg:github/verdaccio/verdaccio
+  - pkg:maven/org.webjars.npm/verdaccio
+  - pkg:npm/%40verdaccio/core

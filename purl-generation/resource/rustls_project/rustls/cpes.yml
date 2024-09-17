@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:rustls_project:rustls:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.15.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.5.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.5.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.5.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rustls_project:rustls:0.9.0:*:*:*:*:*:*:*

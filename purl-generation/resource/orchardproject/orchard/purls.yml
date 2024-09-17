@@ -1,0 +1,7 @@
+purls:
+  - pkg:docker/orchardproject/orchardcore-cms-linux
+  - pkg:docker/orchardproject/orchardcore-cms-windows
+  - pkg:github/orchardcms/orchardcore
+  - pkg:npm/cypress-orchardcore
+  - pkg:nuget/OrchardCore
+  - pkg:sourceforge/orchard-core.mirror

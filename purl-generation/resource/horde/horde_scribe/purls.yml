@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-horde-scribe
+  - pkg:deb/ubuntu/php-horde-scribe
+  - pkg:github/horde/scribe
+  - pkg:rpm/fedora/php-horde-horde-scribe
+  - pkg:rpm/opensuse/php-horde-horde-scribe

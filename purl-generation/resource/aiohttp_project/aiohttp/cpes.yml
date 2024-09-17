@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:aiohttp_project:aiohttp:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiohttp_project:aiohttp:3.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiohttp_project:aiohttp:3.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiohttp_project:aiohttp:3.7.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:aiohttp_project:aiohttp:3.7.0:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:aiohttp_project:aiohttp:3.7.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:aiohttp_project:aiohttp:3.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiohttp_project:aiohttp:3.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiohttp_project:aiohttp:3.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiohttp_project:aiohttp:3.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:aiohttp_project:aiohttp:3.8.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:aiohttp_project:aiohttp:3.8.0:alpha0:*:*:*:*:*:*
+  - cpe:2.3:a:aiohttp_project:aiohttp:3.8.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:aiohttp_project:aiohttp:3.8.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:aiohttp_project:aiohttp:3.8.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:aiohttp_project:aiohttp:3.8.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:aiohttp_project:aiohttp:3.8.0:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:aiohttp_project:aiohttp:3.8.0:alpha6:*:*:*:*:*:*
+  - cpe:2.3:a:aiohttp_project:aiohttp:3.8.0:alpha7:*:*:*:*:*:*
+  - cpe:2.3:a:aiohttp_project:aiohttp:3.8.0:beta0:*:*:*:*:*:*
+  - cpe:2.3:a:aiohttp_project:aiohttp:3.8.1:*:*:*:*:*:*:*

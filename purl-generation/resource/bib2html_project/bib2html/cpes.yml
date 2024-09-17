@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:bib2html_project:bib2html:0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bib2html_project:bib2html:0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bib2html_project:bib2html:0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bib2html_project:bib2html:0.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bib2html_project:bib2html:0.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bib2html_project:bib2html:0.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bib2html_project:bib2html:0.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bib2html_project:bib2html:0.9:*:*:*:*:wordpress:*:*

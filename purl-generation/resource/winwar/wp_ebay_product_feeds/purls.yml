@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/rhyswynne/ebay-feeds-for-wordpress
+  - pkg:github/wp-plugins/ebay-feeds-for-wordpress
+  - pkg:github/wpplugins/ebay-feeds-for-wordpress

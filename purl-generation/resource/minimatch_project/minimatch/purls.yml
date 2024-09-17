@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/node-minimatch
+  - pkg:deb/ubuntu/node-minimatch
+  - pkg:github/isaacs/minimatch
+  - pkg:maven/org.webjars.npm/minimatch
+  - pkg:npm/minimatch
+  - pkg:rpm/fedora/nodejs-minimatch
+  - pkg:rpm/opensuse/nodejs-minimatch

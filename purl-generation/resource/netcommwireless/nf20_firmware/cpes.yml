@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:o:netcommwireless:nf20_firmware:*:*:*:*:*:*:*:*
+  - cpe:2.3:o:netcommwireless:nf20_firmware:-:*:*:*:*:*:*:*

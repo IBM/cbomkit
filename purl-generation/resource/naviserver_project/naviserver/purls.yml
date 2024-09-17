@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/qcode-software/naviserver
+  - pkg:github/russell-todd-sorensen/naviserver
+  - pkg:rpm/opensuse/naviserver
+  - pkg:sourceforge/naviserver

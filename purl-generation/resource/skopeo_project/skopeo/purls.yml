@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/skopeo
+  - pkg:deb/ubuntu/skopeo
+  - pkg:github/containers/skopeo
+  - pkg:gitlab/redhat/skopeo
+  - pkg:rpm/centos/skopeo
+  - pkg:rpm/fedora/skopeo
+  - pkg:rpm/opensuse/skopeo

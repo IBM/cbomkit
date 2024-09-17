@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/vcftools
+  - pkg:deb/ubuntu/vcftools
+  - pkg:github/vcftools/vcftools
+  - pkg:rpm/fedora/vcftools
+  - pkg:rpm/opensuse/vcftools
+  - pkg:sourceforge/vcftools

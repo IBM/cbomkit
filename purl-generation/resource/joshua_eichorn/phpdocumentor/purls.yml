@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/phpdocumentor/phpdocumentor
+  - pkg:github/phpdocumentor/phpdocumentor

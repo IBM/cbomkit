@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:zh-jieli:fw-ac63_bt_sdk:*:*:*:*:*:*:*:*
+  - cpe:2.3:o:zh-jieli:fw-ac63_bt_sdk:-:*:*:*:*:*:*:*
+  - cpe:2.3:o:zh-jieli:fw-ac63_bt_sdk:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:zh-jieli:fw-ac63_bt_sdk:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:zh-jieli:fw-ac63_bt_sdk:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:zh-jieli:fw-ac63_bt_sdk:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:zh-jieli:fw-ac63_bt_sdk:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:zh-jieli:fw-ac63_bt_sdk:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:zh-jieli:fw-ac63_bt_sdk:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:zh-jieli:fw-ac63_bt_sdk:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:zh-jieli:fw-ac63_bt_sdk:0.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:zh-jieli:fw-ac63_bt_sdk:0.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:zh-jieli:fw-ac63_bt_sdk:0.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:o:zh-jieli:fw-ac63_bt_sdk:1.0.0:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dwyl/hapi-auth-jwt2
+  - pkg:npm/hapi-auth-jwt2

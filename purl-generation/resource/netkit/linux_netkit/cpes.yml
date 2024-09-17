@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:netkit:linux_netkit:0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:netkit:linux_netkit:0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:netkit:linux_netkit:0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:netkit:linux_netkit:0.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:netkit:linux_netkit:0.17.17:*:*:*:*:*:*:*

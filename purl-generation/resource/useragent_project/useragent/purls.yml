@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/3rd-eden/useragent
+  - pkg:maven/org.webjars.npm/useragent
+  - pkg:npm/useragent

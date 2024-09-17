@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:phpqladmin:phpqladmin:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpqladmin:phpqladmin:2.2.7:*:*:*:*:*:*:*

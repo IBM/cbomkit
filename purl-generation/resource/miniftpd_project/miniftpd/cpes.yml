@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:miniftpd_project:miniftpd:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:miniftpd_project:miniftpd:1.0:*:*:*:*:*:*:*

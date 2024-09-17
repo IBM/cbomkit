@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libselinux
+  - pkg:deb/ubuntu/libselinux
+  - pkg:github/selinuxproject/selinux
+  - pkg:gitlab/redhat/libselinux
+  - pkg:rpm/centos/libselinux
+  - pkg:rpm/fedora/libselinux
+  - pkg:rpm/opensuse/libselinux

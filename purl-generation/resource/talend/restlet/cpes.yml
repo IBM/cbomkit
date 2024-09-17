@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:talend:restlet:1.1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:talend:restlet:2.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:talend:restlet:2.2:m1:*:*:*:*:*:*
+  - cpe:2.3:a:talend:restlet:2.2:m2:*:*:*:*:*:*
+  - cpe:2.3:a:talend:restlet:2.2:m3:*:*:*:*:*:*
+  - cpe:2.3:a:talend:restlet:2.2:m4:*:*:*:*:*:*
+  - cpe:2.3:a:talend:restlet:2.2:m5:*:*:*:*:*:*
+  - cpe:2.3:a:talend:restlet:2.2:m6:*:*:*:*:*:*
+  - cpe:2.3:a:talend:restlet:2.2:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:talend:restlet:2.2:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:talend:restlet:2.2:snapshot:*:*:*:*:*:*

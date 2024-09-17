@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:jenkins:bigpanda_notifier:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bigpanda_notifier:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bigpanda_notifier:1.3.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bigpanda_notifier:1.3.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bigpanda_notifier:1.3.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bigpanda_notifier:1.3.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:bigpanda_notifier:1.4.0:*:*:*:*:jenkins:*:*

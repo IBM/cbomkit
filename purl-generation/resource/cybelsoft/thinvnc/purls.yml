@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bewest/thinvnc
+  - pkg:github/zekiguven/thinvnc
+  - pkg:sourceforge/thinvnc

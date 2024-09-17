@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:usersultra:users_ultra_membership:1.5.59:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:usersultra:users_ultra_membership:1.5.63:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:usersultra:users_ultra_membership:1.5.64:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:usersultra:users_ultra_membership:1.5.96:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:usersultra:users_ultra_membership:1.5.97:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:usersultra:users_ultra_membership:-:*:*:*:*:wordpress:*:*

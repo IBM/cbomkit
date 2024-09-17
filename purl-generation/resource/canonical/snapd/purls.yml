@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/snapd
+  - pkg:deb/ubuntu/snapd
+  - pkg:github/snapcore/snapd
+  - pkg:rpm/fedora/snapd
+  - pkg:rpm/opensuse/snapd

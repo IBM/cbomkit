@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/lightsey/mod_suphp
+  - pkg:rpm/fedora/mod_suphp
+  - pkg:rpm/opensuse/suphp

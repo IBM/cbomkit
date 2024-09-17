@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/asyncpg
+  - pkg:deb/ubuntu/asyncpg
+  - pkg:github/magicstack/asyncpg
+  - pkg:pypi/asyncpg
+  - pkg:rpm/fedora/python-asyncpg
+  - pkg:rpm/opensuse/python-asyncpg

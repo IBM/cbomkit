@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/sequelize/sequelize
+  - pkg:npm/sequelize
+  - pkg:sourceforge/sequelize.mirror

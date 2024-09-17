@@ -1,0 +1,4 @@
+purls:
+  - pkg:2pisoftware/cmfive
+  - pkg:github/2pisoftware/cmfive
+  - pkg:github/2pisoftware/cmfive-core

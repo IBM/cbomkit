@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/tp4a/teleport
+  - pkg:github/tp4a/teleport

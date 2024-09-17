@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:mara_cms_project:mara_cms:6:*:*:*:*:*:*:*
+  - cpe:2.3:a:mara_cms_project:mara_cms:6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mara_cms_project:mara_cms:6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mara_cms_project:mara_cms:7:*:*:*:*:*:*:*
+  - cpe:2.3:a:mara_cms_project:mara_cms:7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mara_cms_project:mara_cms:7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mara_cms_project:mara_cms:7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mara_cms_project:mara_cms:7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mara_cms_project:mara_cms:7.5:*:*:*:*:*:*:*

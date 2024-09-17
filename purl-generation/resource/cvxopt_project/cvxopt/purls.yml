@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/cvxopt
+  - pkg:deb/ubuntu/cvxopt
+  - pkg:github/cvxopt/cvxopt
+  - pkg:pypi/cvxopt
+  - pkg:rpm/fedora/python-cvxopt

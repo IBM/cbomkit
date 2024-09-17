@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-horde-syncml
+  - pkg:deb/ubuntu/php-horde-syncml
+  - pkg:github/horde/syncml
+  - pkg:rpm/fedora/php-horde-horde-syncml
+  - pkg:rpm/opensuse/php-horde-horde-syncml

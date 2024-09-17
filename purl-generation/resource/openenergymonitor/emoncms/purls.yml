@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/openenergymonitor/emoncms
+  - pkg:github/emoncms/emoncms

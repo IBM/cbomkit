@@ -1,0 +1,6 @@
+purls:
+  - pkg:apache/commons
+  - pkg:deb/debian/commons-email
+  - pkg:deb/ubuntu/commons-email
+  - pkg:github/apache/commons-email
+  - pkg:maven/org.apache.commons/commons-email

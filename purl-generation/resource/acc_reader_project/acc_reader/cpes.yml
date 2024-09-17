@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:acc_reader_project:acc_reader:1.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:acc_reader_project:acc_reader:2.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:acc_reader_project:acc_reader:-:*:*:*:*:rust:*:*

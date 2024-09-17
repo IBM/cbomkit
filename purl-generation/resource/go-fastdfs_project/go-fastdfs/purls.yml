@@ -1,0 +1,5 @@
+purls:
+  - pkg:gitee/sjqzhang/go-fastdfs
+  - pkg:github/sjqzhang/go-fastdfs
+  - pkg:golang/gitee.com/sjqzhang/go-fastdfs
+  - pkg:golang/github.com/sjqzhang/go-fastdfs

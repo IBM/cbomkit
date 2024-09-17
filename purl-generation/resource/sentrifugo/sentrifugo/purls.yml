@@ -1,0 +1,7 @@
+purls:
+  - pkg:docker/amoniacou/sentrifugo
+  - pkg:docker/gofaustino/sentrifugo
+  - pkg:github/amoniacou/sentrifugo
+  - pkg:github/go-faustino/sentrifugo
+  - pkg:github/sapplica/sentrifugo
+  - pkg:sourceforge/sentrifugo

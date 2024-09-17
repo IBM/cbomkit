@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debiangreenbone-security-assistant
+  - pkg:deb/ubuntu/greenbone-security-assistant
+  - pkg:github/greenbone/gsa
+  - pkg:gitlab/kalilinux/greenbone-security-assistant

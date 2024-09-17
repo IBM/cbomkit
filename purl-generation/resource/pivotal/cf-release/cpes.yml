@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:pivotal:cf-release:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:cf-release:268:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:cf-release:269:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:cf-release:270:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:cf-release:271:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:cf-release:272:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:cf-release:273:*:*:*:*:*:*:*

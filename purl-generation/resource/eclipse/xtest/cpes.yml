@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:eclipse:xtest:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:xtest:2.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:xtest:2.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:xtest:2.21.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:xtest:2.22.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:xtest:2.23.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:xtest:2.24.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:xtest:2.25.0:*:*:*:*:*:*:*

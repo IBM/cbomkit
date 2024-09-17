@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:mz-automation:lib60870:0.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mz-automation:lib60870:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mz-automation:lib60870:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mz-automation:lib60870:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mz-automation:lib60870:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mz-automation:lib60870:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mz-automation:lib60870:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mz-automation:lib60870:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mz-automation:lib60870:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mz-automation:lib60870:2.3.2:*:*:*:*:*:*:*

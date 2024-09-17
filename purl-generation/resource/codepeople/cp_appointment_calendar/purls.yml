@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/slimpaul/cp-appointment-calendar
+  - pkg:github/wp-plugins/cp-appointment-calendar
+  - pkg:github/wpplugins/cp-appointment-calendar

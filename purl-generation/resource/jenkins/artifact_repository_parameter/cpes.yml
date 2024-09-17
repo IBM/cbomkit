@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:jenkins:artifact_repository_parameter:1.0.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:artifact_repository_parameter:1.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:artifact_repository_parameter:2.0.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:artifact_repository_parameter:2.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:artifact_repository_parameter:-:*:*:*:*:jenkins:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/pukkasoftware/testbox
+  - pkg:github/ortus-solutions/testbox

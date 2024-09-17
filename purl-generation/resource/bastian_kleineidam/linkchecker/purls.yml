@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/linkchecker
+  - pkg:deb/ubuntu/linkchecker
+  - pkg:docker/linkchecker/linkchecker
+  - pkg:github/linkchecker/linkchecker
+  - pkg:github/wummel/linkchecker
+  - pkg:pypi/linkchecker
+  - pkg:rpm/fedora/linkchecker
+  - pkg:rpm/opensuse/linkchecker
+  - pkg:sourceforge/linkchecker

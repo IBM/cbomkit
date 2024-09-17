@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mantisbt/mantisbt
+  - pkg:rpm/opensuse/mantisbt

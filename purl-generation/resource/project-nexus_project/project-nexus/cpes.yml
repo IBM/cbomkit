@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:project-nexus_project:project-nexus:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:project-nexus_project:project-nexus:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:project-nexus_project:project-nexus:2.0.0:*:*:*:*:*:*:*

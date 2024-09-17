@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/timg
+  - pkg:deb/ubuntu/timg
+  - pkg:github/blcksec/timg
+  - pkg:github/hzeller/timg

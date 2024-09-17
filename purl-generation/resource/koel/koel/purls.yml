@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/zachron/koel
+  - pkg:github/koel/koel
+  - pkg:sourceforge/koel.mirror

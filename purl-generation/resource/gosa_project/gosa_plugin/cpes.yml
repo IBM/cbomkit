@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:gosa_project:gosa_plugin:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gosa_project:gosa_plugin:-:*:*:*:*:*:*:*

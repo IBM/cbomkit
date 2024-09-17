@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/foxcpp/maddy
+  - pkg:golang/github.com/foxcpp/maddy

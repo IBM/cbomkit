@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-rply
+  - pkg:deb/ubuntu/python-rply
+  - pkg:github/alex/rply
+  - pkg:pypi/rply
+  - pkg:rpm/fedora/python-rply
+  - pkg:rpm/opensuse/python-rply

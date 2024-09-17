@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/sssd
+  - pkg:deb/ubuntu/sssd
+  - pkg:github/sssd/sssd
+  - pkg:gitlab/redhat/sssd
+  - pkg:rpm/fedora/sssd
+  - pkg:rpm/opensuse/sssd

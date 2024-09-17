@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:passeo_project:passeo:1.0.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:passeo_project:passeo:1.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:passeo_project:passeo:1.0.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:passeo_project:passeo:1.0.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:passeo_project:passeo:1.0.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:passeo_project:passeo:1.0.5:*:*:*:*:python:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-icalendar
+  - pkg:deb/ubuntu/php-horde-icalendar
+  - pkg:github/horde/icalendar
+  - pkg:rpm/fedora/php-horde-horde-icalendar

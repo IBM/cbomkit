@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:o:amd:epyc_7743_firmware:*:*:*:*:*:*:*:*
+  - cpe:2.3:o:amd:epyc_7743_firmware:milanpi_1.0.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:o:amd:epyc_7743_firmware:milanpi_1.0.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:o:amd:epyc_7743_firmware:milanpi_1.0.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:o:amd:epyc_7743_firmware:milanpi_1.0.0.a:*:*:*:*:*:*:*
+  - cpe:2.3:o:amd:epyc_7743_firmware:milanpi-sp3_1.0.0.9:*:*:*:*:*:*:*

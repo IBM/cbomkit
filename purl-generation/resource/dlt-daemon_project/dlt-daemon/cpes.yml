@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:dlt-daemon_project:dlt-daemon:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlt-daemon_project:dlt-daemon:2.18.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlt-daemon_project:dlt-daemon:2.8.5:*:*:*:*:*:*:*

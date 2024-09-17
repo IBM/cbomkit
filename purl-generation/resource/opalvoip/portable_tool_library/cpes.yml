@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:opalvoip:portable_tool_library:2.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opalvoip:portable_tool_library:2.10.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:opalvoip:portable_tool_library:2.10.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:opalvoip:portable_tool_library:2.10.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:opalvoip:portable_tool_library:2.10.9:*:*:*:*:*:*:*

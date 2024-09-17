@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/opensuse/aaa_base
+  - pkg:rpm/opensuse/aaa_base

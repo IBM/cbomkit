@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/signond
+  - pkg:gitlab/accounts-sso/signond
+  - pkg:rpm/opensuse/signond

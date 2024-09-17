@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gns3/dynamips
+  - pkg:golang/github.com/gns3/dynamips

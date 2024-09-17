@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libgpg-error
+  - pkg:deb/ubuntu/libgpg-error
+  - pkg:github/gpg/libgpg-error
+  - pkg:gitlab/redhat/libgpg-error
+  - pkg:rpm/centos/libgpg-error
+  - pkg:rpm/fedora/libgpg-error
+  - pkg:rpm/opensuse/libgpg-error

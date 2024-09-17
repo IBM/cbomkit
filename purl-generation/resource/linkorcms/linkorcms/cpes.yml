@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:linkorcms:linkorcms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:linkorcms:linkorcms:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linkorcms:linkorcms:1.2:beta:*:*:*:*:*:*

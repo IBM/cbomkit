@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:htdig_project:htdig:3.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:htdig_project:htdig:3.1.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:htdig_project:htdig:3.1.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:htdig_project:htdig:3.1.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:htdig_project:htdig:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:htdig_project:htdig:3.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:htdig_project:htdig:3.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:htdig_project:htdig:3.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:htdig_project:htdig:3.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:htdig_project:htdig:3.2.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:htdig_project:htdig:3.2.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:htdig_project:htdig:3.2.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:htdig_project:htdig:3.2.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:htdig_project:htdig:3.2.0:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:htdig_project:htdig:3.2.0:beta6:*:*:*:*:*:*
+  - cpe:2.3:a:htdig_project:htdig:4.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:htdig_project:htdig:4.0.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:htdig_project:htdig:4.1.0:*:*:*:*:*:*:*

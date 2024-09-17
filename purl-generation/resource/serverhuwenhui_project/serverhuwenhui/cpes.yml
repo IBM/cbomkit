@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:serverhuwenhui_project:serverhuwenhui:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serverhuwenhui_project:serverhuwenhui:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serverhuwenhui_project:serverhuwenhui:-:*:*:*:*:node.js:*:*

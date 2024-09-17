@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/osehra/osehravista
+  - pkg:github/worldvista/vista

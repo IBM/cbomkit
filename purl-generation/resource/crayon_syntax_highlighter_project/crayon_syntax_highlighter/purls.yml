@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/aramk/crayon-syntax-highlighter
+  - pkg:github/indian2020/crayon-syntax-highlighter
+  - pkg:github/wpplugins/crayon-syntax-highlighter

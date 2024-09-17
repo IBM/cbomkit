@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/gnumail
+  - pkg:deb/ubuntu/gnumail
+  - pkg:github/josh64x2/gnumail

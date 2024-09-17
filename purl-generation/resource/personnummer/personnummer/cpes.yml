@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:personnummer:personnummer:1.0.0:*:*:*:*:dart:*:*
+  - cpe:2.3:a:personnummer:personnummer:1.0.1:*:*:*:*:dart:*:*
+  - cpe:2.3:a:personnummer:personnummer:1.0.2:*:*:*:*:dart:*:*
+  - cpe:2.3:a:personnummer:personnummer:2.0.0:*:*:*:*:dart:*:*
+  - cpe:2.3:a:personnummer:personnummer:3.0.0:*:*:*:*:dart:*:*
+  - cpe:2.3:a:personnummer:personnummer:3.0.1:*:*:*:*:dart:*:*
+  - cpe:2.3:a:personnummer:personnummer:3.0.2:*:*:*:*:dart:*:*
+  - cpe:2.3:a:personnummer:personnummer:*:*:*:*:*:dart:*:*
+  - cpe:2.3:a:personnummer:personnummer:-:*:*:*:*:dart:*:*

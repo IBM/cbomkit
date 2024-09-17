@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/hashicorp/vault-csi-provider
+  - pkg:github/hashicorp/vault-csi-provider

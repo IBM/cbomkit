@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:tp4a:teleport:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:tp4a:teleport:2.0.0.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:tp4a:teleport:2.0.0.1:hotfix:*:*:*:*:*:*
+  - cpe:2.3:a:tp4a:teleport:2.1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tp4a:teleport:2.2.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tp4a:teleport:2.2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tp4a:teleport:2.2.6.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:tp4a:teleport:2.2.6.1:hotfix:*:*:*:*:*:*
+  - cpe:2.3:a:tp4a:teleport:2.2.6.1:hotfix2:*:*:*:*:*:*
+  - cpe:2.3:a:tp4a:teleport:2.2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tp4a:teleport:2.2.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:tp4a:teleport:3.0.1.6:beta:*:*:*:*:*:*
+  - cpe:2.3:a:tp4a:teleport:3.0.2.9:beta:*:*:*:*:*:*
+  - cpe:2.3:a:tp4a:teleport:3.1.0:*:*:*:*:*:*:*

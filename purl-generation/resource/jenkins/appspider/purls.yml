@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/appspider-build-scanner-plugin
+  - pkg:github/rapid7/jenkinsci-appspider-plugin

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/x0ken/freemind
+  - pkg:rpm/opensuse/freemind
+  - pkg:sourceforge/freemind

@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/commons-beanutils
+  - pkg:deb/debian/commons-beanutils
+  - pkg:github/apache/commons-beanutils
+  - pkg:gitlab/redhat/apache-commons-beanutils
+  - pkg:rpm/fedora/apache-commons-beanutils
+  - pkg:rpm/opensuseapache-commons-beanutils

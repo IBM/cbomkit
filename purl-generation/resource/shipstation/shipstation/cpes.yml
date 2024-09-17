@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:shipstation:shipstation:1.0:*:*:*:*:cs-cart:*:*
+  - cpe:2.3:a:shipstation:shipstation:*:*:*:*:*:cs-cart:*:*

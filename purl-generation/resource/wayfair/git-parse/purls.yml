@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/wayfair/git-parse
+  - pkg:npm/git-parse

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/pydantic
+  - pkg:deb/ubuntu/pydantic
+  - pkg:github/samuelcolvin/pydantic
+  - pkg:pypi/pydantic
+  - pkg:rpm/fedora/python-pydantic
+  - pkg:rpm/opensuse/python-pydantic
+  - pkg:sourceforge/pydantic.mirror

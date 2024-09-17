@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/npm/npm-user-validate
+  - pkg:maven/org.webjars.npm/npm-user-validate
+  - pkg:npm/npm-user-validate
+  - pkg:rpm/fedora/nodejs-npm-user-validate

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/schnittstabil/merge-options
+  - pkg:maven/org.webjars.npm/merge-options
+  - pkg:npm/merge-options

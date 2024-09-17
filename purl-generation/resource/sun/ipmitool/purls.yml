@@ -1,0 +1,10 @@
+purls:
+  - pkg:bitbucket/europeanspallationsource/ipmitool
+  - pkg:deb/debian/ipmitool
+  - pkg:deb/ubuntu/ipmitool
+  - pkg:github/ipmitool/ipmitool
+  - pkg:gitlab/redhat/ipmitool
+  - pkg:rpm/centos/ipmitool
+  - pkg:rpm/fedora/ipmitool
+  - pkg:rpm/opensuse/ipmitool
+  - pkg:sourceforge/ipmitool

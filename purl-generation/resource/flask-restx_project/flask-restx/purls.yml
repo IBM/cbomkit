@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/python-restx/flask-restx
+  - pkg:pypi/flask-restx
+  - pkg:rpm/fedora/python-flask-restx
+  - pkg:rpm/opensuse/python-flask-restx

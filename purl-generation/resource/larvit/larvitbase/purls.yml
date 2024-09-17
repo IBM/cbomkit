@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/larvit/larvitbase-api
+  - pkg:npm/larvitbase-api

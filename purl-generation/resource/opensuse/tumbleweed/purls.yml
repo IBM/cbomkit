@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/opensuse/tumbleweed
+  - pkg:github/gregkh/tumbleweed
+  - pkg:rpm/opensuse/opensuse-release

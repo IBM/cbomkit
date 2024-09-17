@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:apache:xmlgraphics_commons:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xmlgraphics_commons:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xmlgraphics_commons:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xmlgraphics_commons:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xmlgraphics_commons:1.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xmlgraphics_commons:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xmlgraphics_commons:1.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xmlgraphics_commons:1.5:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xmlgraphics_commons:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xmlgraphics_commons:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xmlgraphics_commons:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xmlgraphics_commons:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xmlgraphics_commons:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xmlgraphics_commons:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xmlgraphics_commons:2.6:*:*:*:*:*:*:*

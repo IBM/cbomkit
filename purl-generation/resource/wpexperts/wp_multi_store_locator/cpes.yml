@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wpexperts:wp_multi_store_locator:2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpexperts:wp_multi_store_locator:*:*:*:*:*:wordpress:*:*

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:gopistolet_project:gopistolet:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gopistolet_project:gopistolet:-:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/stealjs/transpile
+  - pkg:npm/transpile

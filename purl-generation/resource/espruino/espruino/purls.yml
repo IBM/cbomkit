@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/voxadam/espruino
+  - pkg:github/espruino/espruino
+  - pkg:rpm/opensuse/espruino

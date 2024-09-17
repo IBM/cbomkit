@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/node-tough-cookie
+  - pkg:deb/ubuntu/node-tough-cookie
+  - pkg:github/salesforce/tough-cookie
+  - pkg:npm/tough-cookie

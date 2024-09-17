@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/f2fs-tools
+  - pkg:deb/ubuntu/f2fs-tools
+  - pkg:github/jaegeuk/f2fs-tools
+  - pkg:rpm/fedora/f2fs-tools
+  - pkg:rpm/opensuse/f2fs-tools

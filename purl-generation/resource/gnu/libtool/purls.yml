@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/libtool
+  - pkg:deb/ubuntu/libtool
+  - pkg:github/autotools-mirror/libtool
+  - pkg:github/cray/libtool
+  - pkg:github/distrotech/libtool
+  - pkg:gitlab/redhat/libtool
+  - pkg:gnu/libtool
+  - pkg:rpm/centos/libtool
+  - pkg:rpm/fedora/libtool
+  - pkg:rpm/opensuse/libtool

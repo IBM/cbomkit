@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:ajaxpro.2_project:ajaxpro.2:2.9.17.2:*:*:*:*:.net:*:*
+  - cpe:2.3:a:ajaxpro.2_project:ajaxpro.2:6.10.6.2:*:*:*:*:.net:*:*
+  - cpe:2.3:a:ajaxpro.2_project:ajaxpro.2:*:*:*:*:*:.net:*:*
+  - cpe:2.3:a:ajaxpro.2_project:ajaxpro.2:-:*:*:*:*:.net:*:*

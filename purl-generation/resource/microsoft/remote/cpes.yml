@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:microsoft:remote:0.176.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:remote:0.177.0:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:remote:0.177.1:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:remote:0.177.2:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:remote:*:*:*:*:*:visual_studio_code:*:*
+  - cpe:2.3:a:microsoft:remote:-:*:*:*:*:visual_studio_code:*:*

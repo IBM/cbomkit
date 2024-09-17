@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/athenz/athenz
+  - pkg:maven/com.yahoo.athenz/athenz

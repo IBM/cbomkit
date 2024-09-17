@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:ldapscripts:ldapscripts:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ldapscripts:ldapscripts:1.7:*:*:*:*:*:*:*

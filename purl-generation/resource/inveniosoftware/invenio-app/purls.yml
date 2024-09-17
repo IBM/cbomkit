@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/inveniosoftware/invenio-app
+  - pkg:pypi/invenio-app

@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:spoonlabs:vivvo_article_management_cms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:spoonlabs:vivvo_article_management_cms:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:spoonlabs:vivvo_article_management_cms:3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:spoonlabs:vivvo_article_management_cms:3.40:*:*:*:*:*:*:*

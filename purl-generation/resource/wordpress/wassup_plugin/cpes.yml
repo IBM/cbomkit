@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:wordpress:wassup_plugin:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wassup_plugin:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wassup_plugin:1.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wassup_plugin:1.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wassup_plugin:1.7.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wassup_plugin:1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wassup_plugin:1.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wordpress:wassup_plugin:1.8.2:*:*:*:*:*:*:*

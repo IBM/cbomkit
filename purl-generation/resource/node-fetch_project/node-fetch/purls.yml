@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/deoates/node-fetch
+  - pkg:deb/debian/node-fetch
+  - pkg:deb/ubuntu/node-fetch
+  - pkg:github/node-fetch/node-fetch
+  - pkg:maven/org.webjars.npm/node-fetch
+  - pkg:npm/node-fetch

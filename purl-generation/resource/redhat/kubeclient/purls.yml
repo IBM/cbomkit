@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-kubeclient
+  - pkg:deb/ubuntu/ruby-kubeclient
+  - pkg:gem/kubeclient
+  - pkg:github/manageiq/kubeclient
+  - pkg:rpm/opensuse/rubygem-kubeclient

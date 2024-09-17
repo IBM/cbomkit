@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:tekmonks:monkshu:1.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:tekmonks:monkshu:1.91:*:*:*:*:*:*:*
+  - cpe:2.3:a:tekmonks:monkshu:1.95:*:*:*:*:*:*:*
+  - cpe:2.3:a:tekmonks:monkshu:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tekmonks:monkshu:2.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:tekmonks:monkshu:2.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:tekmonks:monkshu:2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:tekmonks:monkshu:2.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:tekmonks:monkshu:2.95:*:*:*:*:*:*:*

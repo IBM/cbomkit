@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/shy2850/f2e-server
+  - pkg:npm/f2e-server

@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.01:*:*:*:*:perl:*:*
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.021:*:*:*:*:perl:*:*
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.022:*:*:*:*:perl:*:*
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.02:*:*:*:*:perl:*:*
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.0.31:*:*:*:*:perl:*:*
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.032:*:*:*:*:perl:*:*
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.033:*:*:*:*:perl:*:*
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.11:*:*:*:*:perl:*:*
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.12:*:*:*:*:perl:*:*
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.13:*:*:*:*:perl:*:*
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.15:*:*:*:*:perl:*:*
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.16:*:*:*:*:perl:*:*
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.17:*:*:*:*:perl:*:*
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.18:*:*:*:*:perl:*:*
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.19:*:*:*:*:perl:*:*
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.20:*:*:*:*:perl:*:*
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.22:*:*:*:*:perl:*:*
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.23:*:*:*:*:perl:*:*
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.26:*:*:*:*:perl:*:*
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.30:*:*:*:*:perl:*:*
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.31:*:*:*:*:perl:*:*
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.32:*:*:*:*:perl:*:*
+  - cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.33:*:*:*:*:perl:*:*

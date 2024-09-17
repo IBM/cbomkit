@@ -1,0 +1,4 @@
+purls:
+  - pkg:gitee/mail_osc/wangmarket
+  - pkg:github/xnx3/wangmarket
+  - pkg:maven/com.xnx3.wangmarket/wangmarket

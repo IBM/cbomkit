@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jupiter_cms:jupiter_cms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupiter_cms:jupiter_cms:1.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupiter_cms:jupiter_cms:1.1.5:*:*:*:*:*:*:*

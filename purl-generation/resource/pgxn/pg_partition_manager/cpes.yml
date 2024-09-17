@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:pgxn:pg_partition_manager:*:*:*:*:*:postgresql:*:*

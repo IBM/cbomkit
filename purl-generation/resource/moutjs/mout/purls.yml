@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mout/mout
+  - pkg:maven/org.webjars.npm/mout
+  - pkg:npm/mout

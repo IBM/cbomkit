@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:grinnellplans:grinnellplans:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:grinnellplans:grinnellplans:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:grinnellplans:grinnellplans:2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:grinnellplans:grinnellplans:3.0:*:*:*:*:*:*:*

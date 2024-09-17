@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/reg-viz/reg-suit
+  - pkg:golang/github.com/reg-viz/reg-suit
+  - pkg:npm/reg-suit

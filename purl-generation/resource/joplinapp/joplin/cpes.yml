@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:joplinapp:joplin:2.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:joplinapp:joplin:2.8.8:*:*:*:*:-:*:*
+  - cpe:2.3:a:joplinapp:joplin:*:*:*:*:*:node.js:*:*

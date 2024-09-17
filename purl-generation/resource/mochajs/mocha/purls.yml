@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/node-mocha
+  - pkg:deb/ubuntu/node-mocha
+  - pkg:github/mochajs/mocha
+  - pkg:maven/org.webjars.npm/mocha
+  - pkg:npm/mocha
+  - pkg:rpm/fedora/mocha
+  - pkg:rpm/opensuse/mocha
+  - pkg:sourceforge/mocha.mirror

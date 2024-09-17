@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/paramiko
+  - pkg:deb/ubuntu/paramiko
+  - pkg:github/paramiko/paramiko
+  - pkg:pypi/paramiko
+  - pkg:rpm/fedora/python-paramiko
+  - pkg:rpm/opensuse/python-paramiko

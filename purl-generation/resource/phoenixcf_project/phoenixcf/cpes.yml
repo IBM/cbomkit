@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:phoenixcf_project:phoenixcf:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phoenixcf_project:phoenixcf:-:*:*:*:*:*:*:*

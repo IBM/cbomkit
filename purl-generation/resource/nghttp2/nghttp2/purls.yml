@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/nghttp2
+  - pkg:deb/ubuntu/nghttp2
+  - pkg:github/nghttp2/nghttp2
+  - pkg:rpm/centos/nghttp2
+  - pkg:rpm/fedora/nghttp2
+  - pkg:rpm/opensuse/nghttp2

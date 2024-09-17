@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:daxiawp:dx-auto-save-images:1.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:daxiawp:dx-auto-save-images:*:*:*:*:*:wordpress:*:*

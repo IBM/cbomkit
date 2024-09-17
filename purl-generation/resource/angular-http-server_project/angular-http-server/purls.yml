@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/simonh1000/angular-http-server
+  - pkg:npm/angular-http-server

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:miklos_szeredi:fuse:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:miklos_szeredi:fuse:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:miklos_szeredi:fuse:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:miklos_szeredi:fuse:2.3_rc1:*:*:*:*:*:*:*
+  - cpe:2.3:a:miklos_szeredi:fuse:2.4.0:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/pooler/cpuminer
+  - pkg:rpm/opensuse/cpuminer
+  - pkg:sourceforge/cpuminer

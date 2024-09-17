@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:eslint-detailed-reporter_project:eslint-detailed-reporter:0.9.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:eslint-detailed-reporter_project:eslint-detailed-reporter:*:*:*:*:*:node.js:*:*

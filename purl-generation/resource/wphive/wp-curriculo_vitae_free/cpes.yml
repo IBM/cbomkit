@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:wphive:wp-curriculo_vitae_free:6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wphive:wp-curriculo_vitae_free:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wphive:wp-curriculo_vitae_free:-:*:*:*:*:wordpress:*:*

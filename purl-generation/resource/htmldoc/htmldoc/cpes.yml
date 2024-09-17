@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:htmldoc:htmldoc:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmldoc:htmldoc:1.8.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmldoc:htmldoc:1.8.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:htmldoc:htmldoc:1.8.26:*:*:*:*:*:*:*

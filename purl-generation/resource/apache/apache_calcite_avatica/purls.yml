@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/calcite
+  - pkg:docker/apache/calcite-avatica
+  - pkg:github/apache/calcite-avatica
+  - pkg:maven/org.apache.calcite.avatica/avatica

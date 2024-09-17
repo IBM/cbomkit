@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mangoraft/git
+  - pkg:npm/giting

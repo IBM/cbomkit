@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:open-school:open-school:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:open-school:open-school:2.2:*:*:*:community:*:*:*
+  - cpe:2.3:a:open-school:open-school:2.3:*:*:*:community:*:*:*
+  - cpe:2.3:a:open-school:open-school:3.0:*:*:*:-:*:*:*

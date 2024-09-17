@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:http-proxy-agent_project:http-proxy-agent:*:*:*:*:*:node.js:*:*

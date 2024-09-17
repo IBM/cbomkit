@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:webassembly:webassembly_binary_toolkit:1.0.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:webassembly_binary_toolkit:1.0.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:webassembly:webassembly_binary_toolkit:3:*:*:*:*:*:*:*

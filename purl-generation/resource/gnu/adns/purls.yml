@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/adns
+  - pkg:deb/ubuntu/adns
+  - pkg:github/lucab/adns
+  - pkg:gnu/adns
+  - pkg:rpm/fedora/adns
+  - pkg:rpm/opensuse/adns

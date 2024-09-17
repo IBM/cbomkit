@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/seam2/jboss-seam
+  - pkg:maven/jboss/jboss-seam

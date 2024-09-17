@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/lansuite/lansuite
+  - pkg:github/lansuite/lansuite

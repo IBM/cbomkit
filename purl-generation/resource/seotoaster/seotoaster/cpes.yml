@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:seotoaster:seotoaster:1.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:seotoaster:seotoaster:1.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:seotoaster:seotoaster:1.9:*:*:*:*:*:*:*

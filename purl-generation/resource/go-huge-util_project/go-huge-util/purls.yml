@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dablelv/go-huge-util
+  - pkg:golang/github.com/dablelv/go-huge-util

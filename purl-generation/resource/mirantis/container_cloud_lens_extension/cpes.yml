@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:mirantis:container_cloud_lens_extension:3.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:mirantis:container_cloud_lens_extension:3.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:mirantis:container_cloud_lens_extension:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mirantis:container_cloud_lens_extension:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mirantis:container_cloud_lens_extension:3.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mirantis:container_cloud_lens_extension:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mirantis:container_cloud_lens_extension:3.1.1:*:*:*:*:*:*:*

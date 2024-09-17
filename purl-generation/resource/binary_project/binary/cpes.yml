@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:binary_project:binary:0.2.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:binary_project:binary:0.3.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:binary_project:binary:0.4.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:binary_project:binary:0.4.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:binary_project:binary:0.4.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:binary_project:binary:0.4.3:*:*:*:*:go:*:*
+  - cpe:2.3:a:binary_project:binary:0.4.4:*:*:*:*:go:*:*
+  - cpe:2.3:a:binary_project:binary:0.4.5:*:*:*:*:go:*:*
+  - cpe:2.3:a:binary_project:binary:0.5.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:binary_project:binary:0.5.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:binary_project:binary:0.5.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:binary_project:binary:0.6.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:binary_project:binary:0.6.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:binary_project:binary:0.7.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:binary_project:binary:0.7.1:*:*:*:*:go:*:*

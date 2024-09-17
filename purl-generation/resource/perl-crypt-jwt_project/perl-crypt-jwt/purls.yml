@@ -1,0 +1,4 @@
+purls:
+  - pkg:cpan/crypt-jwt
+  - pkg:github/dcit/perl-crypt-jwt
+  - pkg:rpm/opensuse/perl-crypt-jwt

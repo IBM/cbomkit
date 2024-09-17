@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/jbigkit
+  - pkg:deb/ubuntu/jbigkit
+  - pkg:github/pld-linux/jbigkit/
+  - pkg:gitlab/redhat/jbigkit
+  - pkg:rpm/centos/jbigkit
+  - pkg:rpm/fedora/jbigkit
+  - pkg:rpm/opensuse/jbigkit

@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:jenkins-ci:exclusion:0.6:-:*:*:*:cloudbees_jenkins:*:*
+  - cpe:2.3:a:jenkins-ci:exclusion:0.7:-:*:*:*:cloudbees_jenkins:*:*
+  - cpe:2.3:a:jenkins-ci:exclusion:0.8:-:*:*:*:cloudbees_jenkins:*:*
+  - cpe:2.3:a:jenkins-ci:exclusion:0.9:-:*:*:*:cloudbees_jenkins:*:*

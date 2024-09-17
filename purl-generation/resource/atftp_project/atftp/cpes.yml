@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:atftp_project:atftp:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:atftp_project:atftp:0.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:atftp_project:atftp:0.7.git20120829-3.1\+b1:*:*:*:*:*:*:*

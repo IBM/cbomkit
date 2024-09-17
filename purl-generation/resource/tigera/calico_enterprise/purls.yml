@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/projectcalico/calico
+  - pkg:github/tigera/calico

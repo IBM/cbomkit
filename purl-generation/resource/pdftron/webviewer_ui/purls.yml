@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/pdftron/webviewer-ui
+  - pkg:golang/github.com/pdftron/webviewer-ui
+  - pkg:npm/%40pdftron/webviewer

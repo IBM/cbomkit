@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:o:gardenlinux:gardenlinux:184.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:gardenlinux:gardenlinux:27.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:gardenlinux:gardenlinux:27.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:gardenlinux:gardenlinux:318.4:*:*:*:*:*:*:*
+  - cpe:2.3:o:gardenlinux:gardenlinux:318.6:*:*:*:*:*:*:*
+  - cpe:2.3:o:gardenlinux:gardenlinux:318.8:*:*:*:*:*:*:*

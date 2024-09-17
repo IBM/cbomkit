@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:enanocms:enanocms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:enanocms:enanocms:0.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:enanocms:enanocms:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:enanocms:enanocms:0.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:enanocms:enanocms:0.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:enanocms:enanocms:0.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:enanocms:enanocms:0.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:enanocms:enanocms:0.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:enanocms:enanocms:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:enanocms:enanocms:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:enanocms:enanocms:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:enanocms:enanocms:1.0.2b1:*:*:*:*:*:*:*
+  - cpe:2.3:a:enanocms:enanocms:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:enanocms:enanocms:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:enanocms:enanocms:1.0.5:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/virt-manager/virt-bootstrap
+  - pkg:rpm/fedora/virt-bootstrap
+  - pkg:rpm/opensuse/virt-bootstrap

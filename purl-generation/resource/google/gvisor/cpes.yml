@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:google:gvisor:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:2018-08-22:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:2018-08-23:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:gvisor:2018-11-01:*:*:*:*:*:*:*

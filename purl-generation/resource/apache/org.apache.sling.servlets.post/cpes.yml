@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:apache:org.apache.sling.servlets.post:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:org.apache.sling.servlets.post:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:org.apache.sling.servlets.post:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:org.apache.sling.servlets.post:2.3.0:*:*:*:*:*:*:*

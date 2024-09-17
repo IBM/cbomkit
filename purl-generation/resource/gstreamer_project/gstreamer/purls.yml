@@ -1,0 +1,3 @@
+purls:
+  - pkg:freedesktop/gstreamer
+  - pkg:github/gstreamer/gstreamer

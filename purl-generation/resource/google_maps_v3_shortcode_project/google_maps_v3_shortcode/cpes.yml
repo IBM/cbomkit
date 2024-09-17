@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:google_maps_v3_shortcode_project:google_maps_v3_shortcode:1.02:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_maps_v3_shortcode_project:google_maps_v3_shortcode:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_maps_v3_shortcode_project:google_maps_v3_shortcode:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_maps_v3_shortcode_project:google_maps_v3_shortcode:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_maps_v3_shortcode_project:google_maps_v3_shortcode:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_maps_v3_shortcode_project:google_maps_v3_shortcode:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:google_maps_v3_shortcode_project:google_maps_v3_shortcode:-:*:*:*:*:wordpress:*:*

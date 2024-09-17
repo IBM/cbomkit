@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:drupal:taxonomy_manager:5.x-1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:taxonomy_manager:5.x-1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:taxonomy_manager:6.x-1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:taxonomy_manager:6.x-1.0-beta1:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:taxonomy_manager:6.x-1.0-beta2:*:*:*:*:*:*:*

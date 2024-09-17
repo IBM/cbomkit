@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/g13013/broccoli-compass
+  - pkg:npm/broccoli-compass

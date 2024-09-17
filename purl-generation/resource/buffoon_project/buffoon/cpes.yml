@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:buffoon_project:buffoon:0.5.0:*:*:*:*:rust:*:*

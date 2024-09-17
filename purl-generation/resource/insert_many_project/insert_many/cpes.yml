@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:insert_many_project:insert_many:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:insert_many_project:insert_many:0.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:insert_many_project:insert_many:2021-01-26:*:*:*:*:rust:*:*
+  - cpe:2.3:a:insert_many_project:insert_many:-:*:*:*:*:rust:*:*

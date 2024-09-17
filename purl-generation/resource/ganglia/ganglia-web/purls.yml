@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ganglia-web
+  - pkg:deb/ubuntu/ganglia-web
+  - pkg:github/ganglia/ganglia-web
+  - pkg:rpm/opensuse/ganglia-web
+  - pkg:sourceforge/ganglia

@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:tipsandtricks-hq:category_specific_rss_feed_subscription:1.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tipsandtricks-hq:category_specific_rss_feed_subscription:1.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tipsandtricks-hq:category_specific_rss_feed_subscription:1.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tipsandtricks-hq:category_specific_rss_feed_subscription:1.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tipsandtricks-hq:category_specific_rss_feed_subscription:1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tipsandtricks-hq:category_specific_rss_feed_subscription:1.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tipsandtricks-hq:category_specific_rss_feed_subscription:1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tipsandtricks-hq:category_specific_rss_feed_subscription:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tipsandtricks-hq:category_specific_rss_feed_subscription:2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tipsandtricks-hq:category_specific_rss_feed_subscription:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tipsandtricks-hq:category_specific_rss_feed_subscription:-:*:*:*:*:wordpress:*:*

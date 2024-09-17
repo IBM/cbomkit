@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:h2o_project:h2o:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:h2o_project:h2o:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:h2o_project:h2o:1.7.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:h2o_project:h2o:1.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:h2o_project:h2o:2.0.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:h2o_project:h2o:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:h2o_project:h2o:2.1.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:h2o_project:h2o:2.1.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:h2o_project:h2o:*:beta4:*:*:*:*:*:*

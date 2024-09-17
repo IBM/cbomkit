@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mycred/mycred
+  - pkg:github/wp-plugins/mycred
+  - pkg:github/wpplugins/mycred

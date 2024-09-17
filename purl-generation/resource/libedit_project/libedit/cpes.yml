@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:libedit_project:libedit:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:libedit_project:libedit:3.1:*:*:*:*:*:*:*

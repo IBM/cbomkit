@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mikel/mail
+  - pkg:golang/github.com/mikel/mail

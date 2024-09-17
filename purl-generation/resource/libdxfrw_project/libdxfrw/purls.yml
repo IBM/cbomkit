@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/benley/libdxfrw
+  - pkg:github/librecad/libdxfrw
+  - pkg:rpm/fedora/libdxfrw
+  - pkg:rpm/opensuse/libdxfrw
+  - pkg:sourceforge/libdxfrw

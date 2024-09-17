@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/lc_rd/reprepro
+  - pkg:deb/debian/reprepro
+  - pkg:deb/ubuntu/reprepro
+  - pkg:github/ionos-cloud/reprepro
+  - pkg:rpm/fedora/reprepro
+  - pkg:rpm/opensuse/reprepro

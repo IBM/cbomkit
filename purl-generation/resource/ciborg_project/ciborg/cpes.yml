@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:ciborg_project:ciborg:0.0.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ciborg_project:ciborg:3.0.0:*:*:*:*:ruby:*:*

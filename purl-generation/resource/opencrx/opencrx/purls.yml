@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/opencrx/opencrx
+  - pkg:maven/org.opencrx/opencrx-core
+  - pkg:sourceforge/opencrx

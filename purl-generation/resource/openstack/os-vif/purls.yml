@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/python-os-vif
+  - pkg:deb/ubuntu/python-os-vif
+  - pkg:github/openstack/os-vif
+  - pkg:pypi/os-vif
+  - pkg:rpm/opensuse/python-os-vif

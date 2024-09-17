@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:pipreqs_project:pipreqs:0.3.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:pipreqs_project:pipreqs:0.3.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:pipreqs_project:pipreqs:0.3.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:pipreqs_project:pipreqs:0.3.8:*:*:*:*:python:*:*
+  - cpe:2.3:a:pipreqs_project:pipreqs:0.4.0:*:*:*:*:python:*:*
+  - cpe:2.3:a:pipreqs_project:pipreqs:0.4.10:*:*:*:*:python:*:*
+  - cpe:2.3:a:pipreqs_project:pipreqs:0.4.11:*:*:*:*:python:*:*
+  - cpe:2.3:a:pipreqs_project:pipreqs:0.4.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:pipreqs_project:pipreqs:0.4.2:*:*:*:*:python:*:*
+  - cpe:2.3:a:pipreqs_project:pipreqs:0.4.3:*:*:*:*:python:*:*
+  - cpe:2.3:a:pipreqs_project:pipreqs:0.4.4:*:*:*:*:python:*:*
+  - cpe:2.3:a:pipreqs_project:pipreqs:0.4.5:*:*:*:*:python:*:*
+  - cpe:2.3:a:pipreqs_project:pipreqs:0.4.6:*:*:*:*:python:*:*
+  - cpe:2.3:a:pipreqs_project:pipreqs:0.4.7:*:*:*:*:python:*:*
+  - cpe:2.3:a:pipreqs_project:pipreqs:0.4.8:*:*:*:*:python:*:*

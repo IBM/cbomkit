@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-yajl
+  - pkg:deb/ubuntu/ruby-yajl
+  - pkg:gem/yajl-ruby
+  - pkg:github/brianmario/yajl-ruby
+  - pkg:rpm/opensuse/rubygem-yajl-ruby

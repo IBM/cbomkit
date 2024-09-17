@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:lenovo:antilles:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:lenovo:antilles:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lenovo:antilles:1.0.1:*:*:*:*:*:*:*

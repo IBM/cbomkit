@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:event_notifier_project:event_notifier:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:event_notifier_project:event_notifier:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:event_notifier_project:event_notifier:1.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:event_notifier_project:event_notifier:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:event_notifier_project:event_notifier:1.2.2:*:*:*:*:wordpress:*:*

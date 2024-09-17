@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:secure-endpoints:kerberised_netcat:1.11-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:secure-endpoints:kerberised_netcat:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:secure-endpoints:kerberised_netcat:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:secure-endpoints:kerberised_netcat:1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:secure-endpoints:kerberised_netcat:1.7.1:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/kreait/firebase-php
+  - pkg:github/kreait/firebase-php

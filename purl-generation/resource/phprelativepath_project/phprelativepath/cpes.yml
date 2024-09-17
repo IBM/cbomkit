@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:phprelativepath_project:phprelativepath:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phprelativepath_project:phprelativepath:1.0.2:*:*:*:*:*:*:*

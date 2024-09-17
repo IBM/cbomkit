@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:sitebuilder_dynamic_components_project:sitebuilder_dynamic_components:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sitebuilder_dynamic_components_project:sitebuilder_dynamic_components:-:*:*:*:*:wordpress:*:*

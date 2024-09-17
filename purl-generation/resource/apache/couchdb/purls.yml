@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/couchdb
+  - pkg:docker/couchdb
+  - pkg:github/apache/couchdb
+  - pkg:gitlab/kalilinux/couchdb
+  - pkg:rpm/fedora/couchdb
+  - pkg:rpm/opensuse/couchdb

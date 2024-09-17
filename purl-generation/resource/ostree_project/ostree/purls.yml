@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ostree
+  - pkg:deb/ubuntu/ostree
+  - pkg:github/ostreedev/ostree
+  - pkg:gitlab/redhat/ostree
+  - pkg:rpm/fedora/ostree
+  - pkg:rpm/opensuse/libostree

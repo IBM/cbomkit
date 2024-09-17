@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/surf
+  - pkg:deb/ubuntu/surf
+  - pkg:github/lkiesow/surf
+  - pkg:rpm/fedora/surf
+  - pkg:rpm/opensuse/surf

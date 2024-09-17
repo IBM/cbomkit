@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/tinyproxy
+  - pkg:deb/ubuntu/tinyproxy
+  - pkg:github/tinyproxy/tinyproxy
+  - pkg:rpm/fedora/tinyproxy
+  - pkg:rpm/opensuse/tinyproxy
+  - pkg:sourceforge/tinyproxy

@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:jenkins:google_kubernetes_engine:0.1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:google_kubernetes_engine:0.2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:google_kubernetes_engine:0.3.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:google_kubernetes_engine:0.4.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:google_kubernetes_engine:0.5.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:google_kubernetes_engine:0.6.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:google_kubernetes_engine:0.6.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:google_kubernetes_engine:0.6.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:google_kubernetes_engine:0.6.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:google_kubernetes_engine:0.7.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:google_kubernetes_engine:0.7.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:google_kubernetes_engine:0.8.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:google_kubernetes_engine:0.8.1:*:*:*:*:jenkins:*:*

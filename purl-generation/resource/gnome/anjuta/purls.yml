@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/anjuta
+  - pkg:deb/ubuntu/anjuta
+  - pkg:github/abderrahim/anjuta
+  - pkg:github/sgranjoux/anjuta
+  - pkg:github/weynhamz/gnome-anjuta
+  - pkg:rpm/fedora/anjuta
+  - pkg:rpm/opensuse/anjuta

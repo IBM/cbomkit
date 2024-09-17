@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:horde:horde_compress_fast:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_compress_fast:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_compress_fast:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_compress_fast:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_compress_fast:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:horde_compress_fast:1.1.1:*:*:*:*:*:*:*

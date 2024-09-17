@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:apache:rust_sgx_sdk:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rust_sgx_sdk:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rust_sgx_sdk:0.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rust_sgx_sdk:0.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rust_sgx_sdk:0.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rust_sgx_sdk:0.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rust_sgx_sdk:0.9.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rust_sgx_sdk:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rust_sgx_sdk:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rust_sgx_sdk:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rust_sgx_sdk:1.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rust_sgx_sdk:1.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rust_sgx_sdk:1.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rust_sgx_sdk:1.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rust_sgx_sdk:1.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rust_sgx_sdk:1.1.0:*:*:*:*:*:*:*

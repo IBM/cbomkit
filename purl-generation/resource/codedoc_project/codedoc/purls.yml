@@ -1,0 +1,3 @@
+purls:
+  - pkg:githubconnect-platform/codedoc
+  - pkg:npm/%40codedoc/core

@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:luxcore:lux:4.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:luxcore:lux:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:luxcore:lux:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:luxcore:lux:5.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:luxcore:lux:5.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:luxcore:lux:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:luxcore:lux:5.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:luxcore:lux:5.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:luxcore:lux:5.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:luxcore:lux:5.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:luxcore:lux:5.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:luxcore:lux:5.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:luxcore:lux:5.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:luxcore:lux:5.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:luxcore:lux:5.3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:luxcore:lux:5.3.3:*:*:*:*:*:*:*

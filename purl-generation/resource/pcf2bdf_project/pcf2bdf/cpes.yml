@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:pcf2bdf_project:pcf2bdf:1.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:pcf2bdf_project:pcf2bdf:1.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:pcf2bdf_project:pcf2bdf:1.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:pcf2bdf_project:pcf2bdf:1.07:*:*:*:*:*:*:*

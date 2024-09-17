@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:morgan-json_project:morgan-json:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:morgan-json_project:morgan-json:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:morgan-json_project:morgan-json:-:*:*:*:*:node.js:*:*

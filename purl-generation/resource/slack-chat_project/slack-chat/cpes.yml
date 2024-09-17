@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:slack-chat_project:slack-chat:1.5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:slack-chat_project:slack-chat:-:*:*:*:*:wordpress:*:*

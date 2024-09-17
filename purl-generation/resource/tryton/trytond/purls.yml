@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/tryton-meta
+  - pkg:deb/ubuntu/tryton-meta
+  - pkg:github/tryton/trytond
+  - pkg:rpm/fedora/trytond
+  - pkg:rpm/opensuse/trytond

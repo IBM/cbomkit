@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:redhat:openshift_origin:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_origin:1.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_origin:1.0.5-3:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_origin:1.2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_origin:1.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_origin:1.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_origin:1.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_origin:2014-02-14:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_origin:2014-08-13:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_origin:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_origin:2.1.1:*:*:*:*:*:*:*

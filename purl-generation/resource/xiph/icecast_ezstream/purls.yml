@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/xiph/ezstream
+  - pkg:rpm/fedora/ezstream
+  - pkg:rpm/opensuse/ezstream

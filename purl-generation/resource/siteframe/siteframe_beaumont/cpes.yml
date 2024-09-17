@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:siteframe:siteframe_beaumont:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:siteframe:siteframe_beaumont:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:siteframe:siteframe_beaumont:5.0.1a:*:*:*:*:*:*:*
+  - cpe:2.3:a:siteframe:siteframe_beaumont:5.0.2:*:*:*:*:*:*:*

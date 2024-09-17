@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/zencart/zencart
+  - pkg:github/zencart/zencart

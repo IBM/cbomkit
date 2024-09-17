@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/dpaquette/bugtracker.net
+  - pkg:nuget/nuget/bugtracker
+  - pkg:sourceforge/btnet

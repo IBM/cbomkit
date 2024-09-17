@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:kaazing:kaazing_gateway:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:kaazing:kaazing_gateway:4.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kaazing:kaazing_gateway:4.0.2:*:*:*:jms:*:*:*
+  - cpe:2.3:a:kaazing:kaazing_gateway:4.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:kaazing:kaazing_gateway:4.0.3:*:*:*:jms:*:*:*
+  - cpe:2.3:a:kaazing:kaazing_gateway:4.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:kaazing:kaazing_gateway:4.0.4:*:*:*:jms:*:*:*
+  - cpe:2.3:a:kaazing:kaazing_gateway:4.0.5:*:*:*:jms:*:*:*
+  - cpe:2.3:a:kaazing:kaazing_gateway:4.0.6:hotfix2:*:*:jms:*:*:*
+  - cpe:2.3:a:kaazing:kaazing_gateway:4.0.6:*:*:*:jms:*:*:*
+  - cpe:2.3:a:kaazing:kaazing_gateway:4.0.7:*:*:*:jms:*:*:*
+  - cpe:2.3:a:kaazing:kaazing_gateway:4.4.2:hotfix1:*:*:jms:*:*:*
+  - cpe:2.3:a:kaazing:kaazing_gateway:4.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:kaazing:kaazing_gateway:4.5.3:hotfix1:*:*:*:*:*:*
+  - cpe:2.3:a:kaazing:kaazing_gateway:4.5.3:hotfix1:*:*:jms:*:*:*
+  - cpe:2.3:a:kaazing:kaazing_gateway:*:*:*:*:community:*:*:*
+  - cpe:2.3:a:kaazing:kaazing_gateway:*:*:*:*:enterprise:*:*:*
+  - cpe:2.3:a:kaazing:kaazing_gateway:*:hotfix1:*:*:jms:*:*:*
+  - cpe:2.3:a:kaazing:kaazing_gateway:*:*:*:*:jms:*:*:*

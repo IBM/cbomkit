@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/sssd/sssd
+  - pkg:rpm/fedora/sssd
+  - pkg:rpm/opensuse/sssd

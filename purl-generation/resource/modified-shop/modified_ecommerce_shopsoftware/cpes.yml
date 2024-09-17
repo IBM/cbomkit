@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:modified-shop:modified_ecommerce_shopsoftware:1.05:-:*:*:*:*:*:*
+  - cpe:2.3:a:modified-shop:modified_ecommerce_shopsoftware:1.05:sp1d:*:*:*:*:*:*
+  - cpe:2.3:a:modified-shop:modified_ecommerce_shopsoftware:1.06:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:modified-shop:modified_ecommerce_shopsoftware:1.06:revision4320:*:*:*:*:*:*
+  - cpe:2.3:a:modified-shop:modified_ecommerce_shopsoftware:1.06:revision4332:*:*:*:*:*:*
+  - cpe:2.3:a:modified-shop:modified_ecommerce_shopsoftware:1.06:revision4356:*:*:*:*:*:*
+  - cpe:2.3:a:modified-shop:modified_ecommerce_shopsoftware:1.06:revision4642:*:*:*:*:*:*
+  - cpe:2.3:a:modified-shop:modified_ecommerce_shopsoftware:1.06:revision4642_sp1:*:*:*:*:*:*
+  - cpe:2.3:a:modified-shop:modified_ecommerce_shopsoftware:1.06:revision4642_sp2:*:*:*:*:*:*
+  - cpe:2.3:a:modified-shop:modified_ecommerce_shopsoftware:1.06:revision4642_sp3:*:*:*:*:*:*
+  - cpe:2.3:a:modified-shop:modified_ecommerce_shopsoftware:1.06:revision4642_sp4:*:*:*:*:*:*
+  - cpe:2.3:a:modified-shop:modified_ecommerce_shopsoftware:2.0.0.0:revision9678:*:*:*:*:*:*
+  - cpe:2.3:a:modified-shop:modified_ecommerce_shopsoftware:2.0.1.0:revision10403:*:*:*:*:*:*
+  - cpe:2.3:a:modified-shop:modified_ecommerce_shopsoftware:2.0.2.0:revision10591:*:*:*:*:*:*
+  - cpe:2.3:a:modified-shop:modified_ecommerce_shopsoftware:2.0.2.1:revision10607:*:*:*:*:*:*
+  - cpe:2.3:a:modified-shop:modified_ecommerce_shopsoftware:2.0.2.2:revision10690:*:*:*:*:*:*
+  - cpe:2.3:a:modified-shop:modified_ecommerce_shopsoftware:2.0.3.0:revision10907:*:*:*:*:*:*
+  - cpe:2.3:a:modified-shop:modified_ecommerce_shopsoftware:2.0.4.0:revision11204:*:*:*:*:*:*
+  - cpe:2.3:a:modified-shop:modified_ecommerce_shopsoftware:2.0.4.1:revision11327:*:*:*:*:*:*
+  - cpe:2.3:a:modified-shop:modified_ecommerce_shopsoftware:2.0.4.2:revision11374:*:*:*:*:*:*
+  - cpe:2.3:a:modified-shop:modified_ecommerce_shopsoftware:2.0.5.0:revision12487:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:moodle-block_sitenews_project:moodle-block_sitenews:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:moodle-block_sitenews_project:moodle-block_sitenews:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:moodle-block_sitenews_project:moodle-block_sitenews:1.0:*:*:*:*:*:*:*

@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:openstack:designate:1.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:designate:1.0.0.0:b1:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:designate:1.0.0.0b1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:designate:1.0.0.0:b2:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:designate:1.0.0:a0:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:designate:1.0.0a0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:designate:2015.1.0:*:*:*:*:*:*:*

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/lrzsz
+  - pkg:deb/ubuntu/lrzsz
+  - pkg:github/coderfordev/lrzsz
+  - pkg:github/jnavila/lrzsz
+  - pkg:github/tobyzxj/lrzsz
+  - pkg:rpm/centos/lrzsz
+  - pkg:rpm/fedora/lrzsz
+  - pkg:rpm/opensuse/lrzsz

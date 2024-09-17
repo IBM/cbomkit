@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:iron_bars_shell:iron_bars_shell:0.3a:*:*:*:*:*:*:*
+  - cpe:2.3:a:iron_bars_shell:iron_bars_shell:0.3b:*:*:*:*:*:*:*
+  - cpe:2.3:a:iron_bars_shell:iron_bars_shell:0.3c:*:*:*:*:*:*:*

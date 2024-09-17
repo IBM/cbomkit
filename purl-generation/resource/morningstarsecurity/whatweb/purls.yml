@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/whatweb
+  - pkg:deb/ubuntu/whatweb
+  - pkg:github/urbanadventurer/whatweb
+  - pkg:rpm/opensuse/whatweb

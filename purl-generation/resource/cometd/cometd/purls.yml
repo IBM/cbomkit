@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/cometd/cometd
+  - pkg:maven/org.cometd/cometd-project
+  - pkg:npm/cometd

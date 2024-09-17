@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/inline_svg
+  - pkg:github/jamesmartin/inline_svg

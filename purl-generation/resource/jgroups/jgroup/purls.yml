@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libjgroups-java
+  - pkg:deb/ubuntu/libjgroups-java
+  - pkg:docker/belaban/jgroups
+  - pkg:github/belaban/jgroups
+  - pkg:maven/org.jgroups/jgroups
+  - pkg:rpm/opensuse/jgroups
+  - pkg:sourceforge/javagroups

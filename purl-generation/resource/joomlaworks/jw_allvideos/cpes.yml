@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:joomlaworks:jw_allvideos:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:joomlaworks:jw_allvideos:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:joomlaworks:jw_allvideos:3.2:*:*:*:*:*:*:*

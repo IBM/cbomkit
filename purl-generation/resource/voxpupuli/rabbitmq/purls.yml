@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/dexmatech/puppet-rabbitmq
+  - pkg:deb/debian/puppet-module-puppetlabs-rabbitmq
+  - pkg:deb/ubuntu/puppet-module-puppetlabs-rabbitmq
+  - pkg:github/voxpupuli/puppet-rabbitmq

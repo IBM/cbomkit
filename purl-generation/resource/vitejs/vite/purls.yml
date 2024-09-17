@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/vitejs/vite
+  - pkg:maven/org.webjars.npm/vite
+  - pkg:npm/vite

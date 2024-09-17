@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/neomutt
+  - pkg:deb/ubuntu/neomutt
+  - pkg:github/neomutt/neomutt
+  - pkg:rpm/opensuse/neomutt

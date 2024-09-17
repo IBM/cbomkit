@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/auties00/noise-java
+  - pkg:github/rweather/noise-java
+  - pkg:maven/com.github.auties00/noise-java

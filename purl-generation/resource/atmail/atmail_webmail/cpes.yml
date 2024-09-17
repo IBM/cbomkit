@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:atmail:atmail_webmail:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:atmail:atmail_webmail:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:atmail:atmail_webmail:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:atmail:atmail_webmail:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:atmail:atmail_webmail:4.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:atmail:atmail_webmail:4.11:*:freebsd:*:*:*:*:*
+  - cpe:2.3:a:atmail:atmail_webmail:4.11:*:hp-ux:*:*:*:*:*
+  - cpe:2.3:a:atmail:atmail_webmail:4.11:*:linux:*:*:*:*:*
+  - cpe:2.3:a:atmail:atmail_webmail:4.11:*:mac_os_x:*:*:*:*:*
+  - cpe:2.3:a:atmail:atmail_webmail:4.11:*:solaris:*:*:*:*:*
+  - cpe:2.3:a:atmail:atmail_webmail:4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:atmail:atmail_webmail:4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:atmail:atmail_webmail:4.3:*:windows:*:*:*:*:*
+  - cpe:2.3:a:atmail:atmail_webmail:4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:atmail:atmail_webmail:4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:atmail:atmail_webmail:4.51:*:*:*:*:*:*:*
+  - cpe:2.3:a:atmail:atmail_webmail:4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:atmail:atmail_webmail:4.61:*:*:*:*:*:*:*

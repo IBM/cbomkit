@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/logcheck
+  - pkg:deb/ubuntu/logcheck
+  - pkg:github/smola/logcheck
+  - pkg:github/yasuhirokimura/logcheck
+  - pkg:rpm/fedora/logcheck
+  - pkg:rpm/opensuse/logcheck

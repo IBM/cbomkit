@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/scipy
+  - pkg:deb/ubuntu/scipy
+  - pkg:github/scipy/scipy
+  - pkg:gitlab/redhat/scipy
+  - pkg:pypi/scipy
+  - pkg:rpm/centos/scipy
+  - pkg:rpm/fedora/scipy
+  - pkg:rpm/opensuse/python-scipy
+  - pkg:sourceforge/scipy.mirror

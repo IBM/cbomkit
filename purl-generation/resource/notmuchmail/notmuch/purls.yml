@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/notmuch
+  - pkg:github/notmuch/notmuch
+  - pkg:pypi/notmuch
+  - pkg:rpm/fedora/notmuch
+  - pkg:rpm/opensuse/notmuch

@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:ethercreative:logs:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ethercreative:logs:3.0.0:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:ethercreative:logs:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ethercreative:logs:3.0.1:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:ethercreative:logs:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ethercreative:logs:3.0.2:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:ethercreative:logs:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ethercreative:logs:3.0.3:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:ethercreative:logs:3.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ethercreative:logs:3.0.4:*:*:*:*:craft_cms:*:*
+  - cpe:2.3:a:ethercreative:logs:3.0.5:*:*:*:*:craft_cms:*:*

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/mkvtoolnixp
+  - pkg:deb/ubuntu/mkvtoolnix
+  - pkg:github/aspotashev/mkvtoolnix
+  - pkg:github/nmaier/mkvtoolnix
+  - pkg:github/paulyc/mkvtoolnix
+  - pkg:gitlab/mbunkus/mkvtoolnix
+  - pkg:rpm/fedora/mkvtoolnix
+  - pkg:rpm/opensuse/mkvtoolnix

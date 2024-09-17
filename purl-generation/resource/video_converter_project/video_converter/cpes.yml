@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:video_converter_project:video_converter:0.0.10:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:video_converter_project:video_converter:0.0.11:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:video_converter_project:video_converter:0.0.12:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:video_converter_project:video_converter:0.0.2:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:video_converter_project:video_converter:0.0.3:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:video_converter_project:video_converter:0.0.4:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:video_converter_project:video_converter:0.0.5:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:video_converter_project:video_converter:0.0.6:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:video_converter_project:video_converter:0.0.7:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:video_converter_project:video_converter:0.0.8:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:video_converter_project:video_converter:0.0.9:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:video_converter_project:video_converter:0.1.0:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:video_converter_project:video_converter:0.1.1:*:*:*:*:nextcloud:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dcooney/wordpress-ajax-load-more
+  - pkg:github/wp-plugins/ajax-load-more

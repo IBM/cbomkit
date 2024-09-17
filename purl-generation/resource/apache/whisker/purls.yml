@@ -1,0 +1,3 @@
+purls:
+  - pkg:apache/creadur
+  - pkg:github/apache/creadur-whisker

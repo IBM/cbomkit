@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/hylafax
+  - pkg:deb/ubuntu/hylafax
+  - pkg:github/autofax/hylafax_copy
+  - pkg:github/distrotech/hylafax
+  - pkg:github/ifax/hylafax
+  - pkg:rpm/fedora/hylafax
+  - pkg:rpm/opensuse/hylafax
+  - pkg:sourceforge/hylafax

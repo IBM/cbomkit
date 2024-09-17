@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/rust-lang/regex
+  - pkg:rpm/fedora/rust-regex
+  - pkg:rpm/opensuse/rust-regex

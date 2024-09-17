@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/texlive-extra-utils
+  - pkg:github/debian-tex/texlive-nonbin

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/poco
+  - pkg:deb/ubuntu/poco
+  - pkg:github/pocoproject/poco
+  - pkg:rpm/fedora/poco
+  - pkg:sourceforge/poco.mirror

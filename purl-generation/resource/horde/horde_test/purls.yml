@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-horde-test
+  - pkg:deb/ubuntu/php-horde-test
+  - pkg:github/horde/test
+  - pkg:rpm/fedora/php-horde-horde-test
+  - pkg:rpm/opensuse/php-horde-horde-test

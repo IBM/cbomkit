@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/librelp
+  - pkg:deb/ubuntu/librelp
+  - pkg:github/rsyslog/librelp
+  - pkg:gitlab/redhat/librelp
+  - pkg:rpm/centos/librelp
+  - pkg:rpm/fedora/librelp
+  - pkg:rpm/opensuse/librelp

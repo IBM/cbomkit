@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/logrotate
+  - pkg:deb/ubuntu/logrotate
+  - pkg:github/logrotate/logrotate
+  - pkg:rpm/centos/logrotate
+  - pkg:rpm/fedora/logrotate
+  - pkg:rpm/opensuse/logrotate

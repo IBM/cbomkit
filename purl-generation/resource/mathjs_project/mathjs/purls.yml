@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/josdejong/mathjs
+  - pkg:npm/mathjs

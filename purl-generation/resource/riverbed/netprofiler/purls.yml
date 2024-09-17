@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/riverbed/steelscript-netprofiler
+  - pkg:pypi/steelscript.netprofiler

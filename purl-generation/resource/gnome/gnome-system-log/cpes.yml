@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:gnome:gnome-system-log:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-system-log:2.32.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-system-log:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-system-log:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-system-log:3.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-system-log:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome-system-log:3.8.1:*:*:*:*:*:*:*

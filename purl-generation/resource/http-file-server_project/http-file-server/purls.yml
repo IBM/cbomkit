@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/unclechu/node-http-file-server
+  - pkg:npm/http-file-server

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/amarok
+  - pkg:deb/ubuntu/amarok
+  - pkg:github/kde/amarok
+  - pkg:rpm/fedora/amarok
+  - pkg:rpm/opensuse/amarok
+  - pkg:sourceforge/amarok

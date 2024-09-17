@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:o:asuswrt-merlin_project:rt-ac88u_firmware:-:*:*:*:*:*:*:*
+  - cpe:2.3:o:asuswrt-merlin_project:rt-ac88u_firmware:3.0.0.4.380.7743:*:*:*:*:*:*:*
+  - cpe:2.3:o:asuswrt-merlin_project:rt-ac88u_firmware:380.70:*:*:*:*:*:*:*

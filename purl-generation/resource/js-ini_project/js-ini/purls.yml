@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sdju/js-ini
+  - pkg:npm/js-ini

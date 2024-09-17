@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/libvncserver
+  - pkg:deb/ubuntu/libvncserver
+  - pkg:github/kanaka/libvncserver
+  - pkg:github/libvnc/libvncserver
+  - pkg:gitlab/redhat/libvncserver
+  - pkg:rpm/centos/libvncserver
+  - pkg:rpm/fedora/libvncserver
+  - pkg:rpm/opensuse/libvncserver
+  - pkg:sourceforge/libvncserver

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/mp3gain
+  - pkg:deb/ubuntu/mp3gain
+  - pkg:github/gsantner/mirror-mp3gain
+  - pkg:github/ybootin/mp3gain
+  - pkg:rpm/fedora/mp3gain
+  - pkg:rpm/opensuse/mp3gain
+  - pkg:sourceforge/mp3gain

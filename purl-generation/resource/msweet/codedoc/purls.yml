@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/michaelrsweet/codedoc
+  - pkg:rpm/opensuse/codedoc

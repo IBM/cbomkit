@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:redhat:docker_community_collection:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:docker_community_collection:0.1.0:*:*:*:*:ansible:*:*
+  - cpe:2.3:a:redhat:docker_community_collection:1.0.0:*:*:*:*:ansible:*:*
+  - cpe:2.3:a:redhat:docker_community_collection:1.0.1:*:*:*:*:ansible:*:*
+  - cpe:2.3:a:redhat:docker_community_collection:1.1.0:*:*:*:*:ansible:*:*
+  - cpe:2.3:a:redhat:docker_community_collection:1.2.0:*:*:*:*:ansible:*:*
+  - cpe:2.3:a:redhat:docker_community_collection:1.2.1:*:*:*:*:ansible:*:*
+  - cpe:2.3:a:redhat:docker_community_collection:1.2.2:*:*:*:*:ansible:*:*
+  - cpe:2.3:a:redhat:docker_community_collection:-:*:*:*:*:ansible:*:*

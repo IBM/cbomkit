@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/openssh/openssh-portable
+  - pkg:mindrot/openss
+  - pkg:openbsd/openssh
+  - pkg:rpm/fedora/openssh
+  - pkg:rpm/opensuse/openssh

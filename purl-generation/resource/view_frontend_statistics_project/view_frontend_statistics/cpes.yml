@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:view_frontend_statistics_project:view_frontend_statistics:1.0.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:view_frontend_statistics_project:view_frontend_statistics:1.0.1:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:view_frontend_statistics_project:view_frontend_statistics:1.0.2:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:view_frontend_statistics_project:view_frontend_statistics:2.0.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:view_frontend_statistics_project:view_frontend_statistics:2.0.1:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:view_frontend_statistics_project:view_frontend_statistics:3.0.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:view_frontend_statistics_project:view_frontend_statistics:3.0.1:*:*:*:*:typo3:*:*

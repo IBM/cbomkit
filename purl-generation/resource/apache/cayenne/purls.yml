@@ -1,0 +1,6 @@
+purls:
+  - pkg:apache/cayenne
+  - pkg:github/apache/cayenne
+  - pkg:maven/org.apache.cayenne/cayenne
+  - pkg:maven/org.apache.cayenne/cayenne-parent
+  - pkg:sourceforge/cayenne

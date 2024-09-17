@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:apple:tokend:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:tokend:03-2013:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:tokend:11:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:tokend:25868:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:tokend:26098:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:tokend:30544:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:tokend:30557:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:tokend:32296:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:tokend:32404:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:tokend:32432:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:tokend:35209:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:tokend:36720:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:tokend:37563:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:tokend:40596:*:*:*:*:*:*:*

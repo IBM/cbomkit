@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/quassel
+  - pkg:deb/ubuntu/quassel
+  - pkg:github/quassel/quassel
+  - pkg:rpm/fedora/quassel
+  - pkg:rpm/opensuse/quassel

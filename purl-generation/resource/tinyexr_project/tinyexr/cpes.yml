@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:tinyexr_project:tinyexr:0.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tinyexr_project:tinyexr:0.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:tinyexr_project:tinyexr:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:tinyexr_project:tinyexr:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tinyexr_project:tinyexr:2022-06-28:*:*:*:*:*:*:*

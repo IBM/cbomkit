@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:zabbix:web_service_report_generation:*:*:*:*:*:*:*:*

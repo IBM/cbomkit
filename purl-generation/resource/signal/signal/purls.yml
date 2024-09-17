@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/signalapp/signal-ios
+  - pkg:signal/signal

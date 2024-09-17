@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/shopify/hydrogen
+  - pkg:npm/%40shopify/hydrogen

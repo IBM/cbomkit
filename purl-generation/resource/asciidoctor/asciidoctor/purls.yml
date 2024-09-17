@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/asciidoctor
+  - pkg:deb/ubuntu/asciidoctor
+  - pkg:gem/asciidoctor
+  - pkg:github/asciidoctor/asciidoctor
+  - pkg:gitlab/redhat/rubygem-asciidoctor
+  - pkg:rpm/fedora/rubygem-asciidoctor
+  - pkg:rpm/opensuse/rubygem-asciidoctor

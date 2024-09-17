@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/atlas
+  - pkg:github/apache/atlas
+  - pkg:maven/org.apache.atlas/apache-atlas
+  - pkg:maven/org.apache.atlas/apache.atlas

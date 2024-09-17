@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/gfbgraph
+  - pkg:deb/ubuntu/gfbgraph
+  - pkg:github/gnome/libgfbgraph
+  - pkg:rpm/opensuse/libgfbgraph

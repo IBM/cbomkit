@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/rabbitmq/rabbitmq-management
+  - pkg:rpm/opensuse/rabbitmq-management

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:wp-appbox_project:wp-appbox:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:wp-appbox_project:wp-appbox:4.3.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-appbox_project:wp-appbox:-:*:*:*:*:wordpress:*:*

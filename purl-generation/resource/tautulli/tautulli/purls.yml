@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/tautulli/tautulli
+  - pkg:github/tautulli/tautulli

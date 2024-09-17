@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/avahi-daemon
+  - pkg:deb/ubuntu/avahi-daemon
+  - pkg:docker/ianblenke/avahi
+  - pkg:github/lathiat/avahi
+  - pkg:gitlab/redhat/avahi
+  - pkg:rpm/fedora/avahi
+  - pkg:rpm/opensuse/avahi

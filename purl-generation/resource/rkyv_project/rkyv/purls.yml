@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/rkyv/rkyv
+  - pkg:rpm/fedora/rust-rkyv

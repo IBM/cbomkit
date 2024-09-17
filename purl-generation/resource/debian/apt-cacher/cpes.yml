@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:debian:apt-cacher:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:apt-cacher:0.7.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:apt-cacher:0.9.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:apt-cacher:0.9.9:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:shibboleth:opensaml_java:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:shibboleth:opensaml_java:2.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:shibboleth:opensaml_java:2.6.4:*:*:*:*:*:*:*

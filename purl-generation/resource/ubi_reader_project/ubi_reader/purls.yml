@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jrspruitt/ubi_reader
+  - pkg:pypi/ubi-reader

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/quilljs/quill
+  - pkg:golang/github.com/quilljs/quill

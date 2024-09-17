@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/socketio/socket.io
+  - pkg:maven/org.webjars.npm/socket.io
+  - pkg:npm/socket.io
+  - pkg:rpm/opensuse/nodejs-socket.io
+  - pkg:sourceforge/socket-io.mirror

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libsocialweb
+  - pkg:deb/ubuntu/libsocialweb
+  - pkg:github/lcp/libsocialweb
+  - pkg:github/uikit0/libsocialweb
+  - pkg:rpm/opensuse/libsocialweb

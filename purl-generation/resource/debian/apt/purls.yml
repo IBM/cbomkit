@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/apt
+  - pkg:Deb/ubuntu/apt
+  - pkg:github/pop-os/apt
+  - pkg:gitlab/kalilinux/apt
+  - pkg:rpm/fedora/apt
+  - pkg:rpm/opensuse/apt

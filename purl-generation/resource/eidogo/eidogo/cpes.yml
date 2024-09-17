@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:eidogo:eidogo:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:eidogo:eidogo:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:eidogo:eidogo:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:eidogo:eidogo:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eidogo:eidogo:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:eidogo:eidogo:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:eidogo:eidogo:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:eidogo:eidogo:1.2:*:*:*:*:*:*:*

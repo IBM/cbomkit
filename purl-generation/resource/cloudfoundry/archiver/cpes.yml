@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:cloudfoundry:archiver:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:archiver:2014-10-16:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:archiver:2015-03-19:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:archiver:2017-02-23:*:*:*:*:*:*:*

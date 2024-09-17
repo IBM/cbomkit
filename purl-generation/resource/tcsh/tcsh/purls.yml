@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/tcsh
+  - pkg:deb/ubuntu/tcsh
+  - pkg:github/tcsh-org/tcsh
+  - pkg:gitlab/redhat/tcsh
+  - pkg:golang/github.com/tcsh-org/tcsh
+  - pkg:rpm/fedora/tcsh
+  - pkg:rpm/opensuse/tcsh

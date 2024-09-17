@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:searx_stats_project:searx_stats:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:searx_stats_project:searx_stats:-:*:*:*:*:*:*:*

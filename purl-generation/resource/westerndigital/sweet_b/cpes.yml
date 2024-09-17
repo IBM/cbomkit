@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:westerndigital:sweet_b:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:westerndigital:sweet_b:1:*:*:*:*:*:*:*
+  - cpe:2.3:a:westerndigital:sweet_b:2:*:*:*:*:*:*:*

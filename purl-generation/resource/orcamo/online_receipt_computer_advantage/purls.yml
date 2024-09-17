@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/yamamuteki/orca-jma-receipt
+  - pkg:github/yamamuteki/orca-jma-receipt

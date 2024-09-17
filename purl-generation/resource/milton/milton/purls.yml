@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/miltonio/milton2
+  - pkg:maven/io.milton/milton

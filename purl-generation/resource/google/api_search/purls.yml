@@ -1,0 +1,7 @@
+purls:
+  - pkg:github/serpapi/google-search-results-dotnet
+  - pkg:github/serpapi/google-search-results-golang
+  - pkg:github/serpapi/google-search-results-java
+  - pkg:github/serpapi/google-search-results-php
+  - pkg:github/serpapi/google-search-results-python
+  - pkg:github/serpapi/google-search-results-ruby

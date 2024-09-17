@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/cadaver
+  - pkg:deb/ubuntu/cadaver
+  - pkg:github/grimneko/cadaver
+  - pkg:github/notroj/cadaver
+  - pkg:rpm/fedora/cadaver
+  - pkg:rpm/opensuse/cadaver

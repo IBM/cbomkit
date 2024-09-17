@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/ozone
+  - pkg:github/apache/ozone
+  - pkg:maven/org.apache.hadoop/hadoop-ozone

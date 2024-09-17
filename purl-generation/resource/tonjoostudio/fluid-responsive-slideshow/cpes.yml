@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:tonjoostudio:fluid-responsive-slideshow:2.2.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tonjoostudio:fluid-responsive-slideshow:2.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:tonjoostudio:fluid-responsive-slideshow:-:*:*:*:*:wordpress:*:*

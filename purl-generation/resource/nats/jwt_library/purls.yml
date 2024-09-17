@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/golang-github-nats-io-jwt
+  - pkg:deb/ubuntu/golang-github-nats-io-jwt
+  - pkg:github/nats-io/jwt
+  - pkg:rpm/fedora/golang-github-nats-io-jwt
+  - pkg:rpm/opensuse/golang-github-nats-io-jwt

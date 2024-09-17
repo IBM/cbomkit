@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:kodebyraaet:safe_editor:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kodebyraaet:safe_editor:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kodebyraaet:safe_editor:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kodebyraaet:safe_editor:-:*:*:*:*:wordpress:*:*

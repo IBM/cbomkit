@@ -1,0 +1,10 @@
+purls:
+  - pkg:apache/commons
+  - pkg:deb/debian/bcel
+  - pkg:deb/ubuntu/bcel
+  - pkg:github/apache/commons-bcel
+  - pkg:github/nikosnikotest/commons-bcel
+  - pkg:maven/org.apache.bcel/bcel
+  - pkg:rpm/centos/bcel
+  - pkg:rpm/fedora/bcel
+  - pkg:rpm/opensuse/bcel

@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:apache:livy:0.7.0-incubating:*:*:*:*:*:*:*

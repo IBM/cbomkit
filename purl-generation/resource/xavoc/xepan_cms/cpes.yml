@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:xavoc:xepan_cms:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xavoc:xepan_cms:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:xavoc:xepan_cms:1.0.4.1:*:*:*:*:*:*:*

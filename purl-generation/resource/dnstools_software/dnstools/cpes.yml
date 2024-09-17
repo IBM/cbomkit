@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:dnstools_software:dnstools:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnstools_software:dnstools:2.0_beta3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dnstools_software:dnstools:2.0_beta4:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/besser82/libxcrypt
+  - pkg:rpm/fedora/libxcrypt
+  - pkg:rpm/opensuse/libxcrypt

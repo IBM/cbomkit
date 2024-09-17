@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:0.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:0.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:0.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:0.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:0.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:0.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:0.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:1.2.2:*:*:*:*:*:*:*

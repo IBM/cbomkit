@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:clipboard_project:clipboard:0.06:*:*:*:*:perl:*:*
+  - cpe:2.3:a:clipboard_project:clipboard:0.07:*:*:*:*:perl:*:*
+  - cpe:2.3:a:clipboard_project:clipboard:0.08:*:*:*:*:perl:*:*
+  - cpe:2.3:a:clipboard_project:clipboard:0.09:*:*:*:*:perl:*:*
+  - cpe:2.3:a:clipboard_project:clipboard:0.10:*:*:*:*:perl:*:*
+  - cpe:2.3:a:clipboard_project:clipboard:0.11:*:*:*:*:perl:*:*
+  - cpe:2.3:a:clipboard_project:clipboard:0.12:*:*:*:*:perl:*:*
+  - cpe:2.3:a:clipboard_project:clipboard:0.13:*:*:*:*:perl:*:*
+  - cpe:2.3:a:clipboard_project:clipboard:-:*:*:*:*:perl:*:*

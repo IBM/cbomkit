@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jeecms:jeecms:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jeecms:jeecms:9:*:*:*:*:*:*:*
+  - cpe:2.3:a:jeecms:jeecms:9.3:*:*:*:*:*:*:*

@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:okay-cms:okaycms:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:okay-cms:okaycms:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:okay-cms:okaycms:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:okay-cms:okaycms:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:okay-cms:okaycms:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:okay-cms:okaycms:2.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:okay-cms:okaycms:2.3.4:*:*:*:*:*:*:*

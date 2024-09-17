@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/po4a
+  - pkg:deb/ubuntu/po4a
+  - pkg:github/mquinson/po4a
+  - pkg:rpm/fedora/po4a
+  - pkg:rpm/opensuse/po4a

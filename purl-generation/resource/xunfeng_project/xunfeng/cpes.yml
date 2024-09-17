@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:xunfeng_project:xunfeng:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xunfeng_project:xunfeng:0.1.1:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:xunfeng_project:xunfeng:0.2.0:*:*:*:*:*:*:*

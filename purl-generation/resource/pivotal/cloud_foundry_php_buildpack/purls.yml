@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cloudfoundry/php-buildpack
+  - pkg:golang/github.com/cloudfoundry/php-buildpack

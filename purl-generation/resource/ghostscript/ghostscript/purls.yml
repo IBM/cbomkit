@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/ghostscript
+  - pkg:deb/ubuntu/ghostscript
+  - pkg:github/artifexsoftware/ghostpdl
+  - pkg:rpm/centos/ghostscript
+  - pkg:rpm/fedora/ghostscript
+  - pkg:rpm/opensuse/ghostscript
+  - pkg:sourceforge/ghostscript

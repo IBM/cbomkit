@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ninka
+  - pkg:deb/ubuntu/ninka
+  - pkg:docker/bfirsh/ninka
+  - pkg:github/bfirsh/ninka
+  - pkg:github/dmgerman/ninka
+  - pkg:sourceforge/ninka

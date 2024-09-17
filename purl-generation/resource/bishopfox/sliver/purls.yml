@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bishopfox/sliver
+  - pkg:golang/github.com/bishopfox/sliver
+  - pkg:sourceforge/sliver.mirror

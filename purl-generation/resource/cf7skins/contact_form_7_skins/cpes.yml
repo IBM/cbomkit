@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:cf7skins:contact_form_7_skins:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:cf7skins:contact_form_7_skins:2.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:cf7skins:contact_form_7_skins:-:*:*:*:*:wordpress:*:*

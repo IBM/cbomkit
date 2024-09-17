@@ -1,0 +1,6 @@
+purls:
+  - pkg:apache/maven
+  - pkg:github/apache/maven-wagon
+  - pkg:maven/org.apache.maven.wagon/wagon
+  - pkg:rpm/fedora/maven-wagon
+  - pkg:rpm/opensuse/maven-wagon

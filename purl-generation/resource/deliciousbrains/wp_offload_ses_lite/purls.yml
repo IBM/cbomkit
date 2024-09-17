@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/seanchen/wp-ses
+  - pkg:github/wp-plugins/wp-ses

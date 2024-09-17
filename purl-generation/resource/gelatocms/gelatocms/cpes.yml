@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:gelatocms:gelatocms:0.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:gelatocms:gelatocms:0.95:*:*:*:*:*:*:*
+  - cpe:2.3:a:gelatocms:gelatocms:_nil_:*:*:*:*:*:*:*

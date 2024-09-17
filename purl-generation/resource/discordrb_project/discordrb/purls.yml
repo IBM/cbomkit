@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/discordrb
+  - pkg:github/discordrb/discordrb
+  - pkg:github/shardlab/discordrb

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/devnull-tools/build-notifications-plugin
+  - pkg:github/jenkinsci/build-notifications-plugin

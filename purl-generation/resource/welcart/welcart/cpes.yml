@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:welcart:welcart:1.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:welcart:welcart:*:*:*:*:*:wordpress:*:*

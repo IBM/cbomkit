@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/zydis
+  - pkg:deb/ubuntu/zydis
+  - pkg:github/zyantific/zydis
+  - pkg:rpm/opensuse/zydis

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/raydium-io/raydium-ui
+  - pkg:npm/raydium-ui

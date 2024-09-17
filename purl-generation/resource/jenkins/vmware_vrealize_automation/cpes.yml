@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:jenkins:vmware_vrealize_automation:1.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:vmware_vrealize_automation:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:vmware_vrealize_automation:1.1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:vmware_vrealize_automation:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:vmware_vrealize_automation:1.2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:vmware_vrealize_automation:1.2.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:vmware_vrealize_automation:1.2.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:vmware_vrealize_automation:1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:vmware_vrealize_automation:-:*:*:*:*:jenkins:*:*

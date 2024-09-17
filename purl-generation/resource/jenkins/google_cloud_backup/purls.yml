@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/astroilov/google-persistent-master-plugin
+  - pkg:github/jenkinsci/google-cloud-backup-plugin

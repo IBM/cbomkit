@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:libpff_project:libpff:20161119:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpff_project:libpff:20180428:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpff_project:libpff:20180714:*:*:*:*:*:*:*

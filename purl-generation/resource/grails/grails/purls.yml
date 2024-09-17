@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/grails/grails-core
+  - pkg:maven/org.grails/grails

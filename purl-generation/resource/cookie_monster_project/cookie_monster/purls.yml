@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cookiemonsterproject/cookie-monster
+  - pkg:golang/github.com/cookiemonsterproject/cookie-monster

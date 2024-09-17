@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jchristopher/searchwp-live-ajax-search/
+  - pkg:github/wp-plugins/searchwp-live-ajax-search
+  - pkg:github/wpplugins/searchwp-live-ajax-search

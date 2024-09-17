@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/takahikokawasaki/nv-websocket-client
+  - pkg:maven/com.neovisionaries/nv-websocket-client

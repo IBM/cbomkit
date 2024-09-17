@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/date
+  - pkg:github/ruby/date

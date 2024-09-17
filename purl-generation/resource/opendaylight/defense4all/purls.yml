@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/george-zhao/defense4all
+  - pkg:github/opendaylight/archived-defense4all
+  - pkg:maven/org.opendaylight.defense4all/defense4all.core

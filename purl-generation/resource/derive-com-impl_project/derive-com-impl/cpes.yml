@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:derive-com-impl_project:derive-com-impl:0.1.0:alpha1:*:*:*:rust:*:*
+  - cpe:2.3:a:derive-com-impl_project:derive-com-impl:0.1.0:alpha2:*:*:*:rust:*:*
+  - cpe:2.3:a:derive-com-impl_project:derive-com-impl:0.1.0:alpha3:*:*:*:rust:*:*
+  - cpe:2.3:a:derive-com-impl_project:derive-com-impl:0.1.0:-:*:*:*:rust:*:*
+  - cpe:2.3:a:derive-com-impl_project:derive-com-impl:0.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:derive-com-impl_project:derive-com-impl:0.1.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:derive-com-impl_project:derive-com-impl:-:*:*:*:*:rust:*:*

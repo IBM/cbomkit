@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:ash-aio_project:ash-aio:2.0.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-aio_project:ash-aio:2.0.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-aio_project:ash-aio:2.0.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ash-aio_project:ash-aio:2.0.0.3:*:*:*:*:*:*:*

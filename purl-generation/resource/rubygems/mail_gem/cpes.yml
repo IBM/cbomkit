@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:rubygems:mail_gem:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:rubygems:mail_gem:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rubygems:mail_gem:2.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rubygems:mail_gem:2.4.1:*:*:*:*:*:*:*

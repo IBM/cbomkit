@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/node-tar-fs
+  - pkg:deb/ubuntu/node-tar-fs
+  - pkg:github/mafintosh/tar-fs
+  - pkg:npm/tar-fs

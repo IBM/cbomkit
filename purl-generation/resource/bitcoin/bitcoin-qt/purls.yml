@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/barry_allard/bitcoin-qt
+  - pkg:deb/debian/bitcoin
+  - pkg:deb/debian/bitcoin-qt
+  - pkg:github/bitcoin/bitcoin
+  - pkg:github/laanwj/bitcoin-qt
+  - pkg:rpm/opensuse/bitcoin
+  - pkg:rpm/opensuse/bitcoin-qt

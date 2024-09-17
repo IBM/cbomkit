@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/nsis
+  - pkg:deb/ubuntu/nsis
+  - pkg:github/kichik/nsis
+  - pkg:sourceforge/nsis

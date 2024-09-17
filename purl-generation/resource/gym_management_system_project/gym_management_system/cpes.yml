@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:gym_management_system_project:gym_management_system:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gym_management_system_project:gym_management_system:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gym_management_system_project:gym_management_system:0.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gym_management_system_project:gym_management_system:1.0:*:*:*:*:*:*:*

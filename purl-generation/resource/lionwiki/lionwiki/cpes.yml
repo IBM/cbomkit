@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:lionwiki:lionwiki:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:lionwiki:lionwiki:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:lionwiki:lionwiki:3.2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:lionwiki:lionwiki:3.2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:lionwiki:lionwiki:3.2.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:lionwiki:lionwiki:3.2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:lionwiki:lionwiki:3.2.9:*:*:*:*:*:*:*

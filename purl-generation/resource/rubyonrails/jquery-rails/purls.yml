@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-jquery-rails
+  - pkg:deb/ubuntu/ruby-jquery-rails
+  - pkg:gem/ruby/jquery-rails
+  - pkg:github/rails/jquery-rails
+  - pkg:rpm/fedora/rubygem-jquery-rails
+  - pkg:rpm/opensuse/rubygem-jquery-rails

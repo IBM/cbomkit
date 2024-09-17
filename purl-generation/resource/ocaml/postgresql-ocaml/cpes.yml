@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:ocaml:postgresql-ocaml:1.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml:postgresql-ocaml:1.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ocaml:postgresql-ocaml:1.7.0:*:*:*:*:*:*:*

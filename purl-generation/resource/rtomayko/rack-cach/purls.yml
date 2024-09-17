@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-rack-cache
+  - pkg:deb/ubuntu/ruby-rack-cache
+  - pkg:gem/rack-cache
+  - pkg:github/rtomayko/rack-cache
+  - pkg:rpm/fedora/rubygem-rack-cache

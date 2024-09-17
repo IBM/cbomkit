@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:go.uuid_project:go.uuid:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:go.uuid_project:go.uuid:1.2:*:*:*:*:*:*:*

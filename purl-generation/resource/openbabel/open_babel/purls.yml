@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/openbabel
+  - pkg:deb/ubuntu/openbabel
+  - pkg:github/openbabel/openbabel
+  - pkg:rpm/fedora/openbabel
+  - pkg:rpm/opensuse/openbabel
+  - pkg:sourceforge/openbabel

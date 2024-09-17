@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-macaddress
+  - pkg:deb/ubuntu/node-macaddress
+  - pkg:github/scravy/node-macaddress
+  - pkg:maven/org.webjars.npm/node-macaddress
+  - pkg:npm/node-macaddress

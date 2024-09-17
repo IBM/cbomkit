@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mcspring/xml2dict
+  - pkg:pypi/xml2dict
+  - pkg:rpm/opensuse/python-xml2dict

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/squid
+  - pkg:deb/ubuntu/squid
+  - pkg:github/squid-cache/squid
+  - pkg:rpm/fedora/squid
+  - pkg:rpm/opensuse/squid

@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/km-works/liferay-portal-rpc
+  - pkg:github/liferay/liferay-portal
+  - pkg:maven/com.liferay/liferay-portal-src

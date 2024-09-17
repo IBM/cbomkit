@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:autorand_project:autorand:0.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:autorand_project:autorand:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:autorand_project:autorand:0.2.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:autorand_project:autorand:0.2.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:autorand_project:autorand:0.2.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:autorand_project:autorand:-:*:*:*:*:rust:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:simplejobscript:simplejobscript:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplejobscript:simplejobscript:1.65:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplejobscript:simplejobscript:1.66:*:*:*:*:*:*:*

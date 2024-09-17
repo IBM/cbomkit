@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/webtorrent/bittorrent-dht
+  - pkg:maven/org.webjars.npm/bittorrent-dht
+  - pkg:npm/bittorrent-dht

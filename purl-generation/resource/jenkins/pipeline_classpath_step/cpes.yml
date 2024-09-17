@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:jenkins:pipeline_classpath_step:0.1.0:*:*:*:*:jenkins:*:*

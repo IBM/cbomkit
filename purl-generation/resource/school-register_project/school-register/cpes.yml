@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:school-register_project:school-register:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:school-register_project:school-register:-:*:*:*:*:*:*:*

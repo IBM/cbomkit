@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/ruby-sinatra
+  - pkg:deb/ubuntu/ruby-sinatra
+  - pkg:gem/sinatra
+  - pkg:github/sinatra/sinatra
+  - pkg:gitlab/kalilinux/ruby-sinatra
+  - pkg:rpm/fedora/rubygem-sinatra
+  - pkg:rpm/opensuse/rubygem-sinatra

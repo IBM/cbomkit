@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/rvm/rvm
+  - pkg:sourceforge/rvm.mirror

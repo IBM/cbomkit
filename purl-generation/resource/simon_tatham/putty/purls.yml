@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/putty
+  - pkg:deb/ubuntu/putty
+  - pkg:github/github/putty
+  - pkg:github/kasperdeng/putty
+  - pkg:github/larryli/putty
+  - pkg:rpm/fedora/putty
+  - pkg:rpm/opensuse/putty

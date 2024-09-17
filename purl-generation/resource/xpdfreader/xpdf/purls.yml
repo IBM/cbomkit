@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/xpdf
+  - pkg:deb/ubuntu/xpdf
+  - pkg:github/tmyroadctfig/xpdf
+  - pkg:rpm/fedora/xpdf
+  - pkg:rpm/opensuse/xpdf

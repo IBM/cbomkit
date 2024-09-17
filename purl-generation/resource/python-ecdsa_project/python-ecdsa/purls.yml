@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/root-servers/python-ecdsa
+  - pkg:deb/debian/python-ecdsa
+  - pkg:deb/ubuntu/python-ecdsa
+  - pkg:github/tlsfuzzer/python-ecdsa
+  - pkg:pypi/ecdsa
+  - pkg:rpm/fedora/python-ecdsa
+  - pkg:rpm/opensuse/python-ecdsa

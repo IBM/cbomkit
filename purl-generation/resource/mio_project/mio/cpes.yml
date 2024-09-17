@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:mio_project:mio:0.7.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:mio_project:mio:0.7.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:mio_project:mio:0.7.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:mio_project:mio:0.7.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:mio_project:mio:0.7.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:mio_project:mio:0.7.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:mio_project:mio:0.7.6:*:*:*:*:rust:*:*

@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:teamwire:teamwire:1.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamwire:teamwire:1.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamwire:teamwire:2018-09:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamwire:teamwire:2019-01:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamwire:teamwire:2019-01.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamwire:teamwire:2019-02:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamwire:teamwire:2019-03:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamwire:teamwire:2019-04:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamwire:teamwire:2019-05:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamwire:teamwire:2019-05.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamwire:teamwire:2019-05.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamwire:teamwire:2019-06:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamwire:teamwire:2019-07:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamwire:teamwire:2019-07.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamwire:teamwire:2019-07.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamwire:teamwire:2019-07.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamwire:teamwire:2019-09:*:*:*:*:*:*:*
+  - cpe:2.3:a:teamwire:teamwire:5.3.0:*:*:*:*:android:*:*
+  - cpe:2.3:a:teamwire:teamwire:5.5.0:*:*:*:*:android:*:*

@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:valvesoftware:game_networking_sockets:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:valvesoftware:game_networking_sockets:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:valvesoftware:game_networking_sockets:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:valvesoftware:game_networking_sockets:1.2.0:*:*:*:*:*:*:*

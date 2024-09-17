@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jenkins:clearcase_release:0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:clearcase_release:0.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:clearcase_release:0.3:*:*:*:*:jenkins:*:*

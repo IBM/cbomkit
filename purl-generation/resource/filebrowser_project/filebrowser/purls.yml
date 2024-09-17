@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/filebrowser/filebrowser
+  - pkg:golang/github.com/filebrowser/filebrowser

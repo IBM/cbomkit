@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-kind-of
+  - pkg:deb/ubuntu/node-kind-of
+  - pkg:github/jonschlinkert/kind-of
+  - pkg:maven/org.webjars.npm/kind-of
+  - pkg:npm/kind-of

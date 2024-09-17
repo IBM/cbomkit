@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:crowcpp:crow:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:crowcpp:crow:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:crowcpp:crow:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:crowcpp:crow:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:crowcpp:crow:0.3\+1:*:*:*:*:*:*:*
+  - cpe:2.3:a:crowcpp:crow:0.3\+2:*:*:*:*:*:*:*
+  - cpe:2.3:a:crowcpp:crow:0.3\+3:*:*:*:*:*:*:*
+  - cpe:2.3:a:crowcpp:crow:0.3\+4:*:*:*:*:*:*:*
+  - cpe:2.3:a:crowcpp:crow:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:crowcpp:crow:1.0\+1:*:*:*:*:*:*:*
+  - cpe:2.3:a:crowcpp:crow:1.0\+2:*:*:*:*:*:*:*
+  - cpe:2.3:a:crowcpp:crow:1.0\+3:*:*:*:*:*:*:*
+  - cpe:2.3:a:crowcpp:crow:1.0\+4:*:*:*:*:*:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/wicket
+  - pkg:github/apache/wicket
+  - pkg:maven/org.apache.wicket/wicket-core
+  - pkg:sourceforge/wicket

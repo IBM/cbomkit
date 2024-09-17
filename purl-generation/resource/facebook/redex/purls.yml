@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/facebook/redex
+  - pkg:golang/github.com/facebook/redex

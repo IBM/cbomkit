@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/hasura/graphql-engine
+  - pkg:github/hasura/graphql-engine

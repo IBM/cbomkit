@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/easy-team/easywebpack-cli
+  - pkg:npm/%40easy-team/easywebpack-cli

@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:adaltas:mixme:0.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adaltas:mixme:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adaltas:mixme:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adaltas:mixme:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adaltas:mixme:0.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adaltas:mixme:0.3.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adaltas:mixme:0.3.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adaltas:mixme:0.3.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adaltas:mixme:0.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adaltas:mixme:0.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adaltas:mixme:0.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adaltas:mixme:-:*:*:*:*:node.js:*:*

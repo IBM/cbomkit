@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/oauth
+  - pkg:github/oauth-xx/oauth-ruby

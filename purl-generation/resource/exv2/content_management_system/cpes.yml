@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:exv2:content_management_system:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:exv2:content_management_system:2.0.4.3:*:*:*:*:*:*:*

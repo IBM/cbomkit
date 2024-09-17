@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:http-body_project:http-body:0.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:0.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:1.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:1.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:1.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:1.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:1.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:1.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:1.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:1.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:1.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:1.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:1.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:1.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:1.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-body_project:http-body:1.17:*:*:*:*:*:*:*

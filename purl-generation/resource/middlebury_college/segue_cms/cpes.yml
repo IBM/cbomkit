@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:middlebury_college:segue_cms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:middlebury_college:segue_cms:1.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:middlebury_college:segue_cms:1.5.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:middlebury_college:segue_cms:1.5.8:*:*:*:*:*:*:*

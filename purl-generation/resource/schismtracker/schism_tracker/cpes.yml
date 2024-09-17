@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:schismtracker:schism_tracker:20180513:*:*:*:*:*:*:*
+  - cpe:2.3:a:schismtracker:schism_tracker:20180810:*:*:*:*:*:*:*
+  - cpe:2.3:a:schismtracker:schism_tracker:20181223:*:*:*:*:*:*:*
+  - cpe:2.3:a:schismtracker:schism_tracker:20190614:*:*:*:*:*:*:*
+  - cpe:2.3:a:schismtracker:schism_tracker:20190722:*:*:*:*:*:*:*
+  - cpe:2.3:a:schismtracker:schism_tracker:20190805:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/cyclonedds
+  - pkg:deb/ubuntu/cyclonedds
+  - pkg:github/eclipse-cyclonedds/cyclonedds

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/lcdproc
+  - pkg:deb/ubuntu/lcdproc
+  - pkg:docker/ibhde/lcdproc
+  - pkg:github/lcdproc/lcdproc
+  - pkg:rpm/fedora/lcdproc
+  - pkg:rpm/opensuse/lcdproc
+  - pkg:sourceforge/lcdproc

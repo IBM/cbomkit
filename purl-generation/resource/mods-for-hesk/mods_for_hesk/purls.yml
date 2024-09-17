@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/gdanetra/mods-for-hesk
+  - pkg:github/mike-koch/mods-for-hesk
+  - pkg:gitlab/mike-koch/mods-for-hesk

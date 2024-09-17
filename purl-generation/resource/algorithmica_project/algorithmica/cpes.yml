@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:algorithmica_project:algorithmica:2021-03-07:*:*:*:*:rust:*:*
+  - cpe:2.3:a:algorithmica_project:algorithmica:-:*:*:*:*:rust:*:*

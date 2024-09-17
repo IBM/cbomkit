@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/muaz-khan/reliable-signaler
+  - pkg:github/muaz-khan/rtcmulticonnection
+  - pkg:npm/rtcmulticonnection-client

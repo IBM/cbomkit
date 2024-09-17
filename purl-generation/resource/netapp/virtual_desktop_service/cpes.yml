@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:netapp:virtual_desktop_service:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:netapp:virtual_desktop_service:-:*:*:*:*:*:*:*

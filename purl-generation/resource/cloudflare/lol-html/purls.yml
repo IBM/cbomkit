@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cloudflare/lol-html
+  - pkg:github/lol-html.mirror

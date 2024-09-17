@@ -1,0 +1,4 @@
+purls:
+  - pkg:code.google/v8
+  - pkg:github/v8/v8
+  - pkg:googlesource/v8

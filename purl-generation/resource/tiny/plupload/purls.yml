@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/plupload.js
+  - pkg:deb/ubuntu/plupload.js
+  - pkg:github/moxiecode/plupload
+  - pkg:maven/org.webjars.bowergithub.moxiecode/plupload
+  - pkg:maven/org.webjars.bower/plupload
+  - pkg:npm/plupload
+  - pkg:nuget/Plupload
+  - pkg:sourceforge/plupload.mirror

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/ruby-activerecord-session-store
+  - pkg:gem/activerecord-session_store
+  - pkg:github/rails/activerecord-session_store
+  - pkg:gnome/ruby-activerecord-session-store

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nrako/psnode
+  - pkg:npm/psnode

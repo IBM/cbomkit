@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/eclipse/xtext-xtend
+  - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.core

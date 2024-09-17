@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/codercom/code-server
+  - pkg:github/cdr/code-server
+  - pkg:npm/code-server

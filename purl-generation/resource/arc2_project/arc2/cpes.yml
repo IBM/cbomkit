@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:arc2_project:arc2:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:arc2_project:arc2:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:arc2_project:arc2:2011-12-01:*:*:*:*:*:*:*

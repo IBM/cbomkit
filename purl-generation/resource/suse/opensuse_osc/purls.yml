@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/osc
+  - pkg:deb/ubuntu/osc
+  - pkg:github/opensuse/osc
+  - pkg:pypi/osc
+  - pkg:rpm/fedora/osc
+  - pkg:rpm/opensuse/osc

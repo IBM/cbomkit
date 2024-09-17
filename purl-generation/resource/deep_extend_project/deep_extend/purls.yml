@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/unclechu/node-deep-extend
+  - pkg:maven/org.webjars.npm/deep-extend
+  - pkg:npm/deep-extend

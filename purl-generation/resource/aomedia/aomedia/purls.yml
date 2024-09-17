@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/aom
+  - pkg:deb/ubuntu/aom
+  - pkg:github/brion/aomedia
+  - pkg:github/smarter/aom
+  - pkg:rpm/fedora/aom
+  - pkg:rpm/opensuse/aom

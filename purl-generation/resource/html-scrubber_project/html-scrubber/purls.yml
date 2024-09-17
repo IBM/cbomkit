@@ -1,0 +1,7 @@
+purls:
+  - pkg:cpan/html-scrubber
+  - pkg:deb/debian/libhtml-scrubber-perl
+  - pkg:deb/ubuntu/libhtml-scrubber-perl
+  - pkg:github/nigelm/html-scrubber
+  - pkg:rpm/fedora/perl-html-scrubber
+  - pkg:rpm/opensuse/perl-html-scrubber

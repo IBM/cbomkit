@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/falconpl/falcon
+  - pkg:rpm/fedora/falcon
+  - pkg:rpm/opensuse/falcon

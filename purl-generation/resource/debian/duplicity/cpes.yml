@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:debian:duplicity:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:duplicity:0.4.3-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:duplicity:0.6.24:*:*:*:*:*:*:*

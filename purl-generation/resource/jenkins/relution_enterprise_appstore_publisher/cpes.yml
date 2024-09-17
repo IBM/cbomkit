@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jenkins:relution_enterprise_appstore_publisher:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:relution_enterprise_appstore_publisher:1.24:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:relution_enterprise_appstore_publisher:-:*:*:*:*:jenkins:*:*

@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:linuxfoundation:nats.deno:0.1.0-0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:nats.deno:0.1.1-0:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:nats.deno:0.1.1-18:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:nats.deno:0.1.1-19:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:nats.deno:0.1.1-21:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:nats.deno:0.1.1-22:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:nats.deno:0.1.1-23:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:nats.deno:0.1.1-31:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:nats.deno:1.0.0-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:nats.deno:1.0.0-2:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:nats.deno:1.0.0-3:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:nats.deno:1.0.0-4:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:nats.deno:1.0.0-5:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:nats.deno:1.0.0-6:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:nats.deno:1.0.0-7:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:nats.deno:1.0.0-8:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:nats.deno:1.0.0-9:*:*:*:*:*:*:*

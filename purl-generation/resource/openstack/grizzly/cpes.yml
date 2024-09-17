@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:openstack:grizzly:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:grizzly:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:grizzly:2012.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:grizzly:2013.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:grizzly:2013.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:grizzly:2013.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:grizzly:2013.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:grizzly:2013.1.4:*:*:*:*:*:*:*

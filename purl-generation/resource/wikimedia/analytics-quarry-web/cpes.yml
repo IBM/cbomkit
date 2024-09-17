@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wikimedia:analytics-quarry-web:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:wikimedia:analytics-quarry-web:2020-12-15:*:*:*:*:*:*:*

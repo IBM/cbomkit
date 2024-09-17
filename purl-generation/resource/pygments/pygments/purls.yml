@@ -1,0 +1,15 @@
+purls:
+  - pkg:deb/debian/python-pygments
+  - pkg:deb/ubuntu/python-pygments
+  - pkg:gem/pygments.rb
+  - pkg:github/pksunkara/pygments.js
+  - pkg:github/pygments/pygments
+  - pkg:gitlab/redhat/pygments
+  - pkg:maven/org.pygments/pygments
+  - pkg:maven/pygments/pygments
+  - pkg:npm/pygments
+  - pkg:nuget/pygments-net
+  - pkg:pypi/pygments
+  - pkg:rpm/fedora/python-pygments
+  - pkg:rpm/opensuse/python-pygments
+  - pkg:sourceforge/pygments

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/pyload/pyload
+  - pkg:gitlab/pyload/pyload
+  - pkg:pypi/pyload-ng

@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/ubuntu/php-slim-psr7
+  - pkg:github/slimphp/slim-psr7

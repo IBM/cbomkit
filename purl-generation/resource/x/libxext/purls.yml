@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libxext
+  - pkg:deb/ubuntu/libxext
+  - pkg:github/freedesktop/libxext
+  - pkg:github/freedesktop/xorg-libxext
+  - pkg:github/neverware-mirrors/libxext
+  - pkg:rpm/centos/libxext
+  - pkg:rpm/fedora/libxext
+  - pkg:rpm/opensuse/libxext

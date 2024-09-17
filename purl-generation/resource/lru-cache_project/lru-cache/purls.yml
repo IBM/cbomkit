@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-lru-cache
+  - pkg:deb/ubuntu/rust-lru-cache
+  - pkg:github/contain-rs/lru-cache
+  - pkg:rpm/fedora/rust-lru-cache
+  - pkg:rpm/opensuse/rust-lru-cache

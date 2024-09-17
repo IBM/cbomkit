@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nagaozen/markdown-it-toc-done-right
+  - pkg:npm/package/markdown-it-toc-done-right

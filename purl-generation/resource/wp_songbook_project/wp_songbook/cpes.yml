@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:wp_songbook_project:wp_songbook:1.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_songbook_project:wp_songbook:2.0.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_songbook_project:wp_songbook:2.0.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_songbook_project:wp_songbook:-:*:*:*:*:wordpress:*:*

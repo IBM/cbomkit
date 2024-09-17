@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mapserver/mapserver
+  - pkg:rpm/fedora/mapserver
+  - pkg:rpm/opensuse/mapserver

@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/restforce
+  - pkg:github/restforce/restforce

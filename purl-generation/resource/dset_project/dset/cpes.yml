@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:dset_project:dset:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dset_project:dset:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dset_project:dset:2.0.1:*:*:*:*:node.js:*:*

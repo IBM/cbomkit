@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/calibre
+  - pkg:deb/ubuntu/calibre
+  - pkg:github/kovidgoyal/calibre
+  - pkg:rpm/fedora/calibre
+  - pkg:rpm/opensuse/calibre
+  - pkg:sourceforge/calibre
+  - pkg:sourceforge/calibre-ebook-manager.mirror

@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/cloudfoundry/cloud-controller-ng
+  - pkg:github/cloudfoundry-attic/cf-release
+  - pkg:github/cloudfoundry-attic/cloud-controller-ng
+  - pkg:github/cloudfoundry/capi-release

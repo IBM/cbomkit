@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/htop
+  - pkg:deb/ubuntu/htop
+  - pkg:github/hishamhm/htop
+  - pkg:rpm/fedora/htop
+  - pkg:rpm/opensuse/htop
+  - pkg:sourceforge/htop

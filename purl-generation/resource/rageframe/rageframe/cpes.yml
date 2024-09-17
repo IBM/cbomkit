@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:rageframe:rageframe:2.1.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:rageframe:rageframe:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rageframe:rageframe:2.2.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:rageframe:rageframe:2.2.46:*:*:*:*:*:*:*
+  - cpe:2.3:a:rageframe:rageframe:2.2.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:rageframe:rageframe:2.2.52:*:*:*:*:*:*:*
+  - cpe:2.3:a:rageframe:rageframe:2.3.124:*:*:*:*:*:*:*
+  - cpe:2.3:a:rageframe:rageframe:2.3.127:*:*:*:*:*:*:*
+  - cpe:2.3:a:rageframe:rageframe:2.3.130:*:*:*:*:*:*:*
+  - cpe:2.3:a:rageframe:rageframe:2.3.137:*:*:*:*:*:*:*
+  - cpe:2.3:a:rageframe:rageframe:2.3.39:*:*:*:*:*:*:*
+  - cpe:2.3:a:rageframe:rageframe:2.3.65:*:*:*:*:*:*:*
+  - cpe:2.3:a:rageframe:rageframe:2.3.94:*:*:*:*:*:*:*
+  - cpe:2.3:a:rageframe:rageframe:2.4.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:rageframe:rageframe:2.4.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:rageframe:rageframe:2.5.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:rageframe:rageframe:2.5.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:rageframe:rageframe:2.6.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:rageframe:rageframe:2.6.37:*:*:*:*:*:*:*

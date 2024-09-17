@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/git-big-picture
+  - pkg:deb/ubuntu/git-big-picture
+  - pkg:github/git-big-picture/git-big-picture
+  - pkg:pypi/git-big-picture

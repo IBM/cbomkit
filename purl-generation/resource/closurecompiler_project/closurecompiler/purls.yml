@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dcodeio/closurecompiler.js
+  - pkg:npm/closurecompiler

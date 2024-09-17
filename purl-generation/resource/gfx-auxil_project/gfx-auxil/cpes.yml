@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:gfx-auxil_project:gfx-auxil:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gfx-auxil_project:gfx-auxil:0.10.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:gfx-auxil_project:gfx-auxil:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:gfx-auxil_project:gfx-auxil:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:gfx-auxil_project:gfx-auxil:0.4.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:gfx-auxil_project:gfx-auxil:0.5.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:gfx-auxil_project:gfx-auxil:0.6.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:gfx-auxil_project:gfx-auxil:0.7.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:gfx-auxil_project:gfx-auxil:0.8.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:gfx-auxil_project:gfx-auxil:0.9.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:gfx-auxil_project:gfx-auxil:-:*:*:*:*:rust:*:*

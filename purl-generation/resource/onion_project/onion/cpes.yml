@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:onion_project:onion:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:onion_project:onion:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:onion_project:onion:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:onion_project:onion:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:onion_project:onion:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:onion_project:onion:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:onion_project:onion:0.8:*:*:*:*:*:*:*

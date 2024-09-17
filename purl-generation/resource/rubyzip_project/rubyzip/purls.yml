@@ -1,0 +1,7 @@
+purls:
+  - pkg:gem/rubyzip
+  - pkg:github/rubyzip/rubyzip
+  - pkg:gitlab/kalilinux/ruby-rubyzip
+  - pkg:rpm/fedora/rubygem-rubyzip
+  - pkg:rpm/opensuse/rubygem-rubyzip
+  - pkg:sourceforge/rubyzip

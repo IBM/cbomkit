@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/geomview
+  - pkg:deb/ubuntu/geomview
+  - pkg:github/geomview/geomview
+  - pkg:rpm/fedora/geomview
+  - pkg:rpm/opensuse/geomview
+  - pkg:sourceforge/geomview

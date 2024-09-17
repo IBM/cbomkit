@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/highlight.js
+  - pkg:deb/ubuntu/highlight.js
+  - pkg:github/highlightjs/highlight.js
+  - pkg:maven/org.webjars.npm/highlight.js
+  - pkg:npm/highlight.js

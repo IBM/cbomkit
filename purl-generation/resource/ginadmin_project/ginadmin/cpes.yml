@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:ginadmin_project:ginadmin:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:ginadmin_project:ginadmin:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ginadmin_project:ginadmin:2022-05-10:*:*:*:*:*:*:*

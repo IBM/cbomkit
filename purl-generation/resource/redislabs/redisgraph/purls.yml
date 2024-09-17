@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/redislabs/redisgraph
+  - pkg:github/redisgraph/redisgraph

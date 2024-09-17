@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/liblouis
+  - pkg:deb/ubuntu/liblouis
+  - pkg:docker/liblouis/liblouis
+  - pkg:github/liblouis/liblouis
+  - pkg:gitlab/redhat/liblouis
+  - pkg:rpm/centos/liblouis
+  - pkg:rpm/fedora/liblouis
+  - pkg:rpm/opensuse/liblouis

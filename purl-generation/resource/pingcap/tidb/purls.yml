@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pingcap/tidb
+  - pkg:sourceforge/tidb.mirror

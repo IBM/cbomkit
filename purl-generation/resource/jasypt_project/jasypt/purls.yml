@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/jasypt
+  - pkg:deb/ubuntu/jasypt
+  - pkg:github/jasypt/jasypt
+  - pkg:maven/org.jasypt/jasypt
+  - pkg:sourceforge/jasypt

@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/lightningviz/lightning
+  - pkg:github/lightning-viz/lightning

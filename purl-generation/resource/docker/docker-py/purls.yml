@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/docker/docker-py
+  - pkg:pypi/docker-py
+  - pkg:rpm/opensuse/python-docker-py

@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:dotnetblogengine:blogengine.net:1.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotnetblogengine:blogengine.net:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotnetblogengine:blogengine.net:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotnetblogengine:blogengine.net:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotnetblogengine:blogengine.net:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotnetblogengine:blogengine.net:2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotnetblogengine:blogengine.net:2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotnetblogengine:blogengine.net:2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotnetblogengine:blogengine.net:3.3.7.0:*:*:*:*:*:*:*

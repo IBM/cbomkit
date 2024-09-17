@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/aquarellian/sonar-gerrit-plugin
+  - pkg:github/jenkinsci/sonar-gerrit-plugin

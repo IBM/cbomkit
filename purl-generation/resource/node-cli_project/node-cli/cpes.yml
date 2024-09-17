@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:node-cli_project:node-cli:0.0.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:node-cli_project:node-cli:0.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:node-cli_project:node-cli:0.1.0:*:*:*:*:node.js:*:*

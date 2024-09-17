@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/swift
+  - pkg:deb/ubuntu/swift
+  - pkg:github/openstack/swift
+  - pkg:pypi/swift

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/blue-yonder/postgraas_server
+  - pkg:pypi/postgraas-server

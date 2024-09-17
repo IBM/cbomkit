@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/auth0/nextjs-auth0
+  - pkg:npm/%40auth0/nextjs-auth0

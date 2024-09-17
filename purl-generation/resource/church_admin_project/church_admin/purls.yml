@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jonb/church-admin
+  - pkg:github/wp-plugins/church-admin
+  - pkg:github/wpplugins/church-admin

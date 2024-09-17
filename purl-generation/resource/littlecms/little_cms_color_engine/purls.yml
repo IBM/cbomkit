@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/lcms2
+  - pkg:deb/ubuntu/lcms2
+  - pkg:github/mm2/little-cms
+  - pkg:gitlab/redhat/lcms2
+  - pkg:rpm/centos/lcms2
+  - pkg:rpm/fedora/lcms
+  - pkg:rpm/fedora/lcms2
+  - pkg:rpm/opensuse/lcms
+  - pkg:rpm/opensuse/lcms2
+  - pkg:sourceforge/lcms

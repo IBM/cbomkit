@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:jenkins:amazon_web_services_serverless_application_model:1.2.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:amazon_web_services_serverless_application_model:1.2.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:amazon_web_services_serverless_application_model:1.2.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:amazon_web_services_serverless_application_model:-:*:*:*:*:jenkins:*:*

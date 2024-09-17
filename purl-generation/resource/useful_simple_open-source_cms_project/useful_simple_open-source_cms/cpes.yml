@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pa1.0bfx0:*:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb1.0bfx0:*:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb1.0bfx1:-:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb1.0bfx1:pre-beta:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb1.0bfx2:*:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb1.1bfx0:*:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb1.2bfx0:*:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb1.3bfx0:*:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb1.4bfx0:*:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb1.5bfx0:*:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb1.6bfx0:*:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb1.7bfx0:*:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb1.7bfx1:*:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb1.8bfx0:*:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb2.0bfx0:-:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb2.0bfx0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb2.0bfx1:*:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb2.1bfx0:*:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb2.2bfx0:*:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb2.3bfx0:*:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb2.4bfx0:*:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb2.4bfx1:*:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb2.4bfx2:*:*:*:*:*:*:*
+  - cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb2.4bfx3:*:*:*:*:*:*:*

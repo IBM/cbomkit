@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:restful_project:restful:7.x-1.0:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:restful_project:restful:7.x-1.1:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:restful_project:restful:7.x-1.2:*:*:*:*:drupal:*:*

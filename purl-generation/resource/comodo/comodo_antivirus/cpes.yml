@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:comodo:comodo_antivirus:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:comodo:comodo_antivirus:7424:*:*:*:*:*:*:*
+  - cpe:2.3:a:comodo:comodo_antivirus:7425:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:apache:james_server:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:james_server:2.3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:james_server:3.0.0:*:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ust
+  - pkg:deb/ubuntu/ust
+  - pkg:github/lttng/lttng-ust
+  - pkg:rpm/centos/lttng-ust
+  - pkg:rpm/fedora/lttng-ust
+  - pkg:rpm/opensuse/lttng-ust

@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:freecad_project:freecad:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:freecad_project:freecad:0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:freecad_project:freecad:0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:freecad_project:freecad:0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:freecad_project:freecad:0.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:freecad_project:freecad:0.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:freecad_project:freecad:0.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:freecad_project:freecad:0.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:freecad_project:freecad:0.18.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:freecad_project:freecad:0.18.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:freecad_project:freecad:0.18.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:freecad_project:freecad:0.18.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:freecad_project:freecad:0.18.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:freecad_project:freecad:0.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:freecad_project:freecad:0.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:freecad_project:freecad:0.19.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:freecad_project:freecad:0.19.3:*:*:*:*:*:*:*

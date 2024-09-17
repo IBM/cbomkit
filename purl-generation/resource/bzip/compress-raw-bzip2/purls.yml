@@ -1,0 +1,8 @@
+purls:
+  - pkg:cpan/compress-raw-bzip2
+  - pkg:deb/debian/libcompress-raw-bzip2-perl
+  - pkg:deb/ubuntu/libcompress-raw-bzip2-perl
+  - pkg:github/pmqs/compress-raw-bzip2
+  - pkg:gitlab/redhat/perl-compress-raw-bzip2
+  - pkg:rpm/fedora/perl-compress-raw-bzip2
+  - pkg:rpm/opensuse/perl-compress-raw-bzip2

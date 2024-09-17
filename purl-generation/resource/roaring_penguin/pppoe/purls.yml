@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/pppoe
+  - pkg:deb/ubuntu/pppoe
+  - pkg:github/distrotech/rp-pppoe
+  - pkg:rpm/fedora/rp-pppoe
+  - pkg:rpm/opensuse/rp-pppoe

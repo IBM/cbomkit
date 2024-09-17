@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/suricata-update
+  - pkg:deb/ubuntu/suricata-update
+  - pkg:github/oisf/suricata-update
+  - pkg:rpm/opensuse/suricata-update

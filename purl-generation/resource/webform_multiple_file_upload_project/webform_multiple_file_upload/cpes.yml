@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:webform_multiple_file_upload_project:webform_multiple_file_upload:6.x-1.0:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:webform_multiple_file_upload_project:webform_multiple_file_upload:6.x-1.1:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:webform_multiple_file_upload_project:webform_multiple_file_upload:6.x-1.2:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:webform_multiple_file_upload_project:webform_multiple_file_upload:7.x-1.2:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:webform_multiple_file_upload_project:webform_multiple_file_upload:7.x-1.x:dev:*:*:*:drupal:*:*

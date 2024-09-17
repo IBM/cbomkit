@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:almanah_project:almanah:0.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:almanah_project:almanah:0.9.0:*:*:*:*:*:*:*

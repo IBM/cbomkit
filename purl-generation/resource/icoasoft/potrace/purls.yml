@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/potrace
+  - pkg:deb/ubuntu/potrace
+  - pkg:github/skyrpex/potrace
+  - pkg:rpm/centos/potrace
+  - pkg:rpm/fedora/potrace
+  - pkg:rpm/opensuse/potrace
+  - pkg:sourceforge/potrace

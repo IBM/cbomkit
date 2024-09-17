@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/bitwarden/server
+  - pkg:github/bitwarden/server
+  - pkg:sourceforge/bitwarden-server.mirror

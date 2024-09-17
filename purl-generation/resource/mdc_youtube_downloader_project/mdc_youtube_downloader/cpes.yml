@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:mdc_youtube_downloader_project:mdc_youtube_downloader:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mdc_youtube_downloader_project:mdc_youtube_downloader:1.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mdc_youtube_downloader_project:mdc_youtube_downloader:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mdc_youtube_downloader_project:mdc_youtube_downloader:1.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mdc_youtube_downloader_project:mdc_youtube_downloader:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mdc_youtube_downloader_project:mdc_youtube_downloader:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mdc_youtube_downloader_project:mdc_youtube_downloader:3.0.0:*:*:*:*:wordpress:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/zanata/zanata
+  - pkg:github/zanata/zanata-platform
+  - pkg:maven/org.zanata/zanata-platform
+  - pkg:sourceforge/zanata

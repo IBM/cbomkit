@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/facturascripts/facturascripts
+  - pkg:github/neorazorx/facturascripts
+  - pkg:sourceforge/facturascripts

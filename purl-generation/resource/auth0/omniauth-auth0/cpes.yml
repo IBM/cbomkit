@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:auth0:omniauth-auth0:2.3.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:auth0:omniauth-auth0:2.3.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:auth0:omniauth-auth0:2.4.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:auth0:omniauth-auth0:2.4.1:*:*:*:*:ruby:*:*

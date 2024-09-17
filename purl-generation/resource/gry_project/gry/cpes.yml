@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:gry_project:gry:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gry_project:gry:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gry_project:gry:2.1.0:beta:*:*:*:node.js:*:*
+  - cpe:2.3:a:gry_project:gry:2.1.0:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:gry_project:gry:3.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gry_project:gry:4.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gry_project:gry:4.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gry_project:gry:4.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gry_project:gry:4.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gry_project:gry:4.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gry_project:gry:5.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gry_project:gry:5.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gry_project:gry:5.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gry_project:gry:5.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gry_project:gry:5.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gry_project:gry:5.0.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gry_project:gry:5.0.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gry_project:gry:5.0.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gry_project:gry:5.0.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:gry_project:gry:*:*:*:*:*:node.js:*:*

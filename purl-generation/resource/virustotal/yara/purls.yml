@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/yara
+  - pkg:deb/ubuntu/yara
+  - pkg:github/virustotal/yara
+  - pkg:rpm/fedora/yara
+  - pkg:rpm/opensuse/yara

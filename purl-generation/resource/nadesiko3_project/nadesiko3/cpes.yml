@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:nadesiko3_project:nadesiko3:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nadesiko3_project:nadesiko3:*:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:nadesiko3_project:nadesiko3:*:*:*:*:pc:*:*:*

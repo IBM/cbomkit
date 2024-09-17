@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/libjpeg-turbo
+  - pkg:deb/ubuntu/libjpeg-turbo
+  - pkg:github/libjpeg-turbo/libjpeg-turbo
+  - pkg:gitlab/redhat/libjpeg-turbo
+  - pkg:nuget/Libjpeg-Turbo
+  - pkg:rpm/centos/libjpeg-turbo
+  - pkg:rpm/fedora/libjpeg-turbo
+  - pkg:rpm/opensuse/libjpeg-turbo
+  - pkg:sourceforge/libjpeg-turbo

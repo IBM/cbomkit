@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/acpid
+  - pkg:deb/ubuntu/acpid
+  - pkg:github/distrotech/acpid
+  - pkg:rpm/fedora/acpid
+  - pkg:rpm/opensuse/acpid
+  - pkg:sourceforge/acpid2

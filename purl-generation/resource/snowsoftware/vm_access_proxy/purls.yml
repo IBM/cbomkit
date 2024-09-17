@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/hornbill/gosnowcloudassetimport
+  - pkg:golang/github.com/hornbill/gosnowcloudassetimport

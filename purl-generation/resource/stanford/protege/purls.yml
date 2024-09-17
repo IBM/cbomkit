@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/protegeproject/protege
+  - pkg:maven/edu.stanford.protege/protege-parent
+  - pkg:rpm/opensuse/protege

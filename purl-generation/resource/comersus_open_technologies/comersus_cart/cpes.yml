@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:comersus_open_technologies:comersus_cart:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:comersus_open_technologies:comersus_cart:3.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:comersus_open_technologies:comersus_cart:4.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:comersus_open_technologies:comersus_cart:4.051:*:*:*:*:*:*:*
+  - cpe:2.3:a:comersus_open_technologies:comersus_cart:4.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:comersus_open_technologies:comersus_cart:4.20b:*:*:*:*:*:*:*
+  - cpe:2.3:a:comersus_open_technologies:comersus_cart:4.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:comersus_open_technologies:comersus_cart:4.27:*:*:*:*:*:*:*
+  - cpe:2.3:a:comersus_open_technologies:comersus_cart:4.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:comersus_open_technologies:comersus_cart:4.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:comersus_open_technologies:comersus_cart:4.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:comersus_open_technologies:comersus_cart:4.47:*:*:*:*:*:*:*
+  - cpe:2.3:a:comersus_open_technologies:comersus_cart:5.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:comersus_open_technologies:comersus_cart:5.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:comersus_open_technologies:comersus_cart:5.0.991:*:*:*:*:*:*:*
+  - cpe:2.3:a:comersus_open_technologies:comersus_cart:6.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:comersus_open_technologies:comersus_cart:7.07:*:*:*:*:*:*:*

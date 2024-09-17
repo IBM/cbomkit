@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:scadabr:scadabr:1.0ce:*:*:*:*:*:*:*
+  - cpe:2.3:a:scadabr:scadabr:1.1.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:scadabr:scadabr:*:*:*:*:*:linux:*:*
+  - cpe:2.3:a:scadabr:scadabr:*:*:*:*:*:windows:*:*

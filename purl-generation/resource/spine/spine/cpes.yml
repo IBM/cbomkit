@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:spine:spine:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:spine:spine:1.0_01:*:*:*:*:*:*:*
+  - cpe:2.3:a:spine:spine:1.0_02:*:*:*:*:*:*:*
+  - cpe:2.3:a:spine:spine:1.0_03:*:*:*:*:*:*:*
+  - cpe:2.3:a:spine:spine:1.0_04:*:*:*:*:*:*:*
+  - cpe:2.3:a:spine:spine:1.0_05:*:*:*:*:*:*:*

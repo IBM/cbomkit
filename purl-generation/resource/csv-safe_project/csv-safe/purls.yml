@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/csv-safe
+  - pkg:github/zvory/csv-safe

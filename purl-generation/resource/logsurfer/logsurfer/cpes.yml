@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:logsurfer:logsurfer:1.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:logsurfer:logsurfer:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:logsurfer:logsurfer:1.5a:*:*:*:*:*:*:*

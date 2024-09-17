@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/matroska-org/foundation-source
+  - pkg:rpm/opensuse/mkvalidator
+  - pkg:sourceforge/matroska

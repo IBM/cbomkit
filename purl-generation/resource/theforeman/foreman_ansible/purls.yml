@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/foreman_ansible
+  - pkg:github/theforeman/foreman_ansible

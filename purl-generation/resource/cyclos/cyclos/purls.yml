@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/cyclos/cyclos
+  - pkg:github/jelastic-jps/cyclos
+  - pkg:sourceforge/cyclos

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/squirrel3
+  - pkg:deb/ubuntu/squirrel3
+  - pkg:github/albertodemichelis/squirrel
+  - pkg:rpm/fedora/squirrel
+  - pkg:rpm/opensuse/squirrel
+  - pkg:sourceforge/squirrel

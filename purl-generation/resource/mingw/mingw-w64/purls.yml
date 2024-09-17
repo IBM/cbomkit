@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/mingw-w64
+  - pkg:deb/ubuntu/mingw-w64
+  - pkg:github/mingw-w64/mingw-w64
+  - pkg:github/mirror/mingw-w64

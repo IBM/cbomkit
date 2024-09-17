@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:paypal:php_invoice_sdk:2.1.96:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:php_invoice_sdk:2.2.98:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:php_invoice_sdk:2.3.100:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:php_invoice_sdk:2.3.101:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:php_invoice_sdk:2.4.103:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:php_invoice_sdk:2.5.106:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:php_invoice_sdk:2.6.106:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:php_invoice_sdk:2.6.107:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:php_invoice_sdk:3.4.102:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:php_invoice_sdk:3.5.103:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:php_invoice_sdk:3.6.106:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:php_invoice_sdk:3.8.106:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:php_invoice_sdk:3.8.107:*:*:*:*:*:*:*
+  - cpe:2.3:a:paypal:php_invoice_sdk:3.9.0:*:*:*:*:*:*:*

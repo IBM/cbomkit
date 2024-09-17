@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/vlc
+  - pkg:deb/ubuntu/vlc
+  - pkg:github/videolan/vlc
+  - pkg:github/videolan/vlc-3.0
+  - pkg:gitlab/kalilinux/vlc
+  - pkg:rpm/opensuse/vlc
+  - pkg:sourceforge/vlc

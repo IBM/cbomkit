@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:exceedone:laravel-admin:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:exceedone:laravel-admin:*:*:*:*:php7:*:*:*
+  - cpe:2.3:a:exceedone:laravel-admin:*:*:*:*:php8:*:*:*

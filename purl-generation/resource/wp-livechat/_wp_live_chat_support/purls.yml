@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jarrydlong/wp-live-chat-support
+  - pkg:github/wp-plugins/wp-live-chat-support
+  - pkg:github/wpplugins/wp-live-chat-support

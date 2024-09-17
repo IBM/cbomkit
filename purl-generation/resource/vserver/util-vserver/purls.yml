@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/util-vserver
+  - pkg:deb/ubuntu/util-vserver
+  - pkg:github/linux-vserver/util-vserver
+  - pkg:pypi/vserver
+  - pkg:rpm/opensuse/util-vserver

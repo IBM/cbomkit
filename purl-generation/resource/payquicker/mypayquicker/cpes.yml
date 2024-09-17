@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:payquicker:mypayquicker:1.0.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:payquicker:mypayquicker:1.1:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:payquicker:mypayquicker:1.2:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:payquicker:mypayquicker:1.3:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:payquicker:mypayquicker:1.4:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:payquicker:mypayquicker:1.5:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:payquicker:mypayquicker:1.6:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:payquicker:mypayquicker:1.7:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:payquicker:mypayquicker:1.8:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:payquicker:mypayquicker:1.9:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:payquicker:mypayquicker:2.0:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:payquicker:mypayquicker:2.1:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:payquicker:mypayquicker:2.2:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:payquicker:mypayquicker:2.3:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:payquicker:mypayquicker:2.4:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:payquicker:mypayquicker:2.5:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:payquicker:mypayquicker:2.6:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:payquicker:mypayquicker:2.7:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:payquicker:mypayquicker:2.8:*:*:*:*:iphone_os:*:*
+  - cpe:2.3:a:payquicker:mypayquicker:2.9:*:*:*:*:iphone_os:*:*

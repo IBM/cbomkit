@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:o:vmware:photon_os:-:*:*:*:*:*:*:*
+  - cpe:2.3:o:vmware:photon_os:1.0:2016-08-14:*:*:*:*:*:*
+  - cpe:2.3:o:vmware:photon_os:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:vmware:photon_os:2022-02-16:*:*:*:*:*:*:*
+  - cpe:2.3:o:vmware:photon_os:3.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:vmware:photon_os:4.0:-:*:*:*:*:*:*

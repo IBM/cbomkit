@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/zip4j
+  - pkg:deb/ubuntu/zip4j
+  - pkg:github/srikanth-lingala/zip4j
+  - pkg:maven/net.lingala.zip4j/zip4j

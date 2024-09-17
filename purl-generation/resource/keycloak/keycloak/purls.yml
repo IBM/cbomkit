@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/keycloak/keycloak
+  - pkg:maven/org.keycloak/keycloak-core

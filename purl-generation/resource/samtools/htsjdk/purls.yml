@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/htsjdk
+  - pkg:deb/ubuntu/htsjdk
+  - pkg:github/samtools/htsjdk
+  - pkg:maven/com.github.samtools/htsjdk

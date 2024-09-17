@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:libical_project:libical:0.47:*:*:*:*:*:*:*
+  - cpe:2.3:a:libical_project:libical:0.48:*:*:*:*:*:*:*
+  - cpe:2.3:a:libical_project:libical:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libical_project:libical:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libical_project:libical:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libical_project:libical:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libical_project:libical:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libical_project:libical:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libical_project:libical:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libical_project:libical:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libical_project:libical:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:libical_project:libical:3.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:libical_project:libical:3.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:libical_project:libical:3.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:libical_project:libical:3.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:libical_project:libical:3.0.8:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:mailu:mailu:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mailu:mailu:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:mailu:mailu:1.7:*:*:*:*:*:*:*

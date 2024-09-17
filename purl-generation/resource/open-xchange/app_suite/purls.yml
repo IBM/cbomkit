@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/iovietnam/open-xchange-appsuite
+  - pkg:npm/open-xchange-appsuite
+  - pkg:rpm/opensuse/open-xchange-appsuite

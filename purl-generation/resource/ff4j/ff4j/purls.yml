@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ff4j/ff4j
+  - pkg:maven/org.ff4j/ff4j-config-yaml
+  - pkg:maven/org.ff4j/ff4j-core

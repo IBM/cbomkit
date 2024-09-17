@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/harmathy/plasma-desktop
+  - pkg:deb/debian/plasma-desktop
+  - pkg:deb/ubuntu/plasma-desktop
+  - pkg:github/kde/plasma-desktop
+  - pkg:rpm/fedora/plasma-desktop
+  - pkg:rpm/opensuse/plasma-desktop

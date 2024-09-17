@@ -1,0 +1,3 @@
+purls:
+  - pkg:freepbx/freepbx/framework
+  - pkg:github/freepbx/framework

@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/countly/countly-server
+  - pkg:github/countly/countly-server
+  - pkg:maven/ly.count.android/sdk
+  - pkg:nuget/Countly
+  - pkg:sourceforge/countly

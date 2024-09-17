@@ -1,0 +1,4 @@
+purls:
+  - pkg:eclipse/jetty
+  - pkg:github/eclipse/jetty.project
+  - pkg:maven/org.apache.jetty/jetty

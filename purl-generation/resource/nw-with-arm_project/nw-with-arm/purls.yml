@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/toni89/nw-with-arm
+  - pkg:npm/nw-with-arm

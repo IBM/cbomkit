@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openshift/assisted-installer
+  - pkg:golang/github.com/openshift/assisted-installer

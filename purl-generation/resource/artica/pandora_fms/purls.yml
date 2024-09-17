@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/pandorafms/pandorafms
+  - pkg:github/pandorafms/pandorafms

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/iptables
+  - pkg:deb/ubuntu/iptables
+  - pkg:github/cernekee/iptables
+  - pkg:github/shadowsocks/iptables
+  - pkg:gitlab/redhat/iptables
+  - pkg:rpm/centos/iptables
+  - pkg:rpm/fedora/iptables
+  - pkg:rpm/opensuse/iptables

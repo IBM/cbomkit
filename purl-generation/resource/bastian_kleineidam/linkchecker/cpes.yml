@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:bastian_kleineidam:linkchecker:4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:bastian_kleineidam:linkchecker:4.5:*:*:*:*:*:*:*

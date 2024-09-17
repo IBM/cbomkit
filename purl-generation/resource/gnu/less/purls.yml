@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/less
+  - pkg:deb/ubuntu/less
+  - pkg:github/gwsw/less
+  - pkg:gitlab/redhat/less
+  - pkg:rpm/centos/less
+  - pkg:rpm/fedora/less
+  - pkg:rpm/opensuse/less

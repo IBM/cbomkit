@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:oracle:helidon:1.4.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:helidon:1.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:helidon:2.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:helidon:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:oracle:helidon:2.4.0:*:*:*:*:*:*:*

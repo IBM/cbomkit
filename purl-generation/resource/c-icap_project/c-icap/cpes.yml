@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:c-icap_project:c-icap:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:c-icap_project:c-icap:0.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:c-icap_project:c-icap:0.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:c-icap_project:c-icap:0.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:c-icap_project:c-icap:0.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:c-icap_project:c-icap:0.2.6:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/giggio/node-chromedriver
+  - pkg:maven/org.webjars.npm/chromedriver
+  - pkg:npm/chromedriver

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:keszites:simple_popup_newsletter:1.4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:keszites:simple_popup_newsletter:-:*:*:*:*:wordpress:*:*

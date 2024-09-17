@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:rubyonrails:active_resource:4.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:rubyonrails:active_resource:4.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:rubyonrails:active_resource:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rubyonrails:active_resource:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rubyonrails:active_resource:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rubyonrails:active_resource:5.1.1:*:*:*:*:*:*:*

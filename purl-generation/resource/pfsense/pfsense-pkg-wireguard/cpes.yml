@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:pfsense:pfsense-pkg-wireguard:0.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:pfsense:pfsense-pkg-wireguard:0.1.5_4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pfsense:pfsense-pkg-wireguard:0.1.6:*:*:*:*:*:*:*

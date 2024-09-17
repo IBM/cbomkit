@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:proton:energymech_irc_bot:2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:proton:energymech_irc_bot:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:proton:energymech_irc_bot:2.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:proton:energymech_irc_bot:2.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:proton:energymech_irc_bot:2.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:proton:energymech_irc_bot:2.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:proton:energymech_irc_bot:2.8.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:proton:energymech_irc_bot:2.9.4_dev:*:*:*:*:*:*:*
+  - cpe:2.3:a:proton:energymech_irc_bot:2.99.79:*:*:*:*:*:*:*
+  - cpe:2.3:a:proton:energymech_irc_bot:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:proton:energymech_irc_bot:3.0.1:*:*:*:*:*:*:*

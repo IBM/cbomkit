@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/davfs2
+  - pkg:deb/ubuntu/davfs2
+  - pkg:github/thehyve/davfs2
+  - pkg:github/volga629/davfs2
+  - pkg:gnu/davfs2
+  - pkg:rpm/fedora/davfs2
+  - pkg:rpm/opensuse/davfs2
+  - pkg:sourceforge/dav

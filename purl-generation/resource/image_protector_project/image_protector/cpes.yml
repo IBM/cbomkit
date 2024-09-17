@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:image_protector_project:image_protector:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:image_protector_project:image_protector:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:image_protector_project:image_protector:-:*:*:*:*:wordpress:*:*

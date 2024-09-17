@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/vuetifyjs/vuetify
+  - pkg:maven/org.webjars.npm/vuetify
+  - pkg:npm/vuetify

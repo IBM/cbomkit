@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/asvd/jailed
+  - pkg:npm/jailed

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:wechat_broadcast_project:wechat_broadcast:1.0.0:beta:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wechat_broadcast_project:wechat_broadcast:1.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wechat_broadcast_project:wechat_broadcast:1.2.0:*:*:*:*:wordpress:*:*

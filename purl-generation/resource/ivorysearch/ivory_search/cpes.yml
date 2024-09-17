@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:ivorysearch:ivory_search:4.5.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:4.5.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:4.5.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:4.5.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:4.5.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:4.5.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:4.5.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:4.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:4.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:4.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:4.6.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:4.6.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:4.6.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:4.8.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:4.8.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:5.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:5.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:ivorysearch:ivory_search:-:*:*:*:*:wordpress:*:*

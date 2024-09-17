@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:cloud_foundry:diego:0.1468.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloud_foundry:diego:0.1469.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloud_foundry:diego:0.1470.0:*:*:*:*:*:*:*

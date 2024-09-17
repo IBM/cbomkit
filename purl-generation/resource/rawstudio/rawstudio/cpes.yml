@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:rawstudio:rawstudio:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rawstudio:rawstudio:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rawstudio:rawstudio:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rawstudio:rawstudio:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rawstudio:rawstudio:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rawstudio:rawstudio:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:rawstudio:rawstudio:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rawstudio:rawstudio:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:rawstudio:rawstudio:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:rawstudio:rawstudio:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rawstudio:rawstudio:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rawstudio:rawstudio:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rawstudio:rawstudio:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rawstudio:rawstudio:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rawstudio:rawstudio:2.0-1.1:*:*:*:*:*:*:*

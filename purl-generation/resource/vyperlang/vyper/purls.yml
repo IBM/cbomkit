@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/vyperlang/vyper
+  - pkg:github/vyperlang/vyper
+  - pkg:pypi/vyper

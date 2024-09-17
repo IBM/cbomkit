@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/unofficialjuliamirror/libuv-libuv
+  - pkg:deb/ubuntu/libuv
+  - pkg:github/libuv/libuv
+  - pkg:gitlab/redhat/libuv
+  - pkg:nuget/Libuv
+  - pkg:rpm/opensuse/libuv

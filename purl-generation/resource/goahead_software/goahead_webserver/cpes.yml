@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:goahead_software:goahead_webserver:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:goahead_software:goahead_webserver:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:goahead_software:goahead_webserver:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:goahead_software:goahead_webserver:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:goahead_software:goahead_webserver:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:goahead_software:goahead_webserver:2.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:goahead_software:goahead_webserver:2.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:goahead_software:goahead_webserver:2.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:goahead_software:goahead_webserver:2.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:goahead_software:goahead_webserver:2.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:goahead_software:goahead_webserver:v.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:goahead_software:goahead_webserver:v.2.1:*:*:*:*:*:*:*

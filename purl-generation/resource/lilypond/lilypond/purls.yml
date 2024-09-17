@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/lilypond
+  - pkg:deb/ubuntu/lilypond
+  - pkg:github/lilypond/lilypond
+  - pkg:gitlab/lilypond/lilypond
+  - pkg:rpm/fedora/lilypond
+  - pkg:rpm/opensuse/lilypond

@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:minishare_project:minishare:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:minishare_project:minishare:1.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:minishare_project:minishare:1.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:minishare_project:minishare:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:minishare_project:minishare:1.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:minishare_project:minishare:1.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:minishare_project:minishare:1.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:minishare_project:minishare:1.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:minishare_project:minishare:1.5.5:*:*:*:*:*:*:*

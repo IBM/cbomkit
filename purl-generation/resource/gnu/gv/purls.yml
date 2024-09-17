@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/gv
+  - pkg:deb/ubuntu/gv
+  - pkg:github/distrotech/gv
+  - pkg:github/gitgnu/gnu_gv
+  - pkg:github/gnu-mirror-unofficial/gv
+  - pkg:gnu/gv
+  - pkg:rpm/fedora/gv
+  - pkg:rpm/opensuse/gv

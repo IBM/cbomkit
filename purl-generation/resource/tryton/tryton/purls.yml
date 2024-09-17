@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/tryton-client
+  - pkg:deb/ubuntu/tryton-client
+  - pkg:github/tryton/tryton
+  - pkg:rpm/fedora/tryton
+  - pkg:rpm/opensuse/tryton

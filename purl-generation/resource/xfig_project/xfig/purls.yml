@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/xfig
+  - pkg:deb/ubuntu/xfig
+  - pkg:github/delabrcd/xfig
+  - pkg:rpm/fedora/xfig
+  - pkg:rpm/opensuse/xfig
+  - pkg:sourceforge/mcj

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/aviabird/gringotts
+  - pkg:golang/github.com/aviabird/gringotts

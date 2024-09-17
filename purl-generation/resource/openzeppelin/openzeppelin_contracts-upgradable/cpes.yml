@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:openzeppelin:openzeppelin_contracts-upgradable:4.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openzeppelin:openzeppelin_contracts-upgradable:*:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:openzeppelin:openzeppelin_contracts-upgradable:-:*:*:*:*:node.js:*:*

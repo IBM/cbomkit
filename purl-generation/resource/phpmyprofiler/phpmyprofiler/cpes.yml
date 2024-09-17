@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:phpmyprofiler:phpmyprofiler:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpmyprofiler:phpmyprofiler:0.9.6b:*:*:*:*:*:*:*

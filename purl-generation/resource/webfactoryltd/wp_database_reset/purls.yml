@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/grappler/wordpress-database-reset
+  - pkg:github/wp-plugins/wordpress-database-reset
+  - pkg:github/wpplugins/wordpress-database-reset

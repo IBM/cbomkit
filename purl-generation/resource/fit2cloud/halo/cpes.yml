@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:fit2cloud:halo:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:fit2cloud:halo:1.5.0:*:*:*:*:*:*:*

@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:shibboleth:oidc_op:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:shibboleth:oidc_op:3.0.0:*:*:*:*:identity_provider:*:*
+  - cpe:2.3:a:shibboleth:oidc_op:3.0.1:*:*:*:*:identity_provider:*:*
+  - cpe:2.3:a:shibboleth:oidc_op:3.0.2:*:*:*:*:identity_provider:*:*
+  - cpe:2.3:a:shibboleth:oidc_op:3.0.3:*:*:*:*:identity_provider:*:*
+  - cpe:2.3:a:shibboleth:oidc_op:3.0.4:*:*:*:*:identity_provider:*:*
+  - cpe:2.3:a:shibboleth:oidc_op:*:*:*:*:identity_provider:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/actix/actix-net
+  - pkg:rpm/fedora/rust-actix-codec
+  - pkg:rpm/opensuse/rust-actix-codec

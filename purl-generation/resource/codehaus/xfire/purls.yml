@@ -1,0 +1,2 @@
+purls:
+  - pkg:maven/org.codehaus.xfire/xfire-core

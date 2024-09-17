@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-flower
+  - pkg:deb/ubuntu/python-flower
+  - pkg:docker/mher/flower
+  - pkg:github/mher/flower
+  - pkg:pypi/flower
+  - pkg:rpm/opensuse/python-flower

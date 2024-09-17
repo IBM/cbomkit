@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/matrix-org/matrix-react-sdk
+  - pkg:npm/matrix-react-sdk

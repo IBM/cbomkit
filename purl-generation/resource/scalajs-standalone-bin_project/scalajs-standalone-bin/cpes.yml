@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:scalajs-standalone-bin_project:scalajs-standalone-bin:0.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:scalajs-standalone-bin_project:scalajs-standalone-bin:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:scalajs-standalone-bin_project:scalajs-standalone-bin:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:scalajs-standalone-bin_project:scalajs-standalone-bin:0.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:scalajs-standalone-bin_project:scalajs-standalone-bin:0.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:scalajs-standalone-bin_project:scalajs-standalone-bin:0.4.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:scalajs-standalone-bin_project:scalajs-standalone-bin:0.4.3:*:*:*:*:node.js:*:*

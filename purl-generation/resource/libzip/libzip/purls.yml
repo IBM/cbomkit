@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libzip
+  - pkg:deb/ubuntu/libzip
+  - pkg:github/nih-at/libzip
+  - pkg:nuget/libzip
+  - pkg:rpm/centos/libzip
+  - pkg:rpm/fedora/libzip
+  - pkg:rpm/opensuse/libzip

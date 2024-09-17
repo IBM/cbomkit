@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/midnightcommander/mc
+  - pkg:golang/github.com/midnightcommander/mc

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libssh2
+  - pkg:deb/ubuntu/libssh2
+  - pkg:github/libssh2/libssh2
+  - pkg:gitlab/cleveron-mobility/libssh2
+  - pkg:gnu/libssh2
+  - pkg:nuget/libssh2
+  - pkg:rpm/fedora/libssh2
+  - pkg:rpm/opensuse/libssh2

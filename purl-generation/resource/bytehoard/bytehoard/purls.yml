@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/hky/bytehoard2
+  - pkg:github/hky/bytehoard
+  - pkg:sourceforge/bytehoard

@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/cowbell
+  - pkg:deb/ubuntu/cowbell

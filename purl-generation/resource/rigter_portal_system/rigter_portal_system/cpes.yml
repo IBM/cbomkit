@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:rigter_portal_system:rigter_portal_system:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rigter_portal_system:rigter_portal_system:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rigter_portal_system:rigter_portal_system:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rigter_portal_system:rigter_portal_system:6.2:*:*:*:*:*:*:*

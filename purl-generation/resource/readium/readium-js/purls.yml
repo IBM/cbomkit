@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/readium/readium-js
+  - pkg:npm/readium-js

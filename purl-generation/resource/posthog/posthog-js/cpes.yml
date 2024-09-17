@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:posthog:posthog-js:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:posthog:posthog-js:1.57.2:*:*:*:*:*:*:*

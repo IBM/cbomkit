@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/airbrake/airbrake-js
+  - pkg:maven/org.webjars.bower/airbrake-js
+  - pkg:npm/%40airbrake/node

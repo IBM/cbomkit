@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mosn/mosn
+  - pkg:golang/github.com/mosn/mosn

@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:wolfcms:wolf_cms:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wolfcms:wolf_cms:0.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:wolfcms:wolf_cms:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wolfcms:wolf_cms:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wolfcms:wolf_cms:0.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wolfcms:wolf_cms:0.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:wolfcms:wolf_cms:0.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:wolfcms:wolf_cms:0.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:wolfcms:wolf_cms:0.8.3.1:*:*:*:*:*:*:*

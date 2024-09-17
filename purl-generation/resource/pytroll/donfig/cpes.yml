@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:pytroll:donfig:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pytroll:donfig:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pytroll:donfig:0.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pytroll:donfig:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pytroll:donfig:0.3.0:*:*:*:*:*:*:*

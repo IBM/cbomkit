@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/libjackson-json-java
+  - pkg:deb/ubuntu/libjackson-json-java
+  - pkg:github/fasterxml/jackson
+  - pkg:rpm/opensuse/jackson

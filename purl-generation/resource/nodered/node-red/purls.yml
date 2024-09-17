@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/nodered/node-red
+  - pkg:github/node-red/node-red
+  - pkg:npm/node-red
+  - pkg:rpm/opensuse/nodejs-node-red

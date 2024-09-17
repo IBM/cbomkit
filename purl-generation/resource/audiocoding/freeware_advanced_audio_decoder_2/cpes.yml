@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:audiocoding:freeware_advanced_audio_decoder_2:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:audiocoding:freeware_advanced_audio_decoder_2:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:audiocoding:freeware_advanced_audio_decoder_2:2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:audiocoding:freeware_advanced_audio_decoder_2:2.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:audiocoding:freeware_advanced_audio_decoder_2:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:audiocoding:freeware_advanced_audio_decoder_2:2.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:audiocoding:freeware_advanced_audio_decoder_2:2.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:audiocoding:freeware_advanced_audio_decoder_2:2.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:audiocoding:freeware_advanced_audio_decoder_2:2.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:audiocoding:freeware_advanced_audio_decoder_2:2.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:audiocoding:freeware_advanced_audio_decoder_2:2.8.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:audiocoding:freeware_advanced_audio_decoder_2:2.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:audiocoding:freeware_advanced_audio_decoder_2:2.8.8:*:*:*:*:*:*:*

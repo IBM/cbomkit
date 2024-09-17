@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/xjodoin/torpedoquery
+  - pkg:maven/org.torpedoquery/org.torpedoquery

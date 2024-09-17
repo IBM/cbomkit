@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/tpm2-tools
+  - pkg:deb/ubuntu/tpm2-tools
+  - pkg:github/tpm2-software/tpm2-tools
+  - pkg:gitlab/redhat/tpm2-tools
+  - pkg:rpm/centos/tpm2-tools
+  - pkg:rpm/fedora/tpm2-tools
+  - pkg:rpm/opensuse/tpm2-tools

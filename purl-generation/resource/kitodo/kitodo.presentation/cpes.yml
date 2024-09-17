@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:kitodo:kitodo.presentation:3.1.2:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:kitodo:kitodo.presentation:*:*:*:*:*:typo3:*:*

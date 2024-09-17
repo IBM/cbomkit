@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/imagemagick
+  - pkg:deb/ubuntu/imagemagick
+  - pkg:github/imagemagick/imagemagick
+  - pkg:golang/github.com/imagemagick/imagemagick
+  - pkg:rpm/fedora/imagemagick
+  - pkg:rpm/opensuse/imagemagick
+  - pkg:sourceforge/imagemagick

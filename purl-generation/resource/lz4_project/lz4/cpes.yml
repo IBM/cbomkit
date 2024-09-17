@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:lz4_project:lz4:1.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:lz4_project:lz4:1.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:lz4_project:lz4:1.7.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:lz4_project:lz4:1.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:lz4_project:lz4:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lz4_project:lz4:1.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lz4_project:lz4:1.8.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:lz4_project:lz4:1.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:lz4_project:lz4:1.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:lz4_project:lz4:1.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:lz4_project:lz4:1.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lz4_project:lz4:1.9.2:*:*:*:*:*:*:*

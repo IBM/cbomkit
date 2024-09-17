@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:save-server_project:save-server:1.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:save-server_project:save-server:1.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:save-server_project:save-server:1.0.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:save-server_project:save-server:1.0.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:save-server_project:save-server:1.0.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:save-server_project:save-server:1.0.8:*:*:*:*:node.js:*:*

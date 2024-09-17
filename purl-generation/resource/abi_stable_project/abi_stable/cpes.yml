@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:abi_stable_project:abi_stable:0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:abi_stable_project:abi_stable:0.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:abi_stable_project:abi_stable:0.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:abi_stable_project:abi_stable:0.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:abi_stable_project:abi_stable:0.6.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:abi_stable_project:abi_stable:0.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:abi_stable_project:abi_stable:0.7.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:abi_stable_project:abi_stable:0.7.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:abi_stable_project:abi_stable:0.8.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:abi_stable_project:abi_stable:0.8.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:abi_stable_project:abi_stable:0.9.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:abi_stable_project:abi_stable:0.9.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:abi_stable_project:abi_stable:-:*:*:*:*:rust:*:*

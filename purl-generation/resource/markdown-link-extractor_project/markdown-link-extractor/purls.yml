@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tcort/markdown-link-extractor
+  - pkg:npm/markdown-link-extractor

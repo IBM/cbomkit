@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:wdja:wdja_cms:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:wdja:wdja_cms:1.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wdja:wdja_cms:1.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wdja:wdja_cms:1.5.3:*:*:*:*:*:*:*

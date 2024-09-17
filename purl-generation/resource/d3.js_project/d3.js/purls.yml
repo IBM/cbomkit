@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/d3/d3
+  - pkg:maven/org.webjars.npm/d3
+  - pkg:npm/d3.js

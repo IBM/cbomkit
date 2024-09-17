@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/ericjenkins/reveal.js
+  - pkg:github/hakimel/reveal.js
+  - pkg:gitlab/brianwald/reveal-js
+  - pkg:maven/org.webjars.npm/reveal.js
+  - pkg:npm/reveal.js
+  - pkg:sourceforge/reveal-js.mirror

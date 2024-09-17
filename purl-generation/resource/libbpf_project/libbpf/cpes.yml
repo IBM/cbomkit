@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:libbpf_project:libbpf:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:libbpf_project:libbpf:0.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:libbpf_project:libbpf:0.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:libbpf_project:libbpf:0.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:libbpf_project:libbpf:0.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:libbpf_project:libbpf:0.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:libbpf_project:libbpf:0.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:libbpf_project:libbpf:0.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:libbpf_project:libbpf:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libbpf_project:libbpf:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libbpf_project:libbpf:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libbpf_project:libbpf:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:libbpf_project:libbpf:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libbpf_project:libbpf:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libbpf_project:libbpf:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libbpf_project:libbpf:0.6.1:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/woocommerce/woocommerce
+  - pkg:github/woocommerce/woocommerce
+  - pkg:wordpress/woocommerce

@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/caronc/apprise
+  - pkg:github/caronc/apprise
+  - pkg:pypi/apprise
+  - pkg:rpm/fedora/python-apprise

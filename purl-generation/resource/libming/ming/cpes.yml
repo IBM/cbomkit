@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:libming:ming:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libming:ming:0.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:libming:ming:0.4.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:libming:ming:0.4.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:libming:ming:0.4.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:libming:ming:0.4.0:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:libming:ming:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libming:ming:0.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:libming:ming:0.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:libming:ming:0.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:libming:ming:0.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:libming:ming:0.4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:libming:ming:0.4.8:*:*:*:*:*:*:*

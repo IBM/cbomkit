@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/kexec-tools
+  - pkg:deb/ubuntu/kexec-tools
+  - pkg:github/hashcode/kexec-tools
+  - pkg:github/horms/kexec-tools
+  - pkg:rpm/centos/kexec-tools
+  - pkg:rpm/fedora/kexec-tools
+  - pkg:rpm/opensuse/kexec-tools

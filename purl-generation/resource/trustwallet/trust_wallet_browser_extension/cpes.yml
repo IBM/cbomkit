@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:trustwallet:trust_wallet_browser_extension:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:trustwallet:trust_wallet_browser_extension:0.0.172:*:*:*:*:*:*:*

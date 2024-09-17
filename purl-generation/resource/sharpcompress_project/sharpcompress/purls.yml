@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/adamhathcock/sharpcompress
+  - pkg:nuget/SharpCompress

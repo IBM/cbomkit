@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:mapos_project:mapos:2.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mapos_project:mapos:3.1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:mapos_project:mapos:3.1.5:*:*:*:*:*:*:*

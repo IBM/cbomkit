@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:ulicms:ulicms:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:ulicms:ulicms:2019.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ulicms:ulicms:2019.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ulicms:ulicms:2020.2:*:*:*:*:*:*:*

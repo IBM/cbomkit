@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:o:microsoft:ms-dos:-:*:*:*:*:*:*:*
+  - cpe:2.3:o:microsoft:ms-dos:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:microsoft:ms-dos:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:microsoft:ms-dos:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:microsoft:ms-dos:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:o:microsoft:ms-dos:3.3:*:*:*:*:*:*:*
+  - cpe:2.3:o:microsoft:ms-dos:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:microsoft:ms-dos:4.01:*:*:*:*:*:*:*
+  - cpe:2.3:o:microsoft:ms-dos:4.01:*:*:ru:*:*:*:*
+  - cpe:2.3:o:microsoft:ms-dos:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:microsoft:ms-dos:6.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:microsoft:ms-dos:6.2:*:*:*:*:*:*:*
+  - cpe:2.3:o:microsoft:ms-dos:6.21:*:*:*:*:*:*:*
+  - cpe:2.3:o:microsoft:ms-dos:6.22:*:*:*:*:*:*:*
+  - cpe:2.3:o:microsoft:ms-dos:7.0:*:*:*:*:*:*:*

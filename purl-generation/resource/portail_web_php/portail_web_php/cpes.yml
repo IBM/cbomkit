@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:portail_web_php:portail_web_php:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:portail_web_php:portail_web_php:0.99:*:*:*:*:*:*:*
+  - cpe:2.3:a:portail_web_php:portail_web_php:2.5.1.1:*:*:*:*:*:*:*

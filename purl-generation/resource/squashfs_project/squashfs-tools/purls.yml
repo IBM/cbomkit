@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/squashfs-tools
+  - pkg:deb/ubuntu/squashfs-tools
+  - pkg:github/plougher/squashfs-tools
+  - pkg:gitlab/redhat/squashfs-tools
+  - pkg:rpm/fedora/squashfs-tools
+  - pkg:rpm/opensuse/squashfs-tools

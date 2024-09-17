@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:paul_kulchenko:soap_lite:0.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:paul_kulchenko:soap_lite:0.51:*:*:*:*:*:*:*
+  - cpe:2.3:a:paul_kulchenko:soap_lite:0.52:*:*:*:*:*:*:*

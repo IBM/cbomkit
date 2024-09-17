@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:openstack:heat:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:heat:2013.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:heat:2013.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:heat:2013.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:heat:2013.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:heat:2014.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:heat:2015.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:heat:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:heat:5.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:heat:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:heat:6.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:heat:7.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:heat:8.0.0:*:*:*:*:*:*:*

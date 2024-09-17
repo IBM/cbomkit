@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:fusionauth:fusionauth-samlv2:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusionauth:fusionauth-samlv2:0.5.4:*:*:*:*:*:*:*

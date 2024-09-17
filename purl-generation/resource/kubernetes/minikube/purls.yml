@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/kubernetes/minikube
+  - pkg:rpm/opensuse/minikube
+  - pkg:sourceforge/minikube.mirror

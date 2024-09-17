@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pixedelic/camera
+  - pkg:npm/jquery.camera.slideshow

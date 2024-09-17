@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pypa/pipenv
+  - pkg:golang/github.com/pypa/pipenv

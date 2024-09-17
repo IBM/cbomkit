@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/afflib
+  - pkg:deb/ubuntu/afflib
+  - pkg:github/simsong/afflibv3
+  - pkg:github/sshock/afflibv3
+  - pkg:rpm/fedora/afflib
+  - pkg:rpm/opensuse/afflib
+  - pkg:sourceforge/afflib

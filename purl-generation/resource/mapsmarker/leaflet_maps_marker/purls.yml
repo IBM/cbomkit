@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/juanluisrp/leaflet-maps-marker
+  - pkg:github/leoken/leaflet-maps-marker
+  - pkg:github/wp-plugins/leaflet-maps-marker

@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/xmlgraphics
+  - pkg:deb/debian/fop
+  - pkg:deb/ubuntu/fop
+  - pkg:github/apache/xmlgraphics-fop
+  - pkg:maven/org.apache.xmlgraphics/fop
+  - pkg:rpm/fedora/fop

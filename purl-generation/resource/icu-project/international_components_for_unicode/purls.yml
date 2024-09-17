@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/unicode-org/icu
+  - pkg:rpm/fedora/icu
+  - pkg:rpm/fedora/icu4j
+  - pkg:rpm/opensuse/icu
+  - pkg:rpm/opensuse/icu4j

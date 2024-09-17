@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/facorread/sddm
+  - pkg:bitbucket/limux-alumni/sddm
+  - pkg:deb/debian/sddm
+  - pkg:deb/ubuntu/sddm
+  - pkg:github/sddm/sddm
+  - pkg:rpm/fedora/sddm
+  - pkg:rpm/opensuse/sddm

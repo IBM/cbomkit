@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/directory
+  - pkg:github/apache/directory-ldap-api
+  - pkg:maven/org.apache.directory.api/apache-ldap-api

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:bochs:bochs:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bochs:bochs:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bochs:bochs:2.1_pre1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bochs:bochs:2.1_pre2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bochs:bochs:2.3:*:*:*:*:*:*:*

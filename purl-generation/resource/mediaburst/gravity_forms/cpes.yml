@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:mediaburst:gravity_forms:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaburst:gravity_forms:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaburst:gravity_forms:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaburst:gravity_forms:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaburst:gravity_forms:2.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaburst:gravity_forms:2.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaburst:gravity_forms:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaburst:gravity_forms:2.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaburst:gravity_forms:2.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaburst:gravity_forms:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaburst:gravity_forms:2.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:mediaburst:gravity_forms:-:*:*:*:*:wordpress:*:*

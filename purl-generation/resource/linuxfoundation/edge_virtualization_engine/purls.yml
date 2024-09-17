@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/lf-edge/eve
+  - pkg:golang/github.com/lf-edge/eve

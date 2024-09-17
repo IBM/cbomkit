@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/gophish/gophish
+  - pkg:github/gophish/gophish
+  - pkg:sourceforge/gophish.mirror

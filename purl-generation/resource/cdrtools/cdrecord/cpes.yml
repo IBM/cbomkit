@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:cdrtools:cdrecord:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:cdrtools:cdrecord:1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:cdrtools:cdrecord:2.0:*:*:*:*:*:*:*

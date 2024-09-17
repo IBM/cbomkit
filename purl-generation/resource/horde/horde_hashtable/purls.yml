@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-hashtable
+  - pkg:deb/ubuntu/php-horde-hashtable
+  - pkg:github/horde/hashtable
+  - pkg:rpm/fedora/php-horde-horde-hashtable

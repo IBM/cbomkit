@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jsmitty12/phpwhois
+  - pkg:github/phpwhois/phpwhois
+  - pkg:sourceforge/phpwhois

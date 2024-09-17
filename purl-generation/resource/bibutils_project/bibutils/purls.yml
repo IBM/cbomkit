@@ -1,0 +1,7 @@
+purls:
+  - pkg:github/ahmedsaadpk/bibutils
+  - pkg:github/biodranik/bibutils
+  - pkg:gitlab/redhat/bibutils
+  - pkg:rpm/fedora/bibutils
+  - pkg:rpm/opensuse/bibutils
+  - pkg:sourceforge/bibutils

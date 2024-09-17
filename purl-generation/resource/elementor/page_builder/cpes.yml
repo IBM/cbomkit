@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:elementor:page_builder:2.9.0:beta1:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:page_builder:2.9.0:beta2:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:page_builder:2.9.0:beta3:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:page_builder:2.9.0:beta4:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:page_builder:2.9.0:beta5:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elementor:page_builder:2.9.0:-:*:*:*:wordpress:*:*

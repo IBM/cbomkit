@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:lttng:ust:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lttng:ust:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:lttng:ust:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:lttng:ust:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:lttng:ust:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:lttng:ust:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:lttng:ust:0.7:*:*:*:*:*:*:*

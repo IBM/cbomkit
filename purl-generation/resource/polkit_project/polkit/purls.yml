@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/policykit/policykit
+  - pkg:gitlab/redhat/polkit
+  - pkg:rpm/fedora/polkit
+  - pkg:rpm/opensuse/policykit

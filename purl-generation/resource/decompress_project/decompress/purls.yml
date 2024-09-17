@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/kevva/decompress
+  - pkg:maven/org.webjars.npm/decompress
+  - pkg:npm/decompress

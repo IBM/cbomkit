@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:doyocms_project:doyocms:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:doyocms_project:doyocms:2.3:-:*:*:*:*:*:*

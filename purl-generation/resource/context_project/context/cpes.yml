@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:context_project:context:7.x-3.0:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:context_project:context:7.x-3.1:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:context_project:context:7.x-3.2:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:context_project:context:7.x-3.3:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:context_project:context:7.x-3.4:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:context_project:context:7.x-3.5:*:*:*:*:drupal:*:*

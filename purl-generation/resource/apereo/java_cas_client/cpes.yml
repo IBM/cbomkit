@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:apereo:java_cas_client:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apereo:java_cas_client:3.3.2:*:*:*:*:*:*:*

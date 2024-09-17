@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/inveniosoftware/invenio-communities
+  - pkg:pypi/invenio-communities

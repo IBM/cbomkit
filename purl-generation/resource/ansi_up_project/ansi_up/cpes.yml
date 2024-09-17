@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:ansi_up_project:ansi_up:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ansi_up_project:ansi_up:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi_up_project:ansi_up:1.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi_up_project:ansi_up:1.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi_up_project:ansi_up:1.1.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi_up_project:ansi_up:1.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi_up_project:ansi_up:1.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi_up_project:ansi_up:1.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi_up_project:ansi_up:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi_up_project:ansi_up:2.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi_up_project:ansi_up:2.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi_up_project:ansi_up:2.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi_up_project:ansi_up:3.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi_up_project:ansi_up:4.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi_up_project:ansi_up:4.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi_up_project:ansi_up:4.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi_up_project:ansi_up:5.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:ansi_up_project:ansi_up:5.0.1:*:*:*:*:node.js:*:*

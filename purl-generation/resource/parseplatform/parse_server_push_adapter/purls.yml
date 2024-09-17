@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/parse-community/parse-server-push-adapter
+  - pkg:npm/@parse/push-adapter

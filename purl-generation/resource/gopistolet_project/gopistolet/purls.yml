@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gopistolet/gopistolet
+  - pkg:golang/github.com/gopistolet/gopistolet

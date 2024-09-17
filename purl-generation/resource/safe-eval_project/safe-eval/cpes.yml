@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:safe-eval_project:safe-eval:0.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:safe-eval_project:safe-eval:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:safe-eval_project:safe-eval:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:safe-eval_project:safe-eval:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:safe-eval_project:safe-eval:0.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:safe-eval_project:safe-eval:0.4.1:*:*:*:*:node.js:*:*

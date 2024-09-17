@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:jwt-simple_project:jwt-simple:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jwt-simple_project:jwt-simple:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jwt-simple_project:jwt-simple:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jwt-simple_project:jwt-simple:0.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jwt-simple_project:jwt-simple:0.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jwt-simple_project:jwt-simple:0.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jwt-simple_project:jwt-simple:0.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jwt-simple_project:jwt-simple:0.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jwt-simple_project:jwt-simple:0.5.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jwt-simple_project:jwt-simple:0.5.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jwt-simple_project:jwt-simple:0.5.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jwt-simple_project:jwt-simple:0.5.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:jwt-simple_project:jwt-simple:0.5.6:*:*:*:*:node.js:*:*

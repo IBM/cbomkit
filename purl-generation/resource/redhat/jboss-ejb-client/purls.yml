@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/wildfly/jboss-ejb-client
+  - pkg:maven/org.jboss/jboss-ejb-client

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/ruby-kaminari
+  - pkg:deb/ubuntu/ruby-kaminari
+  - pkg:gem/kaminari
+  - pkg:github/amatsuda/kaminari
+  - pkg:github/kaminari/kaminari
+  - pkg:rpm/opensuse/rubygem-kaminari
+  - pkg:sourceforge/kaminari.mirror

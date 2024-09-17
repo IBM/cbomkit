@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/orc
+  - pkg:github/apache/orc
+  - pkg:maven/org.apache.orc/orc

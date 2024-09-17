@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/inlong
+  - pkg:golang/github.com/apache/inlong
+  - pkg:sourceforge/apache-inlong.mirror

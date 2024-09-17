@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/prototypejs/prototype
+  - pkg:maven/org.webjars.bowergithub.prototypejs/prototype
+  - pkg:nuget/PrototypeJS

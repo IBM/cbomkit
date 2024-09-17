@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/pymdown-extensions
+  - pkg:deb/ubuntu/pymdown-extensions
+  - pkg:github/facelessuser/pymdown-extensions
+  - pkg:pypi/pymdown-extensions
+  - pkg:rpm/opensuse/python-pymdown-extensions

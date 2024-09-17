@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/guardian/html-janitor
+  - pkg:npm/html-janitor

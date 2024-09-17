@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:drupal:project_issue_tracking_module:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:project_issue_tracking_module:4.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:project_issue_tracking_module:4.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:project_issue_tracking_module:4.7_1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:project_issue_tracking_module:4.7_2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:project_issue_tracking_module:5:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:project_issue_tracking_module:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:drupal:project_issue_tracking_module:5.0:*:dev:*:*:*:*:*

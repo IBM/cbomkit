@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-mechanize
+  - pkg:deb/ubuntu/ruby-mechanize
+  - pkg:gem/mechanize
+  - pkg:github/sparklemotion/mechanize
+  - pkg:rpm/fedora/rubygem-mechanize
+  - pkg:rpm/opensuse/rubygem-mechanize

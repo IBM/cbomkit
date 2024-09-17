@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libemf
+  - pkg:deb/ubuntu/libemf
+  - pkg:github/barak/libemf
+  - pkg:gitlab/redhat/libemf
+  - pkg:rpm/centos/libemf
+  - pkg:rpm/fedora/libemf
+  - pkg:rpm/opensuse/libemf
+  - pkg:sourceforge/libemf

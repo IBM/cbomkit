@@ -1,0 +1,5 @@
+purls:
+  - pkg:cpan/net-dns
+  - pkg:github/nlnetlabs/net-dns
+  - pkg:rpm/fedora/perl-net-dns
+  - pkg:rpm/opensuse/perl-net-dns

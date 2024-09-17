@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sepppenner/windowshello
+  - pkg:nuget/HaemmerElectronics.SeppPenner.WindowsHello

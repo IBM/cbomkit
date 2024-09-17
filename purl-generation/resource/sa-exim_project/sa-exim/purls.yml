@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/sa-exim
+  - pkg:deb/ubuntu/sa-exim
+  - pkg:github/pld-linux/sa-exim
+  - pkg:sourceforge/sa-exim

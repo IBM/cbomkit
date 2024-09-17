@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-static-eval
+  - pkg:deb/ubuntu/node-static-eval
+  - pkg:github/browserify/static-eval
+  - pkg:maven/org.webjars.npm/static-eval
+  - pkg:npm/static-eval

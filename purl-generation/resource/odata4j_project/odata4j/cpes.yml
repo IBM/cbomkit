@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:odata4j_project:odata4j:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:odata4j_project:odata4j:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:odata4j_project:odata4j:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:odata4j_project:odata4j:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:odata4j_project:odata4j:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:odata4j_project:odata4j:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:odata4j_project:odata4j:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:odata4j_project:odata4j:0.7:*:*:*:*:*:*:*

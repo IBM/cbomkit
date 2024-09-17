@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/apapsch/guix
+  - pkg:deb/debian/guix
+  - pkg:deb/ubuntu/guix
+  - pkg:github/guix-mirror/guix
+  - pkg:github/pjotrp/guix
+  - pkg:gnu/guix
+  - pkg:rpm/opensuse/guix

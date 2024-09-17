@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/pidgin-otr
+  - pkg:deb/ubuntu/pidgin-otr
+  - pkg:github/coniks-sys/pidgin-otr-fork
+  - pkg:github/decrypto-org/pidgin_otr
+  - pkg:github/mikkoharhanen/pidgin-otr
+  - pkg:rpm/fedora/pidgin-otr
+  - pkg:rpm/opensuse/pidgin-otr

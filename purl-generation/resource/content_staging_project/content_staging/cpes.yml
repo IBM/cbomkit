@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:content_staging_project:content_staging:1.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:content_staging_project:content_staging:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:content_staging_project:content_staging:1.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:content_staging_project:content_staging:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:content_staging_project:content_staging:1.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:content_staging_project:content_staging:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:content_staging_project:content_staging:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:content_staging_project:content_staging:-:*:*:*:*:wordpress:*:*

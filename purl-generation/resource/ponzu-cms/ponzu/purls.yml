@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/ponzu/ponzu
+  - pkg:github/ponzu-cms/ponzu
+  - pkg:sourceforge/ponzu.mirror

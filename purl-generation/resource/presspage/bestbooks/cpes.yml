@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:presspage:bestbooks:2.6.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:presspage:bestbooks:-:*:*:*:*:wordpress:*:*

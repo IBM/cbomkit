@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:o:nitrokey:fido_u2f_firmware:-:*:*:*:*:*:*:*
+  - cpe:2.3:o:nitrokey:fido_u2f_firmware:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:nitrokey:fido_u2f_firmware:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:o:nitrokey:fido_u2f_firmware:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:nitrokey:fido_u2f_firmware:1.1:*:*:*:*:*:*:*

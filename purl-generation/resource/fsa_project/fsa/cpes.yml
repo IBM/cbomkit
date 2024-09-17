@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:fsa_project:fsa:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:fsa_project:fsa:0.5.1:*:*:*:*:*:*:*

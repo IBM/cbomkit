@@ -1,0 +1,8 @@
+purls:
+  - pkg:cpan/audio-libsamplerate
+  - pkg:deb/debian/libsamplerate
+  - pkg:deb/ubuntu/libsamplerate
+  - pkg:github/libsndfile/libsamplerate
+  - pkg:rpm/centos/libsamplerate
+  - pkg:rpm/fedora/libsamplerate
+  - pkg:rpm/opensuse/libsamplerate

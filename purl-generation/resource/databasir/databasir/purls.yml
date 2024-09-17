@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/vrantt/databasir
+  - pkg:github/vran-dev/databasir

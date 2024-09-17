@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/edb-debugger
+  - pkg:deb/ubuntu/edb-debugger
+  - pkg:github/eteran/edb-debugger
+  - pkg:gitlab/kalilinux/edb-debugger
+  - pkg:rpm/opensuse/edb-debugger

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/myliang/x-spreadsheet
+  - pkg:npm/x-data-spreadsheet

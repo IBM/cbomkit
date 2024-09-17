@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/robotemi/sdk
+  - pkg:maven/com.robotemi/sdk

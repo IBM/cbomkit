@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/ruby-haml
+  - pkg:deb/ubuntu/ruby-haml
+  - pkg:gem/haml
+  - pkg:github/haml/haml
+  - pkg:gitlab/ecoportal/haml
+  - pkg:rpm/fedora/rubygem-haml
+  - pkg:rpm/opensuse/rubygem-haml

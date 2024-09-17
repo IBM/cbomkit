@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/feross/git-pull-or-clone
+  - pkg:npm/git-pull-or-clone

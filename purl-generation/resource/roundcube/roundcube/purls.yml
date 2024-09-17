@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/roundcube
+  - pkg:deb/ubuntu/roundcube
+  - pkg:github/roundcube/roundcubemail
+  - pkg:rpm/fedora/roundcubemail
+  - pkg:rpm/opensuse/roundcubemail
+  - pkg:sourceforge/roundcubemail

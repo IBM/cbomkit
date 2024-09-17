@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:wppa.opajaap:wp-photo-album-plus:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:wppa.opajaap:wp-photo-album-plus:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:wppa.opajaap:wp-photo-album-plus:5.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:wppa.opajaap:wp-photo-album-plus:5.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:wppa.opajaap:wp-photo-album-plus:5.0.3.001:*:*:*:*:*:*:*
+  - cpe:2.3:a:wppa.opajaap:wp-photo-album-plus:6.1.2:*:*:*:*:wordpress:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/socketio/socket.io-client-java
+  - pkg:golang/github.com/socketio/socket.io-client-java

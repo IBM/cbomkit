@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/lsof
+  - pkg:deb/ubuntu/lsof
+  - pkg:github/lsof-org/lsof
+  - pkg:gitlab/redhat/lsof
+  - pkg:rpm/centos/lsof
+  - pkg:rpm/fedora/lsof
+  - pkg:rpm/opensuse/lsof

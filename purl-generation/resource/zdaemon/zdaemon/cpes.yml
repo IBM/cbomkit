@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:zdaemon:zdaemon:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:zdaemon:zdaemon:1.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:zdaemon:zdaemon:1.08.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:zdaemon:zdaemon:1.08.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:zdaemon:zdaemon:1.08.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:zdaemon:zdaemon:1.08.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:zdaemon:zdaemon:1.08.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:zdaemon:zdaemon:1.08.06:*:*:*:*:*:*:*

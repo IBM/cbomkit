@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:media_from_ftp_project:media_from_ftp:10.07:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:media_from_ftp_project:media_from_ftp:10.08:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:media_from_ftp_project:media_from_ftp:10.09:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:media_from_ftp_project:media_from_ftp:10.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:media_from_ftp_project:media_from_ftp:11.00:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:media_from_ftp_project:media_from_ftp:9.72:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:media_from_ftp_project:media_from_ftp:9.73:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:media_from_ftp_project:media_from_ftp:9.74:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:media_from_ftp_project:media_from_ftp:9.75:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:media_from_ftp_project:media_from_ftp:9.85:*:*:*:*:wordpress:*:*

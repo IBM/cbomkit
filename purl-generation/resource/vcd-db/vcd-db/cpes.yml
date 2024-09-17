@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:vcd-db:vcd-db:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:vcd-db:vcd-db:0.961:*:*:*:*:*:*:*
+  - cpe:2.3:a:vcd-db:vcd-db:0.97:*:*:*:*:*:*:*
+  - cpe:2.3:a:vcd-db:vcd-db:0.971:*:*:*:*:*:*:*
+  - cpe:2.3:a:vcd-db:vcd-db:0.972:*:*:*:*:*:*:*
+  - cpe:2.3:a:vcd-db:vcd-db:0.973:*:*:*:*:*:*:*
+  - cpe:2.3:a:vcd-db:vcd-db:0.98:*:*:*:*:*:*:*

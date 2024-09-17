@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/kcapifony
+  - pkg:github/everzet/capifony
+  - pkg:github/kunstmaan/kcapifony

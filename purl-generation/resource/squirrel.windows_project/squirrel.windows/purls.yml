@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/squirrel/squirrel.windows
+  - pkg:nuget/squirrel.windows

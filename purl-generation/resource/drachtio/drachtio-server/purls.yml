@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/drachtio/drachtio-server
+  - pkg:github/drachtio/drachtio-server

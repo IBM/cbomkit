@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/resteasy3.0
+  - pkg:deb/ubuntu/resteasy
+  - pkg:deb/ubuntu/resteasy3.0
+  - pkg:github/resteasy/resteasy
+  - pkg:rpm/fedora/resteasy
+  - pkg:rpm/opensuse/resteasy
+  - pkg:sourceforge/resteasy

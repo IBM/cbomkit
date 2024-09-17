@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:merge-options_project:merge-options:0.0.42:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:merge-options_project:merge-options:0.0.64:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:merge-options_project:merge-options:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:merge-options_project:merge-options:1.0.1:*:*:*:*:node.js:*:*

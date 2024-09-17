@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ecryptfs-utils
+  - pkg:deb/ubuntu/ecryptfs-utils
+  - pkg:github/dustinkirkland/ecryptfs-utils
+  - pkg:rpm/fedora/ecryptfs-utils
+  - pkg:rpm/opensuse/ecryptfs-utils

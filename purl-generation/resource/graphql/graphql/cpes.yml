@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:graphql:graphql:16.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:graphql:graphql:16.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:graphql:graphql:16.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:graphql:graphql:16.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:graphql:graphql:16.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:graphql:graphql:16.7.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:graphql:graphql:16.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:graphql:graphql:17.0.0:alpha1:*:*:*:node.js:*:*
+  - cpe:2.3:a:graphql:graphql:17.0.0:alpha2:*:*:*:node.js:*:*

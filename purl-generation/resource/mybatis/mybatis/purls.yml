@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mybatis/mybatis-3
+  - pkg:maven/org.mybatis/mybatis
+  - pkg:rpm/opensuse/mybatis

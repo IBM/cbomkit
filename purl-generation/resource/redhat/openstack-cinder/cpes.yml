@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:redhat:openstack-cinder:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openstack-cinder:14.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openstack-cinder:15.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openstack-cinder:15.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openstack-cinder:16.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openstack-cinder:16.1.0:*:*:*:*:*:*:*

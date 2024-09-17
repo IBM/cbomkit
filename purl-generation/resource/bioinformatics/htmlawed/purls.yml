@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/php-htmlawed
+  - pkg:deb/ubuntu/php-htmlawed
+  - pkg:github/gerhobbelt/htmlawed
+  - pkg:github/kesar/htmlawed
+  - pkg:rpm/fedora/php-htmlawed
+  - pkg:rpm/opensuse/php-htmlawed
+  - pkg:sourceforge/htmlawed

@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:x.org:x_font_server:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:x.org:x_font_server:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:x.org:x_font_server:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:x.org:x_font_server:1.0.4:*:*:*:*:*:*:*

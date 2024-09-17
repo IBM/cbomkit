@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tortoise/tortoise-orm
+  - pkg:pypi/tortoise-orm

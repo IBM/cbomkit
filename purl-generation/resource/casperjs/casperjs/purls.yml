@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/casperjs
+  - pkg:github/casperjs/casperjs
+  - pkg:npm/casperjs

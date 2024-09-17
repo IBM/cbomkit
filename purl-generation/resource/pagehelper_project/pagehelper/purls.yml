@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pagehelper/mybatis-pagehelper
+  - pkg:maven/com.github.pagehelper/pagehelper

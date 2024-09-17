@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-marked
+  - pkg:deb/ubuntu/node-marked
+  - pkg:github/markedjs/marked
+  - pkg:maven/org.webjars.npm/marked
+  - pkg:npm/marked

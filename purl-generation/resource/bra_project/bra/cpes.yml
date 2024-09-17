@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:bra_project:bra:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bra_project:bra:0.1.1:*:*:*:*:rust:*:*

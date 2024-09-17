@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:amb1_sdk_project:amb1_sdk:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:amb1_sdk_project:amb1_sdk:2022-03-11:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/quaertym/compass-compile
+  - pkg:npm/compass-compile

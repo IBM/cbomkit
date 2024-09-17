@@ -1,0 +1,14 @@
+purls:
+  - pkg:deb/debian/cookiecutter
+  - pkg:deb/debian/python-cookiecutter
+  - pkg:deb/ubuntu/cookiecutter
+  - pkg:deb/ubuntu/python-cookiecutter
+  - pkg:docker/cookiecutter/cookiecutter
+  - pkg:github/audreyfeldroy/docker-cookiecutter
+  - pkg:github/cookiecutter/cookiecutter
+  - pkg:maven/com.adamstyrc.cookiecutter/cookie-cutter
+  - pkg:npm/cookiecutter
+  - pkg:nuget/CookieCutter
+  - pkg:opensuse/cookiecutter
+  - pkg:pypi/cookiecutter
+  - pkg:rpm/fedora/python-cookiecutter

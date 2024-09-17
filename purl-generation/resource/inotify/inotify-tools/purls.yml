@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/inotify-tools
+  - pkg:deb/ubuntu/inotify-tools
+  - pkg:rpm/fedora/inotify-tools
+  - pkg:rpm/opensuse/inotify-tools
+  - pkg:sourceforge/inotify-tools

@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/webpagetest/agent
+  - pkg:github/wpo-foundation/webpagetest

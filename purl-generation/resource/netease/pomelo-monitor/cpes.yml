@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:netease:pomelo-monitor:0.3.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:netease:pomelo-monitor:0.3.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:netease:pomelo-monitor:0.3.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:netease:pomelo-monitor:-:*:*:*:*:node.js:*:*

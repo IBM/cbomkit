@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:openstack:havana:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:havana:2013.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:havana:havana-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:havana:havana-2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openstack:havana:havana-3:*:*:*:*:*:*:*

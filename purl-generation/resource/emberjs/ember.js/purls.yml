@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/emberjs/ember.js
+  - pkg:nuget/EmberJS.2.2
+  - pkg:sourceforge/ember-js.mirror

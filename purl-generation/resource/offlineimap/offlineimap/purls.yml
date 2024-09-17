@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/offlineimap
+  - pkg:deb/ubuntu/offlineimap
+  - pkg:github/offlineimap/offlineimap
+  - pkg:pypi/offlineimap
+  - pkg:rpm/fedora/offlineimap
+  - pkg:rpm/opensuse/offlineimap

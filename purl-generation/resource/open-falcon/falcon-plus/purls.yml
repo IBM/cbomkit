@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/hualv/falcon-plus
+  - pkg:github/hualvwang/falcon-plus
+  - pkg:github/open-falcon/falcon-plus

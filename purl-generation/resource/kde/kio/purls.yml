@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/kio
+  - pkg:deb/ubuntu/kio
+  - pkg:github/kde/kio

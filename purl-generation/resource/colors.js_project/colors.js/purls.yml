@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/psullivan6/colors.js
+  - pkg:deb/debian/colors.js
+  - pkg:deb/ubuntu/colors.js
+  - pkg:github/marak/colors.js
+  - pkg:npm/colors.js

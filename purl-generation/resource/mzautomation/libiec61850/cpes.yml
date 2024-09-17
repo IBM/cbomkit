@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:mzautomation:libiec61850:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mzautomation:libiec61850:1.3:*:*:*:*:*:*:*

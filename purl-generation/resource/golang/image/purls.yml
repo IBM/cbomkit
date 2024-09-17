@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/golang/image
+  - pkg:golang/github.com/golang/image

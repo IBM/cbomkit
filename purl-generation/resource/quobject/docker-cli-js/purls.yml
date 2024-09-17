@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/quobject/docker-cli-js
+  - pkg:npm/docker-cli-js

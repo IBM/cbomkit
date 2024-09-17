@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:cloudera:hue:3.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudera:hue:3.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudera:hue:4.6.0:*:*:*:*:*:*:*

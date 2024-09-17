@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:jenkins:vrealize_orchestrator:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:jenkins:vrealize_orchestrator:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:vrealize_orchestrator:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:vrealize_orchestrator:2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:vrealize_orchestrator:3.0:*:*:*:*:jenkins:*:*

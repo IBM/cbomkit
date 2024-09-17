@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:brave:adblock-lists:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:brave:adblock-lists:-:*:*:*:*:*:*:*

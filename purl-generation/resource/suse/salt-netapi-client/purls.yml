@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/suse/salt-netapi-client
+  - pkg:maven/com.suse.salt/salt-netapi-client
+  - pkg:rpm/opensuse/salt-netapi-client

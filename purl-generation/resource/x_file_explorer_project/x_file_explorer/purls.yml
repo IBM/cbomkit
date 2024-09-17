@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/xfe
+  - pkg:deb/ubuntu/xfe
+  - pkg:github/tindzk/xfe
+  - pkg:rpm/fedora/xfe
+  - pkg:rpm/opensuse/xfe
+  - pkg:sourceforge/xfe

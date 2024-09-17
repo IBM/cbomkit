@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:jenkins:jclouds:2.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jclouds:2.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jclouds:2.12:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jclouds:2.13:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jclouds:2.14:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jclouds:2.15:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jclouds:2.4.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jclouds:2.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jclouds:2.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jclouds:2.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jclouds:2.8.1-1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jclouds:2.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jclouds:2.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:jclouds:-:*:*:*:*:jenkins:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-dot-prop
+  - pkg:deb/ubuntu/node-dot-prop
+  - pkg:github/sindresorhus/dot-prop
+  - pkg:maven/org.webjars.npm/dot-prop
+  - pkg:npm/dot-prop
+  - pkg:rpm/fedora/nodejs-dot-prop

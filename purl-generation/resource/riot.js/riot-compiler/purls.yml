@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/riot/compiler
+  - pkg:maven/org.webjars.npm/riot-compiler
+  - pkg:npm/riot-compiler

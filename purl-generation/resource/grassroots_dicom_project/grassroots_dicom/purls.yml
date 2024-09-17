@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/pmelendez/gdcm
+  - pkg:deb/debian/gdcm
+  - pkg:deb/ubuntu/gdcm
+  - pkg:github/malaterre/gdcm
+  - pkg:rpm/fedora/gdcm
+  - pkg:rpm/opensuse/gdcm
+  - pkg:sourceforge/gdcm

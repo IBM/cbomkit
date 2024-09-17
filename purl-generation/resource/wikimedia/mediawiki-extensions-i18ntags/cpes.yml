@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wikimedia:mediawiki-extensions-i18ntags:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:wikimedia:mediawiki-extensions-i18ntags:-:*:*:*:*:*:*:*

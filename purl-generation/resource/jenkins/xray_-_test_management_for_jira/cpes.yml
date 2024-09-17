@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:jenkins:xray_-_test_management_for_jira:2.1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:xray_-_test_management_for_jira:2.1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:xray_-_test_management_for_jira:2.2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:xray_-_test_management_for_jira:2.3.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:xray_-_test_management_for_jira:2.3.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:xray_-_test_management_for_jira:2.4.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:xray_-_test_management_for_jira:2.4.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:xray_-_test_management_for_jira:2.5.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:xray_-_test_management_for_jira:2.5.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:xray_-_test_management_for_jira:2.5.2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:xray_-_test_management_for_jira:2.5.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:xray_-_test_management_for_jira:2.6.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:xray_-_test_management_for_jira:2.6.1:*:*:*:*:jenkins:*:*

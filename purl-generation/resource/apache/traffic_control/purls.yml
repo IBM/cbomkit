@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/trafficcontrol
+  - pkg:github/apache/trafficcontrol
+  - pkg:pypi/apache-trafficcontrol

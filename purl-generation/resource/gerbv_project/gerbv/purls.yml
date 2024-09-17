@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/gerbv
+  - pkg:deb/ubuntu/gerbv
+  - pkg:github/gerbv/gerbv
+  - pkg:rpm/fedora/gerbv
+  - pkg:rpm/opensuse/gerbv
+  - pkg:sourceforge/gerbv

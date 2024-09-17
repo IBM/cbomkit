@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:pbboard:pbboard:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pbboard:pbboard:2.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pbboard:pbboard:3.0.1:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:druva:insync:6.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:druva:insync:6.8.0:*:*:*:*:macos:*:*
+  - cpe:2.3:a:druva:insync:*:*:*:*:*:macos:*:*

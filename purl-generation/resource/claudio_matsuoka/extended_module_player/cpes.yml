@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:claudio_matsuoka:extended_module_player:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:claudio_matsuoka:extended_module_player:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:claudio_matsuoka:extended_module_player:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:claudio_matsuoka:extended_module_player:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:claudio_matsuoka:extended_module_player:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:claudio_matsuoka:extended_module_player:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:claudio_matsuoka:extended_module_player:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:claudio_matsuoka:extended_module_player:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:claudio_matsuoka:extended_module_player:2.5.0:*:*:*:*:*:*:*

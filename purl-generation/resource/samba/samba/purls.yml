@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/samba-team/samba
+  - pkg:gitlab/samba-team/samba
+  - pkg:samba/samba

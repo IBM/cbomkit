@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/gnome-subtitles
+  - pkg:deb/ubuntu/gnome-subtitles
+  - pkg:github/gnome/gnome-subtitles
+  - pkg:rpm/fedora/gnome-subtitles

@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:hm_email_project:hm_email:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hm_email_project:hm_email:1.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hm_email_project:hm_email:1.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:hm_email_project:hm_email:1.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:hm_email_project:hm_email:1.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:hm_email_project:hm_email:1.6.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:hm_email_project:hm_email:1.6.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:hm_email_project:hm_email:1.6.7a:*:*:*:*:*:*:*
+  - cpe:2.3:a:hm_email_project:hm_email:1.6.7b:*:*:*:*:*:*:*
+  - cpe:2.3:a:hm_email_project:hm_email:1.6.7c:*:*:*:*:*:*:*
+  - cpe:2.3:a:hm_email_project:hm_email:1.6.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:hm_email_project:hm_email:1.6.8a:*:*:*:*:*:*:*
+  - cpe:2.3:a:hm_email_project:hm_email:1.6.8b:*:*:*:*:*:*:*
+  - cpe:2.3:a:hm_email_project:hm_email:1.6.8c:*:*:*:*:*:*:*

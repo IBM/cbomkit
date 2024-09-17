@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/ruby-crack
+  - pkg:deb/ubuntu/ruby-crack
+  - pkg:gem/crack
+  - pkg:github/jnunemaker/crack
+  - pkg:gitlab/kalilinux/ruby-crack
+  - pkg:rpm/fedora/rubygem-crack
+  - pkg:rpm/opensuse/rubygem-crack

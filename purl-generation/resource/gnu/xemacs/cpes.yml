@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:gnu:xemacs:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:xemacs:21.4:*:*:*:*:*:*:*

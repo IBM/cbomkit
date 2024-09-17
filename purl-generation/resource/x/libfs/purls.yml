@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/freedesktop/libfs
+  - pkg:github/freedesktop/xorg-libfs

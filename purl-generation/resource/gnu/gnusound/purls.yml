@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gnu-mirror-unofficial/gnusound
+  - pkg:gnu/gnusound

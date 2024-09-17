@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:pistache_project:pistache:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:pistache_project:pistache:0.0.3.20220425:*:*:*:*:*:*:*

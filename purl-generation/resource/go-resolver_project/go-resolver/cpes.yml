@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:go-resolver_project:go-resolver:-:*:*:*:*:go:*:*

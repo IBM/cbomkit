@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/ibus
+  - pkg:deb/ubuntu/ibus
+  - pkg:github/ibus/ibus
+  - pkg:github/phuang/ibus
+  - pkg:gitlab/redhat/ibus
+  - pkg:rpm/centos/ibus
+  - pkg:rpm/fedora/ibus
+  - pkg:rpm/opensuse/ibus

@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:apache:rave:0.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rave:0.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rave:0.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rave:0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rave:0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rave:0.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rave:0.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rave:0.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rave:0.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:rave:0.20:*:*:*:*:*:*:*

@@ -1,0 +1,9 @@
+purls:
+  - pkg:github/llvm/llvm-project
+  - pkg:github/llvm-mirror/compiler-rt
+  - pkg:gitlab/cleveron-mobility/llvm
+  - pkg:gitlab/redhat/compiler-rt
+  - pkg:rpm/centos/compiler-rt
+  - pkg:rpm/fedora/compiler-rt
+  - pkg:rpm/opensuse/compiler-rt
+  - pkg:sourceforge/the-llvm-compiler.mirror

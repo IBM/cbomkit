@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/coincheckjp/eccube-module
+  - pkg:github/ec-cube/sample-payment-plugin

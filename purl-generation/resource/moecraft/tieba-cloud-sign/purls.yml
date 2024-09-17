@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/moenetwork/tieba-cloud-sign
+  - pkg:github/moenetwork/tieba-cloud-sign

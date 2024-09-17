@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/dkimpy-milter
+  - pkg:deb/ubuntu/dkimpy-milter
+  - pkg:github/sdgathman/milter
+  - pkg:pypi/dkimpy-milter
+  - pkg:rpm/opensuse/dkimpy-milter
+  - pkg:sourceforge/dkim-milter

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:victor_cms_project:victor_cms:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:victor_cms_project:victor_cms:2018-05-10:*:*:*:*:*:*:*
+  - cpe:2.3:a:victor_cms_project:victor_cms:2019-02-28:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/stalin
+  - pkg:deb/ubuntu/stalin
+  - pkg:github/barak/stalin

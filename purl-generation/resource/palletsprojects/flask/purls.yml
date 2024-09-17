@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/ubuntu/flask
+  - pkg:gem/flask
+  - pkg:github/pallets/flask
+  - pkg:pypi/flask
+  - pkg:rpm/fedora/python-flask

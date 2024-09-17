@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/growthbook/growthbook
+  - pkg:github/growthbook/growthbook
+  - pkg:npm/%40growthbook/growthbook

@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:concerto-signage:concerto:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:concerto-signage:concerto:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:concerto-signage:concerto:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:concerto-signage:concerto:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:concerto-signage:concerto:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:concerto-signage:concerto:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:concerto-signage:concerto:2.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:concerto-signage:concerto:2.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:concerto-signage:concerto:2.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:concerto-signage:concerto:2.2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:concerto-signage:concerto:2.2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:concerto-signage:concerto:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:concerto-signage:concerto:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:concerto-signage:concerto:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:concerto-signage:concerto:2.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:concerto-signage:concerto:2.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:concerto-signage:concerto:2.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:concerto-signage:concerto:2.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:concerto-signage:concerto:2.3.7:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:concerto-signage:concerto:2.4.0:beta1:*:*:*:*:*:*

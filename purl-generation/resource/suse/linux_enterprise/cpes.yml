@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:o:suse:linux_enterprise:10.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:suse:linux_enterprise:10.0:sp2:*:*:*:*:*:*
+  - cpe:2.3:o:suse:linux_enterprise:10.0:sp3:*:*:*:*:*:*
+  - cpe:2.3:o:suse:linux_enterprise:11.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:suse:linux_enterprise:11.0:sp1:*:*:*:*:*:*
+  - cpe:2.3:o:suse:linux_enterprise:11.0:sp2:*:*:*:*:*:*
+  - cpe:2.3:o:suse:linux_enterprise:12.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:suse:linux_enterprise:12.0:sp5:*:*:*:*:*:*
+  - cpe:2.3:o:suse:linux_enterprise:15.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:suse:linux_enterprise:15.0:sp1:*:*:*:public_cloud:*:*
+  - cpe:2.3:o:suse:linux_enterprise:15.0:sp3:*:*:*:*:*:*
+  - cpe:2.3:o:suse:linux_enterprise:15.0:sp4:*:*:*:*:*:*
+  - cpe:2.3:o:suse:linux_enterprise:15.0:sp5:*:*:*:*:*:*
+  - cpe:2.3:o:suse:linux_enterprise:9.0:-:*:*:*:*:*:*
+  - cpe:2.3:o:suse:linux_enterprise:9-11:*:*:*:*:*:*:*

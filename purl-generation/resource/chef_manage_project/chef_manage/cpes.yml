@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:chef_manage_project:chef_manage:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:chef_manage_project:chef_manage:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:chef_manage_project:chef_manage:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:chef_manage_project:chef_manage:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:chef_manage_project:chef_manage:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:chef_manage_project:chef_manage:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:chef_manage_project:chef_manage:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:chef_manage_project:chef_manage:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:chef_manage_project:chef_manage:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:chef_manage_project:chef_manage:2.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:chef_manage_project:chef_manage:2.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:chef_manage_project:chef_manage:2.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:chef_manage_project:chef_manage:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:chef_manage_project:chef_manage:2.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:chef_manage_project:chef_manage:2.5.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:chef_manage_project:chef_manage:2.5.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:chef_manage_project:chef_manage:2.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:chef_manage_project:chef_manage:2.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:chef_manage_project:chef_manage:2.5.8:*:*:*:*:*:*:*

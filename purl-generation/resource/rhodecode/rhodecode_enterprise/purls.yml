@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/sstruss/rhodecode-ce
+  - pkg:github/rhodecode-enterprise-ce
+  - pkg:pypi/rhodecode

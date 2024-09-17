@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/swangful/chromedriver126
+  - pkg:npm/chromedriver126

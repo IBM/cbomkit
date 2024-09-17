@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-nodemailer
+  - pkg:deb/ubuntu/node-nodemailer
+  - pkg:github/nodemailer/nodemailer
+  - pkg:maven/org.webjars.npm/nodemailer
+  - pkg:npm/nodemailer

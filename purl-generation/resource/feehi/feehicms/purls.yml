@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/liufee/cms
+  - pkg:github/liufee/cms

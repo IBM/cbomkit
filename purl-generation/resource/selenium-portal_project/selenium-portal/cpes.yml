@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:selenium-portal_project:selenium-portal:0.0.1-0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:selenium-portal_project:selenium-portal:0.0.1-1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:selenium-portal_project:selenium-portal:0.0.1-2:*:*:*:*:node.js:*:*

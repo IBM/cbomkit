@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:hybrid_network:hybrid_ircd:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:hybrid_network:hybrid_ircd:5.03p7:*:*:*:*:*:*:*

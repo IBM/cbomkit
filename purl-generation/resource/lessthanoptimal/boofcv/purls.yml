@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/lessthanoptimal/boofcv
+  - pkg:maven/org.boofcv/all

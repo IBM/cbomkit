@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/darktable-org/rawspeed
+  - pkg:rpm/opensuse/rawspeed

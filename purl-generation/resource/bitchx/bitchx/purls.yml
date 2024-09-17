@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bitchx/bitchx1.3
+  - pkg:rpm/fedora/bitchx
+  - pkg:sourceforge/bitchx

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:withsecure:atlant:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:withsecure:atlant:1.0.35-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:withsecure:atlant:15.0:*:*:*:*:*:*:*

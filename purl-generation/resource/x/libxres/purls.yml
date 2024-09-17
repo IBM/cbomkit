@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libxres
+  - pkg:deb/ubuntu/libxres
+  - pkg:github/freedesktop/libxres
+  - pkg:github/freedesktop/xorg-libxres
+  - pkg:rpm/centos/libxres
+  - pkg:rpm/fedora/libxres
+  - pkg:rpm/opensuse/libxres

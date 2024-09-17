@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/josdejong/jsoneditor
+  - pkg:maven/org.webjars.npm/jsoneditor
+  - pkg:npm/jsoneditor

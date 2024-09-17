@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:backdropcms:basic_cart:1.0:beta:*:*:*:backdrop:*:*
+  - cpe:2.3:a:backdropcms:basic_cart:1.1:beta:*:*:*:backdrop:*:*
+  - cpe:2.3:a:backdropcms:basic_cart:*:*:*:*:*:backdrop:*:*
+  - cpe:2.3:a:backdropcms:basic_cart:-:*:*:*:*:backdrop:*:*

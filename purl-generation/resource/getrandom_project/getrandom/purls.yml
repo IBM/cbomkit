@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-getrandom
+  - pkg:deb/ubuntu/rust-getrandom
+  - pkg:github/rust-random/getrandom
+  - pkg:rpm/fedora/rust-getrandom
+  - pkg:rpm/opensuse/rust-getrandom

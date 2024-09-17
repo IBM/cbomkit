@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/myrepos
+  - pkg:deb/ubuntu/myrepos
+  - pkg:github/pabs3/myrepos
+  - pkg:github/richih/myrepos
+  - pkg:rpm/fedora/myrepos
+  - pkg:rpm/opensuse/myrepos

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/phpoffice/phpexcel
+  - pkg:rpm/fedora/php-phpoffice-phpexcel
+  - pkg:rpm/opensuse/php7-pear-phpexcel

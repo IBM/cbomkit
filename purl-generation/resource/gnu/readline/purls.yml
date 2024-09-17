@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/readline
+  - pkg:deb/ubuntu/readline
+  - pkg:github/distrotech/readline
+  - pkg:github/qunixorg/readline
+  - pkg:github/val-verde/readline
+  - pkg:gitlab/redhat/readline
+  - pkg:gnu/readline
+  - pkg:rpm/centos/readline
+  - pkg:rpm/fedora/readline
+  - pkg:rpm/opensuse/readline

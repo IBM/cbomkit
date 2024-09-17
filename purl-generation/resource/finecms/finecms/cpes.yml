@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:finecms:finecms:1.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:finecms:finecms:5.0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:finecms:finecms:5.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:finecms:finecms:5.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:finecms:finecms:5.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:finecms:finecms:5.4:*:*:*:*:*:*:*

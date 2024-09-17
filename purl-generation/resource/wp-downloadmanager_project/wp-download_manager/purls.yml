@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/lesterchan/wp-downloadmanager
+  - pkg:github/revcrew/wp-downloadmanager
+  - pkg:github/wp-plugins/wp-downloadmanager

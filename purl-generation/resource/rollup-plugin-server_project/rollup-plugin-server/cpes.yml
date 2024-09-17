@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:rollup-plugin-server_project:rollup-plugin-server:0.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollup-plugin-server_project:rollup-plugin-server:0.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:rollup-plugin-server_project:rollup-plugin-server:-:*:*:*:*:node.js:*:*

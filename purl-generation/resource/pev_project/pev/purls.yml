@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/pev
+  - pkg:deb/ubuntu/pev
+  - pkg:github/merces/libpe
+  - pkg:github/merces/pev
+  - pkg:rpm/opensuse/pev
+  - pkg:sourceforge/pev

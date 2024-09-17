@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:adcycle:adcycle:0.77:*:*:*:*:*:*:*
+  - cpe:2.3:a:adcycle:adcycle:0.77b:*:*:*:*:*:*:*
+  - cpe:2.3:a:adcycle:adcycle:0.78b:*:*:*:*:*:*:*
+  - cpe:2.3:a:adcycle:adcycle:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:adcycle:adcycle:1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:adcycle:adcycle:1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:adcycle:adcycle:1.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:adcycle:adcycle:1.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:adcycle:adcycle:1.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:adcycle:adcycle:1.17:*:*:*:*:*:*:*

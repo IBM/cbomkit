@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:eclipse:xtend:2.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:xtend:2.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:xtend:2.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:xtend:2.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:xtend:2.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:xtend:2.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:xtend:2.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:xtend:2.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:xtend:2.19.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:eclipse:xtend:2.9.0:*:*:*:*:*:*:*

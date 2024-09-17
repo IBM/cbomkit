@@ -1,0 +1,83 @@
+{{ if .Values.regulator.enabled }}
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: {{ .Values.regulator.name }}
+    resource: {{ .Values.regulator.name }}
+  name: {{ .Values.regulator.name }}
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: {{ .Values.regulator.name }}
+      resource: {{ .Values.regulator.name }}
+  strategy:
+    type: Recreate
+  template:
+    metadata:
+      labels:
+        app: {{ .Values.regulator.name }}
+        resource: {{ .Values.regulator.name }}
+    spec:
+      containers:
+        - name: {{ .Values.regulator.name }}
+          image: {{ .Values.regulator.image }}:{{ .Values.regulator.tag }}
+          imagePullPolicy: Always
+          env:
+            - name: OPA_BASE_URL
+              value: "http://localhost:8181"
+          ports:
+            - name: regulator
+              containerPort: 8080
+              protocol: TCP
+          livenessProbe:
+            failureThreshold: 5
+            initialDelaySeconds: 10
+            periodSeconds: 5
+            successThreshold: 1
+            httpGet:
+              port: 8080
+              path: /policies
+            timeoutSeconds: 5
+          readinessProbe:
+            failureThreshold: 5
+            initialDelaySeconds: 10
+            periodSeconds: 5
+            successThreshold: 1
+            httpGet:
+              port: 8080
+              path: /policies
+            timeoutSeconds: 5
+        - name: {{ .Values.regulator.opa.name }}
+          image: {{ .Values.regulator.opa.image }}:{{ .Values.regulator.opa.tag }}
+          imagePullPolicy: Always
+          command: ["/opa"]
+          args: ["run", "--addr=0.0.0.0:8181", "--server"]
+          ports:
+            - name: opa
+              containerPort: 8181
+              protocol: TCP
+          livenessProbe:
+            failureThreshold: 5
+            initialDelaySeconds: 10
+            periodSeconds: 5
+            successThreshold: 1
+            httpGet:
+              port: 8181
+              path: /
+            timeoutSeconds: 5
+          readinessProbe:
+            failureThreshold: 5
+            initialDelaySeconds: 10
+            periodSeconds: 5
+            successThreshold: 1
+            httpGet:
+              port: 8181
+              path: /
+            timeoutSeconds: 5
+      dnsPolicy: ClusterFirst
+      restartPolicy: Always
+      securityContext: {}
+      terminationGracePeriodSeconds: 30
+{{ end }}

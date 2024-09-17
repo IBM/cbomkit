@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/pigz
+  - pkg:deb/ubuntu/pigz
+  - pkg:github/madler/pigz
+  - pkg:rpm/centos/pigz
+  - pkg:rpm/fedora/pigz
+  - pkg:rpm/opensuse/pigz

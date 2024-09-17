@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/fex-team/umeditor
+  - pkg:npm/umeditor
+  - pkg:nuget/umeditor

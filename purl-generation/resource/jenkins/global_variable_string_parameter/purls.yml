@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/global-variable-string-parameter-plugin
+  - pkg:github/pmaccamp/global-variable-string-parameter

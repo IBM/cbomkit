@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:jenkins:failed_job_deactivator:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:failed_job_deactivator:1.1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:failed_job_deactivator:1.1.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:failed_job_deactivator:1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:failed_job_deactivator:1.2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:failed_job_deactivator:1.2:*:*:*:*:jenkins:*:*

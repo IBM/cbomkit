@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:w3edge:total_cache:0.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:w3edge:total_cache:*:*:*:*:*:wordpress:*:*

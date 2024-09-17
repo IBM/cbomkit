@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/sqlpad/sqlpad
+  - pkg:github/sqlpad/sqlpad
+  - pkg:npm/sqlpad

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/irfanjs/chefbuilder
+  - pkg:github/jenkinsci/sinatra-chef-builder-plugin

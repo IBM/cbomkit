@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:redhat:sysstat:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:sysstat:4.0.7-3:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:sysstat:4.0.7-3:*:i386:*:*:*:*:*

@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:dot-lens_project:dot-lens:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:dot-lens_project:dot-lens:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-lens_project:dot-lens:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-lens_project:dot-lens:1.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-lens_project:dot-lens:1.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-lens_project:dot-lens:1.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-lens_project:dot-lens:1.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-lens_project:dot-lens:1.2.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:dot-lens_project:dot-lens:-:*:*:*:*:node.js:*:*

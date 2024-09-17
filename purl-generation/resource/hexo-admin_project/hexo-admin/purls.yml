@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jaredly/hexo-admin
+  - pkg:npm/hexo-admin

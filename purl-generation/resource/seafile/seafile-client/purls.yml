@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/seafile-client
+  - pkg:deb/ubuntu/seafile-client
+  - pkg:github/haiwen/seafile-client
+  - pkg:rpm/fedora/seafile-client
+  - pkg:rpm/opensuse/seafile-client

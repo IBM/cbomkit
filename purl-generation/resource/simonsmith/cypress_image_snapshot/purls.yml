@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/simonsmith/cypress-image-snapshot
+  - pkg:npm/%40simonsmith/cypress-image-snapshot

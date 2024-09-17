@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:fusebox:fusebox:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusebox:fusebox:4.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusebox:fusebox:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusebox:fusebox:4.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusebox:fusebox:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusebox:fusebox:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusebox:fusebox:5.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fusebox:fusebox:5.5.1:*:*:*:*:*:*:*

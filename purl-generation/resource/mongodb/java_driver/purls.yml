@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mongodb/mongo-java-driver
+  - pkg:maven/org.mongodb/mongo-java-driver

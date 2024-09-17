@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/hugo
+  - pkg:deb/ubuntu/hugo
+  - pkg:github/gohugoio/hugo
+  - pkg:rpm/fedora/hugo
+  - pkg:rpm/opensuse/hugo
+  - pkg:sourceforge/hugo.mirror

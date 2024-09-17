@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/manydesigns/portofino
+  - pkg:maven/com.manydesigns/portofino
+  - pkg:sourceforge/portofino

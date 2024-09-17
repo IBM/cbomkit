@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:gamepress_project:gamepress:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gamepress_project:gamepress:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gamepress_project:gamepress:1.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gamepress_project:gamepress:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gamepress_project:gamepress:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:gamepress_project:gamepress:-:*:*:*:*:wordpress:*:*

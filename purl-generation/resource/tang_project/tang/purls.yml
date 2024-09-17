@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/tang
+  - pkg:deb/ubuntu/tang
+  - pkg:github/latchset/tang
+  - pkg:rpm/centos/tang
+  - pkg:rpm/fedora/tang
+  - pkg:rpm/opensuse/tang

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bytecodealliance/wasmtime
+  - pkg:rpm/fedora/rust-cranelift-codegen
+  - pkg:rpm/opensuse/rust-cranelift-codegen

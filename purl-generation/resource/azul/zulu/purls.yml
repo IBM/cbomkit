@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/azul/zulu-openjdk
+  - pkg:github/zulu-openjdk/zulu-openjdk

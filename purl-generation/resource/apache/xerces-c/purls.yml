@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/xerces
+  - pkg:deb/debian/xerces-c
+  - pkg:deb/ubuntu/xerces-c
+  - pkg:github/apache/xerces-c
+  - pkg:rpm/fedora/xerces-c
+  - pkg:rpm/opensuse/xerces-c

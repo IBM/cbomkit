@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:zentao:zentao:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:zentao:zentao:18.0:beta1:*:*:*:*:*:*

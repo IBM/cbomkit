@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cloudfoundry/php-buildpack
+  - pkg:rpm/opensuse/php-buildpack

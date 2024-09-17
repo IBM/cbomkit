@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/opencc
+  - pkg:deb/ubuntu/opencc
+  - pkg:docker/peterdavehello/opencc
+  - pkg:github/byvoid/opencc
+  - pkg:maven/com.github.houbb/opencc4j
+  - pkg:npm/opencc
+  - pkg:pypi/opencc
+  - pkg:rpm/fedora/opencc
+  - pkg:rpm/opensuse/opencc

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/msgpack/msgpack-node
+  - pkg:npm/msgpack

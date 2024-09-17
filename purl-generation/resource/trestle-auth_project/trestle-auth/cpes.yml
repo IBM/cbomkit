@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:trestle-auth_project:trestle-auth:0.2.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:trestle-auth_project:trestle-auth:0.2.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:trestle-auth_project:trestle-auth:0.2.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:trestle-auth_project:trestle-auth:0.2.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:trestle-auth_project:trestle-auth:0.2.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:trestle-auth_project:trestle-auth:0.2.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:trestle-auth_project:trestle-auth:0.3.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:trestle-auth_project:trestle-auth:0.4.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:trestle-auth_project:trestle-auth:0.4.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:trestle-auth_project:trestle-auth:0.4.2:*:*:*:*:ruby:*:*

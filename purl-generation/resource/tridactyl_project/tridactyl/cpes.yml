@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:tridactyl_project:tridactyl:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:tridactyl_project:tridactyl:1.14.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:tridactyl_project:tridactyl:1.15.0:*:*:*:*:*:*:*

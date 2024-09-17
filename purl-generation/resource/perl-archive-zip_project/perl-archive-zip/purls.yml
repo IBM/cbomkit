@@ -1,0 +1,7 @@
+purls:
+  - pkg:cpan/archive-zip
+  - pkg:github/redhotpenguin/perl-archive-zip
+  - pkg:gitlab/redhat/perl-archive-zip
+  - pkg:rpm/centos/perl-archive-zip
+  - pkg:rpm/fedora/perl-archive-zip
+  - pkg:rpm/opensuse/perl-archive-zip

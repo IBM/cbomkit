@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:apache:tomcat_jk_web_server_connector:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat_jk_web_server_connector:1.2.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat_jk_web_server_connector:1.2.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat_jk_web_server_connector:1.2.22:*:*:*:*:*:*:*

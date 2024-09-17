@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:spumko_project:hapi_server_framework:2.0.0:-:*:*:*:node.js:*:*
+  - cpe:2.3:a:spumko_project:hapi_server_framework:2.0.0:preview:*:*:*:node.js:*:*
+  - cpe:2.3:a:spumko_project:hapi_server_framework:2.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:spumko_project:hapi_server_framework:2.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:spumko_project:hapi_server_framework:2.2.0:*:*:*:*:node.js:*:*

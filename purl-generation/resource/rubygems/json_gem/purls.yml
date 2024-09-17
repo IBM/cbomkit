@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/json
+  - pkg:github/flori/json
+  - pkg:golang/github.com/flori/json

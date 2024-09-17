@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:rinetd:rinetd:0.52:*:*:*:*:*:*:*
+  - cpe:2.3:a:rinetd:rinetd:0.61:*:*:*:*:*:*:*

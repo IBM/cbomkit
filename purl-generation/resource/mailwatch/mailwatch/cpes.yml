@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:mailwatch:mailwatch:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mailwatch:mailwatch:0.3:beta:*:*:*:*:*:*
+  - cpe:2.3:a:mailwatch:mailwatch:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mailwatch:mailwatch:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:mailwatch:mailwatch:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mailwatch:mailwatch:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mailwatch:mailwatch:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mailwatch:mailwatch:1.0.3:*:*:*:*:*:*:*

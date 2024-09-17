@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:verynginx_project:verynginx:0.1:beta1:*:*:*:nginx:*:*
+  - cpe:2.3:a:verynginx_project:verynginx:0.1:beta2:*:*:*:nginx:*:*
+  - cpe:2.3:a:verynginx_project:verynginx:0.1:beta3:*:*:*:nginx:*:*
+  - cpe:2.3:a:verynginx_project:verynginx:0.1:beta4:*:*:*:nginx:*:*
+  - cpe:2.3:a:verynginx_project:verynginx:0.1:*:*:*:*:nginx:*:*
+  - cpe:2.3:a:verynginx_project:verynginx:0.2.1:*:*:*:*:nginx:*:*
+  - cpe:2.3:a:verynginx_project:verynginx:0.2:beta1:*:*:*:nginx:*:*
+  - cpe:2.3:a:verynginx_project:verynginx:0.2:beta2:*:*:*:nginx:*:*
+  - cpe:2.3:a:verynginx_project:verynginx:0.2:beta3:*:*:*:nginx:*:*
+  - cpe:2.3:a:verynginx_project:verynginx:0.2:beta4:*:*:*:nginx:*:*
+  - cpe:2.3:a:verynginx_project:verynginx:0.2:beta5:*:*:*:nginx:*:*
+  - cpe:2.3:a:verynginx_project:verynginx:0.2:beta6:*:*:*:nginx:*:*
+  - cpe:2.3:a:verynginx_project:verynginx:0.2:*:*:*:*:nginx:*:*
+  - cpe:2.3:a:verynginx_project:verynginx:0.3.1:*:*:*:*:nginx:*:*
+  - cpe:2.3:a:verynginx_project:verynginx:0.3.2:*:*:*:*:nginx:*:*
+  - cpe:2.3:a:verynginx_project:verynginx:0.3.3:*:*:*:*:nginx:*:*
+  - cpe:2.3:a:verynginx_project:verynginx:0.3:*:*:*:*:nginx:*:*

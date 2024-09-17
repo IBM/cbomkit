@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/ivmai/libatomic_ops
+  - pkg:gitlab/redhat/libatomic_ops
+  - pkg:rpm/centos/libatomic_ops
+  - pkg:rpm/fedora/libatomic_ops
+  - pkg:rpm/opensuse/libatomic_ops

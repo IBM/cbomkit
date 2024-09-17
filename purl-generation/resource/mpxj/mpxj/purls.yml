@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/joniles/mpxj
+  - pkg:maven/net.sf.mpxj/mpxj
+  - pkg:nuget/net.sf.mpxj
+  - pkg:sourceforge/mpxj

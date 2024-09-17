@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:opensuse:texlive-filesystem:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:texlive-filesystem:2013.74-16.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:texlive-filesystem:2017.135-9.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:texlive-filesystem:2017.135-lp151.8.3.1:*:*:*:*:*:*:*

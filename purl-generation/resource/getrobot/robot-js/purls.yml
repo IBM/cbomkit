@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/robot/robot-js
+  - pkg:npm/robot-js

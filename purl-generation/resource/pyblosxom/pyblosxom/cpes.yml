@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:pyblosxom:pyblosxom:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyblosxom:pyblosxom:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pyblosxom:pyblosxom:1.3:*:*:*:*:*:*:*

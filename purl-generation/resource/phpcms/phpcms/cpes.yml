@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:phpcms:phpcms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcms:phpcms:1.1.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcms:phpcms:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcms:phpcms:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcms:phpcms:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcms:phpcms:1.2.1_p12:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcms:phpcms:1.2.1_pl1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcms:phpcms:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcms:phpcms:2007:sp6:*:*:*:*:*:*
+  - cpe:2.3:a:phpcms:phpcms:2008:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcms:phpcms:2008:sp4:*:*:*:*:*:*
+  - cpe:2.3:a:phpcms:phpcms:9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcms:phpcms:9.1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcms:phpcms:9.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcms:phpcms:9.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcms:phpcms:9.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcms:phpcms:9.6.3:*:*:*:*:*:*:*

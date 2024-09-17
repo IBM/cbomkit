@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/jm-hansen-as/node-opcua
+  - pkg:github/node-opcua/node-opcua
+  - pkg:npm/node-opcua

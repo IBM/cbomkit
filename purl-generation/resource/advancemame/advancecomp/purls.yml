@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/advancecomp
+  - pkg:deb/ubuntu/advancecomp
+  - pkg:github/amadvance/advancecomp
+  - pkg:rpm/fedora/advancecomp
+  - pkg:rpm/opensuse/advancecomp

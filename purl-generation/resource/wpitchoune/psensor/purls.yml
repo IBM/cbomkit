@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/chinf/psensor
+  - pkg:github/evmenovpavel/psensor
+  - pkg:github/mtxr/psensor
+  - pkg:gitlab/jeanfi/psensor
+  - pkg:rpm/opensuse/psensor

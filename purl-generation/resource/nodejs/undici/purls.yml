@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/pycodescene/undici
+  - pkg:deb/debian/node-undici
+  - pkg:deb/ubuntu/node-undici
+  - pkg:github/nodejs/undici
+  - pkg:maven/org.webjars.npm/undici
+  - pkg:npm/undici

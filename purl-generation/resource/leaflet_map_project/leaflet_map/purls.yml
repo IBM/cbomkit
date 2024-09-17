@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bozdoz/wp-plugin-leaflet-map
+  - pkg:github/wp-plugins/leaflet-map
+  - pkg:github/wpplugins/leaflet-map

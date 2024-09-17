@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/xinyewdz/kityminder
+  - pkg:github/fex-team/kityminder
+  - pkg:npm/kityminder

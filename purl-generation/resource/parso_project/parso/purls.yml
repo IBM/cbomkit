@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/parso
+  - pkg:deb/ubuntu/parso
+  - pkg:github/davidhalter/parso
+  - pkg:pypi/parso
+  - pkg:rpm/fedora/python-parso
+  - pkg:rpm/opensuse/python-parso

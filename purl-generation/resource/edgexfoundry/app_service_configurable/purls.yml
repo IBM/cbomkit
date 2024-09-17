@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/edgexfoundry/app-service-configurable
+  - pkg:github/edgexfoundry/app-service-configurable

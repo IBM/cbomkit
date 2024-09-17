@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:keepass:password_safe:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepass:password_safe:2.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepass:password_safe:2.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:keepass:password_safe:2.16:*:*:*:*:*:*:*

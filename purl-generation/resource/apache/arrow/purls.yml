@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/arrow
+  - pkg:github/apache/arrow
+  - pkg:maven/org.apache.arrow/arrow-java-root

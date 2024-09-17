@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/fuse-box/fuse-box
+  - pkg:npm/fuse-box

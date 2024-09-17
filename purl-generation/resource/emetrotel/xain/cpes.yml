@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:emetrotel:xain:0.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:emetrotel:xain:0.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:emetrotel:xain:0.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:emetrotel:xain:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:emetrotel:xain:0.6.2:*:*:*:*:*:*:*

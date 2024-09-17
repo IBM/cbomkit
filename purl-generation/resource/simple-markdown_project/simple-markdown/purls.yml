@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ariabuckles/simple-markdown
+  - pkg:npm/simple-markdown

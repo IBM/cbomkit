@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:matestack:ui-core:0.2.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:matestack:ui-core:0.3.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:matestack:ui-core:0.5.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:matestack:ui-core:0.5.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:matestack:ui-core:0.6.0pre1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:matestack:ui-core:0.6.0:-:*:*:*:ruby:*:*
+  - cpe:2.3:a:matestack:ui-core:0.7.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:matestack:ui-core:0.7.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:matestack:ui-core:0.7.2.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:matestack:ui-core:0.7.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:matestack:ui-core:0.7.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:matestack:ui-core:0.7.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:matestack:ui-core:-:*:*:*:*:ruby:*:*

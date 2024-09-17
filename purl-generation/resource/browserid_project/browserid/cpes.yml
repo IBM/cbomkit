@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:browserid_project:browserid:7.x-1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:browserid_project:browserid:7.x-1.0:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:browserid_project:browserid:7.x-1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:browserid_project:browserid:7.x-1.1:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:browserid_project:browserid:7.x-1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:browserid_project:browserid:7.x-1.2:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:browserid_project:browserid:7.x-1.x-dev:*:*:*:*:*:*:*
+  - cpe:2.3:a:browserid_project:browserid:7.x-1.x-dev:*:*:*:*:drupal:*:*

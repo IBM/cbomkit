@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/gnome-keyring
+  - pkg:deb/ubuntu/gnome-keyring
+  - pkg:github/gnome/gnome-keyring
+  - pkg:rpm/centos/gnome-keyring
+  - pkg:rpm/fedora/gnome-keyring
+  - pkg:rpm/opensuse/gnome-keyring

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/open-stf-plugin
+  - pkg:github/justice3120/open-stf-plugin

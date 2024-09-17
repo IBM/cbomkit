@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:dell:container_storage_modules:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:dell:container_storage_modules:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dell:container_storage_modules:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dell:container_storage_modules:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dell:container_storage_modules:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dell:container_storage_modules:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dell:container_storage_modules:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dell:container_storage_modules:2.0.0:*:*:*:*:*:*:*

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/qpdf
+  - pkg:deb/ubuntu/qpdf
+  - pkg:github/qpdf/qpdf
+  - pkg:rpm/centos/qpdf
+  - pkg:rpm/fedora/qpdf
+  - pkg:rpm/opensuse/qpdf
+  - pkg:sourceforge/qpdf

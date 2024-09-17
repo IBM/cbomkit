@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/beamly/weberknecht
+  - pkg:github/pelotoncycle/weberknecht
+  - pkg:github/pmairif/weberknecht
+  - pkg:maven/com.github.pmairif/weberknecht
+  - pkg:sourceforge/weberknecht

@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/evilru/quake3-vsp-stats
+  - pkg:github/evilru/quake3-vsp-stats

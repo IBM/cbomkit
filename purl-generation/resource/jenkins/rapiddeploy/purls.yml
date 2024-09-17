@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/rapiddeploy-plugin
+  - pkg:github/midvision/rapiddeploy-jenkins

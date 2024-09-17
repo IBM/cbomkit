@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jbufu/openid4java
+  - pkg:maven/org.openid4java/openid4java

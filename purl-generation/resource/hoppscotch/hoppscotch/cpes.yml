@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:hoppscotch:hoppscotch:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:1.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:1.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:1.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:1.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:1.9.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:1.9.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hoppscotch:hoppscotch:2.1.0:*:*:*:*:*:*:*

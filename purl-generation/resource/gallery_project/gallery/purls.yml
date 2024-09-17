@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bwdutton/gallery3
+  - pkg:github/gallery/gallery3
+  - pkg:sourceforge/gallery

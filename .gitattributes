@@ -1,0 +1,2 @@
+# Declare css libs as vendored code
+frontend/src/styles/* linguist-vendored

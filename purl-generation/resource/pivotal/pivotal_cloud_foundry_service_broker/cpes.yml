@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:pivotal:pivotal_cloud_foundry_service_broker:1.4.13:*:*:*:*:aws:*:*
+  - cpe:2.3:a:pivotal:pivotal_cloud_foundry_service_broker:-:*:*:*:*:aws:*:*

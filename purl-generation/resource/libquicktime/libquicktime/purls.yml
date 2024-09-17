@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libquicktime
+  - pkg:deb/ubuntu/libquicktime
+  - pkg:github/tklebanoff/libquicktime-1.2.4
+  - pkg:rpm/opensuse/libquicktime
+  - pkg:sourceforge/libquicktime

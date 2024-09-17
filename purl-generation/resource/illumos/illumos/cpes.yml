@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:illumos:illumos:-:*:*:*:*:*:*:*
+  - cpe:2.3:o:illumos:illumos:-:*:*:*:*:*:*:*
+  - cpe:2.3:o:illumos:illumos:2020-10-22:*:*:*:*:*:*:*
+  - cpe:2.3:o:illumos:illumos:2022-01-18:*:*:*:*:*:*:*
+  - cpe:2.3:o:illumos:illumos:r13723:*:*:*:*:*:*:*

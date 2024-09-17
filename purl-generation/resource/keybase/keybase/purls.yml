@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/keybase/client
+  - pkg:golang/github.com/keybase/client
+  - pkg:rpm/opensuse/keybase-client
+  - pkg:sourceforge/keybase-client.mirror

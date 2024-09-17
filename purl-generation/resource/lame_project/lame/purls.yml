@@ -1,0 +1,10 @@
+purls:
+  - pkg:bitbucket/principo/lame
+  - pkg:deb/debian/lame
+  - pkg:deb/ubuntu/lame
+  - pkg:github/zlargon/lame
+  - pkg:gitlab/redhat/lame
+  - pkg:rpm/centos/lame
+  - pkg:rpm/fedora/lame
+  - pkg:rpm/opensuse/lame
+  - pkg:sourceforge/lame

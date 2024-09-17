@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/evolution-data-server
+  - pkg:deb/ubuntu/evolution-data-server
+  - pkg:github/gnome/evolution-data-server
+  - pkg:rpm/centos/evolution-data-server
+  - pkg:rpm/fedora/evolution-data-server
+  - pkg:rpm/opensuse/evolution-data-server

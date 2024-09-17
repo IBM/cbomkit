@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/joegen/opalvoip-ptlib
+  - pkg:github/myforce/ptlib
+  - pkg:sourceforge/opalvoip

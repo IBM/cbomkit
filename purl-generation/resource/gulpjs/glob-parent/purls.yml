@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-glob-parent
+  - pkg:deb/ubuntu/node-glob-parent
+  - pkg:github/gulpjs/glob-parent
+  - pkg:maven/org.webjars.npm/glob-parent
+  - pkg:npm/glob-parent
+  - pkg:rpm/fedora/nodejs-glob-parent

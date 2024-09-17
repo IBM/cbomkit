@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/snyk/snyk-cocoapods-plugin
+  - pkg:npm/%snyk/snyk-cocoapods-plugin

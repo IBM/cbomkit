@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:text_hover_project:text_hover:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:text_hover_project:text_hover:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:text_hover_project:text_hover:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:text_hover_project:text_hover:3.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:text_hover_project:text_hover:3.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:text_hover_project:text_hover:3.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:text_hover_project:text_hover:3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:text_hover_project:text_hover:3.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:text_hover_project:text_hover:3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:text_hover_project:text_hover:3.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:text_hover_project:text_hover:3.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:text_hover_project:text_hover:3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:text_hover_project:text_hover:3.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:text_hover_project:text_hover:3.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:text_hover_project:text_hover:3.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:text_hover_project:text_hover:3.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:text_hover_project:text_hover:3.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:text_hover_project:text_hover:3.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:text_hover_project:text_hover:3.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:text_hover_project:text_hover:3.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:text_hover_project:text_hover:4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:text_hover_project:text_hover:4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:text_hover_project:text_hover:4.2:*:*:*:*:wordpress:*:*

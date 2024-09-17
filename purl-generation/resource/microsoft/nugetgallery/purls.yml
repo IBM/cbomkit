@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nuget/nugetgallery
+  - pkg:nuget/NuGetGallery.Core

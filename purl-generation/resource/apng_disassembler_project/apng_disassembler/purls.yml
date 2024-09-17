@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/apngdis
+  - pkg:deb/ubuntu/apngdis
+  - pkg:sourceforge/apngdis

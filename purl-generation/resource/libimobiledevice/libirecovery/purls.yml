@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/libirecovery
+  - pkg:deb/ubuntu/libirecovery
+  - pkg:github/libimobiledevice/libirecovery

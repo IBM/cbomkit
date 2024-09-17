@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/aspnet/mvc
+  - pkg:github/aspnet/razor

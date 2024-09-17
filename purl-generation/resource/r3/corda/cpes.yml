@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:r3:corda:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:r3:corda:4.0:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:r3:corda:4.1:*:*:*:open_source:*:*:*
+  - cpe:2.3:a:r3:corda:-:*:*:*:open_source:*:*:*

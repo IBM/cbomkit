@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-https-proxy-agent
+  - pkg:deb/ubuntu/node-https-proxy-agent
+  - pkg:github/tootallnate/node-https-proxy-agent
+  - pkg:maven/org.webjars.npm/https-proxy-agent
+  - pkg:npm/https-proxy-agent

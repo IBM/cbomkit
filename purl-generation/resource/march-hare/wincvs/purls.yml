@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dmitry-lipetsk/cvsgui
+  - pkg:sourceforge/cvsgui

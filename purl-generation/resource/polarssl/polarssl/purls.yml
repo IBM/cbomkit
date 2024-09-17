@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/polarssl
+  - pkg:rpm/opensuse/polarssl

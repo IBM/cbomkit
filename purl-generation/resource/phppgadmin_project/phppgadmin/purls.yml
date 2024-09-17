@@ -1,0 +1,10 @@
+purls:
+  - pkg:bitbucket/k-e-lv-i-n/phppgadmin
+  - pkg:deb/debian/phppgadmin
+  - pkg:deb/ubuntu/phppgadmin
+  - pkg:docker/bitnami/phppgadmin
+  - pkg:github/phppgadmin/phppgadmin
+  - pkg:github/xzilla/phppgadmin
+  - pkg:rpm/fedora/phppgadmin
+  - pkg:rpm/opensuse/phppgadmin
+  - pkg:sourceforge/phppgadmin

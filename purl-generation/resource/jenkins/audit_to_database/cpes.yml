@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:jenkins:audit_to_database:0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:audit_to_database:0.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:audit_to_database:0.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:audit_to_database:0.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:audit_to_database:0.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:audit_to_database:-:*:*:*:*:jenkins:*:*

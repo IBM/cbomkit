@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-url-parse
+  - pkg:deb/ubuntu/node-url-parse
+  - pkg:github/unshiftio/url-parse
+  - pkg:maven/org.webjars.bowergithub.unshiftio/url-parse
+  - pkg:maven/org.webjars.npm/url-parse
+  - pkg:npm/url-parse

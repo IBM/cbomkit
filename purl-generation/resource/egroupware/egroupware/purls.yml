@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/egroupware/egroupware
+  - pkg:github/egroupware/egroupware

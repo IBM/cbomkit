@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:pdfforge:pdf_architect:6:*:*:*:*:*:*:*
+  - cpe:2.3:a:pdfforge:pdf_architect:6.0.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:pdfforge:pdf_architect:6.1.24.1862:*:*:*:*:*:*:*

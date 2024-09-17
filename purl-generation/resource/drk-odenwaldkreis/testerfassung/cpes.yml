@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:drk-odenwaldkreis:testerfassung:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:drk-odenwaldkreis:testerfassung:2021-03:*:*:*:*:*:*:*
+  - cpe:2.3:a:drk-odenwaldkreis:testerfassung:2021-03-31:*:*:*:*:*:*:*

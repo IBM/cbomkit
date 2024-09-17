@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/aheckmann/mquery
+  - pkg:maven/org.webjars.npm/mquery
+  - pkg:npm/mquery

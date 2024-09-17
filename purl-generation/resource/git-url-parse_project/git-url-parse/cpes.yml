@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:git-url-parse_project:git-url-parse:0.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:git-url-parse_project:git-url-parse:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:git-url-parse_project:git-url-parse:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:git-url-parse_project:git-url-parse:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:git-url-parse_project:git-url-parse:0.3.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:git-url-parse_project:git-url-parse:0.4.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:git-url-parse_project:git-url-parse:0.4.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:git-url-parse_project:git-url-parse:0.4.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:git-url-parse_project:git-url-parse:0.4.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:git-url-parse_project:git-url-parse:0.4.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:git-url-parse_project:git-url-parse:*:*:*:*:*:rust:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/python/typed_ast
+  - pkg:pypi/typed-ast
+  - pkg:rpm/fedora/python3-typed_ast

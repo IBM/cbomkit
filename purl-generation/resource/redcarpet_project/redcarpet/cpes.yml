@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:redcarpet_project:redcarpet:1.17.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:2.0.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:2.0.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:2.1.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:2.1.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:2.2.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:2.2.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:2.2.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:2.3.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:3.0.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:3.1.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:3.1.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:3.1.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:3.2.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:3.2.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:3.2.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:3.2.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:3.3.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:3.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:3.3.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:3.3.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:3.3.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:3.3.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:3.4.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:3.5.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:redcarpet_project:redcarpet:3.5.1:*:*:*:*:ruby:*:*

@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:phpmyforum:phpmyforum:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpmyforum:phpmyforum:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpmyforum:phpmyforum:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpmyforum:phpmyforum:4.1.3:*:*:*:*:*:*:*

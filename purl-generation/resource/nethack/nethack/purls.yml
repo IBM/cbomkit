@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/nethack
+  - pkg:deb/ubuntu/nethack
+  - pkg:github/nethack/nethack
+  - pkg:rpm/fedora/nethack
+  - pkg:sourceforge/nethack

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:esqlanelapse:esqlanelapse:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:esqlanelapse:esqlanelapse:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:esqlanelapse:esqlanelapse:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:esqlanelapse:esqlanelapse:2.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:esqlanelapse:esqlanelapse:2.6.2:*:*:*:*:*:*:*

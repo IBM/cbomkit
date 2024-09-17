@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:chainsafe:lodestar:0.33.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:chainsafe:lodestar:0.34.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:chainsafe:lodestar:0.34.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:chainsafe:lodestar:0.34.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:chainsafe:lodestar:0.34.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:chainsafe:lodestar:0.34.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:chainsafe:lodestar:0.35.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:chainsafe:lodestar:0.36.0:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jelly/zarafa-webapp
+  - pkg:rpm/opensuse/zarafa-webapp

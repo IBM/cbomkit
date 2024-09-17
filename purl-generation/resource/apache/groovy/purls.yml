@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/groovy
+  - pkg:deb/debian/groovy
+  - pkg:deb/ubuntu/groovy
+  - pkg:github/apache/groovy
+  - pkg:maven/org.apache.groovy/groovy
+  - pkg:rpm/opensuse/groovy

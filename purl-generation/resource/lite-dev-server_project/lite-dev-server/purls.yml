@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/shadowwzw/lite-dev-server
+  - pkg:npm/lite-dev-server

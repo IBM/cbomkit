@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:4site:4site_cms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:4site:4site_cms:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:4site:4site_cms:2.2:*:*:*:*:*:*:*

@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:basecamp:easymon:1.0.6:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:basecamp:easymon:1.0.7:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:basecamp:easymon:1.0.8:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:basecamp:easymon:1.0.9:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:basecamp:easymon:1.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:basecamp:easymon:1.2.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:basecamp:easymon:1.2.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:basecamp:easymon:1.2.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:basecamp:easymon:1.2.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:basecamp:easymon:1.2.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:basecamp:easymon:1.2.6:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:basecamp:easymon:1.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:basecamp:easymon:1.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:basecamp:easymon:1.4.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:basecamp:easymon:1.4.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:basecamp:easymon:1.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:basecamp:easymon:-:*:*:*:*:ruby:*:*

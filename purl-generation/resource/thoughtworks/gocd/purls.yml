@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/gocd/gocd
+  - pkg:rpm/opensuse/gocd
+  - pkg:sourceforge/gocd.mirror

@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/gpw
+  - pkg:deb/ubuntu/gpw
+  - pkg:github/cpina/gpw

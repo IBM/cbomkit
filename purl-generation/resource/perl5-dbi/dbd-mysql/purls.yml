@@ -1,0 +1,9 @@
+purls:
+  - pkg:cpan/DBD-mysql
+  - pkg:deb/debian/libdbd-mysql-perl
+  - pkg:deb/ubuntu/libdbd-mysql-perl
+  - pkg:github/bobtfish/dbd-mysql
+  - pkg:github/perl5-dbi/dbd-mysql
+  - pkg:rpm/Centos/perl-DBD-MySQL
+  - pkg:rpm/fedora/perl-DBD-MySQL
+  - pkg:rpm/opensuse/perl-DBD-MySQL

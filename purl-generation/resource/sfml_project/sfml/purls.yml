@@ -1,0 +1,8 @@
+purls:
+  - pkg:cpan/sfml
+  - pkg:github/bmeck/node-sfml
+  - pkg:gitlab/redhat/sfml
+  - pkg:npm/sfml
+  - pkg:nuget/SFML.Net
+  - pkg:rpm/fedora/sfml
+  - pkg:rpm/opensuse/sfml2

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/bwm-ng
+  - pkg:deb/ubuntu/bwm-ng
+  - pkg:github/devaughnpenn/vgropp-bwm-ng
+  - pkg:github/vgropp/bwm-ng
+  - pkg:rpm/fedora/bwm-ng
+  - pkg:rpm/opensuse/bwm-ng

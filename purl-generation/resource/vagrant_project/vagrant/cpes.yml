@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:vagrant_project:vagrant:0.1:*:*:*:*:gradle:*:*
+  - cpe:2.3:a:vagrant_project:vagrant:0.2:*:*:*:*:gradle:*:*
+  - cpe:2.3:a:vagrant_project:vagrant:0.3:*:*:*:*:gradle:*:*
+  - cpe:2.3:a:vagrant_project:vagrant:0.4:*:*:*:*:gradle:*:*
+  - cpe:2.3:a:vagrant_project:vagrant:0.5:*:*:*:*:gradle:*:*
+  - cpe:2.3:a:vagrant_project:vagrant:0.6:*:*:*:*:gradle:*:*
+  - cpe:2.3:a:vagrant_project:vagrant:2.0:*:*:*:*:gradle:*:*
+  - cpe:2.3:a:vagrant_project:vagrant:2.2:*:*:*:*:gradle:*:*
+  - cpe:2.3:a:vagrant_project:vagrant:3.0.0:*:*:*:*:gradle:*:*
+  - cpe:2.3:a:vagrant_project:vagrant:*:*:*:*:*:gradle:*:*

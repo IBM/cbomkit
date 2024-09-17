@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/pulseaudio
+  - pkg:deb/ubuntu/pulseaudio
+  - pkg:github/pulseaudio/pulseaudio
+  - pkg:gitlab/redhat/pulseaudio
+  - pkg:rpm/fedora/pulseaudio
+  - pkg:rpm/opensuse/pulseaudio

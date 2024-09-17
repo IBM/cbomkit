@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:banner_effect_header_project:banner_effect_header:1.2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:banner_effect_header_project:banner_effect_header:1.2.7:*:*:*:*:wordpress:*:*

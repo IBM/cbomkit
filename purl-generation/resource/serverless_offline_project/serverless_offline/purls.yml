@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dherault/serverless-offline
+  - pkg:npm/serverless_offline

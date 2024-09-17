@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libksba
+  - pkg:deb/ubuntu/libksba
+  - pkg:github/fderepas/libksba
+  - pkg:github/gpg/libksba
+  - pkg:gitlab/redhat/libksba
+  - pkg:rpm/centos/libksba
+  - pkg:rpm/fedora/libksba
+  - pkg:rpm/opensuse/libksba

@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:jenkins:awseb_deployment:0.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:awseb_deployment:0.0.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:awseb_deployment:0.0.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:awseb_deployment:0.1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:awseb_deployment:0.1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:awseb_deployment:0.2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:awseb_deployment:0.3.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:awseb_deployment:0.3.19:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:awseb_deployment:0.3.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:awseb_deployment:0.3.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:awseb_deployment:0.3.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:awseb_deployment:0.3.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:awseb_deployment:0.3.5:*:*:*:*:jenkins:*:*

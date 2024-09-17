@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:dolphinphp_project:dolphinphp:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:dolphinphp_project:dolphinphp:1.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:dolphinphp_project:dolphinphp:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dolphinphp_project:dolphinphp:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dolphinphp_project:dolphinphp:1.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dolphinphp_project:dolphinphp:1.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dolphinphp_project:dolphinphp:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dolphinphp_project:dolphinphp:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dolphinphp_project:dolphinphp:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dolphinphp_project:dolphinphp:1.5.1:*:*:*:*:*:*:*

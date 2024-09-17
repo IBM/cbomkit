@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:jenkins:harvest_scm:0.2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:harvest_scm:0.2.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:harvest_scm:0.2.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:harvest_scm:0.2.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:harvest_scm:0.2.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:harvest_scm:0.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:harvest_scm:0.4.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:harvest_scm:0.4.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:harvest_scm:0.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:harvest_scm:0.5.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:harvest_scm:0.5:*:*:*:*:jenkins:*:*

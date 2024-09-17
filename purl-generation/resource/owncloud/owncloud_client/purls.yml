@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/ubuntu/owncloud-client
+  - pkg:docker/toughiq/owncloud-client
+  - pkg:github/owncloud/client
+  - pkg:npm/%40667/js-owncloud-client
+  - pkg:pypi/pyocclient
+  - pkg:rpm/fedora/owncloud-client
+  - pkg:rpm/opensuse/owncloud-client

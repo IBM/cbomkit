@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:openvas:openvas-scanner:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openvas:openvas-scanner:2011-09-11:*:*:*:*:*:*:*

@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/deadjim/litecoin
+  - pkg:deb/debian/litecoin
+  - pkg:github/litecoin-project/litecoin
+  - pkg:rpm/opensuse/litecoin
+  - pkg:sourceforge/litecoin

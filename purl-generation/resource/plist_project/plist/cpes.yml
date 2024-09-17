@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:plist_project:plist:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:0.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:0.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:0.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:0.3.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:0.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:0.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:0.4.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:0.4.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:1.2.0.:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:2.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:2.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:3.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:3.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:3.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:3.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:3.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:*:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:plist_project:plist:-:*:*:*:*:node.js:*:*

@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:nikias_bassen:usbmuxd:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nikias_bassen:usbmuxd:1.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:nikias_bassen:usbmuxd:1.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:nikias_bassen:usbmuxd:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nikias_bassen:usbmuxd:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:nikias_bassen:usbmuxd:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:nikias_bassen:usbmuxd:1.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:nikias_bassen:usbmuxd:1.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:nikias_bassen:usbmuxd:1.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:nikias_bassen:usbmuxd:1.0.8:*:*:*:*:*:*:*

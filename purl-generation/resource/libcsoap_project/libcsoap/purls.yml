@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ayang64/csoap
+  - pkg:sourceforge/csoap

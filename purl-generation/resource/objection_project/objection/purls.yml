@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/vincit/objection.js
+  - pkg:npm/objection

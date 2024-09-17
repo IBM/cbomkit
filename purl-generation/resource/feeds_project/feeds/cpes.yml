@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:feeds_project:feeds:7.x-2.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:feeds_project:feeds:7.x-2.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:feeds_project:feeds:7.x-2.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:feeds_project:feeds:7.x-2.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:feeds_project:feeds:7.x-2.0:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:feeds_project:feeds:7.x-2.0:alpha6:*:*:*:*:*:*
+  - cpe:2.3:a:feeds_project:feeds:7.x-2.0:alpha7:*:*:*:*:*:*
+  - cpe:2.3:a:feeds_project:feeds:7.x-2.x:*:*:*:*:*:*:*

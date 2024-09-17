@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:theforeman:smart_proxy_salt:0.0.1:*:*:*:*:foreman:*:*
+  - cpe:2.3:a:theforeman:smart_proxy_salt:0.0.2:*:*:*:*:foreman:*:*
+  - cpe:2.3:a:theforeman:smart_proxy_salt:1.0.0:*:*:*:*:foreman:*:*
+  - cpe:2.3:a:theforeman:smart_proxy_salt:2.0.0:*:*:*:*:foreman:*:*
+  - cpe:2.3:a:theforeman:smart_proxy_salt:2.1.0:*:*:*:*:foreman:*:*
+  - cpe:2.3:a:theforeman:smart_proxy_salt:2.1.1:*:*:*:*:foreman:*:*
+  - cpe:2.3:a:theforeman:smart_proxy_salt:2.1.2:*:*:*:*:foreman:*:*
+  - cpe:2.3:a:theforeman:smart_proxy_salt:2.1.3:*:*:*:*:foreman:*:*
+  - cpe:2.3:a:theforeman:smart_proxy_salt:2.1.4:*:*:*:*:foreman:*:*
+  - cpe:2.3:a:theforeman:smart_proxy_salt:2.1.5:*:*:*:*:foreman:*:*
+  - cpe:2.3:a:theforeman:smart_proxy_salt:-:*:*:*:*:foreman:*:*

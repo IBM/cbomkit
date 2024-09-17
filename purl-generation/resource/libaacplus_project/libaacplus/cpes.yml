@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:libaacplus_project:libaacplus:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libaacplus_project:libaacplus:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libaacplus_project:libaacplus:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:libaacplus_project:libaacplus:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:libaacplus_project:libaacplus:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:libaacplus_project:libaacplus:1.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:libaacplus_project:libaacplus:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libaacplus_project:libaacplus:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libaacplus_project:libaacplus:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:libaacplus_project:libaacplus:2.0.2:*:*:*:*:*:*:*

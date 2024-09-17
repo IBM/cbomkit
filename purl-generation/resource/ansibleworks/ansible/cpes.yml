@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:ansibleworks:ansible:1.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ansibleworks:ansible:2.9.15:*:*:*:*:*:*:*

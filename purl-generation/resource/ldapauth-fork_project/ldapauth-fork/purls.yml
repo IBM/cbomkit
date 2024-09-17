@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/trentm/node-ldapauth
+  - pkg:github/vesse/node-ldapauth-fork
+  - pkg:npm/ldapauth-fork

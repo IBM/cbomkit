@@ -1,0 +1,8 @@
+purls:
+  - pkg:cpan/compress-raw-zlib
+  - pkg:deb/debian/libcompress-raw-zlib-perl
+  - pkg:deb/ubuntu/libcompress-raw-zlib-perl
+  - pkg:github/pmqs/compress-raw-zlib
+  - pkg:gitlab/redhat/perl-compress-raw-zlib
+  - pkg:rpm/fedora/perl-compress-raw-zlib
+  - pkg:rpm/opensuse/perl-compress-raw-zlib

@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:coolplayer:coolplayer:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:coolplayer:coolplayer:2.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:coolplayer:coolplayer:217:*:*:*:*:*:*:*
+  - cpe:2.3:a:coolplayer:coolplayer:2.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:coolplayer:coolplayer:2.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:coolplayer:coolplayer:2.19.1:*:*:*:*:*:*:*

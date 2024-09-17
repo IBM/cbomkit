@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/flintqs
+  - pkg:deb/ubuntu/flintqs
+  - pkg:github/sagemath/flintqs
+  - pkg:rpm/fedora/flintqs

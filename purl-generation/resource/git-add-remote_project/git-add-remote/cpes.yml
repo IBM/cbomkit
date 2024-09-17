@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:git-add-remote_project:git-add-remote:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:git-add-remote_project:git-add-remote:-:*:*:*:*:node.js:*:*

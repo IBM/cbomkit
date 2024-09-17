@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nrhirani/node-qpdf
+  - pkg:npm/node-qpdf

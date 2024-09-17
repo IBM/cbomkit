@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/better_errors
+  - pkg:github/bettererrors/better_errors
+  - pkg:rpm/opensuse/rubygem-better_errors

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:entropic_project:entropic:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:entropic_project:entropic:2019-06-13:*:*:*:*:*:*:*

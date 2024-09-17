@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/isis
+  - pkg:github/apache/isis
+  - pkg:maven/org.apache.isis/isis-parent

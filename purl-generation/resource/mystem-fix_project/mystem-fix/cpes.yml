@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:mystem-fix_project:mystem-fix:0.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:mystem-fix_project:mystem-fix:0.0.5:*:*:*:*:node.js:*:*

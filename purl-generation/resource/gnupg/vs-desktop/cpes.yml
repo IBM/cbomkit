@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:gnupg:vs-desktop:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:vs-desktop:3.1.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnupg:vs-desktop:3.1.25:*:*:*:*:*:*:*

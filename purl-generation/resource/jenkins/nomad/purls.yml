@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/iverberk/jenkins-nomad
+  - pkg:github/jenkinsci/nomad-plugin

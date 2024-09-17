@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:1.01:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:1.02:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:1.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:1.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:1.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:1.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:1.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:1.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:1.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:1.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:1.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:1.19:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:2.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:2.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:2.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:2.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:2.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:2.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:2.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_staff_list_project:simple_staff_list:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/rustcrypto/utils
+  - pkg:rpm/fedora/rust-zeroize_derive
+  - pkg:rpm/opensuse/rust-zeroize_derive

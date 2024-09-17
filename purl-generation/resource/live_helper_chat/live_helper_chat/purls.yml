@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/livehelperchat/livehelperchat
+  - pkg:golang/github.com/livehelperchat/livehelperchat

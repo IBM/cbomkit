@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/monami_ya/openocd
+  - pkg:deb/ubuntu/openocd
+  - pkg:docker/dimdm/openocd
+  - pkg:github/openocd-org/openocd
+  - pkg:rpm/fedora/openocd
+  - pkg:rpm/opensuse/openocd
+  - pkg:sourceforge/openocd

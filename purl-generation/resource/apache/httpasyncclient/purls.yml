@@ -1,0 +1,6 @@
+purls:
+  - pkg:apache/hc
+  - pkg:deb/debian/httpcomponents-asyncclient
+  - pkg:deb/ubuntu/httpcomponents-asyncclient
+  - pkg:github/apache/httpcomponents-client
+  - pkg:maven/org.apache.httpcomponents/httpasyncclient

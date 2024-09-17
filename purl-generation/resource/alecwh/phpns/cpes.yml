@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:alecwh:phpns:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:alecwh:phpns:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:alecwh:phpns:2.1.1alpha1_b1:*:*:*:*:*:*:*
+  - cpe:2.3:a:alecwh:phpns:2.1.1_b1:*:*:*:*:*:*:*

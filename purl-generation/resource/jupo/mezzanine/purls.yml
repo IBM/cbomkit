@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/stephenmcd/mezzanine
+  - pkg:pypi/mezzanine
+  - pkg:rpm/opensuse/python-mezzanine
+  - pkg:sourceforge/mezzanine.mirror

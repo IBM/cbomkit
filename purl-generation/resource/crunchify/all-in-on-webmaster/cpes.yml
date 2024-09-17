@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:crunchify:all-in-on-webmaster:7.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:crunchify:all-in-on-webmaster:8.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:crunchify:all-in-on-webmaster:8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:crunchify:all-in-on-webmaster:8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:crunchify:all-in-on-webmaster:8.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:crunchify:all-in-on-webmaster:8.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:crunchify:all-in-on-webmaster:8.2.3:*:*:*:*:*:*:*

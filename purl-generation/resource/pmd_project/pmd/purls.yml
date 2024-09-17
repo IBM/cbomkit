@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/pmd/pmd
+  - pkg:maven/net.sourceforge.pmd/pmd
+  - pkg:maven/pmd/pmd
+  - pkg:sourceforge/pmd

@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:opcfoundation:unified_architecture-.net-legacy:1.02.336:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:unified_architecture-.net-legacy:1.03.340:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:unified_architecture-.net-legacy:1.03.341:*:*:*:*:*:*:*
+  - cpe:2.3:a:opcfoundation:unified_architecture-.net-legacy:1.03.342:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:cpan/myhtml
+  - pkg:github/lexborisov/myhtml
+  - pkg:rpm/opensuse/perl-html-myhtml

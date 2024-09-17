@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/grafana/synthetic-monitoring-agent
+  - pkg:golang/github.com/grafana/synthetic-monitoring-agent

@@ -1,0 +1,3 @@
+purls:
+  - pkg:npm/%40paloaltonetworks/pan-cortex-xdr
+  - pkg:sourceforge/cortex-xdr

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/sindresorhus/normalize-url
+  - pkg:maven/org.webjars.npm/normalize-url
+  - pkg:npm/normalize-url

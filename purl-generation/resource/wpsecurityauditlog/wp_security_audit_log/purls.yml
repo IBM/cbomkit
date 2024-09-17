@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/wp-plugins/wp-security-audit-log
+  - pkg:github/wpwhitesecurity/wp-security-audit-log

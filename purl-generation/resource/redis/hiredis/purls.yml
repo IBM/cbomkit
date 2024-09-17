@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/hiredis
+  - pkg:deb/ubuntu/hiredis
+  - pkg:github/redis/hiredis
+  - pkg:rpm/fedora/hiredis
+  - pkg:rpm/opensuse/hiredis

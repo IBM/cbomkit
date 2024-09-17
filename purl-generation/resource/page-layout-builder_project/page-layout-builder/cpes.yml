@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:page-layout-builder_project:page-layout-builder:1.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:page-layout-builder_project:page-layout-builder:1.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:page-layout-builder_project:page-layout-builder:1.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:page-layout-builder_project:page-layout-builder:1.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:page-layout-builder_project:page-layout-builder:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:page-layout-builder_project:page-layout-builder:-:*:*:*:*:wordpress:*:*

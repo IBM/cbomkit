@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:facebook-wall-and-social-integration_project:facebook-wall-and-social-integration:1.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:facebook-wall-and-social-integration_project:facebook-wall-and-social-integration:-:*:*:*:*:wordpress:*:*

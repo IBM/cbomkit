@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/mariadb-server
+  - pkg:deb/ubuntu/mariadb-server
+  - pkg:docker/mariadb/mariadb-docker
+  - pkg:docker/mariadb/server
+  - pkg:github/mariadb/server
+  - pkg:rpm/fedora/mariadb
+  - pkg:rpm/opensuse/mariadb

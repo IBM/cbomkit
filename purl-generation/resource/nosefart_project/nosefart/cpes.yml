@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:nosefart_project:nosefart:2.2-mls:*:*:*:*:*:*:*
+  - cpe:2.3:a:nosefart_project:nosefart:2.3-mls:*:*:*:*:*:*:*
+  - cpe:2.3:a:nosefart_project:nosefart:2.4-mls:*:*:*:*:*:*:*
+  - cpe:2.3:a:nosefart_project:nosefart:2.5-mls:*:*:*:*:*:*:*
+  - cpe:2.3:a:nosefart_project:nosefart:2.6-mls:*:*:*:*:*:*:*
+  - cpe:2.3:a:nosefart_project:nosefart:2.7-mls:*:*:*:*:*:*:*
+  - cpe:2.3:a:nosefart_project:nosefart:2.8-mls:*:*:*:*:*:*:*
+  - cpe:2.3:a:nosefart_project:nosefart:2.9-mls:*:*:*:*:*:*:*

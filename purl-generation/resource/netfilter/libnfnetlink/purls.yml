@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libnfnetlink
+  - pkg:deb/ubuntu/libnfnetlink
+  - pkg:github/distrotech/libnfnetlink
+  - pkg:gitlab/redhat/libnfnetlink
+  - pkg:rpm/centos/libnfnetlink
+  - pkg:rpm/fedora/libnfnetlink
+  - pkg:rpm/opensuse/libnfnetlink

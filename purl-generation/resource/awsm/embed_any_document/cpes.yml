@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:awsm:embed_any_document:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awsm:embed_any_document:1.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awsm:embed_any_document:1.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awsm:embed_any_document:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awsm:embed_any_document:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awsm:embed_any_document:2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awsm:embed_any_document:2.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awsm:embed_any_document:2.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awsm:embed_any_document:2.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awsm:embed_any_document:2.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awsm:embed_any_document:2.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awsm:embed_any_document:2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awsm:embed_any_document:2.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awsm:embed_any_document:2.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awsm:embed_any_document:2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awsm:embed_any_document:2.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awsm:embed_any_document:2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awsm:embed_any_document:2.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awsm:embed_any_document:2.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awsm:embed_any_document:2.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awsm:embed_any_document:2.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awsm:embed_any_document:2.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:awsm:embed_any_document:-:*:*:*:*:wordpress:*:*

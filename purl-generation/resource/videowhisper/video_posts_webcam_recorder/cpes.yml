@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:videowhisper:video_posts_webcam_recorder:1.55.4:-:-:*:-:wordpress:*:*
+  - cpe:2.3:a:videowhisper:video_posts_webcam_recorder:3.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:videowhisper:video_posts_webcam_recorder:3.2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:videowhisper:video_posts_webcam_recorder:*:*:-:*:-:wordpress:*:*
+  - cpe:2.3:a:videowhisper:video_posts_webcam_recorder:-:*:*:*:*:wordpress:*:*

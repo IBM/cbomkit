@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/boinc
+  - pkg:deb/ubuntu/boinc
+  - pkg:github/boinc/boinc

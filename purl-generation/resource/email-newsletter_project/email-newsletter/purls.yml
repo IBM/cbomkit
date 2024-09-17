@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/signl/email-newsletter
+  - pkg:github/wp-plugins/email-newsletter
+  - pkg:github/wpplugins/email-newsletter

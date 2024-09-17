@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/aerospike/aerospike-server
+  - pkg:github/aerospike/aerospike-server

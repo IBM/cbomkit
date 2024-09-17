@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/kkos/oniguruma
+  - pkg:gitlab/redhat/oniguruma
+  - pkg:rpm/centos/oniguruma
+  - pkg:rpm/fedora/oniguruma
+  - pkg:rpm/opensuse/oniguruma

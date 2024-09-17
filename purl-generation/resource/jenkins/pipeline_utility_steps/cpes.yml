@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jenkins:pipeline_utility_steps:2.13.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_utility_steps:2.13.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pipeline_utility_steps:-:*:*:*:*:jenkins:*:*

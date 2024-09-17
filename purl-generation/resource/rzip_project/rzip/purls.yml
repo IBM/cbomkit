@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rzip
+  - pkg:deb/ubuntu/rzip
+  - pkg:github/rohilnrl/rzip
+  - pkg:rpm/fedora/rzip
+  - pkg:rpm/opensuse/rzip

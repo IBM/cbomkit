@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/hepin1989/akka
+  - pkg:github/akka/akka
+  - pkg:maven/com.typesafe.akka/akka
+  - pkg:rpm/opensuse/akka
+  - pkg:sourceforge/akka.mirror

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/2ndquadrant/pglogical
+  - pkg:github/aamplugin/advanced-access-manager

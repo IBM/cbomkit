@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:postgresql:psqlodbc:8.3.400:*:*:*:*:*:*:*

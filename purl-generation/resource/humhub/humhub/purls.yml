@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/jasoncain/humhub
+  - pkg:github/humhub/humhub
+  - pkg:rpm/opensuse/humhub
+  - pkg:sourceforge/humhub

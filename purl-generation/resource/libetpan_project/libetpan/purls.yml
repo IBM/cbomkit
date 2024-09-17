@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libetpan
+  - pkg:deb/ubuntu/libetpan
+  - pkg:github/dinhvh/libetpan
+  - pkg:rpm/fedora/libetpan
+  - pkg:rpm/opensuse/libetpan
+  - pkg:sourceforge/libetpan

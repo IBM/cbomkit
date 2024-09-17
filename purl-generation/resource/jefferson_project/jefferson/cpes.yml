@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:jefferson_project:jefferson:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:jefferson_project:jefferson:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:jefferson_project:jefferson:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:jefferson_project:jefferson:0.4:*:*:*:*:*:*:*

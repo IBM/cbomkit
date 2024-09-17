@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:bg_bible_references_project:bg_bible_references:3.18.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bg_bible_references_project:bg_bible_references:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:bg_bible_references_project:bg_bible_references:-:*:*:*:*:wordpress:*:*

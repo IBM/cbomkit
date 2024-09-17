@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/lldpd
+  - pkg:deb/ubuntu/lldpd
+  - pkg:github/lldpd/lldpd
+  - pkg:rpm/centos/lldpd
+  - pkg:rpm/fedora/lldpd
+  - pkg:rpm/opensuse/lldpd

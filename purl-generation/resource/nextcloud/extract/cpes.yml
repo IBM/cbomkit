@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:nextcloud:extract:0.0.1:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:extract:0.0.2:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:extract:0.0.3:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:extract:0.0.4:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:extract:1.0.0:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:extract:1.1.0:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:extract:1.1.1:*:*:*:*:nextcloud:*:*
+  - cpe:2.3:a:nextcloud:extract:1.2.0:*:*:*:*:nextcloud:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/gnome/gnome-desktop
+  - pkg:gitlab/gnome/gnome-desktop
+  - pkg:rpm/opensuse/gnome-desktop

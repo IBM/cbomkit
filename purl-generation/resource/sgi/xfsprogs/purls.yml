@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/xfsprogs
+  - pkg:deb/ubuntu/xfsprogs
+  - pkg:github/mtanski/xfsprogs
+  - pkg:gitlab/redhat/xfsprogs
+  - pkg:rpm/fedora/xfsprogs
+  - pkg:rpm/opensuse/xfsprogs

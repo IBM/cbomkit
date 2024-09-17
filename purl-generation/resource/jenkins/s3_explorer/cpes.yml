@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jenkins:s3_explorer:1.0.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:s3_explorer:1.0.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:s3_explorer:-:*:*:*:*:jenkins:*:*

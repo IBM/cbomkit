@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nmstate/kubernetes-nmstate
+  - pkg:golang/github.com/nmstate/kubernetes-nmstate

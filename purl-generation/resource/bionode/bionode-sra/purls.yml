@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bionode/bionode-sra
+  - pkg:npm/bionode-sra

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/graphql-go/graphql
+  - pkg:golang/github.com/graphql-go/graphql

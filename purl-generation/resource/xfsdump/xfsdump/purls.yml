@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/xfsdump
+  - pkg:deb/ubuntu/xfsdump
+  - pkg:github/jkkm/xfsdump
+  - pkg:github/jtulak/xfsdump
+  - pkg:gitlab/redhat/xfsdump
+  - pkg:rpm/fedora/xfsdump
+  - pkg:rpm/opensuse/xfsdump
+  - pkg:rpm/rpmfind/xfsdump

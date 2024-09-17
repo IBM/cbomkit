@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-sessionhandler
+  - pkg:deb/ubuntu/php-horde-sessionhandler
+  - pkg:github/horde/sessionhandler
+  - pkg:rpm/fedora/php-horde-horde-sessionhandler

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:xmlstarlet:command_line_xml_toolkit:0.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmlstarlet:command_line_xml_toolkit:0.9.3:*:*:*:*:*:*:*

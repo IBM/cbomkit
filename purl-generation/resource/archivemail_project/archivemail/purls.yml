@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/archivemail
+  - pkg:deb/ubuntu/archivemail
+  - pkg:github/fxkr/archivemail
+  - pkg:github/taxweb/archivemail
+  - pkg:rpm/opensuse/archivemail
+  - pkg:sourceforge/archivemail

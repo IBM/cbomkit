@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-horde-mongo
+  - pkg:deb/ubuntu/php-horde-mongo
+  - pkg:github/horde/mongo
+  - pkg:rpm/fedora/php-horde-horde-mongo
+  - pkg:rpm/opensuse/php-horde-horde-mongo

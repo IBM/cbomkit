@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/xen
+  - pkg:deb/ubuntu/xen
+  - pkg:github/mirage/xen
+  - pkg:github/xen-project/xen
+  - pkg:gitlab/xen-project/xen
+  - pkg:rpm/fedora/xen
+  - pkg:rpm/opensuse/xen
+  - pkg:xen/xen

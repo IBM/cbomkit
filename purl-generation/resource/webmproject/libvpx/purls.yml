@@ -1,0 +1,12 @@
+purls:
+  - pkg:bitbucket/chromiumsrc/libvpx
+  - pkg:bitbucket/nguyennv/libvpx
+  - pkg:bitbucket/teamlinphone/libvpx
+  - pkg:deb/debian/libvpx
+  - pkg:deb/ubuntu/libvpx
+  - pkg:github/webmproject/libvpx
+  - pkg:gitlab/redhat/libvpx
+  - pkg:googlesource/webm
+  - pkg:rpm/centos/libvpx
+  - pkg:rpm/fedora/libvpx
+  - pkg:rpm/opensuse/libvpx

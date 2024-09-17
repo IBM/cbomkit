@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/dietlibc
+  - pkg:deb/ubuntu/dietlibc
+  - pkg:github/ensc/dietlibc
+  - pkg:github/nukesparrow/dietlibc
+  - pkg:github/wardjaradat/dietlibc
+  - pkg:rpm/fedora/dietlibc
+  - pkg:rpm/opensuse/dietlibc

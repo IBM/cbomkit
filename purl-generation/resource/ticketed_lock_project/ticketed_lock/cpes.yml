@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:ticketed_lock_project:ticketed_lock:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:ticketed_lock_project:ticketed_lock:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:ticketed_lock_project:ticketed_lock:0.3.0:*:*:*:*:rust:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:phxeventmanager_project:phxeventmanager:2.0:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:phxeventmanager_project:phxeventmanager:2.5:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:phxeventmanager_project:phxeventmanager:2.5:beta5:*:*:*:*:*:*

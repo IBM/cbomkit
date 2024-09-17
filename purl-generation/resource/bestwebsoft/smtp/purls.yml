@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bestwebsoft/smtp-wordpress-plugin
+  - pkg:github/wp-plugins/bws-smtp
+  - pkg:github/wpplugins/bws-smtp

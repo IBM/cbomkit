@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/node-mqtt-packet
+  - pkg:deb/ubuntu/node-mqtt-packet
+  - pkg:github/mqttjs/mqtt-packet
+  - pkg:npm/mqtt-packet

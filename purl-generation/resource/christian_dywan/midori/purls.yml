@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/midori
+  - pkg:deb/ubuntu/midori
+  - pkg:github/midori-browser/core
+  - pkg:gitlab/midori-browser/midori-core
+  - pkg:rpm/fedora/midori
+  - pkg:rpm/opensuse/midori
+  - pkg:sourceforge/midori-browser

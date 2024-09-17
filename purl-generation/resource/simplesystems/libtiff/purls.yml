@@ -1,0 +1,10 @@
+purls:
+  - pkg:cpan/graphics-tiff
+  - pkg:deb/debian/libtiff5
+  - pkg:docker/sschmittner/docker-libtiff
+  - pkg:github/rouault/libtiff
+  - pkg:gitlab/libtiff/libtiff
+  - pkg:maven/com.viliussutkus89.licenseonly/libtiff
+  - pkg:pypi/libtiff
+  - pkg:rpm/fedora/libtiff
+  - pkg:rpm/opensuse/libtiff5

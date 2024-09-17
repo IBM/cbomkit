@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:csounds:csound:5.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:csounds:csound:5.10.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:csounds:csound:5.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:csounds:csound:5.11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:csounds:csound:5.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:csounds:csound:5.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:csounds:csound:5.12.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:csounds:csound:5.12.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:csounds:csound:5.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:csounds:csound:5.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:csounds:csound:5.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:csounds:csound:5.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:csounds:csound:5.14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:csounds:csound:5.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:csounds:csound:5.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:csounds:csound:5.16.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:csounds:csound:5.16.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:csounds:csound:5.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:csounds:csound:5.17.2:*:*:*:*:*:*:*

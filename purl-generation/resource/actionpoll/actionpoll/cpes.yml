@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:actionpoll:actionpoll:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:actionpoll:actionpoll:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:actionpoll:actionpoll:1.1.1:*:*:*:*:*:*:*

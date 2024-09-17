@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:html-janitor_project:html-janitor:0.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:html-janitor_project:html-janitor:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:html-janitor_project:html-janitor:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:html-janitor_project:html-janitor:0.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:html-janitor_project:html-janitor:0.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:html-janitor_project:html-janitor:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:html-janitor_project:html-janitor:0.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:html-janitor_project:html-janitor:0.3.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:html-janitor_project:html-janitor:0.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:html-janitor_project:html-janitor:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:html-janitor_project:html-janitor:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:html-janitor_project:html-janitor:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:html-janitor_project:html-janitor:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:html-janitor_project:html-janitor:2.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:html-janitor_project:html-janitor:2.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:html-janitor_project:html-janitor:2.0.4:*:*:*:*:node.js:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/browserify/browserify-sign
+  - pkg:maven/org.webjars.npm/browserify-sign
+  - pkg:npm/browserify-sign

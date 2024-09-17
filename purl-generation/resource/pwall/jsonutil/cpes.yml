@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:pwall:jsonutil:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwall:jsonutil:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwall:jsonutil:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwall:jsonutil:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwall:jsonutil:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwall:jsonutil:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwall:jsonutil:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwall:jsonutil:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwall:jsonutil:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwall:jsonutil:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwall:jsonutil:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwall:jsonutil:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwall:jsonutil:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwall:jsonutil:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwall:jsonutil:4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwall:jsonutil:5.0:*:*:*:*:*:*:*

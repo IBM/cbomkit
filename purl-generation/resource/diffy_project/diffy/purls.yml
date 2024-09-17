@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-diffy
+  - pkg:deb/ubuntu/ruby-diffy
+  - pkg:gem/diffy
+  - pkg:github/samg/diffy
+  - pkg:rpm/fedora/rubygem-diffy
+  - pkg:rpm/opensuse/rubygem-diffy

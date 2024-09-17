@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/auth0/express-jwt
+  - pkg:maven/org.webjars.npm/express-jwt
+  - pkg:npm/express-jwt

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bigbadaboom/androidsvg
+  - pkg:maven/com.caverock/androidsvg

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-moinmoin
+  - pkg:deb/ubuntu/python-moinmoin
+  - pkg:github/moinwiki/moin
+  - pkg:github/moinwiki/moin-1.9
+  - pkg:pypi/moin
+  - pkg:rpm/opensuse/python-moin

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/exim4
+  - pkg:deb/ubuntu/exim4
+  - pkg:github/exim/exim
+  - pkg:rpm/fedora/exim
+  - pkg:rpm/opensuse/exim

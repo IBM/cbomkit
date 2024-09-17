@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/libgssglue
+  - pkg:deb/ubuntu/libgssglue
+  - pkg:rpm/opensuse/libgssglue

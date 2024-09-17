@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/procmail
+  - pkg:deb/ubuntu/procmail
+  - pkg:github/procmail-org/procmail
+  - pkg:gitlab/redhat/procmail
+  - pkg:rpm/fedora/procmail
+  - pkg:rpm/opensuse/procmail

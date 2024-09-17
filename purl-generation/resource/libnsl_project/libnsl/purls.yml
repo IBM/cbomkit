@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libnsl
+  - pkg:deb/ubuntu/libnsl
+  - pkg:github/neverware-mirrors/libnsl
+  - pkg:github/thkukuk/libnsl
+  - pkg:gitlab/redhat/libnsl2
+  - pkg:rpm/centos/libnsl2
+  - pkg:rpm/fedora/libnsl2
+  - pkg:rpm/opensuse/libnsl

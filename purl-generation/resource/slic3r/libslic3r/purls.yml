@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/slic3r
+  - pkg:deb/ubuntu/slic3r
+  - pkg:github/slic3r/slic3r
+  - pkg:rpm/fedora/slic3r
+  - pkg:rpm/opensuse/slic3r

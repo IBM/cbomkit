@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:ge:proficy_historian:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ge:proficy_historian:2022:*:*:*:*:*:*:*
+  - cpe:2.3:a:ge:proficy_historian:2023:*:*:*:*:*:*:*
+  - cpe:2.3:a:ge:proficy_historian:7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ge:proficy_historian:7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ge:proficy_historian:7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ge:proficy_historian:8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ge:proficy_historian:8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ge:proficy_historian:9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ge:proficy_historian:9.1:*:*:*:*:*:*:*

@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:netsurf-browser:netsurf:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:netsurf-browser:netsurf:2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:netsurf-browser:netsurf:2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:netsurf-browser:netsurf:2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:netsurf-browser:netsurf:2.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:netsurf-browser:netsurf:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:netsurf-browser:netsurf:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:netsurf-browser:netsurf:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:netsurf-browser:netsurf:3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:netsurf-browser:netsurf:3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:netsurf-browser:netsurf:3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:netsurf-browser:netsurf:3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:netsurf-browser:netsurf:3.7:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/petl-developers/petl
+  - pkg:pypi/petl

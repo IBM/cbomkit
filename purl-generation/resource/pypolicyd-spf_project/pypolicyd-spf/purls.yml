@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/pypolicyd-spf
+  - pkg:deb/ubuntu/pypolicyd-spf
+  - pkg:pypi/pypolicyd-spf
+  - pkg:rpm/fedora/pypolicyd-spf
+  - pkg:rpm/opensuse/pypolicyd-spf

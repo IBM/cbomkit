@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/delete-log-plugin
+  - pkg:github/lvotypko/delete-log-plugin

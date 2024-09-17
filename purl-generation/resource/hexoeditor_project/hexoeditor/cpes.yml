@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:hexoeditor_project:hexoeditor:1.1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:hexoeditor_project:hexoeditor:1.1.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:hexoeditor_project:hexoeditor:1.1.8:beta:*:*:*:*:*:*
+  - cpe:2.3:a:hexoeditor_project:hexoeditor:1.3.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:hexoeditor_project:hexoeditor:1.3.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:hexoeditor_project:hexoeditor:1.3.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:hexoeditor_project:hexoeditor:1.3.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:hexoeditor_project:hexoeditor:1.5.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:hexoeditor_project:hexoeditor:1.5.30:*:*:*:*:*:*:*

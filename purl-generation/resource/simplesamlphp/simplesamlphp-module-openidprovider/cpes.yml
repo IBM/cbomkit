@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-openidprovider:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:simplesamlphp:simplesamlphp-module-openidprovider:-:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/agoric/realms-shim
+  - pkg:npm/realms-shim

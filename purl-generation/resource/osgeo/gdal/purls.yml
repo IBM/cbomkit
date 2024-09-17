@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/gdal
+  - pkg:deb/ubuntu/gdal
+  - pkg:docker/osgeo/gdal
+  - pkg:github/osgeo/gdal
+  - pkg:nuget/GDAL
+  - pkg:rpm/fedora/gdal
+  - pkg:rpm/opensuse/gdal

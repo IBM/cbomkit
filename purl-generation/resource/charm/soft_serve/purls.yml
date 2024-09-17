@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/charmbracelet/soft-serve
+  - pkg:golang/github.com/charmbracelet/soft-serve

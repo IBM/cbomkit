@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:simplesamlphp_authentication_project:simplesamlphp_authentication:0.7.0:*:*:*:*:wordpress:*:*

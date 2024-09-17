@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:csm_server_project:csm_server:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:csm_server_project:csm_server:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:csm_server_project:csm_server:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:csm_server_project:csm_server:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:csm_server_project:csm_server:3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:csm_server_project:csm_server:3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:csm_server_project:csm_server:3.5:*:*:*:*:*:*:*

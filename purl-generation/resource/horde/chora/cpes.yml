@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:horde:chora:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:chora:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:horde:chora:1.2.2:*:*:*:*:*:*:*

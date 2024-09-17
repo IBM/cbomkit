@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:gkrellm:gkrellm:2.1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:gkrellm:gkrellm:2.1.7:*:*:*:*:*:*:*

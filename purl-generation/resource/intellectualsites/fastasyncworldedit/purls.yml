@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/intellectualsites/fastasyncworldedit
+  - pkg:maven/com.boydti/fastasyncworldedit

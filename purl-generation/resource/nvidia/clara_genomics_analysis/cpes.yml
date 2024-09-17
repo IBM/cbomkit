@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:nvidia:clara_genomics_analysis:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:clara_genomics_analysis:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nvidia:clara_genomics_analysis:0.2.0:*:*:*:*:*:*:*

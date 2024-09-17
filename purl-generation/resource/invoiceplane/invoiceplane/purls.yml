@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/mhzawadi/invoiceplane
+  - pkg:github/invoiceplane/invoiceplane
+  - pkg:rpm/opensuse/invoiceplane

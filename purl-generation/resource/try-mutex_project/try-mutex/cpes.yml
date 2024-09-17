@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:try-mutex_project:try-mutex:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:try-mutex_project:try-mutex:0.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:try-mutex_project:try-mutex:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:try-mutex_project:try-mutex:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:try-mutex_project:try-mutex:-:*:*:*:*:rust:*:*

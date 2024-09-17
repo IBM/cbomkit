@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:mozwire_project:mozwire:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:mozwire_project:mozwire:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:mozwire_project:mozwire:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:mozwire_project:mozwire:0.4.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:mozwire_project:mozwire:0.4.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:mozwire_project:mozwire:0.5.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:mozwire_project:mozwire:0.5.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:mozwire_project:mozwire:0.5.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:mozwire_project:mozwire:0.6.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:mozwire_project:mozwire:0.7.0:*:*:*:*:rust:*:*

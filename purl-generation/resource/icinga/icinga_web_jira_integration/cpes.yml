@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:icinga:icinga_web_jira_integration:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:icinga:icinga_web_jira_integration:1.3.1:*:*:*:*:*:*:*

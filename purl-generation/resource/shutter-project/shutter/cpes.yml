@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:shutter-project:shutter:0.93:*:*:*:*:*:*:*
+  - cpe:2.3:a:shutter-project:shutter:0.93.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:shutter-project:shutter:0.94:*:*:*:*:*:*:*
+  - cpe:2.3:a:shutter-project:shutter:0.94.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:shutter-project:shutter:0.94.2:*:*:*:*:*:*:*

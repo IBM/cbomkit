@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:blog_project:blog:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:blog_project:blog:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:blog_project:blog:1.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:blog_project:blog:1.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:blog_project:blog:1.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:blog_project:blog:1.04:*:*:*:*:*:*:*
+  - cpe:2.3:a:blog_project:blog:1.041:*:*:*:*:*:*:*
+  - cpe:2.3:a:blog_project:blog:1.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:blog_project:blog:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:blog_project:blog:1.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:blog_project:blog:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:blog_project:blog:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:blog_project:blog:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:blog_project:blog:2017-09-12:*:*:*:*:*:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/coreos/coreos-installer
+  - pkg:rpm/centos/coreos-installer
+  - pkg:rpm/fedora/coreos-installer
+  - pkg:rpm/opensuse/coreos-installer

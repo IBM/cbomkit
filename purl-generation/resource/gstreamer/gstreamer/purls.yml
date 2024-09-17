@@ -1,0 +1,9 @@
+purls:
+  - pkg:bitbucket/cleveron/gstreamer
+  - pkg:deb/debian/gstreamer1
+  - pkg:deb/ubuntu/gstreamer1
+  - pkg:github/gstreamer/gstreamer
+  - pkg:gitlab/redhat/gstreamer1
+  - pkg:rpm/centos/gstreamer1
+  - pkg:rpm/fedora/gstreamer1
+  - pkg:rpm/opensuse/gstreamer1

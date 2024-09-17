@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/pykerberos
+  - pkg:deb/ubuntu/pykerberos
+  - pkg:github/apple/ccs-pykerberos
+  - pkg:pypi/pykerberos
+  - pkg:rpm/opensuse/python-pykerberos

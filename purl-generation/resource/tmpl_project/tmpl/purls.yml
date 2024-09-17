@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/daaku/nodejs-tmpl
+  - pkg:maven/org.webjars.npm/tmpl
+  - pkg:npm/tmpl

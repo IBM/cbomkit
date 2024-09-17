@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/fossil
+  - pkg:deb/ubuntu/fossil
+  - pkg:github/drhsqlite/fossil-mirror
+  - pkg:github/wilsoncrespo/fossil_scm
+  - pkg:rpm/fedora/fossil
+  - pkg:rpm/opensuse/fossil

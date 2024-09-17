@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:mysqldumper:mysqldumper:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysqldumper:mysqldumper:1.21:b6:*:*:*:*:*:*
+  - cpe:2.3:a:mysqldumper:mysqldumper:1.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysqldumper:mysqldumper:1.23:pre:*:*:*:*:*:*
+  - cpe:2.3:a:mysqldumper:mysqldumper:1.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysqldumper:mysqldumper:1.24.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysqldumper:mysqldumper:1.24.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysqldumper:mysqldumper:1.24.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysqldumper:mysqldumper:1.24:rc1.5:*:*:*:*:*:*
+  - cpe:2.3:a:mysqldumper:mysqldumper:1.24:rc1.6:*:*:*:*:*:*
+  - cpe:2.3:a:mysqldumper:mysqldumper:1.24:rc1.7:*:*:*:*:*:*
+  - cpe:2.3:a:mysqldumper:mysqldumper:1.24:rc1.8:*:*:*:*:*:*
+  - cpe:2.3:a:mysqldumper:mysqldumper:1.24:rc1.9:*:*:*:*:*:*
+  - cpe:2.3:a:mysqldumper:mysqldumper:typo3-extension_0.0.5:*:*:*:*:*:*:*

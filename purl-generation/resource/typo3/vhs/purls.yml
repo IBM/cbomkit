@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/fluidtypo3/vhs
+  - pkg:github/fluidtypo3/vhs
+  - pkg:golang/github.com/fluidtypo3/vhs

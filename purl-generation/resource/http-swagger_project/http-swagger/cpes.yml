@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:http-swagger_project:http-swagger:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-swagger_project:http-swagger:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-swagger_project:http-swagger:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-swagger_project:http-swagger:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-swagger_project:http-swagger:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-swagger_project:http-swagger:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-swagger_project:http-swagger:1.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:http-swagger_project:http-swagger:1.2.6:*:*:*:*:*:*:*

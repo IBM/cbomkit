@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/file-roller
+  - pkg:deb/ubuntu/file-roller
+  - pkg:github/gnome/file-roller
+  - pkg:rpm/fedora/file-roller
+  - pkg:rpm/opensuse/file-roller

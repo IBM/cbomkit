@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/groff
+  - pkg:deb/ubuntu/groff
+  - pkg:github/distrotech/groff
+  - pkg:gnu/groff
+  - pkg:rpm/centos/groff
+  - pkg:rpm/fedora/groff
+  - pkg:rpm/opensuse/groff

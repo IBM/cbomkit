@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:espeak-ruby_project:espeak-ruby:0.3.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:espeak-ruby_project:espeak-ruby:1.0.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:espeak-ruby_project:espeak-ruby:1.0.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:espeak-ruby_project:espeak-ruby:1.0.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:espeak-ruby_project:espeak-ruby:1.0.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:espeak-ruby_project:espeak-ruby:1.0.4:*:*:*:*:ruby:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/cilium/cilium
+  - pkg:github/cilium/cilium
+  - pkg:rpm/opensuse/cilium
+  - pkg:sourceforge/cilium.mirror

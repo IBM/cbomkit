@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/wasdk/wasdk
+  - pkg:npm/wasdk

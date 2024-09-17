@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:juan_ramon:osclass:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:juan_ramon:osclass:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:juan_ramon:osclass:1.1:rc:*:*:*:*:*:*
+  - cpe:2.3:a:juan_ramon:osclass:1.2:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:juan_ramon:osclass:1.2:beta:*:*:*:*:*:*
+  - cpe:2.3:a:juan_ramon:osclass:1.2:delta:*:*:*:*:*:*
+  - cpe:2.3:a:juan_ramon:osclass:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:juan_ramon:osclass:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:juan_ramon:osclass:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:juan_ramon:osclass:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:juan_ramon:osclass:2.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:juan_ramon:osclass:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:juan_ramon:osclass:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:juan_ramon:osclass:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:juan_ramon:osclass:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:juan_ramon:osclass:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:juan_ramon:osclass:2.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:juan_ramon:osclass:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:juan_ramon:osclass:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:juan_ramon:osclass:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:juan_ramon:osclass:2.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:juan_ramon:osclass:2.3.4:*:*:*:*:*:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/codenotary/immudb
+  - pkg:github/codenotary/immudb
+  - pkg:rpm/opensuse/immudb
+  - pkg:sourceforge/immudb.mirror

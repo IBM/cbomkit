@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/libokhttp-java
+  - pkg:deb/ubuntu/libokhttp-java
+  - pkg:github/square/okhttp

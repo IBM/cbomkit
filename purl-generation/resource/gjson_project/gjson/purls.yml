@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/golang-github-tidwall-gjson
+  - pkg:deb/ubuntu/golang-github-tidwall-gjson
+  - pkg:github/tidwall/gjson

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/johnpapa/generator-hottowel
+  - pkg:npm/generator-hottowel

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:fribidi:gnu_fribidi:0.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fribidi:gnu_fribidi:0.19.2:*:*:*:*:*:*:*

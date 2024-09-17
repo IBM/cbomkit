@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/airflow
+  - pkg:github/apache/airflow
+  - pkg:sourceforge/apache-airflow.mirror

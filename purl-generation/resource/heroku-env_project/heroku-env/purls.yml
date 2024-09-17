@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/brianc/node-heroku-env
+  - pkg:npm/heroku-env

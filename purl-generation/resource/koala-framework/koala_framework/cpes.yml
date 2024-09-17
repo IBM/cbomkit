@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:koala-framework:koala_framework:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:koala-framework:koala_framework:2011-11-21:*:*:*:*:*:*:*

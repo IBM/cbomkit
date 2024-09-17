@@ -1,0 +1,7 @@
+purls:
+  - pkg:cpan/cgi-simple
+  - pkg:deb/debian/libcgi-simple-perl
+  - pkg:deb/ubuntu/libcgi-simple-perl
+  - pkg:github/andya/cgi--simple
+  - pkg:rpm/fedora/perl-cgi-simple
+  - pkg:rpm/opensuse/perl-cgi-simple

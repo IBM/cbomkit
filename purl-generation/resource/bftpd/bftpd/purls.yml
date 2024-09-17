@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/gamman/bftpd
+  - pkg:rpm/opensuse/bftpd
+  - pkg:sourceforge/bftpd

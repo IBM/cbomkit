@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/matroska-org/libebml
+  - pkg:rpm/fedora/libebml
+  - pkg:rpm/opensuse/libebml

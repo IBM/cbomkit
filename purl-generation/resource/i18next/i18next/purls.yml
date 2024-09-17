@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debianl/node-i18next
+  - pkg:deb/ubuntul/node-i18next
+  - pkg:github/i18next/i18next
+  - pkg:maven/org.webjars.npm/i18next
+  - pkg:npm/i18next
+  - pkg:nuget/i18next

@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/azuracast/azuracast
+  - pkg:github/azuracast/azuracast
+  - pkg:golang/github.com/azuracast/azuracast

@@ -1,0 +1,11 @@
+purls:
+  - pkg:bitbucket/xvjau/libtar
+  - pkg:deb/debian/libtar
+  - pkg:deb/ubuntu/libtar
+  - pkg:github/openeuler-baseservice/libtar
+  - pkg:github/tklauser/libtar
+  - pkg:github/troian/libtar
+  - pkg:gitlab/redhat/libtar
+  - pkg:rpm/centos/libtar
+  - pkg:rpm/fedora/libtar
+  - pkg:rpm/opensuse/libtar

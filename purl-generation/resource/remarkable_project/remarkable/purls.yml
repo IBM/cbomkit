@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/jonschlinkert/remarkable
+  - pkg:maven/org.webjars.npm/remarkable
+  - pkg:npm/remarkable
+  - pkg:sourceforge/remarkable.mirror

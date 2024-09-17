@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/ubuntu/octopussy
+  - pkg:github/octopussy-project/octopussy
+  - pkg:rpm/opensuse/octopussy
+  - pkg:sourceforge/syslog-analyzer

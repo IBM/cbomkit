@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/lava
+  - pkg:deb/ubuntu/lava
+  - pkg:github/linaro/lava

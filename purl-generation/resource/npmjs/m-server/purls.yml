@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nunnly/m-server
+  - pkg:npm/m-server

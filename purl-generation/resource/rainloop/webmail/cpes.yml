@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:rainloop:webmail:1.10.1.117:beta.1:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.10.1.121:beta.2:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.10.1.123:*:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.10.1.127:*:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.10.2.131:beta.1:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.10.2.133:beta.2:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.10.2.136:beta.3:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.10.2.137:beta.4:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.10.2.140:*:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.10.2.141:*:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.10.2.145:*:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.10.3.150:beta.1:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.10.3.151:*:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.10.4.160:beta.1:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.10.4.176:beta.2:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.10.4.177:beta.3:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.10.4.179:*:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.10.4.180:*:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.10.4.181:*:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.10.4.183:*:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.10.5.192:*:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.11.0.201:beta.1:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.11.0.203:*:*:*:*:*:*:*
+  - cpe:2.3:a:rainloop:webmail:1.13.0:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/lycheeorg/lychee
+  - pkg:golang/github.com/lycheeorg/lychee

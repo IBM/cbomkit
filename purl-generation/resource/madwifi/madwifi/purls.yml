@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/proski/madwifi
+  - pkg:github/puzzlet/madwifi
+  - pkg:rpm/opensuse/madwifi
+  - pkg:sourceforge/madwifi

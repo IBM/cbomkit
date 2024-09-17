@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/latchset/mod_auth_mellon
+  - pkg:rpm/centos/mod_auth_mellon
+  - pkg:rpm/fedora/mod_auth_mellon
+  - pkg:rpm/opensuse/mod_auth_mellon

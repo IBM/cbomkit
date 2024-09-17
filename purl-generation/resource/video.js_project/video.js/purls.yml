@@ -1,0 +1,5 @@
+purls:
+  - pkg:composer/videojs/video.js
+  - pkg:github/videojs/video.js
+  - pkg:golang/github.com/videojs/video.js
+  - pkg:npm/video.js

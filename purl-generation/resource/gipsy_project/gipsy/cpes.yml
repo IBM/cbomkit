@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:gipsy_project:gipsy:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gipsy_project:gipsy:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gipsy_project:gipsy:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gipsy_project:gipsy:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gipsy_project:gipsy:1.3:*:*:*:*:*:*:*

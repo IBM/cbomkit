@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-bumpalo
+  - pkg:deb/ubuntu/rust-bumpalo
+  - pkg:github/fitzgen/bumpalo
+  - pkg:rpm/fedora/rust-bumpalo
+  - pkg:rpm/opensuse/rust-bumpalo

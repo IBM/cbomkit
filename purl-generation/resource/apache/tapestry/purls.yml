@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/tapestry
+  - pkg:github/apache/tapestry-5
+  - pkg:maven/org.apache.tapestry/tapestry-core

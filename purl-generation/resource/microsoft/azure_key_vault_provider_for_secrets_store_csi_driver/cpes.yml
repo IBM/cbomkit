@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:0.0.10:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:0.0.11:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:0.0.12:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:0.0.13:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:0.0.14:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:0.0.15:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:0.0.16:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:0.0.1:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:0.0.2:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:0.0.3:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:0.0.4:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:0.0.5:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:0.0.6:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:0.0.7:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:0.0.8:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:0.0.9:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:0.1.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:0.2.0:*:*:*:*:kubernetes:*:*
+  - cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:-:*:*:*:*:kubernetes:*:*

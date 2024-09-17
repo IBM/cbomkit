@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:openads:openads:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openads:openads:2.0.8_pr1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openads:openads:2.0.8_pr1:*:postgresql:*:*:*:*:*
+  - cpe:2.3:a:openads:openads:2.0.9_pr1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openads:openads:2.0.9_pr1:*:postgresql:*:*:*:*:*
+  - cpe:2.3:a:openads:openads:2.3.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:openads:openads:2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:openads:openads:2.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openads:openads:*:*:postgresql:*:*:*:*:*

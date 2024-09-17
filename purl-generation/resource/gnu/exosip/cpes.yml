@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:gnu:exosip:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:exosip:3.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:exosip:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:exosip:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:exosip:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:exosip:5.1.0:*:*:*:*:*:*:*

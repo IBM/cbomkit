@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/locust
+  - pkg:docker/locustio/locust
+  - pkg:github/locustio/locust
+  - pkg:pypi/locust
+  - pkg:rpm/opensuse/python3-locust
+  - pkg:rpm/opensuse/python-locust
+  - pkg:sourceforge/locust.mirror

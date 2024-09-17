@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/nothings/stb
+  - pkg:rpm/fedora/stb
+  - pkg:rpm/opensuse/stb

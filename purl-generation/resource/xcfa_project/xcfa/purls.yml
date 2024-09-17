@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/xcfa
+  - pkg:deb/ubuntu/xcfa

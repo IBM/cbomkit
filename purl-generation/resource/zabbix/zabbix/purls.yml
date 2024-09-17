@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/zabbix/zabbix-agent
+  - pkg:github/zabbix/zabbix
+  - pkg:rpm/fedora/zabbix
+  - pkg:rpm/opensuse/zabbix
+  - pkg:zabbix/zbx/zabbix

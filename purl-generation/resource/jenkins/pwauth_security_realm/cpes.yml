@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jenkins:pwauth_security_realm:0.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pwauth_security_realm:0.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:pwauth_security_realm:*:*:*:*:*:jenkins:*:*

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:vm-superio_project:vm-superio:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vm-superio_project:vm-superio:0.1.1:*:*:*:*:*:*:*

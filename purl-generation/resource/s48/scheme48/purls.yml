@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/scheme48
+  - pkg:deb/ubuntu/scheme48
+  - pkg:github/shixiongfei-forks/scheme48
+  - pkg:rpm/opensuse/scheme48

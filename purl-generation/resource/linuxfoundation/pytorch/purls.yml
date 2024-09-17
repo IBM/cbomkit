@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/pytorch
+  - pkg:deb/ubuntu/pytorch
+  - pkg:docker/pytorch/pytorch
+  - pkg:github/pytorch/pytorch
+  - pkg:gitlab/gitlab-gold/pytorch
+  - pkg:sourceforge/pytorch.mirror

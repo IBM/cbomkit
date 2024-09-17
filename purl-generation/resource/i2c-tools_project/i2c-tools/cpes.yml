@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:i2c-tools_project:i2c-tools:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:i2c-tools_project:i2c-tools:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:i2c-tools_project:i2c-tools:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:i2c-tools_project:i2c-tools:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:i2c-tools_project:i2c-tools:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:i2c-tools_project:i2c-tools:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:i2c-tools_project:i2c-tools:3.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:i2c-tools_project:i2c-tools:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:i2c-tools_project:i2c-tools:4.1:*:*:*:*:*:*:*

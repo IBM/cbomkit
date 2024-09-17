@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/matrix-org/matrix-android-sdk
+  - pkg:github/matrix-org/matrix-android-sdk2
+  - pkg:github/matrix-org/matrix-android-sdk2-sample

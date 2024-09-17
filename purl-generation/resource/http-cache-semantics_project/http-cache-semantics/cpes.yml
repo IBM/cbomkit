@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:http-cache-semantics_project:http-cache-semantics:3.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:http-cache-semantics_project:http-cache-semantics:3.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:http-cache-semantics_project:http-cache-semantics:3.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:http-cache-semantics_project:http-cache-semantics:3.3.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:http-cache-semantics_project:http-cache-semantics:3.3.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:http-cache-semantics_project:http-cache-semantics:3.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:http-cache-semantics_project:http-cache-semantics:3.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:http-cache-semantics_project:http-cache-semantics:3.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:http-cache-semantics_project:http-cache-semantics:3.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:http-cache-semantics_project:http-cache-semantics:3.7.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:http-cache-semantics_project:http-cache-semantics:3.7.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:http-cache-semantics_project:http-cache-semantics:3.8.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:http-cache-semantics_project:http-cache-semantics:3.8.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:http-cache-semantics_project:http-cache-semantics:4.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:http-cache-semantics_project:http-cache-semantics:4.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:http-cache-semantics_project:http-cache-semantics:4.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:http-cache-semantics_project:http-cache-semantics:4.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:http-cache-semantics_project:http-cache-semantics:4.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:http-cache-semantics_project:http-cache-semantics:*:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:http-cache-semantics_project:http-cache-semantics:-:*:*:*:*:node.js:*:*

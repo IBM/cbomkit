@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/yasm
+  - pkg:deb/ubuntu/yasm
+  - pkg:github/yasm/yasm
+  - pkg:rpm/fedora/yasm
+  - pkg:rpm/opensuse/yasm

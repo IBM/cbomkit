@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sullo/nikto
+  - pkg:golang/github.com/sullo/nikto

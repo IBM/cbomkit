@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:simple_sticky_footer_project:simple_sticky_footer:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_sticky_footer_project:simple_sticky_footer:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_sticky_footer_project:simple_sticky_footer:1.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_sticky_footer_project:simple_sticky_footer:1.2.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_sticky_footer_project:simple_sticky_footer:1.2.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_sticky_footer_project:simple_sticky_footer:1.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_sticky_footer_project:simple_sticky_footer:1.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_sticky_footer_project:simple_sticky_footer:1.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_sticky_footer_project:simple_sticky_footer:1.3.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_sticky_footer_project:simple_sticky_footer:1.3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:simple_sticky_footer_project:simple_sticky_footer:1.3.5:*:*:*:*:wordpress:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/bvbmedia/multishop
+  - pkg:github/bvbmedia/multishop
+  - pkg:sourceforge/typo3multishop

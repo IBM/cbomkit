@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:chrony_project:chrony:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:chrony_project:chrony:1.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:chrony_project:chrony:1.31.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:chrony_project:chrony:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:chrony_project:chrony:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:chrony_project:chrony:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:chrony_project:chrony:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:chrony_project:chrony:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:chrony_project:chrony:3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:chrony_project:chrony:3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:chrony_project:chrony:3.5:*:*:*:*:*:*:*

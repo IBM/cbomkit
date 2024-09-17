@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:gnu:radius:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:radius:0.92.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:radius:0.93:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:radius:0.94:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:radius:0.95:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:radius:0.96:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:radius:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:radius:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:radius:1.3:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/apt-spacewalk
+  - pkg:github/spacewalkproject/spacewalk

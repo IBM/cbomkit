@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-memoffset
+  - pkg:deb/ubuntu/rust-memoffset
+  - pkg:github/gilnaa/memoffset
+  - pkg:rpm/fedora/rust-memoffset
+  - pkg:rpm/opensuse/rust-memoffset

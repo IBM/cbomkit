@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/loomio/loomio
+  - pkg:github/loomio/loomio
+  - pkg:sourceforge/loomio.mirror

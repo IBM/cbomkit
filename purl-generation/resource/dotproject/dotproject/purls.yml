@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/diontruter/dotproject
+  - pkg:github/dotproject/dotproject
+  - pkg:sourceforge/dotproject

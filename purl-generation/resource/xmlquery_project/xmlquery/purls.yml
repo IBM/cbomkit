@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/golang-github-antchfx-xmlquery
+  - pkg:deb/ubuntu/golang-github-antchfx-xmlquery
+  - pkg:github/antchfx/xmlquery
+  - pkg:rpm/fedora/golang-github-antchfx-xmlquery

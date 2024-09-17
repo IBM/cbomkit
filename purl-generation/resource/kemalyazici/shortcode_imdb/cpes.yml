@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:kemalyazici:shortcode_imdb:4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kemalyazici:shortcode_imdb:4.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kemalyazici:shortcode_imdb:4.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kemalyazici:shortcode_imdb:5.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kemalyazici:shortcode_imdb:5.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kemalyazici:shortcode_imdb:5.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kemalyazici:shortcode_imdb:5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kemalyazici:shortcode_imdb:5.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kemalyazici:shortcode_imdb:5.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kemalyazici:shortcode_imdb:5.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kemalyazici:shortcode_imdb:5.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kemalyazici:shortcode_imdb:5.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kemalyazici:shortcode_imdb:5.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kemalyazici:shortcode_imdb:6.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kemalyazici:shortcode_imdb:6.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kemalyazici:shortcode_imdb:6.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kemalyazici:shortcode_imdb:6.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kemalyazici:shortcode_imdb:6.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kemalyazici:shortcode_imdb:6.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kemalyazici:shortcode_imdb:6.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kemalyazici:shortcode_imdb:6.0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:kemalyazici:shortcode_imdb:6.0.8:*:*:*:*:wordpress:*:*

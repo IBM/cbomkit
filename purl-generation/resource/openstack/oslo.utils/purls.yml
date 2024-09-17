@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openstack/oslo.utils
+  - pkg:pypi/oslo.utils

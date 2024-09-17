@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/terminology
+  - pkg:deb/ubuntu/terminology
+  - pkg:github/borisfaure/terminology
+  - pkg:rpm/fedora/terminology
+  - pkg:rpm/opensuse/terminology

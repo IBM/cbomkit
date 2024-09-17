@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:churchinfo:churchinfo:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:churchinfo:churchinfo:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:churchinfo:churchinfo:1.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:churchinfo:churchinfo:1.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:churchinfo:churchinfo:1.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:churchinfo:churchinfo:1.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:churchinfo:churchinfo:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:churchinfo:churchinfo:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:churchinfo:churchinfo:1.2.2:*:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:blake2:blake2-rust:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:blake2:blake2-rust:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:blake2:blake2-rust:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:blake2:blake2-rust:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:blake2:blake2-rust:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:blake2:blake2-rust:0.8.1:*:*:*:*:*:*:*

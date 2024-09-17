@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/youyih/zerotierone
+  - pkg:github/zerotier/zerotierone
+  - pkg:rpm/opensuse/zerotierone

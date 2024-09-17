@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jmil/osirix
+  - pkg:github/pixmeo/osirix
+  - pkg:sourceforge/osirix

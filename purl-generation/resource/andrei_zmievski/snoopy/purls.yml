@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/libphp-snoopy
+  - pkg:deb/ubuntu/libphp-snoopy
+  - pkg:github/endroy/snoopy
+  - pkg:sourceforge/snoopy

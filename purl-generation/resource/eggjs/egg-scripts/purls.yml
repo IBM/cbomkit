@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/eggjs/egg-scripts
+  - pkg:npm/egg-scripts

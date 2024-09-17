@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mongodb-js/kerberos
+  - pkg:npm/kerberos

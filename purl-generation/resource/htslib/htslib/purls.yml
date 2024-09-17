@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/htslib
+  - pkg:deb/ubuntu/htslib
+  - pkg:github/samtools/htslib
+  - pkg:rpm/fedora/htslib

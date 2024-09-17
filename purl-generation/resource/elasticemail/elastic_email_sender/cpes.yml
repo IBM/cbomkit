@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:elasticemail:elastic_email_sender:1.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elasticemail:elastic_email_sender:1.2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:elasticemail:elastic_email_sender:-:*:*:*:*:wordpress:*:*

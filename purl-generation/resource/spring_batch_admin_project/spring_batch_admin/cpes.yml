@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:spring_batch_admin_project:spring_batch_admin:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:spring_batch_admin_project:spring_batch_admin:1.0.0:m1:*:*:*:*:*:*
+  - cpe:2.3:a:spring_batch_admin_project:spring_batch_admin:1.0.0:m2:*:*:*:*:*:*
+  - cpe:2.3:a:spring_batch_admin_project:spring_batch_admin:1.0.0:m3:*:*:*:*:*:*
+  - cpe:2.3:a:spring_batch_admin_project:spring_batch_admin:1.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:spring_batch_admin_project:spring_batch_admin:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:spring_batch_admin_project:spring_batch_admin:1.2.0:m1:*:*:*:*:*:*
+  - cpe:2.3:a:spring_batch_admin_project:spring_batch_admin:1.2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:spring_batch_admin_project:spring_batch_admin:1.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:spring_batch_admin_project:spring_batch_admin:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:spring_batch_admin_project:spring_batch_admin:1.3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:spring_batch_admin_project:spring_batch_admin:1.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:spring_batch_admin_project:spring_batch_admin:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:spring_batch_admin_project:spring_batch_admin:2.0.0:m1:*:*:*:*:*:*

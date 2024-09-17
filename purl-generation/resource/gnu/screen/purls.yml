@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/screen
+  - pkg:deb/ubuntu/screen
+  - pkg:github/jonjensen/screen
+  - pkg:github/mrkn/screen
+  - pkg:github/shyouhei/screen
+  - pkg:gitlab/redhat/screen
+  - pkg:gnu/screen
+  - pkg:rpm/centos/screen
+  - pkg:rpm/fedora/screen
+  - pkg:rpm/opensuse/screen

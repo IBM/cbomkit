@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/swift
+  - pkg:github/apple/swift
+  - pkg:sourceforge/swift.mirror

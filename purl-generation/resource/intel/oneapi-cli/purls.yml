@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/intel/oneapi-cli
+  - pkg:golang/github.com/intel/oneapi-cli

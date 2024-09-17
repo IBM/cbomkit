@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libmetadata-extractor-java
+  - pkg:deb/ubuntu/libmetadata-extractor-java
+  - pkg:github/drewnoakes/metadata-extractor
+  - pkg:maven/com.drewnoakes/metadata-extractor
+  - pkg:nuget/MetadataExtractor

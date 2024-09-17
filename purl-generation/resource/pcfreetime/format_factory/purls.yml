@@ -1,0 +1,4 @@
+purls:
+  - pkg:npm/format_factory
+  - pkg:nuget/FormatFactory
+  - pkg:sourceforge/format-factory

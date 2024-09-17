@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:msweet:mini-xml:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:msweet:mini-xml:2.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:msweet:mini-xml:2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:msweet:mini-xml:2.9:*:*:*:*:*:*:*

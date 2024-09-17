@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:milkytracker_project:milkytracker:0.90.80:*:*:*:*:*:*:*
+  - cpe:2.3:a:milkytracker_project:milkytracker:0.90.85:*:*:*:*:*:*:*
+  - cpe:2.3:a:milkytracker_project:milkytracker:0.90.86:*:*:*:*:*:*:*
+  - cpe:2.3:a:milkytracker_project:milkytracker:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:milkytracker_project:milkytracker:1.0.1.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:milkytracker_project:milkytracker:1.02.00:*:*:*:*:*:*:*
+  - cpe:2.3:a:milkytracker_project:milkytracker:1.03.00:*:*:*:*:*:*:*

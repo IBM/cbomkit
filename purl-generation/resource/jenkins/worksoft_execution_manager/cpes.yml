@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:jenkins:worksoft_execution_manager:10.0.0.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:worksoft_execution_manager:10.0.1.19:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:worksoft_execution_manager:10.0.2.27:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:worksoft_execution_manager:10.0.3.503:*:*:*:*:jenkins:*:*

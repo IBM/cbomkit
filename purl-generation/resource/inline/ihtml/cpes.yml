@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:inline:ihtml:2.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:inline:ihtml:2.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:inline:ihtml:2.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:inline:ihtml:2.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:inline:ihtml:2.20:10:*:*:*:*:*:*
+  - cpe:2.3:a:inline:ihtml:2.20:1464:*:*:*:*:*:*
+  - cpe:2.3:a:inline:ihtml:2.20:1529:*:*:*:*:*:*
+  - cpe:2.3:a:inline:ihtml:2.20:1561:*:*:*:*:*:*
+  - cpe:2.3:a:inline:ihtml:2.20:1573:*:*:*:*:*:*
+  - cpe:2.3:a:inline:ihtml:2.20:1600:*:*:*:*:*:*
+  - cpe:2.3:a:inline:ihtml:2.20:304:*:*:*:*:*:*
+  - cpe:2.3:a:inline:ihtml:2.20:919:*:*:*:*:*:*

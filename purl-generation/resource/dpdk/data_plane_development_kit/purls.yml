@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/ndragazis/dpdk
+  - pkg:deb/debian/dpdk
+  - pkg:deb/ubuntu/dpdk
+  - pkg:github/dpdk/dpdk
+  - pkg:rpm/centos/dpdk
+  - pkg:rpm/fedora/dpdk
+  - pkg:rpm/opensuse/dpdk

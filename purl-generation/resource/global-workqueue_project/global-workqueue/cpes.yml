@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:global-workqueue_project:global-workqueue:1.4.1:rc5:*:*:*:python:*:*

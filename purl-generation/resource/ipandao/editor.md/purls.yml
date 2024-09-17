@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/pandao/editor.md
+  - pkg:maven/org.webjars.npm/editor.md
+  - pkg:npm/editor.md
+  - pkg:sourceforge/editor-md.mirror

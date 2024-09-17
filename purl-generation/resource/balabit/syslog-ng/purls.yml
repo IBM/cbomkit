@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/syslog-ng
+  - pkg:deb/ubuntu/syslog-ng
+  - pkg:docker/balabit/syslog-ng
+  - pkg:github/syslog-ng/syslog-ng
+  - pkg:golang/github.com/syslog-ng/syslog-ng
+  - pkg:rpm/fedora/syslog-ng
+  - pkg:rpm/opensuse/syslog-ng
+  - pkg:sourceforge/syslog-ng.mirror

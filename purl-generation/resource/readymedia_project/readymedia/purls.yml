@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/minidlna
+  - pkg:deb/ubuntu/minidlna
+  - pkg:docker/geekduck/docker-minidlna
+  - pkg:github/azatoth/minidlna
+  - pkg:github/nathanaela/minidlna
+  - pkg:rpm/opensuse/minidlna
+  - pkg:sourceforge/minidlna

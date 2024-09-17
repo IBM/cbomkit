@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/irssi
+  - pkg:deb/ubuntu/irssi
+  - pkg:github/irssi/irssi
+  - pkg:gitlab/redhat/irssi
+  - pkg:rpm/fedora/irssi
+  - pkg:rpm/opensuse/irssi

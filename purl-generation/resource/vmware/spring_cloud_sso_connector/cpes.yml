@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:vmware:spring_cloud_sso_connector:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_cloud_sso_connector:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_cloud_sso_connector:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_cloud_sso_connector:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_cloud_sso_connector:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:spring_cloud_sso_connector:2.1.3:*:*:*:*:*:*:*

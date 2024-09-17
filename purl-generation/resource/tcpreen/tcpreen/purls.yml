@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/tcpreen
+  - pkg:deb/ubuntu/tcpreen
+  - pkg:github/pld-linux/tcpreen
+  - pkg:rpm/fedora/tcpreen
+  - pkg:rpm/opensuse/tcpreen
+  - pkg:sourceforge/tcpreen

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/togglz/togglz
+  - pkg:maven/org.togglz/togglz-core

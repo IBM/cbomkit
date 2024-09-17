@@ -1,0 +1,7 @@
+purls:
+  - pkg:github/restsharp/restsharp
+  - pkg:gitlab/gitlab-org/restsharp
+  - pkg:nuget/RestSharp
+  - pkg:rpm/fedora/restsharp
+  - pkg:rpm/opensuse/restsharp
+  - pkg:sourceforge/restsharp.mirror

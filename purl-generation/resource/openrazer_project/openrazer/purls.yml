@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/openrazer
+  - pkg:deb/ubuntu/openrazer
+  - pkg:github/openrazer/openrazer
+  - pkg:rpm/opensuse/openrazer

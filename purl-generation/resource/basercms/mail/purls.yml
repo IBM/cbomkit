@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/baserproject/basercms
+  - pkg:github/baserproject/basercms
+  - pkg:github/yama/basercms

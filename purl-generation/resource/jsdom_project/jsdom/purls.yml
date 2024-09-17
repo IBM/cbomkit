@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/node-jsdom
+  - pkg:deb/ubuntu/node-jsdom
+  - pkg:github/jsdom/jsdom
+  - pkg:maven/org.webjars.npm/jsdom
+  - pkg:npm/jsdom
+  - pkg:rpm/opensuse/node-jsdom
+  - pkg:sourceforge/jsdom.mirror

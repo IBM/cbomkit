@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-logintasks
+  - pkg:deb/ubuntu/php-horde-logintasks
+  - pkg:github/horde/logintasks
+  - pkg:rpm/fedora/php-horde-horde-logintasks

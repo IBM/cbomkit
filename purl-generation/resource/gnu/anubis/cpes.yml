@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:gnu:anubis:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:anubis:3.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:anubis:3.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:anubis:3.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:anubis:3.9.92:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:anubis:3.9.93:*:*:*:*:*:*:*

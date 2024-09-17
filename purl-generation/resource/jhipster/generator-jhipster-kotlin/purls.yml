@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/vuminhtuan/generator-jhipster
+  - pkg:github/jhipster/generator-jhipster
+  - pkg:npm/generator-jhipster

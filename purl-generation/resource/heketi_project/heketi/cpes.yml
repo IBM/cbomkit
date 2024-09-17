@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:heketi_project:heketi:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:heketi_project:heketi:10.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:heketi_project:heketi:10.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:heketi_project:heketi:2.1.0:dev:*:*:*:*:*:*
+  - cpe:2.3:a:heketi_project:heketi:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:heketi_project:heketi:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:heketi_project:heketi:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:heketi_project:heketi:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:heketi_project:heketi:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:heketi_project:heketi:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:heketi_project:heketi:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:heketi_project:heketi:7.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:heketi_project:heketi:8.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:heketi_project:heketi:9.0.0:*:*:*:*:*:*:*

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/xrdp
+  - pkg:deb/ubuntu/xrdp
+  - pkg:github/neutrinolabs/xrdp
+  - pkg:github/pkroma/xrdp
+  - pkg:rpm/fedora/xrdp
+  - pkg:rpm/opensuse/xrdp
+  - pkg:sourceforge/xrdp.mirror

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/hujiang-fe/arcanist
+  - pkg:npm/arcanist

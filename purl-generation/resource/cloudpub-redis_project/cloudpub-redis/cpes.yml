@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:cloudpub-redis_project:cloudpub-redis:2.4.5:*:*:*:*:node.js:*:*

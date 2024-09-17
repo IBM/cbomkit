@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/juanfran/gulp-scss-lint
+  - pkg:npm/gulp-scss-lint

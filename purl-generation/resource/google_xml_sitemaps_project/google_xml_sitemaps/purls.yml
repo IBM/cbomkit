@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/auctollo/google-sitemap-generator
+  - pkg:github/tszming/google-sitemap-generator
+  - pkg:github/wp-plugins/google-sitemap-generator

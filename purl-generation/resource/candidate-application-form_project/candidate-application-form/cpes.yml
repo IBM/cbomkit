@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:candidate-application-form_project:candidate-application-form:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:candidate-application-form_project:candidate-application-form:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:candidate-application-form_project:candidate-application-form:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:candidate-application-form_project:candidate-application-form:1.3:*:*:*:*:wordpress:*:*

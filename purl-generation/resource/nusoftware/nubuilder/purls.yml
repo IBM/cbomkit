@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/nubuilder/nubuilder-4.5
+  - pkg:github/steven-copley/nubuilder4
+  - pkg:sourceforge/nubuilder

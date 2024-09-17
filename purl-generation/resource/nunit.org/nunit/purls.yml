@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/nunit
+  - pkg:deb/ubuntu/nunit
+  - pkg:github/nunit/nunit
+  - pkg:rpm/fedora/nunit
+  - pkg:rpm/opensuse/nunit

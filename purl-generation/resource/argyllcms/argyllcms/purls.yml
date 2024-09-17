@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/iiontihy/argyllcms
+  - pkg:github/rfujita/hargyllcms
+  - pkg:rpm/fedora/argyllcms
+  - pkg:rpm/opensuse/argyllcms

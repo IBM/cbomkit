@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:redhat:jboss_data_virtualization:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_data_virtualization:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_data_virtualization:6.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_data_virtualization:6.0.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_data_virtualization:6.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_data_virtualization:6.1.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_data_virtualization:6.1.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_data_virtualization:6.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_data_virtualization:6.3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_data_virtualization:6.3.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_data_virtualization:6.4.0:*:*:*:*:*:*:*

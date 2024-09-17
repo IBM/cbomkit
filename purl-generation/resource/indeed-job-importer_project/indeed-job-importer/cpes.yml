@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:indeed-job-importer_project:indeed-job-importer:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:indeed-job-importer_project:indeed-job-importer:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:indeed-job-importer_project:indeed-job-importer:1.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:indeed-job-importer_project:indeed-job-importer:*:*:*:*:*:wordpress:*:*

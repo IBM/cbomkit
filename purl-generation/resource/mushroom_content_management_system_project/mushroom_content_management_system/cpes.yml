@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:mushroom_content_management_system_project:mushroom_content_management_system:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:mushroom_content_management_system_project:mushroom_content_management_system:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:mushroom_content_management_system_project:mushroom_content_management_system:3.1.2:*:*:*:*:*:*:*

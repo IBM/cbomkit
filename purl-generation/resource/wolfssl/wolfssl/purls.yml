@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libwolfssl-dev
+  - pkg:deb/ubuntu/libwolfssl-dev
+  - pkg:github/wolfssl/wolfssl
+  - pkg:rpm/opensuse/wolfssl
+  - pkg:wolfssl/wolfssl

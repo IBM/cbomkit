@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libvterm
+  - pkg:deb/ubuntu/libvterm
+  - pkg:github/radiganm/libvterm
+  - pkg:github/xzfc/libvterm
+  - pkg:rpm/fedora/libvterm
+  - pkg:rpm/opensuse/libvterm

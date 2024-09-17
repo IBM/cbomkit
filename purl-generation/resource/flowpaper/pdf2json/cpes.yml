@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:flowpaper:pdf2json:0.68:*:*:*:*:*:*:*
+  - cpe:2.3:a:flowpaper:pdf2json:0.69:*:*:*:*:*:*:*
+  - cpe:2.3:a:flowpaper:pdf2json:0.70:*:*:*:*:*:*:*
+  - cpe:2.3:a:flowpaper:pdf2json:0.71:*:*:*:*:*:*:*

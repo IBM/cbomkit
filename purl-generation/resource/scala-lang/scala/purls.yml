@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/scala
+  - pkg:deb/ubuntu/scala
+  - pkg:github/scala/scala
+  - pkg:rpm/centos/scala
+  - pkg:rpm/fedora/scala
+  - pkg:rpm/opensuse/scala

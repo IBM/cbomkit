@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/abodelot/jquery.json-viewer
+  - pkg:npm/jquery.json-viewer

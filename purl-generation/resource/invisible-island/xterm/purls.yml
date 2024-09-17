@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/xterm
+  - pkg:deb/ubuntu/xterm
+  - pkg:github/hamishcoleman/xterm
+  - pkg:gitlab/redhat/xterm
+  - pkg:rpm/centos/xterm
+  - pkg:rpm/fedora/xterm
+  - pkg:rpm/opensuse/xterm

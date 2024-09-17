@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-psutil
+  - pkg:deb/ubuntu/python-psutil
+  - pkg:github/giampaolo/psutil
+  - pkg:pypi/psutil
+  - pkg:rpm/fedora/python-psutil
+  - pkg:rpm/opensuse/python-psutil

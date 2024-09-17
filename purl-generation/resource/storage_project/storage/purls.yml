@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/golang-github-containers-storage
+  - pkg:deb/ubuntu/golang-github-containers-storage
+  - pkg:github/containers/storage

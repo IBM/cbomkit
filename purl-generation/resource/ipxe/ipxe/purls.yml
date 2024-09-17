@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ipxe
+  - pkg:deb/ubuntu/ipxe
+  - pkg:github/ipxe/ipxe
+  - pkg:github/qemu/ipxe
+  - pkg:rpm/fedora/ipxe
+  - pkg:rpm/opensuse/ipxe

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/emilbayes/wat2wasm
+  - pkg:npm/wat2wasm

@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/opensuse/kernel
+  - pkg:github/suse/kernel
+  - pkg:opensuse/opensuse
+  - pkg:rpm/opensuse/opensuse-release

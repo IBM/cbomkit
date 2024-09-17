@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ag-grid/ag-grid
+  - pkg:maven/org.webjars.npm/ag-grid
+  - pkg:npm/%40ag-grid-community/core

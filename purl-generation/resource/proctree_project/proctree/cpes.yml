@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:proctree_project:proctree:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:proctree_project:proctree:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:proctree_project:proctree:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:proctree_project:proctree:2017-09-03:*:*:*:*:node.js:*:*

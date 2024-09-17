@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-horde-lock
+  - pkg:deb/ubuntu/php-horde-lock
+  - pkg:github/horde/lock
+  - pkg:rpm/fedora/php-horde-horde-lock
+  - pkg:rpm/opensuse/php-horde-horde-lock

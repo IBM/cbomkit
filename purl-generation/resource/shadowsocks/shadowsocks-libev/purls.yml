@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/shadowsocks-libev
+  - pkg:deb/ubuntu/shadowsocks-libev
+  - pkg:docker/shadowsocks/shadowsocks-libev
+  - pkg:github/shadowsocksr-backup/shadowsocksr-libev
+  - pkg:github/shadowsocks/shadowsocks-libev
+  - pkg:rpm/opensuse/shadowsocks-libev

@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:ghostscript:ghostscript:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ghostscript:ghostscript:0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ghostscript:ghostscript:5.50:*:*:*:*:*:*:*
+  - cpe:2.3:a:ghostscript:ghostscript:7.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:ghostscript:ghostscript:7.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:ghostscript:ghostscript:8.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ghostscript:ghostscript:8.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:ghostscript:ghostscript:8.15.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ghostscript:ghostscript:8.54:*:*:*:*:*:*:*
+  - cpe:2.3:a:ghostscript:ghostscript:8.56:*:*:*:*:*:*:*
+  - cpe:2.3:a:ghostscript:ghostscript:8.57:*:*:*:*:*:*:*
+  - cpe:2.3:a:ghostscript:ghostscript:8.60:*:*:*:*:*:*:*
+  - cpe:2.3:a:ghostscript:ghostscript:8.61:*:*:*:*:*:*:*
+  - cpe:2.3:a:ghostscript:ghostscript:8.62:*:*:*:*:*:*:*
+  - cpe:2.3:a:ghostscript:ghostscript:8.63:*:*:*:*:*:*:*
+  - cpe:2.3:a:ghostscript:ghostscript:8.64:*:*:*:*:*:*:*
+  - cpe:2.3:a:ghostscript:ghostscript:8.70:*:*:*:*:*:*:*
+  - cpe:2.3:a:ghostscript:ghostscript:9.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:ghostscript:ghostscript:9.28:-:*:*:*:*:*:*
+  - cpe:2.3:a:ghostscript:ghostscript:9.28:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:ghostscript:ghostscript:9.28:rc2:*:*:*:*:*:*

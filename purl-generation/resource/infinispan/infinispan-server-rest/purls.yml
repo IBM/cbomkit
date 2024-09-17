@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/infinispan/infinispan
+  - pkg:maven/org.infinispan/infinispan-server-rest

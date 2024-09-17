@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/blktrace
+  - pkg:deb/ubuntu/blktrace
+  - pkg:github/andyprice/blktrace
+  - pkg:github/efarrer/blktrace
+  - pkg:github/sdsc/blktrace
+  - pkg:gitlab/redhat/blktrace
+  - pkg:rpm/centos/blktrace
+  - pkg:rpm/fedora/blktrace
+  - pkg:rpm/opensuse/blktrace

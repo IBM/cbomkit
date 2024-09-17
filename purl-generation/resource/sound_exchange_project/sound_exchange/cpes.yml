@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:12.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:12.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:12.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:12.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:12.17.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:12.17.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:12.17.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:12.17.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:12.17.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:12.17.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:12.17.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:12.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:12.18.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:13.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:14.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:14.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:14.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:14.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:14.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:14.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:14.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:14.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:14.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:14.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sound_exchange_project:sound_exchange:14.4.3:*:*:*:*:*:*:*

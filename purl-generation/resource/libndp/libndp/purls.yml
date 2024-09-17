@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libndp
+  - pkg:deb/ubuntu/libndp
+  - pkg:github/jpirko/libndp
+  - pkg:gitlab/redhat/libndp
+  - pkg:rpm/centos/libndp
+  - pkg:rpm/fedora/libndp
+  - pkg:rpm/opensuse/libndp

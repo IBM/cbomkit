@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/mujs
+  - pkg:deb/ubuntu/mujs
+  - pkg:github/artifexsoftware/mujs
+  - pkg:github/ccxvii/mujs
+  - pkg:rpm/fedora/mujs
+  - pkg:rpm/opensuse/mujs

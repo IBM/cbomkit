@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/shopware/platform
+  - pkg:github/shopware/platform
+  - pkg:golang/github.com/shopware/platform

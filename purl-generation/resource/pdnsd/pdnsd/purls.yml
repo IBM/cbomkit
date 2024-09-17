@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kwarunek/pdnsd
+  - pkg:rpm/opensuse/pdnsd

@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/ubuntu/osc
+  - pkg:github/opensuse/osc
+  - pkg:pypi/osc

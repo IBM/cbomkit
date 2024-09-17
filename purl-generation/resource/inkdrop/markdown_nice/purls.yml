@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mdnice/markdown-nice
+  - pkg:npm/markdown-nice

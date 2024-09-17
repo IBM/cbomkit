@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/janl/node-jsonpointer
+  - pkg:maven/org.webjars.npm/jsonpointer
+  - pkg:npm/jsonpointer
+  - pkg:rpm/fedora/nodejs-jsonpointer

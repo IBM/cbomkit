@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:apache:karaf_cave:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:karaf_cave:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:karaf_cave:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:karaf_cave:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:karaf_cave:4.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:karaf_cave:4.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:karaf_cave:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:karaf_cave:4.2.1:*:*:*:*:*:*:*

@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/ffmpeg/ffmpeg
+  - pkg:github/ffmpeg/ffmpeg-coverity
+  - pkg:golang/github.com/ffmpeg/ffmpeg
+  - pkg:maven/net.bramp.ffmpeg/ffmpeg
+  - pkg:npm/%40ffmpeg/ffmpeg

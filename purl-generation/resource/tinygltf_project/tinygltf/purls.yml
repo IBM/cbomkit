@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/lindenlab/3p-tinygltf
+  - pkg:deb/debian/tinygltf
+  - pkg:deb/ubuntu/tinygltf
+  - pkg:github/syoyo/tinygltf

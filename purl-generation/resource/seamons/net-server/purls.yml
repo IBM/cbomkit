@@ -1,0 +1,6 @@
+purls:
+  - pkg:cpan/net-server
+  - pkg:github/rhandom/perl-net-server
+  - pkg:gitlab/redhat/perl-net-server
+  - pkg:rpm/fedora/perl-net-server
+  - pkg:rpm/opensuse/perl-net-server

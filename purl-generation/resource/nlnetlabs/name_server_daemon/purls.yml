@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/nsd
+  - pkg:deb/ubuntu/nsd
+  - pkg:github/nlnetlabs/nsd
+  - pkg:rpm/fedora/nsd
+  - pkg:rpm/opensuse/nsd

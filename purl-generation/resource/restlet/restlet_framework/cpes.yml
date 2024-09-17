@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:restlet:restlet_framework:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:restlet:restlet_framework:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:restlet:restlet_framework:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:restlet:restlet_framework:2.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:restlet:restlet_framework:2.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:restlet:restlet_framework:2.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:restlet:restlet_framework:2.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:restlet:restlet_framework:2.2:milestone1:*:*:*:*:*:*
+  - cpe:2.3:a:restlet:restlet_framework:2.2:milestone2:*:*:*:*:*:*
+  - cpe:2.3:a:restlet:restlet_framework:2.2:milestone3:*:*:*:*:*:*
+  - cpe:2.3:a:restlet:restlet_framework:2.2:milestone4:*:*:*:*:*:*
+  - cpe:2.3:a:restlet:restlet_framework:2.2:milestone5:*:*:*:*:*:*
+  - cpe:2.3:a:restlet:restlet_framework:*:milestone6:*:*:*:*:*:*

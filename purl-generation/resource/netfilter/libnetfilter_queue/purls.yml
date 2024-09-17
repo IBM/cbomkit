@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libnetfilter-queue
+  - pkg:deb/ubuntu/libnetfilter-queue
+  - pkg:github/distrotech/libnetfilter_queuep
+  - pkg:gitlab/redhat/libnetfilter_queue
+  - pkg:rpm/centos/libnetfilter_queue
+  - pkg:rpm/fedora/libnetfilter_queue
+  - pkg:rpm/opensuse/libnetfilter_queue

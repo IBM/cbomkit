@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/coala/git-url-parse
+  - pkg:golang/github.com/coala/git-url-parse
+  - pkg:pypi/git-url-parse
+  - pkg:rpm/fedora/python-git-url-parse
+  - pkg:rpm/opensuse/python-git-url-parse

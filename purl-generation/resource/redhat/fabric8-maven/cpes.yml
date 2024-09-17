@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:redhat:fabric8-maven:4.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:fabric8-maven:4.0.0:m1:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:fabric8-maven:4.0.0:m2:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:fabric8-maven:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:fabric8-maven:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:fabric8-maven:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:fabric8-maven:4.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:fabric8-maven:4.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:fabric8-maven:4.4.1:*:*:*:*:*:*:*

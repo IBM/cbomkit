@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libnetfilter-conntrack
+  - pkg:deb/ubuntu/libnetfilter-conntrack
+  - pkg:github/distrotech/libnetfilter_conntrack
+  - pkg:gitlab/redhat/libnetfilter_conntrack
+  - pkg:rpm/centos/libnetfilter_conntrack
+  - pkg:rpm/fedora/libnetfilter_conntrack
+  - pkg:rpm/opensuse/libnetfilter_conntrack

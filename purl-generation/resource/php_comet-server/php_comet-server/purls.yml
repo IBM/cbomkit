@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/cometbackup/comet-php-sdk
+  - pkg:github/cometbackup/comet-php-sdk
+  - pkg:sourceforge/projects/comet

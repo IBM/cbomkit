@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/ubuntu/fusionforge
+  - pkg:docker/fusionforge/fusionforge
+  - pkg:github/fusionforge/fusionforge
+  - pkg:rpm/opensuse/fusionforge

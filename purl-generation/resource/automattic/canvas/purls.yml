@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/automattic/node-canvas
+  - pkg:maven/org.webjars.npm/canvas
+  - pkg:npm/canvas

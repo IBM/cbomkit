@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/munkireport/munkireport-php
+  - pkg:github/munkireport/munkireport-php

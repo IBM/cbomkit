@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jupyterhub/kubespawner
+  - pkg:pypi/jupyterhub-kubespawner

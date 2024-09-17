@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/kimai/kimai2
+  - pkg:github/kevinpapst/kimai2
+  - pkg:rpm/opensuse/kimai2

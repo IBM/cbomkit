@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-marshmallow
+  - pkg:deb/ubuntu/python-marshmallow
+  - pkg:github/marshmallow-code/marshmallow
+  - pkg:pypi/marshmallow
+  - pkg:rpm/fedora/python-marshmallow
+  - pkg:rpm/opensuse/python-marshmallow

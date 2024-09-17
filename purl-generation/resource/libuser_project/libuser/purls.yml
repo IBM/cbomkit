@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libuser
+  - pkg:deb/ubuntu/libuser
+  - pkg:github/sailfishos/libuser
+  - pkg:gitlab/redhat/libuser
+  - pkg:rpm/centos/libuser
+  - pkg:rpm/fedora/libuser
+  - pkg:rpm/opensuse/libuser

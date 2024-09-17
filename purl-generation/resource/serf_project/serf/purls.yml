@@ -1,0 +1,6 @@
+purls:
+  - pkg:apache/serf
+  - pkg:deb/ubuntu/serf
+  - pkg:github/coapp-packages/serf
+  - pkg:maven/no.tv2.serf/serf-client
+  - pkg:nuget/serf

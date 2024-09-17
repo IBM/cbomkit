@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:drusus:logsurfer:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:drusus:logsurfer:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:drusus:logsurfer:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:drusus:logsurfer:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:drusus:logsurfer:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:drusus:logsurfer:1.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:drusus:logsurfer:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:drusus:logsurfer:1.5a:*:*:*:*:*:*:*
+  - cpe:2.3:a:drusus:logsurfer:1.5:beta:*:*:*:*:*:*
+  - cpe:2.3:a:drusus:logsurfer:1.5:beta2:*:*:*:*:*:*

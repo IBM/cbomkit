@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:lever_project:lever:0.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:lever_project:lever:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:lever_project:lever:0.1.1:alpha11:*:*:*:rust:*:*
+  - cpe:2.3:a:lever_project:lever:0.1.1:alpha1:*:*:*:rust:*:*
+  - cpe:2.3:a:lever_project:lever:0.1.1:alpha2:*:*:*:rust:*:*
+  - cpe:2.3:a:lever_project:lever:0.1.1:alpha3:*:*:*:rust:*:*
+  - cpe:2.3:a:lever_project:lever:0.1.1:alpha4:*:*:*:rust:*:*
+  - cpe:2.3:a:lever_project:lever:0.1.1:alpha5:*:*:*:rust:*:*
+  - cpe:2.3:a:lever_project:lever:0.1.1:alpha7:*:*:*:rust:*:*
+  - cpe:2.3:a:lever_project:lever:0.1.1:alpha8:*:*:*:rust:*:*
+  - cpe:2.3:a:lever_project:lever:0.1.1:-:*:*:*:rust:*:*
+  - cpe:2.3:a:lever_project:lever:0.1.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:lever_project:lever:0.1.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:lever_project:lever:*:*:*:*:*:rust:*:*

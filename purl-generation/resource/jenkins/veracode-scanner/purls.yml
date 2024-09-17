@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/veracode-scanner-plugin
+  - pkg:github/mbockus/veracode-scanner

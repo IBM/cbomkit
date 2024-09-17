@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/viennadd/cjson
+  - pkg:deb/debian/cjson
+  - pkg:deb/ubuntu/cjson
+  - pkg:github/davegamble/cjson
+  - pkg:rpm/fedora/cjson
+  - pkg:rpm/opensuse/cjson
+  - pkg:sourceforge/cjson

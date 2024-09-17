@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:ked_password_manager_project:ked_password_manager:0.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ked_password_manager_project:ked_password_manager:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ked_password_manager_project:ked_password_manager:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ked_password_manager_project:ked_password_manager:0.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ked_password_manager_project:ked_password_manager:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ked_password_manager_project:ked_password_manager:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ked_password_manager_project:ked_password_manager:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ked_password_manager_project:ked_password_manager:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ked_password_manager_project:ked_password_manager:1.0:*:*:*:*:*:*:*

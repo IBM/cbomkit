@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/andrewcy86/simple-ip-ban
+  - pkg:github/wp-plugins/simple-ip-ban
+  - pkg:github/wpplugins/simple-ip-ban

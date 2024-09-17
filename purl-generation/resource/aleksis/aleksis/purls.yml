@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/aleksis-org/aleksis
+  - pkg:pypi/aleksis

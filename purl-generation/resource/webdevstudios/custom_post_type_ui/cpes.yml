@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:webdevstudios:custom_post_type_ui:1.11.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webdevstudios:custom_post_type_ui:1.11.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webdevstudios:custom_post_type_ui:1.11.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webdevstudios:custom_post_type_ui:1.12.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webdevstudios:custom_post_type_ui:1.12.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webdevstudios:custom_post_type_ui:1.13.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webdevstudios:custom_post_type_ui:1.13.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webdevstudios:custom_post_type_ui:1.13.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webdevstudios:custom_post_type_ui:1.13.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webdevstudios:custom_post_type_ui:1.13.4:*:*:*:*:wordpress:*:*

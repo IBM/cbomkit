@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:opensuse:tumbleweed_kopano-spamd:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:opensuse:tumbleweed_kopano-spamd:10.0.5-1.1:*:*:*:*:*:*:*

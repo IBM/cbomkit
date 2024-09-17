@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:debian:logcheck:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:logcheck:1.3.23:*:*:*:*:*:*:*

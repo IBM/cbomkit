@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/lighttpd
+  - pkg:deb/ubuntu/lighttpd
+  - pkg:github/lighttpd/lighttpd1.4
+  - pkg:github/lighttpd/lighttpd2
+  - pkg:rpm/fedora/lighttpd
+  - pkg:rpm/opensuse/lighttpd

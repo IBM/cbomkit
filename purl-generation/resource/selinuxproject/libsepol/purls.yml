@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libsepol
+  - pkg:deb/ubuntu/libsepol
+  - pkg:github/selinuxproject/selinux
+  - pkg:gitlab/redhat/libsepol
+  - pkg:rpm/centos/libsepol
+  - pkg:rpm/fedora/libsepol
+  - pkg:rpm/opensuse/libsepol

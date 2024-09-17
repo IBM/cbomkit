@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:tendermint-light-client_project:tendermint-light-client:*:*:*:*:rust:*:*:*

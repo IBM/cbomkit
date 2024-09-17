@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:bingrep_project:bingrep:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:bingrep_project:bingrep:0.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:bingrep_project:bingrep:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:bingrep_project:bingrep:0.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:bingrep_project:bingrep:0.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:bingrep_project:bingrep:0.9.0:*:*:*:*:*:*:*

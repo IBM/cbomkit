@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:o:serenityos:serenity:*:*:*:*:*:*:*:*
+  - cpe:2.3:o:serenityos:serenity:-:*:*:*:*:*:*:*
+  - cpe:2.3:o:serenityos:serenity:2019-12-30:*:*:*:*:*:*:*
+  - cpe:2.3:o:serenityos:serenity:2021-03-15:*:*:*:*:*:*:*
+  - cpe:2.3:o:serenityos:serenity:2021-03-27:*:*:*:*:*:*:*

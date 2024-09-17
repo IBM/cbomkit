@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/angus-c/just
+  - pkg:maven/org.webjars.npm/just-extend
+  - pkg:npm/just-extend

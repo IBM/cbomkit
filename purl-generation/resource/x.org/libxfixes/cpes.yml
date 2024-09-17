@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:x.org:libxfixes:4.0:*:*:*:*:*:-:*
+  - cpe:2.3:a:x.org:libxfixes:4.0.1:*:*:*:*:*:-:*
+  - cpe:2.3:a:x.org:libxfixes:4.0.1:*:*:*:*:*:x86:*
+  - cpe:2.3:a:x.org:libxfixes:4.0.2:*:*:*:*:*:-:*
+  - cpe:2.3:a:x.org:libxfixes:4.0.2:*:*:*:*:*:x86:*
+  - cpe:2.3:a:x.org:libxfixes:4.0.3:*:*:*:*:*:-:*
+  - cpe:2.3:a:x.org:libxfixes:4.0.3:*:*:*:*:*:x86:*
+  - cpe:2.3:a:x.org:libxfixes:4.0.4:*:*:*:*:*:-:*
+  - cpe:2.3:a:x.org:libxfixes:4.0.4:*:*:*:*:*:x86:*
+  - cpe:2.3:a:x.org:libxfixes:4.0.5:*:*:*:*:*:-:*
+  - cpe:2.3:a:x.org:libxfixes:4.0.5:*:*:*:*:*:x86:*
+  - cpe:2.3:a:x.org:libxfixes:4.0:*:*:*:*:*:x86:*
+  - cpe:2.3:a:x.org:libxfixes:5.0:*:*:*:*:*:-:*
+  - cpe:2.3:a:x.org:libxfixes:5.0.1:*:*:*:*:*:-:*
+  - cpe:2.3:a:x.org:libxfixes:5.0.1:*:*:*:*:*:x86:*
+  - cpe:2.3:a:x.org:libxfixes:5.0.2:*:*:*:*:*:-:*
+  - cpe:2.3:a:x.org:libxfixes:5.0.2:*:*:*:*:*:x86:*
+  - cpe:2.3:a:x.org:libxfixes:5.0.3:*:*:*:*:*:-:*
+  - cpe:2.3:a:x.org:libxfixes:5.0.3:*:*:*:*:*:x86:*
+  - cpe:2.3:a:x.org:libxfixes:5.0:*:*:*:*:*:x86:*
+  - cpe:2.3:a:x.org:libxfixes:6.0.0:*:*:*:*:*:-:*
+  - cpe:2.3:a:x.org:libxfixes:6.0.0:*:*:*:*:*:x86:*

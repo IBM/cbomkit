@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:aimeos_project:aimeos:19.10.11:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:aimeos_project:aimeos:19.10.12:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:aimeos_project:aimeos:20.0.0:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:aimeos_project:aimeos:20.10.4:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:aimeos_project:aimeos:20.10.5:*:*:*:*:typo3:*:*
+  - cpe:2.3:a:aimeos_project:aimeos:-:*:*:*:*:typo3:*:*

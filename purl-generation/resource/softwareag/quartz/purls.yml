@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libquartz2-java
+  - pkg:deb/debian/libquartz-java
+  - pkg:deb/ubuntu/libquartz2-java
+  - pkg:deb/ubuntu/libquartz-java
+  - pkg:github/quartz-scheduler/quartz

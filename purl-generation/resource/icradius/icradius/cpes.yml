@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:icradius:icradius:0.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:icradius:icradius:0.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:icradius:icradius:0.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:icradius:icradius:0.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:icradius:icradius:0.17b:*:*:*:*:*:*:*
+  - cpe:2.3:a:icradius:icradius:0.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:icradius:icradius:0.18.1:*:*:*:*:*:*:*

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:weave:gitops_terraform_controller:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:weave:gitops_terraform_controller:0.15.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:weave:gitops_terraform_controller:0.15.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:weave:gitops_terraform_controller:0.15.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:weave:gitops_terraform_controller:0.15.0:rc4:*:*:*:*:*:*

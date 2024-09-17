@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:amirocms:amiro.cms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:amirocms:amiro.cms:4.0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amirocms:amiro.cms:4.2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:amirocms:amiro.cms:4.2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amirocms:amiro.cms:4.2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amirocms:amiro.cms:4.2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amirocms:amiro.cms:4.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:amirocms:amiro.cms:4.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:amirocms:amiro.cms:5.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:amirocms:amiro.cms:5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:amirocms:amiro.cms:5.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:amirocms:amiro.cms:5.2.3:*:*:*:*:*:*:*

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/memcached
+  - pkg:deb/ubuntu/memcached
+  - pkg:docker/memcached
+  - pkg:github/docker-library/memcached
+  - pkg:github/memcached/memcached
+  - pkg:gitlab/naturalis/memcached
+  - pkg:gitlab/redhat/memcached
+  - pkg:rpm/fedora/memcached

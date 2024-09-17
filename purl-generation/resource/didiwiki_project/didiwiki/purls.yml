@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/pepa65/didiwiki
+  - pkg:deb/debian/didiwiki
+  - pkg:deb/ubuntu/didiwiki
+  - pkg:github/openedhand/didiwiki
+  - pkg:github/pepa65/didiwiki
+  - pkg:github/vbourachot/didiwikimd

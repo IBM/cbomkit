@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:jupyter:binderhub:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:jupyter:binderhub:0.2.0-n653:*:*:*:*:*:*:*

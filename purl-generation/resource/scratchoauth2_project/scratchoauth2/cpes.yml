@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:scratchoauth2_project:scratchoauth2:2021-04-13:*:*:*:*:scratch:*:*
+  - cpe:2.3:a:scratchoauth2_project:scratchoauth2:-:*:*:*:*:scratch:*:*

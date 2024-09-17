@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:minicom_project:minicom:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:minicom_project:minicom:2.7.1:*:*:*:*:*:*:*

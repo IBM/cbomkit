@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:bitty_project:bitty:0.0.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.0.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.0.13:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.0.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.0.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.0.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.0.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.0.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.2.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.2.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.2.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.2.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.2.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.2.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.2.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitty_project:bitty:0.2.9:*:*:*:*:node.js:*:*

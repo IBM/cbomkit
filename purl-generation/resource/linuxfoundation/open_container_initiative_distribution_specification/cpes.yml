@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:linuxfoundation:open_container_initiative_distribution_specification:1.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:open_container_initiative_distribution_specification:1.0.0:rc0:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:open_container_initiative_distribution_specification:1.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:open_container_initiative_distribution_specification:1.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:open_container_initiative_distribution_specification:1.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:open_container_initiative_distribution_specification:1.0.1:*:*:*:*:*:*:*

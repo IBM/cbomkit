@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:ideablade:breeze.server.net:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:ideablade:breeze.server.net:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ideablade:breeze.server.net:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ideablade:breeze.server.net:1.5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ideablade:breeze.server.net:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ideablade:breeze.server.net:1.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ideablade:breeze.server.net:1.6.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:ideablade:breeze.server.net:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ideablade:breeze.server.net:3.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ideablade:breeze.server.net:5.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ideablade:breeze.server.net:5.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ideablade:breeze.server.net:5.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ideablade:breeze.server.net:5.3.8:*:*:*:*:*:*:*

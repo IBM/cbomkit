@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/openshift/origin
+  - pkg:rpm/fedora/origin
+  - pkg:rpm/opensuse/origin

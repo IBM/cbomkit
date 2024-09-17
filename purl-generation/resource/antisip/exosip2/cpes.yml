@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:antisip:exosip2:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:antisip:exosip2:3.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:antisip:exosip2:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:antisip:exosip2:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:antisip:exosip2:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:antisip:exosip2:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:antisip:exosip2:5.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:antisip:exosip2:5.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:antisip:exosip2:5.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:antisip:exosip2:5.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:antisip:exosip2:5.2.1:*:*:*:*:*:*:*

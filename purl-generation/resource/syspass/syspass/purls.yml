@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/nuxsmin/syspass
+  - pkg:docker/syspass/syspass
+  - pkg:github/nuxsmin/syspass
+  - pkg:sourceforge/syspass

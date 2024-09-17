@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:rio_project:rio:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.3.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.3.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.5.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.5.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.5.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.5.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.5.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.6.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.6.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.6.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.7.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.7.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.7.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.7.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.7.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.7.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.7.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.8.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.9.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.9.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.9.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.9.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rio_project:rio:0.9.4:*:*:*:*:rust:*:*

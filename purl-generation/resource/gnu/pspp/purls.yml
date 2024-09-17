@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/pspp
+  - pkg:deb/ubuntu/pspp
+  - pkg:github/fredowski/pspp
+  - pkg:github/ideitegia/pspp
+  - pkg:github/lemenkov/pspp
+  - pkg:gnu/pspp
+  - pkg:rpm/fedora/pspp
+  - pkg:rpm/opensuse/pspp

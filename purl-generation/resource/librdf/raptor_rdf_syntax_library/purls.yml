@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/raptor2
+  - pkg:deb/ubuntu/raptor2
+  - pkg:github/dajobe/raptor
+  - pkg:rpm/fedora/raptor
+  - pkg:rpm/opensuse/raptor

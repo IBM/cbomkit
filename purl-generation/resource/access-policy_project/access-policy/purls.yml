@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tupleaustin/access-policy
+  - pkg:npm/access-policy

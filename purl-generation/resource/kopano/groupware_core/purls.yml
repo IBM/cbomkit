@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/kopanocore
+  - pkg:deb/ubuntu/kopanocore
+  - pkg:github/kopano-dev/kopano-core
+  - pkg:rpm/opensuse/kopano

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/mattermost-plugin
+  - pkg:github/kuleuven/jenkins-mattermost-plugin

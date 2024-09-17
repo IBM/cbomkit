@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openwrt/luci
+  - pkg:pypi/openwrt-luci-rpc

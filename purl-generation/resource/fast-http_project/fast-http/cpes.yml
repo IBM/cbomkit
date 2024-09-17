@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:fast-http_project:fast-http:-:*:*:*:*:node.js:*:*

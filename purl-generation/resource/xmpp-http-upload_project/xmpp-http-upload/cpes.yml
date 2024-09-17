@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:xmpp-http-upload_project:xmpp-http-upload:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmpp-http-upload_project:xmpp-http-upload:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmpp-http-upload_project:xmpp-http-upload:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmpp-http-upload_project:xmpp-http-upload:0.4.0:*:*:*:*:*:*:*

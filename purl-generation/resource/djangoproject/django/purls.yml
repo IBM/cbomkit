@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/django/django
+  - pkg:github/django/django
+  - pkg:pypi/django

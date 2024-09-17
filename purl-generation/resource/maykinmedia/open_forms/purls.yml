@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/openformulieren/open-forms
+  - pkg:github/open-formulieren/open-forms

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/usbmuxd
+  - pkg:deb/ubuntu/usbmuxd
+  - pkg:github/libimobiledevice/usbmuxd
+  - pkg:gitlab/redhat/usbmuxd
+  - pkg:nuget/libusbmuxd
+  - pkg:rpm/centos/usbmuxd
+  - pkg:rpm/fedora/usbmuxd
+  - pkg:rpm/opensuse/usbmuxd

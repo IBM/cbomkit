@@ -1,0 +1,9 @@
+purls:
+  - pkg:apache/commons-jxpath
+  - pkg:deb/debian/libcommons-jxpath-java
+  - pkg:deb/ubuntu/libcommons-jxpath-java
+  - pkg:github/apache/commons-jxpath
+  - pkg:maven/commons-jxpath/commons-jxpath
+  - pkg:rpm/centos/apache-commons-jxpath
+  - pkg:rpm/fedora/apache-commons-jxpath
+  - pkg:rpm/opensuse/apache-commons-jxpath

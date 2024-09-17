@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/multimon-ng
+  - pkg:deb/ubuntu/multimon-ng
+  - pkg:github/eliasoenal/multimon-ng
+  - pkg:gitlab/kalilinux/multimon-ng
+  - pkg:rpm/opensuse/multimon-ng

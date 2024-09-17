@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/gilyas/owncast
+  - pkg:github/owncast/owncast
+  - pkg:github/xhumiq/owncast

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/tikiorg/tiki
+  - pkg:gitlab/tikiwiki/tiki
+  - pkg:sourceforge/tikiwiki

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/tcptrack
+  - pkg:deb/ubuntu/tcptrack
+  - pkg:github/bchretien/tcptrack
+  - pkg:rpm/fedora/tcptrack
+  - pkg:rpm/opensuse/tcptrack

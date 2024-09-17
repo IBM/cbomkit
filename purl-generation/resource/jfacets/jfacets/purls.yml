@@ -1,0 +1,4 @@
+purls:
+  - pkg:java2s/jfacets
+  - pkg:maven/net.sourceforge.jfacets/jfacets
+  - pkg:sourceforge/jfacets

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/zim
+  - pkg:deb/ubuntu/zim
+  - pkg:github/zim-desktop-wiki/zim-desktop-wiki
+  - pkg:rpm/fedora/zim
+  - pkg:rpm/opensuse/zim

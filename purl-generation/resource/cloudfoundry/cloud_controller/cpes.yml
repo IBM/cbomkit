@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:cloudfoundry:cloud_controller:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:cloudfoundry:cloud_controller:1.88.0:*:*:*:*:*:*:*
+  - cpe:2.3:h:cloudfoundry:cloud_controller:-:*:*:*:*:*:*:*

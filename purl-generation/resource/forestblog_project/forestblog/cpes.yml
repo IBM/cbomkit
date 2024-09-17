@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:forestblog_project:forestblog:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:forestblog_project:forestblog:2019-04-04:*:*:*:*:*:*:*
+  - cpe:2.3:a:forestblog_project:forestblog:2022-06-30:*:*:*:*:*:*:*

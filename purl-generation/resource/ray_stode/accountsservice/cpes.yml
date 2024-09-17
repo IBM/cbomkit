@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:ray_stode:accountsservice:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.6.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.6.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.6.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.6.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.6.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.6.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.6.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.6.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.6.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.6.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.6.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.6.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.6.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.6.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.6.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:ray_stode:accountsservice:0.6.9:*:*:*:*:*:*:*

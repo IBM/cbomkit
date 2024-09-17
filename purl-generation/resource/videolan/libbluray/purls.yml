@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libbluray
+  - pkg:deb/ubuntu/libbluray
+  - pkg:github/ace20022/libbluray
+  - pkg:github/koying/libbluray
+  - pkg:gitlab/redhat/libbluray
+  - pkg:rpm/centos/libbluray
+  - pkg:rpm/fedora/libbluray
+  - pkg:rpm/opensuse/libbluray

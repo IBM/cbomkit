@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:sitemagic:sitemagic:4.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:sitemagic:sitemagic:4.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:sitemagic:sitemagic:4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:sitemagic:sitemagic:4.4.1:*:*:*:*:*:*:*

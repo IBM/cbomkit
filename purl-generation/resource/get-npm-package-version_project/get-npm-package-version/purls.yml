@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/hoperyy/get-npm-package-version
+  - pkg:npm/get-npm-package-version

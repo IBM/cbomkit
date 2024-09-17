@@ -1,0 +1,3 @@
+purls:
+  - pkg:maven/org.slf4j/slf4j-jcl
+  - pkg:rpm/opensuse/slf4j-jcl

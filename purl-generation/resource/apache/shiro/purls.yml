@@ -1,0 +1,6 @@
+purls:
+  - pkg:apache/shiro
+  - pkg:deb/debian/shiro
+  - pkg:deb/ubuntu/shiro
+  - pkg:github/apache/shiro
+  - pkg:maven/org.apache.shiro/shiro-core

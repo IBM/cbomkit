@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:shopify:koa-shopify-auth:3.1.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:koa-shopify-auth:3.1.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:koa-shopify-auth:3.1.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:koa-shopify-auth:3.1.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:koa-shopify-auth:3.1.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:koa-shopify-auth:3.1.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:koa-shopify-auth:3.1.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:koa-shopify-auth:3.1.54:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:koa-shopify-auth:3.1.56:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:koa-shopify-auth:3.1.61:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:koa-shopify-auth:3.1.62:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:koa-shopify-auth:3.1.63:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopify:koa-shopify-auth:3.1.65:*:*:*:*:*:*:*

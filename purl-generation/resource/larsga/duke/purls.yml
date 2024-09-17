@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/larsga/duke
+  - pkg:maven/no.priv.garshol.duke/duke

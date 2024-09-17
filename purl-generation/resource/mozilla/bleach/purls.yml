@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-bleach
+  - pkg:deb/ubuntu/python-bleach
+  - pkg:github/mozilla/bleach
+  - pkg:pypi/bleach
+  - pkg:rpm/fedora/python-bleach
+  - pkg:rpm/opensuse/python-bleach

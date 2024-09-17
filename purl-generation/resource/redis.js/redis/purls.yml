@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/node-redis
+  - pkg:deb/ubuntu/node-redis
+  - pkg:github/redis/node-redis
+  - pkg:npm/redis

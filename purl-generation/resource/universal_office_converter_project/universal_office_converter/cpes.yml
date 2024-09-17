@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:universal_office_converter_project:universal_office_converter:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:universal_office_converter_project:universal_office_converter:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:universal_office_converter_project:universal_office_converter:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:universal_office_converter_project:universal_office_converter:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:universal_office_converter_project:universal_office_converter:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:universal_office_converter_project:universal_office_converter:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:universal_office_converter_project:universal_office_converter:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:universal_office_converter_project:universal_office_converter:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:universal_office_converter_project:universal_office_converter:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:universal_office_converter_project:universal_office_converter:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:universal_office_converter_project:universal_office_converter:0.9:*:*:*:*:*:*:*

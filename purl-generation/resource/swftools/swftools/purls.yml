@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/swftools
+  - pkg:deb/ubuntu/swftools
+  - pkg:github/brad/swftools
+  - pkg:github/matthiaskramm/swftools
+  - pkg:github/rpedroso/swftools
+  - pkg:rpm/opensuse/swftools

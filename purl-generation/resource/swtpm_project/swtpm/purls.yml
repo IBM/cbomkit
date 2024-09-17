@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/swtpm
+  - pkg:deb/ubuntu/swtpm
+  - pkg:github/stefanberger/swtpm
+  - pkg:github/syn-net/swtpm
+  - pkg:rpm/fedora/swtpm
+  - pkg:rpm/opensuse/swtpm

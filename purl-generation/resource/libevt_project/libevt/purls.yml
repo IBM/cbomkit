@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libevt
+  - pkg:deb/ubuntu/libevt
+  - pkg:github/libyal/libevt
+  - pkg:nuget/libevt
+  - pkg:rpm/opensuse/libevt

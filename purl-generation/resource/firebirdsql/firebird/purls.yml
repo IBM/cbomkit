@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/firebird3.0
+  - pkg:deb/ubuntu/firebird3.0
+  - pkg:github/firebirdsql/firebird
+  - pkg:rpm/fedora/firebird
+  - pkg:rpm/opensuse/firebird
+  - pkg:sourceforge/firebird

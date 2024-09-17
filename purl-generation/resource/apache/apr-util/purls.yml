@@ -1,0 +1,8 @@
+purls:
+  - pkg:apache/apr
+  - pkg:github/apache/apr-util
+  - pkg:gitlab/redhat/apr-util
+  - pkg:maven/org.apache.apr/apr
+  - pkg:rpm/centos/apr-util
+  - pkg:rpm/fedora/apr-util
+  - pkg:rpm/opensuse/apr-util

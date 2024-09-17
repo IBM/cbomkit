@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:xrms:xrms_crm:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:xrms:xrms_crm:1.99.2:*:*:*:*:*:*:*

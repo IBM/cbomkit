@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-dbusmock
+  - pkg:deb/ubuntu/python-dbusmock
+  - pkg:github/martinpitt/python-dbusmock
+  - pkg:pypi/python-dbusmock
+  - pkg:rpm/fedora/python-dbusmock
+  - pkg:rpm/opensuse/python-python-dbusmock

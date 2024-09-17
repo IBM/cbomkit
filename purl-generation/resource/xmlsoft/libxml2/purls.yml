@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libxml2
+  - pkg:deb/ubuntu/libxml2
+  - pkg:github/gnome/libxml2
+  - pkg:gitlab/redhat/libxml2
+  - pkg:rpm/fedora/libxml2
+  - pkg:rpm/opensuse/libxml2

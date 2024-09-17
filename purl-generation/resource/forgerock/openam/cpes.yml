@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:forgerock:openam:10.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:forgerock:openam:10.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:forgerock:openam:10.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:forgerock:openam:10.1.0:*:*:*:xpress:*:*:*
+  - cpe:2.3:a:forgerock:openam:11.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:forgerock:openam:11.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:forgerock:openam:11.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:forgerock:openam:13.5.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:forgerock:openam:13.5.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:forgerock:openam:14.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:forgerock:openam:9.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:forgerock:openam:9.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:forgerock:openam:9.5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:forgerock:openam:9.5.5:*:*:*:*:*:*:*

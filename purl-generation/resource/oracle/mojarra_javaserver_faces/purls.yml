@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/ubuntu/mojarra
+  - pkg:github/eclipse-ee4j/mojarra

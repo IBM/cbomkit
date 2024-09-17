@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:registrationmagic:registrationmagic:4.6.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:registrationmagic:registrationmagic:*:*:*:*:*:wordpress:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/moov-io/signedxml
+  - pkg:golang/github.com/moov-io/signedxml

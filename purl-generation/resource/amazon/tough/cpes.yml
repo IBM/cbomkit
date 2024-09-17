@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:amazon:tough:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:tough:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:tough:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:tough:0.10.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:amazon:tough:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:amazon:tough:0.11.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:amazon:tough:0.11.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:amazon:tough:0.11.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:amazon:tough:0.11.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:amazon:tough:0.12.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:amazon:tough:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:tough:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:amazon:tough:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:tough:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:amazon:tough:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:tough:0.4.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:amazon:tough:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:tough:0.5.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:amazon:tough:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:tough:0.6.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:amazon:tough:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:amazon:tough:0.7.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:amazon:tough:0.7.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:amazon:tough:0.8.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:amazon:tough:0.9.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:amazon:tough:-:*:*:*:*:rust:*:*

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:ipxe_project:ipxe:-:*:*:*:*:*:*:*
+  - cpe:2.3:o:ipxe_project:ipxe:*:*:*:*:*:*:*:*

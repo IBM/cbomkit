@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:salonerp_project:salonerp:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:salonerp_project:salonerp:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:salonerp_project:salonerp:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:salonerp_project:salonerp:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:salonerp_project:salonerp:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:salonerp_project:salonerp:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:salonerp_project:salonerp:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:salonerp_project:salonerp:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:salonerp_project:salonerp:3.0.2:*:*:*:*:*:*:*

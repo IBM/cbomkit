@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/opendkim
+  - pkg:deb/ubuntu/opendkim
+  - pkg:github/trusteddomainproject/opendkim
+  - pkg:rpm/fedora/opendkim
+  - pkg:rpm/opensuse/opendkim
+  - pkg:sourceforge/opendkim

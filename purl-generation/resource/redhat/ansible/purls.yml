@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ansible
+  - pkg:deb/ubuntu/ansible
+  - pkg:docker/ansible/ansible
+  - pkg:github/ansible/ansible
+  - pkg:rpm/fedora/ansible
+  - pkg:rpm/opensuse/ansible

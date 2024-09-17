@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:freebsd:advanced_intrusion_detection_environment:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:freebsd:advanced_intrusion_detection_environment:0.7_1:*:*:*:*:*:*:*

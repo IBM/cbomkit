@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/actionpack-page_caching
+  - pkg:github/rails/actionpack-page_caching

@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/python-radicale
+  - pkg:deb/debian/radicale
+  - pkg:deb/ubuntu/python-radicale
+  - pkg:deb/ubuntu/radicale
+  - pkg:docker/xlrl/radicale
+  - pkg:github/kozea/radicale
+  - pkg:pypi/radicale
+  - pkg:rpm/fedora/radicale
+  - pkg:rpm/opensuse/radicale

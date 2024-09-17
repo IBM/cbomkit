@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/ch3ck_/openmrs-core
+  - pkg:github/openmrs/openmrs-esm-core
+  - pkg:github/openmrs/openmrs-module-htmlformentry
+  - pkg:maven/org.openmrs.maven/openmrs-sdk
+  - pkg:npm/openmrs
+  - pkg:sourceforge/openmrs

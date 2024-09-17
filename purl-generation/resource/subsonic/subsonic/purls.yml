@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/daniellandau/subsonic
+  - pkg:sourceforge/subsonic

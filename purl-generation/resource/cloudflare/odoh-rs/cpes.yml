@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:cloudflare:odoh-rs:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:odoh-rs:0.1.10:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:odoh-rs:0.1.11:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:odoh-rs:0.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:odoh-rs:0.1.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:odoh-rs:0.1.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:odoh-rs:0.1.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:odoh-rs:0.1.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:odoh-rs:0.1.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:odoh-rs:0.1.7:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:odoh-rs:0.1.8:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:odoh-rs:0.1.9:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:odoh-rs:0.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:odoh-rs:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:odoh-rs:1.0.0:beta1:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:odoh-rs:1.0.0:beta2:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:odoh-rs:1.0.0:-:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:odoh-rs:1.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:cloudflare:odoh-rs:1.0.2:*:*:*:*:rust:*:*

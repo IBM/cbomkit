@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mhammond/pywin32
+  - pkg:pypi/pywin32

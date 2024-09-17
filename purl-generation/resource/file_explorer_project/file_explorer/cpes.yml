@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:file_explorer_project:file_explorer:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:file_explorer_project:file_explorer:1.4:*:*:*:*:ipados:*:*
+  - cpe:2.3:a:file_explorer_project:file_explorer:1.4:*:*:*:*:iphone_os:*:*

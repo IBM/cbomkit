@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jenkins:naginator:1.18.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:naginator:1.18.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:naginator:-:*:*:*:*:jenkins:*:*

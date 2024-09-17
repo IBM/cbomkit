@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/uronode
+  - pkg:deb/ubuntu/uronode
+  - pkg:github/oe1rsa/uronode
+  - pkg:rpm/fedora/uronode
+  - pkg:sourceforge/uronode

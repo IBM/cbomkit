@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:raylib:raylib:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:raylib:raylib:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:raylib:raylib:1.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:raylib:raylib:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:raylib:raylib:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:raylib:raylib:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:raylib:raylib:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:raylib:raylib:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:raylib:raylib:1.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:raylib:raylib:1.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:raylib:raylib:1.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:raylib:raylib:1.9.4:dev:*:*:*:*:*:*
+  - cpe:2.3:a:raylib:raylib:1.9.7:dev:*:*:*:*:*:*
+  - cpe:2.3:a:raylib:raylib:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:raylib:raylib:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:raylib:raylib:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:raylib:raylib:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:raylib:raylib:3.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:raylib:raylib:3.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:raylib:raylib:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:raylib:raylib:4.2.0:*:*:*:*:*:*:*

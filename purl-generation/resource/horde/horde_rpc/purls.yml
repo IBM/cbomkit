@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-horde-rpc
+  - pkg:deb/ubuntu/php-horde-rpc
+  - pkg:github/horde/rpc
+  - pkg:rpm/fedora/php-horde-horde-rpc
+  - pkg:rpm/opensuse/php-horde-horde-rpc

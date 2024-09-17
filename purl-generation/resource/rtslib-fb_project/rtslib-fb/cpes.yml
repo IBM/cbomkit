@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:rtslib-fb_project:rtslib-fb:1.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:rtslib-fb_project:rtslib-fb:1.95:*:*:*:*:*:*:*
+  - cpe:2.3:a:rtslib-fb_project:rtslib-fb:1.99:*:*:*:*:*:*:*
+  - cpe:2.3:a:rtslib-fb_project:rtslib-fb:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rtslib-fb_project:rtslib-fb:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rtslib-fb_project:rtslib-fb:2.1.70:*:*:*:*:*:*:*
+  - cpe:2.3:a:rtslib-fb_project:rtslib-fb:2.1.71:*:*:*:*:*:*:*
+  - cpe:2.3:a:rtslib-fb_project:rtslib-fb:2.1.72:*:*:*:*:*:*:*
+  - cpe:2.3:a:rtslib-fb_project:rtslib-fb:2.2:*:*:*:*:*:*:*

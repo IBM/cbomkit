@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mrp/image-tiler
+  - pkg:npm/image-tiler

@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:tectonic_xdv_project:tectonic_xdv:0.1.10:*:*:*:*:rust:*:*
+  - cpe:2.3:a:tectonic_xdv_project:tectonic_xdv:0.1.11:*:*:*:*:rust:*:*
+  - cpe:2.3:a:tectonic_xdv_project:tectonic_xdv:0.1.12:*:*:*:*:rust:*:*
+  - cpe:2.3:a:tectonic_xdv_project:tectonic_xdv:0.1.8:*:*:*:*:rust:*:*
+  - cpe:2.3:a:tectonic_xdv_project:tectonic_xdv:0.1.9:*:*:*:*:rust:*:*
+  - cpe:2.3:a:tectonic_xdv_project:tectonic_xdv:-:*:*:*:*:rust:*:*

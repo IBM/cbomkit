@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/snyk/snyk-sbt-plugin
+  - pkg:maven/org.webjars.npm/snyk-sbt-plugin
+  - pkg:npm/snyk-sbt-plugin

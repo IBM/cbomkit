@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/erudikaltd/scoold
+  - pkg:github/adelinaalexandru/scoold
+  - pkg:github/erudika/scoold
+  - pkg:github/quanchuynh/scoold

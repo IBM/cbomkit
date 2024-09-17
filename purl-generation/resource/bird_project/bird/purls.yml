@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/bird
+  - pkg:deb/ubuntu/bird
+  - pkg:github/cz-nic/bird
+  - pkg:rpm/fedora/bird
+  - pkg:rpm/opensuse/bird

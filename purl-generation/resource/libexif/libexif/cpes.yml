@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:libexif:libexif:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:libexif:libexif:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:libexif:libexif:0.5.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:libexif:libexif:0.6.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:libexif:libexif:0.6.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:libexif:libexif:0.6.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:libexif:libexif:0.6.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:libexif:libexif:0.6.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:libexif:libexif:0.6.9:*:*:*:*:*:*:*

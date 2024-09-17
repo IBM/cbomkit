@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-anymap
+  - pkg:deb/ubuntu/rust-anymap
+  - pkg:github/chris-morgan/anymap
+  - pkg:rpm/fedora/rust-anymap
+  - pkg:rpm/opensuse/rust-anymap

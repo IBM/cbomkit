@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-socket2
+  - pkg:deb/ubuntu/rust-socket2
+  - pkg:github/rust-lang/socket2
+  - pkg:rpm/fedora/rust-socket2
+  - pkg:rpm/opensuse/rust-socket2

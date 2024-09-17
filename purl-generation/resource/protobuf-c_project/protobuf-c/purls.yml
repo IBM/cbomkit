@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/protobuf-c
+  - pkg:deb/ubuntu/protobuf-c
+  - pkg:github/protobuf-c/protobuf-c
+  - pkg:rpm/centos/protobuf-c
+  - pkg:rpm/fedora/protobuf-c
+  - pkg:rpm/opensuse/protobuf-c

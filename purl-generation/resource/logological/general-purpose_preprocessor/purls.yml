@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/gpp
+  - pkg:deb/ubuntu/gpp
+  - pkg:github/logological/gpp
+  - pkg:rpm/opensuse/gpp

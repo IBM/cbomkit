@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-exception
+  - pkg:deb/ubuntu/php-horde-exception
+  - pkg:github/horde/exception
+  - pkg:rpm/fedora/php-horde-horde-exception

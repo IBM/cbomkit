@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mastodon/mastodon
+  - pkg:sourceforge/mastodon.mirror

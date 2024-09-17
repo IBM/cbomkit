@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:ext2_file_system_driver_project:ext2_file_system_driver:0.60:*:*:*:*:windows:*:*
+  - cpe:2.3:a:ext2_file_system_driver_project:ext2_file_system_driver:0.61:*:*:*:*:windows:*:*
+  - cpe:2.3:a:ext2_file_system_driver_project:ext2_file_system_driver:0.62:*:*:*:*:windows:*:*
+  - cpe:2.3:a:ext2_file_system_driver_project:ext2_file_system_driver:0.63:*:*:*:*:windows:*:*
+  - cpe:2.3:a:ext2_file_system_driver_project:ext2_file_system_driver:0.64:*:*:*:*:windows:*:*
+  - cpe:2.3:a:ext2_file_system_driver_project:ext2_file_system_driver:0.65:*:*:*:*:windows:*:*
+  - cpe:2.3:a:ext2_file_system_driver_project:ext2_file_system_driver:0.66:*:*:*:*:windows:*:*
+  - cpe:2.3:a:ext2_file_system_driver_project:ext2_file_system_driver:0.67:*:*:*:*:windows:*:*
+  - cpe:2.3:a:ext2_file_system_driver_project:ext2_file_system_driver:0.68:*:*:*:*:windows:*:*
+  - cpe:2.3:a:ext2_file_system_driver_project:ext2_file_system_driver:0.69:*:*:*:*:windows:*:*

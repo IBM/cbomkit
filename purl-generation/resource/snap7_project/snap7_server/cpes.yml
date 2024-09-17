@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:snap7_project:snap7_server:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snap7_project:snap7_server:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snap7_project:snap7_server:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snap7_project:snap7_server:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:snap7_project:snap7_server:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snap7_project:snap7_server:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:snap7_project:snap7_server:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:snap7_project:snap7_server:1.4.2:*:*:*:*:*:*:*

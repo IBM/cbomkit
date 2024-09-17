@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bestwebsoft/google-sitemap-wordpress-plugin
+  - pkg:github/wp-plugins/google-sitemap-plugin
+  - pkg:github/wpplugins/google-sitemap-plugin

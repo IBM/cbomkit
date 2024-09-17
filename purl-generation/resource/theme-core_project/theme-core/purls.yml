@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/phase2/p2-theme-core
+  - pkg:npm/p2-theme-core

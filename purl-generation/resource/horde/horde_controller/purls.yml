@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-controller
+  - pkg:deb/ubuntu/php-horde-controller
+  - pkg:github/horde/controller
+  - pkg:rpm/fedora/php-horde-horde-controller

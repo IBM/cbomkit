@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/atari800
+  - pkg:deb/ubuntu/atari800
+  - pkg:github/atari800/atari800
+  - pkg:rpm/fedora/atari800
+  - pkg:rpm/opensuse/atari800
+  - pkg:sourceforge/atari800

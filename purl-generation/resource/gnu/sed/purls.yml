@@ -1,0 +1,11 @@
+purls:
+  - pkg:deb/debian/sed
+  - pkg:deb/ubuntu/sed
+  - pkg:github/madnight/sed
+  - pkg:github/mirror/sed
+  - pkg:github/val-verde/sed
+  - pkg:gitlab/redhat/sed
+  - pkg:gnu/sed
+  - pkg:rpm/centos/sed
+  - pkg:rpm/fedora/sed
+  - pkg:rpm/opensuse/sed

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-horde-mail
+  - pkg:deb/ubuntu/php-horde-mail
+  - pkg:github/horde/mail
+  - pkg:rpm/fedora/php-horde-horde-mail
+  - pkg:rpm/opensuse/php-horde-horde-mail

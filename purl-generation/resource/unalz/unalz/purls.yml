@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/unalz
+  - pkg:deb/ubuntu/unalz

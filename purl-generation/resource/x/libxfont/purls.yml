@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libxfont
+  - pkg:deb/ubuntu/libxfont
+  - pkg:github/freedesktop/libxfont
+  - pkg:github/freedesktop/xorg-libxfont
+  - pkg:github/val-verde/libxfont
+  - pkg:rpm/centos/libxfont
+  - pkg:rpm/fedora/libxfont
+  - pkg:rpm/opensuse/libxfont

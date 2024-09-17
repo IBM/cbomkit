@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:gitlab:gitlab_runner:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:gitlab:gitlab_runner:14.3.4:*:*:*:*:*:*:*

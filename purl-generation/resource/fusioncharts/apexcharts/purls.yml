@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/apexcharts/apexcharts.js
+  - pkg:maven/org.webjars.npm/apexcharts
+  - pkg:npm/apexcharts

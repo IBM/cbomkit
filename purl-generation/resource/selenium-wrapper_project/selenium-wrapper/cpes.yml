@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:selenium-wrapper_project:selenium-wrapper:0.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:selenium-wrapper_project:selenium-wrapper:0.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:selenium-wrapper_project:selenium-wrapper:0.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:selenium-wrapper_project:selenium-wrapper:0.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:selenium-wrapper_project:selenium-wrapper:0.0.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:selenium-wrapper_project:selenium-wrapper:0.0.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:selenium-wrapper_project:selenium-wrapper:0.0.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:selenium-wrapper_project:selenium-wrapper:0.0.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:selenium-wrapper_project:selenium-wrapper:0.0.9:*:*:*:*:node.js:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:o:tockos:tock:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:tockos:tock:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:tockos:tock:1.2:*:*:*:*:*:*:*

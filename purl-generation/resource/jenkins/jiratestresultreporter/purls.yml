@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/jiratestresultreporter-plugin
+  - pkg:github/maplesteve/jiratestresultreporter

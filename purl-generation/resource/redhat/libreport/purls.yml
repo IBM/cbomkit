@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/abrt/libreport
+  - pkg:gitlab/redhat/libreport
+  - pkg:rpm/fedora/libreport
+  - pkg:rpm/opensuse/libreport

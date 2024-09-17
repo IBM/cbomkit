@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/jorgenio/calipso
+  - pkg:github/cliftonc/calipso
+  - pkg:npm/calipso

@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/gif2png
+  - pkg:deb/ubuntu/gif2png
+  - pkg:gitlab/esr/gif2png

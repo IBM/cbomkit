@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:fastadmin:fastadmin:1.0.0.20180417:beta:*:*:*:*:*:*
+  - cpe:2.3:a:fastadmin:fastadmin:1.0.0.20190111:beta:*:*:*:*:*:*
+  - cpe:2.3:a:fastadmin:fastadmin:1.0.0.20190705:beta:*:*:*:*:*:*
+  - cpe:2.3:a:fastadmin:fastadmin:1.0.0.20191212:beta:*:*:*:*:*:*
+  - cpe:2.3:a:fastadmin:fastadmin:1.0.0.20200506:beta:*:*:*:*:*:*
+  - cpe:2.3:a:fastadmin:fastadmin:1.2.1:*:*:*:*:*:*:*

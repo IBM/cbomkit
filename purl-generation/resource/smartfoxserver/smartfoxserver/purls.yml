@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/tyroonis/smartfoxserver2x
+  - pkg:github/jelastic-jps/smartfoxserver-2x
+  - pkg:nuget/Sfs2X

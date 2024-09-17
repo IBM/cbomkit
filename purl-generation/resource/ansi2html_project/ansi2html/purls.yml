@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/agnoster/ansi2html
+  - pkg:npm/ansi2html

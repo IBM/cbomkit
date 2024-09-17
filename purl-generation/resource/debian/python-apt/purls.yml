@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-apt
+  - pkg:deb/ubuntu/python-apt
+  - pkg:github/excid3/python-apt
+  - pkg:pypi/python-apt
+  - pkg:rpm/fedora/python-apt
+  - pkg:rpm/opensuse/python-apt

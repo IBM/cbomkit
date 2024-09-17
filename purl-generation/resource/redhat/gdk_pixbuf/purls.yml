@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/gdk_pixbuf2
+  - pkg:gitlab/redhat/gdk-pixbuf2
+  - pkg:rpm/fedora/rubygem-gdk_pixbuf2

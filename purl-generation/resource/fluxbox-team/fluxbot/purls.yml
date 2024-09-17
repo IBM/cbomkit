@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/fluxbox
+  - pkg:deb/ubuntu/fluxbox
+  - pkg:github/fluxbox/fluxbox
+  - pkg:rpm/fedora/fluxbox
+  - pkg:rpm/opensuse/fluxbox
+  - pkg:sourceforge/fluxbox

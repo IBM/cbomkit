@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:linuxcontainers:cgmanager:0.32:*:*:*:*:*:*:*

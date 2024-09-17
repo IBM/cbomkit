@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/jackrabbit
+  - pkg:deb/debian/jackrabbit
+  - pkg:deb/ubuntu/jackrabbit
+  - pkg:github/apache/jackrabbit
+  - pkg:maven/org.apache.jackrabbit/jackrabbit
+  - pkg:maven/org.apache.jackrabbit/jackrabbit-core

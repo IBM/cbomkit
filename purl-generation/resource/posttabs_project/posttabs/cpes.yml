@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:posttabs_project:posttabs:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:posttabs_project:posttabs:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:posttabs_project:posttabs:2.10.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:posttabs_project:posttabs:2.10.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:posttabs_project:posttabs:2.10.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:posttabs_project:posttabs:2.10.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:posttabs_project:posttabs:2.10.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:posttabs_project:posttabs:2.10.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:posttabs_project:posttabs:2.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:posttabs_project:posttabs:2.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:posttabs_project:posttabs:2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:posttabs_project:posttabs:2.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:posttabs_project:posttabs:2.9.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:posttabs_project:posttabs:2.9.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:posttabs_project:posttabs:2.9.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:posttabs_project:posttabs:2.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:posttabs_project:posttabs:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:posttabs_project:posttabs:-:*:*:*:*:wordpress:*:*

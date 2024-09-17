@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/gprbuild
+  - pkg:deb/ubuntu/gprbuild
+  - pkg:github/adacore/gprbuild
+  - pkg:rpm/fedora/gprbuild
+  - pkg:rpm/opensuse/gprbuild

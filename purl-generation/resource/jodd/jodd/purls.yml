@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/cng1985/jodd
+  - pkg:deb/debian/jodd
+  - pkg:deb/ubuntu/jodd
+  - pkg:github/oblac/jodd
+  - pkg:maven/org.jodd/jodd
+  - pkg:sourceforge/jodd

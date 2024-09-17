@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:cherrypy:cherrypy:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:0.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:0.10_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:0.10_rc1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:0.8_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:0.9_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:0.9_gamma:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:0.9_rc1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:2.0.0a1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:2.1.0_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:2.1.0_rc1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:2.1.0_rc2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cherrypy:cherrypy:3.0.1:*:*:*:*:*:*:*

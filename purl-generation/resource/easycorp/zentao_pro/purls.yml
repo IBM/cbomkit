@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/easysoft/zentao
+  - pkg:github/easysoft/zentaopms
+  - pkg:sourceforge/zentao

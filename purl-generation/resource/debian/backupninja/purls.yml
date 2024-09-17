@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/domi/backupninja
+  - pkg:deb/debian/backupninja
+  - pkg:deb/ubuntu/backupninja
+  - pkg:githubm/lelutin/backupninja
+  - pkg:rpm/fedora/backupninja
+  - pkg:rpm/opensuse/backupninja

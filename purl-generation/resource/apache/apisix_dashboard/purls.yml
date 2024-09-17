@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/apisix
+  - pkg:docker/apache/apisix-dashboard
+  - pkg:github/apache/apisix-dashboard

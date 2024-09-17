@@ -1,0 +1,6 @@
+purls:
+  - pkg:apache/cassandra
+  - pkg:github/apache/cassandra
+  - pkg:maven/org.apache.cassandra/apache-cassandra
+  - pkg:maven/org.apache.cassandra/cassandra
+  - pkg:maven/org.apache.cassandra/cassandra-parent

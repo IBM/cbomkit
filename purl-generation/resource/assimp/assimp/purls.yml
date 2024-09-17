@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/assimp
+  - pkg:deb/ubuntu/assimp
+  - pkg:github/assimp/assimp
+  - pkg:gitlab/ubports/assimp
+  - pkg:nuget/Assimp
+  - pkg:rpm/fedora/assimp
+  - pkg:rpm/opensuse/assimp
+  - pkg:sourceforge/assimp

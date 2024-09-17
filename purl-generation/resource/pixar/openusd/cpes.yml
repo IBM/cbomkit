@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:pixar:openusd:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:0.7.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:0.7.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:0.7.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:0.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:0.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:0.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:0.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:0.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:0.8.5:-:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:0.8.5:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:18.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:18.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:19.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:19.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:19.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:19.07:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:19.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:20.02:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:20.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:20.08:*:*:*:*:*:*:*
+  - cpe:2.3:a:pixar:openusd:20.11:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/elementor/elementor
+  - pkg:wordpress/elementor

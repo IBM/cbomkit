@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/dbus
+  - pkg:deb/ubuntu/dbus
+  - pkg:github/freedesktop/dbus
+  - pkg:gitlab/redhat/dbus
+  - pkg:rpm/fedora/dbus

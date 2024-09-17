@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/scala/scala-collection-compat
+  - pkg:maven/org.scala-lang.modules/scala-collection-compat_3

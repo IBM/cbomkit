@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/google/tink
+  - pkg:googlesource/tink
+  - pkg:maven/com.google.crypto.tink/tink
+  - pkg:pypi/tink
+  - pkg:sourceforge/tink.mirror

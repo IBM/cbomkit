@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:mirahezebots:channelmgnt:1.0.0:*:*:*:*:sopel:*:*
+  - cpe:2.3:a:mirahezebots:channelmgnt:1.0.1:*:*:*:*:sopel:*:*
+  - cpe:2.3:a:mirahezebots:channelmgnt:1.0.2:*:*:*:*:sopel:*:*
+  - cpe:2.3:a:mirahezebots:channelmgnt:1.0.3:*:*:*:*:sopel:*:*
+  - cpe:2.3:a:mirahezebots:channelmgnt:1.0.4:*:*:*:*:sopel:*:*
+  - cpe:2.3:a:mirahezebots:channelmgnt:1.0.5:*:*:*:*:sopel:*:*
+  - cpe:2.3:a:mirahezebots:channelmgnt:1.0.6:*:*:*:*:sopel:*:*
+  - cpe:2.3:a:mirahezebots:channelmgnt:2.0.1:*:*:*:*:sopel:*:*
+  - cpe:2.3:a:mirahezebots:channelmgnt:2.0.2:*:*:*:*:sopel:*:*
+  - cpe:2.3:a:mirahezebots:channelmgnt:2.0:*:*:*:*:sopel:*:*
+  - cpe:2.3:a:mirahezebots:channelmgnt:-:*:*:*:*:sopel:*:*

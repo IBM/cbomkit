@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/iden3/snarkjs
+  - pkg:npm/snarkjs

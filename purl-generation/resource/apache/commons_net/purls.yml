@@ -1,0 +1,8 @@
+purls:
+  - pkg:apache/commons
+  - pkg:deb/debian/libcommons-net-java
+  - pkg:deb/ubuntu/libcommons-net-java
+  - pkg:github/apache/commons-net
+  - pkg:rpm/centos/apache-commons-net
+  - pkg:rpm/fedora/apache-commons-net
+  - pkg:rpm/opensuse/apache-commons-net

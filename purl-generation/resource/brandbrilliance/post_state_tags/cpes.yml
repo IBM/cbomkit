@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:brandbrilliance:post_state_tags:2.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:brandbrilliance:post_state_tags:*:*:*:*:*:wordpress:*:*

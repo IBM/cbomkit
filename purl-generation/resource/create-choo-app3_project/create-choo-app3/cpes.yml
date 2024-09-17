@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:create-choo-app3_project:create-choo-app3:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:create-choo-app3_project:create-choo-app3:-:*:*:*:*:node.js:*:*

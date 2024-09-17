@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:kelvin_mo:simpleid:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:kelvin_mo:simpleid:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kelvin_mo:simpleid:0.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kelvin_mo:simpleid:0.6.3:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/gergelyke/node-apk-parser2
+  - pkg:npm/apk-parser2

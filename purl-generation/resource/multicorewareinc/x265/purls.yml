@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/x265
+  - pkg:deb/ubuntu/x265
+  - pkg:github/videolan/x265
+  - pkg:rpm/opensuse/x265

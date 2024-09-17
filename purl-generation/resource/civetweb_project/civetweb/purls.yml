@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/civetweb
+  - pkg:deb/ubuntu/civetweb
+  - pkg:github/civetweb/civetweb
+  - pkg:rpm/opensuse/civetweb
+  - pkg:sourceforge/civetweb

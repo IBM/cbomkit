@@ -1,0 +1,3 @@
+purls:
+  - pkg:ansible/community/crypto
+  - pkg:github/ansible-collections/community.crypto

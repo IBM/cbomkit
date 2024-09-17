@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/tobie/ua-parser
+  - pkg:npm/ua-parser

@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/openmicroscopy/omero-base
+  - pkg:github/ome/openmicroscopy
+  - pkg:pypi/omero-py
+  - pkg:sourceforge/ome

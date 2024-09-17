@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/motion
+  - pkg:deb/ubuntu/motion
+  - pkg:github/motion-project/motion
+  - pkg:rpm/opensuse/motion
+  - pkg:sourceforge/motion

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/pkgconf
+  - pkg:deb/ubuntu/pkgconf
+  - pkg:github/pkgconf/pkgconf
+  - pkg:rpm/centos/pkgconf
+  - pkg:rpm/fedora/pkgconf
+  - pkg:rpm/opensuse/pkgconf

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:pivotal:uaa-release:2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:uaa-release:3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal:uaa-release:4:*:*:*:*:*:*:*

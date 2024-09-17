@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/zuker/box2d-native
+  - pkg:npm/box2d-native

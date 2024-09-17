@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:helmut_hummel:typo3_webservice:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:helmut_hummel:typo3_webservice:0.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:helmut_hummel:typo3_webservice:0.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:helmut_hummel:typo3_webservice:0.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:helmut_hummel:typo3_webservice:0.3.6:*:*:*:*:*:*:*

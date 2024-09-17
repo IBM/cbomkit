@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/encode/django-rest-framework
+  - pkg:pypi/django-rest-framework
+  - pkg:rpm/fedora/python-django-rest-framework
+  - pkg:rpm/opensuse/python-django-rest-framework

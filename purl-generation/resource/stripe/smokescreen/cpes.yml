@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:stripe:smokescreen:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:stripe:smokescreen:0.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:stripe:smokescreen:0.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:stripe:smokescreen:0.0.4:*:*:*:*:*:*:*

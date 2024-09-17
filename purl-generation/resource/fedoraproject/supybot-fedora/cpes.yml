@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:fedoraproject:supybot-fedora:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:supybot-fedora:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:supybot-fedora:0.2.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:supybot-fedora:0.2.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:supybot-fedora:0.2.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:supybot-fedora:0.2.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:supybot-fedora:0.2.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:supybot-fedora:0.2.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:supybot-fedora:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:supybot-fedora:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:supybot-fedora:0.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:supybot-fedora:0.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:supybot-fedora:0.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:supybot-fedora:0.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:supybot-fedora:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:supybot-fedora:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:supybot-fedora:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:supybot-fedora:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:fedoraproject:supybot-fedora:0.5.1:*:*:*:*:*:*:*

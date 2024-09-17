@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/aeonix/aeon
+  - pkg:golang/github.com/aeonix/aeon

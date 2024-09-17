@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/crafty
+  - pkg:deb/ubuntu/crafty
+  - pkg:github/michaelb7/crafty
+  - pkg:rpm/opensuse/crafty

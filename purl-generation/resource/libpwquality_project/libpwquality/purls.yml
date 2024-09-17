@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libpwquality
+  - pkg:deb/ubuntu/libpwquality
+  - pkg:github/libpwquality/libpwquality
+  - pkg:gitlab/redhat/libpwquality
+  - pkg:rpm/centos/libpwquality
+  - pkg:rpm/fedora/libpwquality
+  - pkg:rpm/opensuse/libpwquality

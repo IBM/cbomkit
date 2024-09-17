@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pritunl/pritunl
+  - pkg:pypi/pritunl

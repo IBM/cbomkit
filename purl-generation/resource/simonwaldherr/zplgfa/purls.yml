@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/simonwaldherr/zplgfa
+  - pkg:golang/github.com/simonwaldherr/zplgfa

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/foliovision/foliopress-wysiwyg
+  - pkg:github/wp-plugins/foliopress-wysiwyg
+  - pkg:github/wpplugins/foliopress-wysiwyg

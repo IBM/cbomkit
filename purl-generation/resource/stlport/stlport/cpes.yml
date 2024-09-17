@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:stlport:stlport:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:stlport:stlport:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:stlport:stlport:5.0.2:*:*:*:*:*:*:*

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ublock-origin
+  - pkg:deb/ubuntu/ublock-origin
+  - pkg:github/gorhill/ublock
+  - pkg:rpm/fedora/mozilla-ublock-origin
+  - pkg:rpm/opensuse/mozaddon-ublock

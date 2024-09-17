@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/splunk-devops-plugin
+  - pkg:github/splunk/splunkforjenkins

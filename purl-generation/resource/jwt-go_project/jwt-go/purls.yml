@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/golang-github-dgrijalva-jwt-go
+  - pkg:deb/debian/golang-github-golang-jwt-jwt
+  - pkg:deb/ubuntu/golang-github-dgrijalva-jwt-go
+  - pkg:deb/ubuntu/golang-github-golang-jwt-jwt
+  - pkg:github/dgrijalva/jwt-go
+  - pkg:github/golang-jwt/jwt
+  - pkg:rpm/fedora/golang-github-dgrijalva-jwt
+  - pkg:rpm/opensuse/golang-github-dgrijalva-jwt-go

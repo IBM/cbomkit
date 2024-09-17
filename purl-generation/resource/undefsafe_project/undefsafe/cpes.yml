@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:undefsafe_project:undefsafe:0.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:undefsafe_project:undefsafe:0.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:undefsafe_project:undefsafe:0.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:undefsafe_project:undefsafe:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:undefsafe_project:undefsafe:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:undefsafe_project:undefsafe:1.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:undefsafe_project:undefsafe:1.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:undefsafe_project:undefsafe:1.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:undefsafe_project:undefsafe:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:undefsafe_project:undefsafe:2.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:undefsafe_project:undefsafe:2.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:undefsafe_project:undefsafe:2.0.3:*:*:*:*:node.js:*:*

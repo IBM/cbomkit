@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/bitlbee
+  - pkg:deb/ubuntu/bitlbee
+  - pkg:github/bitlbee/bitlbee
+  - pkg:rpm/fedora/bitlbee
+  - pkg:rpm/opensuse/bitlbee

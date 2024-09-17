@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/libming/libming
+  - pkg:rpm/fedora/ming
+  - pkg:sourceforge/ming

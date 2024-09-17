@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:alipay_project:alipay:3.5.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:alipay_project:alipay:3.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:alipay_project:alipay:3.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:alipay_project:alipay:3.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:alipay_project:alipay:3.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:alipay_project:alipay:3.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:alipay_project:alipay:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:jenkins:selenium_html_report:0.91:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:selenium_html_report:0.92:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:selenium_html_report:0.93:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:selenium_html_report:0.94:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:selenium_html_report:0.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:selenium_html_report:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:selenium_html_report:-:*:*:*:*:jenkins:*:*

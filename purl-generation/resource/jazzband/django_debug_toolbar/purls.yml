@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-django-debug-toolbar
+  - pkg:deb/ubuntu/python-django-debug-toolbar
+  - pkg:github/jazzband/django-debug-toolbar
+  - pkg:pypi/django-debug-toolbar
+  - pkg:rpm/fedora/python-django-debug-toolbar
+  - pkg:rpm/opensuse/python-django-debug-toolbar

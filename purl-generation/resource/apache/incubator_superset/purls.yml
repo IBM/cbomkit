@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/superset
+  - pkg:docker/apache/superset
+  - pkg:github/apache/superset

@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/philoserf/argo-cd
+  - pkg:Docker/bitnami/argo-cd
+  - pkg:github/argoproj/argo-cd

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mscdex/dicer
+  - pkg:maven/org.webjars.npm/dicer
+  - pkg:npm/dicer

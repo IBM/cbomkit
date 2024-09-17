@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:pki-core_project:pki-core:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pki-core_project:pki-core:10.2.0:*:*:*:*:*:*:*

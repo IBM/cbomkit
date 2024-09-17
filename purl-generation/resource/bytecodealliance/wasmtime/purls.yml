@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bytecodealliance/wasmtime
+  - pkg:rpm/opensuse/wasmtime

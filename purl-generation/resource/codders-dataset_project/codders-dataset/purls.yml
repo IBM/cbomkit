@@ -1,0 +1,4 @@
+purls:
+  - pkg:gem/codders-dataset
+  - pkg:github/aiwilliams/dataset
+  - pkg:github/codders/dataset

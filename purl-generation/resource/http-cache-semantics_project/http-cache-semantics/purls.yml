@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/kornelski/http-cache-semantics
+  - pkg:maven/org.webjars.npm/http-cache-semantics
+  - pkg:npm/http-cache-semantics

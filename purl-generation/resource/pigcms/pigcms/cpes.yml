@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:pigcms:pigcms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:pigcms:pigcms:7.0:*:*:*:*:*:*:*

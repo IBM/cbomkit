@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mvoorberg/x-assign
+  - pkg:npm/x-assign

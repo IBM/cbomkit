@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/nginx
+  - pkg:deb/ubuntu/nginx
+  - pkg:github/nginx/nginx
+  - pkg:nginx/nginx
+  - pkg:rpm/fedora/nginx
+  - pkg:rpm/opensuse/nginx

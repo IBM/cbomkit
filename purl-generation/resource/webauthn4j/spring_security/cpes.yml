@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:webauthn4j:spring_security:0.7.0:*:*:*:*:spring:*:*
+  - cpe:2.3:a:webauthn4j:spring_security:0.7.1:*:*:*:*:spring:*:*
+  - cpe:2.3:a:webauthn4j:spring_security:0.7.2:*:*:*:*:spring:*:*
+  - cpe:2.3:a:webauthn4j:spring_security:0.7.3:*:*:*:*:spring:*:*
+  - cpe:2.3:a:webauthn4j:spring_security:0.7.4:*:*:*:*:spring:*:*
+  - cpe:2.3:a:webauthn4j:spring_security:0.7.5:*:*:*:*:spring:*:*
+  - cpe:2.3:a:webauthn4j:spring_security:0.7.6:*:*:*:*:spring:*:*
+  - cpe:2.3:a:webauthn4j:spring_security:0.8.0:*:*:*:*:spring:*:*
+  - cpe:2.3:a:webauthn4j:spring_security:0.9.0:*:*:*:*:spring:*:*
+  - cpe:2.3:a:webauthn4j:spring_security:*:*:*:*:*:spring:*:*
+  - cpe:2.3:a:webauthn4j:spring_security:-:*:*:*:*:spring:*:*

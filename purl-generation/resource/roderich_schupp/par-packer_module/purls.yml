@@ -1,0 +1,7 @@
+purls:
+  - pkg:cpan/par-packer
+  - pkg:deb/debian/libpar-packer-perl
+  - pkg:deb/ubuntu/libpar-packer-perl
+  - pkg:github/rschupp/par-packer
+  - pkg:rpm/fedora/perl-par-packer
+  - pkg:rpm/opensuse/perl-par-packer

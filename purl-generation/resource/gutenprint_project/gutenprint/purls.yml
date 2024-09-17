@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/gutenprint
+  - pkg:deb/ubuntu/gutenprint
+  - pkg:github/echiu64/gutenprint
+  - pkg:gitlab/redhat/gutenprint
+  - pkg:rpm/centos/gutenprint
+  - pkg:rpm/fedora/gutenprint
+  - pkg:rpm/opensuse/gutenprint
+  - pkg:sourceforge/gimp-print

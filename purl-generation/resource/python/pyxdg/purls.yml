@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-xdg
+  - pkg:deb/ubuntu/python-xdg
+  - pkg:gitlab/redhat/pyxdg
+  - pkg:pypi/pyxdg
+  - pkg:rpm/fedora/pyxdg
+  - pkg:rpm/opensuse/python-pyxdg

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/flatpak-builder
+  - pkg:deb/ubuntu/flatpak-builder
+  - pkg:github/endlessm/flatpak-builder
+  - pkg:github/flatpak/flatpak-builder
+  - pkg:rpm/centos/flatpak-builder
+  - pkg:rpm/fedora/flatpak-builder
+  - pkg:rpm/opensuse/flatpak-builder

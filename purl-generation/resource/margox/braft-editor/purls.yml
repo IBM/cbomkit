@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/margox/braft-editor
+  - pkg:npm/braft-editor

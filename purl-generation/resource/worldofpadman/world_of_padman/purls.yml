@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/padworld-entertainment/worldofpadman
+  - pkg:rpm/opensuse/worldofpadman
+  - pkg:sourceforge/worldofpadman

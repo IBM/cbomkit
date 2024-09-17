@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:totd_project:totd:1.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:totd_project:totd:1.5.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:totd_project:totd:1.5.3:pre:*:*:*:*:*:*

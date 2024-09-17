@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:jenkins:perfecto:1.12:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:perfecto:1.13:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:perfecto:1.14:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:perfecto:1.15:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:perfecto:1.16:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:perfecto:1.17:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:perfecto:1.20:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:perfecto:1.21:*:*:*:*:jenkins:*:*

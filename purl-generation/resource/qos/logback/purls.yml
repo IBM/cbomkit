@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/logback
+  - pkg:deb/ubuntu/logback
+  - pkg:github/qos-ch/logback
+  - pkg:maven/ch.qos.logback/logback-parent
+  - pkg:rpm/fedora/logback
+  - pkg:rpm/opensuse/logback

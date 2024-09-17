@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:untrusted_project:untrusted:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:untrusted_project:untrusted:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:untrusted_project:untrusted:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:untrusted_project:untrusted:0.6.2:*:*:*:*:*:*:*

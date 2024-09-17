@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cri-o/cri-o
+  - pkg:rpm/opensuse/cri-o

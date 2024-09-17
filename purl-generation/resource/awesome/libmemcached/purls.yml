@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libmemcached
+  - pkg:deb/ubuntu/libmemcached
+  - pkg:github/awesomized/libmemcached
+  - pkg:gitlab/redhat/libmemcached
+  - pkg:rpm/fedora/libmemcached
+  - pkg:rpm/opensuse/libmemcached

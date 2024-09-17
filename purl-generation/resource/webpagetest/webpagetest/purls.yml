@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/webpagetest/server
+  - pkg:github/wpo-foundation/webpagetest

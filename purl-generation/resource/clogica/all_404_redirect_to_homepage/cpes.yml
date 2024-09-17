@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:clogica:all_404_redirect_to_homepage:1.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clogica:all_404_redirect_to_homepage:1.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clogica:all_404_redirect_to_homepage:1.12:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clogica:all_404_redirect_to_homepage:1.13:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clogica:all_404_redirect_to_homepage:1.14:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clogica:all_404_redirect_to_homepage:1.15:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clogica:all_404_redirect_to_homepage:1.16:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clogica:all_404_redirect_to_homepage:1.17:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clogica:all_404_redirect_to_homepage:1.18:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clogica:all_404_redirect_to_homepage:1.19:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clogica:all_404_redirect_to_homepage:1.21:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clogica:all_404_redirect_to_homepage:1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clogica:all_404_redirect_to_homepage:1.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clogica:all_404_redirect_to_homepage:1.9:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clogica:all_404_redirect_to_homepage:-:*:*:*:*:wordpress:*:*

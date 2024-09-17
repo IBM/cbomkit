@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/gsoap
+  - pkg:deb/ubuntu/gsoap
+  - pkg:github/stoneyrh/gsoap
+  - pkg:rpm/fedora/gsoap
+  - pkg:rpm/opensuse/gsoap
+  - pkg:sourceforge/gsoap2

@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/rizinorg/rizin
+  - pkg:gitlab/kalilinux/rizin
+  - pkg:rpm/fedora/rizin
+  - pkg:rpm/opensuse/rizin

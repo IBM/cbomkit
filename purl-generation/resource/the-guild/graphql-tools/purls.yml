@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ardatan/graphql-tools
+  - pkg:npm/graphql-tools

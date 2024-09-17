@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:redhat:rsync:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:rsync:2.4.6-2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:rsync:2.4.6-2:*:i386:*:*:*:*:*
+  - cpe:2.3:a:redhat:rsync:2.4.6-5:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:rsync:2.4.6-5:*:i386:*:*:*:*:*
+  - cpe:2.3:a:redhat:rsync:2.4.6-5:*:ia64:*:*:*:*:*
+  - cpe:2.3:a:redhat:rsync:2.5.4-2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:rsync:2.5.4-2:*:i386:*:*:*:*:*
+  - cpe:2.3:a:redhat:rsync:2.5.5-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:rsync:2.5.5-1:*:i386:*:*:*:*:*
+  - cpe:2.3:a:redhat:rsync:2.5.5-4:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:rsync:2.5.5-4:*:i386:*:*:*:*:*

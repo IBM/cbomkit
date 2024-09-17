@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/notaryproject/notation
+  - pkg:golang/github.com/notaryproject/notation

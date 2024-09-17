@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/webauthn4j/webauthn4j-spring-security
+  - pkg:maven/com.webauthn4j/webauthn4j-spring-security-core

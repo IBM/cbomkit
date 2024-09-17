@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/eclipse-ee4j/jersey
+  - pkg:rpm/opensuse/jersey

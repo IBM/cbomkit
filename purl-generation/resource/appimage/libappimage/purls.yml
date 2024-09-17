@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/libappimage
+  - pkg:deb/ubuntu/libappimage
+  - pkg:github/appimage/libappimage
+  - pkg:rpm/opensuse/libappimage

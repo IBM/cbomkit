@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:timecop:bubblemon:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.0pl1:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.0pl2:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.0pl3:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.0pl4:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.0pl6:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.0pl7:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.0pl8:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.0pl9:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.1test1:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.1test2:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.1test3:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.1test4:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.1test5:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.1test6:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.1test7:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.21test1:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.2test1:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:timecop:bubblemon:1.31:*:*:*:*:*:*:*

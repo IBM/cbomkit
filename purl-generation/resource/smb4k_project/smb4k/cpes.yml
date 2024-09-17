@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:smb4k_project:smb4k:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:smb4k_project:smb4k:0.10.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:smb4k_project:smb4k:0.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:smb4k_project:smb4k:0.9.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:smb4k_project:smb4k:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:smb4k_project:smb4k:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:smb4k_project:smb4k:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:smb4k_project:smb4k:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:smb4k_project:smb4k:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:smb4k_project:smb4k:1.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:smb4k_project:smb4k:1.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:smb4k_project:smb4k:1.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:smb4k_project:smb4k:1.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:smb4k_project:smb4k:1.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:smb4k_project:smb4k:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:smb4k_project:smb4k:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:smb4k_project:smb4k:2.0.0:*:*:*:*:*:*:*

@@ -1,0 +1,10 @@
+purls:
+  - pkg:bitbucket/stangenberg/docker-phpldapadmin
+  - pkg:deb/debian/phpldapadmin
+  - pkg:deb/ubuntu/phpldapadmin
+  - pkg:docker/osixia/phpldapadmin
+  - pkg:github/leenooks/phpldapadmin
+  - pkg:github/osixia/docker-phpldapadmin
+  - pkg:rpm/fedora/phpldapadmin
+  - pkg:rpm/opensuse/phpldapadmin
+  - pkg:sourceforge/phpldapadmin

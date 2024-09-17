@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/libertaria/navcoin
+  - pkg:github/navcoin/navcoin-core

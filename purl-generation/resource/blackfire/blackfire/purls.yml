@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/blackfire/blackfire
+  - pkg:github/blackfireio/docker

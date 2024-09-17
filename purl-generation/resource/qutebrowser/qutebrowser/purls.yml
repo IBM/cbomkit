@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/qutebrowser
+  - pkg:deb/ubuntu/qutebrowser
+  - pkg:github/qutebrowser/qutebrowser
+  - pkg:pypi/qutebrowser
+  - pkg:rpm/fedora/qutebrowser
+  - pkg:rpm/opensuse/qutebrowser

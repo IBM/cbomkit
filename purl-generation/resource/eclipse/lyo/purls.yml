@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/eclipse/lyo
+  - pkg:maven/org.eclipse.lyo/lyo-parent

@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/smalruby-editor
+  - pkg:github/smalruby/smalruby-editor

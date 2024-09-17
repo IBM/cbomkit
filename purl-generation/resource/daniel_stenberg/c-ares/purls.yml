@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/c-ares
+  - pkg:deb/ubuntu/c-ares
+  - pkg:github/c-ares/c-ares
+  - pkg:gitlab/redhat/c-ares
+  - pkg:golang/github.com/c-ares/c-ares
+  - pkg:rpm/fedora/c-ares
+  - pkg:rpm/opensuse/c-ares
+  - pkg:sourceforge/c-ares

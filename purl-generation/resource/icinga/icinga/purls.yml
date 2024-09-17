@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/icinga
+  - pkg:deb/debian/icinga2
+  - pkg:deb/ubuntu/icinga
+  - pkg:deb/ubuntu/icinga2
+  - pkg:github/icinga/icinga2
+  - pkg:rpm/opensuse/icinga2
+  - pkg:sourceforge/icinga

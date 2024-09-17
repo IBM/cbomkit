@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:arabless:saphplesson:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arabless:saphplesson:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arabless:saphplesson:4.0:*:*:*:*:*:*:*

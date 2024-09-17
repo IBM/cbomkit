@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/openverso/open5gs
+  - pkg:github/open5gs/open5gs

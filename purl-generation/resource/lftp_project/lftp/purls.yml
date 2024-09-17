@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/lftp
+  - pkg:deb/ubuntu/lftp
+  - pkg:github/dionnys/lftp
+  - pkg:github/lavv17/lftp
+  - pkg:gitlab/redhat/lftp
+  - pkg:rpm/centos/lftp
+  - pkg:rpm/fedora/lftp
+  - pkg:rpm/opensuse/lftp

@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:requests-xml_project:requests-xml:0.2.3:*:*:*:*:python:*:*

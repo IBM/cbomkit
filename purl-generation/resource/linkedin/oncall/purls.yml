@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/linkedin/oncall
+  - pkg:pypi/oncall
+  - pkg:rpm/opensuse/oncall

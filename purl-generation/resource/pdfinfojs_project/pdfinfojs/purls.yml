@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/fagbokforlaget/pdfinfojs
+  - pkg:npm/pdfinfojs

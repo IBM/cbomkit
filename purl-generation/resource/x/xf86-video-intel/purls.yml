@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/freedesktop/xorg-xf86-video-intel
+  - pkg:rpm/opensuse/xf86-video-intel

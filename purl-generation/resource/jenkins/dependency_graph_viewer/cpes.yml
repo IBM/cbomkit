@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:jenkins:dependency_graph_viewer:0.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dependency_graph_viewer:0.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dependency_graph_viewer:0.12:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dependency_graph_viewer:0.13:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dependency_graph_viewer:0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dependency_graph_viewer:0.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dependency_graph_viewer:0.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dependency_graph_viewer:0.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dependency_graph_viewer:0.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dependency_graph_viewer:0.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dependency_graph_viewer:0.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dependency_graph_viewer:0.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dependency_graph_viewer:0.9:*:*:*:*:jenkins:*:*

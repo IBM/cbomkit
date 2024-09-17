@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:rivetcode:rivettracker:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:rivetcode:rivettracker:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rivetcode:rivettracker:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:rivetcode:rivettracker:1.03:*:*:*:*:*:*:*

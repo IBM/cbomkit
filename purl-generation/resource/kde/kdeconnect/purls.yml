@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/kdeconnect
+  - pkg:deb/ubuntu/kdeconnect
+  - pkg:github/kde/kdeconnect-kde

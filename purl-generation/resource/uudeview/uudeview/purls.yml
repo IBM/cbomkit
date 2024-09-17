@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/uudeview
+  - pkg:deb/ubuntu/uudeview
+  - pkg:github/istrotech/uudeview
+  - pkg:rpm/fedora/uudeview
+  - pkg:rpm/opensuse/uudeview

@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/openrc
+  - pkg:github/openrc/openrc
+  - pkg:rpm/opensuse/openrc

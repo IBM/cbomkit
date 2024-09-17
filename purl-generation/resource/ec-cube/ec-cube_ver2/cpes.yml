@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:ec-cube:ec-cube_ver2:2.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube_ver2:2.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube_ver2:r18068:-:community:*:*:*:*:*
+  - cpe:2.3:a:ec-cube:ec-cube_ver2:r18428:-:community:*:*:*:*:*

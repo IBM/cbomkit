@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:redhat:frysk:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:frysk:2008-08-05:*:*:*:*:*:*:*

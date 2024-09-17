@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:aahframework:aah:0.10.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:aahframework:aah:0.10:*:*:*:*:go:*:*
+  - cpe:2.3:a:aahframework:aah:0.11.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:aahframework:aah:0.11.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:aahframework:aah:0.11.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:aahframework:aah:0.11.3:*:*:*:*:go:*:*
+  - cpe:2.3:a:aahframework:aah:0.11.4:*:*:*:*:go:*:*
+  - cpe:2.3:a:aahframework:aah:0.12.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:aahframework:aah:0.12.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:aahframework:aah:0.12.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:aahframework:aah:0.12.3:*:*:*:*:go:*:*
+  - cpe:2.3:a:aahframework:aah:0.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:aahframework:aah:0.2:*:*:*:*:go:*:*
+  - cpe:2.3:a:aahframework:aah:0.3:*:*:*:*:go:*:*
+  - cpe:2.3:a:aahframework:aah:0.4.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:aahframework:aah:0.4:*:*:*:*:go:*:*
+  - cpe:2.3:a:aahframework:aah:0.5.1:*:*:*:*:go:*:*
+  - cpe:2.3:a:aahframework:aah:0.5:*:*:*:*:go:*:*
+  - cpe:2.3:a:aahframework:aah:0.6:*:*:*:*:go:*:*
+  - cpe:2.3:a:aahframework:aah:0.7:*:*:*:*:go:*:*
+  - cpe:2.3:a:aahframework:aah:0.8:*:*:*:*:go:*:*
+  - cpe:2.3:a:aahframework:aah:0.9:*:*:*:*:go:*:*
+  - cpe:2.3:a:aahframework:aah:-:*:*:*:*:go:*:*

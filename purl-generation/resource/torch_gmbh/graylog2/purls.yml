@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/graylog/graylog
+  - pkg:github/graylog2/graylog-docker

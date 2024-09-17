@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libvorbis
+  - pkg:deb/ubuntu/libvorbis
+  - pkg:github/xiph/vorbis
+  - pkg:rpm/centos/libvorbis
+  - pkg:rpm/fedora/libvorbis
+  - pkg:rpm/opensuse/libvorbis

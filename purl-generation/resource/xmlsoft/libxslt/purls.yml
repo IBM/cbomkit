@@ -1,0 +1,7 @@
+purls:
+  - pkg:github/coapp-packages/libxslt
+  - pkg:github/gnome/libxslt
+  - pkg:gitlab/redhat/libxslt
+  - pkg:nuget/libxslt
+  - pkg:rpm/fedora/libxslt
+  - pkg:rpm/opensuse/libxslt

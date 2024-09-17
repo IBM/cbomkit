@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/parameterized-remote-trigger-plugin
+  - pkg:github/morficus/parameterized-remote-trigger-plugin

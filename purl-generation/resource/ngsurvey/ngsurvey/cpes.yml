@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:ngsurvey:ngsurvey:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ngsurvey:ngsurvey:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:ngsurvey:ngsurvey:2.4.28:*:*:*:*:*:*:*

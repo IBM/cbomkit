@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/lxc
+  - pkg:deb/ubuntu/lxc
+  - pkg:github/lxc/lxc
+  - pkg:rpm/fedora/lxc
+  - pkg:rpm/opensuse/lxc

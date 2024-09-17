@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/oryd/oathkeeper
+  - pkg:github/ory/oathkeeper
+  - pkg:rpm/opensuse/ory-oathkeeper

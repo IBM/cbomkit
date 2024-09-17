@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/ifupdown
+  - pkg:deb/ubuntu/ifupdown
+  - pkg:github/oss-qm/ifupdown
+  - pkg:github/wido/ifupdown

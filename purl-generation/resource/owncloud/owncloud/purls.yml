@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/owncloud/core
+  - pkg:rpm/fedora/owncloud
+  - pkg:rpm/opensuse/owncloud

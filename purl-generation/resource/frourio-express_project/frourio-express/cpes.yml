@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:frourio-express_project:frourio-express:0.16.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:0.17.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:0.17.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:0.18.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:0.18.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:0.18.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:0.19.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:0.19.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:0.20.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:0.21.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:0.21.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:0.21.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:0.21.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:0.22.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:0.22.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:0.22.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:0.23.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:0.24.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:0.24.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:0.25.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:0.25.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:0.26.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:*:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:frourio-express_project:frourio-express:-:*:*:*:*:node.js:*:*

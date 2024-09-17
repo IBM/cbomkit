@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:keyutils_project:keyutils:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:keyutils_project:keyutils:1.5.10:*:*:*:*:*:*:*

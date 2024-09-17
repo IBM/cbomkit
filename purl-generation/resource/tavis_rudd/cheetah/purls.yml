@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/cheetah
+  - pkg:deb/ubuntu/cheetah
+  - pkg:github/tavisrudd/cheetah
+  - pkg:pypi/cheetah3
+  - pkg:rpm/fedora/python-cheetah
+  - pkg:rpm/opensuse/python-cheetah3
+  - pkg:sourceforge/cheetahtemplate

@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:asciidoctor-include-ext_project:asciidoctor-include-ext:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:asciidoctor-include-ext_project:asciidoctor-include-ext:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:asciidoctor-include-ext_project:asciidoctor-include-ext:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:asciidoctor-include-ext_project:asciidoctor-include-ext:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:asciidoctor-include-ext_project:asciidoctor-include-ext:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:asciidoctor-include-ext_project:asciidoctor-include-ext:0.3.1:*:*:*:*:*:*:*

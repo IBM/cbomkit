@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:debian:apache:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:debian:apache:1.3.34.4:*:*:*:*:*:*:*

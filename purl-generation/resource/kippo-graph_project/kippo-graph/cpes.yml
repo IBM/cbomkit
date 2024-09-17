@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:kippo-graph_project:kippo-graph:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:kippo-graph_project:kippo-graph:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kippo-graph_project:kippo-graph:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kippo-graph_project:kippo-graph:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kippo-graph_project:kippo-graph:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:kippo-graph_project:kippo-graph:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:kippo-graph_project:kippo-graph:1.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kippo-graph_project:kippo-graph:1.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kippo-graph_project:kippo-graph:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:kippo-graph_project:kippo-graph:1.5.1:*:*:*:*:*:*:*

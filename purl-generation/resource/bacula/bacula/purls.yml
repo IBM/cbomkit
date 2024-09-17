@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/bacula
+  - pkg:deb/ubuntu/bacula
+  - pkg:github/naszaklasa/bacula
+  - pkg:gitlab/redhat/bacula
+  - pkg:rpm/fedora/bacula
+  - pkg:rpm/opensuse/bacula
+  - pkg:sourceforge/bacula

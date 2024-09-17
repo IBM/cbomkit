@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:glance_project:glance:*:*:*:*:*:-:*:*
+  - cpe:2.3:a:glance_project:glance:-:*:*:*:*:-:*:*
+  - cpe:2.3:a:glance_project:glance:0.1.12:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:glance_project:glance:0.2.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:glance_project:glance:0.2.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:glance_project:glance:0.2.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:glance_project:glance:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:glance_project:glance:0.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:glance_project:glance:0.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:glance_project:glance:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:glance_project:glance:2.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:glance_project:glance:2014-06-27:*:*:*:*:-:*:*
+  - cpe:2.3:a:glance_project:glance:3.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:glance_project:glance:3.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:glance_project:glance:3.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:glance_project:glance:3.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:glance_project:glance:3.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:glance_project:glance:3.0.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:glance_project:glance:3.0.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:glance_project:glance:3.0.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:glance_project:glance:3.0.8:*:*:*:*:node.js:*:*

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:thank_me_later_project:thank_me_later:3.3.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:thank_me_later_project:thank_me_later:-:*:*:*:*:wordpress:*:*

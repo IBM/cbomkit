@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-horde-queue
+  - pkg:deb/ubuntu/php-horde-queue
+  - pkg:github/horde/queue
+  - pkg:rpm/fedora/php-horde-horde-queue
+  - pkg:rpm/opensuse/php-horde-horde-queue

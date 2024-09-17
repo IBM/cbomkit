@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.0.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.0.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.0.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.1.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.1.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.1.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.1.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.1.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.1.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.1.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.3.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.3.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.3.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.3.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.3.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.3.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:adamvr-geoip-lite_project:adamvr-geoip-lite:1.3.8:*:*:*:*:node.js:*:*

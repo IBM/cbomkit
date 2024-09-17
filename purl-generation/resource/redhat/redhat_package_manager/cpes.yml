@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:redhat:redhat_package_manager:4.0.2-71:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:redhat_package_manager:4.0.2-72:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:redhat_package_manager:4.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:redhat_package_manager:4.0.4:*:*:*:*:*:*:*

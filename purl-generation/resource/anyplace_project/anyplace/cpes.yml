@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:anyplace_project:anyplace:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:anyplace_project:anyplace:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:anyplace_project:anyplace:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:anyplace_project:anyplace:2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:anyplace_project:anyplace:3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:anyplace_project:anyplace:3.0.1:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anyplace_project:anyplace:3.0.2:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anyplace_project:anyplace:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:anyplace_project:anyplace:3.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:anyplace_project:anyplace:3.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:anyplace_project:anyplace:3.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:anyplace_project:anyplace:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:anyplace_project:anyplace:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:anyplace_project:anyplace:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:anyplace_project:anyplace:3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:anyplace_project:anyplace:3.4:*:*:*:*:*:*:*

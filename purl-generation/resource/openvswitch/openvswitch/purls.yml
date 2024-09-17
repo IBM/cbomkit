@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/devzero2000/openvswitch
+  - pkg:deb/debian/openvswitch
+  - pkg:deb/ubuntu/openvswitch
+  - pkg:docker/openvswitch/ovs
+  - pkg:github/openvswitch/ovs
+  - pkg:rpm/fedora/openvswitch
+  - pkg:rpm/opensuse/openvswitch

@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/easymon
+  - pkg:github/basecamp/easymon

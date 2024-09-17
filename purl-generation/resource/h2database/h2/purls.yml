@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/h2database
+  - pkg:deb/ubuntu/h2database
+  - pkg:github/h2database/h2database
+  - pkg:maven/com.h2database/h2
+  - pkg:rpm/opensuse/h2database

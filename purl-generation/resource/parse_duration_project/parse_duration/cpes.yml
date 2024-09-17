@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:parse_duration_project:parse_duration:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:parse_duration_project:parse_duration:1.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:parse_duration_project:parse_duration:1.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:parse_duration_project:parse_duration:1.0.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:parse_duration_project:parse_duration:1.0.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:parse_duration_project:parse_duration:2.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:parse_duration_project:parse_duration:2.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:parse_duration_project:parse_duration:2.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:parse_duration_project:parse_duration:2.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:parse_duration_project:parse_duration:-:*:*:*:*:rust:*:*

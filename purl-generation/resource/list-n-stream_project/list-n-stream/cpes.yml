@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:list-n-stream_project:list-n-stream:0.0.10:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:list-n-stream_project:list-n-stream:0.0.11:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:list-n-stream_project:list-n-stream:0.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:list-n-stream_project:list-n-stream:0.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:list-n-stream_project:list-n-stream:0.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:list-n-stream_project:list-n-stream:0.0.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:list-n-stream_project:list-n-stream:0.0.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:list-n-stream_project:list-n-stream:0.0.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:list-n-stream_project:list-n-stream:0.0.9:*:*:*:*:node.js:*:*

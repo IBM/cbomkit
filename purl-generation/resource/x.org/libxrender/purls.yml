@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libxrender
+  - pkg:deb/ubuntu/libxrender
+  - pkg:github/freedesktop/xorg-libxrender
+  - pkg:github/neverware-mirrors/libxrender
+  - pkg:rpm/centos/libxrender
+  - pkg:rpm/fedora/libxrender
+  - pkg:rpm/opensuse/libxrender

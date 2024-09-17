@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/golang-github-go-ldap-ldap
+  - pkg:deb/debian/golang-gopkg-ldap.v3
+  - pkg:deb/ubuntu/golang-github-go-ldap-ldap
+  - pkg:deb/ubuntu/golang-gopkg-ldap.v3
+  - pkg:github/go-ldap/ldap
+  - pkg:rpm/fedora/golang-github-ldap

@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:gnome:eye_of_gnome:3.16.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:eye_of_gnome:3.17.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:eye_of_gnome:3.17.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:eye_of_gnome:3.17.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:eye_of_gnome:3.17.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:eye_of_gnome:3.17.91:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:eye_of_gnome:3.17.92:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:eye_of_gnome:3.18.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:eye_of_gnome:3.18.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:eye_of_gnome:3.18.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:eye_of_gnome:3.19.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:eye_of_gnome:3.19.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:eye_of_gnome:3.19.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:eye_of_gnome:3.19.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:eye_of_gnome:3.19.90:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:eye_of_gnome:3.19.91:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:eye_of_gnome:3.19.92:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:eye_of_gnome:3.20.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:eye_of_gnome:3.20.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:eye_of_gnome:3.20.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:eye_of_gnome:3.20.3:*:*:*:*:*:*:*

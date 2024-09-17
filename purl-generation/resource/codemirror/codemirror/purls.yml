@@ -1,0 +1,10 @@
+purls:
+  - pkg:bitbucket/skb_/codemirror
+  - pkg:deb/debian/codemirror-js
+  - pkg:deb/ubuntu/codemirror-js
+  - pkg:github/codemirror/codemirror
+  - pkg:maven/org.webjars.npm/codemirror
+  - pkg:npm/codemirror
+  - pkg:nuget/CodeMirror
+  - pkg:rpm/fedora/nodejs-codemirror
+  - pkg:sourceforge/codemirror.mirror

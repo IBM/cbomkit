@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/ankane/pghero
+  - pkg:gem/pghero
+  - pkg:github/ankane/pghero

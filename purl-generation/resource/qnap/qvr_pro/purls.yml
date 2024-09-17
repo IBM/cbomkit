@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/oblogic7/pyqvrpro
+  - pkg:pypi/pyqvrpro

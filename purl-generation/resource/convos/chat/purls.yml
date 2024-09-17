@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/convos/convos
+  - pkg:github/convos-chat/convos

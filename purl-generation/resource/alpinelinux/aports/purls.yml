@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/alpinelinux/aports
+  - pkg:gitlab/alpine/aports

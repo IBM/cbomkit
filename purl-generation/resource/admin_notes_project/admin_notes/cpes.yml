@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:admin_notes_project:admin_notes:1.0:*:*:*:*:mybb:*:*
+  - cpe:2.3:a:admin_notes_project:admin_notes:1.1:*:*:*:*:mybb:*:*

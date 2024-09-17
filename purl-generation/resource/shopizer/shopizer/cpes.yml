@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:shopizer:shopizer:1.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.16.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.17.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:shopizer:shopizer:2.9.0:*:*:*:*:*:*:*

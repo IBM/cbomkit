@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:smallpdf:json-pointer:0.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:smallpdf:json-pointer:0.0.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:smallpdf:json-pointer:0.0.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:smallpdf:json-pointer:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:smallpdf:json-pointer:0.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:smallpdf:json-pointer:0.2.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:smallpdf:json-pointer:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:smallpdf:json-pointer:0.3.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:smallpdf:json-pointer:0.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:smallpdf:json-pointer:0.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:smallpdf:json-pointer:0.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:smallpdf:json-pointer:0.6.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:smallpdf:json-pointer:-:*:*:*:*:node.js:*:*

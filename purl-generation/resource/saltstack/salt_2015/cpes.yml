@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:saltstack:salt_2015:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:saltstack:salt_2015:5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:saltstack:salt_2015:5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:saltstack:salt_2015:5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:saltstack:salt_2015:5.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:saltstack:salt_2015:5.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:saltstack:salt_2015:8.0:*:*:*:*:*:*:*

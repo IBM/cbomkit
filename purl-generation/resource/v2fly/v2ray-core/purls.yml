@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/golang-v2ray-core
+  - pkg:deb/ubuntu/golang-v2ray-core
+  - pkg:github/v2fly/v2ray-core
+  - pkg:rpm/opensusee/v2ray-core

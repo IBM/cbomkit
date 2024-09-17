@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ofiwg/librdmacm
+  - pkg:rpm/opensuse/librdmacm
+  - pkg:rpm/opensuse/librdmacm1

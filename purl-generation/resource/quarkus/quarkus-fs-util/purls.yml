@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/quarkusio/quarkus-fs-util
+  - pkg:maven/io.quarkus/quarkus-fs-util

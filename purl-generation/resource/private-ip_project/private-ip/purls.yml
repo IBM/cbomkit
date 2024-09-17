@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/frenchbread/private-ip
+  - pkg:npm/private-ip

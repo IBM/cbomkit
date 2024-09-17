@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wpsocket:n5_upload_form:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wpsocket:n5_upload_form:*:*:*:*:*:wordpress:*:*

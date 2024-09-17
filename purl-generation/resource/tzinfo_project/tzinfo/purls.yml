@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-tzinfo
+  - pkg:deb/ubuntu/ruby-tzinfo
+  - pkg:gem/tzinfo
+  - pkg:github/tzinfo/tzinfo
+  - pkg:rpm/fedora/rubygem-tzinfo
+  - pkg:rpm/opensuse/rubygem-tzinfo

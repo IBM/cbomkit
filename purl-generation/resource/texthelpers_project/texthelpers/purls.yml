@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/text-helpers
+  - pkg:github/ahorner/text-helpers

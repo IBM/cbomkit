@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:latexdraw_project:latexdraw:3.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:latexdraw_project:latexdraw:3.0.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:latexdraw_project:latexdraw:3.0.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:latexdraw_project:latexdraw:3.0.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:latexdraw_project:latexdraw:3.0.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:latexdraw_project:latexdraw:3.0.0:alpha5:*:*:*:*:*:*
+  - cpe:2.3:a:latexdraw_project:latexdraw:3.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:latexdraw_project:latexdraw:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:latexdraw_project:latexdraw:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:latexdraw_project:latexdraw:3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:latexdraw_project:latexdraw:3.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:latexdraw_project:latexdraw:3.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:latexdraw_project:latexdraw:3.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:latexdraw_project:latexdraw:3.3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:latexdraw_project:latexdraw:3.3.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:latexdraw_project:latexdraw:3.3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:latexdraw_project:latexdraw:3.3.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:latexdraw_project:latexdraw:3.3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:latexdraw_project:latexdraw:3.3.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:latexdraw_project:latexdraw:4.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:latexdraw_project:latexdraw:4.0:beta2:*:*:*:*:*:*

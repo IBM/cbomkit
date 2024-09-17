@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/gnome-screensaver
+  - pkg:deb/ubuntu/gnome-screensaver
+  - pkg:github/gooroom/gnome-screensaver
+  - pkg:gitlab/kalilinux/gnome-screensaver
+  - pkg:rpm/fedora/gnome-screensaver
+  - pkg:rpm/opensuse/gnome-screensaver

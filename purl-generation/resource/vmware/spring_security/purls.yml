@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/spring-projects/spring-security
+  - pkg:maven/org.springframework.security/spring-security-core

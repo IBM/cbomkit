@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:kismet:kismet:2004-02_r1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismet:kismet:2004-04_r1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismet:kismet:2004-04_r1a:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismet:kismet:2004-10_r1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismet:kismet:2005-01_r1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismet:kismet:2005-04_r1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismet:kismet:2005-06_r1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismet:kismet:2005-07_bsd:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismet:kismet:2005-07_r1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismet:kismet:2005-07_r1a:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismet:kismet:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismet:kismet:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismet:kismet:2.4.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismet:kismet:2.4.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismet:kismet:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismet:kismet:2.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismet:kismet:2.8.0a:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismet:kismet:2.8.1:*:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/qbittorrent
+  - pkg:deb/ubuntu/qbittorrent
+  - pkg:github/qbittorrent/qbittorrent
+  - pkg:rpm/fedora/qbittorrent
+  - pkg:rpm/opensuse/qbittorrent
+  - pkg:sourceforge/qbittorrent

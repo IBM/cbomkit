@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:gurux:device_language_message_specification_director:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gurux:device_language_message_specification_director:8.0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gurux:device_language_message_specification_director:8.2.2002.1201:*:*:*:*:*:*:*
+  - cpe:2.3:a:gurux:device_language_message_specification_director:8.5.1803.0601:*:*:*:*:*:*:*
+  - cpe:2.3:a:gurux:device_language_message_specification_director:8.5.1905.1301:*:*:*:*:*:*:*

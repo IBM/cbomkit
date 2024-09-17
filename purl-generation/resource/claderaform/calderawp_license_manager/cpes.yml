@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:claderaform:calderawp_license_manager:1.2.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:claderaform:calderawp_license_manager:-:*:*:*:*:wordpress:*:*

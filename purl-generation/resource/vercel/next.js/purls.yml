@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/vercel/next.js
+  - pkg:sourceforge/next-js.mirror

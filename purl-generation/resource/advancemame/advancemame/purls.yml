@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/amadvance/advancemame
+  - pkg:rpm/opensuse/advancemame
+  - pkg:sourceforge/advancemame

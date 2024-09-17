@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:kdcproxy_project:kdcproxy:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kdcproxy_project:kdcproxy:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kdcproxy_project:kdcproxy:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kdcproxy_project:kdcproxy:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kdcproxy_project:kdcproxy:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:kdcproxy_project:kdcproxy:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kdcproxy_project:kdcproxy:0.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kdcproxy_project:kdcproxy:0.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:kdcproxy_project:kdcproxy:0.4:*:*:*:*:*:*:*

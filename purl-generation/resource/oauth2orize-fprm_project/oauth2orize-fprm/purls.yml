@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jaredhanson/oauth2orize-fprm
+  - pkg:npm/oauth2orize-fprm

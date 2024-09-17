@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/igniterealtime/openfire
+  - pkg:rpm/opensuse/openfire

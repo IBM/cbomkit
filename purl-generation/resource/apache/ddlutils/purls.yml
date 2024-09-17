@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/ddlutils
+  - pkg:github/apache/ddlutils
+  - pkg:maven/org.apache.ddlutils/ddlutils

@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/adaptivepayments-sdk-dotnet
+  - pkg:github/adaptivepayments-sdk-java
+  - pkg:github/paypal/adaptivepayments-sdk-php
+  - pkg:nuget/PayPalAdaptivePaymentsSDK

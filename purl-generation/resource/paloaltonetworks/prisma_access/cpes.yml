@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:paloaltonetworks:prisma_access:2.1:*:*:*:innovation:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:2.1:*:*:*:preferred:*:*:*
+  - cpe:2.3:a:paloaltonetworks:prisma_access:2.2:*:*:*:preferred:*:*:*

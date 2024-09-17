@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/hunterhacker/jdom
+  - pkg:maven/org.jdom/jdom2

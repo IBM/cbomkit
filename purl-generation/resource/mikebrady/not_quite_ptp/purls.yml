@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mikebrady/nqptp
+  - pkg:rpm/opensuse/nqptp

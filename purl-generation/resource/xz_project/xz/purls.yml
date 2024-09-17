@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/golang-github-ulikunitz-xz
+  - pkg:deb/ubuntu/golang-github-ulikunitz-xz
+  - pkg:github/ulikunitz/xz
+  - pkg:rpm/fedora/golang-github-ulikunitz-xz

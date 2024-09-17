@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/symfony/symfony
+  - pkg:github/symfony/symfony
+  - pkg:sourceforge/symfony.mirror

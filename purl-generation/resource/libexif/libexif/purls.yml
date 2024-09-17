@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/libexif
+  - pkg:deb/ubuntu/libexif
+  - pkg:github/libexif/libexif
+  - pkg:gitlab/redhat/libexif
+  - pkg:gnome/libexif
+  - pkg:golang/github.com/libexif/libexif
+  - pkg:rpm/fedora/libexif
+  - pkg:rpm/opensuse/libexif
+  - pkg:sourceforge/libexif

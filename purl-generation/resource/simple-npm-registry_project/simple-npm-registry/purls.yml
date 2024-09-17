@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/overflow636/simple-npm-registry
+  - pkg:npm/simple-npm-registry

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:redhat:openshift_builder:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:openshift_builder:2021-01-26:*:*:*:*:*:*:*

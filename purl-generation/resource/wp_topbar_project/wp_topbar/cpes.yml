@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wp_topbar_project:wp_topbar:5.36:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_topbar_project:wp_topbar:*:*:*:*:*:wordpress:*:*

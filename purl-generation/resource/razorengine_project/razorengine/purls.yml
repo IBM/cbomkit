@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/antaris/razorengine
+  - pkg:nuget/RazorEngine

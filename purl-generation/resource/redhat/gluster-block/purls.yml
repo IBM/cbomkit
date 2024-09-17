@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/gluster/gluster-block
+  - pkg:rpm/fedora/gluster-block
+  - pkg:rpm/opensuse/gluster-block

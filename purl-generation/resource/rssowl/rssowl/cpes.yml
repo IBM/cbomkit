@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:rssowl:rssowl:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:rssowl:rssowl:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rssowl:rssowl:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rssowl:rssowl:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:rssowl:rssowl:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:rssowl:rssowl:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:rssowl:rssowl:2.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:rssowl:rssowl:2.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:rssowl:rssowl:2.0:milestone5a:*:*:*:*:*:*
+  - cpe:2.3:a:rssowl:rssowl:2.0:milestone6:*:*:*:*:*:*
+  - cpe:2.3:a:rssowl:rssowl:2.0:milestone7:*:*:*:*:*:*
+  - cpe:2.3:a:rssowl:rssowl:2.0:milestone8:*:*:*:*:*:*
+  - cpe:2.3:a:rssowl:rssowl:2.0:milestone8a:*:*:*:*:*:*
+  - cpe:2.3:a:rssowl:rssowl:2.0:milestone9:*:*:*:*:*:*
+  - cpe:2.3:a:rssowl:rssowl:2.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:rssowl:rssowl:2.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:rssowl:rssowl:2.0:rc3:*:*:*:*:*:*

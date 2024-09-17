@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/gnome/clutter
+  - pkg:gitlab/redhat/clutter
+  - pkg:rpm/centos/clutter
+  - pkg:rpm/fedora/clutter
+  - pkg:rpm/opensuse/clutter

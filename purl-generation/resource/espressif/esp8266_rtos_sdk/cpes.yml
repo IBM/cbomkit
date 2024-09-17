@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:espressif:esp8266_rtos_sdk:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_rtos_sdk:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_rtos_sdk:1.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_rtos_sdk:2.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_rtos_sdk:2.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_rtos_sdk:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_rtos_sdk:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_rtos_sdk:3.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_rtos_sdk:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_rtos_sdk:3.0:dev:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_rtos_sdk:3.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_rtos_sdk:3.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_rtos_sdk:3.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_rtos_sdk:3.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_rtos_sdk:3.1:dev:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_rtos_sdk:3.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_rtos_sdk:3.2:-:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_rtos_sdk:3.2:dev:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_rtos_sdk:3.3:-:*:*:*:*:*:*
+  - cpe:2.3:a:espressif:esp8266_rtos_sdk:3.3:rc1:*:*:*:*:*:*

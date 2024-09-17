@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libcereal
+  - pkg:deb/ubuntu/libcereal
+  - pkg:github/uscilab/cereal
+  - pkg:nuget/cereal
+  - pkg:rpm/fedora/cereal
+  - pkg:rpm/opensuse/cereal

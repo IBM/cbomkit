@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/libcgic
+  - pkg:deb/ubuntu/libcgic
+  - pkg:github/boutell/cgic
+  - pkg:rpm/opensuse/libcgic

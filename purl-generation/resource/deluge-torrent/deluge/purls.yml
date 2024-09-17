@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/lin-delugee/deluge
+  - pkg:deb/debian/deluge
+  - pkg:deb/ubuntu/deluge
+  - pkg:github/deluge-torrent/deluge
+  - pkg:pypi/deluge
+  - pkg:rpm/fedora/deluge
+  - pkg:rpm/opensuse/deluge

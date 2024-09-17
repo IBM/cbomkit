@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/remarkjs/remark-html
+  - pkg:maven/org.webjars.npm/remark-html
+  - pkg:npm/remark-html

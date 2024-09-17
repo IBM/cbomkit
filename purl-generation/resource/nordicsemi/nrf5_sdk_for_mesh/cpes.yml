@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:nordicsemi:nrf5_sdk_for_mesh:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nordicsemi:nrf5_sdk_for_mesh:5.0:*:*:*:*:*:*:*

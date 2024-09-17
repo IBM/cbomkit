@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/catdoc
+  - pkg:deb/ubuntu/catdoc
+  - pkg:github/petewarden/catdoc
+  - pkg:github/recursive/catdoc
+  - pkg:github/tuttinator/catdoc
+  - pkg:github/vbwagner/catdoc
+  - pkg:rpm/fedora/catdoc
+  - pkg:rpm/opensuse/catdoc

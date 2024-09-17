@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ruby-redis-store
+  - pkg:deb/ubuntu/ruby-redis-store
+  - pkg:gem/redis-store
+  - pkg:github/redis-store/redis-store
+  - pkg:rpm/opensuse/rubygem-redis-store

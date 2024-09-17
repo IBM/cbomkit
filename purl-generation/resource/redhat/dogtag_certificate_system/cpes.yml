@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:redhat:dogtag_certificate_system:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:dogtag_certificate_system:10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:dogtag_certificate_system:9.0:*:*:*:*:*:*:*

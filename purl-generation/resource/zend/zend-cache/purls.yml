@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/laminas/laminas-cache
+  - pkg:github/zendframework/zend-cache
+  - pkg:rpm/fedora/php-laminas-cache

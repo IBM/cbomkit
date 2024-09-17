@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/reportbug-ng
+  - pkg:github/venthur/reportbug-ng

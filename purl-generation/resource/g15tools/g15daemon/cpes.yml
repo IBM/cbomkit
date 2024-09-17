@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:g15tools:g15daemon:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:g15tools:g15daemon:1.1-02:*:*:*:*:*:*:*
+  - cpe:2.3:a:g15tools:g15daemon:1.1-2:*:*:*:*:*:*:*
+  - cpe:2.3:a:g15tools:g15daemon:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:g15tools:g15daemon:1.2-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:g15tools:g15daemon:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:g15tools:g15daemon:1.2.1-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:g15tools:g15daemon:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:g15tools:g15daemon:1.2.2-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:g15tools:g15daemon:1.2.3-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:g15tools:g15daemon:1.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:g15tools:g15daemon:1.2.4-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:g15tools:g15daemon:1.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:g15tools:g15daemon:1.2.5-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:g15tools:g15daemon:1.2.6a:*:*:*:*:*:*:*
+  - cpe:2.3:a:g15tools:g15daemon:1.2.6a-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:g15tools:g15daemon:1.2.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:g15tools:g15daemon:1.2.7-1:*:*:*:*:*:*:*
+  - cpe:2.3:a:g15tools:g15daemon:1.9.0:pre2.0:*:*:*:*:*:*
+  - cpe:2.3:a:g15tools:g15daemon:1.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:g15tools:g15daemon:1.9.2:*:*:*:*:*:*:*

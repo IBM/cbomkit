@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/ingenieux/awseb-deployment-plugin
+  - pkg:github/jenkinsci/awseb-deployment-plugin

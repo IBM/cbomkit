@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:apache:brooklyn:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:brooklyn:0.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:brooklyn:0.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:brooklyn:0.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:brooklyn:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:brooklyn:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:brooklyn:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:brooklyn:0.7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:brooklyn:0.7.0:m1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:brooklyn:0.7.0:m2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:brooklyn:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:brooklyn:0.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:brooklyn:1.0.0:*:*:*:*:*:*:*

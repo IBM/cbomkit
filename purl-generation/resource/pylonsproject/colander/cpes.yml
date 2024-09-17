@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:pylonsproject:colander:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pylonsproject:colander:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pylonsproject:colander:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pylonsproject:colander:1.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pylonsproject:colander:1.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pylonsproject:colander:1.3.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pylonsproject:colander:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pylonsproject:colander:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:pylonsproject:colander:1.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pylonsproject:colander:1.6:*:*:*:*:*:*:*

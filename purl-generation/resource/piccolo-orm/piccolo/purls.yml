@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/piccolo-orm/piccolo
+  - pkg:pypi/piccolo

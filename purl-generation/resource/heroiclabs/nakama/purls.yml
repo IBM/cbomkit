@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/playstackltd/survival-engine-nakama
+  - pkg:docker/heroiclabs/nakama
+  - pkg:github/heroiclabs/nakama
+  - pkg:rpm/opensuse/nakama

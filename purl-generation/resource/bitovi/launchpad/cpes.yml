@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:bitovi:launchpad:0.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.2.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.2.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.3.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.4.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.4.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.4.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.4.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.4.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.4.5:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.4.6:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.4.7:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.4.8:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.4.9:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.5.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.5.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.5.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.5.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.5.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.6.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.7.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.7.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.7.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.7.3:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.7.4:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:bitovi:launchpad:0.7.5:*:*:*:*:node.js:*:*

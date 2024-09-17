@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:stepmania:stepmania:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:stepmania:stepmania:5.0.12:-:*:*:*:*:*:*
+  - cpe:2.3:a:stepmania:stepmania:5.1.0:a:*:*:*:*:*:*
+  - cpe:2.3:a:stepmania:stepmania:5.1.0:a2:*:*:*:*:*:*
+  - cpe:2.3:a:stepmania:stepmania:5.1.0:a3:*:*:*:*:*:*
+  - cpe:2.3:a:stepmania:stepmania:5.1.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:stepmania:stepmania:5.1.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:stepmania:stepmania:5.1.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:stepmania:stepmania:5.1.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:stepmania:stepmania:5.1.0:beta2:*:*:*:*:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/rust-image
+  - pkg:github/image-rs/image
+  - pkg:rpm/fedora/rust-image
+  - pkg:rpm/opensuse/rust-image

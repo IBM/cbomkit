@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:_akindo_sushiro_co_ltd:sushiro:2.1.16.1:*:*:*:*:ios:*:*
+  - cpe:2.3:a:_akindo_sushiro_co_ltd:sushiro:*:*:*:*:*:android:*:*

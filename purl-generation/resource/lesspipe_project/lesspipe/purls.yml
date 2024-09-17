@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/wofr06/lesspipe
+  - 'pkg:rpm/opensuse/lesspipe '
+  - pkg:sourceforge/lesspipe

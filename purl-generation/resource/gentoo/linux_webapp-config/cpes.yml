@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:gentoo:linux_webapp-config:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gentoo:linux_webapp-config:1.10:r14:*:*:*:*:*:*

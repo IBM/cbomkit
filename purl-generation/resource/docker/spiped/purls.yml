@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/spiped
+  - pkg:deb/ubuntu/spiped
+  - pkg:docker/spiped
+  - pkg:github/tarsnap/spiped
+  - pkg:github/timwolla/docker-spiped
+  - pkg:rpm/opensuse/spiped

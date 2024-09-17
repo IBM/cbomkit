@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/stanleygu/libsbml
+  - pkg:npm/libsbml

@@ -1,0 +1,26 @@
+cpes:
+  - cpe:2.3:a:teclib-edition:escalade:2.0.4:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.1.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.2.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.2.1:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.2.2:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.2.3:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.3.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.3.1:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.3.2:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.3.3:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.4.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.4.1:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.4.2:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.4.3:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.4.4:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.5.0:-:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.5.0:rc1:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.6.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.6.1:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.6.2:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.7.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.7.1:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.7.2:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.8.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:escalade:2.8.1:*:*:*:*:glpi:*:*

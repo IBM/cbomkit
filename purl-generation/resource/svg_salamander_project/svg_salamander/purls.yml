@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/blackears/svgsalamander
+  - pkg:maven/guru.nidi.com.kitfox/svgsalamander

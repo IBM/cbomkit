@@ -1,0 +1,9 @@
+purls:
+  - pkg:bitbucket/snakeyaml/snakeyaml
+  - pkg:deb/debian/snakeyaml
+  - pkg:deb/ubuntu/snakeyaml
+  - pkg:github/snakeyaml/snakeyaml
+  - pkg:gitlab/redhat/snakeyaml
+  - pkg:maven/org.yaml/snakeyaml
+  - pkg:rpm/fedora/snakeyaml
+  - pkg:rpm/opensuse/snakeyaml

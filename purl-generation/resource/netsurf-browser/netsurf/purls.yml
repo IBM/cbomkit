@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/netsurf
+  - pkg:deb/ubuntu/netsurf
+  - pkg:github/mmuman/netsurf
+  - pkg:github/netsurf-browser/netsurf
+  - pkg:github/netsurf-plan9/netsurf
+  - pkg:rpm/fedora/netsurf
+  - pkg:rpm/opensuse/netsurf

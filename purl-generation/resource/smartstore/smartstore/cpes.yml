@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:smartstore:smartstore:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:2.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:2.1.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:2.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:2.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:3.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:3.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:3.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:smartstore:smartstore:4.1.1:*:*:*:*:*:*:*

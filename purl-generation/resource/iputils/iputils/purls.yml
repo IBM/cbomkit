@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/iputils
+  - pkg:deb/ubuntu/iputils
+  - pkg:github/iputils/iputils
+  - pkg:gitlab/redhat/iputils
+  - pkg:rpm/fedora/iputils
+  - pkg:rpm/opensuse/iputils
+  - pkg:sourceforge/iputils

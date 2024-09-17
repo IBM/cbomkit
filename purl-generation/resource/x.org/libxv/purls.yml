@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libxv
+  - pkg:deb/ubuntu/libxv
+  - pkg:github/freedesktop/xorg-libxv
+  - pkg:rpm/centos/libxv
+  - pkg:rpm/fedora/libxv

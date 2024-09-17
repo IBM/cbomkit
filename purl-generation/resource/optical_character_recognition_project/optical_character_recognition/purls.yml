@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/ubuntu/gocr
+  - pkg:gem/gocr-ruby
+  - pkg:rpm/fedora/gocr
+  - pkg:rpm/opensuse/gocr
+  - pkg:sourceforge/gocr

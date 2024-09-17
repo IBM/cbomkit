@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-set-value
+  - pkg:deb/ubuntu/node-set-value
+  - pkg:github/jonschlinkert/set-value
+  - pkg:npm/set-value
+  - pkg:rpm/fedora/nodejs-set-value

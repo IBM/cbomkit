@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:saphp:saphplesson:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:saphp:saphplesson:2.0:*:*:*:*:*:*:*

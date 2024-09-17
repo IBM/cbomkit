@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/semantic-release/semantic-release
+  - pkg:npm/semantic-release

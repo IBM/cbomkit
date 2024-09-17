@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:crasm_project:crasm:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:crasm_project:crasm:1.8-3:*:*:*:*:*:*:*

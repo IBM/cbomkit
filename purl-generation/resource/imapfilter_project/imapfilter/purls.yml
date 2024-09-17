@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/imapfilter
+  - pkg:deb/ubuntu/imapfilter
+  - pkg:github/lefcha/imapfilter
+  - pkg:rpm/fedora/imapfilter
+  - pkg:rpm/opensuse/imapfilter

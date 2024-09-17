@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/mp3splt
+  - pkg:deb/ubuntu/mp3splt
+  - pkg:github/markjeee/libmp3splt
+  - pkg:sourceforge/mp3splt

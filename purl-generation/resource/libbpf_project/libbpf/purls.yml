@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libbpf
+  - pkg:deb/ubuntu/libbpf
+  - pkg:github/libbpf/libbpf
+  - pkg:gitlab/redhat/libbpf
+  - pkg:rpm/centos/libbpf
+  - pkg:rpm/fedora/libbpf
+  - pkg:rpm/opensuse/libbpf

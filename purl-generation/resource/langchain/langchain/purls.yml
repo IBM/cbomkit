@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/hwchase17/langchain
+  - pkg:npm/langchain
+  - pkg:pypi/langchain
+  - pkg:sourceforge/langchain.mirror

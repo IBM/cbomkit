@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:xmlquery_project:xmlquery:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmlquery_project:xmlquery:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmlquery_project:xmlquery:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmlquery_project:xmlquery:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmlquery_project:xmlquery:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmlquery_project:xmlquery:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmlquery_project:xmlquery:1.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmlquery_project:xmlquery:1.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmlquery_project:xmlquery:1.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:xmlquery_project:xmlquery:1.3.1:*:*:*:*:*:*:*

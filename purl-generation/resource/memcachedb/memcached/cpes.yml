@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:memcachedb:memcached:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:memcachedb:memcached:0.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:memcachedb:memcached:0.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:memcachedb:memcached:0.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:memcachedb:memcached:0.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:memcachedb:memcached:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:memcachedb:memcached:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:memcachedb:memcached:1.0.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:memcachedb:memcached:1.0.1:beta:*:*:*:*:*:*
+  - cpe:2.3:a:memcachedb:memcached:1.0.2:beta:*:*:*:*:*:*
+  - cpe:2.3:a:memcachedb:memcached:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:memcachedb:memcached:1.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:memcachedb:memcached:1.1.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:memcachedb:memcached:1.1.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:memcachedb:memcached:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:memcachedb:memcached:1.2.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:memcachedb:memcached:1.2.1:beta:*:*:*:*:*:*
+  - cpe:2.3:a:memcachedb:memcached:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:memcachedb:memcached:1.2.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:memcachedb:memcached:1.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:memcachedb:memcached:1.4.1:*:*:*:*:*:*:*

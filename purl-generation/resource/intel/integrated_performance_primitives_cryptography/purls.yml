@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/intel/ipp-crypto
+  - pkg:rpm/fedora/intel-ipp-crypto-mb

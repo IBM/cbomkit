@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/sqliteodbc
+  - pkg:deb/ubuntu/sqliteodbc
+  - pkg:github/Distrotech/sqliteodbc
+  - pkg:github/nomadsoar/sqliteodbc
+  - pkg:github/softace/sqliteodbc
+  - pkg:rpm/fedora/sqliteodbc
+  - pkg:rpm/opensuse/sqliteodbc

@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:apache_foundation:apache_cassandra:3.11:*:*:*:*:*:*:*

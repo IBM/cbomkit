@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:valtech:idp_test_clients:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:valtech:idp_test_clients:-:*:*:*:*:*:*:*

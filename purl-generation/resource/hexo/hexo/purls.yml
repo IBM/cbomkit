@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/hexojs/hexo
+  - pkg:maven/org.webjars.npm/hexo
+  - pkg:npm/hexo
+  - pkg:sourceforge/hexo.mirror

@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/valmy/edusec
+  - pkg:github/prajapatikaml/edusec
+  - pkg:github/rudrasoftech/edusec
+  - pkg:sourceforge/edusec

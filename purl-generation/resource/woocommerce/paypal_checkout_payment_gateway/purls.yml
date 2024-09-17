@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/woocommerce/woocommerce-gateway-paypal-express-checkout
+  - pkg:github/wpplugins/woocommerce-gateway-paypal-express-checkout

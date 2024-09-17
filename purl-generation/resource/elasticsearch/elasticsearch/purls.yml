@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/elastic/elasticsearch
+  - pkg:maven/org.elasticsearch/elasticsearch
+  - pkg:sourceforge/elasticsearch.mirror

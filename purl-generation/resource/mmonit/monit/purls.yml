@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/tildeslash/monit
+  - pkg:deb/debian/monit
+  - pkg:deb/ubuntu/monit
+  - pkg:github/arnaudsj/monit
+  - pkg:gnu/monit
+  - pkg:rpm/fedora/monit
+  - pkg:rpm/opensuse/monit

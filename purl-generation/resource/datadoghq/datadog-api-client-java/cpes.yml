@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:datadoghq:datadog-api-client-java:1.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:datadoghq:datadog-api-client-java:1.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:datadoghq:datadog-api-client-java:1.0.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:datadoghq:datadog-api-client-java:1.0.0:beta4:*:*:*:*:*:*
+  - cpe:2.3:a:datadoghq:datadog-api-client-java:1.0.0:beta5:*:*:*:*:*:*
+  - cpe:2.3:a:datadoghq:datadog-api-client-java:1.0.0:beta6:*:*:*:*:*:*
+  - cpe:2.3:a:datadoghq:datadog-api-client-java:1.0.0:beta7:*:*:*:*:*:*
+  - cpe:2.3:a:datadoghq:datadog-api-client-java:1.0.0:beta8:*:*:*:*:*:*

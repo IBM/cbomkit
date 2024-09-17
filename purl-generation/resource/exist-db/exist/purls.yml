@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/existdb/existdb
+  - pkg:github/exist-db/exist
+  - pkg:maven/org.exist-db/exist
+  - pkg:sourceforge/exist

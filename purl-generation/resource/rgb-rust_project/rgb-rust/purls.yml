@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-rgb
+  - pkg:deb/ubuntu/rust-rgb
+  - pkg:github/kornelski/rust-rgb
+  - pkg:rpm/fedora/rust-rgb
+  - pkg:rpm/opensuse/rust-rgb

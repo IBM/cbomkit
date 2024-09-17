@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:osisoft:pi_vision:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_vision:2017:*:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_vision:2017:-:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_vision:2017:r2:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_vision:2017:r2_sp1:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_vision:2019:*:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_vision:2020:*:*:*:*:*:*:*
+  - cpe:2.3:a:osisoft:pi_vision:2021:*:*:*:*:*:*:*

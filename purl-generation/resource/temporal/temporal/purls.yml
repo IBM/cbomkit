@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/temporalio/temporal
+  - pkg:golang/github.com/temporalio/temporal

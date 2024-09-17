@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ksh
+  - pkg:deb/ubuntu/ksh
+  - pkg:github/ksh2020/ksh
+  - pkg:gitlab/redhat/ksh
+  - pkg:rpm/centos/ksh
+  - pkg:rpm/fedora/ksh

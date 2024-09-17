@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/sickrage/sickrage
+  - pkg:pypi/sickrage

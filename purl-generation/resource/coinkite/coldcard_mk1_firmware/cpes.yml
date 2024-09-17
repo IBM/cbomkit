@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:o:coinkite:coldcard_mk1_firmware:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:coinkite:coldcard_mk1_firmware:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:o:coinkite:coldcard_mk1_firmware:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:coinkite:coldcard_mk1_firmware:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:o:coinkite:coldcard_mk1_firmware:2.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:o:coinkite:coldcard_mk1_firmware:2.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:o:coinkite:coldcard_mk1_firmware:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:coinkite:coldcard_mk1_firmware:2.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:coinkite:coldcard_mk1_firmware:2.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:o:coinkite:coldcard_mk1_firmware:2.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:o:coinkite:coldcard_mk1_firmware:2.1.4:*:*:*:*:*:*:*
+  - cpe:2.3:o:coinkite:coldcard_mk1_firmware:2.1.5:*:*:*:*:*:*:*
+  - cpe:2.3:o:coinkite:coldcard_mk1_firmware:2.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:o:coinkite:coldcard_mk1_firmware:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:o:coinkite:coldcard_mk1_firmware:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:o:coinkite:coldcard_mk1_firmware:3.0.2:*:*:*:*:*:*:*

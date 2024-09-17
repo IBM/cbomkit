@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:darkhttpd_project:darkhttpd:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:darkhttpd_project:darkhttpd:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:darkhttpd_project:darkhttpd:1.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:darkhttpd_project:darkhttpd:1.13-1:*:*:*:*:*:*:*

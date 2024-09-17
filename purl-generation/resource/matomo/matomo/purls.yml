@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/matomo-org/matomo
+  - pkg:rpm/opensuse/matomo

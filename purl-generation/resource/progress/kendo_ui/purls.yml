@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/telerik/kendo-ui-core
+  - pkg:maven/org.webjars.npm/kendo-ui-core
+  - pkg:npm/kendo-ui-core
+  - pkg:nuget/KendoUICore

@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/mrdoob/three.js
+  - pkg:golang/github.com/mrdoob/three.js
+  - pkg:maven/org.webjars.npm/three.js
+  - pkg:npm/three.js

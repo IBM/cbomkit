@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:nucleus_group:nucleus_cms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:nucleus_group:nucleus_cms:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:nucleus_group:nucleus_cms:3.0_1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nucleus_group:nucleus_cms:3.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:nucleus_group:nucleus_cms:3.0_rc:*:*:*:*:*:*:*
+  - cpe:2.3:a:nucleus_group:nucleus_cms:3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:nucleus_group:nucleus_cms:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:nucleus_group:nucleus_cms:3.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:nucleus_group:nucleus_cms:3.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:nucleus_group:nucleus_cms:3.23:*:*:*:*:*:*:*

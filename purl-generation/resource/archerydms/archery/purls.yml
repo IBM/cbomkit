@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/hhyo/archery
+  - pkg:github/hhyo/archery

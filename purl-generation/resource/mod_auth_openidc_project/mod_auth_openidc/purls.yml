@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/zmartzone/mod_auth_openidc
+  - pkg:rpm/centos/mod_auth_openidc
+  - pkg:rpm/fedora/mod_auth_openidc
+  - pkg:rpm/opensuse/mod_auth_openidc

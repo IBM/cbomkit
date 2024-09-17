@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/freelancephp/email-encoder-bundle
+  - pkg:github/ironikus/email-encoder-bundle
+  - pkg:github/wp-plugins/email-encoder-bundle

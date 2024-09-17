@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/includesecurity/safeurl-python
+  - pkg:pypi/safeurl-python

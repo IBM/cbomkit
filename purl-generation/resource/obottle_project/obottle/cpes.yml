@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:obottle_project:obottle:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:obottle_project:obottle:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:obottle_project:obottle:2.1:*:*:*:*:*:*:*

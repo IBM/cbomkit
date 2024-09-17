@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/config-rotator-plugin
+  - pkg:github/praqma/config-rotator-plugin

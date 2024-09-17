@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/commvault/cvpysdk
+  - pkg:pypi/cvpysdk

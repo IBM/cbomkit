@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/ubuntu/kvmtool
+  - pkg:github/kvmtool/kvmtool
+  - pkg:rpm/opensuse/kvmtool

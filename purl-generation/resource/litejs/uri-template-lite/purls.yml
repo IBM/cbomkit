@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/litejs/uri-template-lite
+  - pkg:npm/uri-template-lite

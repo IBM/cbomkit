@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:jenkins:repo:1.14.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:repo:1.15.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:repo:1.16.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:repo:-:*:*:*:*:jenkins:*:*

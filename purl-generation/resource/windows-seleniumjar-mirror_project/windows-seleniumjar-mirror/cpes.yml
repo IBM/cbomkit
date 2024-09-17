@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:windows-seleniumjar-mirror_project:windows-seleniumjar-mirror:2.52.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:windows-seleniumjar-mirror_project:windows-seleniumjar-mirror:2.52.1:*:*:*:*:node.js:*:*

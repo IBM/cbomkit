@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-markdown2
+  - pkg:deb/ubuntu/python-markdown2
+  - pkg:github/python-markdown/markdown
+  - pkg:github/trentm/python-markdown2
+  - pkg:rpm/fedora/python-markdown2
+  - pkg:rpm/opensuse/python-markdown2

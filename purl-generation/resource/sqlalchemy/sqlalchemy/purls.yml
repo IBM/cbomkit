@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/sqlalchemy
+  - pkg:deb/ubuntu/sqlalchemy
+  - pkg:github/sqlalchemy/sqlalchemy
+  - pkg:gitlab/redhat/python-sqlalchemy
+  - pkg:pypi/sqlalchemy
+  - pkg:rpm/fedora/python-sqlalchemy
+  - pkg:rpm/opensuse/python-sqlalchemy
+  - pkg:sourceforge/sqlalchemy

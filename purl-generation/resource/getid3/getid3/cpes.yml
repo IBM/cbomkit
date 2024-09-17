@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:getid3:getid3:1.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:1.9.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:1.9.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:1.9.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:1.9.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:1.9.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:1.9.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:1.9.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:1.9.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:1.9.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:1.9.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:1.9.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:1.9.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:1.9.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:1.9.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:1.9.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:1.9.4:b1:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:1.9.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:1.9.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:1.9.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:1.9.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:1.9.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:2.0.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:2.0.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:2.0.0:beta3:*:*:*:*:*:*
+  - cpe:2.3:a:getid3:getid3:2.0.0:beta4:*:*:*:*:*:*

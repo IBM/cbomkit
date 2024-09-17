@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:berocket:stockists_manager_for_woocommerce:1.0.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:berocket:stockists_manager_for_woocommerce:-:*:*:*:*:wordpress:*:*

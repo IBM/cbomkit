@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/rawiroaisen/node-ini-parser
+  - pkg:npm/ini-parser

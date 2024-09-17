@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/chartkick.js
+  - pkg:deb/ubuntu/chartkick.js
+  - pkg:github/ankane/chartkick.js
+  - pkg:npm/chartkick

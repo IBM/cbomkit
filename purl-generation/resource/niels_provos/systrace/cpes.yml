@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:niels_provos:systrace:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:niels_provos:systrace:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:niels_provos:systrace:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:niels_provos:systrace:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:niels_provos:systrace:1.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:niels_provos:systrace:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:niels_provos:systrace:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:niels_provos:systrace:1.6a:*:*:*:*:*:*:*
+  - cpe:2.3:a:niels_provos:systrace:1.6b:*:*:*:*:*:*:*
+  - cpe:2.3:a:niels_provos:systrace:1.6c:*:*:*:*:*:*:*
+  - cpe:2.3:a:niels_provos:systrace:1.6d:*:*:*:*:*:*:*

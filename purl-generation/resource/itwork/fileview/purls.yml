@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/itworkcenter/fileview
+  - pkg:npm/fileview

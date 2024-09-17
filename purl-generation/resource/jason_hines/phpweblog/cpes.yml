@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:jason_hines:phpweblog:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jason_hines:phpweblog:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:jason_hines:phpweblog:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:jason_hines:phpweblog:0.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:jason_hines:phpweblog:0.5.3:*:*:*:*:*:*:*

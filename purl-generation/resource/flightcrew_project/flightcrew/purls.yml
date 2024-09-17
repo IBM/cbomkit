@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/flightcrew
+  - pkg:deb/ubuntu/flightcrew
+  - pkg:github/sigil-ebook/flightcrew
+  - pkg:rpm/fedora/flightcrew

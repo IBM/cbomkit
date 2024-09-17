@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/fuse
+  - pkg:deb/ubuntu/fuse
+  - pkg:github/libfuse/libfuse
+  - pkg:gitlab/redhat/fuse
+  - pkg:rpm/centos/fuse
+  - pkg:rpm/fedora/fuse
+  - pkg:rpm/opensuse/fuse

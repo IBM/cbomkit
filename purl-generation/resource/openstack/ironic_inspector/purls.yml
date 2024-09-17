@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/ironic-inspector
+  - pkg:deb/ubuntu/ironic-inspector
+  - pkg:github/openstack/ironic-inspector
+  - pkg:pypi/ironic-inspector
+  - pkg:rpm/opensuse/openstack-ironic-inspector

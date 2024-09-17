@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:byobu:byobu:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:byobu:byobu:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:byobu:byobu:0.30.0:beta2:*:*:*:*:*:*

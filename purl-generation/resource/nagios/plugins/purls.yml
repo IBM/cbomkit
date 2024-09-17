@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/nagios-plugins/nagios-plugins
+  - pkg:rpm/fedora/nagios-plugins
+  - pkg:rpm/opensuse/nagios-plugins

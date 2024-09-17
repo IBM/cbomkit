@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jpeg-js/jpeg-js
+  - pkg:maven/org.webjars.npm/jpeg-js
+  - pkg:npm/jpeg-js

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/domharrington/node-gitlog
+  - pkg:npm/gitlog

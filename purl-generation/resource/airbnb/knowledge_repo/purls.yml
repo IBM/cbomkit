@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/ramdesh/knowledge-repo
+  - pkg:github/airbnb/knowledge-repo

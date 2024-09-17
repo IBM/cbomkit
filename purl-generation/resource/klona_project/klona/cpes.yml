@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:klona_project:klona:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:klona_project:klona:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:klona_project:klona:1.1.1:*:*:*:*:node.js:*:*

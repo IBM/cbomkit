@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:gnome:libgxps:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libgxps:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libgxps:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libgxps:0.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libgxps:0.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libgxps:0.2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libgxps:0.2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libgxps:0.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libgxps:0.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libgxps:0.3.0:*:*:*:*:*:*:*

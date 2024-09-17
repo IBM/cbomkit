@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:openrapid:rapidcms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openrapid:rapidcms:1.3.1:*:*:*:*:*:*:*

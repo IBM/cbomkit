@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/mailtrain/mailtrain
+  - pkg:github/mailtrain-org/mailtrain
+  - pkg:sourceforge/mailtrain.mirror

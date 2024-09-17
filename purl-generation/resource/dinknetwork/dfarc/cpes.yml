@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:dinknetwork:dfarc:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:dinknetwork:dfarc:3.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:dinknetwork:dfarc:3.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:dinknetwork:dfarc:3.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:dinknetwork:dfarc:3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dinknetwork:dfarc:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:dinknetwork:dfarc:3.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:dinknetwork:dfarc:3.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:dinknetwork:dfarc:3.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dinknetwork:dfarc:3.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:dinknetwork:dfarc:3.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:dinknetwork:dfarc:3.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:dinknetwork:dfarc:3.8.1:*:*:*:*:*:*:*

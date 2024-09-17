@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/emanuele-f/ntop
+  - pkg:github/lucab/ntop
+  - pkg:gitlab/kalilinux/ghidra

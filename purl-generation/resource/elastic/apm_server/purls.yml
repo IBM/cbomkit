@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/elastic/apm-server
+  - pkg:golang/github.com/elastic/apm-server

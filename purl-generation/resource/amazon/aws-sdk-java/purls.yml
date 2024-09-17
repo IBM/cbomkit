@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/aws/aws-sdk-java
+  - pkg:maven/software.amazon.awssdk/aws-sdk-java
+  - pkg:rpm/opensuse/aws-sdk-java

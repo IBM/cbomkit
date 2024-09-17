@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:teclib-edition:system_center_configuration_manager:1.0.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:system_center_configuration_manager:2.0.3:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:system_center_configuration_manager:2.0.4:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:system_center_configuration_manager:2.1.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:system_center_configuration_manager:2.1.1:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:system_center_configuration_manager:2.2.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:system_center_configuration_manager:2.2.1:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:system_center_configuration_manager:2.2.2:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:system_center_configuration_manager:2.3.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:system_center_configuration_manager:*:*:*:*:*:gpli:*:*

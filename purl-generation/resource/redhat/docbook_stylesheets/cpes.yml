@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:redhat:docbook_stylesheets:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:docbook_stylesheets:1.54.13:*:*:*:*:*:*:*

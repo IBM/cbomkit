@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:openscad:openscad:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:openscad:openscad:2011.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:openscad:openscad:2013.01:*:*:*:*:*:*:*
+  - cpe:2.3:a:openscad:openscad:2013.06:*:*:*:*:*:*:*
+  - cpe:2.3:a:openscad:openscad:2014.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:openscad:openscad:2015.03:*:*:*:*:*:*:*
+  - cpe:2.3:a:openscad:openscad:2019.05:*:*:*:*:*:*:*
+  - cpe:2.3:a:openscad:openscad:2020.12:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:openscad:openscad:2020.12:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:openscad:openscad:2020.12:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:openscad:openscad:2021.01:rc5:*:*:*:*:*:*
+  - cpe:2.3:a:openscad:openscad:2021.01:rc6:*:*:*:*:*:*
+  - cpe:2.3:a:openscad:openscad:2022-01-09:*:*:*:*:*:*:*
+  - cpe:2.3:a:openscad:openscad:2022-02-04:*:*:*:*:*:*:*

@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:colorlib:shapely:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:colorlib:shapely:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:colorlib:shapely:1.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:colorlib:shapely:1.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:colorlib:shapely:1.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:colorlib:shapely:1.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:colorlib:shapely:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:colorlib:shapely:1.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:colorlib:shapely:1.1.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:colorlib:shapely:1.1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:colorlib:shapely:1.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:colorlib:shapely:1.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:colorlib:shapely:1.2.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:colorlib:shapely:1.2.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:colorlib:shapely:1.2.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:colorlib:shapely:1.2.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:colorlib:shapely:1.2.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:colorlib:shapely:1.2.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:colorlib:shapely:1.2:*:*:*:*:wordpress:*:*

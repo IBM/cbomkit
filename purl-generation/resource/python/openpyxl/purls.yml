@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/openpyxl/openpyxl
+  - pkg:deb/debian/python-openpyxl
+  - pkg:deb/ubuntu/python-openpyxl
+  - pkg:pypi/openpyxl
+  - pkg:rpm/fedora/python-openpyxl
+  - pkg:rpm/opensuse/python-openpyxl

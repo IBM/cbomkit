@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/thephpleague/oauth2-server
+  - pkg:golang/github.com/thephpleague/oauth2-server

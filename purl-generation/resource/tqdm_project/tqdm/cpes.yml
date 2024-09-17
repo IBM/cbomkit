@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:tqdm_project:tqdm:4.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:tqdm_project:tqdm:4.4.1:*:*:*:*:*:*:*

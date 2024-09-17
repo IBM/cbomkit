@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/cap-strap
+  - pkg:github/substantial/cap-strap

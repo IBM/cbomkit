@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:isc:dhcp_client:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:dhcp_client:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:dhcp_client:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:isc:dhcp_client:3.0b1:*:*:*:*:*:*:*

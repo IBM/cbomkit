@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libmspack
+  - pkg:deb/ubuntu/libmspack
+  - pkg:gem/libmspack
+  - pkg:github/kyz/libmspack
+  - pkg:rpm/centos/libmspack
+  - pkg:rpm/fedora/libmspack
+  - pkg:rpm/opensuse/libmspack

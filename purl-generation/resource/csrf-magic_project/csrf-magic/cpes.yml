@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:csrf-magic_project:csrf-magic:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:csrf-magic_project:csrf-magic:1.0.4:*:*:*:*:*:*:*

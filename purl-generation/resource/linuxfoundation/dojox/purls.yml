@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/dojo/dojox
+  - pkg:maven/org.webjars.npm/dojox
+  - pkg:npm/dojox

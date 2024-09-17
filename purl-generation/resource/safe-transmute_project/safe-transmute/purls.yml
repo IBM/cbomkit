@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-safe-transmute
+  - pkg:deb/ubuntu/rust-safe-transmute
+  - pkg:github/nabijaczleweli/safe-transmute-rs
+  - pkg:rpm/fedora/rust-safe-transmute
+  - pkg:rpm/opensuse/rust-safe-transmute

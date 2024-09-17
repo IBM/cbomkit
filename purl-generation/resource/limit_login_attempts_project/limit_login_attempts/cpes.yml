@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:limit_login_attempts_project:limit_login_attempts:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:limit_login_attempts_project:limit_login_attempts:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:limit_login_attempts_project:limit_login_attempts:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:limit_login_attempts_project:limit_login_attempts:1.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:limit_login_attempts_project:limit_login_attempts:1.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:limit_login_attempts_project:limit_login_attempts:1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:limit_login_attempts_project:limit_login_attempts:1.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:limit_login_attempts_project:limit_login_attempts:1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:limit_login_attempts_project:limit_login_attempts:1.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:limit_login_attempts_project:limit_login_attempts:1.5.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:limit_login_attempts_project:limit_login_attempts:1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:limit_login_attempts_project:limit_login_attempts:1.6.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:limit_login_attempts_project:limit_login_attempts:1.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:limit_login_attempts_project:limit_login_attempts:1.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:limit_login_attempts_project:limit_login_attempts:1.7.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:limit_login_attempts_project:limit_login_attempts:1.7.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:limit_login_attempts_project:limit_login_attempts:1.7.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:limit_login_attempts_project:limit_login_attempts:*:*:*:*:*:wordpress:*:*

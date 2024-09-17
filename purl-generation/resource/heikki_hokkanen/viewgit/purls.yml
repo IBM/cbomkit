@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mohamedhk2/viewgit
+  - pkg:github/tonybaldwin/viewgit
+  - pkg:sourceforge/viewgit

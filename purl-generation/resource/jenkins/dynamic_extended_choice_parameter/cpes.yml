@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:jenkins:dynamic_extended_choice_parameter:1.0.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dynamic_extended_choice_parameter:1.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:dynamic_extended_choice_parameter:-:*:*:*:*:jenkins:*:*

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:apple:pykerberos:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:pykerberos:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:pykerberos:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:pykerberos:1.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:apple:pykerberos:1.3.0:*:*:*:*:*:*:*

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/poco
+  - pkg:deb/ubuntu/poco
+  - pkg:github/pocoproject/poco
+  - pkg:maven/org.pocoproject.twilio/twilio-poco
+  - pkg:rpm/fedora/poco
+  - pkg:sourceforge/poco
+  - pkg:sourceforge/poco.mirror

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:mattermost:mattermost_plugins:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mattermost:mattermost_plugins:5.13.0:*:*:*:*:*:*:*

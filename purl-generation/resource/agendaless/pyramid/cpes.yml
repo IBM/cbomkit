@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:agendaless:pyramid:2.0.1:*:*:*:*:python:*:*
+  - cpe:2.3:a:agendaless:pyramid:2.0:alpha0:*:*:*:python:*:*
+  - cpe:2.3:a:agendaless:pyramid:2.0:beta0:*:*:*:python:*:*
+  - cpe:2.3:a:agendaless:pyramid:2.0:beta1:*:*:*:python:*:*
+  - cpe:2.3:a:agendaless:pyramid:2.0:-:*:*:*:python:*:*
+  - cpe:2.3:a:agendaless:pyramid:*:*:*:*:*:python:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/nxlog/nxlog-ce
+  - pkg:github/lrifei/nxlog-ce
+  - pkg:gitlab/nxlog-public/nxlog-ce

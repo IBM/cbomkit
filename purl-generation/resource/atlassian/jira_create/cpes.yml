@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:atlassian:jira_create:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:atlassian:jira_create:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:atlassian:jira_create:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:atlassian:jira_create:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:atlassian:jira_create:2.0.1:*:*:*:*:*:*:*

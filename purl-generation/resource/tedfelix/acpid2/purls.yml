@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/salewski/acpid2
+  - pkg:github/tedfelix/acpid2
+  - pkg:sourceforge/acpid2

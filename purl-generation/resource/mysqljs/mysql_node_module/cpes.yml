@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:mysqljs:mysql_node_module:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mysqljs:mysql_node_module:2.0.0:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:mysqljs:mysql_node_module:2.0.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:mysqljs:mysql_node_module:2.0.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:mysqljs:mysql_node_module:2.0.0:alpha4:*:*:*:*:*:*
+  - cpe:2.3:a:mysqljs:mysql_node_module:2.0.0:alpha7:*:*:*:*:*:*
+  - cpe:2.3:a:mysqljs:mysql_node_module:2.0.0:preview:*:*:*:*:*:*

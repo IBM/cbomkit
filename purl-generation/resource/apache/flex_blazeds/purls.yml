@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/flex
+  - pkg:github/apache/flex-blazeds
+  - pkg:maven/org.apache.flex.blazeds/flex-messaging-core

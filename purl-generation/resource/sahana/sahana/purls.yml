@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/sahana/eden
+  - pkg:github/sahana/eden
+  - pkg:sourceforge/sahana

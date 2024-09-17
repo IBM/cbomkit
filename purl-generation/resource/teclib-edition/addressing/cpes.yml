@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:teclib-edition:addressing:2.0.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:addressing:2.0.1:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:addressing:2.3.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:addressing:2.5.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:addressing:2.6.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:addressing:2.6.1:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:addressing:2.7.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:addressing:2.7.1:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:addressing:2.8.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:addressing:2.9.0:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:addressing:2.9.1:*:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:addressing:3.0.0:rc1:*:*:*:glpi:*:*
+  - cpe:2.3:a:teclib-edition:addressing:3.0.0:rc2:*:*:*:glpi:*:*

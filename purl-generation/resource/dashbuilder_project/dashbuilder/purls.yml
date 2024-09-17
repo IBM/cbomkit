@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dashbuilder/dashbuilder
+  - pkg:maven/org.dashbuilder/dashbuilder-dataset-core

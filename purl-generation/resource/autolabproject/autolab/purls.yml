@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/15-411/autolab
+  - pkg:github/autolab/autolab
+  - pkg:github/uncc-autolab/autolab

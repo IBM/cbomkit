@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/phpcollab/phpcollab
+  - pkg:github/phpcollab/phpcollab

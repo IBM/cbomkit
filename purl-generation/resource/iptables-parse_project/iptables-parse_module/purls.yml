@@ -1,0 +1,7 @@
+purls:
+  - pkg:cpan/iptables-parse
+  - pkg:deb/debian/libiptables-parse-perl
+  - pkg:deb/ubuntu/libiptables-parse-perl
+  - pkg:github/mrash/iptables-parse
+  - pkg:rpm/fedora/perl-iptables-parse
+  - pkg:rpm/opensuse/perl-iptables-parse

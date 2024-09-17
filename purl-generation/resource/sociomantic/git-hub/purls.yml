@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/git-hub
+  - pkg:deb/ubuntu/git-hub
+  - pkg:github/sociomantic-tsunami/git-hub

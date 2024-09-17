@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-generic-array
+  - pkg:deb/ubuntu/rust-generic-array
+  - pkg:github/fizyk20/generic-array
+  - pkg:rpm/fedora/rust-generic-array
+  - pkg:rpm/opensuse/rust-generic-array

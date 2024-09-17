@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/diegohaz/querymen
+  - pkg:npm/querymen

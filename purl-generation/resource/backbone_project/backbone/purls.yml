@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/backbone
+  - pkg:deb/ubuntu/backbone
+  - pkg:github/jashkenas/backbone
+  - pkg:npm/backbone
+  - pkg:nuget/backbone-js
+  - pkg:rpm/fedora/nodejs-backbone

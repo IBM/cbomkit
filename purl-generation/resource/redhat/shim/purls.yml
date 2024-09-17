@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/rhboot/shim
+  - pkg:rpm/fedora/shim
+  - pkg:rpm/opensuse/shim

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/mp4v2
+  - pkg:deb/ubuntu/mp4v2
+  - pkg:github/techsmith/mp4v2
+  - pkg:rpm/fedora/libmp4v2
+  - pkg:rpm/opensuse/mp4v2

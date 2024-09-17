@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:quantumcloud:comment_link_remove_and_other_comment_tools:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:quantumcloud:comment_link_remove_and_other_comment_tools:1.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:quantumcloud:comment_link_remove_and_other_comment_tools:1.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:quantumcloud:comment_link_remove_and_other_comment_tools:1.9.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:quantumcloud:comment_link_remove_and_other_comment_tools:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:quantumcloud:comment_link_remove_and_other_comment_tools:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:quantumcloud:comment_link_remove_and_other_comment_tools:2.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:quantumcloud:comment_link_remove_and_other_comment_tools:2.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:quantumcloud:comment_link_remove_and_other_comment_tools:2.1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:quantumcloud:comment_link_remove_and_other_comment_tools:2.1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:quantumcloud:comment_link_remove_and_other_comment_tools:2.1.6:*:*:*:*:wordpress:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/seafile
+  - pkg:deb/ubuntu/seafile
+  - pkg:github/haiwen/seafile
+  - pkg:rpm/fedora/seafile
+  - pkg:rpm/opensuse/seafile
+  - pkg:sourceforge/seafile.mirror

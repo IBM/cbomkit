@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:libmeshb_project:libmeshb:7.60:*:*:*:*:*:*:*
+  - cpe:2.3:a:libmeshb_project:libmeshb:7.61:*:*:*:*:*:*:*
+  - cpe:2.3:a:libmeshb_project:libmeshb:7.62:*:*:*:*:*:*:*

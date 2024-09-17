@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/sanluan/publiccms
+  - pkg:github/sanluan/publiccms

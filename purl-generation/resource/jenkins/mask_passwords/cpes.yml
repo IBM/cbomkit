@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:jenkins:mask_passwords:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mask_passwords:2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mask_passwords:2.10.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mask_passwords:2.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mask_passwords:2.11.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mask_passwords:2.12.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mask_passwords:2.13:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mask_passwords:2.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mask_passwords:2.6.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mask_passwords:2.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mask_passwords:2.7.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mask_passwords:2.7.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mask_passwords:2.7.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mask_passwords:2.7.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mask_passwords:2.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mask_passwords:2.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mask_passwords:2.9:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mask_passwords:3.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mask_passwords:3.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mask_passwords:3.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:mask_passwords:-:*:*:*:*:jenkins:*:*

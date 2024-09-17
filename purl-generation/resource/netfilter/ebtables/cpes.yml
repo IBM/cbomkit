@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:netfilter:ebtables:2.0.10-4:*:*:*:*:*:*:*

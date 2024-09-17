@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:on_technology:meeting_maker:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:on_technology:meeting_maker:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:on_technology:meeting_maker:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:on_technology:meeting_maker:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:on_technology:meeting_maker:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:on_technology:meeting_maker:6.0:*:*:*:*:*:*:*

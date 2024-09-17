@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/expressjs/method-override
+  - pkg:maven/org.webjars.npm/method-override
+  - pkg:npm/method-override
+  - pkg:rpm/fedora/nodejs-method-override

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openstack/blazar-dashboard
+  - pkg:pypi/blazar-dashboard

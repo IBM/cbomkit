@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/azure/azure-iot-sdk-csharp
+  - pkg:nuget/Microsoft.Azure.Devices

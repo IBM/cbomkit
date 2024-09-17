@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dropbox/lepton
+  - pkg:rpm/opensuse/lepton

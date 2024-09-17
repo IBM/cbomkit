@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:intel:crypto_api_toolkit_for_intel_sgx:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:intel:crypto_api_toolkit_for_intel_sgx:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:intel:crypto_api_toolkit_for_intel_sgx:2021-08-02:*:*:*:*:*:*:*

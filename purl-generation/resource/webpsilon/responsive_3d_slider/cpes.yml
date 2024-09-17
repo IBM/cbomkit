@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:webpsilon:responsive_3d_slider:1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:webpsilon:responsive_3d_slider:-:*:*:*:*:wordpress:*:*

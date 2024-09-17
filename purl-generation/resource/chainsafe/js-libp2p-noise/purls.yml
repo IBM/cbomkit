@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/chainsafe/js-libp2p-noise
+  - pkg:npm/%40chainsafe/libp2p-noise

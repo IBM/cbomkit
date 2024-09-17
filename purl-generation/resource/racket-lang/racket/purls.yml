@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/racket
+  - pkg:deb/ubuntu/racket
+  - pkg:github/racket/racket
+  - pkg:rpm/fedora/racket
+  - pkg:rpm/opensuse/racket

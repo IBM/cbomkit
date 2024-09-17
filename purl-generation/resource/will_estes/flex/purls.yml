@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/flex
+  - pkg:deb/ubuntu/flex
+  - pkg:github/westes/flex
+  - pkg:gitlab/redhat/flex
+  - pkg:golang/github.com/westes/flex
+  - pkg:rpm/fedora/flex
+  - pkg:rpm/opensuse/flex

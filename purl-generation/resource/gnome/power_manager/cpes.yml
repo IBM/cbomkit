@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:gnome:power_manager:2.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:power_manager:2.27.92:*:*:*:*:*:*:*

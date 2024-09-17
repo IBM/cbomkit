@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/node-js-yaml
+  - pkg:deb/ubuntu/node-js-yaml
+  - pkg:github/nodeca/js-yaml
+  - pkg:maven/org.webjars.npm/js-yaml
+  - pkg:npm/js-yaml
+  - pkg:rpm/fedora/nodejs-js-yaml
+  - pkg:rpm/opensuse/nodejs-js-yaml

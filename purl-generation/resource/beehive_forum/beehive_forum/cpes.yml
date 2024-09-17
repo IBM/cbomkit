@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:beehive_forum:beehive_forum:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:beehive_forum:beehive_forum:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:beehive_forum:beehive_forum:0.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:beehive_forum:beehive_forum:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:beehive_forum:beehive_forum:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:beehive_forum:beehive_forum:0.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:beehive_forum:beehive_forum:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:beehive_forum:beehive_forum:0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:beehive_forum:beehive_forum:0.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:beehive_forum:beehive_forum:0.6rc1:*:*:*:*:*:*:*
+  - cpe:2.3:a:beehive_forum:beehive_forum:0.6rc2:*:*:*:*:*:*:*
+  - cpe:2.3:a:beehive_forum:beehive_forum:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:beehive_forum:beehive_forum:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:beehive_forum:beehive_forum:1.4.4:*:*:*:*:*:*:*

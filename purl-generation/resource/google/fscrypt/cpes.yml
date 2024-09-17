@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:google:fscrypt:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:fscrypt:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:fscrypt:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:fscrypt:0.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:fscrypt:0.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:fscrypt:0.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:fscrypt:0.2.4:*:*:*:*:*:*:*

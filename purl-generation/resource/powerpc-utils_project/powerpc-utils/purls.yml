@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/powerpc-utils
+  - pkg:deb/ubuntu/powerpc-utils
+  - pkg:github/ibm-power-utilities/powerpc-utils
+  - pkg:github/ibm-power-utilities/powerpc-utils-python
+  - pkg:gitlab/redhat/powerpc-utils
+  - pkg:rpm/fedora/powerpc-utils
+  - pkg:rpm/opensuse/powerpc-utils
+  - pkg:sourceforge/powerpc-utils

@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/ruby-addressable
+  - pkg:deb/ubuntu/ruby-addressable
+  - pkg:gem/addressable
+  - pkg:github/sporkmonger/addressable
+  - pkg:gitlab/kalilinux/ruby-addressable
+  - pkg:rpm/fedora/rubygem-addressable
+  - pkg:rpm/opensuse/rubygem-addressable

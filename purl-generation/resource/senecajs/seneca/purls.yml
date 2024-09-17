@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/okev/seneca
+  - pkg:github/senecajs/seneca
+  - pkg:npm/seneca

@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:rust-lang:futures-task:0.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:0.3.6:*:*:*:*:rust:*:*
+  - cpe:2.3:a:rust-lang:futures-task:-:*:*:*:*:rust:*:*

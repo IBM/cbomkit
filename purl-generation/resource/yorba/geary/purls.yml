@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/geary
+  - pkg:deb/ubuntu/geary
+  - pkg:github/kyoushuu/geary
+  - pkg:rpm/fedora/geary
+  - pkg:rpm/opensuse/geary

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pgpartman/pg_partman
+  - pkg:golang/github.com/pgpartman/pg_partman

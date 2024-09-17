@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:cam:the_university_of_cambridge_web_authentication_system_apache_authentication_agent:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:cam:the_university_of_cambridge_web_authentication_system_apache_authentication_agent:2.0.2:*:*:*:*:*:*:*

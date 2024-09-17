@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/b-heilman/bmoor
+  - pkg:npm/bmoor

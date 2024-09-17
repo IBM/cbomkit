@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/guidesmiths/worksmith
+  - pkg:npm/worksmith

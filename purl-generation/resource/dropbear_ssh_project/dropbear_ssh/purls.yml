@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/dropbear
+  - pkg:deb/ubuntu/dropbear
+  - pkg:github/mkj/dropbear
+  - pkg:rpm/fedora/dropbear

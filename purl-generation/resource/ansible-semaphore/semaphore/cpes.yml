@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:ansible-semaphore:semaphore:*:*:*:*:*:ansible:*:*

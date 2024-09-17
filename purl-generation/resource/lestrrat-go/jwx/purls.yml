@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/lestrrat-go/jwx
+  - pkg:golang/github.com/lestrrat-go/jwx

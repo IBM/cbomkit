@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:phpnews:phpnews:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpnews:phpnews:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpnews:phpnews:1.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpnews:phpnews:1.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpnews:phpnews:1.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpnews:phpnews:1.3:*:*:*:*:*:*:*

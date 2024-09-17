@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/openstack/tripleo-common
+  - pkg:pypi/tripleo-common
+  - pkg:rpm/opensuse/openstack-tripleo-common

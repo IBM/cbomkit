@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:anytxt:anytxt_searcher:1.2.394:*:*:*:*:*:*:*
+  - cpe:2.3:a:anytxt:anytxt_searcher:1.2.445:*:*:*:*:*:*:*
+  - cpe:2.3:a:anytxt:anytxt_searcher:1.2.483:*:*:*:*:*:*:*
+  - cpe:2.3:a:anytxt:anytxt_searcher:1.2.523:*:*:*:*:*:*:*
+  - cpe:2.3:a:anytxt:anytxt_searcher:1.2.532:*:*:*:*:*:*:*
+  - cpe:2.3:a:anytxt:anytxt_searcher:1.2.540:*:*:*:*:*:*:*
+  - cpe:2.3:a:anytxt:anytxt_searcher:1.2.703:beta:*:*:*:*:*:*

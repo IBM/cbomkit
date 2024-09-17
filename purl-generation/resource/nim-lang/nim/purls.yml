@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/nim
+  - pkg:deb/ubuntu/nim
+  - pkg:docker/nimlang/nim
+  - pkg:github/nim-lang/nim
+  - pkg:rpm/opensuse/nim

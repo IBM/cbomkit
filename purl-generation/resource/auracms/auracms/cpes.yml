@@ -1,0 +1,18 @@
+cpes:
+  - cpe:2.3:a:auracms:auracms:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:auracms:auracms:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:auracms:auracms:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:auracms:auracms:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:auracms:auracms:1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:auracms:auracms:1.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:auracms:auracms:1.5_rc:*:*:*:*:*:*:*
+  - cpe:2.3:a:auracms:auracms:1.61:*:*:*:*:*:*:*
+  - cpe:2.3:a:auracms:auracms:1.62:*:*:*:*:*:*:*
+  - cpe:2.3:a:auracms:auracms:1.6_beta:*:*:*:*:*:*:*
+  - cpe:2.3:a:auracms:auracms:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:auracms:auracms:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:auracms:auracms:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:auracms:auracms:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:auracms:auracms:2.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:auracms:auracms:2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:auracms:auracms:3.0:*:*:*:*:*:*:*

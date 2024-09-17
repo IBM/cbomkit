@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:ruby-mysql_project:ruby-mysql:2.10.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-mysql_project:ruby-mysql:2.11.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-mysql_project:ruby-mysql:2.11.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-mysql_project:ruby-mysql:2.9.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-mysql_project:ruby-mysql:2.9.10:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-mysql_project:ruby-mysql:2.9.11:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-mysql_project:ruby-mysql:2.9.12:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-mysql_project:ruby-mysql:2.9.13:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-mysql_project:ruby-mysql:2.9.14:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-mysql_project:ruby-mysql:2.9.1:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-mysql_project:ruby-mysql:2.9.2:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-mysql_project:ruby-mysql:2.9.3:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-mysql_project:ruby-mysql:2.9.4:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-mysql_project:ruby-mysql:2.9.5:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-mysql_project:ruby-mysql:2.9.6:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-mysql_project:ruby-mysql:2.9.7:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-mysql_project:ruby-mysql:2.9.8:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-mysql_project:ruby-mysql:2.9.9:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-mysql_project:ruby-mysql:3.0.0:*:*:*:*:ruby:*:*
+  - cpe:2.3:a:ruby-mysql_project:ruby-mysql:3.0.1:*:*:*:*:ruby:*:*

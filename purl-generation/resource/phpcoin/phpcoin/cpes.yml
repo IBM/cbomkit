@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:phpcoin:phpcoin:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpcoin:phpcoin:1.2.1:*:*:*:*:*:*:*

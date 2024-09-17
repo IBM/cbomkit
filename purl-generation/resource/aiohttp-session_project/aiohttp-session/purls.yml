@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/python-aiohttp-session
+  - pkg:deb/ubuntu/python-aiohttp-session
+  - pkg:github/aio-libs/aiohttp-session
+  - pkg:pypi/aiohttp-session
+  - pkg:rpm/opensuse/python-aiohttp-session

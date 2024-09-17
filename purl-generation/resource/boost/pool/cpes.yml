@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:boost:pool:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:boost:pool:2.0.0:*:*:*:*:*:*:*

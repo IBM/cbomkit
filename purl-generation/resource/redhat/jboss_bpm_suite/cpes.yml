@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:redhat:jboss_bpm_suite:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_bpm_suite:6.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_bpm_suite:6.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_bpm_suite:6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_bpm_suite:6.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_bpm_suite:6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_bpm_suite:6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_bpm_suite:6.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_bpm_suite:6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_bpm_suite:6.4.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_bpm_suite:6.4.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_bpm_suite:6.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_bpm_suite:6.4.3:*:*:*:*:*:*:*

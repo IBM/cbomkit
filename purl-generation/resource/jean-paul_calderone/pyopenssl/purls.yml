@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/pyopenssl
+  - pkg:deb/ubuntu/pyopenssl
+  - pkg:github/pyca/pyopenssl
+  - pkg:gitlab/redhat/pyopenssl
+  - pkg:pypi/pyopenssl
+  - pkg:rpm/centos/pyopenssl
+  - pkg:rpm/fedora/pyopenssl
+  - pkg:rpm/opensuse/python-pyopenssl
+  - pkg:sourceforge/pyopenssl

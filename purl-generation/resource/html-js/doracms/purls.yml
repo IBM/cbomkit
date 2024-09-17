@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/doramart/doracms
+  - pkg:github/doramart/doracms

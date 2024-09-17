@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/owasp/owasp-webscarab
+  - pkg:maven/org.owasp.webscarab/webscarab-selfcontained

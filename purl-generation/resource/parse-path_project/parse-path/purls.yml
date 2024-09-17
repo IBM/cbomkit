@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ionicabizau/parse-path
+  - pkg:maven/org.webjars.npm/parse-path
+  - pkg:npm/parse-path

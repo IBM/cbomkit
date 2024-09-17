@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/yt-dlp
+  - pkg:deb/ubuntu/yt-dlp
+  - pkg:github/yt-dlp/yt-dlp
+  - pkg:pypi/yt-dlp
+  - pkg:rpm/fedora/yt-dlp
+  - pkg:rpm/opensuse/yt-dlp
+  - pkg:sourceforge/yt-dlp.mirror

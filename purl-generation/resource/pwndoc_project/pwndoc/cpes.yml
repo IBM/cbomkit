@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:pwndoc_project:pwndoc:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwndoc_project:pwndoc:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwndoc_project:pwndoc:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwndoc_project:pwndoc:0.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwndoc_project:pwndoc:0.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwndoc_project:pwndoc:0.5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwndoc_project:pwndoc:0.5.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwndoc_project:pwndoc:0.5.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwndoc_project:pwndoc:0.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pwndoc_project:pwndoc:2021-04-22:*:*:*:*:*:*:*

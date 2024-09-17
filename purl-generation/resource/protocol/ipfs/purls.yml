@@ -1,0 +1,10 @@
+purls:
+  - pkg:docker/ipfs/go-ipfs
+  - pkg:docker/ipfs/js-ipfs
+  - pkg:github/ipfs/go-ipfs
+  - pkg:github/ipfs/ipfs
+  - pkg:github/ipfs/js-ipfs
+  - pkg:npm/ipfs
+  - pkg:rpm/opensuse/go-ipfs
+  - pkg:sourceforge/ipfs
+  - pkg:sourceforge/ipfs.mirror

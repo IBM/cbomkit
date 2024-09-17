@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/monetdb/monetdb
+  - pkg:golang/github.com/monetdb/monetdb-go
+  - pkg:maven/monetdb/monetdbe-java

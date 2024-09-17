@@ -1,0 +1,24 @@
+cpes:
+  - cpe:2.3:a:liquidware:flexapp:5.5.1637:*:*:*:*:*:*:*
+  - cpe:2.3:a:liquidware:flexapp:5.5.1818:*:*:*:*:*:*:*
+  - cpe:2.3:a:liquidware:flexapp:5.5.2111:*:*:*:*:*:*:*
+  - cpe:2.3:a:liquidware:flexapp:5.6.2756:*:*:*:*:*:*:*
+  - cpe:2.3:a:liquidware:flexapp:5.7.5093:*:*:*:*:*:*:*
+  - cpe:2.3:a:liquidware:flexapp:5.7.5129:*:*:*:*:*:*:*
+  - cpe:2.3:a:liquidware:flexapp:5.7.5158:*:*:*:*:*:*:*
+  - cpe:2.3:a:liquidware:flexapp:6.0.5379:*:patch1:*:*:*:*:*
+  - cpe:2.3:a:liquidware:flexapp:6.0.5409:*:patch2:*:*:*:*:*
+  - cpe:2.3:a:liquidware:flexapp:6.5.10.6310:*:*:*:*:*:*:*
+  - cpe:2.3:a:liquidware:flexapp:6.5.1.5833:*:*:*:*:*:*:*
+  - cpe:2.3:a:liquidware:flexapp:6.5.2.5896:*:*:*:*:*:*:*
+  - cpe:2.3:a:liquidware:flexapp:6.5.5751:*:*:*:*:*:*:*
+  - cpe:2.3:a:liquidware:flexapp:6.5.6037:*:*:*:*:*:*:*
+  - cpe:2.3:a:liquidware:flexapp:6.5.6086:*:*:*:*:*:*:*
+  - cpe:2.3:a:liquidware:flexapp:6.5.6116:*:*:*:*:*:*:*
+  - cpe:2.3:a:liquidware:flexapp:6.5.8.6159:*:*:*:*:*:*:*
+  - cpe:2.3:a:liquidware:flexapp:6.5.9.6136:*:*:*:*:*:*:*
+  - cpe:2.3:a:liquidware:flexapp:6.7.0.6422:*:*:*:*:*:*:*
+  - cpe:2.3:a:liquidware:flexapp:6.7.5.6663:*:*:*:*:*:*:*
+  - cpe:2.3:a:liquidware:flexapp:6.7.6.6684:*:*:*:*:*:*:*
+  - cpe:2.3:a:liquidware:flexapp:6.7.7.6701:*:*:*:*:*:*:*
+  - cpe:2.3:a:liquidware:flexapp:6.8.0.6886:*:*:*:*:*:*:*

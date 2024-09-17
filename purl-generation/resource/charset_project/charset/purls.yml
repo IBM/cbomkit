@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/node-modules/charset
+  - pkg:maven/org.webjars.npm/charset
+  - pkg:npm/charset

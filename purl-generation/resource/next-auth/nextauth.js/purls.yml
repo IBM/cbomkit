@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nextauthjs/next-auth
+  - pkg:npm/next-auth

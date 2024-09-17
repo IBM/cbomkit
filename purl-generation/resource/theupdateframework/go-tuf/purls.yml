@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/theupdateframework/go-tuf
+  - pkg:golang/github.com/theupdateframework/go-tuf

@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:jenkins-ci:monitoring_plugin:1.40.0:*:*:*:*:cloudbees_jenkins:*:*
+  - cpe:2.3:a:jenkins-ci:monitoring_plugin:1.41.0:*:*:*:*:cloudbees_jenkins:*:*
+  - cpe:2.3:a:jenkins-ci:monitoring_plugin:1.42.0:*:*:*:*:cloudbees_jenkins:*:*
+  - cpe:2.3:a:jenkins-ci:monitoring_plugin:1.43.0:*:*:*:*:cloudbees_jenkins:*:*
+  - cpe:2.3:a:jenkins-ci:monitoring_plugin:1.44.0:*:*:*:*:cloudbees_jenkins:*:*
+  - cpe:2.3:a:jenkins-ci:monitoring_plugin:1.45.0:*:*:*:*:cloudbees_jenkins:*:*
+  - cpe:2.3:a:jenkins-ci:monitoring_plugin:1.46.0:*:*:*:*:cloudbees_jenkins:*:*
+  - cpe:2.3:a:jenkins-ci:monitoring_plugin:1.47.0:*:*:*:*:cloudbees_jenkins:*:*
+  - cpe:2.3:a:jenkins-ci:monitoring_plugin:1.48.0:*:*:*:*:cloudbees_jenkins:*:*
+  - cpe:2.3:a:jenkins-ci:monitoring_plugin:1.49.0:*:*:*:*:cloudbees_jenkins:*:*
+  - cpe:2.3:a:jenkins-ci:monitoring_plugin:1.50.0:*:*:*:*:cloudbees_jenkins:*:*
+  - cpe:2.3:a:jenkins-ci:monitoring_plugin:1.51.0:*:*:*:*:cloudbees_jenkins:*:*
+  - cpe:2.3:a:jenkins-ci:monitoring_plugin:1.52.0:*:*:*:*:cloudbees_jenkins:*:*
+  - cpe:2.3:a:jenkins-ci:monitoring_plugin:1.52.1:*:*:*:*:cloudbees_jenkins:*:*

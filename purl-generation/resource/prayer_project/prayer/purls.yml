@@ -1,0 +1,3 @@
+purls:
+  - pkg:deb/debian/prayer
+  - pkg:deb/ubuntu/prayer

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/opensuse/susefirewall2
+  - pkg:rpm/opensuse/susefirewall2

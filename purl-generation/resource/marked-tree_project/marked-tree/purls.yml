@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/alantheprice/markedtree
+  - pkg:npm/marked-tree

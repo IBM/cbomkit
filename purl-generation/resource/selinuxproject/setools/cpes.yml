@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:selinuxproject:setools:3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:setools:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:setools:4.0.0:alpha1:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:setools:4.0.0:alpha2:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:setools:4.0.0:alpha3:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:setools:4.0.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:setools:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:setools:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:setools:4.1.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:setools:4.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:setools:4.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:setools:4.2.0:beta:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:setools:4.2.0:rc:*:*:*:*:*:*
+  - cpe:2.3:a:selinuxproject:setools:4.2.1:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/fluent/fluent-bit
+  - pkg:rpm/fedora/fluent-bit
+  - pkg:rpm/opensuse/fluent-bit

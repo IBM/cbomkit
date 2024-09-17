@@ -1,0 +1,4 @@
+purls:
+  - pkg:gitee/jiemo/karma
+  - pkg:github/karma-runner/karma
+  - pkg:npm/karma

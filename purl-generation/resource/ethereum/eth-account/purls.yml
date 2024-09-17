@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ethereum/eth-account
+  - pkg:pypi/eth-account
+  - pkg:rpm/opensuse/python-eth-account

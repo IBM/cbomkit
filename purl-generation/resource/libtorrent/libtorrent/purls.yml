@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libtorrent-rasterbar
+  - pkg:deb/ubuntu/libtorrent-rasterbar
+  - pkg:github/arvidn/libtorrent
+  - pkg:nuget/libtorrent-src
+  - pkg:rpm/fedora/rb_libtorrent
+  - pkg:rpm/opensuse/libtorrent-rasterbar
+  - pkg:sourceforge/libtorrent

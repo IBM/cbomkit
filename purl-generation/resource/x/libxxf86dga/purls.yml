@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/freedesktop/libxxf86dga
+  - pkg:github/freedesktop/xorg-libxxf86dga
+  - pkg:rpm/centos/libxxf86dga
+  - pkg:rpm/fedora/libxxf86dga
+  - pkg:rpm/opensuse/libxxf86dga

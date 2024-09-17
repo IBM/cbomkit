@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:fhcrm_project:fhcrm:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:fhcrm_project:fhcrm:2018-02-11:*:*:*:*:*:*:*

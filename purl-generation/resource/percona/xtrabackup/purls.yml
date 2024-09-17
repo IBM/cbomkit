@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/ubuntu/percona-xtrabackup
+  - pkg:github/percona/percona-xtrabackup
+  - pkg:rpm/fedora/percona-xtrabackup
+  - pkg:rpm/opensuse/percona-xtrabackup

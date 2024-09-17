@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/gnome/libgee
+  - pkg:gitlab/redhat/libgee
+  - pkg:rpm/centos/libgee
+  - pkg:rpm/fedora/libgee
+  - pkg:rpm/opensuse/libgee

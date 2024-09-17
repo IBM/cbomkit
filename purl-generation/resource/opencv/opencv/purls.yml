@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/opencv
+  - pkg:deb/ubuntu/opencv
+  - pkg:github/opencv/opencv
+  - pkg:gitlab/cleveron/opencv
+  - pkg:gitlab/immersaview/opencv
+  - pkg:nuget/OpenCV
+  - pkg:rpm/fedora/opencv
+  - pkg:sourceforge/opencvlibrary

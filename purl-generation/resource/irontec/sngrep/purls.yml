@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/sngrep
+  - pkg:deb/ubuntu/sngrep
+  - pkg:github/irontec/sngrep
+  - pkg:golang/github.com/irontec/sngrep
+  - pkg:rpm/opensuse/sngrep

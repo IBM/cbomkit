@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:jgit-cookbook_project:jgit-cookbook:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:jgit-cookbook_project:jgit-cookbook:-:*:*:*:*:*:*:*

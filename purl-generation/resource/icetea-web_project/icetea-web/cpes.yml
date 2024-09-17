@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:icetea-web_project:icetea-web:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:icetea-web_project:icetea-web:1.8.2:*:*:*:*:*:*:*

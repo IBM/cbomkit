@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bap2000/jenkins-publish-over-ftp-plugin
+  - pkg:github/jenkinsci/publish-over-ftp-plugin

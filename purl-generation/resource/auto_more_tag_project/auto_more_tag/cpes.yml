@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:auto_more_tag_project:auto_more_tag:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:auto_more_tag_project:auto_more_tag:2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:auto_more_tag_project:auto_more_tag:2.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:auto_more_tag_project:auto_more_tag:2.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:auto_more_tag_project:auto_more_tag:2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:auto_more_tag_project:auto_more_tag:3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:auto_more_tag_project:auto_more_tag:3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:auto_more_tag_project:auto_more_tag:3.2.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:auto_more_tag_project:auto_more_tag:3.2.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:auto_more_tag_project:auto_more_tag:3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:auto_more_tag_project:auto_more_tag:4.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:auto_more_tag_project:auto_more_tag:4.1.0:*:*:*:*:wordpress:*:*

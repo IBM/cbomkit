@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:hospital_management_system_project:hospital_management_system:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:hospital_management_system_project:hospital_management_system:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:hospital_management_system_project:hospital_management_system:2021-03-13:*:*:*:*:*:*:*
+  - cpe:2.3:a:hospital_management_system_project:hospital_management_system:4.0:*:*:*:*:*:*:*

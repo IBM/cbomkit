@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:in-toto-golang_project:in-toto-golang:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:in-toto-golang_project:in-toto-golang:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:in-toto-golang_project:in-toto-golang:0.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:in-toto-golang_project:in-toto-golang:0.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:in-toto-golang_project:in-toto-golang:0.3.0:*:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:gitee/havealex/tasmota
+  - pkg:gitee/mirrors/tasmota
+  - pkg:github/arendst/tasmota
+  - pkg:github/btsimonh/tasmota
+  - pkg:github/msiggi/tasmota
+  - pkg:sourceforge/tasmota.mirror

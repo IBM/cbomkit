@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/openstack-infra/zuul
+  - pkg:npm/zuul
+  - pkg:rpm/fedora/zuul

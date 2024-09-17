@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:phpprofiles:phpprofiles:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpprofiles:phpprofiles:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpprofiles:phpprofiles:2.1.0:*:*:*:*:*:*:*

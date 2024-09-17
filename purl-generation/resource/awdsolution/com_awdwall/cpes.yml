@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:awdsolution:com_awdwall:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:awdsolution:com_awdwall:1.5.4:*:*:*:*:*:*:*

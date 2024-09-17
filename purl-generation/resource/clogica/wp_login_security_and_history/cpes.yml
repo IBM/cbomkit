@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:clogica:wp_login_security_and_history:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:clogica:wp_login_security_and_history:-:*:*:*:*:wordpress:*:*

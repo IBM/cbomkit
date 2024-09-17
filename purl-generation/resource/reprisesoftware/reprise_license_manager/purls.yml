@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nozpheratu/rlm_ruby
+  - pkg:npm/rlm

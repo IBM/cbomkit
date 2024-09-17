@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:404_to_start_project:404_to_start:1.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:404_to_start_project:404_to_start:*:*:*:*:*:wordpress:*:*

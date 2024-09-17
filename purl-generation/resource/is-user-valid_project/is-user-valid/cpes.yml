@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:is-user-valid_project:is-user-valid:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-user-valid_project:is-user-valid:1.0.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-user-valid_project:is-user-valid:1.0.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-user-valid_project:is-user-valid:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-user-valid_project:is-user-valid:1.1.1:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-user-valid_project:is-user-valid:1.1.2:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:is-user-valid_project:is-user-valid:-:*:*:*:*:node.js:*:*

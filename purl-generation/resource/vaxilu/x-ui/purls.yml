@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/enwaiax/x-ui
+  - pkg:github/vaxilu/x-ui
+  - pkg:golang/github.com/vaxilu/x-ui

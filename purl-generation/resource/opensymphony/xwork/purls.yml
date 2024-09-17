@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/olgierdp/opensymphony-xwork-backup
+  - pkg:maven/opensymphony/xwork

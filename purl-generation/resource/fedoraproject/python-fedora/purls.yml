@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-fedora
+  - pkg:deb/ubuntu/python-fedora
+  - pkg:github/fedora-infra/python-fedora
+  - pkg:pypi/python-fedora
+  - pkg:rpm/fedora/python-fedora
+  - pkg:rpm/opensuse/python-python-fedora

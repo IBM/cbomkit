@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/theupdateframework/python-tuf
+  - pkg:pypi/tuf

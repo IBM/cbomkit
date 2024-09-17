@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/Debian/libao
+  - pkg:deb/ubuntu/libao
+  - pkg:github/distrotech/libao
+  - pkg:github/timonwong/libao
+  - pkg:github/xiph/libao
+  - pkg:gitlab/redhat/libao
+  - pkg:rpm/centos/libao
+  - pkg:rpm/fedora/libao
+  - pkg:rpm/opensuse/libao

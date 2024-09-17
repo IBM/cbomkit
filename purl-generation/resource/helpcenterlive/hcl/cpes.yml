@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:helpcenterlive:hcl:2.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:helpcenterlive:hcl:2.1.7:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:redhat:spice:0.12.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:spice:0.13.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:spice:0.14.1:*:*:*:*:*:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/opensuse/cscreen
+  - pkg:rpm/opensuse/cscreen

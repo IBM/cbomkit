@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/openresolv
+  - pkg:deb/ubuntu/openresolv
+  - pkg:github/rsmarples/openresolv
+  - pkg:rpm/fedora/openresolv
+  - pkg:rpm/opensuse/openresolv

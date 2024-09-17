@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-vfs
+  - pkg:deb/ubuntu/php-horde-vfs
+  - pkg:github/horde/vfs
+  - pkg:rpm/fedora/php-horde-horde-vfs

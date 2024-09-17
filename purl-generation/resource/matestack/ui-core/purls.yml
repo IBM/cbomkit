@@ -1,0 +1,3 @@
+purls:
+  - pkg:gem/matestack-ui-core
+  - pkg:github/matestack/matestack-ui-core

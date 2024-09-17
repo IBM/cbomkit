@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-pyftpdlib
+  - pkg:deb/ubuntu/python-pyftpdlib
+  - pkg:github/giampaolo/pyftpdlib
+  - pkg:pypi/pyftpdlib
+  - pkg:rpm/fedora/pyftpdlib
+  - pkg:rpm/opensuse/python-pyftpdlib

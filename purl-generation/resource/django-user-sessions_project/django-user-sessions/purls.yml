@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jazzband/django-user-sessions
+  - pkg:pypi/django-user-sessions

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/bind-dyndb-ldap
+  - pkg:deb/ubuntu/bind-dyndb-ldap
+  - pkg:github/freeipa/bind-dyndb-ldap
+  - pkg:github/mnagy/bind-dyndb-ldap
+  - pkg:github/stanislavlevin/bind-dyndb-ldap
+  - pkg:rpm/centos/bind-dyndb-ldap
+  - pkg:rpm/fedora/bind-dyndb-ldap
+  - pkg:rpm/opensuse/bind-dyndb-ldap

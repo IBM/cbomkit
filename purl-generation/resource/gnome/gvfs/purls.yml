@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/gvfs
+  - pkg:deb/ubuntu/gvfs
+  - pkg:github/gnome/gvfs
+  - pkg:rpm/fedora/gvfs
+  - pkg:rpm/opensuse/gvfs

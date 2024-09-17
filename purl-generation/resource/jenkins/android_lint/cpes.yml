@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:jenkins:android_lint:1.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:android_lint:1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:android_lint:2.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:android_lint:2.0.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:android_lint:2.0.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:android_lint:2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:android_lint:2.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:android_lint:2.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:android_lint:2.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:android_lint:2.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:android_lint:2.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:android_lint:2.6:*:*:*:*:jenkins:*:*

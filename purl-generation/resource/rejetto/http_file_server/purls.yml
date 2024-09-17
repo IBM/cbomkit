@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/rejetto/hfs
+  - pkg:github/drapid/hfs
+  - pkg:github/rejetto/hfs
+  - pkg:npm/hfs
+  - pkg:sourceforge/hfs

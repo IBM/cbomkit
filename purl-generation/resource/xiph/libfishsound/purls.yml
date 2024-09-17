@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/kfish/libfishsound
+  - pkg:rpm/fedora/libfishsound
+  - pkg:rpm/opensuse/libfishsound

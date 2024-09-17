@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rails
+  - pkg:deb/ubuntu/rails
+  - pkg:gem/actionview
+  - pkg:github/rails/rails
+  - pkg:rpm/fedora/rubygem-actionview

@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:qrencode_project:qrencode:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:qrencode_project:qrencode:3.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qrencode_project:qrencode:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:qrencode_project:qrencode:3.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qrencode_project:qrencode:3.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:qrencode_project:qrencode:3.4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qrencode_project:qrencode:3.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:qrencode_project:qrencode:3.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:qrencode_project:qrencode:3.4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:qrencode_project:qrencode:3.4.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:qrencode_project:qrencode:4.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:qrencode_project:qrencode:4.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:qrencode_project:qrencode:4.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:qrencode_project:qrencode:4.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:qrencode_project:qrencode:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:qrencode_project:qrencode:4.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:qrencode_project:qrencode:4.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qrencode_project:qrencode:4.1.1:*:*:*:*:*:*:*

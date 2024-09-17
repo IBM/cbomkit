@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/openmvg-thirdparty/openexif
+  - pkg:rpm/opensuse/openexif
+  - pkg:sourceforge/openexif

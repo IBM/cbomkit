@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/hangfireio/hangfire
+  - pkg:nuget/Hangfire
+  - pkg:sourceforge/hangfire.mirror

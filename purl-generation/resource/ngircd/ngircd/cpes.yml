@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:ngircd:ngircd:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ngircd:ngircd:0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:ngircd:ngircd:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ngircd:ngircd:0.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:ngircd:ngircd:0.7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ngircd:ngircd:0.7.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ngircd:ngircd:0.7.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:ngircd:ngircd:0.7.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:ngircd:ngircd:0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:ngircd:ngircd:0.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ngircd:ngircd:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ngircd:ngircd:13:*:*:*:*:*:*:*
+  - cpe:2.3:a:ngircd:ngircd:14:*:*:*:*:*:*:*
+  - cpe:2.3:a:ngircd:ngircd:20:*:*:*:*:*:*:*
+  - cpe:2.3:a:ngircd:ngircd:20.1:*:*:*:*:*:*:*

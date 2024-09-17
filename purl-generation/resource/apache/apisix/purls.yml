@@ -1,0 +1,5 @@
+purls:
+  - pkg:apache/apisix
+  - pkg:docker/apache/apisix
+  - pkg:github/apache/apisix
+  - pkg:sourceforge/apache-apisix.mirror

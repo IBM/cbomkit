@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jefflembeck/pngcrush-installer
+  - pkg:npm/pngcrush-installer

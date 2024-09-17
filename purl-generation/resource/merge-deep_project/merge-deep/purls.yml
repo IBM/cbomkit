@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jonschlinkert/merge-deep
+  - pkg:maven/org.webjars.npm/merge-deep
+  - pkg:npm/merge-deep

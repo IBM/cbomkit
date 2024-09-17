@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-mixin-deep
+  - pkg:deb/ubuntu/node-mixin-deep
+  - pkg:github/jonschlinkert/mixin-deep
+  - pkg:maven/org.webjars.npm/mixin-deep
+  - pkg:npm/mixin-deep
+  - pkg:rpm/fedora/nodejs-mixin-deep

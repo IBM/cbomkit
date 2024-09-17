@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/friendsofsymfony/fosuserbundle
+  - pkg:github/knplabs/knpuserbundle

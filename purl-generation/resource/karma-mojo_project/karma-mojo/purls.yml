@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/amireh/karma-mojo
+  - pkg:npm/karma-mojo

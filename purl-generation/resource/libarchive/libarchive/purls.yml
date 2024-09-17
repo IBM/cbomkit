@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/vaporoid/libarchive
+  - pkg:deb/debian/libarchive
+  - pkg:deb/ubuntu/libarchive
+  - pkg:github/libarchive/libarchive
+  - pkg:gitlab/redhat/libarchive
+  - pkg:rpm/opensuse/libarchive

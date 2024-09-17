@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/yaws
+  - pkg:deb/ubuntu/yaws
+  - pkg:github/erlyaws/yaws
+  - pkg:rpm/fedora/yaws
+  - pkg:rpm/opensuse/yaws
+  - pkg:sourceforge/erlyaws

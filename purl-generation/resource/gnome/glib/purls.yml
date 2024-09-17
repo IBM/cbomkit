@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libglib2.0-dev
+  - pkg:deb/ubuntu/libglib2.0-dev
+  - pkg:github/gnome/glib
+  - pkg:gnome/gnome/glib
+  - pkg:rpm/opensuse/libglib2.0-dev

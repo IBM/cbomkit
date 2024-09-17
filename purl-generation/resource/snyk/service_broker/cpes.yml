@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:snyk:service_broker:0.0.2:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:snyk:service_broker:1.0.1:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:snyk:service_broker:1.0.2:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:snyk:service_broker:1.0.3:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:snyk:service_broker:-:*:*:*:*:pivotal_cloud_foundry:*:*

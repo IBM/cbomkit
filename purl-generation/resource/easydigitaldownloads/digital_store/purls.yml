@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/awesomemotive/easy-digital-downloads
+  - pkg:github/awesomemotive/edd-digital-store
+  - pkg:github/wp-plugins/easy-digital-downloads

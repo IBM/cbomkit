@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:sendit_project:sendit:2.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:sendit_project:sendit:-:*:*:*:*:wordpress:*:*

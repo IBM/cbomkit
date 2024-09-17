@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/freerdp2-dev
+  - pkg:deb/ubuntu/freerdp2-dev
+  - pkg:github/freerdp/freerdp
+  - pkg:gitlab/kalilinux/freerdp
+  - pkg:nugget/FreeRDP
+  - pkg:rpm/fedora/freerdp
+  - pkg:rpm/opensuse/freerdp
+  - pkg:sourceforge/freerdp

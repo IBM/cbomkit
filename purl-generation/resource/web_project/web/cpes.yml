@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:web_project:web:1.4.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:web_project:web:1.5.0:*:*:*:*:go:*:*
+  - cpe:2.3:a:web_project:web:1.5.1:*:*:*:*:go:*:*

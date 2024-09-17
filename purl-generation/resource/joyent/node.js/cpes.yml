@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:joyent:node.js:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:joyent:node.js:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:joyent:node.js:0.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:joyent:node.js:0.8.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:joyent:node.js:0.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:joyent:node.js:0.8.2:*:*:*:*:*:*:*

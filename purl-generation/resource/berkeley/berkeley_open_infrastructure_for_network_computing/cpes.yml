@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:berkeley:berkeley_open_infrastructure_for_network_computing:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:berkeley:berkeley_open_infrastructure_for_network_computing:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:berkeley:berkeley_open_infrastructure_for_network_computing:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:berkeley:berkeley_open_infrastructure_for_network_computing:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:berkeley:berkeley_open_infrastructure_for_network_computing:7.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:berkeley:berkeley_open_infrastructure_for_network_computing:7.10.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:berkeley:berkeley_open_infrastructure_for_network_computing:7.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:berkeley:berkeley_open_infrastructure_for_network_computing:7.12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:berkeley:berkeley_open_infrastructure_for_network_computing:7.12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:berkeley:berkeley_open_infrastructure_for_network_computing:7.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:berkeley:berkeley_open_infrastructure_for_network_computing:7.14.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:berkeley:berkeley_open_infrastructure_for_network_computing:7.14.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:berkeley:berkeley_open_infrastructure_for_network_computing:7.14.2:*:*:*:*:*:*:*

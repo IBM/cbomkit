@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:requests-kerberos_project:requests-kerberos:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:requests-kerberos_project:requests-kerberos:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:requests-kerberos_project:requests-kerberos:0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:requests-kerberos_project:requests-kerberos:0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:requests-kerberos_project:requests-kerberos:0.5:*:*:*:*:*:*:*

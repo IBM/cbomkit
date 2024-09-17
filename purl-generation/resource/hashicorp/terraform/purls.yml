@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/hashicorp/terraform
+  - pkg:github/hashicorp/terraform
+  - pkg:rpm/opensuse/terraform

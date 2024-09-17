@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:jenkins:gradle:2.8:*:*:*:*:jenkins:*:*

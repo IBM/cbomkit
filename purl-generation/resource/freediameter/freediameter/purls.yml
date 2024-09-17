@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/freediameter
+  - pkg:deb/ubuntu/freediameter
+  - pkg:github/freediameter/freediameter
+  - pkg:github/metaswitch/freediameter
+  - pkg:rpm/fedora/freediameter
+  - pkg:rpm/opensuse/freediameter

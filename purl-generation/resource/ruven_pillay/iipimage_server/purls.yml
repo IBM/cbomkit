@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/iipimage-server
+  - pkg:deb/ubuntu/iipimage-server
+  - pkg:github/ruven/iipsrv

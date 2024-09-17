@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/osquery/osquery
+  - pkg:sourceforge/osquery.mirror

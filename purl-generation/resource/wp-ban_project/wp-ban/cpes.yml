@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:wp-ban_project:wp-ban:1.00:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-ban_project:wp-ban:1.10:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-ban_project:wp-ban:1.11:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-ban_project:wp-ban:1.20:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-ban_project:wp-ban:1.30:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-ban_project:wp-ban:1.31:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-ban_project:wp-ban:1.40:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-ban_project:wp-ban:1.50:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-ban_project:wp-ban:1.60:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-ban_project:wp-ban:1.61:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-ban_project:wp-ban:1.62:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-ban_project:wp-ban:1.63:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-ban_project:wp-ban:1.64:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-ban_project:wp-ban:1.65:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-ban_project:wp-ban:1.66:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-ban_project:wp-ban:1.67:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-ban_project:wp-ban:1.68:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-ban_project:wp-ban:1.69.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-ban_project:wp-ban:1.69:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-ban_project:wp-ban:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp-ban_project:wp-ban:-:*:*:*:*:wordpress:*:*

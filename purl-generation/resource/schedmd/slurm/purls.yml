@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/schedmd/slurm
+  - pkg:github/uwb-linux/slurm
+  - pkg:rpm/fedora/slurm
+  - pkg:rpm/opensuse/slurm
+  - pkg:sourceforge/slurm

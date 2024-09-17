@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/xtermjs/xterm.js
+  - pkg:github/xtermjs/xterm.js
+  - pkg:golang/github.com/xtermjs/xterm.js
+  - pkg:maven/org.webjars.bowergithub.xtermjs/xterm.js
+  - pkg:npm/xterm

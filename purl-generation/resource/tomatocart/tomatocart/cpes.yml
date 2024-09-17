@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:tomatocart:tomatocart:1.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:tomatocart:tomatocart:1.1.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:tomatocart:tomatocart:1.1.8.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:tomatocart:tomatocart:1.2.0:alpha2:*:*:*:*:*:*

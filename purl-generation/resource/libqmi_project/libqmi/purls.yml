@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libqmi
+  - pkg:deb/ubuntu/libqmi
+  - pkg:github/freedesktop/libqmi
+  - pkg:gitlab/redhat/libqmi
+  - pkg:rpm/centos/libqmi
+  - pkg:rpm/fedora/libqmi
+  - pkg:rpm/opensuse/libqmi

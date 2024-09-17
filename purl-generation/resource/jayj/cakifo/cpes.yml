@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:jayj:cakifo:1.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jayj:cakifo:1.4.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jayj:cakifo:1.4.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jayj:cakifo:1.4.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jayj:cakifo:1.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jayj:cakifo:1.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jayj:cakifo:1.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jayj:cakifo:1.6.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jayj:cakifo:1.6.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jayj:cakifo:1.6:*:*:*:*:wordpress:*:*

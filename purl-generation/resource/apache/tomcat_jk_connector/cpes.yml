@@ -1,0 +1,17 @@
+cpes:
+  - cpe:2.3:a:apache:tomcat_jk_connector:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat_jk_connector:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat_jk_connector:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat_jk_connector:1.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat_jk_connector:1.2.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat_jk_connector:1.2.33:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat_jk_connector:1.2.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat_jk_connector:1.2.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat_jk_connector:1.2.37:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat_jk_connector:1.2.39:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat_jk_connector:1.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat_jk_connector:1.2.40:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat_jk_connector:1.2.41:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat_jk_connector:1.2.42:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat_jk_connector:1.2.43:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:tomcat_jk_connector:1.2.44:*:*:*:*:*:*:*

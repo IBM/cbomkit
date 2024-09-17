@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:flumedb_project:flumedb:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:flumedb_project:flumedb:0.1.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:flumedb_project:flumedb:0.1.4:*:*:*:*:rust:*:*
+  - cpe:2.3:a:flumedb_project:flumedb:0.1.5:*:*:*:*:rust:*:*
+  - cpe:2.3:a:flumedb_project:flumedb:-:*:*:*:*:rust:*:*

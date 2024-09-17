@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:python_athena_stack_project:python_athena_stack:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:python_athena_stack_project:python_athena_stack:2019-11-08:*:*:*:*:*:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:gem/activejob
+  - pkg:github/rails/activejob
+  - pkg:rpm/fedora/rubygem-activejob
+  - pkg:rpm/opensuse/rubygem-activejob-7.0

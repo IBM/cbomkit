@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:binarymoon:timthumb:1.09:*:*:*:*:*:*:*
+  - cpe:2.3:a:binarymoon:timthumb:1.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:binarymoon:timthumb:1.99:*:*:*:*:*:*:*
+  - cpe:2.3:a:binarymoon:timthumb:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:binarymoon:timthumb:2.8.13:*:*:*:*:*:*:*

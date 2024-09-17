@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/hawtjni
+  - pkg:deb/ubuntu/hawtjni
+  - pkg:github/fusesource/hawtjni
+  - pkg:gitlab/redhat/hawtjni
+  - pkg:maven/org.fusesource.hawtjni/hawtjni-project
+  - pkg:rpm/fedora/hawtjni
+  - pkg:rpm/opensuse/hawtjni

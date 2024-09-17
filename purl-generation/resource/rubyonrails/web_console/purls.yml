@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-web-console
+  - pkg:deb/ubuntu/ruby-web-console
+  - pkg:gem/rails-web-console
+  - pkg:github/rails/web-console
+  - pkg:rpm/fedora/rubygem-web-console
+  - pkg:rpm/opensuse/rubygem-web-console

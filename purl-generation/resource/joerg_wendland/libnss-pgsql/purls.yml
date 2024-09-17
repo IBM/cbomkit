@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libnss-pgsql
+  - pkg:deb/ubuntu/libnss-pgsql
+  - pkg:github/jandd/libnss-pgsql
+  - pkg:rpm/fedora/libnss-pgsql
+  - pkg:rpm/opensuse/libnss-pgsql

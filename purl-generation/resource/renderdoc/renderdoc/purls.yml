@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/renderdoc
+  - pkg:deb/ubuntu/renderdoc
+  - pkg:github/baldurk/renderdoc
+  - pkg:rpm/opensuse/renderdoc
+  - pkg:sourceforge/renderdoc.mirror

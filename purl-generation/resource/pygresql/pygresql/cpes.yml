@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:pygresql:pygresql:3.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pygresql:pygresql:4.0:*:*:*:*:*:*:*

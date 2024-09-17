@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:grails:resources:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:grails:resources:1.2.12:*:*:*:*:*:*:*

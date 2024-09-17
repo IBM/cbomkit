@@ -1,0 +1,7 @@
+purls:
+  - pkg:github/fedora-selinux/setroubleshoot
+  - pkg:gitlab/redhat/setroubleshoot
+  - pkg:gitlab/setroubleshoot/framework
+  - pkg:rpm/centos/setroubleshoot
+  - pkg:rpm/fedora/setroubleshoot
+  - pkg:rpm/opensuse/setroubleshoot

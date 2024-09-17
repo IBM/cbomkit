@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/cthackers/adm-zip
+  - pkg:maven/org.webjars.npm/adm-zip
+  - pkg:npm/adm-zip

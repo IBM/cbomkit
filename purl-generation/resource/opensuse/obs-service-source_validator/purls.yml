@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/opensuse/obs-service-source_validator
+  - pkg:rpm/opensuse/obs-service-source_validator

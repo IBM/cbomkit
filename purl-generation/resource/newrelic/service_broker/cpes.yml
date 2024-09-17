@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:newrelic:service_broker:1.12.64:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:newrelic:service_broker:-:*:*:*:*:pivotal_cloud_foundry:*:*

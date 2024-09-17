@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:apache:synapse:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:synapse:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:synapse:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:synapse:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:synapse:1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:synapse:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:synapse:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:synapse:3.0.0:*:*:*:*:*:*:*

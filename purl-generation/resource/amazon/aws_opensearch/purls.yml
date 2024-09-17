@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/opensearchproject/opensearch
+  - pkg:github/opensearch-project/opensearch
+  - pkg:maven/org.opensearch/opensearch
+  - pkg:npm/%40opensearch-project/opensearch
+  - pkg:rpm/opensuse/opensearch

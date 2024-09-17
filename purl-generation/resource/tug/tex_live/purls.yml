@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/texlive
+  - pkg:deb/ubuntu/texlive
+  - pkg:github/tex-live/texlive-source
+  - pkg:github/texlive/texlive-source
+  - pkg:gitlab/redhat/texlive
+  - pkg:rpm/centos/texlive
+  - pkg:rpm/fedora/texlive
+  - pkg:rpm/opensuse/texlive

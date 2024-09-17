@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/red5/red5-server
+  - pkg:maven/org.red5/red5-server

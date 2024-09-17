@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/typelevel/fs2
+  - pkg:maven/org.typelevel/fs2-grpc-codegen
+  - pkg:maven/org.typelevel/fs2-grpc-runtime_2.13

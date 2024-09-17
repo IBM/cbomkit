@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-terser
+  - pkg:deb/ubuntu/node-terser
+  - pkg:github/terser/terser
+  - pkg:maven/org.webjars.npm/terser
+  - pkg:npm/terser

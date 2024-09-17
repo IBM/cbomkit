@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/librest
+  - pkg:deb/ubuntu/librest
+  - pkg:github/gnome/librest
+  - pkg:rpm/opensuse/librest

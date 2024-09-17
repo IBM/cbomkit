@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/yourls/yourls
+  - pkg:rpm/fedora/yourls
+  - pkg:rpm/opensuse/yourls
+  - pkg:sourceforge/yourls.mirror

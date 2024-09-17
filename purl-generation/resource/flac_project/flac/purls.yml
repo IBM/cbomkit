@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/flac
+  - pkg:deb/ubuntu/flac
+  - pkg:github/xiph/flac
+  - pkg:rpm/centos/flac
+  - pkg:rpm/fedora/flac
+  - pkg:rpm/opensuse/flac
+  - pkg:sourceforge/flac

@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/chenshi011/java-websocket
+  - pkg:github/tootallnate/java-websocket
+  - pkg:maven/org.java-websocket/java-websocket
+  - pkg:rpm/fedora/java-websocket

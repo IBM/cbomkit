@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:asterisk:opensource:1.4.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:asterisk:opensource:1.4.23:*:*:*:*:*:*:*
+  - cpe:2.3:a:asterisk:opensource:1.4.23.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:asterisk:opensource:1.4.23.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:asterisk:opensource:1.4.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:asterisk:opensource:1.4.24.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:asterisk:opensource:1.4.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:asterisk:opensource:1.4.26.1:*:*:*:*:*:*:*

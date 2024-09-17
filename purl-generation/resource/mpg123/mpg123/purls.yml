@@ -1,0 +1,9 @@
+purls:
+  - pkg:bitbucket/treasurebox/mpg123
+  - pkg:deb/debian/mpg123
+  - pkg:deb/ubuntu/mpg123
+  - pkg:github/georgi/mpg123
+  - pkg:rpm/centos/mpg123
+  - pkg:rpm/fedora/mpg123
+  - pkg:rpm/opensuse/mpg123
+  - pkg:sourceforge/mpg123

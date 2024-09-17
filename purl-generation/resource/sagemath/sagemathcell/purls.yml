@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/korniichuk/sagemathcell
+  - pkg:github/sagemath/sage
+  - pkg:pypi/sagecell

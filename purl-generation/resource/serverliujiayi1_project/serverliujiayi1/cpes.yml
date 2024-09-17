@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:serverliujiayi1_project:serverliujiayi1:1.0.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serverliujiayi1_project:serverliujiayi1:1.1.0:*:*:*:*:node.js:*:*
+  - cpe:2.3:a:serverliujiayi1_project:serverliujiayi1:-:*:*:*:*:node.js:*:*

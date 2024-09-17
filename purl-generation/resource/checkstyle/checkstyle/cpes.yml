@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:checkstyle:checkstyle:8.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:checkstyle:checkstyle:8.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:checkstyle:checkstyle:8.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:checkstyle:checkstyle:8.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:checkstyle:checkstyle:8.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:checkstyle:checkstyle:8.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:checkstyle:checkstyle:8.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:checkstyle:checkstyle:8.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:checkstyle:checkstyle:8.29:*:*:*:*:*:*:*

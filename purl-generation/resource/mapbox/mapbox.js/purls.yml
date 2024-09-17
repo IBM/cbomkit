@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/mapbox/mapbox.js
+  - pkg:maven/org.webjars.npm/mapbox.js
+  - pkg:npm/mapbox.js

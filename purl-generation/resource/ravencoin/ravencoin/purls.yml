@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/ravenproject/ravencoin
+  - pkg:rpm/opensuse/ravencoin
+  - pkg:sourceforge/ravencoin.mirror

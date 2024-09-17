@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/yottadb/ydbrust
+  - pkg:gitlab/yottadb/ydbrust

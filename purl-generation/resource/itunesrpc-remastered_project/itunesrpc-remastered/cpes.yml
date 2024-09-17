@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:itunesrpc-remastered_project:itunesrpc-remastered:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:itunesrpc-remastered_project:itunesrpc-remastered:3.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:itunesrpc-remastered_project:itunesrpc-remastered:3.1.1:*:*:*:*:*:*:*

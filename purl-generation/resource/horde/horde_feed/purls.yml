@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-feed
+  - pkg:deb/ubuntu/php-horde-feed
+  - pkg:github/horde/feed
+  - pkg:rpm/fedora/php-horde-horde-feed

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:wvware:libwmf:0.2.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:wvware:libwmf:0.2.8_.4:*:*:*:*:*:*:*

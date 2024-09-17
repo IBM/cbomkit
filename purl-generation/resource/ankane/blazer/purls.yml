@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/ankane/blazer
+  - pkg:gem/blazer
+  - pkg:github/ankane/blazer
+  - pkg:github/ankane/blazer-docker

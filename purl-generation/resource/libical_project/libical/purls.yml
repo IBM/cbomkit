@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/libical
+  - pkg:deb/ubuntu/libical
+  - pkg:github/libical/libical
+  - pkg:gitlab/redhat/libical
+  - pkg:rpm/centos/libical
+  - pkg:rpm/fedora/libical
+  - pkg:rpm/opensuse/libical

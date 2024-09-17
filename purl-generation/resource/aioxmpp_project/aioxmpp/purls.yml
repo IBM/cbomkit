@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-aioxmpp
+  - pkg:deb/ubuntu/python-aioxmpp
+  - pkg:docker/pypi/aioxmpp
+  - pkg:github/horazont/aioxmpp
+  - pkg:pypi/aioxmpp
+  - pkg:rpm/opensuse/python-aioxmpp

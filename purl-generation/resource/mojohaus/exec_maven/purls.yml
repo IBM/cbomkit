@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/exec-maven-plugin
+  - pkg:deb/ubuntu/exec-maven-plugin
+  - pkg:github/mojohaus/exec-maven-plugin
+  - pkg:maven/org.codehaus.mojo/exec-maven-plugin
+  - pkg:rpm/centos/exec-maven-plugin
+  - pkg:rpm/fedora/exec-maven-plugin
+  - pkg:rpm/opensuse/exec-maven-plugin

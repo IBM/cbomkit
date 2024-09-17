@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/firephp/firephp-core
+  - pkg:rpm/fedora/php-firephp-firephp-core

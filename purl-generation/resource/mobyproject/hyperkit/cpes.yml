@@ -1,0 +1,20 @@
+cpes:
+  - cpe:2.3:a:mobyproject:hyperkit:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:hyperkit:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:hyperkit:0.20170214:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:hyperkit:0.20170227:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:hyperkit:0.20170425:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:hyperkit:0.20170511:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:hyperkit:0.20170519:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:hyperkit:0.20170904:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:hyperkit:0.20171020:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:hyperkit:0.20171204:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:hyperkit:0.20180123:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:hyperkit:0.20180223:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:hyperkit:0.20180403:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:hyperkit:0.20180621:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:hyperkit:0.20190201:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:hyperkit:0.20190802:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:hyperkit:0.20200224:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:hyperkit:0.20200908:*:*:*:*:*:*:*
+  - cpe:2.3:a:mobyproject:hyperkit:0.20210107:*:*:*:*:*:*:*

@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/js-data/js-data
+  - pkg:maven/org.webjars.bower/js-data
+  - pkg:maven/org.webjars.npm/js-data
+  - pkg:npm/js-data

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/awslabs/fhir-works-on-aws-authz-smart
+  - pkg:npm/fhir-works-on-aws-authz-smart

@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:ariadne-cms:ariadne_component_library:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ariadne-cms:ariadne_component_library:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:ariadne-cms:ariadne_component_library:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ariadne-cms:ariadne_component_library:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ariadne-cms:ariadne_component_library:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:ariadne-cms:ariadne_component_library:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:ariadne-cms:ariadne_component_library:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:ariadne-cms:ariadne_component_library:2.1:*:*:*:*:*:*:*

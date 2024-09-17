@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/wagtail/wagtail
+  - pkg:pypi/wagtail
+  - pkg:rpm/opensuse/python-wagtail
+  - pkg:sourceforge/wagtail.mirror

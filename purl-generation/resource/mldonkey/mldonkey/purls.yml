@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/ubuntu/mldonkey
+  - pkg:github/ygrek/mldonkey
+  - pkg:rpm/opensuse/mldonkey
+  - pkg:sourceforge/mldonkey

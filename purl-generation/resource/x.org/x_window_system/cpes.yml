@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:x.org:x_window_system:7.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:x.org:x_window_system:7.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:x.org:x_window_system:7.2:*:*:*:*:*:*:*

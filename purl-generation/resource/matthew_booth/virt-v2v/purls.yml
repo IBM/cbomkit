@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/virt-v2v
+  - pkg:deb/ubuntu/virt-v2v
+  - pkg:github/libguestfs/virt-v2v
+  - pkg:rpm/centos/virt-v2v
+  - pkg:rpm/fedora/virt-v2v
+  - pkg:rpm/opensuse/virt-v2v

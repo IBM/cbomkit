@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:docker:rabbitmq_docker_image:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:docker:rabbitmq_docker_image:3.7.12:-:*:*:*:*:*:*

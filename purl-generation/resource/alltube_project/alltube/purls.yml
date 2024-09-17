@@ -1,0 +1,5 @@
+purls:
+  - pkg:docker/rudloff/alltube
+  - pkg:github/franki-shop/alltube
+  - pkg:github/rudloff/alltube
+  - pkg:github/soundbrake/alltube

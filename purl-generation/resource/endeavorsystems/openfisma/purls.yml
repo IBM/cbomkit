@@ -1,0 +1,5 @@
+purls:
+  - pkg:bitbucket/metaevolution/openfisma
+  - pkg:github/areeves/openfisma
+  - pkg:github/boydjd/openfisma
+  - pkg:github/openfisma/openfisma

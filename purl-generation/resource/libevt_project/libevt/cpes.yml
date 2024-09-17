@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:libevt_project:libevt:2017-01-20:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:libevt_project:libevt:20180125:*:*:*:*:*:*:*
+  - cpe:2.3:a:libevt_project:libevt:20180317:*:*:*:*:*:*:*
+  - cpe:2.3:a:libevt_project:libevt:2019-12-21:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:libevt_project:libevt:20191221:alpha:*:*:*:*:*:*
+  - cpe:2.3:a:libevt_project:libevt:20200418:alpha:*:*:*:*:*:*

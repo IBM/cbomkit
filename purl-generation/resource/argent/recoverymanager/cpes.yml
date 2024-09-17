@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:argent:recoverymanager:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:argent:recoverymanager:0xdc350d09f71c48c5d22fbe2741e4d6a03970e192:*:*:*:*:*:*:*

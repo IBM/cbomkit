@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/esiclivre/esiclivre
+  - pkg:github/carvalholeo/e-sic-livre
+  - pkg:github/thiagocapuano/e-sic-livre

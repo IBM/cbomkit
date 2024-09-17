@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/velocity
+  - pkg:github/apache/velocity-engine
+  - pkg:maven/org.apache.velocity/velocity-engine-core

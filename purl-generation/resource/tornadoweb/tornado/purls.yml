@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/python-tornado
+  - pkg:deb/ubuntu/python-tornado
+  - pkg:github/tornadoweb/tornado
+  - pkg:gitlab/kalilinux/python-tornado
+  - pkg:pypi/tornado
+  - pkg:rpm/fedora/python-tornado
+  - pkg:rpm/opensuse/python-tornado

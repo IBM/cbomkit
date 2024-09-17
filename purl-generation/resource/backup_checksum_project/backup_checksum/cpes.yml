@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:backup_checksum_project:backup_checksum:3.0.23:*:*:*:*:ruby:*:*

@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:apimanager_project:apimanager:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:apimanager_project:apimanager:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apimanager_project:apimanager:1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apimanager_project:apimanager:2.1.0:*:*:*:*:*:*:*

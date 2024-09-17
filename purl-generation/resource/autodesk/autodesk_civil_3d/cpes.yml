@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:autodesk:autodesk_civil_3d:2019:*:*:*:*:*:*:*
+  - cpe:2.3:a:autodesk:autodesk_civil_3d:2020:*:*:*:*:*:*:*
+  - cpe:2.3:a:autodesk:autodesk_civil_3d:2021:*:*:*:*:*:*:*
+  - cpe:2.3:a:autodesk:autodesk_civil_3d:2022:*:*:*:*:*:*:*

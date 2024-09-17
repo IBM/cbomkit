@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/boostio/boostnote-app
+  - pkg:github/boostio/boostnote-legacy
+  - pkg:rpm/opensuse/boostnote
+  - pkg:sourceforge/boostnote

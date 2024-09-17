@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/pac4j/pac4j
+  - pkg:maven/org.pac4j/pac4j

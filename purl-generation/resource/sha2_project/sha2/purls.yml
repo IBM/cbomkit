@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-sha2
+  - pkg:deb/ubuntu/rust-sha2
+  - pkg:github/rustcrypto/hashes
+  - pkg:rpm/fedora/rust-sha2
+  - pkg:rpm/opensuse/rust-sha2

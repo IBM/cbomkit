@@ -1,0 +1,4 @@
+purls:
+  - pkg:bitbucket/luismcsousa/web2project
+  - pkg:github/web2project/web2project
+  - pkg:sourceforge/web2project

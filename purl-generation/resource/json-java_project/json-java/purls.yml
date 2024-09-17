@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/stleary/json-java
+  - pkg:golang/github.com/stleary/json-java
+  - pkg:maven/com.github.iarellano/json

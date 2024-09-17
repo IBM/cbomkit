@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:php:mysql_banner_exchange:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:php:mysql_banner_exchange:2.2.1:*:*:*:*:*:*:*

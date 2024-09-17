@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/suse/pam-config
+  - pkg:rpm/opensuse/pam-config

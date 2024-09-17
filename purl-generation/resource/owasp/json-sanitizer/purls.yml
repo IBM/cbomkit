@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/owasp/json-sanitizer
+  - pkg:maven/com.mikesamuel/json-sanitizer

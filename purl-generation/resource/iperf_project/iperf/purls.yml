@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/iperf3
+  - pkg:deb/ubuntu/iperf3
+  - pkg:github/esnet/iperf
+  - pkg:gitlab/redhat/iperf3
+  - pkg:rpm/centos/iperf3
+  - pkg:rpm/fedora/iperf3
+  - pkg:rpm/opensuse/iperf3
+  - pkg:sourceforge/iperf

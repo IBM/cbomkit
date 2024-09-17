@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/minio-storage-plugin
+  - pkg:github/minio/minio-jenkins

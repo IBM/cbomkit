@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/php-horde-service-twitter
+  - pkg:deb/ubuntu/php-horde-service-twitter
+  - pkg:github/horde/service_twitter

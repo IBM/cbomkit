@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/skywalking
+  - pkg:github/apache/skywalking
+  - pkg:sourceforge/apache-skywalking.mirror

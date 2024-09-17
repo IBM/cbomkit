@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:gnu:findutils:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:findutils:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:findutils:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:findutils:4.2.28:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:findutils:4.2.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:findutils:4.2.30:*:*:*:*:*:*:*

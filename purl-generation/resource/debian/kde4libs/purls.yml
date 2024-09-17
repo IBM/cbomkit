@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/kde4libs
+  - pkg:deb/ubuntu/kde4libs
+  - pkg:github/kde/kdelibs
+  - pkg:rpm/fedora/kdelibs
+  - pkg:rpm/opensuse/kdelibs

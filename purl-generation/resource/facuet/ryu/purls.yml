@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/faucetsdn/ryu
+  - pkg:pypi/ryu

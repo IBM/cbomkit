@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/mongodb
+  - pkg:deb/ubuntu/mongodb
+  - pkg:github/mongodb/mongo

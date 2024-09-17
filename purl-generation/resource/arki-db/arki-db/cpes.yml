@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:arki-db:arki-db:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:arki-db:arki-db:2.0:*:*:*:*:*:*:*

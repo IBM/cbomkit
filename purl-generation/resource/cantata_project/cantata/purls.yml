@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/cantata
+  - pkg:deb/ubuntu/cantata
+  - pkg:github/cdrummond/cantata
+  - pkg:rpm/fedora/cantata
+  - pkg:rpm/opensuse/cantata

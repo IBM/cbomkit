@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libmad
+  - pkg:deb/ubuntu/libmad
+  - pkg:github/markjeee/libmad
+  - pkg:gitlab/redhat/libmad
+  - pkg:rpm/centos/libmad
+  - pkg:rpm/fedora/libmad
+  - pkg:rpm/opensuse/libmad
+  - pkg:sourceforge/mad

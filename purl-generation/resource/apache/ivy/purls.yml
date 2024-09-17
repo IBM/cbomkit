@@ -1,0 +1,9 @@
+purls:
+  - pkg:apache/ant
+  - pkg:deb/debian/ivy
+  - pkg:deb/ubuntu/ivy
+  - pkg:github/apache/ant-ivy
+  - pkg:maven/org.apache.ivy/ivy
+  - pkg:rpm/centos/apache-ivy
+  - pkg:rpm/fedora/apache-ivy
+  - pkg:rpm/opensuse/apache-ivy

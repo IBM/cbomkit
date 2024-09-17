@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/sniffit
+  - pkg:deb/ubuntu/sniffit
+  - pkg:github/resurrecting-open-source-projects/sniffit
+  - pkg:rpm/opensuse/sniffit

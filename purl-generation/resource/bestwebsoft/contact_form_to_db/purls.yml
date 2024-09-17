@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bestwebsoft/contact-form-to-db-wordpress-plugin
+  - pkg:github/wp-plugins/contact-form-to-db
+  - pkg:github/wpplugins/contact-form-to-db

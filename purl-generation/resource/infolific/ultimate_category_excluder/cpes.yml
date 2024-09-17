@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:infolific:ultimate_category_excluder:0.1:beta:*:*:*:wordpress:*:*
+  - cpe:2.3:a:infolific:ultimate_category_excluder:0.21:beta:*:*:*:wordpress:*:*
+  - cpe:2.3:a:infolific:ultimate_category_excluder:0.2:beta:*:*:*:wordpress:*:*
+  - cpe:2.3:a:infolific:ultimate_category_excluder:0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:infolific:ultimate_category_excluder:0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:infolific:ultimate_category_excluder:0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:infolific:ultimate_category_excluder:0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:infolific:ultimate_category_excluder:0.7:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:infolific:ultimate_category_excluder:0.83:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:infolific:ultimate_category_excluder:0.84:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:infolific:ultimate_category_excluder:0.8:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:infolific:ultimate_category_excluder:0.91:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:infolific:ultimate_category_excluder:0.94:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:infolific:ultimate_category_excluder:0.95:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:infolific:ultimate_category_excluder:0.96:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:infolific:ultimate_category_excluder:1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:infolific:ultimate_category_excluder:1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:infolific:ultimate_category_excluder:1.2:*:*:*:*:wordpress:*:*

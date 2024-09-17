@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:rwiki:rwiki:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:rwiki:rwiki:2.1.0pre1:*:*:*:*:*:*:*
+  - cpe:2.3:a:rwiki:rwiki:2.1.0pre2:*:*:*:*:*:*:*

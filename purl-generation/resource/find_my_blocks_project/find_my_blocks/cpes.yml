@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:1.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:1.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:1.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:1.3.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:1.3.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:1.3.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:1.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:1.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:2.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:2.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:2.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:2.1.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:2.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:2.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:3.0.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:3.1.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:3.2.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:3.3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:3.3.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:3.3.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:3.4.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:3.5.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:3.5.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:find_my_blocks_project:find_my_blocks:-:*:*:*:*:wordpress:*:*

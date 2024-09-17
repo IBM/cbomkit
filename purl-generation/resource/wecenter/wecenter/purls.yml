@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/wecenter/wecenter
+  - pkg:github/wecenter/wecenter

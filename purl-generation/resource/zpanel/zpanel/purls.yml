@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/infoglans/zpanelcp
+  - pkg:github/zpanel/zpanel
+  - pkg:sourceforge/zpanelcp

@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:serverabc_project:serverabc:1.0.0:*:*:*:*:node.js:*:*

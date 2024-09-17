@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/flightgear
+  - pkg:deb/ubuntu/flightgear
+  - pkg:github/flightgear/flightgear
+  - pkg:rpm/fedora/flightgear
+  - pkg:rpm/opensuse/flightgear
+  - pkg:sourceforge/flightgear

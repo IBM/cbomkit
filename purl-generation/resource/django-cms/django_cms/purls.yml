@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/django-cms/django-cms
+  - pkg:pypi/django-cms
+  - pkg:rpm/opensuse/python-django-cms

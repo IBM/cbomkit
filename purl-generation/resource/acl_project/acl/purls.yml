@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/acl
+  - pkg:deb/ubuntu/acl
+  - pkg:gitlab/redhat/acl
+  - pkg:gnu/acl
+  - pkg:rpm/centos/acl
+  - pkg:rpm/fedora/acl
+  - pkg:rpm/opensuse/acl

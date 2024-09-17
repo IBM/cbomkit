@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/node-http-proxy
+  - pkg:deb/ubuntu/node-http-proxy
+  - pkg:github/http-party/node-http-proxy
+  - pkg:maven/org.webjars.npm/http-proxy
+  - pkg:npm/http-proxy
+  - pkg:rpm/opensuse/nodejs-http-proxy

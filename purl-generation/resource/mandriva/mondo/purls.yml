@@ -1,0 +1,3 @@
+purls:
+  - pkg:rpm/opensuse/mondo
+  - pkg:sourceforge/mondo

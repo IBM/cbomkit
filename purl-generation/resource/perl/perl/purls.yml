@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/perl
+  - pkg:deb/ubuntu/perl
+  - pkg:github/perl/perl5
+  - pkg:perl/perl5
+  - pkg:rpm/fedora/perl
+  - pkg:rpm/opensuse/perl

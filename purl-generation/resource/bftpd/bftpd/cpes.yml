@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:bftpd:bftpd:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:bftpd:bftpd:1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:bftpd:bftpd:1.7:*:*:*:*:*:*:*

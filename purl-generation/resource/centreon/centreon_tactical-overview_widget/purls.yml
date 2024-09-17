@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/centreon/centreon-widget-tactical-overview
+  - pkg:rpm/opensuse/centreon-widget-tactical-overview

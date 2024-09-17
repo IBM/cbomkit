@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-shell-quote
+  - pkg:deb/ubuntu/node-shell-quote
+  - pkg:github/substack/node-shell-quote
+  - pkg:maven/org.webjars.npm/shell-quote
+  - pkg:npm/shell-quote

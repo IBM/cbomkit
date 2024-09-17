@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cloudfoundry/diego-release
+  - pkg:golang/github.com/cloudfoundry/diego-release

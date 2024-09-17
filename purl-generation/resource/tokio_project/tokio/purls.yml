@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/rust-tokio
+  - pkg:deb/ubuntu/rust-tokio
+  - pkg:github/tokio-rs/tokio
+  - pkg:rpm/fedora/rust-tokio
+  - pkg:rpm/opensuse/rust-tokio
+  - pkg:sourceforge/tokio.mirror

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:ushahidi:ushahidi:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:ushahidi:ushahidi:2.6.1:*:*:*:*:*:*:*

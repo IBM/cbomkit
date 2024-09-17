@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:inverse-inc:sogo:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:inverse-inc:sogo:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:inverse-inc:sogo:3.0.0:beta_1:*:*:*:*:*:*
+  - cpe:2.3:a:inverse-inc:sogo:3.0.0:beta_2:*:*:*:*:*:*
+  - cpe:2.3:a:inverse-inc:sogo:3.0.0:beta_3:*:*:*:*:*:*
+  - cpe:2.3:a:inverse-inc:sogo:3.0.0:beta_4:*:*:*:*:*:*
+  - cpe:2.3:a:inverse-inc:sogo:3.0.0:beta_5:*:*:*:*:*:*
+  - cpe:2.3:a:inverse-inc:sogo:3.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:inverse-inc:sogo:3.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:inverse-inc:sogo:3.1.0:*:*:*:*:*:*:*

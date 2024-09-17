@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/feross/simple-get
+  - pkg:maven/org.webjars.npm/simple-get
+  - pkg:npm/simple-get

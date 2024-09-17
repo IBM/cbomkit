@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/webtorrent/webtorrent
+  - pkg:maven/org.webjars.npm/webtorrent
+  - pkg:npm/webtorrent

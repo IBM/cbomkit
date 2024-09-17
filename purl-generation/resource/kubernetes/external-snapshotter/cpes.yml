@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:kubernetes:external-snapshotter:0.4.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:external-snapshotter:0.4.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:external-snapshotter:0.4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:external-snapshotter:0.4.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:external-snapshotter:0.5.0:alpha0:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:external-snapshotter:1.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:external-snapshotter:1.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:external-snapshotter:1.0.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:external-snapshotter:1.0.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:external-snapshotter:1.0.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:external-snapshotter:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:external-snapshotter:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:external-snapshotter:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:external-snapshotter:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:external-snapshotter:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:external-snapshotter:2.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:external-snapshotter:2.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:external-snapshotter:2.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:external-snapshotter:2.0.0:rc3:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:external-snapshotter:2.0.0:rc4:*:*:*:*:*:*
+  - cpe:2.3:a:kubernetes:external-snapshotter:2.0.1:*:*:*:*:*:*:*

@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:linux-ha:ocf_resource_agents:1.0.3:*:*:*:*:*:*:*

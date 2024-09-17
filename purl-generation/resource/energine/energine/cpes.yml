@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:energine:energine:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:energine:energine:2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:energine:energine:2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:energine:energine:2.3.8:*:*:*:*:*:*:*

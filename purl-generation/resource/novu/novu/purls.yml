@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/novuhq/novu
+  - pkg:npm/novu

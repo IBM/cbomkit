@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/bookstackapp/bookstack
+  - pkg:sourceforge/bookstack.mirror

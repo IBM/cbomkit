@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/isnit0/windows_latestchromedriver
+  - pkg:npm/windows-latestchromedriver

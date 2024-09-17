@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/modcluster/mod_cluster
+  - pkg:maven/org.jboss.mod_cluster/mod_cluster
+  - pkg:rpm/fedora/mod_cluster

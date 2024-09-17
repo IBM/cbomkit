@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/codingjoe/django-s3file
+  - pkg:opensuse/python-django-s3file
+  - pkg:pypi/django-s3file

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/milo2012/pathbrute
+  - pkg:golang/github.com/milo2012/pathbrute

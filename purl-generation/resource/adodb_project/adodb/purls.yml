@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libphp-adodb
+  - pkg:deb/ubuntu/libphp-adodb
+  - pkg:github/adodb/adodb
+  - pkg:rpm/fedora/php-adodb
+  - pkg:rpm/opensuse/php-adodb
+  - pkg:sourceforge/adodb

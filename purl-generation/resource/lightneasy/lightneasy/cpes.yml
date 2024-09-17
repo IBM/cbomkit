@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:lightneasy:lightneasy:1.2.2:*:no_database:*:*:*:*:*
+  - cpe:2.3:a:lightneasy:lightneasy:1.2.2:*:sqlite:*:*:*:*:*
+  - cpe:2.3:a:lightneasy:lightneasy:1.2:*:no_database:*:*:*:*:*
+  - cpe:2.3:a:lightneasy:lightneasy:2.2.1:*:no_database:*:*:*:*:*
+  - cpe:2.3:a:lightneasy:lightneasy:2.2.2:*:sqlite:*:*:*:*:*
+  - cpe:2.3:a:lightneasy:lightneasy:3.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:lightneasy:lightneasy:3.2.4:*:*:*:*:*:*:*

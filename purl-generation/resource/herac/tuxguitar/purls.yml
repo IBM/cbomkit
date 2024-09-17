@@ -1,0 +1,10 @@
+purls:
+  - pkg:bitbucket/dmpas/tuxguitar
+  - pkg:deb/debian/tuxguitar
+  - pkg:deb/ubuntu/tuxguitar
+  - pkg:github/jfinkels/tuxguitar
+  - pkg:github/pcarmona79/tuxguitar
+  - pkg:github/phiresky/tuxguitar
+  - pkg:rpm/fedora/tuxguitar
+  - pkg:rpm/opensuse/tuxguitar
+  - pkg:sourceforge/tuxguitar

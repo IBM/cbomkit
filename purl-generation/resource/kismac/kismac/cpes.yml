@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:kismac:kismac:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismac:kismac:0.05d:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismac:kismac:0.10a:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismac:kismac:0.11a:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismac:kismac:0.12a:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismac:kismac:0.1a:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismac:kismac:0.1b:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismac:kismac:0.1c:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismac:kismac:0.2a:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismac:kismac:0.5d:*:*:*:*:*:*:*
+  - cpe:2.3:a:kismac:kismac:0.5d4:*:*:*:*:*:*:*

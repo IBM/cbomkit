@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:openthread:wpantund:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:openthread:wpantund:2020-05-28:*:*:*:*:*:*:*
+  - cpe:2.3:a:openthread:wpantund:2021-07-02:*:*:*:*:*:*:*

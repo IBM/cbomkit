@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/rstacruz/markdown-it-decorate
+  - pkg:npm/markdown-it-decorate

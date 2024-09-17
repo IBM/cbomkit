@@ -1,0 +1,14 @@
+cpes:
+  - cpe:2.3:a:codfront_labs:http_strict_transport_security:6.x-1.0:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:codfront_labs:http_strict_transport_security:6.x-1.0:rc1:*:*:*:drupal:*:*
+  - cpe:2.3:a:codfront_labs:http_strict_transport_security:6.x-1.1:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:codfront_labs:http_strict_transport_security:6.x-1.2:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:codfront_labs:http_strict_transport_security:6.x-1.x-dev:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:codfront_labs:http_strict_transport_security:6.x-1.x:dev:*:*:*:drupal:*:*
+  - cpe:2.3:a:codfront_labs:http_strict_transport_security:7.x-1.0:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:codfront_labs:http_strict_transport_security:7.x-1.0:rc1:*:*:*:drupal:*:*
+  - cpe:2.3:a:codfront_labs:http_strict_transport_security:7.x-1.1:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:codfront_labs:http_strict_transport_security:7.x-1.2:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:codfront_labs:http_strict_transport_security:7.x-1.x-dev:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:codfront_labs:http_strict_transport_security:8.x-1.0:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:codfront_labs:http_strict_transport_security:8.x-1.x-dev:*:*:*:*:drupal:*:*

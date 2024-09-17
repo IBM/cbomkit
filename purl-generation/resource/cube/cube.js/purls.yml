@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/cube-js/cube.js
+  - pkg:npm/%40cubejs-backend/api-gateway

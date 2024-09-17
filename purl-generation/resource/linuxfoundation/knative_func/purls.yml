@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/knative/func
+  - pkg:golang/github.com/knative/func

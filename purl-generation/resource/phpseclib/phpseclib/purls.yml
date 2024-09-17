@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/php-phpseclib
+  - pkg:deb/ubuntu/php-phpseclib
+  - pkg:github/phpseclib/phpseclib
+  - pkg:rpm/fedora/php-phpseclib
+  - pkg:sourceforge/phpseclib.mirror

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/gource
+  - pkg:deb/ubuntu/gource
+  - pkg:github/acaudwell/gource
+  - pkg:rpm/fedora/gource
+  - pkg:rpm/opensuse/gource
+  - pkg:sourceforge/gource.mirror

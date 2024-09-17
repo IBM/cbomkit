@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/rmysql
+  - pkg:deb/ubuntu/rmysql
+  - pkg:github/r-dbi/rmysql

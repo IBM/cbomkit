@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/asterisk
+  - pkg:deb/ubuntu/asterisk
+  - pkg:github/asterisk/asterisk
+  - pkg:rpm/fedora/asterisk
+  - pkg:rpm/opensuse/asterisk

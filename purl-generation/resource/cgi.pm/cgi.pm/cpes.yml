@@ -1,0 +1,10 @@
+cpes:
+  - cpe:2.3:a:cgi.pm:cgi.pm:2.73:*:*:*:*:*:*:*
+  - cpe:2.3:a:cgi.pm:cgi.pm:2.74:*:*:*:*:*:*:*
+  - cpe:2.3:a:cgi.pm:cgi.pm:2.75:*:*:*:*:*:*:*
+  - cpe:2.3:a:cgi.pm:cgi.pm:2.751:*:*:*:*:*:*:*
+  - cpe:2.3:a:cgi.pm:cgi.pm:2.753:*:*:*:*:*:*:*
+  - cpe:2.3:a:cgi.pm:cgi.pm:2.76:*:*:*:*:*:*:*
+  - cpe:2.3:a:cgi.pm:cgi.pm:2.78:*:*:*:*:*:*:*
+  - cpe:2.3:a:cgi.pm:cgi.pm:2.79:*:*:*:*:*:*:*
+  - cpe:2.3:a:cgi.pm:cgi.pm:2.93:*:*:*:*:*:*:*

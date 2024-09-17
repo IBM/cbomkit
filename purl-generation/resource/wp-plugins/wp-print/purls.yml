@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/lesterchan/wp-print
+  - pkg:github/wp-plugins/wp-print
+  - pkg:github/wpplugins/wp-print

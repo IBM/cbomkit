@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:chamilo_integration_project:chamilo_integration:7.x-1.0:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:chamilo_integration_project:chamilo_integration:7.x-1.1:*:*:*:*:drupal:*:*

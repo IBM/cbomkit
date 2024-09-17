@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:linuxfoundation:zowe_api_mediation_layer:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:zowe_api_mediation_layer:1.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:linuxfoundation:zowe_api_mediation_layer:1.19:*:*:*:*:*:*:*

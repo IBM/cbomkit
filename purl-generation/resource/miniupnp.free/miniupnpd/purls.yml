@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/miniupnpd
+  - pkg:deb/ubuntu/miniupnpd
+  - pkg:github/miniupnp/miniupnp
+  - pkg:rpm/fedora/miniupnpd

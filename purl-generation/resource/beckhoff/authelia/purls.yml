@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/beckhoff/authelia
+  - pkg:golang/github.com/beckhoff/authelia

@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/grafana/grafana-image-renderer
+  - pkg:github/grafana/grafana-image-renderer

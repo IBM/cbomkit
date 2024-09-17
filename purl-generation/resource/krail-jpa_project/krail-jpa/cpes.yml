@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:krail-jpa_project:krail-jpa:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:krail-jpa_project:krail-jpa:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:krail-jpa_project:krail-jpa:0.8.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:krail-jpa_project:krail-jpa:0.8.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:krail-jpa_project:krail-jpa:0.8.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:krail-jpa_project:krail-jpa:0.8.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:krail-jpa_project:krail-jpa:0.8.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:krail-jpa_project:krail-jpa:0.8.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:krail-jpa_project:krail-jpa:0.8.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:krail-jpa_project:krail-jpa:0.8.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:krail-jpa_project:krail-jpa:0.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:krail-jpa_project:krail-jpa:0.9.1:*:*:*:*:*:*:*

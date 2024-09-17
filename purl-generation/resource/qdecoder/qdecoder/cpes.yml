@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:qdecoder:qdecoder:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qdecoder:qdecoder:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:qdecoder:qdecoder:4.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:qdecoder:qdecoder:4.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:qdecoder:qdecoder:5.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:qdecoder:qdecoder:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:qdecoder:qdecoder:5.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:qdecoder:qdecoder:5.0.3:*:*:*:*:*:*:*

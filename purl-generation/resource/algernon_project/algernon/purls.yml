@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/xyproto/algernon
+  - pkg:golang/github.com/xyproto/algernon

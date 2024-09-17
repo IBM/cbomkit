@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/tizenrt/tizenrt
+  - pkg:github/samsung/tizenrt

@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/awscli
+  - pkg:deb/ubuntu/awscli
+  - pkg:docker/amazon/aws-cli
+  - pkg:github/aws/aws-cli
+  - pkg:gitlab/redhat/awscli
+  - pkg:pypi/awscli
+  - pkg:rpm/centos/awscli
+  - pkg:rpm/fedora/awscli
+  - pkg:rpm/opensuse/aws-cli

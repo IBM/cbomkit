@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:werdswords:download_shortcode:0.1:-:-:-:-:wordpress:*:*
+  - cpe:2.3:a:werdswords:download_shortcode:0.2.2:-:-:-:-:wordpress:*:*
+  - cpe:2.3:a:werdswords:download_shortcode:0.2.3:-:-:-:-:wordpress:*:*
+  - cpe:2.3:a:werdswords:download_shortcode:0.2:-:-:-:-:wordpress:*:*
+  - cpe:2.3:a:werdswords:download_shortcode:1.0:-:-:-:-:wordpress:*:*
+  - cpe:2.3:a:werdswords:download_shortcode:1.1:-:-:-:-:wordpress:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/htmlunit/htmlunit
+  - pkg:maven/org.htmlunit/htmlunit

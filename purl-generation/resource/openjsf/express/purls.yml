@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-express
+  - pkg:deb/ubuntu/node-express
+  - pkg:github/expressjs/express
+  - pkg:maven/org.webjars.npm/express
+  - pkg:npm/express

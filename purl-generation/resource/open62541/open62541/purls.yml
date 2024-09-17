@@ -1,0 +1,6 @@
+purls:
+  - pkg:bitbucket/logicals/open62541
+  - pkg:docker/open62541/open62541
+  - pkg:github/open62541/open62541
+  - pkg:rpm/fedora/open62541
+  - pkg:rpm/opensuse/open62541

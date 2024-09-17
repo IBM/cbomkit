@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/postmatic/postmatic-basic
+  - pkg:github/wp-plugins/postmatic
+  - pkg:github/wpplugins/postmatic

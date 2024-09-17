@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/bestwebsoft/zendesk-help-center-backup-wordpress-plugin
+  - pkg:github/wp-plugins/zendesk-help-center
+  - pkg:github/wpplugins/zendesk-help-center

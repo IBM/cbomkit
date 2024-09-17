@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/python-bottle
+  - pkg:deb/ubuntu/python-bottle
+  - pkg:github/bottlepy/bottle
+  - pkg:pypi/bottle
+  - pkg:rpm/fedora/python-bottle
+  - pkg:rpm/opensuse/python-bottle

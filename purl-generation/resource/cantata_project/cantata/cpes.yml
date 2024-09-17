@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:cantata_project:cantata:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cantata_project:cantata:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cantata_project:cantata:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cantata_project:cantata:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cantata_project:cantata:2.3.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:cantata_project:cantata:2.3.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:cantata_project:cantata:2.3.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:cantata_project:cantata:2.3.3:*:*:*:*:*:*:*

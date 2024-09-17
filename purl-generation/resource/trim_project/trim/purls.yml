@@ -1,0 +1,5 @@
+purls:
+  - pkg:github/component/trim
+  - pkg:github/trott/trim
+  - pkg:maven/org.webjars.npm/trim
+  - pkg:npm/trim

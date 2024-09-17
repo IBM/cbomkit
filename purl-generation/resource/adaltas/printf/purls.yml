@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/adaltas/node-printf
+  - pkg:npm/printf

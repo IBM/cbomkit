@@ -1,0 +1,15 @@
+cpes:
+  - cpe:2.3:a:openbb:openbb:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbb:openbb:1.0.0_beta1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbb:openbb:1.0_.0_beta1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbb:openbb:1.0.0_rc1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbb:openbb:1.0_.0_rc1:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbb:openbb:1.0.0_rc2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbb:openbb:1.0_.0_rc2:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbb:openbb:1.0.0_rc3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbb:openbb:1.0_.0_rc3:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbb:openbb:1.0.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbb:openbb:1.0_.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbb:openbb:1.0.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbb:openbb:1.0_.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:openbb:openbb:1.0.8:*:*:*:*:*:*:*

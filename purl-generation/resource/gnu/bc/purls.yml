@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/bc
+  - pkg:deb/ubuntu/bc
+  - pkg:github/ericherman/bc
+  - pkg:github/fivepiece/gnu-bc
+  - pkg:github/qunixorg/bc
+  - pkg:gitlab/redhat/bc
+  - pkg:rpm/centos/bc
+  - pkg:rpm/fedora/bc
+  - pkg:rpm/opensuse/bc

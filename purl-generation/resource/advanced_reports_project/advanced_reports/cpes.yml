@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:advanced_reports_project:advanced_reports:0.1.0:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:advanced_reports_project:advanced_reports:0.1.1:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:advanced_reports_project:advanced_reports:0.1.2:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:advanced_reports_project:advanced_reports:0.1.3:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:advanced_reports_project:advanced_reports:1.0:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:advanced_reports_project:advanced_reports:1.1.0:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:advanced_reports_project:advanced_reports:1.1.1:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:advanced_reports_project:advanced_reports:1.1.2:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:advanced_reports_project:advanced_reports:1.1.3:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:advanced_reports_project:advanced_reports:2.0:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:advanced_reports_project:advanced_reports:2.2.0:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:advanced_reports_project:advanced_reports:2.2.1:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:advanced_reports_project:advanced_reports:2.2.2:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:advanced_reports_project:advanced_reports:2.3.0:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:advanced_reports_project:advanced_reports:2.3.1:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:advanced_reports_project:advanced_reports:2.3.2:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:advanced_reports_project:advanced_reports:2.4.0:*:*:*:*:silverstripe:*:*
+  - cpe:2.3:a:advanced_reports_project:advanced_reports:2.4.1:*:*:*:*:silverstripe:*:*

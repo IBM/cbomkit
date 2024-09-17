@@ -1,0 +1,7 @@
+purls:
+  - pkg:docker/orientdb
+  - pkg:gem/orientdb
+  - pkg:github/orientechnologies/orientdb
+  - pkg:maven/com.orientechnologies/orientdb-core
+  - pkg:rpm/opensuse/orientdb
+  - pkg:sourceforge/orientdb.mirror

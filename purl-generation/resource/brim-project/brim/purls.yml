@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/brimdata/brim
+  - pkg:golang/github.com/brimdata/brim

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/openshift/machine-config-operator
+  - pkg:golang/github.com/openshift/machine-config-operator

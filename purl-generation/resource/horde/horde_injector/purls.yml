@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-injector
+  - pkg:deb/ubuntu/php-horde-injector
+  - pkg:github/horde/injector
+  - pkg:rpm/fedora/php-horde-horde-injector

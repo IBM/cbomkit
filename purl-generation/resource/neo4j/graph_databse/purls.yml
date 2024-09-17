@@ -1,0 +1,7 @@
+purls:
+  - pkg:docker/neo4j
+  - pkg:gem/neo4j
+  - pkg:github/neo4j/neo4j
+  - pkg:maven/org.neo4j/neo4j
+  - pkg:npm/neo4j
+  - pkg:pypi/neo4j

@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/quokka/quokka
+  - pkg:github/quokkaproject/quokka
+  - pkg:pypi/quokka

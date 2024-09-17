@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:libseccomp-golang_project:libseccomp-golang:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:libseccomp-golang_project:libseccomp-golang:0.9.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:libseccomp-golang_project:libseccomp-golang:0.9.1:*:*:*:*:*:*:*

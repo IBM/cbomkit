@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:piwik:piwik:0.5.5:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:piwik:piwik:0.5.5:rc2:*:*:*:*:*:*

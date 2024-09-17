@@ -1,0 +1,7 @@
+purls:
+  - pkg:bitbucket/lidyum-osp/plotly.js
+  - pkg:github/plotly/plotly.js
+  - pkg:maven/org.webjars.bower/plotly.js
+  - pkg:maven/org.webjars.npm/plotly.js
+  - pkg:npm/plotly.js
+  - pkg:sourceforge/plotly.js.mirror

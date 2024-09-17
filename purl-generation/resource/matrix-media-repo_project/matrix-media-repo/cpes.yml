@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:matrix-media-repo_project:matrix-media-repo:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix-media-repo_project:matrix-media-repo:1.0.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:matrix-media-repo_project:matrix-media-repo:1.0.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:matrix-media-repo_project:matrix-media-repo:1.0.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:matrix-media-repo_project:matrix-media-repo:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix-media-repo_project:matrix-media-repo:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix-media-repo_project:matrix-media-repo:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix-media-repo_project:matrix-media-repo:1.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix-media-repo_project:matrix-media-repo:1.1.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix-media-repo_project:matrix-media-repo:1.1.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix-media-repo_project:matrix-media-repo:1.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix-media-repo_project:matrix-media-repo:1.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix-media-repo_project:matrix-media-repo:1.2.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix-media-repo_project:matrix-media-repo:1.2.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix-media-repo_project:matrix-media-repo:1.2.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix-media-repo_project:matrix-media-repo:1.2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix-media-repo_project:matrix-media-repo:1.2.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:matrix-media-repo_project:matrix-media-repo:1.2.7:*:*:*:*:*:*:*

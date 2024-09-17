@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/hapijs/inert
+  - pkg:npm/%40hapi/inert

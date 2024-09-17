@@ -1,0 +1,21 @@
+cpes:
+  - cpe:2.3:a:prestosql:presto:318:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestosql:presto:319:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestosql:presto:320:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestosql:presto:321:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestosql:presto:322:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestosql:presto:323:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestosql:presto:324:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestosql:presto:325:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestosql:presto:326:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestosql:presto:327:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestosql:presto:328:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestosql:presto:329:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestosql:presto:330:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestosql:presto:331:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestosql:presto:332:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestosql:presto:333:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestosql:presto:334:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestosql:presto:335:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestosql:presto:336:*:*:*:*:*:*:*
+  - cpe:2.3:a:prestosql:presto:337:*:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/redis
+  - pkg:deb/ubuntu/redis
+  - pkg:docker/redis
+  - pkg:github/redis/redis
+  - pkg:rpm/centos/redis
+  - pkg:rpm/opensuse/redis

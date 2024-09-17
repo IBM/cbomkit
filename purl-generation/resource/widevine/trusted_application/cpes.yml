@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:widevine:trusted_application:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:widevine:trusted_application:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:widevine:trusted_application:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:widevine:trusted_application:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:widevine:trusted_application:5.1.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:widevine:trusted_application:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:widevine:trusted_application:7.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:widevine:trusted_application:7.1.1:*:*:*:*:*:*:*

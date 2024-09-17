@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/libtirpc
+  - pkg:deb/ubuntu/libtirpc
+  - pkg:github/couchbasedeps/libtirpc
+  - pkg:github/konrad-schwarz/libtirpc
+  - pkg:rpm/centos/libtirpc
+  - pkg:rpm/fedora/libtirpc
+  - pkg:rpm/opensuse/libtirpc
+  - pkg:sourceforge/libtirpc

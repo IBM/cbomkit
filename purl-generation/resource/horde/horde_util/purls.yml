@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-util
+  - pkg:deb/ubuntu/php-horde-util
+  - pkg:github/horde/util
+  - pkg:rpm/fedora/php-horde-horde-util

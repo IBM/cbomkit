@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/doctrine/doctrine1
+  - pkg:github/doctrine/doctrine1

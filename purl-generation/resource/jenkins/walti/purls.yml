@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/jenkinsci/walti-plugin
+  - pkg:github/walti/walti-plugin

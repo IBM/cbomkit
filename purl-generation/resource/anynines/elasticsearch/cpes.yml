@@ -1,0 +1,13 @@
+cpes:
+  - cpe:2.3:a:anynines:elasticsearch:0.9.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:anynines:elasticsearch:0.9.1:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:anynines:elasticsearch:0.9.2:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:anynines:elasticsearch:0.9.3:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:anynines:elasticsearch:0.9.4:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:anynines:elasticsearch:1.0.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:anynines:elasticsearch:2.0.1:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:anynines:elasticsearch:2.0.2:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:anynines:elasticsearch:2.1.0:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:anynines:elasticsearch:2.1.1:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:anynines:elasticsearch:2.1.2:*:*:*:*:pivotal_cloud_foundry:*:*
+  - cpe:2.3:a:anynines:elasticsearch:-:*:*:*:*:pivotal_cloud_foundry:*:*

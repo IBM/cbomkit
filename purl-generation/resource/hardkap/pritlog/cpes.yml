@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:hardkap:pritlog:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:hardkap:pritlog:0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:hardkap:pritlog:0.3:*:*:*:*:*:*:*

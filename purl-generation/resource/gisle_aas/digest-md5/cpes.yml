@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:gisle_aas:digest-md5:2.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:gisle_aas:digest-md5:2.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:gisle_aas:digest-md5:2.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:gisle_aas:digest-md5:2.19:*:*:*:*:*:*:*

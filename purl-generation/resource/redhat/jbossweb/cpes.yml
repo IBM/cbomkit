@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:redhat:jbossweb:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jbossweb:7.5.31.final-redhat-3:*:*:*:*:*:*:*

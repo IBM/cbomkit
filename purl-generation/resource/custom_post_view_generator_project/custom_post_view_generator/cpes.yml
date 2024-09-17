@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:custom_post_view_generator_project:custom_post_view_generator:0.4.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:custom_post_view_generator_project:custom_post_view_generator:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,10 @@
+purls:
+  - pkg:bitbucket/cleveron/fmt
+  - pkg:deb/debian/fmtlib
+  - pkg:deb/ubuntu/fmtlib
+  - pkg:github/fmtlib/fmt
+  - pkg:gitlab/cleveron/fmt
+  - pkg:nuget/fmt
+  - pkg:rpm/fedora/fmt
+  - pkg:rpm/opensuse/fmt
+  - pkg:sourceforge/fmt.mirror

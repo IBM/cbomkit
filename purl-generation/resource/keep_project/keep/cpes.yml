@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:keep_project:keep:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:keep_project:keep:1.2:*:*:*:*:*:*:*

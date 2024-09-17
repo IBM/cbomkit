@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/artesaos/seotools
+  - pkg:github/artesaos/seotools
+  - pkg:golang/github.com/artesaos/seotools

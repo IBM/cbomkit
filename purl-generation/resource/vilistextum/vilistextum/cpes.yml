@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:vilistextum:vilistextum:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:vilistextum:vilistextum:2.6.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:vilistextum:vilistextum:2.6.7:*:*:*:*:*:*:*

@@ -1,0 +1,7 @@
+purls:
+  - pkg:docker/grandnode/develop
+  - pkg:docker/grandnode/grandnode
+  - pkg:docker/grandnode/grandnode2
+  - pkg:github/grandnode/grandnode
+  - pkg:github/grandnode/grandnode2
+  - pkg:sourceforge/grandnode

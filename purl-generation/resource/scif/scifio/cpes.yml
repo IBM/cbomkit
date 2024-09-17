@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:scif:scifio:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:scif:scifio:2022-07-29:*:*:*:*:*:*:*

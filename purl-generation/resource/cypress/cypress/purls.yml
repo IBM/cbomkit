@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/cypress-io/cypress-example-kitchensink
+  - pkg:bitbucket/cypress-io/cypress-realworld-app
+  - pkg:github/cypress-io/cypress
+  - pkg:github/cypress-io/cypress-chrome-recorder
+  - pkg:github/cypress-io/cypress-cli
+  - pkg:github/cypress-io/cypress-xpath
+  - pkg:golang/github.com/cypress-io/cypress

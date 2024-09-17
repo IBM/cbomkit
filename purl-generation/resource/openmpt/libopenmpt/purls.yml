@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/libopenmpt
+  - pkg:deb/ubuntu/libopenmpt
+  - pkg:github/openmpt/openmpt
+  - pkg:rpm/fedora/libopenmpt
+  - pkg:sourceforge/modplug

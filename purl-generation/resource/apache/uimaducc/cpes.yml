@@ -1,0 +1,16 @@
+cpes:
+  - cpe:2.3:a:apache:uimaducc:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:uimaducc:0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:uimaducc:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:uimaducc:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:uimaducc:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:uimaducc:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:uimaducc:2.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:uimaducc:2.1.0-0516:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:uimaducc:2.1.0-0517:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:uimaducc:2.1.0-0524:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:uimaducc:2.1.0-0525:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:uimaducc:2.1.0-0526:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:uimaducc:2.2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:uimaducc:2.2.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:uimaducc:2.2.2:*:*:*:*:*:*:*

@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/node-shelljs
+  - pkg:deb/ubuntu/node-shelljs
+  - pkg:github/shelljs/shelljs
+  - pkg:maven/org.webjars.bower/shelljs
+  - pkg:maven/org.webjars.npm/shelljs
+  - pkg:npm/shelljs
+  - pkg:rpm/fedora/nodejs-shelljs
+  - pkg:sourceforge/shelljs.mirror

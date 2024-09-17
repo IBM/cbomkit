@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:dotnetindex:active_news_manager:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotnetindex:active_news_manager:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:dotnetindex:active_news_manager:2:*:*:*:*:*:*:*

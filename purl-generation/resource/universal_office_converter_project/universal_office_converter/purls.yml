@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/unoconv
+  - pkg:deb/ubuntu/unoconv
+  - pkg:github/unoconv/unoconv
+  - pkg:pypi/unoconv
+  - pkg:rpm/fedora/unoconv
+  - pkg:rpm/opensuse/unoconv

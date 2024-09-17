@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:bottle-auth_project:bottle-auth:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:bottle-auth_project:bottle-auth:-:*:*:*:*:*:*:*

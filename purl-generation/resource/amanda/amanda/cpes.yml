@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:amanda:amanda:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:amanda:amanda:2.3.0.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:amanda:amanda:3.5.1:*:*:*:*:*:*:*

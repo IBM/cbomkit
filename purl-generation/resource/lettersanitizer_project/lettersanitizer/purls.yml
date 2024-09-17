@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mat-sz/lettersanitizer
+  - pkg:npm/lettersanitizer

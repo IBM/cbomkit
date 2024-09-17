@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:bumpalo_project:bumpalo:1.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:1.0.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:1.0.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:1.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:1.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:2.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:2.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:2.2.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:2.2.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:2.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:2.4.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:2.4.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:2.4.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:2.4.3:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:2.5.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:2.6.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:3.0.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:3.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:3.1.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:3.1.2:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:3.2.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:3.2.1:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:3.3.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:bumpalo_project:bumpalo:3.4.0:*:*:*:*:rust:*:*

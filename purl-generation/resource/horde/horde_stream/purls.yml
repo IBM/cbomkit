@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-stream
+  - pkg:deb/ubuntu/php-horde-stream
+  - pkg:github/horde/stream
+  - pkg:rpm/fedora/php-horde-horde-stream

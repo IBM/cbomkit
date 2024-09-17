@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:apache:xerces2_java:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xerces2_java:2.10.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xerces2_java:2.11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache:xerces2_java:2.9.1:*:*:*:*:*:*:*

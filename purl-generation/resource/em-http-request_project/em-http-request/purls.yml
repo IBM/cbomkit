@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/ruby-em-http-request
+  - pkg:deb/ubuntu/ruby-em-http-request
+  - pkg:gem/em-http-request
+  - pkg:github/igrigorik/em-http-request
+  - pkg:rpm/fedora/rubygem-em-http-request
+  - pkg:rpm/opensuse/rubygem-em-http-request

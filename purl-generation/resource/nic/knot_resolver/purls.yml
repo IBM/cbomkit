@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/knot-resolver
+  - pkg:deb/ubuntu/knot-resolver
+  - pkg:docker/cznic/knot-resolver
+  - pkg:github/cz-nic/knot-resolver
+  - pkg:rpm/fedora/knot-resolver
+  - pkg:rpm/opensuse/knot-resolver

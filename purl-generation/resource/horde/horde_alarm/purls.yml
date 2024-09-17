@@ -1,0 +1,5 @@
+purls:
+  - pkg:deb/debian/php-horde-alarm
+  - pkg:deb/ubuntu/php-horde-alarm
+  - pkg:github/horde/alarm
+  - pkg:rpm/fedora/php-horde-horde-alarm

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:keysight:database_connector:1.5.0:*:*:*:*:confluence:*:*
+  - cpe:2.3:a:keysight:database_connector:-:*:*:*:*:confluence:*:*

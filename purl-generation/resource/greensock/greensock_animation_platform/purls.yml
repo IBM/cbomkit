@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/greensock/gsap
+  - pkg:npm/gsap

@@ -1,0 +1,8 @@
+purls:
+  - pkg:cpan/fusioninventory-agent
+  - pkg:deb/debian/fusioninventory-agent
+  - pkg:deb/ubuntu/fusioninventory-agent
+  - pkg:github/fusioninventory/fusioninventory-agent
+  - pkg:rpm/fedora/fusioninventory-agent
+  - pkg:rpm/opensuse/fusioninventory-agent
+  - pkg:sourceforge/fiawi

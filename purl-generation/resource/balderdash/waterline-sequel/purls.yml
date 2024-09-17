@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/balderdashy/waterline-sequel
+  - pkg:npm/waterline-sequel

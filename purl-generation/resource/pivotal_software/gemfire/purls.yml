@@ -1,0 +1,3 @@
+purls:
+  - pkg:maven/com.gemstone.gemfire/gemfire
+  - pkg:npm/gemfire

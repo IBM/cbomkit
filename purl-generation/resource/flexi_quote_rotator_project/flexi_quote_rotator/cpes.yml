@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:flexi_quote_rotator_project:flexi_quote_rotator:0.9.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:flexi_quote_rotator_project:flexi_quote_rotator:-:*:*:*:*:wordpress:*:*

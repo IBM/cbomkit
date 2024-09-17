@@ -1,0 +1,15 @@
+purls:
+  - pkg:cpan/pdf-webKit
+  - pkg:deb/debian/pdfkit
+  - pkg:deb/ubuntu/pdfkit
+  - pkg:docker/bmcom/pdfkit
+  - pkg:gem/pdfkit
+  - pkg:github/foliojs/pdfkit
+  - pkg:github/pdfkit/pdfkit
+  - pkg:github/python-pdfkit
+  - pkg:maven/org.webjars.npm/pdfkit
+  - pkg:npm/pdfkit
+  - pkg:pypi/pdfkit
+  - pkg:rpm/fedora/rubygem-pdfkit
+  - pkg:rpm/opensuse/rubygem-pdfkit
+  - pkg:sourceforge/pdfkit

@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:freshdns_project:freshdns:1.0.0:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:freshdns_project:freshdns:1.0.1.1:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:freshdns_project:freshdns:1.0.1:beta1:*:*:*:*:*:*
+  - cpe:2.3:a:freshdns_project:freshdns:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:freshdns_project:freshdns:1.0.5:*:*:*:*:*:*:*

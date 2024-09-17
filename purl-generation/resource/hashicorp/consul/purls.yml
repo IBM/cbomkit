@@ -1,0 +1,4 @@
+purls:
+  - pkg:deb/debian/consul
+  - pkg:deb/ubuntu/consul
+  - pkg:github/hashicorp/consul

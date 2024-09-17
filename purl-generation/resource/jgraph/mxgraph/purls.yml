@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jgraph/mxgraph
+  - pkg:maven/org.webjars.npm/mxgraph
+  - pkg:npm/mxgraph

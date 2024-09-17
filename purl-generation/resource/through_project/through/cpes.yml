@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:through_project:through:0.1.0:*:*:*:*:rust:*:*
+  - cpe:2.3:a:through_project:through:2021-02-18:*:*:*:*:rust:*:*
+  - cpe:2.3:a:through_project:through:-:*:*:*:*:rust:*:*

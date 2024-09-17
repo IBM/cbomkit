@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/emikulic/darkhttpd
+  - pkg:opensuse/darkhttpd
+  - pkg:rpm/fedora/darkhttpd

@@ -1,0 +1,8 @@
+purls:
+  - pkg:apache/xmlgraphics
+  - pkg:deb/debian/xmlgraphics-commons
+  - pkg:deb/ubuntu/xmlgraphics-commons
+  - pkg:github/apache/xmlgraphics-commons
+  - pkg:maven/org.apache.xmlgraphics/xmlgraphics-commons
+  - pkg:rpm/fedora/xmlgraphics-commons
+  - pkg:rpm/opensuse/xmlgraphics-commons

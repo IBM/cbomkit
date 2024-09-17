@@ -1,0 +1,6 @@
+purls:
+  - pkg:docker/bitwarden/server
+  - pkg:github/bitwarden/server
+  - pkg:golang/github.com/bitwarden/server
+  - pkg:rpm/opensuse/bitwarden
+  - pkg:sourceforge/bitwarden-server.mirror

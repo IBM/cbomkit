@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:fast-cpp-csv-parser_project:fast-cpp-csv-parser:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:fast-cpp-csv-parser_project:fast-cpp-csv-parser:2018-07-06:*:*:*:*:*:*:*

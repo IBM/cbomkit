@@ -1,0 +1,9 @@
+purls:
+  - pkg:deb/debian/nltk
+  - pkg:deb/ubuntu/nltk
+  - pkg:docker/floydhub/nltk
+  - pkg:github/nltk/nltk
+  - pkg:gitlab/kalilinux/nltk
+  - pkg:pypi/nltk
+  - pkg:rpm/fedora/python-nltk
+  - pkg:rpm/opensuse/python-nltk

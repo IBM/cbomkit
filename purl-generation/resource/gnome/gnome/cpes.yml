@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:gnome:gnome:2.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome:2.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome:2.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome:2.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:gnome:-:*:linux:*:*:*:*:*

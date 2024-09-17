@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/python-keystonemiddleware
+  - pkg:deb/ubuntu/python-keystonemiddleware
+  - pkg:github/openstack/keystonemiddleware
+  - pkg:pypi/keystonemiddleware
+  - pkg:rpm/opensuse/python-keystonemiddleware

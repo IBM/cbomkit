@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:apache_friends:xampp:1.6.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:apache_friends:xampp:1.6.8:*:*:*:*:*:*:*

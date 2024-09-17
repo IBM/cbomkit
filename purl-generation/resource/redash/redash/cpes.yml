@@ -1,0 +1,27 @@
+cpes:
+  - cpe:2.3:a:redash:redash:0.1.29:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:0.1.30:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:0.1.31:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:0.1.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:0.1.35:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:0.1.45:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:0.2.58:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:0.2.60:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:0.2.62:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:0.2.64:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:0.2.70:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:1.0.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:2.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:2.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:3.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:4.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:4.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:4.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:5.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:5.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:5.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:6.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:7.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redash:redash:8.0.0:*:*:*:*:*:*:*

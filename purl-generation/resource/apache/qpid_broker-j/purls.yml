@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/qpid
+  - pkg:github/apache/qpid-broker-j
+  - pkg:maven/org.apache.qpid/apache-qpid-broker-j

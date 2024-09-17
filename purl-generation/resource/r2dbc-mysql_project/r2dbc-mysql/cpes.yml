@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:r2dbc-mysql_project:r2dbc-mysql:0.1.0:m1:*:*:*:*:*:*
+  - cpe:2.3:a:r2dbc-mysql_project:r2dbc-mysql:0.2.0:m2:*:*:*:*:*:*
+  - cpe:2.3:a:r2dbc-mysql_project:r2dbc-mysql:0.8.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:r2dbc-mysql_project:r2dbc-mysql:0.8.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:r2dbc-mysql_project:r2dbc-mysql:0.8.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:r2dbc-mysql_project:r2dbc-mysql:0.8.1:*:*:*:*:*:*:*

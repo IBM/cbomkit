@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/truenas/core-build
+  - pkg:github/truenas/middleware

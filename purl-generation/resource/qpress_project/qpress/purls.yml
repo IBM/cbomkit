@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/evgeniypatlan/qpress
+  - pkg:github/pierrelvx/qpress
+  - pkg:golang/github.com/pierrelvx/qpress

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/coco-bigdata/dataease
+  - pkg:github/dataease/dataease
+  - pkg:sourceforge/dataease.mirror

@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/mpmath
+  - pkg:deb/ubuntu/mpmath
+  - pkg:github/fredrik-johansson/mpmath
+  - pkg:pypi/mpmath
+  - pkg:rpm/fedora/python-mpmath
+  - pkg:rpm/opensuse/python-mpmath

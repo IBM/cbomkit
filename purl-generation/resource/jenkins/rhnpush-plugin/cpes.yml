@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:jenkins:rhnpush-plugin:0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rhnpush-plugin:0.4.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rhnpush-plugin:0.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rhnpush-plugin:0.5.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rhnpush-plugin:0.5.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:rhnpush-plugin:0.5.2:*:*:*:*:jenkins:*:*

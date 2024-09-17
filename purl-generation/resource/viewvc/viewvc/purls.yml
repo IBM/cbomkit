@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/viewvc
+  - pkg:deb/ubuntu/viewvc
+  - pkg:github/viewvc/viewvc
+  - pkg:rpm/fedora/viewvc
+  - pkg:rpm/opensuse/viewvc

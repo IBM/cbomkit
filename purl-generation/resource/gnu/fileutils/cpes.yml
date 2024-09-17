@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:gnu:fileutils:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:fileutils:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:fileutils:4.0.36:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:fileutils:4.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:fileutils:4.1.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnu:fileutils:4.1.7:*:*:*:*:*:*:*

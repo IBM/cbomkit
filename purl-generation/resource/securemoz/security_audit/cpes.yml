@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:securemoz:security_audit:1.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:securemoz:security_audit:1.0.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:securemoz:security_audit:1.0.3:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:securemoz:security_audit:1.0.4:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:securemoz:security_audit:1.0.5:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:securemoz:security_audit:1.0.6:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:securemoz:security_audit:*:*:*:*:*:wordpress:*:*

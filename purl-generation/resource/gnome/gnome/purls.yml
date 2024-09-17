@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/gnome-desktop
+  - pkg:deb/ubuntu/gnome-desktop
+  - pkg:github/gnome/gnome-desktop
+  - pkg:rpm/fedora/gnome-desktop
+  - pkg:rpm/opensuse/gnome-desktop

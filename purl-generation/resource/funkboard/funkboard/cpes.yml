@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:funkboard:funkboard:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:funkboard:funkboard:0.66:*:*:*:*:*:*:*
+  - cpe:2.3:a:funkboard:funkboard:0.66cf:*:*:*:*:*:*:*
+  - cpe:2.3:a:funkboard:funkboard:0.66f:*:*:*:*:*:*:*
+  - cpe:2.3:a:funkboard:funkboard:0.70:*:*:*:*:*:*:*
+  - cpe:2.3:a:funkboard:funkboard:0.71:*:*:*:*:*:*:*
+  - cpe:2.3:a:funkboard:funkboard:cf0.71:*:*:*:*:*:*:*

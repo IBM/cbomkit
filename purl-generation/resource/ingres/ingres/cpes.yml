@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:ingres:ingres:2006:9.0.1:*:*:*:*:*:*
+  - cpe:2.3:a:ingres:ingres:2006:9.0.4:*:*:*:*:*:*
+  - cpe:2.3:a:ingres:ingres:2006:9.1.0:*:*:*:*:*:*
+  - cpe:2.3:a:ingres:ingres:2006:release_1:*:*:*:*:*:*
+  - cpe:2.3:a:ingres:ingres:2006:release_2:*:*:*:*:*:*
+  - cpe:2.3:a:ingres:ingres:2.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:ingres:ingres:2.6:*:*:*:*:*:*:*

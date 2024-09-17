@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:themesgrove:onepage_builder:2.4.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:themesgrove:onepage_builder:*:*:*:*:*:wordpress:*:*

@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/facebook/wangle
+  - pkg:rpm/fedora/wangle

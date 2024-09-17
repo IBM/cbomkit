@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/kubernetes-csi/external-resizer
+  - pkg:rpm/opensuse/csi-external-resizer

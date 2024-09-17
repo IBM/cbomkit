@@ -1,0 +1,6 @@
+purls:
+  - pkg:github/aqbanking/gwenhywfar
+  - pkg:github/cstim/gwenhywfar
+  - pkg:github/tribut/gwenhywfar
+  - pkg:rpm/fedora/gwenhywfar
+  - pkg:rpm/opensuse/gwenhywfar

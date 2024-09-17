@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:jeedom:jeedom:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:jeedom:jeedom:4.0.38:*:*:*:*:*:*:*

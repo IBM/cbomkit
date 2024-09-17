@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/rohankumardubey/cosign
+  - pkg:github/sigstore/cosign
+  - pkg:rpm/opensuse/cosign

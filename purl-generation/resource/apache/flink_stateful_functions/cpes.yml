@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:apache:flink_stateful_functions:3.1.0:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:flink_stateful_functions:3.1.0:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:flink_stateful_functions:3.1.0:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:flink_stateful_functions:3.1.1:-:*:*:*:*:*:*
+  - cpe:2.3:a:apache:flink_stateful_functions:3.1.1:rc1:*:*:*:*:*:*
+  - cpe:2.3:a:apache:flink_stateful_functions:3.1.1:rc2:*:*:*:*:*:*
+  - cpe:2.3:a:apache:flink_stateful_functions:3.2.0:*:*:*:*:*:*:*

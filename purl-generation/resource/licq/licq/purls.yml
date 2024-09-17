@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/licq-im/licq
+  - pkg:rpm/opensuse/licq
+  - pkg:sourceforge/licq

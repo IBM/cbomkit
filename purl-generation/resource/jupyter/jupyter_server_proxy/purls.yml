@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jupyterhub/jupyter-server-proxy
+  - pkg:npm/%40jupyterhub/jupyter-server-proxy
+  - pkg:pypi/jupyter-server-proxy

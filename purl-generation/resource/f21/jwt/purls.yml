@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/f21/jwt
+  - pkg:github/f21/jwt

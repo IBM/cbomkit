@@ -1,0 +1,22 @@
+cpes:
+  - cpe:2.3:a:gnome:libsocialweb:0.25.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libsocialweb:0.25.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libsocialweb:0.25.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libsocialweb:0.25.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libsocialweb:0.25.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libsocialweb:0.25.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libsocialweb:0.25.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libsocialweb:0.25.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libsocialweb:0.25.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libsocialweb:0.25.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libsocialweb:0.25.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libsocialweb:0.25.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libsocialweb:0.25.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libsocialweb:0.25.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libsocialweb:0.25.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libsocialweb:0.25.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libsocialweb:0.25.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libsocialweb:0.25.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libsocialweb:0.25.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libsocialweb:0.25.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libsocialweb:0.25.9:*:*:*:*:*:*:*

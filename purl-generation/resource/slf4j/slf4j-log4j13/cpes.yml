@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:slf4j:slf4j-log4j13:1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:slf4j:slf4j-log4j13:1.0.1:*:*:*:*:*:*:*

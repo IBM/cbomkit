@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/dckt/localhost-now
+  - pkg:npm/localhost-now

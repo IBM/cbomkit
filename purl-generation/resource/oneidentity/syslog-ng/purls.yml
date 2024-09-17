@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/syslog-ng
+  - pkg:deb/ubuntu/syslog-ng
+  - pkg:github/syslog-ng/syslog-ng
+  - pkg:rpm/fedora/syslog-ng
+  - pkg:rpm/opensuse/syslog-ng

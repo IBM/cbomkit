@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:powerpc-utils_project:powerpc-utils:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:powerpc-utils_project:powerpc-utils:1.2.20:*:*:*:*:*:*:*

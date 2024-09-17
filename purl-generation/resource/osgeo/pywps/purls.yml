@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/pywps
+  - pkg:deb/ubuntu/pywps
+  - pkg:github/geopython/pywps
+  - pkg:pypi/pywps
+  - pkg:rpm/opensuse/python-pywps

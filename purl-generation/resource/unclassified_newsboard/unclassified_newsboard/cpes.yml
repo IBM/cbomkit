@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:unclassified_newsboard:unclassified_newsboard:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:unclassified_newsboard:unclassified_newsboard:1.5.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:unclassified_newsboard:unclassified_newsboard:1.5.3a:*:*:*:*:*:*:*
+  - cpe:2.3:a:unclassified_newsboard:unclassified_newsboard:1.5.3_patch3:*:*:*:*:*:*:*
+  - cpe:2.3:a:unclassified_newsboard:unclassified_newsboard:1.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:unclassified_newsboard:unclassified_newsboard:1.6.3:*:*:*:*:*:*:*

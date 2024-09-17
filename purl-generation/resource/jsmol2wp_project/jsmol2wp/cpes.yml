@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:jsmol2wp_project:jsmol2wp:1.01:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jsmol2wp_project:jsmol2wp:1.02:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jsmol2wp_project:jsmol2wp:1.03:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jsmol2wp_project:jsmol2wp:1.05:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jsmol2wp_project:jsmol2wp:1.06:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:jsmol2wp_project:jsmol2wp:1.07:*:*:*:*:wordpress:*:*

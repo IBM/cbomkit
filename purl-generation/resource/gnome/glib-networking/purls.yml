@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/glib-networking
+  - pkg:deb/ubuntu/glib-networking
+  - pkg:github/gnome/glib-networking
+  - pkg:rpm/centos/glib-networking
+  - pkg:rpm/fedora/glib-networking
+  - pkg:rpm/opensuse/glib-networking

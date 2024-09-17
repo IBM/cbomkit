@@ -1,0 +1,4 @@
+cpes:
+  - cpe:2.3:a:phpmygallery:phpmygallery:1.0:beta2:*:*:*:*:*:*
+  - cpe:2.3:a:phpmygallery:phpmygallery:1.51:gold:*:*:*:*:*:*
+  - cpe:2.3:a:phpmygallery:phpmygallery:1.5:beta:*:*:*:*:*:*

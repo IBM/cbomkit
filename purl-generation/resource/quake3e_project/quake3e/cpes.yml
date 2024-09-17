@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:quake3e_project:quake3e:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:quake3e_project:quake3e:2019-02-17:*:*:*:*:*:*:*
+  - cpe:2.3:a:quake3e_project:quake3e:2019-03-14:*:*:*:*:*:*:*
+  - cpe:2.3:a:quake3e_project:quake3e:2019-04-18:*:*:*:*:*:*:*
+  - cpe:2.3:a:quake3e_project:quake3e:2019-06-05:*:*:*:*:*:*:*
+  - cpe:2.3:a:quake3e_project:quake3e:2019-09-09:*:*:*:*:*:*:*

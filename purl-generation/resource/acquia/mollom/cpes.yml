@@ -1,0 +1,9 @@
+cpes:
+  - cpe:2.3:a:acquia:mollom:6.x-2.10:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:acquia:mollom:6.x-2.11:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:acquia:mollom:6.x-2.12:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:acquia:mollom:6.x-2.13:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:acquia:mollom:6.x-2.14:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:acquia:mollom:6.x-2.7:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:acquia:mollom:6.x-2.8:*:*:*:*:drupal:*:*
+  - cpe:2.3:a:acquia:mollom:6.x-2.9:*:*:*:*:drupal:*:*

@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/node-hoek
+  - pkg:deb/ubuntu/node-hoek
+  - pkg:github/hapijs/hoek
+  - pkg:maven/org.webjars.npm/hoek
+  - pkg:npm/hoek

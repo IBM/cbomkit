@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/schismtracker/schismtracker
+  - pkg:rpm/fedora/schismtracker
+  - pkg:rpm/opensuse/schismtracker

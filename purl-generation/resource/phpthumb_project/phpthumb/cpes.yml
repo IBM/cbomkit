@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:phpthumb_project:phpthumb:1.7.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpthumb_project:phpthumb:1.7.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpthumb_project:phpthumb:1.7.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:phpthumb_project:phpthumb:1.7.14:*:*:*:*:*:*:*

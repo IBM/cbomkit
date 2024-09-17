@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/yubico/yubihsm-shell
+  - pkg:rpm/fedora/yubihsm-shell

@@ -1,0 +1,23 @@
+cpes:
+  - cpe:2.3:a:jenkins:logstash:0.7.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:logstash:0.7.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:logstash:0.7.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:logstash:0.7.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:logstash:0.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:logstash:0.8.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:logstash:1.0.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:logstash:1.0.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:logstash:1.0.2:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:logstash:1.0.3:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:logstash:1.0.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:logstash:1.1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:logstash:1.1.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:logstash:1.2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:logstash:1.3.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:logstash:1.4.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:logstash:2.0.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:logstash:2.1.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:logstash:2.2.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:logstash:2.3.0:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:logstash:2.3.1:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:logstash:2.3.2:*:*:*:*:jenkins:*:*

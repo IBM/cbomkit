@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/cups
+  - pkg:deb/ubuntu/cups
+  - pkg:github/apple/cups
+  - pkg:rpm/fedora/cups
+  - pkg:rpm/opensuse/cups

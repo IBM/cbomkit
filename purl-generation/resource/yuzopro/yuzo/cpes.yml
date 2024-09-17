@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:yuzopro:yuzo:5.12.63:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yuzopro:yuzo:5.12.82:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yuzopro:yuzo:5.12.91:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:yuzopro:yuzo:5.12.94:*:*:*:*:wordpress:*:*

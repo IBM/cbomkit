@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:moniwiki:moniwiki:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:moniwiki:moniwiki:1.0.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:moniwiki:moniwiki:1.0.9:*:*:*:*:*:*:*
+  - cpe:2.3:a:moniwiki:moniwiki:1.0.9.1:*:*:*:*:*:*:*

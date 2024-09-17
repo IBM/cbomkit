@@ -1,0 +1,4 @@
+purls:
+  - pkg:composer/cyberitas/wp-pinterest-rss-widget
+  - pkg:github/cyberitas/wordpress-pinterest-rss-widget
+  - pkg:github/webplantmedia/pinterest-rss-widget

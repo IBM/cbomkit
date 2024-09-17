@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:oc-server3_project:oc-server3:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:oc-server3_project:oc-server3:-:*:*:*:*:*:*:*

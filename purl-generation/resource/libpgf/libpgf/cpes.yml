@@ -1,0 +1,7 @@
+cpes:
+  - cpe:2.3:a:libpgf:libpgf:6.11.42:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpgf:libpgf:6.12.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpgf:libpgf:6.14.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpgf:libpgf:7.15.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpgf:libpgf:7.15.32:*:*:*:*:*:*:*
+  - cpe:2.3:a:libpgf:libpgf:7.19.3:*:*:*:*:*:*:*

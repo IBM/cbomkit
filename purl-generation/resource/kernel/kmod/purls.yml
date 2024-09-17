@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/kmod
+  - pkg:deb/ubuntu/kmod
+  - pkg:github/lucasdemarchi/kmod
+  - pkg:gitlab/redhat/kmod
+  - pkg:rpm/centos/kmod
+  - pkg:rpm/fedora/kmod
+  - pkg:rpm/opensuse/kmod

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/dulldusk/phpfm
+  - pkg:github/khilnani/phpfilemanager
+  - pkg:sourceforge/phpfm

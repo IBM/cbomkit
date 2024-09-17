@@ -1,0 +1,5 @@
+cpes:
+  - cpe:2.3:a:vmware:vcenter:4.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:vcenter:4.0:update_1:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:vcenter:4.0:update_2:*:*:*:*:*:*
+  - cpe:2.3:a:vmware:vcenter:4.1:*:*:*:*:*:*:*

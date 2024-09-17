@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/byzanz
+  - pkg:deb/ubuntu/byzanz
+  - pkg:github/threedaymonk/byzanz
+  - pkg:github/xatgithub/byzanz
+  - pkg:rpm/fedora/byzanz
+  - pkg:rpm/opensuse/byzanz

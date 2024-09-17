@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/kmail
+  - pkg:deb/ubuntu/kmail
+  - pkg:github/kde/kmail
+  - pkg:rpm/fedora/kmail
+  - pkg:rpm/opensuse/kmail

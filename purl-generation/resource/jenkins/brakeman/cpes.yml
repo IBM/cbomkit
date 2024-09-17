@@ -1,0 +1,11 @@
+cpes:
+  - cpe:2.3:a:jenkins:brakeman:0.10:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:brakeman:0.11:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:brakeman:0.12:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:brakeman:0.13:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:brakeman:0.4:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:brakeman:0.5:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:brakeman:0.6:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:brakeman:0.7:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:brakeman:0.8:*:*:*:*:jenkins:*:*
+  - cpe:2.3:a:jenkins:brakeman:0.9:*:*:*:*:jenkins:*:*

@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:google:boringssl:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:google:boringssl:2018-06-14:*:*:*:*:*:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/jcbrand/converse.js
+  - pkg:maven/org.webjars.npm/converse.js
+  - pkg:npm/converse.js

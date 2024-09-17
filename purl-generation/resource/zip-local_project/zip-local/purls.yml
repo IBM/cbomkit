@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/mostafa-samir/zip-local
+  - pkg:npm/zip-local

@@ -1,0 +1,2 @@
+cpes:
+  - cpe:2.3:a:gstreamer_project:gst-rtsp-server:1.14.5:*:*:*:*:*:*:*

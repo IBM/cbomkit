@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/stanfordnlp/corenlp
+  - pkg:maven/edu.stanford.nlp/stanford-corenlp
+  - pkg:sourceforge/stanford-corenlp.mirror

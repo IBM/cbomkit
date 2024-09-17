@@ -1,0 +1,6 @@
+cpes:
+  - cpe:2.3:a:pivotal_software:credhub_service_broker:1.0.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal_software:credhub_service_broker:1.0.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal_software:credhub_service_broker:1.0.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal_software:credhub_service_broker:1.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pivotal_software:credhub_service_broker:1.2.0:*:*:*:*:*:*:*

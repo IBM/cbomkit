@@ -1,0 +1,4 @@
+purls:
+  - pkg:apache/kylin
+  - pkg:github/apache/kylin
+  - pkg:maven/org.apache.kylin/kylin

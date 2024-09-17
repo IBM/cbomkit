@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/starcounter-jack/json-patch
+  - pkg:golang/github.com/starcounter-jack/json-patch
+  - pkg:maven/com.github.java-json-tools/json-patch

@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:wp_glossary_project:wp_glossary:3.0.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_glossary_project:wp_glossary:3.0:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_glossary_project:wp_glossary:3.1.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_glossary_project:wp_glossary:3.1.1:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_glossary_project:wp_glossary:3.1.2:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_glossary_project:wp_glossary:*:*:*:*:*:wordpress:*:*
+  - cpe:2.3:a:wp_glossary_project:wp_glossary:-:*:*:*:*:wordpress:*:*

@@ -1,0 +1,4 @@
+purls:
+  - pkg:github/crowdfavorite-mirrors/wp-wp-special-textboxes
+  - pkg:github/minimus/wp-special-textboxes
+  - pkg:github/wp-plugins/wp-special-textboxes

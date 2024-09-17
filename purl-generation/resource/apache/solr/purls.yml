@@ -1,0 +1,7 @@
+purls:
+  - pkg:apache/solr
+  - pkg:github/apache/solr
+  - pkg:maven/org.apache.solr/solr
+  - pkg:maven/org.apache.solr/solrj
+  - pkg:rpm/opensuse/solr
+  - pkg:sourceforge/apache-solr

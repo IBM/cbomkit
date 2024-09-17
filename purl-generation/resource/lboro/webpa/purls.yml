@@ -1,0 +1,3 @@
+purls:
+  - pkg:composer/webpa/webpa
+  - pkg:github/webpa/webpa

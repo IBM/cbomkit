@@ -1,0 +1,12 @@
+cpes:
+  - cpe:2.3:a:gnome:libcroco:0.6.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libcroco:0.6.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libcroco:0.6.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libcroco:0.6.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libcroco:0.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libcroco:0.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libcroco:0.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libcroco:0.6.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libcroco:0.6.7:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libcroco:0.6.8:*:*:*:*:*:*:*
+  - cpe:2.3:a:gnome:libcroco:0.6.9:*:*:*:*:*:*:*

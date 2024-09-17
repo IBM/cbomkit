@@ -1,0 +1,8 @@
+cpes:
+  - cpe:2.3:a:redhat:jboss_brms:5:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_brms:5.1.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_brms:6:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_brms:6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_brms:6.4.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_brms:6.4.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:redhat:jboss_brms:6.4.12:*:*:*:*:*:*:*

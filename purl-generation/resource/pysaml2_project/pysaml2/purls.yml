@@ -1,0 +1,8 @@
+purls:
+  - pkg:bitbucket/paperlessparts/pysaml2
+  - pkg:deb/debian/python-pysaml2
+  - pkg:deb/ubuntu/python-pysaml2
+  - pkg:github/identitypython/pysaml2
+  - pkg:pypi/pysaml2
+  - pkg:rpm/fedora/python-pysaml2
+  - pkg:rpm/opensuse/python-pysaml2

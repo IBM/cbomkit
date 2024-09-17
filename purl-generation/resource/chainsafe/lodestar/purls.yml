@@ -1,0 +1,3 @@
+purls:
+  - pkg:docker/chainsafe/lodestar
+  - pkg:github/chainsafe/lodestar

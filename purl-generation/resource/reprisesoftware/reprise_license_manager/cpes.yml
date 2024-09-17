@@ -1,0 +1,19 @@
+cpes:
+  - cpe:2.3:a:reprisesoftware:reprise_license_manager:11.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:reprisesoftware:reprise_license_manager:11.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:reprisesoftware:reprise_license_manager:11.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:reprisesoftware:reprise_license_manager:11.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:reprisesoftware:reprise_license_manager:12.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:reprisesoftware:reprise_license_manager:12.0bl2:*:*:*:*:*:*:*
+  - cpe:2.3:a:reprisesoftware:reprise_license_manager:12.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:reprisesoftware:reprise_license_manager:12.1bl2:*:*:*:*:*:*:*
+  - cpe:2.3:a:reprisesoftware:reprise_license_manager:12.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:reprisesoftware:reprise_license_manager:12.2bl2:*:*:*:*:*:*:*
+  - cpe:2.3:a:reprisesoftware:reprise_license_manager:12.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:reprisesoftware:reprise_license_manager:12.3bl4:*:*:*:*:*:*:*
+  - cpe:2.3:a:reprisesoftware:reprise_license_manager:12.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:reprisesoftware:reprise_license_manager:13.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:reprisesoftware:reprise_license_manager:14.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:reprisesoftware:reprise_license_manager:14.2bl4:*:*:*:*:*:*:*
+  - cpe:2.3:a:reprisesoftware:reprise_license_manager:15.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:reprisesoftware:reprise_license_manager:9.0bl2:*:*:*:*:*:*:*

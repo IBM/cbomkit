@@ -1,0 +1,3 @@
+purls:
+  - pkg:github/nats-io/nkeys
+  - pkg:golang/github.com/nats-io/nkeys

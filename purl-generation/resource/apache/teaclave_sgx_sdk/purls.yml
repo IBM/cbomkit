@@ -1,0 +1,3 @@
+purls:
+  - pkg:apache/teaclave
+  - pkg:github/apache/incubator-teaclave-sgx-sdk

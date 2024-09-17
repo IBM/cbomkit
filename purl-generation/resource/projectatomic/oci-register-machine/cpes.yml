@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:projectatomic:oci-register-machine:-:*:*:*:*:*:*:*
+  - cpe:2.3:a:projectatomic:oci-register-machine:0.3:*:*:*:*:*:*:*

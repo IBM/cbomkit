@@ -1,0 +1,7 @@
+purls:
+  - pkg:deb/debian/libbsd
+  - pkg:deb/ubuntu/libbsd
+  - pkg:github/guillemj/libbsd
+  - pkg:gitlab/libbsd/libbsd
+  - pkg:rpm/fedora/libbsd
+  - pkg:rpm/opensuse/libbsd

@@ -1,0 +1,25 @@
+cpes:
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.0:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.1:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.10:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.11:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.12:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.13:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.14:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.15:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.16:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.17:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.18:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.19:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.2:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.20:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.21:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.22:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.24:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.25:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.26:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.3:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.4:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.5:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.6:*:*:*:*:*:*:*
+  - cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.7:*:*:*:*:*:*:*

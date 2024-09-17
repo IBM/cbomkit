@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:2moons_project:2moons:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:2moons_project:2moons:-:*:*:*:*:*:*:*

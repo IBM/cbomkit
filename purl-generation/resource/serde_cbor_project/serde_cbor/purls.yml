@@ -1,0 +1,6 @@
+purls:
+  - pkg:deb/debian/rust-serde-cbor
+  - pkg:deb/ubuntu/rust-serde-cbor
+  - pkg:github/pyfisch/cbor
+  - pkg:rpm/fedora/rust-serde_cbor
+  - pkg:rpm/opensuse/rust-serde_cbor

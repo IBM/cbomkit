@@ -1,0 +1,10 @@
+purls:
+  - pkg:deb/debian/re2c
+  - pkg:deb/ubuntu/re2c
+  - pkg:docker/petk/re2c
+  - pkg:github/skvadrik/re2c
+  - pkg:gitlab/redhat/re2c
+  - pkg:nuget/re2c
+  - pkg:rpm/fedora/re2c
+  - pkg:rpm/opensuse/re2c
+  - pkg:sourceforge/re2c

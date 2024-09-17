@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/torcs
+  - pkg:deb/ubuntu/torcs
+  - pkg:github/joostvdoorn/torcs
+  - pkg:github/jzbontar/torcs
+  - pkg:rpm/fedora/torcs
+  - pkg:rpm/opensuse/torcs
+  - pkg:sourceforge/torcs

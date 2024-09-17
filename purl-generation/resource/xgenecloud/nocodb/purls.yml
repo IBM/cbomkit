@@ -1,0 +1,4 @@
+purls:
+  - pkg:docker/nocodb/nocodb
+  - pkg:github/nocodb/nocodb
+  - pkg:npm/nocodb

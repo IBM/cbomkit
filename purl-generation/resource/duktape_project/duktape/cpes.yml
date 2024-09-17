@@ -1,0 +1,3 @@
+cpes:
+  - cpe:2.3:a:duktape_project:duktape:*:*:*:*:*:*:*:*
+  - cpe:2.3:a:duktape_project:duktape:2.99.99:*:*:*:*:*:*:*

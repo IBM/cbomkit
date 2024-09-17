@@ -1,0 +1,8 @@
+purls:
+  - pkg:deb/debian/mailutils
+  - pkg:deb/ubuntu/mailutils
+  - pkg:github/chadjoan/mailutils
+  - pkg:github/distrotech/mailutils
+  - pkg:github/gnu-mirror-unofficial/mailutils
+  - pkg:gnu/mailutils
+  - pkg:rpm/opensuse/mailutils
