@@ -24,7 +24,7 @@
     <skipITs>true</skipITs>
 
     <surefire-plugin.version>3.2.5</surefire-plugin.version>
-    <google-java-format.version>1.22.0</google-java-format.version>
+    <google-java-format.version>1.23.0</google-java-format.version>
 
     <quarkus.platform.artifact-id>quarkus-bom</quarkus.platform.artifact-id>
     <quarkus.platform.group-id>io.quarkus.platform</quarkus.platform.group-id>
