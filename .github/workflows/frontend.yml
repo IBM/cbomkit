@@ -13,6 +13,13 @@ on:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
+  release:
+    types: [ "released" ]
+  workflow_dispatch:
+
+env:
+  REGISTRY: "ghcr.io"
+  IMAGE_NAME: "cbomkit-frontend"
 
 jobs:
   build:
@@ -30,5 +37,32 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: ${{ matrix.node-version }}
-      - run: npm ci
-      - run: npm run build
+      - name: Install node packages
+        run: npm ci
+      - name: Build
+        run: npm run build
+      - name: Extract metadata (tags, labels) for Docker
+        id: meta
+        uses: docker/metadata-action@v5
+        with:
+          images: ${{ env.REGISTRY }}/cbomkit/${{ env.IMAGE_NAME }}
+          tags: |
+            type=ref,event=branch
+            type=semver,pattern={{version}}
+            type=semver,pattern={{major}}.{{minor}}
+            type=sha,format=long
+      - name: Log in to the Container registry
+        if: github.event_name != 'pull_request'
+        uses: docker/login-action@v3
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+      - name: Build and push
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          file: "./docker/Dockerfile"
+          push: ${{ github.event_name != 'pull_request' }}
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
