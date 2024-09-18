@@ -13,6 +13,8 @@ on:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
+  release:
+    types: [ "released" ]
   workflow_dispatch:
 
 env:
@@ -64,13 +66,12 @@ jobs:
         id: meta
         uses: docker/metadata-action@v5
         with:
-          images: cbomkit/${{ env.IMAGE_NAME }}
+          images: ${{ env.REGISTRY }}/cbomkit/${{ env.IMAGE_NAME }}
           tags: |
             type=ref,event=branch
-            type=ref,event=pr
             type=semver,pattern={{version}}
             type=semver,pattern={{major}}.{{minor}}
-            type=sha
+            type=sha,format=long
       - name: Log in to the Container registry
         if: github.event_name != 'pull_request'
         uses: docker/login-action@v3
