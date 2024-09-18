@@ -61,8 +61,9 @@ jobs:
       - name: Build and push
         uses: docker/build-push-action@v5
         with:
-          context: "./frontend"
-          file: "./docker/Dockerfile"
+          # context: "./frontend"
+          context: .
+          file: "./frontend/docker/Dockerfile"
           push: ${{ github.event_name != 'pull_request' }}
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
