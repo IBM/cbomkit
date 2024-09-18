@@ -19,6 +19,7 @@ on:
 
 env:
   REGISTRY: "ghcr.io"
+  ORG: "IBM"
   IMAGE_NAME: "cbomkit-frontend"
 
 jobs:
@@ -37,15 +38,11 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: ${{ matrix.node-version }}
-      - name: Install node packages
-        run: npm ci
-      - name: Build
-        run: npm run build
       - name: Extract metadata (tags, labels) for Docker
         id: meta
         uses: docker/metadata-action@v5
         with:
-          images: ${{ env.REGISTRY }}/cbomkit/${{ env.IMAGE_NAME }}
+          images: ${{ env.REGISTRY }}/${{ env.ORG }}/${{ env.IMAGE_NAME }}
           tags: |
             type=ref,event=branch
             type=semver,pattern={{version}}

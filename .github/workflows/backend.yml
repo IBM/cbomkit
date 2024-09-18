@@ -19,6 +19,7 @@ on:
 
 env:
   REGISTRY: "ghcr.io"
+  ORG: "IBM"
   IMAGE_NAME: "cbomkit"
 
 jobs:
@@ -66,7 +67,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v5
         with:
-          images: ${{ env.REGISTRY }}/cbomkit/${{ env.IMAGE_NAME }}
+          images: ${{ env.REGISTRY }}/${{ env.ORG }}/${{ env.IMAGE_NAME }}
           tags: |
             type=ref,event=branch
             type=semver,pattern={{version}}
