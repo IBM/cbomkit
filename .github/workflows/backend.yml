@@ -26,7 +26,7 @@ jobs:
     runs-on: ubuntu-latest
     services:
       postgres:
-        image: postgres
+        image: postgres:16-alpine
         env:
           POSTGRES_DB: postgres
           POSTGRES_PASSWORD: cbomkit
