@@ -29,6 +29,7 @@ import java.io.File;
 import java.util.Optional;
 import javax.annotation.Nonnull;
 import org.cyclonedx.Version;
+import org.cyclonedx.exception.GeneratorException;
 import org.cyclonedx.generators.BomGeneratorFactory;
 import org.cyclonedx.generators.json.BomJsonGenerator;
 import org.cyclonedx.model.Bom;
@@ -84,7 +85,7 @@ public interface IScanner {
         }
 
         @Nonnull
-        public Optional<JsonNode> toJson() throws JsonProcessingException {
+        public Optional<JsonNode> toJson() throws JsonProcessingException, GeneratorException {
             final ObjectMapper mapper = new ObjectMapper();
             if (bom != null) {
                 final BomJsonGenerator bomGenerator =
