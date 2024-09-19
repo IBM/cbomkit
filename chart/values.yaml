@@ -2,11 +2,11 @@ common:
   clusterDomain: ""
 backend:
   name: cbomkit
-  image: cbomkit
+  image: ghcr.io/ibm/cbomkit
   tag: 1.0.0
 frontend:
   name: cbomkit-frontend
-  image: cbomkit
+  image: ghcr.io/ibm/cbomkit-frontend
   tag: 1.0.0
 regulator:
   enabled: false
