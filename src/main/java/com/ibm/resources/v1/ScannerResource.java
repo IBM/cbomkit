@@ -19,7 +19,6 @@
  */
 package com.ibm.resources.v1;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.ibm.Utils;
@@ -266,7 +265,7 @@ public class ScannerResource {
                         .scan(iMessageDispatcher, clonedProject.cloneDir, scanRequest);
         try {
             return scanResult.toJson();
-        } catch (JsonProcessingException jpe) {
+        } catch (Exception jpe) {
             LOG.error("Cannot parse CBOM", jpe);
         }
         return Optional.empty();

@@ -14,7 +14,7 @@ on:
   pull_request:
     branches: [ "main" ]
   release:
-    types: [ "released" ]
+    types: [ "published" ]
   workflow_dispatch:
 
 env:
