@@ -18,6 +18,10 @@ git clone https://github.com/IBM/cbomkit
 # run the make command to start the docker compose 
 make production
 ```
+
+> [!NOTE]
+> By default, the service can be accessed at http://localhost:8001
+
 Deploy using the helm chart to a kubernetes environment.
 ```shell
 # clone the repository 
