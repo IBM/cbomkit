@@ -7,9 +7,12 @@ COPY --chown=185 target/quarkus-app/lib/ /deployments/lib/
 COPY --chown=185 target/quarkus-app/*.jar /deployments/
 COPY --chown=185 target/quarkus-app/app/ /deployments/app/
 COPY --chown=185 target/quarkus-app/quarkus/ /deployments/quarkus/
+# copy the crypto lib dependecies for java into the image
+COPY --chown=185 src/main/resources/java/scan/*.jar /deployments/java/scan/
 
 EXPOSE 8080
 USER 185
-ENV JAVA_OPTS="-Dquarkus.http.host=0.0.0.0 -Djava.util.logging.manager=org.jboss.logmanager.LogManager"
+ENV CBOMKIT_JAVA_JAR_DIR="/deployments/java/scan/"
+ENV JAVA_OPTS="-Dquarkus.http.host=0.0.0.0 -Djava.util.logging.manager=org.jboss.logmanager.LogManager -Xmx8g"
 ENV JAVA_APP_JAR="/deployments/quarkus-run.jar"
 

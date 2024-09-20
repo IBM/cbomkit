@@ -26,9 +26,11 @@ import com.fasterxml.jackson.databind.node.ObjectNode;
 import com.ibm.model.IdentifiableScan;
 import com.ibm.model.api.ScanRequest;
 import java.io.File;
+import java.io.FileFilter;
 import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
+import javax.annotation.Nonnull;
 import org.cyclonedx.model.Component;
 import org.cyclonedx.model.Evidence;
 import org.cyclonedx.model.component.evidence.Occurrence;
@@ -106,5 +108,13 @@ public final class Utils {
             purlProp.put("name", "purl").put("value", identifiableScan.getPurl());
             properties.add(purlProp);
         }
+    }
+
+    @Nonnull
+    public static Optional<File[]> getJarFiles(@Nonnull String directoryPath) {
+        final File directory = new File(directoryPath);
+        final FileFilter jarFilter =
+                file -> file.isFile() && file.getName().toLowerCase().endsWith(".jar");
+        return Optional.ofNullable(directory.listFiles(jarFilter));
     }
 }

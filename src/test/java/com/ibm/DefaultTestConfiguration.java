@@ -32,9 +32,12 @@ import com.ibm.scan.PythonScanner;
 import com.ibm.scan.ScannerManager;
 import io.quarkus.test.Mock;
 import jakarta.enterprise.context.ApplicationScoped;
+import java.io.File;
 import java.sql.Timestamp;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
+import org.eclipse.microprofile.config.ConfigProvider;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
@@ -96,8 +99,20 @@ public class DefaultTestConfiguration implements ITestConfiguration {
     public IScannerManager getScannerManager() {
         // register scanners
         final List<IScanner> registry = new ArrayList<>();
-        registry.add((new JavaScanner()));
+        registry.add((new JavaScanner(this)));
         registry.add((new PythonScanner()));
         return new ScannerManager(registry);
+    }
+
+    @Override
+    public @NotNull List<File> getJavaDependencyJARS() {
+        return ConfigProvider.getConfig()
+                .getOptionalValue("service.scanning.java-jar-dir", String.class)
+                .flatMap(Utils::getJarFiles)
+                .map(files -> Arrays.stream(files).toList())
+                .orElseThrow(
+                        () ->
+                                new IllegalStateException(
+                                        "Could not load jar dependencies for java scanning")); // Error
     }
 }

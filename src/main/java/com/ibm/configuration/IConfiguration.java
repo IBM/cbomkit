@@ -22,6 +22,8 @@ package com.ibm.configuration;
 import com.ibm.compliance.IComplianceService;
 import com.ibm.repository.IScanRepository;
 import com.ibm.scan.IScannerManager;
+import java.io.File;
+import java.util.List;
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 
@@ -34,4 +36,7 @@ public interface IConfiguration {
 
     @Nonnull
     IScannerManager getScannerManager();
+
+    @Nonnull
+    List<File> getJavaDependencyJARS();
 }
