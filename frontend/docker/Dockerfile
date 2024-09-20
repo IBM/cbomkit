@@ -7,7 +7,7 @@ ENV TZ=Etc/UTC \
     LANG=C.UTF-8
 USER root
 # Copy the static HTML and JS files to the application directory
-COPY ../app/dist ${APP_DIR}
+COPY ../dist ${APP_DIR}
 # Create the directorie where the frontend files will be deployed to (${APP_DIR})
 # Ensure UID 101 & GID 0 own all the needed directories
 # Applying these changes allows the container to run via the OpenShift default SCC "Restricted" whereby arbitrary an UID and GID=0 are assigned
