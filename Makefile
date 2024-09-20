@@ -6,14 +6,14 @@ build-backend: dev
 # build the docker image for the backend
 build-backend-image: build-backend
 	docker build \
-		-t cbomkit:${CBOMKIT_VERSION} \
+		-t cbomkit:${VERSION} \
 		-f src/main/docker/Dockerfile.jvm \
 		. \
 		--load
 # build the docker image for the frontend
 build-frontend-image:
 	docker build \
-		-t cbomkit-frontend:${CBOMKIT_VERSION} \
+		-t cbomkit-frontend:${VERSION} \
 		-f frontend/docker/Dockerfile \
 		./frontend \
 		--load
