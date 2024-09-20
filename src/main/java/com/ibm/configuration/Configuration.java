@@ -19,6 +19,7 @@
  */
 package com.ibm.configuration;
 
+import com.ibm.Utils;
 import com.ibm.compliance.BasicQuantumSafeComplianceService;
 import com.ibm.compliance.IComplianceService;
 import com.ibm.compliance.ibmregulator.IBMRegulatorClient;
@@ -33,8 +34,10 @@ import com.ibm.scan.PythonScanner;
 import com.ibm.scan.ScannerManager;
 import io.quarkus.rest.client.reactive.QuarkusRestClientBuilder;
 import jakarta.enterprise.context.ApplicationScoped;
+import java.io.File;
 import java.net.URI;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
 import org.eclipse.microprofile.config.ConfigProvider;
@@ -88,8 +91,20 @@ public final class Configuration implements IConfiguration {
                     .ifPresent(api -> registry.add((new IBMqsScanner(api))));
             return new ScannerManager(registry);
         }
-        registry.add((new JavaScanner()));
+        registry.add((new JavaScanner(this)));
         registry.add((new PythonScanner()));
         return new ScannerManager(registry);
+    }
+
+    @Override
+    public @NotNull List<File> getJavaDependencyJARS() {
+        return ConfigProvider.getConfig()
+                .getOptionalValue("service.scanning.java-jar-dir", String.class)
+                .flatMap(Utils::getJarFiles)
+                .map(files -> Arrays.stream(files).toList())
+                .orElseThrow(
+                        () ->
+                                new IllegalStateException(
+                                        "Could not load jar dependencies for java scanning")); // Error
     }
 }

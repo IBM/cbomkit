@@ -23,6 +23,7 @@ import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.github.packageurl.MalformedPackageURLException;
 import com.github.packageurl.PackageURL;
+import com.ibm.configuration.Configuration;
 import com.ibm.model.Identifiers;
 import com.ibm.model.PurlVersion;
 import io.quarkus.runtime.Quarkus;
@@ -39,10 +40,10 @@ public class Init implements QuarkusApplication {
 
     @Override
     public int run(String... args) throws Exception {
-        try (InputStream in =
-                // Thread.currentThread().getContextClassLoader().getResourceAsStream("purls.json"))
-                // {
-                this.getClass().getClassLoader().getResourceAsStream("purls.json")) {
+        // check if jars exists
+        new Configuration().getJavaDependencyJARS();
+        // load purls
+        try (InputStream in = this.getClass().getClassLoader().getResourceAsStream("purls.json")) {
             LOG.info("Try to load purls");
             ObjectMapper mapper = new ObjectMapper();
             JsonNode jsonNode = mapper.readValue(in, JsonNode.class);

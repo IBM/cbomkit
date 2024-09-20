@@ -19,6 +19,7 @@
  */
 package com.ibm.scan;
 
+import com.ibm.configuration.IConfiguration;
 import com.ibm.message.IMessageDispatcher;
 import com.ibm.model.Project;
 import com.ibm.model.api.ScanRequest;
@@ -50,13 +51,11 @@ public class JavaScanner extends AbstractScanner {
     private List<Project> projects = null;
     private List<JavaCheck> visitors = null;
     private SonarComponents sonarComponents = null;
+    private final IConfiguration configuration;
 
-    private static final List<File> JARS =
-            Collections.singletonList(
-                    new File("src/main/resources/java/scan/bcprov-jdk18on-1.78.1.jar"));
-
-    public JavaScanner() {
+    public JavaScanner(@Nonnull IConfiguration config) {
         LOG.info("Created Java scanner (*" + JAVA_FILE_EXTENSION + ")");
+        this.configuration = config;
     }
 
     @SuppressWarnings("all")
@@ -119,7 +118,11 @@ public class JavaScanner extends AbstractScanner {
                     new JavaAstScannerExtension(sonarComponents, iMessageDispatcher, projectStr);
             // add bc to classpath to resolve types
             VisitorsBridge visitorBridge =
-                    new VisitorsBridge(visitors, JARS, sonarComponents, JAVA_VERSION);
+                    new VisitorsBridge(
+                            visitors,
+                            configuration.getJavaDependencyJARS(),
+                            sonarComponents,
+                            JAVA_VERSION);
             jscanner.setVisitorBridge(visitorBridge);
             jscanner.scan(project.getInputFiles());
             counter++;

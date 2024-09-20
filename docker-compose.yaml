@@ -34,7 +34,7 @@ services:
     deploy:
       resources:
         reservations:
-          memory: 8192m
+          memory: 16g
     profiles:
       - prod
       - ext-compliance
