@@ -46,9 +46,9 @@
       <p
         v-if="nameNumber > 0"
         class="small-text"
-        style="padding-top: 8px;"
+        style="padding-top: 46px;"
       >
-        ({{ nameNumber }} types of crypto assets)
+        {{ nameNumber }} types of crypto assets
       </p>
     </div>
     <div style="width: 20%; margin-inline: auto">
@@ -150,7 +150,7 @@ export default {
     complianceOptions() {
       let colorScale = getColorScale();
       return {
-        // resizable: true,
+        resizable: true,
         donut: {
           center: {
             label: `Crypto Assets${isUsingLocalComplianceService() ? "*" : ""}`,
@@ -180,28 +180,16 @@ export default {
     nameNumber() {
       return countNames()[1];
     },
-    nameHeight() {
-      // Computes an estimated better height for the circle chart, considering that it needs more vertical space when the legend grows
-      if (this.nameNumber < 7) {
-        return "320px";
-      } else {
-        return (320 + 10 * (this.nameNumber - 7)).toString() + "px";
-      }
-    },
     nameOptions() {
       return {
         resizable: true,
-        height: this.nameHeight,
+        height: "230px",
         toolbar: {
           enabled: false,
         },
         theme: model.useDarkMode ? "g100" : "white",
         legend: {
-          alignment: "center",
-          truncation: {
-            numCharacter: 7,
-            threshold: 7,
-          },
+          enabled: false,
         },
       };
     },
