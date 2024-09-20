@@ -4,7 +4,7 @@
       <div style="padding: 8px">
         <div style="display: flex; align-items: center; margin-bottom: 12px;">
           <Encryption24/>
-          <div style="font-size: large; font-weight: 400; padding-left: 8px;">
+          <div style="font-size: large; font-weight: 500; padding-left: 8px;">
             The Cryptography Bill of Materials
           </div>
         </div>

@@ -4,7 +4,7 @@
             <div class="icon-and-title-container">
               <Catalog24/>
               <div class="large-title">
-                Explore our inventory of existing CBOMs
+                Explore previously scanned CBOMs
               </div>
             </div>
             <ListTable />
@@ -88,7 +88,7 @@ export default {
 }
 .title {
   font-size: large;
-  font-weight: 400;
+  font-weight: 500;
   padding-left: 8px;
 }
 .large-title {
