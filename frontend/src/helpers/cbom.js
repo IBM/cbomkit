@@ -133,7 +133,18 @@ export function getDetections() {
   if (model.scanning.isScanning) {
     detections = model.scanning.liveDetections;
   }
-  return detections;
+  return removeBomRefFromDetectionNames(detections); 
+}
+
+function removeBomRefFromDetectionNames(detections) {
+  // Some detections have a name "actual-name@xxx-xxx-xxx", containing their bomRef
+  // We remove this bomRef from a cleaner visualization
+  detections.forEach(function (detection) {
+    if (Object.hasOwn(detection, "name") && detection.name.includes("@")) {
+      detection.name = detection.name.split('@')[0]
+    }
+  })
+  return detections
 }
 
 // Takes a CBOM Object and returns an array of detections
