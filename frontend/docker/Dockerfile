@@ -1,9 +1,3 @@
-FROM node:21 AS build
-WORKDIR /app
-COPY . .
-RUN npm install && npm run build
-
-
 FROM nginxinc/nginx-unprivileged:alpine
 # Arguments that can be passed at build time
 ARG COMMIT_SHA=unknown
@@ -13,7 +7,7 @@ ENV TZ=Etc/UTC \
     LANG=C.UTF-8
 USER root
 # Copy the static HTML and JS files to the application directory
-COPY --from=build /app/dist ${APP_DIR}
+COPY ../app/dist ${APP_DIR}
 # Create the directorie where the frontend files will be deployed to (${APP_DIR})
 # Ensure UID 101 & GID 0 own all the needed directories
 # Applying these changes allows the container to run via the OpenShift default SCC "Restricted" whereby arbitrary an UID and GID=0 are assigned
