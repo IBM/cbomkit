@@ -27,7 +27,7 @@ dev-frontend:
 # run the prod setup using docker compose
 production:
 	env CBOMKIT_VERSION=${VERSION} CBOMKIT_VIEWER=false POSTGRESQL_AUTH_USERNAME=cbomkit POSTGRESQL_AUTH_PASSWORD=cbomkit docker-compose --profile prod up
-viewer:
+coeus:
 	env CBOMKIT_VERSION=${VERSION} CBOMKIT_VIEWER=true docker-compose --profile viewer up
 ext-compliance:
 	env CBOMKIT_VERSION=${VERSION} CBOMKIT_VIEWER=false POSTGRESQL_AUTH_USERNAME=cbomkit POSTGRESQL_AUTH_PASSWORD=cbomkit docker-compose --profile ext-compliance up
