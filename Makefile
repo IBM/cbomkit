@@ -1,5 +1,5 @@
 # extract cbomkit version tag from pom.xml
-VERSION := $(shell mvn help:evaluate -Dexpression=project.version | grep -e '^[^\[]')
+VERSION := $(shell curl -s https://api.github.com/repos/IBM/cbomkit/releases/latest | grep '"tag_name":' | sed -E 's/.*"([^"]+)".*/\1/')
 # build the backend
 build-backend: dev
 	./mvnw clean package
