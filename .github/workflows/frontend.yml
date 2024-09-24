@@ -74,7 +74,7 @@ jobs:
 
       - name: Test Docker Build
         if: github.event_name == 'pull_request'
-        uses: docker/build-push-action@v5
+        uses: docker/build-push-action@v6
         with:
           context: "./frontend"
           file: "./frontend/docker/Dockerfile"
@@ -83,7 +83,7 @@ jobs:
           labels: ${{ steps.meta.outputs.labels }}
       - name: Build and push to all platforms
         if: github.event_name != 'pull_request'
-        uses: docker/build-push-action@v5
+        uses: docker/build-push-action@v6
         with:
           context: "./frontend"
           file: "./frontend/docker/Dockerfile"
