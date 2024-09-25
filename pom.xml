@@ -28,7 +28,7 @@
 
     <quarkus.platform.artifact-id>quarkus-bom</quarkus.platform.artifact-id>
     <quarkus.platform.group-id>io.quarkus.platform</quarkus.platform.group-id>
-    <quarkus.platform.version>3.14.4</quarkus.platform.version>
+    <quarkus.platform.version>3.15.0</quarkus.platform.version>
 
     <jackson.version>2.17.2</jackson.version>
     <cyclonedx-maven-plugin.version>2.8.1</cyclonedx-maven-plugin.version>
