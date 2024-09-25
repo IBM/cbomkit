@@ -1,150 +1,366 @@
 {
-  "primitive": {
-    "drbg": {
+  "other": {
+    "fullName": "Other",
+    "description": "Another case."
+  },
+  "unknown": {
+    "fullName": "Unknown",
+    "description": "This case is not known."
+  },
+  "algorithm": {
+    "fullName": "Algorithm",
+    "description": "Mathematical function commonly used for data encryption, authentication, and digital signatures."
+  },
+  "certificate": {
+    "fullName": "Certificate",
+    "description": "An electronic document that is used to provide the identity or validate a public key."
+  },
+  "protocol": {
+    "fullName": "Protocol",
+    "description": "A set of rules and guidelines that govern the behavior and communication with each other."
+  },
+  "related-crypto-material": {
+    "fullName": "Related Cryptographic Material",
+    "description": "Other cryptographic assets related to algorithms, certificates, and protocols such as keys and tokens."
+  },
+  "drbg": {
     "fullName": "Deterministic Random Bit Generator",
     "description": "Deterministic Random Bit Generator (DRBG) is a type of pseudorandom number generator designed to produce a sequence of bits from an initial seed value. DRBGs are commonly used in cryptographic applications where reproducibility of random values is important."
-    },
-    "mac": {
-      "fullName": "Message Authentication Code",
-      "description": "A Message Authentication Code (MAC) is a short piece of information used to authenticate a message and to provide integrity and authenticity assurances on the message. It is generated using a secret key and a cryptographic algorithm."
-    },
-    "block-cipher": {
-      "fullName": "Block Cipher",
-      "description": "A block cipher is a method of encrypting text (to produce ciphertext) in which a cryptographic key and algorithm are applied to a block of data (e.g., 64 contiguous bits) as a group rather than to one bit at a time."
-    },
-    "stream-cipher": {
-      "fullName": "Stream Cipher",
-      "description": "A stream cipher is a method of encrypting text (to produce ciphertext) in which a cryptographic key and algorithm are applied to each binary digit in a data stream, one bit at a time."
-    },
-    "signature": {
-      "fullName": "Signature",
-      "description": "In cryptography, a signature is a digital representation of a message or data that proves its origin, identity, and integrity. Digital signatures are generated using cryptographic algorithms and are widely used for authentication and verification in secure communication."
-    },
-    "hash": {
-      "fullName": "Hash Function",
-      "description": "A hash function is a mathematical algorithm that takes an input (or 'message') and produces a fixed-size string of characters, which is typically a hash value. Hash functions are commonly used in various cryptographic applications, including data integrity verification and password hashing."
-    },
-    "pke": {
-      "fullName": "Public Key Encryption",
-      "description": "Public Key Encryption (PKE) is a cryptographic technique that uses a pair of keys, one public and one private. The public key is used to encrypt the data, and the private key is used to decrypt it. PKE is widely used for secure data transmission."
-    },
-    "xof": {
-      "fullName": "eXtendable Output Function",
-      "description": "An eXtendable Output Function (XOF) is a cryptographic function that can produce an output of arbitrary length. XOFs are used in various cryptographic applications where a fixed-size output is not sufficient."
-    },
-    "kdf": {
-      "fullName": "Key Derivation Function",
-      "description": "A Key Derivation Function (KDF) is a cryptographic algorithm that derives one or more secret keys from a secret value such as a master key, a password, or a passphrase. KDFs are used to transform less secure secrets into more secure keys."
-    },
-    "key-agree": {
-      "fullName": "Key Agreement",
-      "description": "Key Agreement is a cryptographic process in which two or more parties agree on a shared secret key, used for subsequent encryption of messages. The key agreement protocols ensure that the key is generated in a secure manner."
-    },
-    "kem": {
-      "fullName": "Key Encapsulation Mechanism",
-      "description": "A Key Encapsulation Mechanism (KEM) is a cryptographic algorithm that allows the secure exchange of keys. KEMs are often used in hybrid encryption schemes where a symmetric key is encapsulated by an asymmetric algorithm."
-    },
-    "ae": {
-      "fullName": "Authenticated Encryption",
-      "description": "Authenticated Encryption (AE) is a cryptographic process that provides both confidentiality and data integrity. It ensures that the encrypted data has not been tampered with and comes from a legitimate source. AE is commonly used in secure communication protocols."
-    },
-    "combiner": {
-      "fullName": "Cryptographic Combiner",
-      "description": "A Cryptographic Combiner is a method used to combine multiple cryptographic algorithms or primitives to achieve a desired security property. Combiners are used to enhance the security of cryptographic systems by leveraging the strengths of different algorithms."
-    }
   },
-  "cryptoFunction": {
-    "generate": {
-      "fullName": "Key Generation",
-      "description": "Key generation is the process of creating cryptographic keys for use in various security protocols. This includes the generation of symmetric keys for encryption, public and private key pairs for public-key cryptography, and other keys used in cryptographic algorithms."
-    },
-    "sign": {
-      "fullName": "Digital Signature Generation",
-      "description": "Digital signature generation is the process of creating a digital signature using a private key. The digital signature is used to verify the authenticity and integrity of a message or document, providing a means of non-repudiation in secure communication."
-    },
-    "verify": {
-      "fullName": "Digital Signature Verification",
-      "description": "Digital signature verification is the process of confirming the authenticity and integrity of a message or document by checking its digital signature. This involves using the corresponding public key to ensure that the signature was generated by the claimed private key."
-    },
-    "keygen": {
-      "fullName": "Key Pair Generation",
-      "description": "Key pair generation is the process of creating a pair of cryptographic keys, typically consisting of a public key and a private key. This is a fundamental step in public-key cryptography, enabling secure communication and digital signatures."
-    },
-    "digest": {
-      "fullName": "Message Digest",
-      "description": "A message digest, or hash value, is a fixed-size string of characters generated by a hash function from an input message. Message digests are commonly used in cryptography for data integrity verification, ensuring that the message has not been altered or tampered with."
-    },
-    "encrypt": {
-      "fullName": "Encryption",
-      "description": "Encryption is the process of converting plaintext data into ciphertext using an encryption algorithm and a key. It ensures the confidentiality of data, protecting it from unauthorized access or interception. Encryption is a fundamental technique in modern cryptography."
-    },
-    "decrypt": {
-      "fullName": "Decryption",
-      "description": "Decryption is the process of converting ciphertext back into plaintext using a decryption algorithm and a key. It reverses the encryption process, allowing authorized parties to access the original, readable data. Decryption is a key aspect of secure communication and data protection."
-    },
-    "tag": {
-      "fullName": "Authentication Tag",
-      "description": "An authentication tag is a piece of data generated by an authenticated encryption algorithm. It serves as proof of the authenticity and integrity of the associated data. Authentication tags are commonly used in secure communication protocols to verify the legitimacy of transmitted information."
-    },
-    "encapsulate": {
-      "fullName": "Key Encapsulation",
-      "description": "Key encapsulation is the process of securely transmitting a cryptographic key from a sender to a receiver using public-key cryptography. The sender generates a key and encrypts it with the receiver's public key, ensuring that only the intended receiver can decrypt and access the key. This is commonly used in hybrid encryption systems."
-    },
-    "decapsulate": {
-      "fullName": "Key Decapsulation",
-      "description": "Key decapsulation is the process of retrieving a securely transmitted cryptographic key by decrypting the encapsulated key with the recipient's private key. This allows the receiver to obtain the original key sent by the sender. Key decapsulation is an essential part of secure key exchange mechanisms in public-key cryptography."
-    }
+  "mac": {
+    "fullName": "Message Authentication Code",
+    "description": "In cryptography, a Message Authentication Code (MAC) is information used for authenticating and integrity-checking a message."
   },
-  "mode": {
-    "cbc": {
-      "fullName": "Cipher Block Chaining (CBC) Mode",
-      "description": "Cipher Block Chaining (CBC) is a mode of operation for symmetric key block ciphers. It involves chaining the ciphertext of one block with the previous block before encryption, enhancing security. CBC mode is commonly used in various encryption protocols and applications."
-    },
-    "ecb": {
-      "fullName": "Electronic Codebook (ECB) Mode",
-      "description": "Electronic Codebook (ECB) is a mode of operation for symmetric key block ciphers. Each block of plaintext is encrypted independently using the same key, which can make it less secure due to patterns in the plaintext. ECB is generally not recommended for use in secure communications."
-    },
-    "ccm": {
-      "fullName": "Counter with CBC-MAC (CCM) Mode",
-      "description": "Counter with CBC-MAC (CCM) is a mode of operation for symmetric key block ciphers that provides both encryption and integrity protection. It combines the counter mode of encryption with the CBC-MAC for authentication, making it suitable for use in secure communications."
-    },
-    "gcm": {
-      "fullName": "Galois/Counter Mode (GCM)",
-      "description": "Galois/Counter Mode (GCM) is a mode of operation for symmetric key cryptographic block ciphers. It provides both confidentiality and authentication, making it suitable for securing data in transit. GCM is widely used in various security protocols, including TLS."
-    },
-    "cfb": {
-      "fullName": "Cipher Feedback (CFB) Mode",
-      "description": "Cipher Feedback (CFB) is a mode of operation for symmetric key block ciphers that allows encryption of data in units smaller than the block size. It operates in a stream-like fashion and can be used for encrypting data of varying lengths."
-    },
-    "ofb": {
-      "fullName": "Output Feedback (OFB) Mode",
-      "description": "Output Feedback (OFB) is a mode of operation for symmetric key block ciphers that transforms a block cipher into a synchronous stream cipher. It generates keystream blocks, which are then XORed with the plaintext to produce the ciphertext. OFB mode ensures that errors do not propagate."
-    },
-    "ctr": {
-      "fullName": "Counter (CTR) Mode",
-      "description": "Counter (CTR) mode is a mode of operation for symmetric key block ciphers that turns the block cipher into a stream cipher. It generates the next keystream block by encrypting successive values of a counter. CTR mode provides high throughput and allows for parallel processing."
-    }
+  "block-cipher": {
+    "fullName": "Block Cipher",
+    "description": "A block cipher is a symmetric key algorithm that operates on fixed-size blocks of data. It encrypts or decrypts the data in block units, providing confidentiality. Block ciphers are widely used in various cryptographic modes and protocols for secure data transmission."
   },
-  "padding": {
-    "raw": {
-      "fullName": "Raw",
-      "description": "Raw padding is a simple padding scheme where the input data is padded without any specific structure. In cryptographic applications, raw padding may involve adding zeros or other characters to achieve the required block size. While straightforward, raw padding may have security implications in certain contexts."
-    },
-    "pkcs7": {
-      "fullName": "PKCS#7",
-      "description": "PKCS#7 Padding is a widely-used padding scheme in cryptographic applications, particularly with block ciphers. It involves adding bytes to the plaintext to ensure that the total length is a multiple of the block size. PKCS#7 Padding is simple and efficient, providing a standard method for achieving block alignment."
-    },
-    "oaep": {
-      "fullName": "Optimal Asymmetric Encryption Padding (OAEP) for RSA",
-      "description": "Optimal Asymmetric Encryption Padding (OAEP) is a padding scheme specifically designed for RSA encryption. It enhances the security of the encryption process by introducing randomness and thwarting certain cryptographic attacks. OAEP is commonly used in secure communication and data protection."
-    },
-    "pkcs5": {
-      "fullName": "PKCS#5",
-      "description": "PKCS#5 Padding is a padding scheme specifically designed for 8-byte block ciphers. It adds a series of bytes, all of which are equal to the number of bytes added, to the plaintext to make its length a multiple of the block size. PKCS#5 is a subset of PKCS#7 and is used primarily in older cryptographic applications."
-    },
-    "pkcs1v15": {
-      "fullName": "PKCS#1 v1.5",
-      "description": "PKCS#1 v1.5 Padding is a padding scheme used in RSA encryption and signing. It structures the padding in a specific format that includes a fixed header, random bytes, and the message data. While effective, it has been superseded by more secure padding schemes such as OAEP due to vulnerabilities to certain cryptographic attacks."
-    }
+  "stream-cipher": {
+    "fullName": "Stream Cipher",
+    "description": "A stream cipher is a symmetric key cipher where plaintext digits are combined with a pseudorandom cipher digit stream (keystream)."
+  },
+  "signature": {
+    "fullName": "Digital Signature",
+    "description": "A cryptographic value that is calculated from the data and a key known only by the signer."
+  },
+  "hash": {
+    "fullName": "Hash Function",
+    "description": "A hash function is a mathematical algorithm that takes an input (or 'message') and produces a fixed-size string of characters, which is typically a hash value. Hash functions are commonly used in various cryptographic applications, including data integrity verification and password hashing."
+  },
+  "pke": {
+    "fullName": "Public Key Encryption",
+    "description": "Public Key Encryption (PKE) is a type of encryption that uses a pair of public and private keys for secure communication. The public key is used for encryption, while the private key is used for decryption. PKE is a fundamental component of public-key cryptography."
+  },
+  "xof": {
+    "fullName": "Extendable Output Function",
+    "description": "An XOF is an extendable output function that can take arbitrary input and creates a stream of output, up to a limit determined by the size of the internal state of the hash function that underlies the XOF."
+  },
+  "kdf": {
+    "fullName": "Key Derivation Function",
+    "description": "A Key Derivation Function (KDF) derives key material from another source of entropy while preserving the entropy of the input."
+  },
+  "key-agree": {
+    "fullName": "Key Agreement",
+    "description": "In cryptography, a key-agreement is a protocol whereby two or more parties agree on a cryptographic key in such a way that both influence the outcome."
+  },
+  "kem": {
+    "fullName": "Key Encapsulation Mechanism",
+    "description": "A Key Encapsulation Mechanism (KEM) algorithm is a mechanism for transporting random keying material to a recipient using the recipient's public key."
+  },
+  "ae": {
+    "fullName": "Authenticated Encryption",
+    "description": "Authenticated Encryption (AE) is a cryptographic process that provides both confidentiality and data integrity. It ensures that the encrypted data has not been tampered with and comes from a legitimate source. AE is commonly used in secure communication protocols."
+  },
+  "combiner": {
+    "fullName": "Cryptographic Combiner",
+    "description": "A combiner aggregates many candidates for a cryptographic primitive and generates a new candidate for the same primitive."
+  },
+  "generate": {
+    "fullName": "Key Generation",
+    "description": "Key generation is the process of creating cryptographic keys for use in various security protocols. This includes the generation of symmetric keys for encryption, public and private key pairs for public-key cryptography, and other keys used in cryptographic algorithms."
+  },
+  "sign": {
+    "fullName": "Digital Signature Generation",
+    "description": "Digital signature generation is the process of creating a digital signature using a private key. The digital signature is used to verify the authenticity and integrity of a message or document, providing a means of non-repudiation in secure communication."
+  },
+  "verify": {
+    "fullName": "Digital Signature Verification",
+    "description": "Digital signature verification is the process of confirming the authenticity and integrity of a message or document by checking its digital signature. This involves using the corresponding public key to ensure that the signature was generated by the claimed private key."
+  },
+  "keygen": {
+    "fullName": "Key Pair Generation",
+    "description": "Key pair generation is the process of creating a pair of cryptographic keys, typically consisting of a public key and a private key. This is a fundamental step in public-key cryptography, enabling secure communication and digital signatures."
+  },
+  "encrypt": {
+    "fullName": "Encryption",
+    "description": "Encryption is the process of converting plaintext data into ciphertext using an encryption algorithm and a key. It ensures the confidentiality of data, protecting it from unauthorized access or interception. Encryption is a fundamental technique in modern cryptography."
+  },
+  "decrypt": {
+    "fullName": "Decryption",
+    "description": "Decryption is the process of converting ciphertext back into plaintext using a decryption algorithm and a key. It reverses the encryption process, allowing authorized parties to access the original, readable data. Decryption is a key aspect of secure communication and data protection."
+  },
+  "encapsulate": {
+    "fullName": "Key Encapsulation",
+    "description": "Key encapsulation is the process of securely transmitting a cryptographic key from a sender to a receiver using public-key cryptography. The sender generates a key and encrypts it with the receiver's public key, ensuring that only the intended receiver can decrypt and access the key. This is commonly used in hybrid encryption systems."
+  },
+  "decapsulate": {
+    "fullName": "Key Decapsulation",
+    "description": "Key decapsulation is the process of retrieving a securely transmitted cryptographic key by decrypting the encapsulated key with the recipient's private key. This allows the receiver to obtain the original key sent by the sender. Key decapsulation is an essential part of secure key exchange mechanisms in public-key cryptography."
+  },
+  "software-plain-ram": {
+    "fullName": "Software Plain RAM",
+    "description": "A software implementation running in plain unencrypted RAM."
+  },
+  "software-encrypted-ram": {
+    "fullName": "Software Encrypted RAM",
+    "description": "A software implementation running in encrypted RAM."
+  },
+  "software-tee": {
+    "fullName": "Software Trusted Execution Environment",
+    "description": "A software implementation running in a trusted execution environment."
+  },
+  "hardware": {
+    "fullName": "Hardware",
+    "description": "A hardware implementation."
+  },
+  "fips140-1-l1": {
+    "fullName": "FIPS 140-1 Level 1",
+    "description": "FIPS 140-1 Level 1"
+  },
+  "fips140-1-l2": {
+    "fullName": "FIPS 140-1 Level 2",
+    "description": "FIPS 140-1 Level 2"
+  },
+  "fips140-1-l3": {
+    "fullName": "FIPS 140-1 Level 3",
+    "description": "FIPS 140-1 Level 3"
+  },
+  "fips140-1-l4": {
+    "fullName": "FIPS 140-1 Level 4",
+    "description": "FIPS 140-1 Level 4"
+  },
+  "fips140-2-l1": {
+    "fullName": "FIPS 140-2 Level 1",
+    "description": "FIPS 140-2 Level 1"
+  },
+  "fips140-2-l2": {
+    "fullName": "FIPS 140-2 Level 2",
+    "description": "FIPS 140-2 Level 2"
+  },
+  "fips140-2-l3": {
+    "fullName": "FIPS 140-2 Level 3",
+    "description": "FIPS 140-2 Level 3"
+  },
+  "fips140-2-l4": {
+    "fullName": "FIPS 140-2 Level 4",
+    "description": "FIPS 140-2 Level 4"
+  },
+  "fips140-3-l1": {
+    "fullName": "FIPS 140-3 Level 1",
+    "description": "FIPS 140-3 Level 1"
+  },
+  "fips140-3-l2": {
+    "fullName": "FIPS 140-3 Level 2",
+    "description": "FIPS 140-3 Level 2"
+  },
+  "fips140-3-l3": {
+    "fullName": "FIPS 140-3 Level 3",
+    "description": "FIPS 140-3 Level 3"
+  },
+  "fips140-3-l4": {
+    "fullName": "FIPS 140-3 Level 4",
+    "description": "FIPS 140-3 Level 4"
+  },
+  "cc-eal1": {
+    "fullName": "Common Criteria - Evaluation Assurance Level 1",
+    "description": "Common Criteria - Evaluation Assurance Level 1"
+  },
+  "cc-eal1+": {
+    "fullName": "Common Criteria - Evaluation Assurance Level 1+",
+    "description": "Common Criteria - Evaluation Assurance Level 1 (Augmented)"
+  },
+  "cc-eal2": {
+    "fullName": "Common Criteria - Evaluation Assurance Level 2",
+    "description": "Common Criteria - Evaluation Assurance Level 2"
+  },
+  "cc-eal2+": {
+    "fullName": "Common Criteria - Evaluation Assurance Level 2+",
+    "description": "Common Criteria - Evaluation Assurance Level 2 (Augmented)"
+  },
+  "cc-eal3": {
+    "fullName": "Common Criteria - Evaluation Assurance Level 3",
+    "description": "Common Criteria - Evaluation Assurance Level 3"
+  },
+  "cc-eal3+": {
+    "fullName": "Common Criteria - Evaluation Assurance Level 3+",
+    "description": "Common Criteria - Evaluation Assurance Level 3 (Augmented)"
+  },
+  "cc-eal4": {
+    "fullName": "Common Criteria - Evaluation Assurance Level 4",
+    "description": "Common Criteria - Evaluation Assurance Level 4"
+  },
+  "cc-eal4+": {
+    "fullName": "Common Criteria - Evaluation Assurance Level 4+",
+    "description": "Common Criteria - Evaluation Assurance Level 4 (Augmented)"
+  },
+  "cc-eal5": {
+    "fullName": "Common Criteria - Evaluation Assurance Level 5",
+    "description": "Common Criteria - Evaluation Assurance Level 5"
+  },
+  "cc-eal5+": {
+    "fullName": "Common Criteria - Evaluation Assurance Level 5+",
+    "description": "Common Criteria - Evaluation Assurance Level 5 (Augmented)"
+  },
+  "cc-eal6": {
+    "fullName": "Common Criteria - Evaluation Assurance Level 6",
+    "description": "Common Criteria - Evaluation Assurance Level 6"
+  },
+  "cc-eal6+": {
+    "fullName": "Common Criteria - Evaluation Assurance Level 6+",
+    "description": "Common Criteria - Evaluation Assurance Level 6 (Augmented)"
+  },
+  "cc-eal7": {
+    "fullName": "Common Criteria - Evaluation Assurance Level 7",
+    "description": "Common Criteria - Evaluation Assurance Level 7"
+  },
+  "cc-eal7+": {
+    "fullName": "Common Criteria - Evaluation Assurance Level 7+",
+    "description": "Common Criteria - Evaluation Assurance Level 7 (Augmented)"
+  },
+  "cbc": {
+    "fullName": "Cipher Block Chaining (CBC) Mode",
+    "description": "Cipher Block Chaining (CBC) is a mode of operation for symmetric key block ciphers. It involves chaining the ciphertext of one block with the previous block before encryption, enhancing security. CBC mode is commonly used in various encryption protocols and applications."
+  },
+  "ecb": {
+    "fullName": "Electronic Codebook (ECB) Mode",
+    "description": "Electronic Codebook (ECB) is a mode of operation for symmetric key block ciphers. Each block of plaintext is encrypted independently using the same key, which can make it less secure due to patterns in the plaintext. ECB is generally not recommended for use in secure communications."
+  },
+  "ccm": {
+    "fullName": "Counter with CBC-MAC (CCM) Mode",
+    "description": "Counter with CBC-MAC (CCM) is a mode of operation for symmetric key block ciphers that provides both encryption and integrity protection. It combines the counter mode of encryption with the CBC-MAC for authentication, making it suitable for use in secure communications."
+  },
+  "gcm": {
+    "fullName": "Galois/Counter Mode (GCM)",
+    "description": "Galois/Counter Mode (GCM) is a mode of operation for symmetric key cryptographic block ciphers. It provides both confidentiality and authentication, making it suitable for securing data in transit. GCM is widely used in various security protocols, including TLS."
+  },
+  "cfb": {
+    "fullName": "Cipher Feedback (CFB) Mode",
+    "description": "Cipher Feedback (CFB) is a mode of operation for symmetric key block ciphers that allows encryption of data in units smaller than the block size. It operates in a stream-like fashion and can be used for encrypting data of varying lengths."
+  },
+  "ofb": {
+    "fullName": "Output Feedback (OFB) Mode",
+    "description": "Output Feedback (OFB) is a mode of operation for symmetric key block ciphers that transforms a block cipher into a synchronous stream cipher. It generates keystream blocks, which are then XORed with the plaintext to produce the ciphertext. OFB mode ensures that errors do not propagate."
+  },
+  "ctr": {
+    "fullName": "Counter (CTR) Mode",
+    "description": "Counter (CTR) mode is a mode of operation for symmetric key block ciphers that turns the block cipher into a stream cipher. It generates the next keystream block by encrypting successive values of a counter. CTR mode provides high throughput and allows for parallel processing."
+  },
+  "raw": {
+    "fullName": "Raw",
+    "description": "Raw padding is a simple padding scheme where the input data is padded without any specific structure. In cryptographic applications, raw padding may involve adding zeros or other characters to achieve the required block size. While straightforward, raw padding may have security implications in certain contexts."
+  },
+  "pkcs7": {
+    "fullName": "PKCS#7",
+    "description": "PKCS#7 Padding is a widely-used padding scheme in cryptographic applications, particularly with block ciphers. It involves adding bytes to the plaintext to ensure that the total length is a multiple of the block size. PKCS#7 Padding is simple and efficient, providing a standard method for achieving block alignment."
+  },
+  "oaep": {
+    "fullName": "Optimal Asymmetric Encryption Padding (OAEP) for RSA",
+    "description": "Optimal Asymmetric Encryption Padding (OAEP) is a padding scheme specifically designed for RSA encryption. It enhances the security of the encryption process by introducing randomness and thwarting certain cryptographic attacks. OAEP is commonly used in secure communication and data protection."
+  },
+  "pkcs5": {
+    "fullName": "PKCS#5",
+    "description": "PKCS#5 Padding is a padding scheme specifically designed for 8-byte block ciphers. It adds a series of bytes, all of which are equal to the number of bytes added, to the plaintext to make its length a multiple of the block size. PKCS#5 is a subset of PKCS#7 and is used primarily in older cryptographic applications."
+  },
+  "pkcs1v15": {
+    "fullName": "PKCS#1 v1.5",
+    "description": "PKCS#1 v1.5 Padding is a padding scheme used in RSA encryption and signing. It structures the padding in a specific format that includes a fixed header, random bytes, and the message data. While effective, it has been superseded by more secure padding schemes such as OAEP due to vulnerabilities to certain cryptographic attacks."
+  },
+  "private-key": {
+    "fullName": "Private Key",
+    "description": "The confidential key of a key pair used in asymmetric cryptography."
+  },
+  "public-key": {
+    "fullName": "Public Key",
+    "description": "The non-confidential key of a key pair used in asymmetric cryptography."
+  },
+  "secret-key": {
+    "fullName": "Secret Key",
+    "description": "A key used to encrypt and decrypt messages in symmetric cryptography."
+  },
+  "key": {
+    "fullName": "Key",
+    "description": "A piece of information, usually an octet string, which, when processed through a cryptographic algorithm, processes cryptographic data."
+  },
+  "ciphertext": {
+    "fullName": "Ciphertext",
+    "description": "The result of encryption performed on plaintext using an algorithm (or cipher)."
+  },
+  "digest": {
+    "fullName": "Digest",
+    "description": "The output of the hash function."
+  },
+  "initialization-vector": {
+    "fullName": "Initialization Vector",
+    "description": "A fixed-size random or pseudo-random value used as an input parameter for cryptographic algorithms."
+  },
+  "nonce": {
+    "fullName": "Nonce",
+    "description": "A random or pseudo-random number that can only be used once in a cryptographic communication."
+  },
+  "seed": {
+    "fullName": "Seed",
+    "description": "The input to a pseudo-random number generator. Different seeds generate different pseudo-random sequences."
+  },
+  "salt": {
+    "fullName": "Salt",
+    "description": "A value used in a cryptographic process, usually to ensure that the results of computations for one instance cannot be reused by an attacker."
+  },
+  "shared-secret": {
+    "fullName": "Shared Secret",
+    "description": "A piece of data known only to the parties involved, in a secure communication."
+  },
+  "tag": {
+    "fullName": "Tag",
+    "description": "A message authentication code (MAC), sometimes known as an authentication tag, is a short piece of information used for authenticating and integrity-checking a message."
+  },
+  "additional-data": {
+    "fullName": "Additional Data",
+    "description": "An unspecified collection of data with relevance to cryptographic activity."
+  },
+  "password": {
+    "fullName": "Password",
+    "description": "A secret word, phrase, or sequence of characters used during authentication or authorization."
+  },
+  "credential": {
+    "fullName": "Credential",
+    "description": "Establishes the identity of a party to communication, usually in the form of cryptographic keys or passwords."
+  },
+  "token": {
+    "fullName": "Token",
+    "description": "An object encapsulating a security identity."
+  },
+  "tls": {
+    "fullName": "Transport Layer Security",
+    "description": "Transport Layer Security"
+  },
+  "ssh": {
+    "fullName": "Secure Shell",
+    "description": "Secure Shell"
+  },
+  "ipsec": {
+    "fullName": "Internet Protocol Security",
+    "description": "Internet Protocol Security"
+  },
+  "ike": {
+    "fullName": "Internet Key Exchange",
+    "description": "Internet Key Exchange"
+  },
+  "sstp": {
+    "fullName": "Secure Socket Tunneling Protocol",
+    "description": "Secure Socket Tunneling Protocol"
+  },
+  "wpa": {
+    "fullName": "Wi-Fi Protected Access",
+    "description": "Wi-Fi Protected Access"
   }
 }
