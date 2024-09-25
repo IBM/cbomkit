@@ -2,7 +2,7 @@
   <div class="table">
     <cv-modal ref="modalInfo">
       <template slot="label"
-        >{{ this.assetType }}</template
+        >{{ getTermFullName(this.assetType) ? getTermFullName(this.assetType) : this.assetType }}</template
       >
       <template slot="title"
         ><h3>
@@ -134,7 +134,7 @@
                   {{ primitive(asset).toUpperCase() }}
                 </div>
                 <div style="font-size: 85%">
-                  {{ getTermFullName(primitive(asset), "primitive", false) }}
+                  {{ getTermFullName(primitive(asset)) ? getTermFullName(primitive(asset)) : primitive(asset) }}
                 </div>
               </div>
               <div v-else>Unspecified</div>
@@ -278,8 +278,7 @@ export default {
       if (!Object.hasOwn(this.currentAssetModal, "cryptoProperties")) {
         return "";
       }
-      const assetTypeStr = this.currentAssetModal.cryptoProperties.assetType;
-      return capitalizeFirstLetter(assetTypeStr);
+      return this.currentAssetModal.cryptoProperties.assetType;
     },
     variant() {
       if (

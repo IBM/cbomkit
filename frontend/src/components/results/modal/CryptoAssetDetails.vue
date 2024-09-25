@@ -11,7 +11,7 @@
       >
         <h4 style="font-weight: 500">Code</h4>
         <cv-button
-          v-if="hasCodeLocation(asset)"
+          v-if="hasCodeLocation()"
           class="code-button"
           kind="ghost"
           v-on:click="$emit('open-code', true)"
@@ -20,7 +20,7 @@
           View code <Launch16 class="bx--btn__icon"
         /></cv-button>
       </div>
-      <GithubEmbed v-if="hasCodeLocation(asset)" :asset="asset" @open-code="$emit('open-code', false)" />
+      <GithubEmbed v-if="hasCodeLocation()" :asset="asset" @open-code="$emit('open-code', false)" />
       <!-- Text when no code location was specified -->
       <div v-else style="margin-top: 20px; border-radius: 15px; background-color: rgba(0, 0, 0, 0.15); padding: 15px;">
         No code location has been specified in the CBOM for this cryptographic asset. If you include code location information in a CBOM from a public online repository, you will be able to preview the code here and open it directly on a service like GitHub.
@@ -98,10 +98,21 @@
             :key="property.name"
           >
             <cv-structured-list-data>{{ property.name }}</cv-structured-list-data>
-            <cv-structured-list-data style="display: flex; align-items: center">
-              <!-- TODO: Missing `getTermFullName` handling -->
-              <!-- TODO: Missing array handling -->
-              {{ getNestedProperty(property.path) }}
+            <cv-structured-list-data>
+              <div
+                v-for="(value, index) in getPropertyValues(property.path)"
+                :key="index"
+                style="display: flex; align-items: center; padding-bottom: 2px"
+              >
+                {{ getTermFullName(value) ? getTermFullName(value) : value }} 
+                <cv-tooltip
+                  v-if="getTermDescription(value)"
+                  :tip="getTermDescription(value)"
+                  alignment="end"
+                  class="tooltip"
+                >
+                </cv-tooltip>
+              </div>
             </cv-structured-list-data>
           </cv-structured-list-item>
         </template>
@@ -196,7 +207,7 @@ export default {
     getCompliancePolicyName,
     filteredProperties() {
       // Filter properties where the value exists
-      return this.propertyPaths.filter(property => this.getNestedProperty(property.path));
+      return this.propertyPaths.filter(property => this.getPropertyValues(property.path));
     },
   },
   methods: {
@@ -208,23 +219,20 @@ export default {
     getComplianceFindingsWithMessage,
     getComplianceLabel,
     getComplianceObjectFromId,
-    hasCodeLocation(cryptoAsset) {
-      if (cryptoAsset === undefined || cryptoAsset === null) {
-        return false;
-      }
-      if (!Object.hasOwn(cryptoAsset, "evidence")) {
-        return false;
-      }
-      if (!Object.hasOwn(cryptoAsset.evidence, "occurrences")) {
-        return false;
-      }
-      return true;
+    hasCodeLocation() {
+      let occurences = this.getPropertyValues("evidence.occurrences")
+      return occurences !== null && occurences !== undefined
     },
-    // Utility method to safely access nested properties
-    getNestedProperty(path, defaultValue = "") {
-      return path.split('.').reduce((obj, key) => {
+    // Utility method to safely access nested properties, and return an array of values
+    getPropertyValues(path) {
+      const result = path.split('.').reduce((obj, key) => {
         return (obj && Object.hasOwn(obj, key)) ? obj[key] : undefined;
-      }, this.asset) || defaultValue;
+      }, this.asset);
+
+      // If result is not null or undefined and not already an array, wrap it in an array
+      if (result !== null && result !== undefined) {
+        return Array.isArray(result) ? result : [result];
+      }
     }
   },
 };
