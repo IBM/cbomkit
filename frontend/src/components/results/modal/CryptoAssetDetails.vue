@@ -223,7 +223,7 @@
             </cv-structured-list-data>
           </cv-structured-list-item>
           <cv-structured-list-item
-            v-if="this.relatedCryptoMaterialSecured != null"
+            v-if="this.relatedCryptoMaterialSecured"
           >
             <cv-structured-list-data>Secured</cv-structured-list-data>
             <cv-structured-list-data style="display: flex; align-items: center">
@@ -282,277 +282,55 @@ export default {
     hasValidComplianceResults,
     getCompliancePolicyName,
     algorithmOid() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset.cryptoProperties, "oid")) {
-        return "";
-      }
-      return this.asset.cryptoProperties.oid;
+      return this.getNestedProperty('cryptoProperties.oid');
     },
+    
     algorithmParameterSetIdentifier() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset.cryptoProperties, "algorithmProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties.algorithmProperties,
-          "parameterSetIdentifier"
-        )
-      ) {
-        return "";
-      }
-      return this.asset.cryptoProperties.algorithmProperties.parameterSetIdentifier;
+      return this.getNestedProperty('cryptoProperties.algorithmProperties.parameterSetIdentifier');
     },
+    
     algorithmImplementationLevel() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset.cryptoProperties, "algorithmProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties.algorithmProperties,
-          "implementationLevel"
-        )
-      ) {
-        return "";
-      }
-      return this.asset.cryptoProperties.algorithmProperties
-        .implementationLevel;
+      return this.getNestedProperty('cryptoProperties.algorithmProperties.implementationLevel');
     },
+
     algorithmImplementationPlatform() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset.cryptoProperties, "algorithmProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties.algorithmProperties,
-          "implementationPlatform"
-        )
-      ) {
-        return "";
-      }
-      return this.asset.cryptoProperties.algorithmProperties
-        .implementationPlatform;
+      return this.getNestedProperty('cryptoProperties.algorithmProperties.implementationPlatform');
     },
+
     algorithmCertificationLevel() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset.cryptoProperties, "algorithmProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties.algorithmProperties,
-          "certificationLevel"
-        )
-      ) {
-        return "";
-      }
-      return this.asset.cryptoProperties.algorithmProperties.certificationLevel;
+      return this.getNestedProperty('cryptoProperties.algorithmProperties.certificationLevel');
     },
+
     algorithmPrimitive() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset.cryptoProperties, "algorithmProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties.algorithmProperties,
-          "primitive"
-        )
-      ) {
-        return "";
-      }
-      return this.asset.cryptoProperties.algorithmProperties.primitive;
+      return this.getNestedProperty('cryptoProperties.algorithmProperties.primitive');
     },
+
     algorithmMode() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset.cryptoProperties, "algorithmProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(this.asset.cryptoProperties.algorithmProperties, "mode")
-      ) {
-        return "";
-      }
-      return this.asset.cryptoProperties.algorithmProperties.mode;
+      return this.getNestedProperty('cryptoProperties.algorithmProperties.mode');
     },
+
     algorithmPadding() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset.cryptoProperties, "algorithmProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties.algorithmProperties,
-          "padding"
-        )
-      ) {
-        return "";
-      }
-      return this.asset.cryptoProperties.algorithmProperties.padding;
+      return this.getNestedProperty('cryptoProperties.algorithmProperties.padding');
     },
+
     algorithmCryptoFunctions() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset.cryptoProperties, "algorithmProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties.algorithmProperties,
-          "cryptoFunctions"
-        )
-      ) {
-        return "";
-      }
-      return this.asset.cryptoProperties.algorithmProperties.cryptoFunctions;
+      return this.getNestedProperty('cryptoProperties.algorithmProperties.cryptoFunctions');
     },
+
     relatedCryptoMaterialType() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties,
-          "relatedCryptoMaterialProperties"
-        )
-      ) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties.relatedCryptoMaterialProperties,
-          "relatedCryptoMaterialType"
-        )
-      ) {
-        return "";
-      }
-      return this.asset.cryptoProperties.relatedCryptoMaterialProperties
-        .relatedCryptoMaterialType;
+      return this.getNestedProperty('cryptoProperties.relatedCryptoMaterialProperties.relatedCryptoMaterialType');
     },
+
     relatedCryptoMaterialSize() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties,
-          "relatedCryptoMaterialProperties"
-        )
-      ) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties.relatedCryptoMaterialProperties,
-          "size"
-        )
-      ) {
-        return "";
-      }
-      return this.asset.cryptoProperties.relatedCryptoMaterialProperties.size;
+      return this.getNestedProperty('cryptoProperties.relatedCryptoMaterialProperties.size');
     },
+
     relatedCryptoMaterialFormat() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties,
-          "relatedCryptoMaterialProperties"
-        )
-      ) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties.relatedCryptoMaterialProperties,
-          "format"
-        )
-      ) {
-        return "";
-      }
-      return this.asset.cryptoProperties.relatedCryptoMaterialProperties.format;
+      return this.getNestedProperty('cryptoProperties.relatedCryptoMaterialProperties.format');
     },
+
     relatedCryptoMaterialSecured() {
-      if (this.asset === undefined || this.asset === null) {
-        return null;
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return null;
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties,
-          "relatedCryptoMaterialProperties"
-        )
-      ) {
-        return null;
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties.relatedCryptoMaterialProperties,
-          "secured"
-        )
-      ) {
-        return null;
-      }
-      return this.asset.cryptoProperties.relatedCryptoMaterialProperties
-        .secured;
+      return this.getNestedProperty('cryptoProperties.relatedCryptoMaterialProperties.secured');
     },
     assetDetails() {
       var fullName;
@@ -590,6 +368,12 @@ export default {
         return false;
       }
       return true;
+    },
+    // Utility method to safely access nested properties
+    getNestedProperty(path, defaultValue = "") {
+      return path.split('.').reduce((obj, key) => {
+        return (obj && Object.hasOwn(obj, key)) ? obj[key] : undefined;
+      }, this.asset) || defaultValue;
     }
   },
 };
