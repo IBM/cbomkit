@@ -93,147 +93,15 @@
           <cv-structured-list-heading>Value</cv-structured-list-heading>
         </template>
         <template slot="items">
-          <!-- When the asset is an `algorithm` -->
-          <!-- TODO: add all terms to the dictionary and use `getTerm___` + add tooltip everywhere -->
-          <cv-structured-list-item v-if="this.algorithmPrimitive">
-            <cv-structured-list-data>Primitive</cv-structured-list-data>
-            <cv-structured-list-data style="display: flex; align-items: center">
-              {{ getTermFullName(this.algorithmPrimitive, "primitive") }}
-              <cv-tooltip
-                v-if="
-                  getTermFullName(
-                    this.algorithmPrimitive,
-                    'primitive',
-                    false
-                  ) !== ''
-                "
-                :tip="getTermDescription(this.algorithmPrimitive, 'primitive')"
-                alignment="end"
-                class="tooltip"
-              >
-              </cv-tooltip>
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-          <cv-structured-list-item v-if="this.algorithmParameterSetIdentifier">
-            <cv-structured-list-data>Parameter set identifier</cv-structured-list-data>
-            <cv-structured-list-data style="display: flex; align-items: center">
-              <!-- TODO: Currently, the dictionnary does not have a dedicated variant section but looks into the names -->
-              {{ getTermFullName(this.algorithmParameterSetIdentifier, "name") }}
-              <cv-tooltip
-                v-if="
-                  getTermFullName(this.algorithmParameterSetIdentifier, 'name', false) !== ''
-                "
-                :tip="getTermDescription(this.algorithmParameterSetIdentifier, 'name')"
-                alignment="end"
-                class="tooltip"
-              >
-              </cv-tooltip>
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-          <cv-structured-list-item v-if="this.algorithmImplementationLevel">
-            <cv-structured-list-data
-              >Implementation Level</cv-structured-list-data
-            >
-            <cv-structured-list-data style="display: flex; align-items: center">
-              {{ this.algorithmImplementationLevel }}
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-          <cv-structured-list-item v-if="this.algorithmImplementationPlatform">
-            <cv-structured-list-data
-              >Implementation Platform</cv-structured-list-data
-            >
-            <cv-structured-list-data style="display: flex; align-items: center">
-              {{ this.algorithmImplementationPlatform }}
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-          <cv-structured-list-item v-if="this.algorithmCertificationLevel">
-            <cv-structured-list-data
-              >Certification Level</cv-structured-list-data
-            >
-            <cv-structured-list-data style="display: flex; align-items: center">
-              {{ this.algorithmCertificationLevel }}
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-          <cv-structured-list-item v-if="this.algorithmMode">
-            <cv-structured-list-data>Mode</cv-structured-list-data>
-            <cv-structured-list-data style="display: flex; align-items: center">
-              {{ getTermFullName(this.algorithmMode, "mode") }}
-              <cv-tooltip
-                v-if="getTermFullName(this.algorithmMode, 'mode', false) !== ''"
-                :tip="getTermDescription(this.algorithmMode, 'mode')"
-                alignment="end"
-                class="tooltip"
-              >
-              </cv-tooltip>
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-          <cv-structured-list-item v-if="this.algorithmPadding">
-            <cv-structured-list-data>Padding</cv-structured-list-data>
-            <cv-structured-list-data style="display: flex; align-items: center">
-              {{ getTermFullName(this.algorithmPadding, "padding") }}
-              <cv-tooltip
-                v-if="
-                  getTermFullName(this.algorithmPadding, 'padding', false) !== ''
-                "
-                :tip="getTermDescription(this.algorithmPadding, 'padding')"
-                alignment="end"
-                class="tooltip"
-              >
-              </cv-tooltip>
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-          <cv-structured-list-item v-if="this.algorithmCryptoFunctions">
-            <cv-structured-list-data>Crypto Functions</cv-structured-list-data>
-            <cv-structured-list-data>
-              <div
-                v-for="func in this.algorithmCryptoFunctions"
-                :key="func"
-                style="display: flex; align-items: center; padding-bottom: 2px"
-              >
-                {{ getTermFullName(func, "cryptoFunction") }}
-                <cv-tooltip
-                  v-if="getTermFullName(func, 'cryptoFunction', false) !== ''"
-                  :tip="getTermDescription(func, 'cryptoFunction')"
-                  alignment="end"
-                  class="tooltip"
-                >
-                </cv-tooltip>
-              </div>
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-
-          <!-- When the asset is a `relatedCryptoMaterial` -->
-          <!-- TODO: add these terms to the dictionary and use `getTerm___` + add tooltip -->
-          <cv-structured-list-item v-if="this.relatedCryptoMaterialType">
-            <cv-structured-list-data>Type</cv-structured-list-data>
-            <cv-structured-list-data style="display: flex; align-items: center">
-              {{ this.relatedCryptoMaterialType }}
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-          <cv-structured-list-item v-if="this.relatedCryptoMaterialSize">
-            <cv-structured-list-data>Size</cv-structured-list-data>
-            <cv-structured-list-data style="display: flex; align-items: center">
-              {{ this.relatedCryptoMaterialSize }}
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-          <cv-structured-list-item v-if="this.relatedCryptoMaterialFormat">
-            <cv-structured-list-data>Format</cv-structured-list-data>
-            <cv-structured-list-data style="display: flex; align-items: center">
-              {{ this.relatedCryptoMaterialFormat }}
-            </cv-structured-list-data>
-          </cv-structured-list-item>
           <cv-structured-list-item
-            v-if="this.relatedCryptoMaterialSecured"
+            v-for="property in filteredProperties"
+            :key="property.name"
           >
-            <cv-structured-list-data>Secured</cv-structured-list-data>
+            <cv-structured-list-data>{{ property.name }}</cv-structured-list-data>
             <cv-structured-list-data style="display: flex; align-items: center">
-              {{ this.relatedCryptoMaterialSecured }}
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-          <cv-structured-list-item v-if="this.algorithmOid">
-            <cv-structured-list-data>OID</cv-structured-list-data>
-            <cv-structured-list-data style="display: flex; align-items: center">
-              {{ this.algorithmOid }}
+              <!-- TODO: Missing `getTermFullName` handling -->
+              <!-- TODO: Missing array handling -->
+              {{ getNestedProperty(property.path) }}
             </cv-structured-list-data>
           </cv-structured-list-item>
         </template>
@@ -266,7 +134,52 @@ export default {
   name: "CryptoAssetDetails",
   data: function () {
     return {
-
+      propertyPaths: /* ordered */ [
+        { name: "Asset Type", path: "cryptoProperties.assetType" },
+        /* algorithmProperties */
+        { name: "Primitive", path: "cryptoProperties.algorithmProperties.primitive" },
+        { name: "Parameter Set Identifier", path: "cryptoProperties.algorithmProperties.parameterSetIdentifier" },
+        { name: "Curve", path: "cryptoProperties.algorithmProperties.curve" },
+        { name: "Execution Environment", path: "cryptoProperties.algorithmProperties.executionEnvironment" },
+        { name: "Implementation Platform", path: "cryptoProperties.algorithmProperties.implementationPlatform" },
+        { name: "Certification Level", path: "cryptoProperties.algorithmProperties.certificationLevel" },
+        { name: "Mode", path: "cryptoProperties.algorithmProperties.mode" },
+        { name: "Padding", path: "cryptoProperties.algorithmProperties.padding" },
+        { name: "Crypto Functions", path: "cryptoProperties.algorithmProperties.cryptoFunctions" },
+        { name: "Classical Security Level", path: "cryptoProperties.algorithmProperties.classicalSecurityLevel" },
+        { name: "NIST Quantum Security Level", path: "cryptoProperties.algorithmProperties.nistQuantumSecurityLevel" },
+        /* certificateProperties */
+        { name: "Subject Name", path: "cryptoProperties.certificateProperties.subjectName" },
+        { name: "Issuer Name", path: "cryptoProperties.certificateProperties.issuerName" },
+        { name: "Not Valid Before", path: "cryptoProperties.certificateProperties.notValidBefore" },
+        { name: "Not Valid After", path: "cryptoProperties.certificateProperties.notValidAfter" },
+        { name: "Signature Algorithm Reference", path: "cryptoProperties.certificateProperties.signatureAlgorithmRef" },
+        { name: "Subject Public Key Reference", path: "cryptoProperties.certificateProperties.subjectPublicKeyRef" },
+        { name: "Certificate Format", path: "cryptoProperties.certificateProperties.certificateFormat" },
+        { name: "Certificate Extension", path: "cryptoProperties.certificateProperties.certificateExtension" },
+        /* relatedCryptoMaterialProperties */
+        { name: "Type", path: "cryptoProperties.relatedCryptoMaterialProperties.type" },
+        { name: "ID", path: "cryptoProperties.relatedCryptoMaterialProperties.id" },
+        { name: "State", path: "cryptoProperties.relatedCryptoMaterialProperties.state" },
+        { name: "Algorithm Reference", path: "cryptoProperties.relatedCryptoMaterialProperties.algorithmRef" },
+        { name: "Creation Date", path: "cryptoProperties.relatedCryptoMaterialProperties.creationDate" },
+        { name: "Activation Date", path: "cryptoProperties.relatedCryptoMaterialProperties.activationDate" },
+        { name: "Update Date", path: "cryptoProperties.relatedCryptoMaterialProperties.updateDate" },
+        { name: "Expiration Date", path: "cryptoProperties.relatedCryptoMaterialProperties.expirationDate" },
+        { name: "Value", path: "cryptoProperties.relatedCryptoMaterialProperties.value" },
+        { name: "Size", path: "cryptoProperties.relatedCryptoMaterialProperties.size" },
+        { name: "Format", path: "cryptoProperties.relatedCryptoMaterialProperties.format" },
+        { name: "Secured By", path: "cryptoProperties.relatedCryptoMaterialProperties.securedBy" },
+        /* protocolProperties */
+        { name: "Type", path: "cryptoProperties.protocolProperties.type" },
+        { name: "Version", path: "cryptoProperties.protocolProperties.version" },
+        { name: "Cipher Suites", path: "cryptoProperties.protocolProperties.ikev2TransformTypes" },
+        { name: "IKEv2 Transform Types", path: "cryptoProperties.protocolProperties.type" },
+        { name: "Cryptographic References", path: "cryptoProperties.protocolProperties.cryptoRefArray" },
+        /* Other */
+        { name: "OID", path: "cryptoProperties.oid" },
+        { name: "BOM Reference", path: "bom-ref" },
+      ]
     };
   },
   components: {
@@ -281,71 +194,9 @@ export default {
   computed: {
     hasValidComplianceResults,
     getCompliancePolicyName,
-    algorithmOid() {
-      return this.getNestedProperty('cryptoProperties.oid');
-    },
-    
-    algorithmParameterSetIdentifier() {
-      return this.getNestedProperty('cryptoProperties.algorithmProperties.parameterSetIdentifier');
-    },
-    
-    algorithmImplementationLevel() {
-      return this.getNestedProperty('cryptoProperties.algorithmProperties.implementationLevel');
-    },
-
-    algorithmImplementationPlatform() {
-      return this.getNestedProperty('cryptoProperties.algorithmProperties.implementationPlatform');
-    },
-
-    algorithmCertificationLevel() {
-      return this.getNestedProperty('cryptoProperties.algorithmProperties.certificationLevel');
-    },
-
-    algorithmPrimitive() {
-      return this.getNestedProperty('cryptoProperties.algorithmProperties.primitive');
-    },
-
-    algorithmMode() {
-      return this.getNestedProperty('cryptoProperties.algorithmProperties.mode');
-    },
-
-    algorithmPadding() {
-      return this.getNestedProperty('cryptoProperties.algorithmProperties.padding');
-    },
-
-    algorithmCryptoFunctions() {
-      return this.getNestedProperty('cryptoProperties.algorithmProperties.cryptoFunctions');
-    },
-
-    relatedCryptoMaterialType() {
-      return this.getNestedProperty('cryptoProperties.relatedCryptoMaterialProperties.relatedCryptoMaterialType');
-    },
-
-    relatedCryptoMaterialSize() {
-      return this.getNestedProperty('cryptoProperties.relatedCryptoMaterialProperties.size');
-    },
-
-    relatedCryptoMaterialFormat() {
-      return this.getNestedProperty('cryptoProperties.relatedCryptoMaterialProperties.format');
-    },
-
-    relatedCryptoMaterialSecured() {
-      return this.getNestedProperty('cryptoProperties.relatedCryptoMaterialProperties.secured');
-    },
-    assetDetails() {
-      var fullName;
-      var description;
-      if (this.asset != undefined || this.asset != null) {
-        fullName = getTermFullName(this.asset.name, "name");
-        description = getTermDescription(this.asset.name, "name");
-      }
-      if (fullName == "") {
-        fullName = "Unknown asset";
-      }
-      if (description == "") {
-        description = "No description was found for this asset.";
-      }
-      return { fullName: fullName, description: description };
+    filteredProperties() {
+      // Filter properties where the value exists
+      return this.propertyPaths.filter(property => this.getNestedProperty(property.path));
     },
   },
   methods: {
