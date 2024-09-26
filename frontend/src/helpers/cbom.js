@@ -71,6 +71,72 @@ function checkCbomValidity(cbom) {
   }
 }
 
+function setDependenciesMap(cbom) {
+  const dependsMap = new Map();
+  const providesMap = new Map();
+  const detectionsMap = new Map(); /* bom-ref -> component */
+
+  if (Object.hasOwn(cbom, "dependencies") && Array.isArray(cbom.dependencies)) {
+    for (const dep of cbom.dependencies) {
+      if (Object.hasOwn(dep, "ref")) {
+        let bomRef = dep.ref;
+
+        // dependsOn
+        if (Object.hasOwn(dep, "dependsOn") && Array.isArray(dep.dependsOn)) {
+          for (const dependsOnRef of dep.dependsOn) {
+            if (!dependsMap.has(bomRef)) {
+              dependsMap.set(bomRef, []);
+            }
+            dependsMap.get(bomRef).push(dependsOnRef);
+          }
+        }
+
+        // provides
+        if (Object.hasOwn(dep, "provides") && Array.isArray(dep.provides)) {
+          for (const providesRef of dep.provides) {
+            if (!providesMap.has(bomRef)) {
+              providesMap.set(bomRef, []);
+            }
+            providesMap.get(bomRef).push(providesRef);
+          }
+        }
+      }
+    }
+  }
+
+  for (const detection of getDetections()) {
+    if (Object.hasOwn(detection, "bom-ref")) {
+      detectionsMap.set(detection["bom-ref"], detection);
+    }
+  }
+
+  model.dependencies = { dependsMap, providesMap, detectionsMap };
+}
+
+export function getDependencies(bomRef) {
+  const dependsMap = model.dependencies["dependsMap"];
+  const providesMap = model.dependencies["providesMap"];
+  const detectionsMap = model.dependencies["detectionsMap"];
+  var dependsComponentList = [];
+  var providesComponentList = [];
+
+  const dependsRefList = dependsMap.get(bomRef) || [];
+  const providesRefList = providesMap.get(bomRef) || [];
+
+  for (const ref of dependsRefList) {
+    if (detectionsMap.has(ref)) {
+      dependsComponentList.push(detectionsMap.get(ref));
+    }
+  }
+  for (const ref of providesRefList) {
+    if (detectionsMap.has(ref)) {
+      providesComponentList.push(detectionsMap.get(ref));
+    }
+  }
+
+  return { dependsComponentList, providesComponentList };
+}
+
 
 export function setCbom(cbom) {
   checkCbomValidity(cbom);
@@ -106,6 +172,7 @@ export function setCbom(cbom) {
 export function showResultFromApi(cbomApi) {
   let cbom = getCbomFromScan(cbomApi);
   setCbom(cbom);
+  setDependenciesMap(cbom)
   model.codeOrigin.gitLink = cbomApi.gitUrl;
   model.codeOrigin.gitBranch = cbomApi.branch;
   model.showResults = true;
@@ -113,6 +180,7 @@ export function showResultFromApi(cbomApi) {
 
 export function showResultFromUpload(cbom, name) {
   setCbom(cbom);
+  setDependenciesMap(cbom)
   model.codeOrigin.uploadedFileName = name;
   model.showResults = true;
 }

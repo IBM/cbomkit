@@ -11,10 +11,9 @@
       >
       <template slot="content">
         <CryptoAssetDetails
-          :url="model.codeOrigin.gitLink"
-          :branch="model.codeOrigin.gitBranch"
           :asset="currentAssetModal"
           @open-code="openInCode"
+          @open-asset="openAsset"
         />
       </template>
     </cv-modal>
@@ -375,6 +374,17 @@ export default {
         return;
       }
       openOnline(this.currentAssetModal);
+    },
+    openAsset(asset) {
+      // Close the modal
+      this.$refs.modalInfo.hide();
+      // Wait a bit
+      setTimeout(() => {
+        // Set the new asset
+        this.currentAssetModal = asset;
+        // Show the modal again
+        this.$refs.modalInfo.show();
+      }, 300);
     },
     onSort(sortBy) {
       // Sort by sorting a copy of the detections to not create change in the graph views (that depend on ordering)

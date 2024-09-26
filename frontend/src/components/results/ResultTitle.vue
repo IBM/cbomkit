@@ -7,10 +7,6 @@
             {{ dataTableTitle }}
           </h3>
           <h4 style="padding-bottom: 8px" v-html="dataTableSubtitle"></h4>
-          <!-- <h4 style="padding-bottom: 8px;">
-                        Scanned {{ numberFormatter(model.scanning.numberOfLines) }} lines of code across {{ numberFormatter(model.scanning.numberOfFiles) }} files.
-                    </h4> -->
-          <!-- <cv-tag v-if="showLink" :label="model.codeOrigin.gitLink"/> -->
           <cv-tag v-if="showBranch" :label="branchLabel" />
           <cv-tag v-if="showCommitID" :label="commitIDLabel" />
           <cv-tag v-if="showSubfolder" :label="subfolderLabel" />

@@ -80,6 +80,11 @@
       
     </div>
 
+    <!-- DEPENDENCIES -->
+     <div v-if="getBomRef">
+      <DependenciesView :bomRef="getBomRef" @open-asset="openAsset"/>
+     </div>
+
     <!-- SPECIFICATION -->
     <h4 style="font-weight: 500; padding-top: 16px; padding-bottom: 4px">
       Specification
@@ -122,6 +127,7 @@
 </template>
 
 <script>
+import DependenciesView from "@/components/results/modal/DependenciesView.vue";
 import {
   getTermFullName,
   getTermDescription,
@@ -194,6 +200,7 @@ export default {
     };
   },
   components: {
+    DependenciesView,
     GithubEmbed,
     Launch16,
     WatsonHealthImageAvailabilityUnavailable24,
@@ -209,6 +216,16 @@ export default {
       // Filter properties where the value exists
       return this.propertyPaths.filter(property => this.getPropertyValues(property.path));
     },
+    getBomRef() {
+      if (this.asset == undefined || this.asset === null) {
+        return
+      }
+      let values = this.getPropertyValues("bom-ref");
+      if (values.length === 1) {
+        return values[0];
+      }
+      return null;
+    }
   },
   methods: {
     getTermFullName,
@@ -233,7 +250,10 @@ export default {
       if (result !== null && result !== undefined) {
         return Array.isArray(result) ? result : [result];
       }
-    }
+    },
+    openAsset(asset) {
+      this.$emit('open-asset', asset);
+    },
   },
 };
 </script>

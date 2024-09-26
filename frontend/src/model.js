@@ -6,6 +6,7 @@ export const model = reactive({
   showResults: false,
   showDebugging: false,
   cbom: null,
+  dependencies: null,
   scanning: {
     isScanning: false,
     scanningStatus: null,
@@ -52,6 +53,7 @@ export const model = reactive({
     model.scanning.totalDuration = null;
     model.codeOrigin.commitID = null;
     model.cbom = null;
+    model.dependencies = null;
   },
   resetCodeOriginInfo() {
     model.codeOrigin.gitLink = null;
