@@ -1,28 +1,33 @@
 <template>
   <div>
     <div>
-      <h4 class="title">
+      <h4 class="title" v-if="dependsOn.length > 0">
         Depends on
       </h4>
       <div v-for="(asset, index) in dependsOn" :key="index">
-        <p v-if="getAssetType(asset)">
-          {{ getAssetType(asset) }}
-        </p>
-        <p v-if="getName(asset)">
-          {{ getName(asset) }}
-        </p>
-        <p v-if="getBomRef(asset)">
-          {{ getBomRef(asset) }}
-        </p> 
-        <cv-button
-          kind="ghost"
-          v-on:click="$emit('open-asset', asset)"
-          style="margin-left: auto"
-        >Open</cv-button>
+        <div style="display: flex; align-items: center; padding: 4px 10px;">
+          <Connect24 style="margin-right:12px; scale: 1.1; fill: orange"/>
+          <div>
+            <div style="font-size: large;">
+              {{ getName(asset) + "   —   " + getAssetType(asset) }}
+            </div>
+            <div style="font-size: small" v-if="getBomRef(asset)">
+              {{ "BOM Reference: " + getBomRef(asset) }}
+            </div>
+          </div>
+          <cv-button
+            v-on:click="$emit('open-asset', asset)"
+            :icon="Launch24"
+            style="margin-left:auto;"
+            kind="ghost"
+          >
+            See details
+          </cv-button>
+        </div>
       </div>
     </div>
 
-    <h4 class="title">
+    <h4 class="title" v-if="provides.length > 0">
       Provides to
     </h4>
     <!-- TODO -->
@@ -31,7 +36,7 @@
 
 <script>
 import { getDependencies, getTermFullName } from "@/helpers.js";
-// import { ArrowRight24 } from "@carbon/icons-vue";
+import { Launch24, Connect24 } from "@carbon/icons-vue";
 
 export default {
   name: "DependenciesView",
@@ -40,7 +45,11 @@ export default {
   },
   data() {
     return {
+      Launch24
     };
+  },
+  components: {
+    Connect24
   },
   methods: {
     getDependencies,
@@ -94,7 +103,7 @@ export default {
 </script>
 
 <style>
-title {
+.title {
   font-weight: 500;
   padding-top: 16px;
   padding-bottom: 4px
