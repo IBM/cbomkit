@@ -14,7 +14,7 @@
 
 <script>
 import {model} from "@/model.js";
-import {canOpenOnline} from "@/helpers";
+import {getCodeLink} from "@/helpers";
 
 export default {
   name: "GithubEmbed",
@@ -29,38 +29,13 @@ export default {
   },
   computed: {
     embededLink() {
-      // TODO: This is a bit duplicated with the helper function to open online, needs refactoring
-      if (!canOpenOnline() || this.asset == null) {
-        return;
-      }
-
-      let gitUrl = model.codeOrigin.gitLink;
-      let branch = model.codeOrigin.gitBranch;
-
-      const occurrences = this.asset.evidence.occurrences;
-      if (occurrences.length === 1) {
-        const firstEntry = occurrences[0];
-        const filePath = firstEntry.location;
-        const lineNumber = firstEntry.line;
-        var codeUrl;
-        if (gitUrl.includes("github.com")) {
-          codeUrl =
-            gitUrl +
-            "/blob/" +
-            branch +
-            "/" +
-            filePath +
-            "#L" +
-            (lineNumber - this.numberOfLinesBeforeAfter) +
-            "-" +
-            (lineNumber + this.numberOfLinesBeforeAfter);
-          let theme = model.useDarkMode ? "github-dark" : "github";
+      let codeUrl = getCodeLink(this.asset, this.numberOfLinesBeforeAfter);
+      if (codeUrl.includes("github.com")) {
+        let theme = model.useDarkMode ? "github-dark" : "github";
           return `https://emgithub.com/embed-v2.js?target=${encodeURIComponent(
               codeUrl
           )}&style=${theme}&type=code&showBorder=on&showLineNumbers=on&showFullPath=on`;
         }
-        return "";
-      }
       return "";
     },
   },

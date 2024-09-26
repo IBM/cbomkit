@@ -19,11 +19,11 @@
       </template>
     </cv-modal>
 
-    <cv-modal ref="modalPrompt">
+    <cv-modal ref="modalPrompt" @after-modal-hidden="resetModal">
       <template slot="label">{{ modalPromptLabel }}</template>
       <template slot="title">{{ modalPromptTitle }}</template>
       <template slot="content">
-        <GitInfoPrompt @confirm-prompt="confirmPrompt" />
+        <GitInfoPrompt ref="gitInfoPrompt" @confirm-prompt="confirmPrompt"/>
       </template>
     </cv-modal>
 
@@ -360,6 +360,9 @@ export default {
       if (this.openInCodeOnConfirm) {
         this.openInCode(this.openInCodeOnConfirm);
       }
+    },
+    resetModal() {
+      this.$refs.gitInfoPrompt.resetModal(); // Call the method in GitInfoPrompt
     },
     openInCodeFor: function (value) {
       this.currentAssetModal = this.paginatedDetections[value.index];

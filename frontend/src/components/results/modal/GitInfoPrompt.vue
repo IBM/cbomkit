@@ -7,7 +7,30 @@
       v-model="gitLink"
       @keyup.enter="confirm()"
     />
+    <cv-radio-group :vertical="false" style="padding: 18px 0px 8px">
+      <cv-radio-button 
+        name="group-1" 
+        label="Commit ID (recommended)" 
+        value="commitID" 
+        v-model="selectedOption"
+      />
+      <cv-radio-button 
+        name="group-1" 
+        label="Branch" 
+        value="branch" 
+        v-model="selectedOption"
+      />
+    </cv-radio-group>
     <cv-text-input
+      v-if="selectedOption === 'commitID'"
+      class="input"
+      label="Commit ID"
+      placeholder="Specify the commit ID of the Git repository associated with this CBOM"
+      v-model="commitID"
+      @keyup.enter="confirm()"
+    />
+    <cv-text-input
+      v-if="selectedOption === 'branch'"
       class="input"
       label="Branch"
       placeholder="Specify the branch of the Git repository associated with this CBOM"
@@ -16,9 +39,10 @@
     />
     <cv-button
       class="confirm"
+      style="margin-top: 24px;"
       :icon="ArrowRight24"
       @click="confirm()"
-      :disabled="!gitLink || !gitBranch"
+      :disabled="!gitLink || (selectedOption === 'branch' && !gitBranch) || (selectedOption === 'commitID' && !commitID)"
       >Confirm</cv-button
     >
   </div>
@@ -36,21 +60,40 @@ export default {
       ArrowRight24,
       gitLink: "",
       gitBranch: "",
+      commitID: "",
+      selectedOption: "",
     };
   },
   methods: {
     confirm: function () {
-      if (this.gitLink && this.gitBranch) {
+      if (this.gitLink && (this.gitBranch || this.commitID)) {
         model.codeOrigin.gitLink = this.gitLink;
-        model.codeOrigin.gitBranch = this.gitBranch;
+        if (this.selectedOption === "branch") {
+          model.codeOrigin.gitBranch = this.gitBranch;
+          model.codeOrigin.commitID = null; // remove the commit ID
+        }
+        if (this.selectedOption === "commitID") {
+          model.codeOrigin.commitID = this.commitID;
+          model.codeOrigin.gitBranch = null; // remove the branch
+        }
         this.$emit("confirm-prompt");
       }
     },
+    resetModal: function () {
+      this.gitLink = model.codeOrigin.gitLink;
+      this.gitBranch = model.codeOrigin.gitBranch;
+      this.commitID = model.codeOrigin.commitID;
+
+      // If the CBOM contains a branch but not a commit ID, show the branch by default
+      if (this.gitBranch && !this.commitID) {
+        this.selectedOption = "branch";
+      } else {
+        this.selectedOption = "commitID";
+      }
+    }
   },
   beforeMount() {
-    // Executed on page load
-    this.gitLink = model.codeOrigin.gitLink;
-    this.gitBranch = model.codeOrigin.gitBranch;
+    this.resetModal();
   },
 };
 </script>
