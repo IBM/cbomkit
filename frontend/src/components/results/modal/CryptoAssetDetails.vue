@@ -139,6 +139,7 @@ import {
   getCompliancePolicyName,
   getComplianceLabel,
   getComplianceObjectFromId,
+  resolvePath
 } from "@/helpers";
 import {
   Launch16,
@@ -236,20 +237,14 @@ export default {
     getComplianceFindingsWithMessage,
     getComplianceLabel,
     getComplianceObjectFromId,
+    resolvePath,
     hasCodeLocation() {
       let occurences = this.getPropertyValues("evidence.occurrences")
       return occurences !== null && occurences !== undefined
     },
     // Utility method to safely access nested properties, and return an array of values
     getPropertyValues(path) {
-      const result = path.split('.').reduce((obj, key) => {
-        return (obj && Object.hasOwn(obj, key)) ? obj[key] : undefined;
-      }, this.asset);
-
-      // If result is not null or undefined and not already an array, wrap it in an array
-      if (result !== null && result !== undefined) {
-        return Array.isArray(result) ? result : [result];
-      }
+      return resolvePath(this.asset, path);
     },
     openAsset(asset) {
       this.$emit('open-asset', asset);

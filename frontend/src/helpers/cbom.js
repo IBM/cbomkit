@@ -71,7 +71,7 @@ function checkCbomValidity(cbom) {
   }
 }
 
-function resolvePath(obj, path) {
+export function resolvePath(obj, path) {
   const pathParts = path.split('.');
 
   function traverse(currentObj, remainingPath) {
