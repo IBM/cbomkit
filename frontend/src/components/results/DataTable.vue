@@ -190,7 +190,8 @@ import {
   hasValidComplianceResults,
   isViewerOnly,
   isLoadingCompliance,
-  getComplianceDescription
+  getComplianceDescription,
+  resolvePath
 } from "@/helpers";
 import {
   Maximize24,
@@ -328,6 +329,7 @@ export default {
     getComplianceDescription,
     getTermFullName,
     capitalizeFirstLetter,
+    resolvePath,
     actionOnPagination: function (content) {
       // console.log(content)
       this.currentPagination = content;
@@ -416,36 +418,15 @@ export default {
       }
     },
     primitive(cryptoAsset) {
-      if (cryptoAsset === undefined || cryptoAsset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(cryptoAsset, "cryptoProperties")) {
-        return "";
-      }
-      if (!Object.hasOwn(cryptoAsset.cryptoProperties, "algorithmProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          cryptoAsset.cryptoProperties.algorithmProperties,
-          "primitive"
-        )
-      ) {
-        return "";
-      }
-      return cryptoAsset.cryptoProperties.algorithmProperties.primitive;
+      let res = resolvePath(cryptoAsset, "cryptoProperties.algorithmProperties.primitive");
+      return res ? res.toString() : "";
     },
     occurrences(cryptoAsset) {
-      if (cryptoAsset === undefined || cryptoAsset === null) {
-        return null;
+      let res = resolvePath(cryptoAsset, "evidence.occurrences");
+      if (res !== 0 && Array.isArray(res) && res.length > 0) {
+        return res[0];
       }
-      if (!Object.hasOwn(cryptoAsset, "evidence")) {
-        return null;
-      }
-      if (!Object.hasOwn(cryptoAsset.evidence, "occurrences")) {
-        return null;
-      }
-      return cryptoAsset.evidence.occurrences[0];
+      return null;
     },
     fileName(detection) {
       if (detection === undefined || detection === null) {
