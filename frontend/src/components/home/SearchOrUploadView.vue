@@ -92,8 +92,8 @@ export default {
   padding-left: 8px;
 }
 .large-title {
-  font-size: x-large;
-  font-weight: 400;
+  font-size: large;
+  font-weight: 500;
   padding-left: 8px;
 }
 .small-header {

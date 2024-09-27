@@ -2,7 +2,7 @@
   <div class="table">
     <cv-modal ref="modalInfo">
       <template slot="label"
-        >{{ this.assetType }}</template
+        >{{ getTermFullName(this.assetType) ? getTermFullName(this.assetType) : this.assetType }}</template
       >
       <template slot="title"
         ><h3>
@@ -11,19 +11,18 @@
       >
       <template slot="content">
         <CryptoAssetDetails
-          :url="model.codeOrigin.gitLink"
-          :branch="model.codeOrigin.gitBranch"
           :asset="currentAssetModal"
           @open-code="openInCode"
+          @open-asset="openAsset"
         />
       </template>
     </cv-modal>
 
-    <cv-modal ref="modalPrompt">
+    <cv-modal ref="modalPrompt" @after-modal-hidden="resetModal">
       <template slot="label">{{ modalPromptLabel }}</template>
       <template slot="title">{{ modalPromptTitle }}</template>
       <template slot="content">
-        <GitInfoPrompt @confirm-prompt="confirmPrompt" />
+        <GitInfoPrompt ref="gitInfoPrompt" @confirm-prompt="confirmPrompt"/>
       </template>
     </cv-modal>
 
@@ -120,7 +119,7 @@
                   <WatsonHealthImageAvailabilityUnavailable24 v-else/>
                 </cv-tooltip>
               </div>
-              <div style="padding: 6px; min-width: 160px">
+              <div style="padding: 6px; min-width: 130px">
                 <div style="font-weight: 600">
                   {{ asset.name.toUpperCase() }}
                 </div>
@@ -129,15 +128,22 @@
           </cv-data-table-cell>
           <cv-data-table-cell>
             <div style="padding: 6px; min-width: 100px">
-              <div v-if="primitive(asset) !== ''">
-                <div style="font-weight: 600">
-                  {{ primitive(asset).toUpperCase() }}
-                </div>
-                <div style="font-size: 85%">
-                  {{ getTermFullName(primitive(asset), "primitive", false) }}
-                </div>
+              <div v-if="type(asset) !== ''">
+                {{ getTermFullName(type(asset)) ? getTermFullName(type(asset)) : type(asset) }}
               </div>
-              <div v-else>Unspecified</div>
+              <div v-else>
+                <em>Unspecified</em>
+              </div> 
+            </div>
+          </cv-data-table-cell>
+          <cv-data-table-cell>
+            <div style="padding: 6px; min-width: 100px">
+              <div v-if="primitive(asset) !== ''">
+                {{ getTermFullName(primitive(asset)) ? getTermFullName(primitive(asset)) : primitive(asset) }}
+              </div>
+              <div v-else>
+                <em>Unspecified</em>
+              </div> 
             </div>
           </cv-data-table-cell>
           <cv-data-table-cell style="max-width: 200px; width: 30%">
@@ -191,7 +197,8 @@ import {
   hasValidComplianceResults,
   isViewerOnly,
   isLoadingCompliance,
-  getComplianceDescription
+  getComplianceDescription,
+  resolvePath
 } from "@/helpers";
 import {
   Maximize24,
@@ -220,7 +227,7 @@ export default {
       currentAssetModal: null,
       currentPagination: null,
       openInCodeOnConfirm: false, // If true, the user has clicked on the button to get the prompt. If false, the prompt was shown after the user tried to openInCode.
-      columns: ["Cryptographic asset", "Primitive", "Location"],
+      columns: ["Cryptographic asset", "Type", "Primitive", "Location"],
       downloadIcon: `<svg fill-rule="evenodd" height="16" name="download" role="img" viewBox="0 0 14 16" width="14" aria-label="Download" alt="Download">
         <title>Download</title>
         <path d="M7.506 11.03l4.137-4.376.727.687-5.363 5.672-5.367-5.67.726-.687 4.14 4.374V0h1v11.03z"></path>
@@ -278,8 +285,7 @@ export default {
       if (!Object.hasOwn(this.currentAssetModal, "cryptoProperties")) {
         return "";
       }
-      const assetTypeStr = this.currentAssetModal.cryptoProperties.assetType;
-      return capitalizeFirstLetter(assetTypeStr);
+      return this.currentAssetModal.cryptoProperties.assetType;
     },
     variant() {
       if (
@@ -330,6 +336,7 @@ export default {
     getComplianceDescription,
     getTermFullName,
     capitalizeFirstLetter,
+    resolvePath,
     actionOnPagination: function (content) {
       // console.log(content)
       this.currentPagination = content;
@@ -362,6 +369,9 @@ export default {
         this.openInCode(this.openInCodeOnConfirm);
       }
     },
+    resetModal() {
+      this.$refs.gitInfoPrompt.resetModal(); // Call the method in GitInfoPrompt
+    },
     openInCodeFor: function (value) {
       this.currentAssetModal = this.paginatedDetections[value.index];
       this.openInCode(true);
@@ -374,24 +384,45 @@ export default {
       }
       openOnline(this.currentAssetModal);
     },
+    openAsset(asset) {
+      // Close the modal
+      this.$refs.modalInfo.hide();
+      // Wait a bit
+      setTimeout(() => {
+        // Set the new asset
+        this.currentAssetModal = asset;
+        // Show the modal again
+        this.$refs.modalInfo.show();
+      }, 300);
+    },
     onSort(sortBy) {
       // Sort by sorting a copy of the detections to not create change in the graph views (that depend on ordering)
       this.localFinalListOfAssets = getDetections();
       if (sortBy) {
         this.localFinalListOfAssets.sort((a, b) => {
           let itemA, itemB;
-          if (sortBy.index === "0") {
-            // Sort by compliance first, then alphabetically
-            itemA = getComplianceLevel(a).toString()
-            itemB = getComplianceLevel(b).toString()
-            itemA += a["name"];
-            itemB += b["name"];
-          } else if (sortBy.index === "1") {
-            itemA = this.primitive(a);
-            itemB = this.primitive(b);
-          } else {
-            itemA = this.fileName(this.occurrences(a));
-            itemB = this.fileName(this.occurrences(b));
+          switch (sortBy.index) {
+            case "0":
+              // Sort by compliance first, then alphabetically
+              itemA = getComplianceLevel(a).toString()
+              itemB = getComplianceLevel(b).toString()
+              itemA += a["name"];
+              itemB += b["name"];
+              break;
+            case "1":
+              itemA = getTermFullName(this.type(a)) ? getTermFullName(this.type(a)) : this.type(a)
+              itemB = getTermFullName(this.type(b)) ? getTermFullName(this.type(b)) : this.type(b)
+              break;
+            case "2":
+            itemA = getTermFullName(this.primitive(a)) ? getTermFullName(this.primitive(a)) : this.primitive(a)
+            itemB = getTermFullName(this.primitive(b)) ? getTermFullName(this.primitive(b)) : this.primitive(b)
+              break;
+            case "3":
+              itemA = this.fileName(this.occurrences(a));
+              itemB = this.fileName(this.occurrences(b));
+              break;
+            default:
+              break;
           }
           if (sortBy.order === "descending") {
             return itemB.localeCompare(itemA);
@@ -404,36 +435,19 @@ export default {
       }
     },
     primitive(cryptoAsset) {
-      if (cryptoAsset === undefined || cryptoAsset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(cryptoAsset, "cryptoProperties")) {
-        return "";
-      }
-      if (!Object.hasOwn(cryptoAsset.cryptoProperties, "algorithmProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          cryptoAsset.cryptoProperties.algorithmProperties,
-          "primitive"
-        )
-      ) {
-        return "";
-      }
-      return cryptoAsset.cryptoProperties.algorithmProperties.primitive;
+      let res = resolvePath(cryptoAsset, "cryptoProperties.algorithmProperties.primitive");
+      return res ? res.toString() : "";
+    },
+    type(cryptoAsset) {
+      let res = resolvePath(cryptoAsset, "cryptoProperties.assetType");
+      return res ? res.toString() : "";
     },
     occurrences(cryptoAsset) {
-      if (cryptoAsset === undefined || cryptoAsset === null) {
-        return null;
+      let res = resolvePath(cryptoAsset, "evidence.occurrences");
+      if (res !== 0 && Array.isArray(res) && res.length > 0) {
+        return res[0];
       }
-      if (!Object.hasOwn(cryptoAsset, "evidence")) {
-        return null;
-      }
-      if (!Object.hasOwn(cryptoAsset.evidence, "occurrences")) {
-        return null;
-      }
-      return cryptoAsset.evidence.occurrences[0];
+      return null;
     },
     fileName(detection) {
       if (detection === undefined || detection === null) {

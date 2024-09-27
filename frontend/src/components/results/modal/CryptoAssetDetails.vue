@@ -11,7 +11,7 @@
       >
         <h4 style="font-weight: 500">Code</h4>
         <cv-button
-          v-if="hasCodeLocation(asset)"
+          v-if="hasCodeLocation()"
           class="code-button"
           kind="ghost"
           v-on:click="$emit('open-code', true)"
@@ -20,7 +20,7 @@
           View code <Launch16 class="bx--btn__icon"
         /></cv-button>
       </div>
-      <GithubEmbed v-if="hasCodeLocation(asset)" :asset="asset" @open-code="$emit('open-code', false)" />
+      <GithubEmbed v-if="hasCodeLocation()" :asset="asset" @open-code="$emit('open-code', false)" />
       <!-- Text when no code location was specified -->
       <div v-else style="margin-top: 20px; border-radius: 15px; background-color: rgba(0, 0, 0, 0.15); padding: 15px;">
         No code location has been specified in the CBOM for this cryptographic asset. If you include code location information in a CBOM from a public online repository, you will be able to preview the code here and open it directly on a service like GitHub.
@@ -80,6 +80,11 @@
       
     </div>
 
+    <!-- DEPENDENCIES -->
+     <div v-if="getBomRef">
+      <DependenciesView :bomRef="getBomRef" @open-asset="openAsset"/>
+     </div>
+
     <!-- SPECIFICATION -->
     <h4 style="font-weight: 500; padding-top: 16px; padding-bottom: 4px">
       Specification
@@ -93,147 +98,26 @@
           <cv-structured-list-heading>Value</cv-structured-list-heading>
         </template>
         <template slot="items">
-          <!-- When the asset is an `algorithm` -->
-          <!-- TODO: add all terms to the dictionary and use `getTerm___` + add tooltip everywhere -->
-          <cv-structured-list-item v-if="this.algorithmPrimitive">
-            <cv-structured-list-data>Primitive</cv-structured-list-data>
-            <cv-structured-list-data style="display: flex; align-items: center">
-              {{ getTermFullName(this.algorithmPrimitive, "primitive") }}
-              <cv-tooltip
-                v-if="
-                  getTermFullName(
-                    this.algorithmPrimitive,
-                    'primitive',
-                    false
-                  ) !== ''
-                "
-                :tip="getTermDescription(this.algorithmPrimitive, 'primitive')"
-                alignment="end"
-                class="tooltip"
-              >
-              </cv-tooltip>
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-          <cv-structured-list-item v-if="this.algorithmParameterSetIdentifier">
-            <cv-structured-list-data>Parameter set identifier</cv-structured-list-data>
-            <cv-structured-list-data style="display: flex; align-items: center">
-              <!-- TODO: Currently, the dictionnary does not have a dedicated variant section but looks into the names -->
-              {{ getTermFullName(this.algorithmParameterSetIdentifier, "name") }}
-              <cv-tooltip
-                v-if="
-                  getTermFullName(this.algorithmParameterSetIdentifier, 'name', false) !== ''
-                "
-                :tip="getTermDescription(this.algorithmParameterSetIdentifier, 'name')"
-                alignment="end"
-                class="tooltip"
-              >
-              </cv-tooltip>
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-          <cv-structured-list-item v-if="this.algorithmImplementationLevel">
-            <cv-structured-list-data
-              >Implementation Level</cv-structured-list-data
-            >
-            <cv-structured-list-data style="display: flex; align-items: center">
-              {{ this.algorithmImplementationLevel }}
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-          <cv-structured-list-item v-if="this.algorithmImplementationPlatform">
-            <cv-structured-list-data
-              >Implementation Platform</cv-structured-list-data
-            >
-            <cv-structured-list-data style="display: flex; align-items: center">
-              {{ this.algorithmImplementationPlatform }}
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-          <cv-structured-list-item v-if="this.algorithmCertificationLevel">
-            <cv-structured-list-data
-              >Certification Level</cv-structured-list-data
-            >
-            <cv-structured-list-data style="display: flex; align-items: center">
-              {{ this.algorithmCertificationLevel }}
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-          <cv-structured-list-item v-if="this.algorithmMode">
-            <cv-structured-list-data>Mode</cv-structured-list-data>
-            <cv-structured-list-data style="display: flex; align-items: center">
-              {{ getTermFullName(this.algorithmMode, "mode") }}
-              <cv-tooltip
-                v-if="getTermFullName(this.algorithmMode, 'mode', false) !== ''"
-                :tip="getTermDescription(this.algorithmMode, 'mode')"
-                alignment="end"
-                class="tooltip"
-              >
-              </cv-tooltip>
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-          <cv-structured-list-item v-if="this.algorithmPadding">
-            <cv-structured-list-data>Padding</cv-structured-list-data>
-            <cv-structured-list-data style="display: flex; align-items: center">
-              {{ getTermFullName(this.algorithmPadding, "padding") }}
-              <cv-tooltip
-                v-if="
-                  getTermFullName(this.algorithmPadding, 'padding', false) !== ''
-                "
-                :tip="getTermDescription(this.algorithmPadding, 'padding')"
-                alignment="end"
-                class="tooltip"
-              >
-              </cv-tooltip>
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-          <cv-structured-list-item v-if="this.algorithmCryptoFunctions">
-            <cv-structured-list-data>Crypto Functions</cv-structured-list-data>
+          <cv-structured-list-item
+            v-for="property in filteredProperties"
+            :key="property.name"
+          >
+            <cv-structured-list-data>{{ property.name }}</cv-structured-list-data>
             <cv-structured-list-data>
               <div
-                v-for="func in this.algorithmCryptoFunctions"
-                :key="func"
+                v-for="(value, index) in getPropertyValues(property.path)"
+                :key="index"
                 style="display: flex; align-items: center; padding-bottom: 2px"
               >
-                {{ getTermFullName(func, "cryptoFunction") }}
+                {{ getTermFullName(value) ? getTermFullName(value) : value }} 
                 <cv-tooltip
-                  v-if="getTermFullName(func, 'cryptoFunction', false) !== ''"
-                  :tip="getTermDescription(func, 'cryptoFunction')"
+                  v-if="getTermDescription(value)"
+                  :tip="getTermDescription(value)"
                   alignment="end"
                   class="tooltip"
                 >
                 </cv-tooltip>
               </div>
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-
-          <!-- When the asset is a `relatedCryptoMaterial` -->
-          <!-- TODO: add these terms to the dictionary and use `getTerm___` + add tooltip -->
-          <cv-structured-list-item v-if="this.relatedCryptoMaterialType">
-            <cv-structured-list-data>Type</cv-structured-list-data>
-            <cv-structured-list-data style="display: flex; align-items: center">
-              {{ this.relatedCryptoMaterialType }}
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-          <cv-structured-list-item v-if="this.relatedCryptoMaterialSize">
-            <cv-structured-list-data>Size</cv-structured-list-data>
-            <cv-structured-list-data style="display: flex; align-items: center">
-              {{ this.relatedCryptoMaterialSize }}
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-          <cv-structured-list-item v-if="this.relatedCryptoMaterialFormat">
-            <cv-structured-list-data>Format</cv-structured-list-data>
-            <cv-structured-list-data style="display: flex; align-items: center">
-              {{ this.relatedCryptoMaterialFormat }}
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-          <cv-structured-list-item
-            v-if="this.relatedCryptoMaterialSecured != null"
-          >
-            <cv-structured-list-data>Secured</cv-structured-list-data>
-            <cv-structured-list-data style="display: flex; align-items: center">
-              {{ this.relatedCryptoMaterialSecured }}
-            </cv-structured-list-data>
-          </cv-structured-list-item>
-          <cv-structured-list-item v-if="this.algorithmOid">
-            <cv-structured-list-data>OID</cv-structured-list-data>
-            <cv-structured-list-data style="display: flex; align-items: center">
-              {{ this.algorithmOid }}
             </cv-structured-list-data>
           </cv-structured-list-item>
         </template>
@@ -243,6 +127,7 @@
 </template>
 
 <script>
+import DependenciesView from "@/components/results/modal/DependenciesView.vue";
 import {
   getTermFullName,
   getTermDescription,
@@ -254,6 +139,7 @@ import {
   getCompliancePolicyName,
   getComplianceLabel,
   getComplianceObjectFromId,
+  resolvePath
 } from "@/helpers";
 import {
   Launch16,
@@ -266,10 +152,56 @@ export default {
   name: "CryptoAssetDetails",
   data: function () {
     return {
-
+      propertyPaths: /* ordered */ [
+        { name: "Asset Type", path: "cryptoProperties.assetType" },
+        /* algorithmProperties */
+        { name: "Primitive", path: "cryptoProperties.algorithmProperties.primitive" },
+        { name: "Parameter Set Identifier", path: "cryptoProperties.algorithmProperties.parameterSetIdentifier" },
+        { name: "Curve", path: "cryptoProperties.algorithmProperties.curve" },
+        { name: "Execution Environment", path: "cryptoProperties.algorithmProperties.executionEnvironment" },
+        { name: "Implementation Platform", path: "cryptoProperties.algorithmProperties.implementationPlatform" },
+        { name: "Certification Level", path: "cryptoProperties.algorithmProperties.certificationLevel" },
+        { name: "Mode", path: "cryptoProperties.algorithmProperties.mode" },
+        { name: "Padding", path: "cryptoProperties.algorithmProperties.padding" },
+        { name: "Crypto Functions", path: "cryptoProperties.algorithmProperties.cryptoFunctions" },
+        { name: "Classical Security Level", path: "cryptoProperties.algorithmProperties.classicalSecurityLevel" },
+        { name: "NIST Quantum Security Level", path: "cryptoProperties.algorithmProperties.nistQuantumSecurityLevel" },
+        /* certificateProperties */
+        { name: "Subject Name", path: "cryptoProperties.certificateProperties.subjectName" },
+        { name: "Issuer Name", path: "cryptoProperties.certificateProperties.issuerName" },
+        { name: "Not Valid Before", path: "cryptoProperties.certificateProperties.notValidBefore" },
+        { name: "Not Valid After", path: "cryptoProperties.certificateProperties.notValidAfter" },
+        { name: "Signature Algorithm Reference", path: "cryptoProperties.certificateProperties.signatureAlgorithmRef" },
+        { name: "Subject Public Key Reference", path: "cryptoProperties.certificateProperties.subjectPublicKeyRef" },
+        { name: "Certificate Format", path: "cryptoProperties.certificateProperties.certificateFormat" },
+        { name: "Certificate Extension", path: "cryptoProperties.certificateProperties.certificateExtension" },
+        /* relatedCryptoMaterialProperties */
+        { name: "Type", path: "cryptoProperties.relatedCryptoMaterialProperties.type" },
+        { name: "ID", path: "cryptoProperties.relatedCryptoMaterialProperties.id" },
+        { name: "State", path: "cryptoProperties.relatedCryptoMaterialProperties.state" },
+        { name: "Algorithm Reference", path: "cryptoProperties.relatedCryptoMaterialProperties.algorithmRef" },
+        { name: "Creation Date", path: "cryptoProperties.relatedCryptoMaterialProperties.creationDate" },
+        { name: "Activation Date", path: "cryptoProperties.relatedCryptoMaterialProperties.activationDate" },
+        { name: "Update Date", path: "cryptoProperties.relatedCryptoMaterialProperties.updateDate" },
+        { name: "Expiration Date", path: "cryptoProperties.relatedCryptoMaterialProperties.expirationDate" },
+        { name: "Value", path: "cryptoProperties.relatedCryptoMaterialProperties.value" },
+        { name: "Size", path: "cryptoProperties.relatedCryptoMaterialProperties.size" },
+        { name: "Format", path: "cryptoProperties.relatedCryptoMaterialProperties.format" },
+        { name: "Secured By", path: "cryptoProperties.relatedCryptoMaterialProperties.securedBy" },
+        /* protocolProperties */
+        { name: "Type", path: "cryptoProperties.protocolProperties.type" },
+        { name: "Version", path: "cryptoProperties.protocolProperties.version" },
+        { name: "Cipher Suites", path: "cryptoProperties.protocolProperties.cipherSuites" },
+        { name: "IKEv2 Transform Types", path: "cryptoProperties.protocolProperties.ikev2TransformTypes" },
+        { name: "Cryptographic References", path: "cryptoProperties.protocolProperties.cryptoRefArray" },
+        /* Other */
+        { name: "OID", path: "cryptoProperties.oid" },
+        { name: "BOM Reference", path: "bom-ref" },
+      ]
     };
   },
   components: {
+    DependenciesView,
     GithubEmbed,
     Launch16,
     WatsonHealthImageAvailabilityUnavailable24,
@@ -281,294 +213,20 @@ export default {
   computed: {
     hasValidComplianceResults,
     getCompliancePolicyName,
-    algorithmOid() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset.cryptoProperties, "oid")) {
-        return "";
-      }
-      return this.asset.cryptoProperties.oid;
+    filteredProperties() {
+      // Filter properties where the value exists
+      return this.propertyPaths.filter(property => this.getPropertyValues(property.path));
     },
-    algorithmParameterSetIdentifier() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
+    getBomRef() {
+      if (this.asset == undefined || this.asset === null) {
+        return
       }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
+      let values = this.getPropertyValues("bom-ref");
+      if (values.length === 1) {
+        return values[0];
       }
-      if (!Object.hasOwn(this.asset.cryptoProperties, "algorithmProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties.algorithmProperties,
-          "parameterSetIdentifier"
-        )
-      ) {
-        return "";
-      }
-      return this.asset.cryptoProperties.algorithmProperties.parameterSetIdentifier;
-    },
-    algorithmImplementationLevel() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset.cryptoProperties, "algorithmProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties.algorithmProperties,
-          "implementationLevel"
-        )
-      ) {
-        return "";
-      }
-      return this.asset.cryptoProperties.algorithmProperties
-        .implementationLevel;
-    },
-    algorithmImplementationPlatform() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset.cryptoProperties, "algorithmProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties.algorithmProperties,
-          "implementationPlatform"
-        )
-      ) {
-        return "";
-      }
-      return this.asset.cryptoProperties.algorithmProperties
-        .implementationPlatform;
-    },
-    algorithmCertificationLevel() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset.cryptoProperties, "algorithmProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties.algorithmProperties,
-          "certificationLevel"
-        )
-      ) {
-        return "";
-      }
-      return this.asset.cryptoProperties.algorithmProperties.certificationLevel;
-    },
-    algorithmPrimitive() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset.cryptoProperties, "algorithmProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties.algorithmProperties,
-          "primitive"
-        )
-      ) {
-        return "";
-      }
-      return this.asset.cryptoProperties.algorithmProperties.primitive;
-    },
-    algorithmMode() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset.cryptoProperties, "algorithmProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(this.asset.cryptoProperties.algorithmProperties, "mode")
-      ) {
-        return "";
-      }
-      return this.asset.cryptoProperties.algorithmProperties.mode;
-    },
-    algorithmPadding() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset.cryptoProperties, "algorithmProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties.algorithmProperties,
-          "padding"
-        )
-      ) {
-        return "";
-      }
-      return this.asset.cryptoProperties.algorithmProperties.padding;
-    },
-    algorithmCryptoFunctions() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset.cryptoProperties, "algorithmProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties.algorithmProperties,
-          "cryptoFunctions"
-        )
-      ) {
-        return "";
-      }
-      return this.asset.cryptoProperties.algorithmProperties.cryptoFunctions;
-    },
-    relatedCryptoMaterialType() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties,
-          "relatedCryptoMaterialProperties"
-        )
-      ) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties.relatedCryptoMaterialProperties,
-          "relatedCryptoMaterialType"
-        )
-      ) {
-        return "";
-      }
-      return this.asset.cryptoProperties.relatedCryptoMaterialProperties
-        .relatedCryptoMaterialType;
-    },
-    relatedCryptoMaterialSize() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties,
-          "relatedCryptoMaterialProperties"
-        )
-      ) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties.relatedCryptoMaterialProperties,
-          "size"
-        )
-      ) {
-        return "";
-      }
-      return this.asset.cryptoProperties.relatedCryptoMaterialProperties.size;
-    },
-    relatedCryptoMaterialFormat() {
-      if (this.asset === undefined || this.asset === null) {
-        return "";
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties,
-          "relatedCryptoMaterialProperties"
-        )
-      ) {
-        return "";
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties.relatedCryptoMaterialProperties,
-          "format"
-        )
-      ) {
-        return "";
-      }
-      return this.asset.cryptoProperties.relatedCryptoMaterialProperties.format;
-    },
-    relatedCryptoMaterialSecured() {
-      if (this.asset === undefined || this.asset === null) {
-        return null;
-      }
-      if (!Object.hasOwn(this.asset, "cryptoProperties")) {
-        return null;
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties,
-          "relatedCryptoMaterialProperties"
-        )
-      ) {
-        return null;
-      }
-      if (
-        !Object.hasOwn(
-          this.asset.cryptoProperties.relatedCryptoMaterialProperties,
-          "secured"
-        )
-      ) {
-        return null;
-      }
-      return this.asset.cryptoProperties.relatedCryptoMaterialProperties
-        .secured;
-    },
-    assetDetails() {
-      var fullName;
-      var description;
-      if (this.asset != undefined || this.asset != null) {
-        fullName = getTermFullName(this.asset.name, "name");
-        description = getTermDescription(this.asset.name, "name");
-      }
-      if (fullName == "") {
-        fullName = "Unknown asset";
-      }
-      if (description == "") {
-        description = "No description was found for this asset.";
-      }
-      return { fullName: fullName, description: description };
-    },
+      return null;
+    }
   },
   methods: {
     getTermFullName,
@@ -579,18 +237,18 @@ export default {
     getComplianceFindingsWithMessage,
     getComplianceLabel,
     getComplianceObjectFromId,
-    hasCodeLocation(cryptoAsset) {
-      if (cryptoAsset === undefined || cryptoAsset === null) {
-        return false;
-      }
-      if (!Object.hasOwn(cryptoAsset, "evidence")) {
-        return false;
-      }
-      if (!Object.hasOwn(cryptoAsset.evidence, "occurrences")) {
-        return false;
-      }
-      return true;
-    }
+    resolvePath,
+    hasCodeLocation() {
+      let occurences = this.getPropertyValues("evidence.occurrences")
+      return occurences !== null && occurences !== undefined
+    },
+    // Utility method to safely access nested properties, and return an array of values
+    getPropertyValues(path) {
+      return resolvePath(this.asset, path);
+    },
+    openAsset(asset) {
+      this.$emit('open-asset', asset);
+    },
   },
 };
 </script>

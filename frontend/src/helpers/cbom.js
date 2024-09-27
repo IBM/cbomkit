@@ -71,6 +71,190 @@ function checkCbomValidity(cbom) {
   }
 }
 
+export function resolvePath(obj, path) {
+  const pathParts = path.split('.');
+
+  function traverse(currentObj, remainingPath) {
+      if (remainingPath.length === 0) {
+          // Base case: if we have reached the last part of the path.
+          // Always return an array, except when `undefined`
+          return currentObj !== undefined && !Array.isArray(currentObj) ? [currentObj] : currentObj;
+      }
+
+      const key = remainingPath[0];  // current path part
+      const nextPath = remainingPath.slice(1);  // remaining path after the current key
+
+      if (Array.isArray(currentObj)) {
+          // If the current object is an array, we need to traverse each element in the array
+          return currentObj
+                .map(item => traverse(item, remainingPath))  // Recursively process each item
+                .filter(item => item !== undefined)          // Filter out undefined results
+                .flat();      
+      }
+
+      if (typeof currentObj === 'object' && currentObj !== null && Object.hasOwn(currentObj, key)) {
+          // If the current object has the required key, continue traversing
+          return traverse(currentObj[key], nextPath);
+      }
+
+      // If we can't find the key in the current object, return undefined
+      return undefined;
+  }
+
+  return traverse(obj, pathParts);
+}
+
+
+function setDependenciesMap(cbom) {
+  const dependsMap = new Map();
+  const isDependedOnMap = new Map();
+  const providesMap = new Map();
+  const isProvidedByMap = new Map();
+  const detectionsMap = new Map(); /* bom-ref -> component */
+
+  /* Dependencies defined at the top level */
+  if (Object.hasOwn(cbom, "dependencies") && Array.isArray(cbom.dependencies)) {
+    for (const dep of cbom.dependencies) {
+      if (Object.hasOwn(dep, "ref")) {
+        let bomRef = dep.ref;
+
+        // dependsOn
+        if (Object.hasOwn(dep, "dependsOn") && Array.isArray(dep.dependsOn)) {
+          for (const dependsOnRef of dep.dependsOn) {
+            if (!dependsMap.has(bomRef)) {
+              dependsMap.set(bomRef, []);
+            }
+            // Add a pair [ref, path]
+            dependsMap.get(bomRef).push([dependsOnRef, "dependencies.dependsOn"]);
+
+            if (!isDependedOnMap.has(dependsOnRef)) {
+              isDependedOnMap.set(dependsOnRef, []);
+            }
+            // Add a pair [ref, path]
+            isDependedOnMap.get(dependsOnRef).push([bomRef, "dependencies.dependsOn"]);
+          }
+        }
+
+        // provides
+        if (Object.hasOwn(dep, "provides") && Array.isArray(dep.provides)) {
+          for (const providesRef of dep.provides) {
+            if (!providesMap.has(bomRef)) {
+              providesMap.set(bomRef, []);
+            }
+            // Add a pair [ref, path]
+            providesMap.get(bomRef).push([providesRef, "dependencies.provides"]);
+
+            if (!isProvidedByMap.has(providesRef)) {
+              isProvidedByMap.set(providesRef, []);
+            }
+            // Add a pair [ref, path]
+            isProvidedByMap.get(providesRef).push([bomRef, "dependencies.provides"]);
+          }
+        }
+      }
+    }
+  }
+
+  /* Dependencies defined in components */
+  for (const detection of getDetections()) {
+    if (Object.hasOwn(detection, "bom-ref")) {
+      let bomRef = detection["bom-ref"];
+
+      /* Building the map of detections */
+      detectionsMap.set(bomRef, detection);
+
+      /* Adding additional dependencies */
+      let dependencyPaths = [
+        "cryptoProperties.certificateProperties.signatureAlgorithmRef",
+        "cryptoProperties.certificateProperties.subjectPublicKeyRef",
+        "cryptoProperties.protocolProperties.cipherSuites.algorithms",
+        "cryptoProperties.protocolProperties.ikev2TransformTypes.encr",
+        "cryptoProperties.protocolProperties.ikev2TransformTypes.prf",
+        "cryptoProperties.protocolProperties.ikev2TransformTypes.integ",
+        "cryptoProperties.protocolProperties.ikev2TransformTypes.ke",
+        "cryptoProperties.protocolProperties.ikev2TransformTypes.esn",
+        "cryptoProperties.protocolProperties.ikev2TransformTypes.auth",
+        "cryptoProperties.protocolProperties.cryptoRefArray",
+        "cryptoProperties.relatedCryptoMaterialProperties.algorithmRef",
+        "cryptoProperties.relatedCryptoMaterialProperties.securedBy.algorithmRef"
+      ]
+
+      for (const path of dependencyPaths) {
+        const allRefs = resolvePath(detection, path);
+        if (allRefs !== undefined) {
+          for (const ref of allRefs) {
+            if (!dependsMap.has(bomRef)) {
+              dependsMap.set(bomRef, []);
+            }
+            // Add a pair [ref, path]
+            dependsMap.get(bomRef).push([ref, path]);
+
+            if (!isDependedOnMap.has(ref)) {
+              isDependedOnMap.set(ref, []);
+            }
+            // Add a pair [ref, path]
+            isDependedOnMap.get(ref).push([bomRef, path]);
+          }
+        }
+      }
+    }
+  }
+
+  model.dependencies = { dependsMap, isDependedOnMap, providesMap, isProvidedByMap, detectionsMap };
+}
+
+export function getDependencies(bomRef) {
+  const dependsMap = model.dependencies["dependsMap"];
+  const isDependedOnMap = model.dependencies["isDependedOnMap"];
+  const providesMap = model.dependencies["providesMap"];
+  const isProvidedByMap = model.dependencies["isProvidedByMap"];
+  const detectionsMap = model.dependencies["detectionsMap"];
+  var dependsComponentList = [];
+  var isDependedOnComponentList = [];
+  var providesComponentList = [];
+  var isProvidedByComponentList = [];
+
+  const dependsRefPathList = dependsMap.get(bomRef) || [];
+  const isDependedOnRefPathList = isDependedOnMap.get(bomRef) || [];
+  const providesRefPathList = providesMap.get(bomRef) || [];
+  const isProvidedByRefPathList = isProvidedByMap.get(bomRef) || [];
+
+  for (const refPath of dependsRefPathList) {
+    let ref = refPath[0]
+    let path = refPath[1]
+    if (detectionsMap.has(ref)) {
+      // Add a pair [component, path]
+      dependsComponentList.push([detectionsMap.get(ref), path]);
+    }
+  }
+  for (const refPath of isDependedOnRefPathList) {
+    let ref = refPath[0]
+    let path = refPath[1]
+    if (detectionsMap.has(ref)) {
+      // Add a pair [component, path]
+      isDependedOnComponentList.push([detectionsMap.get(ref), path]);
+    }
+  }
+  for (const refPath of providesRefPathList) {
+    let ref = refPath[0]
+    let path = refPath[1]
+    if (detectionsMap.has(ref)) {
+      // Add a pair [component, path]
+      providesComponentList.push([detectionsMap.get(ref), path]);
+    }
+  }
+  for (const refPath of isProvidedByRefPathList) {
+    let ref = refPath[0]
+    let path = refPath[1]
+    if (detectionsMap.has(ref)) {
+      // Add a pair [component, path]
+      isProvidedByComponentList.push([detectionsMap.get(ref), path]);
+    }
+  }
+
+  return { dependsComponentList, isDependedOnComponentList, providesComponentList, isProvidedByComponentList };
+}
+
 
 export function setCbom(cbom) {
   checkCbomValidity(cbom);
@@ -106,6 +290,7 @@ export function setCbom(cbom) {
 export function showResultFromApi(cbomApi) {
   let cbom = getCbomFromScan(cbomApi);
   setCbom(cbom);
+  setDependenciesMap(cbom)
   model.codeOrigin.gitLink = cbomApi.gitUrl;
   model.codeOrigin.gitBranch = cbomApi.branch;
   model.showResults = true;
@@ -113,6 +298,7 @@ export function showResultFromApi(cbomApi) {
 
 export function showResultFromUpload(cbom, name) {
   setCbom(cbom);
+  setDependenciesMap(cbom)
   model.codeOrigin.uploadedFileName = name;
   model.showResults = true;
 }

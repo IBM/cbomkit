@@ -1,43 +1,26 @@
-import { getDetections, capitalizeFirstLetter } from "@/helpers.js";
+import { getDetections } from "@/helpers.js";
 import dict from "../../resources/crypto-dictionary.json";
 
 // The following functions depend on `dict`.
 // Using another source of knowledge but keeping the same function signature would allow to easily remove reliance on the custom dict.
 
 // Returns the full name of some cryptography term.
-// If the full name cannot be found, if `canReturnShortName`, it will return a formatted version of the short `termName`. Else, it will return an empty string.
-export function getTermFullName(termName, type, canReturnShortName = true) {
+// If the full name cannot be found, if `canReturnShortName`, it will return a formatted version of the short `termName`. Else, it will return undefined.
+export function getTermFullName(termName) {
   // Check if the term name is in the database
   if (
-    Object.hasOwn(dict, type) &&
-    Object.hasOwn(dict[type], termName)
+    Object.hasOwn(dict, termName)
   ) {
-    return dict[type][termName].fullName;
-  } else {
-    if (canReturnShortName) {
-      // Try to return something without the help of the database
-      if (type === "name") {
-        return termName.toUpperCase();
-      } else {
-        return capitalizeFirstLetter(termName);
-      }
-    } else {
-      // If the term name is not in the database, return ''
-      return "";
-    }
+    return dict[termName].fullName;
   }
 }
 
-export function getTermDescription(assetName, type) {
+export function getTermDescription(termName) {
   // Check if the term description is in the database
   if (
-    Object.hasOwn(dict, type) &&
-    Object.hasOwn(dict[type], assetName)
+    Object.hasOwn(dict, termName)
   ) {
-    return dict[type][assetName].description;
-  } else {
-    // If the term description is not in the database, return ''
-    return "";
+    return dict[termName].description;
   }
 }
 
