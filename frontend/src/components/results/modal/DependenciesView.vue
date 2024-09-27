@@ -12,10 +12,10 @@
               {{ getName(asset) + "   —   " + getAssetType(asset) }}
             </div>
             <div style="font-size: small" v-if="getBomRef(asset)">
-              {{ "BOM Reference: " + getBomRef(asset) }}
+              BOM Reference: <span class="compact-code">{{ getBomRef(asset) }}</span>
             </div>
             <div style="font-size: small" v-if="getBomRef(asset)">
-              {{ "Dependency: " + path }}
+              Source: <span class="compact-code">{{ path }}</span>
             </div>
           </div>
           <cv-button
@@ -42,10 +42,10 @@
               {{ getName(asset) + "   —   " + getAssetType(asset) }}
             </div>
             <div style="font-size: small" v-if="getBomRef(asset)">
-              {{ "BOM Reference: " + getBomRef(asset) }}
+              BOM Reference: <span class="compact-code">{{ getBomRef(asset) }}</span>
             </div>
             <div style="font-size: small" v-if="getBomRef(asset)">
-              {{ "Dependency: " + path }}
+              Source: <span class="compact-code">{{ path }}</span>
             </div>
           </div>
           <cv-button
@@ -129,5 +129,12 @@ export default {
   font-weight: 500;
   padding-top: 16px;
   padding-bottom: 4px
+}
+.compact-code {
+  font-family: monospace;
+  background-color: #86868634; /* Light gray background */
+  padding: 2px 4px;
+  border-radius: 4px; /* Rounded corners */
+  font-size: x-small;
 }
 </style>

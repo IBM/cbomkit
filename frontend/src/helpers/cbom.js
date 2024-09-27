@@ -173,7 +173,7 @@ function setDependenciesMap(cbom) {
               dependsMap.set(bomRef, []);
             }
             // Add a pair [ref, path]
-            dependsMap.get(bomRef).push([ref, "components." + path]);
+            dependsMap.get(bomRef).push([ref, path]);
           }
         }
       }
