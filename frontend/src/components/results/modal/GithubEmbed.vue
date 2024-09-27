@@ -30,7 +30,7 @@ export default {
   computed: {
     embededLink() {
       let codeUrl = getCodeLink(this.asset, this.numberOfLinesBeforeAfter);
-      if (codeUrl.includes("github.com")) {
+      if (codeUrl !== undefined && codeUrl !== null && codeUrl.includes("github.com")) {
         let theme = model.useDarkMode ? "github-dark" : "github";
           return `https://emgithub.com/embed-v2.js?target=${encodeURIComponent(
               codeUrl

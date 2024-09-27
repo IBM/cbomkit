@@ -6,7 +6,7 @@
       </h4>
       <div v-for="(asset, index) in dependsOn" :key="index">
         <div style="display: flex; align-items: center; padding: 4px 10px;">
-          <Downstream24 style="margin-right:12px; scale: 1.1; fill: #4dbabf"/>
+          <Downstream24 style="margin-right:13px; scale: 1.1; fill: #4dbabf"/>
           <div>
             <div style="font-size: large;">
               {{ getName(asset) + "   —   " + getAssetType(asset) }}
@@ -32,7 +32,7 @@
     </h4>
     <div v-for="(asset, index) in provides" :key="index">
       <div style="display: flex; align-items: center; padding: 4px 10px;">
-        <Upstream24 style="margin-right:12px; scale: 1.1; fill: #ae58d6"/>
+        <Upstream24 style="margin-right:13px; scale: 1.1; fill: #ae58d6"/>
         <div>
           <div style="font-size: large;">
             {{ getName(asset) + "   —   " + getAssetType(asset) }}
