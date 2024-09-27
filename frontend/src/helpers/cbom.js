@@ -107,7 +107,9 @@ export function resolvePath(obj, path) {
 
 function setDependenciesMap(cbom) {
   const dependsMap = new Map();
+  const isDependedOnMap = new Map();
   const providesMap = new Map();
+  const isProvidedByMap = new Map();
   const detectionsMap = new Map(); /* bom-ref -> component */
 
   /* Dependencies defined at the top level */
@@ -124,6 +126,12 @@ function setDependenciesMap(cbom) {
             }
             // Add a pair [ref, path]
             dependsMap.get(bomRef).push([dependsOnRef, "dependencies.dependsOn"]);
+
+            if (!isDependedOnMap.has(dependsOnRef)) {
+              isDependedOnMap.set(dependsOnRef, []);
+            }
+            // Add a pair [ref, path]
+            isDependedOnMap.get(dependsOnRef).push([bomRef, "dependencies.dependsOn"]);
           }
         }
 
@@ -135,6 +143,12 @@ function setDependenciesMap(cbom) {
             }
             // Add a pair [ref, path]
             providesMap.get(bomRef).push([providesRef, "dependencies.provides"]);
+
+            if (!isProvidedByMap.has(providesRef)) {
+              isProvidedByMap.set(providesRef, []);
+            }
+            // Add a pair [ref, path]
+            isProvidedByMap.get(providesRef).push([bomRef, "dependencies.provides"]);
           }
         }
       }
@@ -174,24 +188,36 @@ function setDependenciesMap(cbom) {
             }
             // Add a pair [ref, path]
             dependsMap.get(bomRef).push([ref, path]);
+
+            if (!isDependedOnMap.has(ref)) {
+              isDependedOnMap.set(ref, []);
+            }
+            // Add a pair [ref, path]
+            isDependedOnMap.get(ref).push([bomRef, path]);
           }
         }
       }
     }
   }
 
-  model.dependencies = { dependsMap, providesMap, detectionsMap };
+  model.dependencies = { dependsMap, isDependedOnMap, providesMap, isProvidedByMap, detectionsMap };
 }
 
 export function getDependencies(bomRef) {
   const dependsMap = model.dependencies["dependsMap"];
+  const isDependedOnMap = model.dependencies["isDependedOnMap"];
   const providesMap = model.dependencies["providesMap"];
+  const isProvidedByMap = model.dependencies["isProvidedByMap"];
   const detectionsMap = model.dependencies["detectionsMap"];
   var dependsComponentList = [];
+  var isDependedOnComponentList = [];
   var providesComponentList = [];
+  var isProvidedByComponentList = [];
 
   const dependsRefPathList = dependsMap.get(bomRef) || [];
+  const isDependedOnRefPathList = isDependedOnMap.get(bomRef) || [];
   const providesRefPathList = providesMap.get(bomRef) || [];
+  const isProvidedByRefPathList = isProvidedByMap.get(bomRef) || [];
 
   for (const refPath of dependsRefPathList) {
     let ref = refPath[0]
@@ -199,6 +225,14 @@ export function getDependencies(bomRef) {
     if (detectionsMap.has(ref)) {
       // Add a pair [component, path]
       dependsComponentList.push([detectionsMap.get(ref), path]);
+    }
+  }
+  for (const refPath of isDependedOnRefPathList) {
+    let ref = refPath[0]
+    let path = refPath[1]
+    if (detectionsMap.has(ref)) {
+      // Add a pair [component, path]
+      isDependedOnComponentList.push([detectionsMap.get(ref), path]);
     }
   }
   for (const refPath of providesRefPathList) {
@@ -209,8 +243,16 @@ export function getDependencies(bomRef) {
       providesComponentList.push([detectionsMap.get(ref), path]);
     }
   }
+  for (const refPath of isProvidedByRefPathList) {
+    let ref = refPath[0]
+    let path = refPath[1]
+    if (detectionsMap.has(ref)) {
+      // Add a pair [component, path]
+      isProvidedByComponentList.push([detectionsMap.get(ref), path]);
+    }
+  }
 
-  return { dependsComponentList, providesComponentList };
+  return { dependsComponentList, isDependedOnComponentList, providesComponentList, isProvidedByComponentList };
 }
 
 
