@@ -71,11 +71,46 @@ function checkCbomValidity(cbom) {
   }
 }
 
+function resolvePath(obj, path) {
+  const pathParts = path.split('.');
+
+  function traverse(currentObj, remainingPath) {
+      if (remainingPath.length === 0) {
+          // Base case: if we have reached the last part of the path.
+          // Always return an array, except when `undefined`
+          return currentObj !== undefined && !Array.isArray(currentObj) ? [currentObj] : currentObj;
+      }
+
+      const key = remainingPath[0];  // current path part
+      const nextPath = remainingPath.slice(1);  // remaining path after the current key
+
+      if (Array.isArray(currentObj)) {
+          // If the current object is an array, we need to traverse each element in the array
+          return currentObj
+                .map(item => traverse(item, remainingPath))  // Recursively process each item
+                .filter(item => item !== undefined)          // Filter out undefined results
+                .flat();      
+      }
+
+      if (typeof currentObj === 'object' && currentObj !== null && Object.hasOwn(currentObj, key)) {
+          // If the current object has the required key, continue traversing
+          return traverse(currentObj[key], nextPath);
+      }
+
+      // If we can't find the key in the current object, return undefined
+      return undefined;
+  }
+
+  return traverse(obj, pathParts);
+}
+
+
 function setDependenciesMap(cbom) {
   const dependsMap = new Map();
   const providesMap = new Map();
   const detectionsMap = new Map(); /* bom-ref -> component */
 
+  /* Dependencies defined at the top level */
   if (Object.hasOwn(cbom, "dependencies") && Array.isArray(cbom.dependencies)) {
     for (const dep of cbom.dependencies) {
       if (Object.hasOwn(dep, "ref")) {
@@ -87,7 +122,8 @@ function setDependenciesMap(cbom) {
             if (!dependsMap.has(bomRef)) {
               dependsMap.set(bomRef, []);
             }
-            dependsMap.get(bomRef).push(dependsOnRef);
+            // Add a pair [ref, path]
+            dependsMap.get(bomRef).push([dependsOnRef, "dependencies.dependsOn"]);
           }
         }
 
@@ -97,16 +133,50 @@ function setDependenciesMap(cbom) {
             if (!providesMap.has(bomRef)) {
               providesMap.set(bomRef, []);
             }
-            providesMap.get(bomRef).push(providesRef);
+            // Add a pair [ref, path]
+            providesMap.get(bomRef).push([providesRef, "dependencies.provides"]);
           }
         }
       }
     }
   }
 
+  /* Dependencies defined in components */
   for (const detection of getDetections()) {
     if (Object.hasOwn(detection, "bom-ref")) {
-      detectionsMap.set(detection["bom-ref"], detection);
+      let bomRef = detection["bom-ref"];
+
+      /* Building the map of detections */
+      detectionsMap.set(bomRef, detection);
+
+      /* Adding additional dependencies */
+      let dependencyPaths = [
+        "cryptoProperties.certificateProperties.signatureAlgorithmRef",
+        "cryptoProperties.certificateProperties.subjectPublicKeyRef",
+        "cryptoProperties.protocolProperties.cipherSuites.algorithms",
+        "cryptoProperties.protocolProperties.ikev2TransformTypes.encr",
+        "cryptoProperties.protocolProperties.ikev2TransformTypes.prf",
+        "cryptoProperties.protocolProperties.ikev2TransformTypes.integ",
+        "cryptoProperties.protocolProperties.ikev2TransformTypes.ke",
+        "cryptoProperties.protocolProperties.ikev2TransformTypes.esn",
+        "cryptoProperties.protocolProperties.ikev2TransformTypes.auth",
+        "cryptoProperties.protocolProperties.cryptoRefArray",
+        "cryptoProperties.relatedCryptoMaterialProperties.algorithmRef",
+        "cryptoProperties.relatedCryptoMaterialProperties.securedBy.algorithmRef"
+      ]
+
+      for (const path of dependencyPaths) {
+        const allRefs = resolvePath(detection, path);
+        if (allRefs !== undefined) {
+          for (const ref of allRefs) {
+            if (!dependsMap.has(bomRef)) {
+              dependsMap.set(bomRef, []);
+            }
+            // Add a pair [ref, path]
+            dependsMap.get(bomRef).push([ref, "components." + path]);
+          }
+        }
+      }
     }
   }
 
@@ -120,17 +190,23 @@ export function getDependencies(bomRef) {
   var dependsComponentList = [];
   var providesComponentList = [];
 
-  const dependsRefList = dependsMap.get(bomRef) || [];
-  const providesRefList = providesMap.get(bomRef) || [];
+  const dependsRefPathList = dependsMap.get(bomRef) || [];
+  const providesRefPathList = providesMap.get(bomRef) || [];
 
-  for (const ref of dependsRefList) {
+  for (const refPath of dependsRefPathList) {
+    let ref = refPath[0]
+    let path = refPath[1]
     if (detectionsMap.has(ref)) {
-      dependsComponentList.push(detectionsMap.get(ref));
+      // Add a pair [component, path]
+      dependsComponentList.push([detectionsMap.get(ref), path]);
     }
   }
-  for (const ref of providesRefList) {
+  for (const refPath of providesRefPathList) {
+    let ref = refPath[0]
+    let path = refPath[1]
     if (detectionsMap.has(ref)) {
-      providesComponentList.push(detectionsMap.get(ref));
+      // Add a pair [component, path]
+      providesComponentList.push([detectionsMap.get(ref), path]);
     }
   }
 

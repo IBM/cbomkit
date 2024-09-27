@@ -190,8 +190,8 @@ export default {
         /* protocolProperties */
         { name: "Type", path: "cryptoProperties.protocolProperties.type" },
         { name: "Version", path: "cryptoProperties.protocolProperties.version" },
-        { name: "Cipher Suites", path: "cryptoProperties.protocolProperties.ikev2TransformTypes" },
-        { name: "IKEv2 Transform Types", path: "cryptoProperties.protocolProperties.type" },
+        { name: "Cipher Suites", path: "cryptoProperties.protocolProperties.cipherSuites" },
+        { name: "IKEv2 Transform Types", path: "cryptoProperties.protocolProperties.ikev2TransformTypes" },
         { name: "Cryptographic References", path: "cryptoProperties.protocolProperties.cryptoRefArray" },
         /* Other */
         { name: "OID", path: "cryptoProperties.oid" },
