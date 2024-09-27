@@ -124,7 +124,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .title {
   font-weight: 500;
   padding-top: 16px;
