@@ -5,7 +5,7 @@ import dict from "../../resources/crypto-dictionary.json";
 // Using another source of knowledge but keeping the same function signature would allow to easily remove reliance on the custom dict.
 
 // Returns the full name of some cryptography term.
-// If the full name cannot be found, if `canReturnShortName`, it will return a formatted version of the short `termName`. Else, it will return an empty string.
+// If the full name cannot be found, if `canReturnShortName`, it will return a formatted version of the short `termName`. Else, it will return undefined.
 export function getTermFullName(termName) {
   // Check if the term name is in the database
   if (

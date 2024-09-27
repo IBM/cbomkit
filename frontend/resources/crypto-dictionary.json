@@ -20,7 +20,7 @@
     "description": "A set of rules and guidelines that govern the behavior and communication with each other."
   },
   "related-crypto-material": {
-    "fullName": "Related Cryptographic Material",
+    "fullName": "Related Crypto Material",
     "description": "Other cryptographic assets related to algorithms, certificates, and protocols such as keys and tokens."
   },
   "drbg": {
