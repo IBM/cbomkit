@@ -1,7 +1,7 @@
 <template>
   <div>
-    <div style="padding-bottom: 12px;">
-      <h4 class="title" v-if="dependsOn.length > 0">
+    <div v-if="dependsOn.length > 0" style="padding-bottom: 12px;">
+      <h4 class="title">
         Depends on
       </h4>
       <div v-for="([asset, path], index) in dependsOn" :key="index">
@@ -9,7 +9,7 @@
           <Downstream24 style="margin-right:13px; scale: 1.1; fill: #05BE8D"/>
           <div>
             <div style="font-size: large;">
-              {{ getName(asset) + "   —   " + getAssetType(asset) }}
+              {{ getName(asset).toUpperCase() + "   —   " + getAssetType(asset) }}
             </div>
             <div style="font-size: small" v-if="getBomRef(asset)">
               BOM Reference: <span class="compact-code">{{ getBomRef(asset) }}</span>
@@ -30,8 +30,8 @@
       </div>
     </div>
 
-    <div style="padding-bottom: 12px;">
-      <h4 class="title" v-if="provides.length > 0">
+    <div v-if="provides.length > 0" style="padding-bottom: 12px;">
+      <h4 class="title">
         Provides to
       </h4>
       <div v-for="([asset, path], index) in provides" :key="index">
@@ -39,7 +39,7 @@
           <Upstream24 style="margin-right:13px; scale: 1.1; fill: #188A99"/>
           <div>
             <div style="font-size: large;">
-              {{ getName(asset) + "   —   " + getAssetType(asset) }}
+              {{ getName(asset).toUpperCase() + "   —   " + getAssetType(asset) }}
             </div>
             <div style="font-size: small" v-if="getBomRef(asset)">
               BOM Reference: <span class="compact-code">{{ getBomRef(asset) }}</span>
@@ -60,8 +60,8 @@
       </div>
     </div>
 
-    <div style="padding-bottom: 12px;">
-      <h4 class="title" v-if="isDependedOn.length > 0">
+    <div v-if="isDependedOn.length > 0" style="padding-bottom: 12px;">
+      <h4 class="title">
         Is used by
       </h4>
       <div v-for="([asset, path], index) in isDependedOn" :key="index">
@@ -69,7 +69,7 @@
           <Upstream24 style="margin-right:13px; scale: 1.1; fill: #FFBA1A"/>
           <div>
             <div style="font-size: large;">
-              {{ getName(asset) + "   —   " + getAssetType(asset) }}
+              {{ getName(asset).toUpperCase() + "   —   " + getAssetType(asset) }}
             </div>
             <div style="font-size: small" v-if="getBomRef(asset)">
               BOM Reference: <span class="compact-code">{{ getBomRef(asset) }}</span>
@@ -90,8 +90,8 @@
       </div>
     </div>
 
-    <div style="padding-bottom: 12px;">
-      <h4 class="title" v-if="isProvidedBy.length > 0">
+    <div v-if="isProvidedBy.length > 0" style="padding-bottom: 12px;">
+      <h4 class="title">
         Is provided by
       </h4>
       <div v-for="([asset, path], index) in isProvidedBy" :key="index">
@@ -99,7 +99,7 @@
           <Downstream24 style="margin-right:13px; scale: 1.1; fill: #FF488E"/>
           <div>
             <div style="font-size: large;">
-              {{ getName(asset) + "   —   " + getAssetType(asset) }}
+              {{ getName(asset).toUpperCase() + "   —   " + getAssetType(asset) }}
             </div>
             <div style="font-size: small" v-if="getBomRef(asset)">
               BOM Reference: <span class="compact-code">{{ getBomRef(asset) }}</span>
