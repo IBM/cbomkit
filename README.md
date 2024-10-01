@@ -5,7 +5,7 @@
 
 CBOMkit is a toolset for dealing with Cryptography Bill of Materials (CBOM). CBOMkit includes a
 - **CBOM Generation** ([CBOMkit-hyperion](https://github.com/IBM/sonar-cryptography), [CBOMkit-theia](https://github.com/IBM/cbomkit-theia)): Generate CBOMs from source code by scanning git repositories to find the used cryptography.
-- **CBOM Viewer (aka CBOMkit-coeus)**: Visualize a generated or uploaded CBOM and access comprehensive statistics.
+- **CBOM Viewer ([CBOMkit-coeus](https://github.com/IBM/cbomkit?tab=readme-ov-file#cbomkit-coeus))**: Visualize a generated or uploaded CBOM and access comprehensive statistics.
 - **CBOM Compliance Check**: Evaluate CBOMs created or uploaded against specified compliance policies and receive detailed compliance status reports.
 - **CBOM Database**: Collect and store CBOMs into the database and expose this data through a RESTful API.
 
