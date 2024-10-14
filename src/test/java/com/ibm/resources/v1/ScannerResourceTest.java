@@ -129,25 +129,25 @@ class ScannerResourceTest extends TestBase {
     void testStoreCbom() throws JsonProcessingException {
         ObjectMapper mapper = new ObjectMapper();
         JsonNode cbomJson = mapper.readTree(this.testConfiguration.exampleCbomString());
-        final IdentifiersInternal ii =
+        final IdentifiersInternal identifiers =
                 new IdentifiersInternal(
                         this.testConfiguration.exampleGitUrl(),
                         List.of(this.testConfiguration.examplePURL()));
 
-        ScannerResource sr = new ScannerResource(this.testConfiguration);
-        sr.storeCBOM(
-                cbomJson,
-                ii,
-                this.testConfiguration.exampleGitUrl(),
-                this.testConfiguration.exampleGitBranch());
+        ScanRequest request =
+                new ScanRequest(
+                        this.testConfiguration.exampleGitUrl(),
+                        this.testConfiguration.exampleGitBranch(),
+                        null);
+        ScannerResource resource = new ScannerResource(this.testConfiguration);
+        resource.storeCBOM(cbomJson, identifiers, request, "01abcdef");
 
         PanacheQuery<Scan> query =
-                Scan.find(
-                        "gitUrl = ?1 and branch = ?2",
-                        this.testConfiguration.exampleGitUrl(),
-                        this.testConfiguration.exampleGitBranch());
-        Scan cb = query.firstResult();
-        Assertions.assertNotNull(cb);
-        Assertions.assertEquals(cbomJson, cb.getBom());
+                Scan.find("gitUrl = ?1 and branch = ?2", request.gitUrl(), request.branch());
+        Scan scan = query.firstResult();
+        Assertions.assertNotNull(scan);
+        Assertions.assertEquals(request.gitUrl(), scan.getGitUrl());
+        Assertions.assertEquals(request.branch(), scan.getBranch());
+        Assertions.assertEquals(cbomJson, scan.getBom());
     }
 }

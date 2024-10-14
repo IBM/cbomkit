@@ -37,24 +37,27 @@ import java.sql.Timestamp;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import javax.annotation.Nonnull;
+import javax.annotation.Nullable;
 import org.eclipse.microprofile.config.ConfigProvider;
-import org.jetbrains.annotations.NotNull;
-import org.jetbrains.annotations.Nullable;
 
 @Mock
 @ApplicationScoped
 public class DefaultTestConfiguration implements ITestConfiguration {
-    @NotNull @Override
+    @Nonnull
+    @Override
     public String exampleCbomVersion() {
         return "1.6";
     }
 
-    @NotNull @Override
+    @Nonnull
+    @Override
     public String exampleCbomString() {
         return "{\"cbom\":\"The cbom\"}";
     }
 
-    @NotNull @Override
+    @Nonnull
+    @Override
     public Scan exampleCbom() {
         try {
             Scan scan = new Scan();
@@ -70,17 +73,20 @@ public class DefaultTestConfiguration implements ITestConfiguration {
         }
     }
 
-    @NotNull @Override
+    @Nonnull
+    @Override
     public String exampleGitUrl() {
         return "https://github.com/apache/commons-io";
     }
 
-    @NotNull @Override
+    @Nonnull
+    @Override
     public String exampleGitBranch() {
         return "master";
     }
 
-    @NotNull @Override
+    @Nonnull
+    @Override
     public String examplePURL() {
         return "pkg:github/apache/commons-io";
     }
@@ -90,12 +96,14 @@ public class DefaultTestConfiguration implements ITestConfiguration {
         throw new UnsupportedOperationException("Override this function in your test class");
     }
 
-    @NotNull @Override
+    @Nonnull
+    @Override
     public IScanRepository getCBOMRepository() {
         return new ScanRepository();
     }
 
-    @NotNull @Override
+    @Nonnull
+    @Override
     public IScannerManager getScannerManager() {
         // register scanners
         final List<IScanner> registry = new ArrayList<>();
@@ -105,7 +113,7 @@ public class DefaultTestConfiguration implements ITestConfiguration {
     }
 
     @Override
-    public @NotNull List<File> getJavaDependencyJARS() {
+    public @Nonnull List<File> getJavaDependencyJARS() {
         return ConfigProvider.getConfig()
                 .getOptionalValue("service.scanning.java-jar-dir", String.class)
                 .flatMap(Utils::getJarFiles)
