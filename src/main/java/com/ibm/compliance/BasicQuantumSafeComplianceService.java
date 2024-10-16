@@ -30,11 +30,11 @@ import org.cyclonedx.model.Component;
 import org.cyclonedx.model.Component.Type;
 import org.cyclonedx.model.component.crypto.AlgorithmProperties;
 import org.cyclonedx.model.component.crypto.CryptoProperties;
+import org.cyclonedx.model.component.crypto.enums.AssetType;
 import org.cyclonedx.model.component.crypto.enums.Primitive;
 import org.cyclonedx.parsers.BomParserFactory;
 import org.cyclonedx.parsers.Parser;
 import org.jboss.logging.Logger;
-import org.jetbrains.annotations.NotNull;
 
 public class BasicQuantumSafeComplianceService implements IComplianceService {
     private static final Logger LOG = Logger.getLogger(BasicQuantumSafeComplianceService.class);
@@ -113,8 +113,7 @@ public class BasicQuantumSafeComplianceService implements IComplianceService {
     }
 
     @Nonnull
-    public @NotNull ComplianceFormat check(
-            @Nonnull String policyIdentifier, @Nonnull String cbomString) {
+    public ComplianceFormat check(@Nonnull String policyIdentifier, @Nonnull String cbomString) {
         if (!policyIdentifier.equals(Policies.QUANTUM_SAFE.toString())) {
             LOG.warn(
                     this.getClass().getSimpleName()
@@ -136,7 +135,10 @@ public class BasicQuantumSafeComplianceService implements IComplianceService {
                     .filter(
                             component ->
                                     component.getBomRef() != null
-                                            && component.getType() == Type.CRYPTOGRAPHIC_ASSET)
+                                            && component.getType() == Type.CRYPTOGRAPHIC_ASSET
+                                            && component.getCryptoProperties() != null
+                                            && component.getCryptoProperties().getAssetType()
+                                                    == AssetType.ALGORITHM)
                     .forEach(
                             component -> {
                                 final ComplianceFormat.ComplianceFinding finding =
@@ -163,12 +165,6 @@ public class BasicQuantumSafeComplianceService implements IComplianceService {
     private ComplianceFormat.ComplianceFinding getCompliance(@Nonnull Component component) {
         final String bomRef = component.getBomRef();
         final CryptoProperties cryptoProperties = component.getCryptoProperties();
-        if (cryptoProperties == null) {
-            return new ComplianceFormat.ComplianceFinding(
-                    bomRef,
-                    2,
-                    "The field 'cryptoProperties' was not set, which does not allow further categorization");
-        }
         final AlgorithmProperties algorithmProperties = cryptoProperties.getAlgorithmProperties();
         if (algorithmProperties == null) {
             return new ComplianceFormat.ComplianceFinding(

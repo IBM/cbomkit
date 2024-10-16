@@ -28,7 +28,7 @@ import org.hibernate.type.SqlTypes;
 
 @Entity
 @Cacheable
-public final class Scan extends PanacheEntity {
+public class Scan extends PanacheEntity {
     private String gitUrl;
     private String branch;
     private String cbomSpecVersion;

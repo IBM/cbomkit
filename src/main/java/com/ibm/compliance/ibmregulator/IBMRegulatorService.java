@@ -28,26 +28,25 @@ import com.ibm.compliance.IComplianceService;
 import java.util.ArrayList;
 import java.util.List;
 import javax.annotation.Nonnull;
-import org.jetbrains.annotations.NotNull;
 
 public class IBMRegulatorService implements IComplianceService {
 
     @Nonnull private final IBMRegulatorClient client;
     @Nonnull private static final String COMPLIANCE_SERVICE_NAME = "IBM Regulator";
 
-    public IBMRegulatorService(@NotNull IBMRegulatorClient client) {
+    public IBMRegulatorService(@Nonnull IBMRegulatorClient client) {
         this.client = client;
     }
 
     @Override
-    public @NotNull ComplianceFormat check(
-            @NotNull String policyIdentifier, @NotNull String cbomString) {
+    public @Nonnull ComplianceFormat check(
+            @Nonnull String policyIdentifier, @Nonnull String cbomString) {
         String res = client.check(policyIdentifier, cbomString);
         return parse(res);
     }
 
     // Better use an ObjectMapper based on the regulator model classes (if open-sourced)
-    private @NotNull ComplianceFormat parse(String jsonString) {
+    private @Nonnull ComplianceFormat parse(String jsonString) {
         ObjectMapper mapper = new ObjectMapper();
         try {
             JsonNode rootNode = mapper.readTree(jsonString);

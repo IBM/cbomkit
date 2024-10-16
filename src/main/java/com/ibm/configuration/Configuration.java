@@ -40,9 +40,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
+import javax.annotation.Nonnull;
+import javax.annotation.Nullable;
 import org.eclipse.microprofile.config.ConfigProvider;
-import org.jetbrains.annotations.NotNull;
-import org.jetbrains.annotations.Nullable;
 
 @ApplicationScoped
 public final class Configuration implements IConfiguration {
@@ -72,12 +72,14 @@ public final class Configuration implements IConfiguration {
         }
     }
 
-    @NotNull @Override
+    @Nonnull
+    @Override
     public IScanRepository getCBOMRepository() {
         return new ScanRepository();
     }
 
-    @NotNull @Override
+    @Nonnull
+    @Override
     public IScannerManager getScannerManager() {
         // register scanners
         final List<IScanner> registry = new ArrayList<>();
@@ -97,7 +99,7 @@ public final class Configuration implements IConfiguration {
     }
 
     @Override
-    public @NotNull List<File> getJavaDependencyJARS() {
+    public @Nonnull List<File> getJavaDependencyJARS() {
         return ConfigProvider.getConfig()
                 .getOptionalValue("service.scanning.java-jar-dir", String.class)
                 .flatMap(Utils::getJarFiles)

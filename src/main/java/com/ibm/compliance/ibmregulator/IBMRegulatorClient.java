@@ -26,8 +26,8 @@ import jakarta.ws.rs.Path;
 import jakarta.ws.rs.PathParam;
 import jakarta.ws.rs.Produces;
 import jakarta.ws.rs.core.MediaType;
+import javax.annotation.Nonnull;
 import org.eclipse.microprofile.rest.client.inject.RegisterRestClient;
-import org.jetbrains.annotations.NotNull;
 
 @RegisterRestClient(configKey = "regulator-api")
 public interface IBMRegulatorClient {
@@ -45,8 +45,9 @@ public interface IBMRegulatorClient {
     @Consumes(MediaType.APPLICATION_JSON)
     @Produces(MediaType.APPLICATION_JSON)
     @Path("/policies/{policyName}/target")
-    @NotNull String check(
-            @PathParam("policyName") @NotNull String policyIdentifier, @NotNull String cbomString);
+    @Nonnull
+    String check(
+            @PathParam("policyName") @Nonnull String policyIdentifier, @Nonnull String cbomString);
 
     @POST
     @Consumes(MediaType.APPLICATION_JSON)

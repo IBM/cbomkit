@@ -19,16 +19,13 @@
  */
 package com.ibm.resources.v1;
 
-import static org.assertj.core.api.Assertions.assertThat;
-import static org.junit.jupiter.api.Assertions.assertNotNull;
-import static org.junit.jupiter.api.Assertions.assertTrue;
-
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.ibm.DefaultTestConfiguration;
 import com.ibm.cbom.TestBase;
 import com.ibm.message.IMessageDispatcher;
+import com.ibm.model.IdentifiableScan;
 import com.ibm.model.IdentifiersInternal;
 import com.ibm.model.Scan;
 import com.ibm.model.api.Message;
@@ -44,8 +41,8 @@ import java.util.Optional;
 import javax.annotation.Nonnull;
 import org.apache.commons.io.FileUtils;
 import org.eclipse.jgit.api.Git;
+import org.eclipse.jgit.api.errors.GitAPIException;
 import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
@@ -57,7 +54,6 @@ class ScannerResourceTest extends TestBase {
     }
 
     @Test
-    @Disabled
     @DisplayName("Make sure that a git repo branch is cloned correctly")
     void testCloneGitRepo() {
         ScanRequest request =
@@ -89,13 +85,13 @@ class ScannerResourceTest extends TestBase {
                             public void sendMessage(@Nonnull Message.Type type, @Nonnull String str)
                                     throws ScannerResource.CancelScanException {}
                         });
-        assertTrue(repo.isPresent());
-        assertNotNull(repo.get().cloneDir());
-        assertNotNull(repo.get().commitHash());
+        Assertions.assertTrue(repo.isPresent());
+        Assertions.assertNotNull(repo.get().cloneDir());
+        Assertions.assertNotNull(repo.get().commitHash());
 
         try (Git git = Git.open(repo.get().cloneDir())) {
-            git.status();
-        } catch (IOException e) {
+            Assertions.assertTrue(git.status().call().isClean());
+        } catch (IOException | GitAPIException e) {
             // ignore
         } finally {
             try {
@@ -117,8 +113,8 @@ class ScannerResourceTest extends TestBase {
         ScannerResource sr = new ScannerResource(this.testConfiguration);
         Optional<IdentifiersInternal> ids =
                 sr.getIdentifier(this.testConfiguration.exampleGitUrl());
-        assertTrue(ids.isPresent());
-        assertThat(ii.getPurls()).isEqualTo(ids.get().getPurls());
+        Assertions.assertTrue(ids.isPresent());
+        Assertions.assertEquals(ii.getPurls(), ids.get().getPurls());
     }
 
     @Inject ScanRepository scanRepository;
@@ -149,5 +145,8 @@ class ScannerResourceTest extends TestBase {
         Assertions.assertEquals(request.gitUrl(), scan.getGitUrl());
         Assertions.assertEquals(request.branch(), scan.getBranch());
         Assertions.assertEquals(cbomJson, scan.getBom());
+
+        IdentifiableScan.deleteAll();
+        Scan.deleteAll();
     }
 }

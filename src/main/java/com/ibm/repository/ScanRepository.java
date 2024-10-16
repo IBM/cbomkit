@@ -36,14 +36,13 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Objects;
 import java.util.Optional;
-import org.jetbrains.annotations.NotNull;
 
 @SuppressWarnings("java:S3252")
 @ApplicationScoped
 public class ScanRepository implements IScanRepository, PanacheRepository<Scan> {
 
     @Transactional
-    public @NotNull Optional<Scan> findByPurl(@Nonnull String purl, @Nullable String cbomVersion) {
+    public @Nonnull Optional<Scan> findByPurl(@Nonnull String purl, @Nullable String cbomVersion) {
         PanacheQuery<IdentifiableScan> query = IdentifiableScan.find("purl", purl);
         IdentifiableScan identifiableScan1 = query.firstResult();
         if (identifiableScan1 != null) {
@@ -56,35 +55,35 @@ public class ScanRepository implements IScanRepository, PanacheRepository<Scan> 
     }
 
     @Transactional
-    public @NotNull Optional<Scan> findByPurl(
+    public @Nonnull Optional<Scan> findByPurl(
             @Nonnull PackageURL purl, @Nullable String cbomVersion) {
         return findByPurl(purl.toString(), cbomVersion);
     }
 
     @Transactional
-    public @NotNull List<Scan> getLastCBOMs(int limit) {
+    public @Nonnull List<Scan> getLastCBOMs(int limit) {
         Sort byCreatedAt = Sort.by("createdAt", Direction.Descending);
         PanacheQuery<Scan> query = Scan.findAll(byCreatedAt).page(Page.ofSize(limit));
         return query.firstPage().list();
     }
 
     @Transactional
-    public @NotNull List<String> findRepositoriesIncludingComponentWithAlgorithmName(
-            @NotNull String algorithm, int limit) {
+    public @Nonnull List<String> findRepositoriesIncludingComponentWithAlgorithmName(
+            @Nonnull String algorithm, int limit) {
         final String sql =
                 "select distinct(gitUrl), createdAt from scan, jsonb_array_elements(bom->'components') c where c->>'name' = ? and c->'cryptoProperties'->>'assetType'='algorithm' order by createdAt desc limit ?";
         return getQuery(algorithm, limit, sql);
     }
 
     @Transactional
-    public @NotNull List<String> findRepositoriesIncludingComponentWithOID(
-            @NotNull String oid, int limit) {
+    public @Nonnull List<String> findRepositoriesIncludingComponentWithOID(
+            @Nonnull String oid, int limit) {
         final String sql =
                 "select distinct(gitUrl), createdAt from scan, jsonb_array_elements(bom->'components') c where c->'cryptoProperties'->>'oid' = ? and c->'cryptoProperties'->>'assetType'='algorithm' order by createdAt desc limit ?";
         return getQuery(oid, limit, sql);
     }
 
-    @NotNull private List<String> getQuery(String searchString, int limit, String sql) {
+    private @Nonnull List<String> getQuery(String searchString, int limit, String sql) {
         Query query = Scan.getEntityManager().createNativeQuery(sql);
         query.setParameter(1, searchString);
         query.setParameter(2, limit);
