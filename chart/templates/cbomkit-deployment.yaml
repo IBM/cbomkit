@@ -74,10 +74,10 @@ spec:
           resources:
             requests:
               cpu: 2000m
-              memory: 10Gi
+              memory: 16Gi
             limits:
               cpu: 6000m
-              memory: 20Gi
+              memory: 22Gi
       dnsPolicy: ClusterFirst
       restartPolicy: Always
       securityContext: {}
