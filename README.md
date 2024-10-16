@@ -30,10 +30,12 @@ Deploy using the helm chart to a kubernetes environment. Pass the domain suffix 
 # clone the repository 
 git clone https://github.com/IBM/cbomkit
 # deploy using helm
-helm install cbomkit 
-  --set common.clusterDomain={CLUSTER_DOMAIN}
-  --set postgresql.auth.username={POSTGRES_USER} 
-  --set postgresql.auth.password={POSTGRES_PASSWORD} 
+helm install cbomkit \
+  --set common.clusterDomain={CLUSTER_DOMAIN} \
+  --set postgresql.auth.username={POSTGRES_USER} \
+  --set postgresql.auth.password={POSTGRES_PASSWORD} \
+  --set backend.tag=$(curl -s https://api.github.com/repos/IBM/cbomkit/releases/latest | grep '"tag_name":' | sed -E 's/.*"([^"]+)".*/\1/') \
+  --set frontend.tag=$(curl -s https://api.github.com/repos/IBM/cbomkit/releases/latest | grep '"tag_name":' | sed -E 's/.*"([^"]+)".*/\1/') \
   ./chart
 ```
 
