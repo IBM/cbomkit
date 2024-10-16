@@ -25,12 +25,13 @@ make production
 > [!NOTE]
 > By default, the service can be accessed at http://localhost:8001
 
-Deploy using the helm chart to a kubernetes environment.
+Deploy using the helm chart to a kubernetes environment. Pass the domain suffix and the cbomkit database creds via helm parameters.
 ```shell
 # clone the repository 
 git clone https://github.com/IBM/cbomkit
 # deploy using helm
 helm install cbomkit 
+  --set common.clusterDomain={CLUSTER_DOMAIN}
   --set postgresql.auth.username={POSTGRES_USER} 
   --set postgresql.auth.password={POSTGRES_PASSWORD} 
   ./chart

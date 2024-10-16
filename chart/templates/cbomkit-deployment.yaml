@@ -28,7 +28,7 @@ spec:
               value: jdbc:postgresql://{{ .Values.postgresql.fullnameOverride }}:5432/{{ .Values.postgresql.auth.database }}
             - name: CBOMKIT_PORT
               value: "8080"
-            - name: CBOMKITt_DB_USERNAME
+            - name: CBOMKIT_DB_USERNAME
               valueFrom:
                 secretKeyRef:
                   key: username
