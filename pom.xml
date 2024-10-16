@@ -33,12 +33,9 @@
     <jackson.version>2.18.0</jackson.version>
     <cyclonedx-maven-plugin.version>2.9.0</cyclonedx-maven-plugin.version>
 
-    <sonar.crypto.plugin.version>1.3.0</sonar.crypto.plugin.version>
+    <sonar.crypto.plugin.version>1.3.2</sonar.crypto.plugin.version>
     <sonar.plugin.api.version>10.11.0.2468</sonar.plugin.api.version>
-    <sonar.plugin.api.impl.version>10.7.0.96327</sonar.plugin.api.impl.version>
-    <!-- language parser versions -->
-    <sonar.java.version>8.4.0.37032</sonar.java.version>
-    <sonar.python.version>4.22.0.16914</sonar.python.version>
+    <sonar.plugin.api.impl.version>10.6.0.92116</sonar.plugin.api.impl.version>
   </properties>
 
   <repositories>
@@ -147,16 +144,6 @@
       <groupId>org.sonarsource.sonarqube</groupId>
       <artifactId>sonar-plugin-api-impl</artifactId>
       <version>${sonar.plugin.api.impl.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>org.sonarsource.java</groupId>
-      <artifactId>java-frontend</artifactId>
-      <version>${sonar.java.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>org.sonarsource.python</groupId>
-      <artifactId>python-frontend</artifactId>
-      <version>${sonar.python.version}</version>
     </dependency>
 
 
