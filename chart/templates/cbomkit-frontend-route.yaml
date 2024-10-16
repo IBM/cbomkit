@@ -1,0 +1,18 @@
+apiVersion: route.openshift.io/v1
+kind: Route
+metadata:
+  annotations:
+    description: Route for cbomkit-frontend.
+  name: {{ .Values.frontend.name }}
+  labels:
+    app: {{ .Values.frontend.name }}
+    resource: {{ .Values.frontend.name }}
+spec:
+  port:
+    targetPort: 8000-tcp
+  tls:
+    termination: edge
+  to:
+    kind: Service
+    name: {{ .Values.frontend.name }}
+  wildcardPolicy: None

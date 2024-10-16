@@ -19,9 +19,10 @@
  */
 package com.ibm.resources.v1;
 
+import static com.ibm.Utils.addProperties;
+
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.ibm.Utils;
 import com.ibm.configuration.IConfiguration;
 import com.ibm.git.GitService;
 import com.ibm.message.IMessageDispatcher;
@@ -181,18 +182,16 @@ public class ScannerResource {
                 cbom = runScan(webSocketMessageDispatcher, clonedProject.get(), scanRequest);
                 // try to store
                 if (possibleIdentifiers.isPresent() && cbom.isPresent()) {
-                    List<IdentifiableScan> identifiableScans =
-                            storeCBOM(
-                                    cbom.get(),
-                                    possibleIdentifiers.get(),
-                                    scanRequest.gitUrl(),
-                                    scanRequest.branch());
-                    Utils.addProperties(
+                    storeCBOM(
                             cbom.get(),
+                            possibleIdentifiers.get(),
                             scanRequest,
-                            clonedProject.get().commitHash,
-                            identifiableScans);
-                    LOG.info("Scan related data persisted");
+                            clonedProject.get().commitHash);
+                    LOG.info(
+                            "CBOM persisted for "
+                                    + scanRequest.gitUrl()
+                                    + ", branch "
+                                    + scanRequest.branch());
                     webSocketMessageDispatcher.sendCBOMMessage(cbom.get().toString());
                 }
             }
@@ -290,37 +289,34 @@ public class ScannerResource {
     }
 
     @Transactional
-    public List<IdentifiableScan> storeCBOM(
+    public void storeCBOM(
             @Nonnull JsonNode cbom,
             @Nonnull IdentifiersInternal identifiers,
-            @Nonnull String gitUrl,
-            @Nonnull String branch) {
+            @Nonnull ScanRequest scanRequest,
+            @Nonnull String commitHash) {
         final PanacheQuery<Scan> findCbomForGitAndBranch =
-                Scan.find("gitUrl = ?1 and branch = ?2", gitUrl, branch);
+                Scan.find(
+                        "gitUrl = ?1 and branch = ?2", scanRequest.gitUrl(), scanRequest.branch());
         final Optional<Scan> possibleCbom = findCbomForGitAndBranch.firstResultOptional();
 
         Scan entity = new Scan();
         if (possibleCbom.isPresent()) {
-            LOG.info(
-                    "CBOM-Entity with giturl "
-                            + possibleCbom.get().getGitUrl()
-                            + " already present. Will be overwritten.");
             entity = possibleCbom.get();
+            LOG.info(
+                    "Scan from giturl "
+                            + entity.getGitUrl()
+                            + " (branch: "
+                            + entity.getBranch()
+                            + ") already present. Will be overwritten.");
         }
         entity.setBom(cbom);
-        entity.setGitUrl(gitUrl);
-        entity.setBranch(branch);
+        entity.setGitUrl(scanRequest.gitUrl());
+        entity.setBranch(scanRequest.branch());
         entity.setCbomSpecVersion(Version.VERSION_16.getVersionString());
         entity.setCreatedAt(new Timestamp(System.currentTimeMillis()));
-        entity.persist();
-        if (entity.isPersistent()) {
-            LOG.info("CBOM-Entity object with gitUrl " + entity.getGitUrl() + " persisted");
-        } else {
-            LOG.error("An error occurred while persisting the CBOM-Entity.");
-        }
 
         final Pattern versionPattern = Pattern.compile("(\\d+\\.\\d+\\.?\\d*)");
-        final Matcher versionMatcher = versionPattern.matcher(branch);
+        final Matcher versionMatcher = versionPattern.matcher(scanRequest.branch());
         String version = null;
         if (versionMatcher.find()) {
             version = versionMatcher.group(1);
@@ -346,7 +342,8 @@ public class ScannerResource {
         }
         IdentifiableScan.persist(identifiableScans);
 
-        return identifiableScans;
+        addProperties(entity.getBom(), scanRequest, commitHash, identifiableScans);
+        entity.persist();
     }
 
     public static class CancelScanException extends Exception {
