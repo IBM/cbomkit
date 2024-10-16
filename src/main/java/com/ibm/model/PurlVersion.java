@@ -26,7 +26,7 @@ import jakarta.persistence.Id;
 
 @Entity
 @Cacheable
-public final class PurlVersion extends PanacheEntityBase {
+public class PurlVersion extends PanacheEntityBase {
     // id is fixed to 1.
     // There at most one such record which will be
     // overwritten if a new purl version was detected

@@ -35,7 +35,6 @@ import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 import org.apache.commons.lang3.exception.ExceptionUtils;
 import org.jboss.logging.Logger;
-import org.jetbrains.annotations.NotNull;
 import org.sonar.api.batch.fs.InputFile;
 import org.sonar.java.AnalysisException;
 import org.sonar.java.AnalysisProgress;
@@ -241,7 +240,7 @@ public class JavaAstScannerExtension extends JavaAstScanner {
     }
 
     @Override
-    public void checkInterrupted(@NotNull Exception e) {
+    public void checkInterrupted(@Nonnull Exception e) {
         Throwable cause = ExceptionUtils.getRootCause(e);
         if (cause instanceof InterruptedException
                 || cause instanceof InterruptedIOException
