@@ -37,7 +37,6 @@ import java.util.List;
 import java.util.Objects;
 import java.util.Optional;
 
-@SuppressWarnings("java:S3252")
 @ApplicationScoped
 public class ScanRepository implements IScanRepository, PanacheRepository<Scan> {
 

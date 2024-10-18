@@ -29,7 +29,6 @@ import javax.annotation.Nonnull;
 @Entity
 @Cacheable
 public class IdentifiableScan extends PanacheEntity {
-    @Nonnull
     @JsonProperty("purl")
     private String purl;
 
