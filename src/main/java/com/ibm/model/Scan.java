@@ -63,7 +63,7 @@ public class Scan extends PanacheEntity {
 
     public JsonNode getBom() {
         return bom;
-    } // TODO: validate this warning
+    }
 
     public void setBom(JsonNode bom) {
         this.bom = bom;

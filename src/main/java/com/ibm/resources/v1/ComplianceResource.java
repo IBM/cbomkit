@@ -184,8 +184,9 @@ public class ComplianceResource {
                                                         service.check(
                                                                 policyIdentifier,
                                                                 scan.getBom().toString()))
-                                        .map(res -> Response.ok(res).build())
-                                        .orElse(Response.status(404).build()))
-                .orElse(Response.status(501).build());
+                                        .map(res -> Response.ok(res))
+                                        .orElse(Response.status(404)))
+                .orElse(Response.status(501))
+                .build();
     }
 }
