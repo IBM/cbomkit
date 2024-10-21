@@ -28,7 +28,7 @@ import java.util.List;
 
 @Entity
 @Cacheable
-public final class Identifiers extends PanacheEntity {
+public class Identifiers extends PanacheEntity {
     private String gitIdentifier;
 
     @ElementCollection(fetch = FetchType.EAGER)

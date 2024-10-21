@@ -56,7 +56,6 @@ import org.cyclonedx.Version;
 import org.eclipse.microprofile.config.ConfigProvider;
 import org.jboss.logging.Logger;
 
-@SuppressWarnings("java:S3252")
 @ServerEndpoint("/v1/scan/{clientId}")
 @ApplicationScoped
 public class ScannerResource {
@@ -324,20 +323,17 @@ public class ScannerResource {
 
         List<IdentifiableScan> identifiableScans = new ArrayList<>();
         for (String purl : identifiers.getPurls()) {
-            String finalPurlString = purl;
-            if (version != null) {
-                finalPurlString = purl + "@" + version;
-            }
-            Optional<IdentifiableScan> possiblePurl =
-                    IdentifiableScan.find("purl", finalPurlString).firstResultOptional();
-            IdentifiableScan identifiableScan1 = new IdentifiableScan();
-            if (possiblePurl.isPresent()) {
-                identifiableScan1 = possiblePurl.get();
+            String finalPurlString = (version != null) ? purl + "@" + version : purl;
+
+            IdentifiableScan identifiableScan1 =
+                    IdentifiableScan.find("purl", finalPurlString).firstResult();
+            if (identifiableScan1 == null) {
+                identifiableScan1 = new IdentifiableScan();
+                identifiableScan1.setPurl(finalPurlString);
             }
             if (!identifiableScan1.getScans().contains(entity)) {
                 identifiableScan1.addScan(entity);
             }
-            identifiableScan1.setPurl(finalPurlString);
             identifiableScans.add(identifiableScan1);
         }
         IdentifiableScan.persist(identifiableScans);
