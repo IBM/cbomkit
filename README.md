@@ -21,6 +21,10 @@ git clone https://github.com/IBM/cbomkit
 # run the make command to start the docker compose 
 make production
 ```
+Next steps:
+- Enter a git url like [https://github.com/keycloak/keycloak](https://github.com/keycloak/keycloak) to generate a CBOM
+- View your generated CBOM by selecting your previously scanned CBOM
+- Drag and drop CBOM from the [examples](example) into the dropbox to view it
 
 > [!NOTE]
 > By default, the service can be accessed at http://localhost:8001
