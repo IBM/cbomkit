@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "metadata": {
+    "tools": {
+      "services": [
+        {
+          "name": "Sonar Cryptography Plugin",
+          "version": "1.3.2",
+          "provider": {
+            "name": "IBM"
+          }
+        }
+      ]
+    },
+    "timestamp": "2024-10-16T09:03:56Z",
+    "properties": [
+      {
+        "name": "git-url",
+        "value": "https://github.com/apache/flink"
+      },
+      {
+        "name": "git-branch",
+        "value": "master"
+      },
+      {
+        "name": "commit",
+        "value": "55cc36a81553523b90b58d89c11ec5ba495f23f4"
+      },
+      {
+        "name": "purl",
+        "value": "pkg:apache/flink"
+      },
+      {
+        "name": "purl",
+        "value": "pkg:docker/apache/flink"
+      },
+      {
+        "name": "purl",
+        "value": "pkg:github/apache/flink"
+      },
+      {
+        "name": "purl",
+        "value": "pkg:maven/org.apache.flink/flink-core"
+      }
+    ]
+  },
+  "bomFormat": "CycloneDX",
+  "components": [
+    {
+      "name": "SHA256",
+      "type": "cryptographic-asset",
+      "bom-ref": "df6e331d-121d-40b9-8571-89a043fc7192",
+      "evidence": {
+        "occurrences": [
+          {
+            "line": 326,
+            "offset": 32,
+            "location": "flink-python/src/main/java/org/apache/flink/python/util/PythonDependencyUtils.java",
+            "additionalContext": "java.security.MessageDigest#getInstance(Ljava/lang/String;)Ljava/security/MessageDigest;"
+          }
+        ]
+      },
+      "cryptoProperties": {
+        "oid": "2.16.840.1.101.3.4.2.1",
+        "assetType": "algorithm",
+        "algorithmProperties": {
+          "primitive": "hash",
+          "cryptoFunctions": [
+            "digest"
+          ],
+          "parameterSetIdentifier": "256"
+        }
+      }
+    },
+    {
+      "name": "SHA1",
+      "type": "cryptographic-asset",
+      "bom-ref": "3a5709eb-4079-41b1-80c2-3daeda93ab55",
+      "evidence": {
+        "occurrences": [
+          {
+            "line": 282,
+            "offset": 19,
+            "location": "flink-runtime/src/main/java/org/apache/flink/runtime/blob/BlobUtils.java",
+            "additionalContext": "java.security.MessageDigest#getInstance(Ljava/lang/String;)Ljava/security/MessageDigest;"
+          }
+        ]
+      },
+      "cryptoProperties": {
+        "assetType": "algorithm",
+        "algorithmProperties": {
+          "primitive": "hash",
+          "cryptoFunctions": [
+            "digest"
+          ],
+          "parameterSetIdentifier": "160"
+        }
+      }
+    },
+    {
+      "name": "MD5",
+      "type": "cryptographic-asset",
+      "bom-ref": "709e816d-bd85-42a7-8939-450f50b88b5e",
+      "evidence": {
+        "occurrences": [
+          {
+            "line": 169,
+            "offset": 19,
+            "location": "flink-table/flink-table-common/src/main/java/org/apache/flink/table/utils/EncodingUtils.java",
+            "additionalContext": "java.security.MessageDigest#getInstance(Ljava/lang/String;)Ljava/security/MessageDigest;"
+          }
+        ]
+      },
+      "cryptoProperties": {
+        "assetType": "algorithm",
+        "algorithmProperties": {
+          "primitive": "hash",
+          "cryptoFunctions": [
+            "digest"
+          ],
+          "parameterSetIdentifier": "128"
+        }
+      }
+    }
+  ],
+  "specVersion": "1.6",
+  "dependencies": [],
+  "serialNumber": "urn:uuid:36f08c25-1ae7-49c4-ba90-bb60d56f3d66"
+}
