@@ -64,7 +64,7 @@ services:
     ports:
       - "5432:5432"
     healthcheck:
-      test: [ "CMD", "pg_isready -U postgres" ]
+      test: [ "CMD", "pg_isready -U ${POSTGRESQL_AUTH_USERNAME} -d postgres" ]
       interval: 10s
       timeout: 5s
       retries: 5
