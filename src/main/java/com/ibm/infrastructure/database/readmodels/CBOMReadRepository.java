@@ -113,7 +113,7 @@ public final class CBOMReadRepository extends ReadRepository<UUID, CBOMReadModel
             final List<CBOMReadModel> match =
                     entityManager
                             .createQuery(
-                                    "SELECT read FROM CBOMReadModel read ORDER BY createdAt desc LIMIT :limit",
+                                    "SELECT DISTINCT read FROM CBOMReadModel read WHERE read.createdAt = ( SELECT MAX(r.createdAt) FROM CBOMReadModel r WHERE r.repository = read.repository) ORDER BY read.repository LIMIT :limit",
                                     CBOMReadModel.class)
                             .setParameter("limit", limit)
                             .getResultList();
