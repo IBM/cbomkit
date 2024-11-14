@@ -23,6 +23,7 @@ import app.bootstrap.core.cqrs.IReadModel;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 import com.fasterxml.jackson.databind.JsonNode;
 import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
 import jakarta.annotation.Nonnull;
@@ -39,6 +40,7 @@ import org.jetbrains.annotations.NotNull;
 @Entity
 @Cacheable
 @JsonInclude(JsonInclude.Include.NON_NULL)
+@JsonPropertyOrder({"projectIdentifier", "gitUrl", "branch", "commit", "createdAt", "bom"})
 public class CBOMReadModel extends PanacheEntityBase implements IReadModel<UUID> {
     @JsonIgnore @Id @Nonnull public UUID id;
 

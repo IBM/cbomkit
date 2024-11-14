@@ -71,7 +71,7 @@ public class CBOMResource {
         }
         return this.queryBus
                 .send(new GetCBOMByProjectIdentifierQuery(identifier))
-                .thenApply(readModels -> Response.ok(readModels).build())
+                .thenApply(readModel -> Response.ok(readModel).build())
                 .get();
     }
 }
