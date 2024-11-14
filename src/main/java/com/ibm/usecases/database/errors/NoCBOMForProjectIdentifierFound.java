@@ -17,28 +17,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.ibm.domain.scanning;
+package com.ibm.usecases.database.errors;
 
-import app.bootstrap.core.ddd.IValueObject;
-import com.ibm.domain.scanning.errors.InvalidGitUrl;
 import jakarta.annotation.Nonnull;
-import java.net.MalformedURLException;
-import java.net.URI;
 
-public record GitUrl(@Nonnull String value) implements IValueObject {
-
-    @SuppressWarnings("all")
-    @Override
-    public void validate() throws InvalidGitUrl {
-        try {
-            URI.create(value).toURL();
-        } catch (MalformedURLException | IllegalArgumentException e) {
-            throw new InvalidGitUrl(value);
-        }
-    }
-
-    @Nonnull
-    public String getIdentifier() {
-        return value.replace("https://", "").replace("http://", "");
+public class NoCBOMForProjectIdentifierFound extends Exception {
+    public NoCBOMForProjectIdentifierFound(@Nonnull String projectIdentifier) {
+        super("CBOM for project identifier '" + projectIdentifier + "' not found");
     }
 }

@@ -34,10 +34,6 @@ import jakarta.ws.rs.core.MediaType;
 import jakarta.ws.rs.core.Response;
 import java.util.concurrent.ExecutionException;
 import org.eclipse.microprofile.openapi.annotations.Operation;
-import org.eclipse.microprofile.openapi.annotations.media.Content;
-import org.eclipse.microprofile.openapi.annotations.media.Schema;
-import org.eclipse.microprofile.openapi.annotations.responses.APIResponse;
-import org.eclipse.microprofile.openapi.annotations.responses.APIResponses;
 import org.jboss.resteasy.reactive.RestQuery;
 
 @Path("/api/v1/compliance")
@@ -57,37 +53,6 @@ public class ComplianceResource {
                     "Verify the compliance of a stored CBOM identified by it's PURL against a policy",
             description =
                     "Returns the JSON sent by the Regulator API, containing various information about the compliance of the CBOM for a set policy.")
-    @APIResponses(
-            value = {
-                @APIResponse(
-                        responseCode = "200",
-                        description = "OK",
-                        content =
-                                @Content(
-                                        schema =
-                                                @Schema(
-                                                        example =
-                                                                "{"
-                                                                        + "\"policyIdentifier\": \"quantum_safe\","
-                                                                        + "\"policyDocumentTitle\": \"Some Policy Detailed Name\","
-                                                                        + "\"policyDocumentVersion\": \"v0.4\","
-                                                                        + "\"policyDocumentURL\": \"https://example.com/...\","
-                                                                        + "\"compliant\": false,"
-                                                                        + "\"findings\": []"
-                                                                        + "}]"))),
-                @APIResponse(
-                        responseCode = "503",
-                        description = "Not found",
-                        content =
-                                @Content(
-                                        schema =
-                                                @Schema(
-                                                        example =
-                                                                "{"
-                                                                        + "\"regulator_url\": \"some url\","
-                                                                        + "\"unavailable\": true"
-                                                                        + "}]")))
-            })
     public Response checkStored(
             @Nullable @RestQuery("policyIdentifier") String policyIdentifier,
             @Nullable @RestQuery("gitUrl") String gitUrl,
@@ -116,37 +81,6 @@ public class ComplianceResource {
             summary = "Verify the compliance of a provided CBOM against a policy",
             description =
                     "Returns the JSON sent by the Regulator API, containing various information about the compliance of the CBOM for a set policy.")
-    @APIResponses(
-            value = {
-                @APIResponse(
-                        responseCode = "200",
-                        description = "OK",
-                        content =
-                                @Content(
-                                        schema =
-                                                @Schema(
-                                                        example =
-                                                                "{"
-                                                                        + "\"policyIdentifier\": \"ipsec\","
-                                                                        + "\"policyDocumentTitle\": \"Some Policy Detailed Name\","
-                                                                        + "\"policyDocumentVersion\": \"v0.4\","
-                                                                        + "\"policyDocumentURL\": \"https://example.com/...\","
-                                                                        + "\"compliant\": false,"
-                                                                        + "\"findings\": []"
-                                                                        + "}]"))),
-                @APIResponse(
-                        responseCode = "503",
-                        description = "Not found",
-                        content =
-                                @Content(
-                                        schema =
-                                                @Schema(
-                                                        example =
-                                                                "{"
-                                                                        + "\"regulator_url\": \"some url\","
-                                                                        + "\"unavailable\": true"
-                                                                        + "}]")))
-            })
     public Response check(
             @Nullable @QueryParam("policyIdentifier") String policyIdentifier,
             @Nullable String cbomString)

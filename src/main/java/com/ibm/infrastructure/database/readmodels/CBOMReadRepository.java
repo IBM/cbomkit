@@ -104,6 +104,34 @@ public final class CBOMReadRepository extends ReadRepository<UUID, CBOMReadModel
     }
 
     @Override
+    public @Nonnull Optional<CBOMReadModel> findBy(@Nonnull String projectIdentifier) {
+        final EntityManager entityManager = CBOMReadModel.getEntityManager();
+        final ArcContainer container = Arc.container();
+        container.requestContext().activate();
+        try {
+            QuarkusTransaction.begin();
+            Optional<CBOMReadModel> match =
+                    entityManager
+                            .createQuery(
+                                    "SELECT read FROM CBOMReadModel read WHERE read.projectIdentifier = :projectIdentifier ORDER BY createdAt desc",
+                                    CBOMReadModel.class)
+                            .setParameter("projectIdentifier", projectIdentifier)
+                            .getResultStream()
+                            .findFirst();
+            QuarkusTransaction.commit();
+            return match;
+        } catch (Exception e) {
+            LOGGER.error(e.getMessage(), e);
+            if (QuarkusTransaction.isActive()) {
+                QuarkusTransaction.rollback();
+            }
+        } finally {
+            container.requestContext().terminate();
+        }
+        return Optional.empty();
+    }
+
+    @Override
     public @Nonnull Collection<CBOMReadModel> getAll(int limit) {
         final EntityManager entityManager = CBOMReadModel.getEntityManager();
         final ArcContainer container = Arc.container();

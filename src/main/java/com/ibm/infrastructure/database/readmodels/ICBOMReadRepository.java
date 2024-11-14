@@ -42,5 +42,8 @@ public interface ICBOMReadRepository extends IReadRepository<UUID, CBOMReadModel
     Optional<CBOMReadModel> findBy(@Nonnull GitUrl gitUrl);
 
     @Nonnull
+    Optional<CBOMReadModel> findBy(@Nonnull String projectIdentifier);
+
+    @Nonnull
     Collection<CBOMReadModel> getAll(int limit);
 }

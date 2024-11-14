@@ -112,6 +112,7 @@ public class CBOMProjector extends Projector<UUID, CBOMReadModel> {
         final CBOMReadModel cbomReadModel =
                 new CBOMReadModel(
                         scanAggregate.getId().getUuid(),
+                        scanAggregate.getScanRequest().gitUrl().getIdentifier(),
                         scanAggregate.getScanRequest().gitUrl().value(),
                         scanAggregate.getScanRequest().revision().value(),
                         scanAggregate.getCommit().map(Commit::hash).orElse(null),

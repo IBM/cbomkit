@@ -23,31 +23,37 @@ import app.bootstrap.core.cqrs.IQueryBus;
 import app.bootstrap.core.cqrs.QueryHandler;
 import com.ibm.infrastructure.database.readmodels.CBOMReadModel;
 import com.ibm.infrastructure.database.readmodels.ICBOMReadRepository;
+import com.ibm.usecases.database.errors.NoCBOMForProjectIdentifierFound;
 import io.quarkus.runtime.StartupEvent;
 import jakarta.annotation.Nonnull;
 import jakarta.enterprise.event.Observes;
 import jakarta.inject.Singleton;
-import java.util.Collection;
 
 @Singleton
-public final class ListStoredCBOMsQueryHandler
-        extends QueryHandler<ListStoredCBOMsQuery, Collection<CBOMReadModel>> {
+public class GetCBOMByProjectIdentifierQueryHandler
+        extends QueryHandler<GetCBOMByProjectIdentifierQuery, CBOMReadModel> {
 
     @Nonnull private final ICBOMReadRepository readRepository;
 
     void onStart(@Observes StartupEvent event) {
-        this.queryBus.register(this, ListStoredCBOMsQuery.class);
+        this.queryBus.register(this, GetCBOMByProjectIdentifierQuery.class);
     }
 
-    public ListStoredCBOMsQueryHandler(
+    public GetCBOMByProjectIdentifierQueryHandler(
             @Nonnull IQueryBus queryBus, @Nonnull ICBOMReadRepository readRepository) {
         super(queryBus);
         this.readRepository = readRepository;
     }
 
     @Override
-    public @Nonnull Collection<CBOMReadModel> handle(
-            @Nonnull ListStoredCBOMsQuery listStoredCBOMsQuery) throws Exception {
-        return this.readRepository.getAll(listStoredCBOMsQuery.limit());
+    public @Nonnull CBOMReadModel handle(
+            @Nonnull GetCBOMByProjectIdentifierQuery getCBOMByProjectIdentifierQuery)
+            throws Exception {
+        return this.readRepository
+                .findBy(getCBOMByProjectIdentifierQuery.projectIdentifier())
+                .orElseThrow(
+                        () ->
+                                new NoCBOMForProjectIdentifierFound(
+                                        getCBOMByProjectIdentifierQuery.projectIdentifier()));
     }
 }

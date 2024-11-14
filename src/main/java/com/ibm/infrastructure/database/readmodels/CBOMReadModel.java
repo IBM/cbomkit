@@ -20,6 +20,7 @@
 package com.ibm.infrastructure.database.readmodels;
 
 import app.bootstrap.core.cqrs.IReadModel;
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.JsonNode;
@@ -39,7 +40,9 @@ import org.jetbrains.annotations.NotNull;
 @Cacheable
 @JsonInclude(JsonInclude.Include.NON_NULL)
 public class CBOMReadModel extends PanacheEntityBase implements IReadModel<UUID> {
-    @Id @Nonnull public UUID id;
+    @JsonIgnore @Id @Nonnull public UUID id;
+
+    @Nonnull protected String projectIdentifier;
 
     @JsonProperty("gitUrl")
     @Nonnull
@@ -57,12 +60,14 @@ public class CBOMReadModel extends PanacheEntityBase implements IReadModel<UUID>
 
     public CBOMReadModel(
             @Nonnull UUID id,
+            @Nonnull String projectIdentifier,
             @Nonnull String repository,
             @Nullable String revision,
             @Nullable String commit,
             @Nonnull Timestamp createdAt,
             @Nonnull JsonNode bom) {
         this.id = id;
+        this.projectIdentifier = projectIdentifier;
         this.repository = repository;
         this.revision = revision;
         this.commit = commit;
@@ -75,6 +80,11 @@ public class CBOMReadModel extends PanacheEntityBase implements IReadModel<UUID>
     @Override
     public @NotNull UUID getId() {
         return this.id;
+    }
+
+    @Nonnull
+    public String getProjectIdentifier() {
+        return projectIdentifier;
     }
 
     @Nonnull

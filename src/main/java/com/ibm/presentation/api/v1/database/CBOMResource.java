@@ -20,6 +20,7 @@
 package com.ibm.presentation.api.v1.database;
 
 import app.bootstrap.core.cqrs.IQueryBus;
+import com.ibm.usecases.database.queries.GetCBOMByProjectIdentifierQuery;
 import com.ibm.usecases.database.queries.ListStoredCBOMsQuery;
 import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
@@ -31,9 +32,6 @@ import jakarta.ws.rs.core.MediaType;
 import jakarta.ws.rs.core.Response;
 import java.util.concurrent.ExecutionException;
 import org.eclipse.microprofile.openapi.annotations.Operation;
-import org.eclipse.microprofile.openapi.annotations.media.Content;
-import org.eclipse.microprofile.openapi.annotations.media.Schema;
-import org.eclipse.microprofile.openapi.annotations.responses.APIResponse;
 import org.jboss.resteasy.reactive.RestQuery;
 
 @Path("/api/v1/cbom")
@@ -55,26 +53,24 @@ public class CBOMResource {
                     "Returns a list of the most recently generated CBOMs. "
                             + "The length of the list can by specified via the optional 'limit' "
                             + "parameter.")
-    @APIResponse(
-            responseCode = "200",
-            description = "OK",
-            content =
-                    @Content(
-                            schema =
-                                    @Schema(
-                                            example =
-                                                    "[{"
-                                                            + "\"id\": 251,"
-                                                            + "\"gitUrl\": \"https://github.com/quarkusio/quarkus\","
-                                                            + "\"branch\": \"main\","
-                                                            + "\"cbomVersion\": \"1.4-cbom-1.0\","
-                                                            + "\"createdAt\": \"2023-10-24T10:55:20.404+00:00\","
-                                                            + "\"base64\": \"ewogICJib21Gb3JtY...\""
-                                                            + "}]")))
     public Response getLastCBOMs(@RestQuery @Nullable Integer limit)
             throws ExecutionException, InterruptedException {
         return this.queryBus
                 .send(new ListStoredCBOMsQuery(limit))
+                .thenApply(readModels -> Response.ok(readModels).build())
+                .get();
+    }
+
+    @GET
+    @Path("/byIdentifier")
+    @Produces(MediaType.APPLICATION_JSON)
+    public Response getCBOM(@RestQuery @Nullable String identifier)
+            throws ExecutionException, InterruptedException {
+        if (identifier == null) {
+            return Response.status(Response.Status.BAD_REQUEST).build();
+        }
+        return this.queryBus
+                .send(new GetCBOMByProjectIdentifierQuery(identifier))
                 .thenApply(readModels -> Response.ok(readModels).build())
                 .get();
     }
