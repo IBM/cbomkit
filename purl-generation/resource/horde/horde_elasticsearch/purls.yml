@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/php-horde-elasticsearch
-  - pkg:deb/ubuntu/php-horde-elasticsearch
-  - pkg:github/horde/elasticsearch
-  - pkg:rpm/fedora/php-horde-horde-elasticsearch
-  - pkg:rpm/opensuse/php-horde-horde-elasticsearch

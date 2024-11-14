@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/guilt
-  - pkg:deb/ubuntu/guilt
-  - pkg:rpm/fedora/guilt
-  - pkg:rpm/opensuse/guilt

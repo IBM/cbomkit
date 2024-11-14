@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/openresty/openresty
-  - pkg:rpm/opensuse/openresty

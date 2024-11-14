@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:jenkins:bmc_release_package_and_deployment:1.0:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:bmc_release_package_and_deployment:1.1:*:*:*:*:jenkins:*:*

@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/gitit
-  - pkg:github/jgm/gitit
-  - pkg:rpm/fedora/gitit

@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/googlecloudplatform/gcp-service-broker
-  - pkg:github/pivotal-cf/docs-google

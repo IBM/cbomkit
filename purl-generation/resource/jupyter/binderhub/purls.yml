@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/jupyterhub/binderhub
-  - pkg:pypi/binderhub

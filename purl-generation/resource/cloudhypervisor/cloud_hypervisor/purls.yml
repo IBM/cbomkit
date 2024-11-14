@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/cloud-hypervisor/cloud-hypervisor
-  - pkg:golang/github.com/cloud-hypervisor/cloud-hypervisor

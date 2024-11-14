@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/opensysusers
-  - pkg:deb/ubuntu/opensysusers
-  - pkg:github/artix-linux/opensysusers

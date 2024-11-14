@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/gdm3
-  - pkg:deb/ubuntu/gdm3
-  - pkg:github/gnome/gdm
-  - pkg:rpm/fedora/gdm
-  - pkg:rpm/opensuse/gdm

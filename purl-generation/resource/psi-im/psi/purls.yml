@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/psi
-  - pkg:github/psi-im/psi
-  - pkg:rpm/fedora/psi
-  - pkg:sourceforge/psi

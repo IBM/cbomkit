@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/webkitgtk
-  - pkg:deb/ubuntu/webkitgtk
-  - pkg:github/webkit/webkit

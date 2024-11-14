@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/tafoya/blogifier
-  - pkg:github/blogifierdotnet/blogifier
-  - pkg:nuget/Blogifier.Core

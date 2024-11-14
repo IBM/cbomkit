@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/angular.js
-  - pkg:deb/ubuntu/angular.js
-  - pkg:github/angular/angular.js
-  - pkg:nuget/AngularJS.Core
-  - pkg:sourceforge/angularjs

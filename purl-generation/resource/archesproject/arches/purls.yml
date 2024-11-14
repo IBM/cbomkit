@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/archesproject/arches
-  - pkg:github/archesproject/arches
-  - pkg:pypi/arches

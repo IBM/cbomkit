@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/matroska-org/foundation-source
-  - pkg:rpm/opensuse/mkclean
-  - pkg:sourceforge/matroska

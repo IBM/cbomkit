@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/freedesktop/x11perf
-  - pkg:rpm/fedora/x11perf
-  - pkg:rpm/opensuse/x11perf

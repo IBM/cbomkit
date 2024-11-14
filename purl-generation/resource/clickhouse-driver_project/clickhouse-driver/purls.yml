@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/python-clickhouse-driver
-  - pkg:deb/ubuntu/python-clickhouse-driver
-  - pkg:github/mymarilyn/clickhouse-driver
-  - pkg:pypi/clickhouse-driver

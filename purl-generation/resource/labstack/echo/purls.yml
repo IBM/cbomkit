@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/golang-github-labstack-echo
-  - pkg:deb/ubuntu/golang-github-labstack-echo
-  - pkg:github/labstack/echo

@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/md4c
-  - pkg:deb/ubuntu/md4c
-  - pkg:github/mity/md4c

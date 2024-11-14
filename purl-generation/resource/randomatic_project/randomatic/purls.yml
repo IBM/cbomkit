@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/jonschlinkert/randomatic
-  - pkg:maven/org.webjars.npm/randomatic
-  - pkg:npm/randomatic
-  - pkg:sourceforge/randomatic

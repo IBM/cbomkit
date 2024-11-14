@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/noobaa/noobaa-operator
-  - pkg:github/noobaa/noobaa-operator

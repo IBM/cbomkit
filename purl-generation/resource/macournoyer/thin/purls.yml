@@ -1,3 +1,0 @@
-purls:
-  - pkg:gem/thin
-  - pkg:github/macournoyer/thin

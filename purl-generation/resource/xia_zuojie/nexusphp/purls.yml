@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/dearjoey/nexusphp
-  - pkg:github/wxhere/nexusphp
-  - pkg:sourceforge/nexusphp

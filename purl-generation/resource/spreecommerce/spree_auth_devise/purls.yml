@@ -1,3 +1,0 @@
-purls:
-  - pkg:gem/spree_auth_devise
-  - pkg:github/spree/spree_auth_devise

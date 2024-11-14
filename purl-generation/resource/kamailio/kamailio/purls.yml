@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/kamailio
-  - pkg:deb/ubuntu/kamailio
-  - pkg:github/kamailio/kamailio
-  - pkg:rpm/opensuse/kamailio

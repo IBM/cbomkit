@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/libp2p/go-libp2p
-  - pkg:golang/github.com/libp2p/go-libp2p

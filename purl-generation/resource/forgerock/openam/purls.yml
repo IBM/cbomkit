@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/openidentityplatform/openam
-  - pkg:github/openidentityplatform/openam
-  - pkg:github/openrock/openam
-  - pkg:maven/org.openidentityplatform.openam/openam

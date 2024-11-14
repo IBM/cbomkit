@@ -1,5 +1,0 @@
-purls:
-  - pkg:apache/jspwiki
-  - pkg:docker/apache/jspwiki
-  - pkg:github/apache/jspwiki
-  - pkg:maven/org.apache.jspwiki/jspwiki-builder

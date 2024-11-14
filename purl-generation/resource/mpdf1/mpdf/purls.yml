@@ -1,4 +1,0 @@
-purls:
-  - pkg:composer/mpdf/mpdf
-  - pkg:github/mpdf/mpdf
-  - pkg:sourceforge/mpdf.mirror

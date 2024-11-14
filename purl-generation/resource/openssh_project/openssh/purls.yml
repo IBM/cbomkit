@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/pld-linux/openssh
-  - pkg:rpm/fedora/openssh
-  - pkg:rpm/opensuse/openssh
-  - pkg:sourceforge/openssh.mirror

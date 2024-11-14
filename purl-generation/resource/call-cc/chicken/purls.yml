@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/chicken
-  - pkg:deb/ubuntu/chicken
-  - pkg:github/kdltr/chicken-core
-  - pkg:rpm/fedora/chicken
-  - pkg:rpm/opensuse/chicken

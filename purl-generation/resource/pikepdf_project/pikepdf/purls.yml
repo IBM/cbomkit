@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/pikepdf
-  - pkg:deb/ubuntu/pikepdf
-  - pkg:github/pikepdf/pikepdf
-  - pkg:pypi/pikepdf
-  - pkg:rpm/fedora/python-pikepdf
-  - pkg:rpm/opensuse/python-pikepdf

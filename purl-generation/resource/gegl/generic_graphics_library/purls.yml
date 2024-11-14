@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/gegl
-  - pkg:deb/ubuntu/gegl
-  - pkg:github/gnome/gegl
-  - pkg:rpm/opensuse/gegl

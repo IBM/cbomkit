@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/ocaml-batteries
-  - pkg:deb/ubuntu/ocaml-batteries
-  - pkg:github/ocaml-batteries-team/batteries-included

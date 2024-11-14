@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/openstack/tripleo-ansible
-  - pkg:pypi/tripleo-ansible

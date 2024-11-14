@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/php-horde-passwd
-  - pkg:deb/ubuntu/php-horde-passwd
-  - pkg:github/horde/passwd
-  - pkg:rpm/fedora/php-horde-passwd

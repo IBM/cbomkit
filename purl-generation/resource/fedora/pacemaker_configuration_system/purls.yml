@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/pcs
-  - pkg:deb/ubuntu/pcs
-  - pkg:github/clusterlabs/pcs
-  - pkg:rpm/fedora/pcs

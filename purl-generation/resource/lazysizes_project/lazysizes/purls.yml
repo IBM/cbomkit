@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/afarkas/lazysizes
-  - pkg:maven/org.webjars.bower/lazysizes
-  - pkg:npm/lazysizes
-  - pkg:sourceforge/lazysizes.mirror

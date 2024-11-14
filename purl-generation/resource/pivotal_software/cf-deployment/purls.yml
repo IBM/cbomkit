@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/cloudfoundry/cf-deployment
-  - pkg:golang/github.com/cloudfoundry/cf-deployment

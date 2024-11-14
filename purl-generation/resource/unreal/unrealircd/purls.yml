@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/unrealircd/unrealircd
-  - pkg:rpm/fedora/unrealircd
-  - pkg:rpm/opensuse/unrealircd
-  - pkg:sourceforge/unrealircd

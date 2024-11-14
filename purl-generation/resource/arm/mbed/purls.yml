@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/mbedos/mbed-os-env
-  - pkg:github/armmbed/mbed-os
-  - pkg:gitlab/ultimaker/mbed-os

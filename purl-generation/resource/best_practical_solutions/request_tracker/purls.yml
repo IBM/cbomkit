@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/request-tracker4
-  - pkg:deb/ubuntu/request-tracker4
-  - pkg:github/bestpractical/rt
-  - pkg:rpm/opensuse/request-tracker

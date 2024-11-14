@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/umlet
-  - pkg:deb/ubuntu/umlet
-  - pkg:github/umlet/umlet
-  - pkg:rpm/opensuse/umlet
-  - pkg:sourceforge/umlet

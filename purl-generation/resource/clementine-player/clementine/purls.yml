@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/clementine
-  - pkg:deb/ubuntu/clementine
-  - pkg:github/clementine-player/clementine
-  - pkg:rpm/fedora/clementine
-  - pkg:sourceforge/clementine.mirror

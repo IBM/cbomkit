@@ -1,4 +1,0 @@
-cpes:
-  - cpe:2.3:a:debian:netkit:-:*:*:*:*:*:*:*
-  - cpe:2.3:a:debian:netkit:0.07:*:*:*:*:*:*:*
-  - cpe:2.3:a:debian:netkit:0.17:*:*:*:*:*:*:*

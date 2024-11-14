@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/rust-protobuf
-  - pkg:deb/ubuntu/rust-protobuf
-  - pkg:github/stepancheg/rust-protobuf
-  - pkg:rpm/fedora/rust-protobuf
-  - pkg:rpm/opensuse/rust-protobuf

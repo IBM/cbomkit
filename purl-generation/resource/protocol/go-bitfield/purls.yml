@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/ipfs/go-bitfield
-  - pkg:golang/github.com/ipfs/go-bitfield

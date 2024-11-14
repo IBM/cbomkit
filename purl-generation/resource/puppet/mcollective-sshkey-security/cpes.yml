@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:puppet:mcollective-sshkey-security:0.5.0:*:*:*:*:puppet:*:*
-  - cpe:2.3:a:puppet:mcollective-sshkey-security:0.5.1:*:*:*:*:puppet:*:*

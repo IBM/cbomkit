@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/simplesamlphp
-  - pkg:deb/ubuntu/simplesamlphp
-  - pkg:github/simplesamlphp/simplesamlphp
-  - pkg:rpm/opensuse/simplesamlphp

@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/kauth
-  - pkg:deb/ubuntu/kauth
-  - pkg:github/kde/kauth
-  - pkg:rpm/opensuse/kauth

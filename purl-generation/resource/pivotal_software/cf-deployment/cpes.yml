@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:pivotal_software:cf-deployment:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:pivotal_software:cf-deployment:0.35.0:*:*:*:*:*:*:*

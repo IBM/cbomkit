@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/jpeg-xl
-  - pkg:github/libjxl/libjxl
-  - pkg:gitlab/wg1/jpeg-xl
-  - pkg:rpm/opensuse/libjxl

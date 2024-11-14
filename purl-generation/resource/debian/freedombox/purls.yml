@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/freedombox
-  - pkg:deb/ubuntu/freedombox
-  - pkg:github/freedombox/freedombox

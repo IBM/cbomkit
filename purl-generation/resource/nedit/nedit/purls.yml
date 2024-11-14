@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/nedit
-  - pkg:deb/ubuntu/nedit
-  - pkg:github/raumzeit/nedit
-  - pkg:rpm/fedora/nedit
-  - pkg:rpm/opensuse/nedit
-  - pkg:sourceforge/nedit

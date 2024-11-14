@@ -1,5 +1,0 @@
-cpes:
-  - cpe:2.3:a:pingidentity:radius_pcv:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:pingidentity:radius_pcv:2.10.0:*:*:*:*:*:*:*
-  - cpe:2.3:a:pingidentity:radius_pcv:3.0.0:*:*:*:*:*:*:*
-  - cpe:2.3:a:pingidentity:radius_pcv:3.0.1:*:*:*:*:*:*:*

@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/kangax/html-minifier
-  - pkg:maven/org.webjars.npm/html-minifier
-  - pkg:npm/html-minifier

@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:jenkins:jdk_parameter:1.0:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:jdk_parameter:-:*:*:*:*:jenkins:*:*

@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/cowtowncoder/java-merge-sort
-  - pkg:maven/com.fasterxml.util/java-merge-sort

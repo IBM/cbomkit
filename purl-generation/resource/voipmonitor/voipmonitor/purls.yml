@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/donatello/voipmonitor
-  - pkg:github/wolrah/voipmonitor
-  - pkg:rpm/opensuse/voipmonitor
-  - pkg:sourceforge/voipmonitor

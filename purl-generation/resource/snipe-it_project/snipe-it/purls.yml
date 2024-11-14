@@ -1,6 +1,0 @@
-purls:
-  - pkg:composer/snipe/snipe-it
-  - pkg:docker/snipe/snipe-it
-  - pkg:github/snipe/snipe-it
-  - pkg:rpm/opensuse/snipe-it
-  - pkg:sourceforge/snipe-it.mirror

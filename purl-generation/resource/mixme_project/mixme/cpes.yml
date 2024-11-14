@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:mixme_project:mixme:0.5.0:*:*:*:*:node.js:*:*
-  - cpe:2.3:a:mixme_project:mixme:*:*:*:*:*:node.js:*:*

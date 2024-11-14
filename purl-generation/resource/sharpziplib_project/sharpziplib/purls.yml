@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/icsharpcode/sharpziplib
-  - pkg:nuget/SharpZipLib
-  - pkg:rpm/fedora/sharpziplib
-  - pkg:rpm/opensuse/sharpziplib

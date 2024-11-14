@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/osuosl/twisted_vncauthproxy
-  - pkg:pypi/vncauthproxy

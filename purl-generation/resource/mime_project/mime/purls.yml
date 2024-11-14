@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/node-mime
-  - pkg:deb/ubuntu/node-mime
-  - pkg:github/broofa/mime
-  - pkg:maven/org.webjars.npm/mime
-  - pkg:npm/mime
-  - pkg:rpm/fedora/nodejs-mime

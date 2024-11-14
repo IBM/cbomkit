@@ -1,4 +1,0 @@
-purls:
-  - pkg:cargo/lapce-plugin
-  - pkg:github/lapce/lapce
-  - pkg:rpm/opensuse/lapce

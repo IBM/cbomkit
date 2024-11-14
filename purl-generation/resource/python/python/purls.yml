@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/python
-  - pkg:github/python/cpython
-  - pkg:python/python
-  - pkg:rpm/opensuse/python

@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/fuhai/jpress
-  - pkg:docker/jpressio/jpress
-  - pkg:github/jpressprojects/jpress

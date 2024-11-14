@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:jenkins:convert_to_pipeline:1.0:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:convert_to_pipeline:*:*:*:*:*:jenkins:*:*

@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/kile
-  - pkg:deb/ubuntu/kile
-  - pkg:github/kde/kile
-  - pkg:rpm/fedora/kile
-  - pkg:rpm/opensuse/kile
-  - pkg:sourceforge/kile

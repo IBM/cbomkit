@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/liferay/portal
-  - pkg:github/liferay/liferay-portal
-  - pkg:liferay/liferay-portal
-  - pkg:sourceforge/lportal

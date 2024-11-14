@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/reel
-  - pkg:deb/ubuntu/reel
-  - pkg:gem/reel
-  - pkg:github/celluloid/reel

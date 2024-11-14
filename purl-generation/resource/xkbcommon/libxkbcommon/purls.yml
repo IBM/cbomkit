@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/libxkbcommon
-  - pkg:deb/ubuntu/libxkbcommon
-  - pkg:github/xkbcommon/libxkbcommon
-  - pkg:rpm/centos/libxkbcommon
-  - pkg:rpm/fedora/libxkbcommon
-  - pkg:rpm/opensuse/libxkbcommon

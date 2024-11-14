@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/rinetd
-  - pkg:deb/ubuntu/rinetd
-  - pkg:github/samhocevar/rinetd
-  - pkg:rpm/opensuse/rinetd

@@ -1,5 +1,0 @@
-purls:
-  - pkg:gem/airbrake-ruby
-  - pkg:github/airbrake/airbrake-ruby
-  - pkg:gitlab/ecoportal/airbrake-ruby
-  - pkg:rpm/opensuse/rubygem-airbrake-ruby

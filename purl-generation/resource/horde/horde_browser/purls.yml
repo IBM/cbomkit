@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/php-horde-browser
-  - pkg:deb/ubuntu/php-horde-browser
-  - pkg:github/horde/browser
-  - pkg:rpm/fedora/php-horde-horde-browser
-  - pkg:rpm/php-horde-horde-browser

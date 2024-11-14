@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/civicrm
-  - pkg:deb/ubuntu/civicrm
-  - pkg:github/civicrm/civicrm-core
-  - pkg:gitlab/consensus.enterprises/civicrm-core
-  - pkg:sourceforge/civicrm

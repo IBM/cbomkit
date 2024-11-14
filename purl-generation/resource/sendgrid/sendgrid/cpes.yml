@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:sendgrid:sendgrid:1.11.8:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:sendgrid:sendgrid:-:*:*:*:*:wordpress:*:*

@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/libu2f-host
-  - pkg:deb/ubuntu/libu2f-host
-  - pkg:github/yubico/libu2f-host
-  - pkg:rpm/fedora/libu2f-host
-  - pkg:rpm/opensuse/libu2f-host

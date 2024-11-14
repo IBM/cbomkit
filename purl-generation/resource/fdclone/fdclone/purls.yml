@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/fdclone
-  - pkg:deb/ubuntu/fdclone
-  - pkg:github/knu/fdclone
-  - pkg:rpm/opensuse/fdclone

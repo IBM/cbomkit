@@ -1,3 +1,0 @@
-purls:
-  - pkg:apache/httpd
-  - pkg:github/apache/httpd

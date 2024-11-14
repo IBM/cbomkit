@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/nuxt/nuxt.js
-  - pkg:npm/nuxt.js
-  - pkg:sourceforge/nuxt-js.mirror

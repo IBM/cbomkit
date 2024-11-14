@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/jedit
-  - pkg:deb/ubuntu/jedit
-  - pkg:github/vanzin/jedit
-  - pkg:rpm/opensuse/jedit
-  - pkg:sourceforge/jedit

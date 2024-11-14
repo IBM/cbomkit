@@ -1,4 +1,0 @@
-purls:
-  - pkg:composer/nonfiction/nterchange
-  - pkg:github/nonfiction/nterchange_backend
-  - pkg:github/nonfiction/nterchange-j-learning

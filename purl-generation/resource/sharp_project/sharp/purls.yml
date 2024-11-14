@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/lovell/sharp
-  - pkg:maven/org.webjars.npm/sharp
-  - pkg:npm/sharp
-  - pkg:sourceforge/sharp.mirror

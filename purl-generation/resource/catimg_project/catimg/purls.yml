@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/catimg
-  - pkg:deb/ubuntu/catimg
-  - pkg:github/posva/catimg
-  - pkg:rpm/fedora/catimg
-  - pkg:rpm/opensuse/catimg

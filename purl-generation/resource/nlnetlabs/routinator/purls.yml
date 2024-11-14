@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/nlnetlabs/routinator
-  - pkg:github/nlnetlabs/routinator

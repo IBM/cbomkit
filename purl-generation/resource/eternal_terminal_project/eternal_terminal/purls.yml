@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/lordkev/eternalterminal
-  - pkg:github/lordkev/eternalterminal
-  - pkg:github/mistertea/eternalterminal
-  - pkg:rpm/opensuse/eternalterminal

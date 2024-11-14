@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/opensc
-  - pkg:deb/ubuntu/opensc
-  - pkg:github/opensc/opensc
-  - pkg:rpm/fedora/opensc
-  - pkg:sourceforge/opensc

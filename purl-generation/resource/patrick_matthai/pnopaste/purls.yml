@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/pnopaste
-  - pkg:deb/ubuntu/pnopaste
-  - pkg:sourceforge/pnopaste

@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/registry
-  - pkg:github/docker/distribution-library-image
-  - pkg:golang/github.com/docker/distribution-library-image

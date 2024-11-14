@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/babiloo
-  - pkg:rpm/opensuse/babiloo
-  - pkg:sourceforge/babiloo

@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/bsdgames
-  - pkg:deb/ubuntu/bsdgames
-  - pkg:github/vattam/bsdgames

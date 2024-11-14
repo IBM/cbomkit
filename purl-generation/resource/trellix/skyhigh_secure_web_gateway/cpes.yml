@@ -1,7 +1,0 @@
-cpes:
-  - cpe:2.3:a:trellix:skyhigh_secure_web_gateway:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:trellix:skyhigh_secure_web_gateway:10.0.0:*:*:*:*:*:*:*
-  - cpe:2.3:a:trellix:skyhigh_secure_web_gateway:10.2.16:*:*:*:*:*:*:*
-  - cpe:2.3:a:trellix:skyhigh_secure_web_gateway:11.0.0:*:*:*:*:*:*:*
-  - cpe:2.3:a:trellix:skyhigh_secure_web_gateway:11.2.5:*:*:*:*:*:*:*
-  - cpe:2.3:a:trellix:skyhigh_secure_web_gateway:12.0.0:*:*:*:*:*:*:*

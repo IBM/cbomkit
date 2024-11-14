@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/jenkinsci/oracle-cloud-infrastructure-compute-classic-plugin
-  - pkg:github/oracle/oci-compute-classic-jenkins-plugin

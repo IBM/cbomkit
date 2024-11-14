@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/mapproxy
-  - pkg:deb/ubuntu/mapproxy
-  - pkg:github/mapproxy/mapproxy
-  - pkg:pypi/mapproxy
-  - pkg:rpm/opensuse/python-mapproxy

@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/dgraph-io/dgraph
-  - pkg:golang/github.com/dgraph-io/dgraph

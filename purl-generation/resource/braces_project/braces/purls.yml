@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/node-braces
-  - pkg:deb/ubuntu/node-braces
-  - pkg:github/micromatch/braces
-  - pkg:maven/org.webjars.bowergithub.micromatch/braces
-  - pkg:maven/org.webjars.npm/braces

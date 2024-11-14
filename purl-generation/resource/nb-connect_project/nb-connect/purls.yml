@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/rust-nb-connect
-  - pkg:deb/ubuntu/rust-nb-connect
-  - pkg:github/smol-rs/nb-connect
-  - pkg:rpm/fedora/rust-nb-connect

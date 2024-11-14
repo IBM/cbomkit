@@ -1,3 +1,0 @@
-purls:
-  - pkg:deb/debian/apparmor
-  - pkg:deb/ubuntu/apparmor

@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/jakearchibald/idb
-  - pkg:maven/org.webjars.npm/idb
-  - pkg:npm/idb

@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/tcptraceroute
-  - pkg:deb/ubuntu/tcptraceroute
-  - pkg:github/mct/tcptraceroute
-  - pkg:golang/github.com/mct/tcptraceroute
-  - pkg:rpm/opensuse/tcptraceroute

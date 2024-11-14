@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/horizon
-  - pkg:deb/ubuntu/horizon
-  - pkg:github/openstack/horizon
-  - pkg:pypi/horizon
-  - pkg:rpm/opensuse/python-horizon

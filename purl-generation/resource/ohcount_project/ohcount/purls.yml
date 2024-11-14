@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/ohcount
-  - pkg:deb/ubuntu/ohcount
-  - pkg:github/blackducksoftware/ohcount
-  - pkg:rpm/opensuse/ohcount
-  - pkg:sourceforge/ohcount

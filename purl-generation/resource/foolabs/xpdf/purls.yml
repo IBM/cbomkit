@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/fluxer/xpdf
-  - pkg:github/oudream/xpdf
-  - pkg:rpm/fedora/xpdf
-  - pkg:rpm/opensuse/xpdf

@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/swauth
-  - pkg:deb/ubuntu/swauth
-  - pkg:pypi/swauth
-  - pkg:rpm/opensuse/python-swauth

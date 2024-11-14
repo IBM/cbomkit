@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/bonitasoft/bonita-connector-webservice
-  - pkg:maven/org.bonitasoft.connectors/bonita-connector-webservice

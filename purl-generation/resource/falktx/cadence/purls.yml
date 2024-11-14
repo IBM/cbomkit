@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/falktx/cadence
-  - pkg:rpm/fedora/Cadence
-  - pkg:rpm/opensuse/cadence

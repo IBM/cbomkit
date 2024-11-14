@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/javanile/mybackup
-  - pkg:github/javanile-backup/mybackup
-  - pkg:sourceforge/phpmybackup

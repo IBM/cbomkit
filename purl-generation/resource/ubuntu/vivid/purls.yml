@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/ubuntu/vivid
-  - pkg:github/sharkdp/vivid
-  - pkg:golang/github.com/sharkdp/vivid

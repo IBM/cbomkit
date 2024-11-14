@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/freeplane
-  - pkg:deb/ubuntu/freeplane
-  - pkg:github/freeplane/freeplane
-  - pkg:rpm/opensuse/freeplane
-  - pkg:sourceforge/freeplane

@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/php-horde-activesync
-  - pkg:deb/ubuntu/php-horde-activesync
-  - pkg:github/horde/activesync

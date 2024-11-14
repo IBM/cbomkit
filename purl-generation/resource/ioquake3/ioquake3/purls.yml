@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/ioquake3
-  - pkg:deb/ubuntu/ioquake3
-  - pkg:github/id-software/quake-iii-arena
-  - pkg:github/ioquake/ioq3
-  - pkg:rpm/opensuse/ioquake3

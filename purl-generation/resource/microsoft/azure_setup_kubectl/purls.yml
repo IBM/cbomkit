@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/azure/setup-kubectl
-  - pkg:npm/azure-pipelines-tasks-kubernetes-common-v2

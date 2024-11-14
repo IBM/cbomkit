@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/eflexsystems/node-samba-client
-  - pkg:npm/samba-client

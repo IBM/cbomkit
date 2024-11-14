@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/ark
-  - pkg:deb/ubuntu/ark
-  - pkg:github/kde/ark
-  - pkg:rpm/fedora/ark

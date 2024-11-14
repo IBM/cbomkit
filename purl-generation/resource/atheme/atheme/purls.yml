@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/atheme
-  - pkg:deb/ubuntu/atheme
-  - pkg:github/atheme/atheme
-  - pkg:rpm/opensuse/atheme

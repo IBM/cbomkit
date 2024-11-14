@@ -1,9 +1,0 @@
-cpes:
-  - cpe:2.3:a:wpdeveloper:parallax_slider_block:1.0.0:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:wpdeveloper:parallax_slider_block:1.1.0:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:wpdeveloper:parallax_slider_block:1.2.0:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:wpdeveloper:parallax_slider_block:1.2.1:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:wpdeveloper:parallax_slider_block:1.2.2:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:wpdeveloper:parallax_slider_block:1.2.3:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:wpdeveloper:parallax_slider_block:1.2.4:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:wpdeveloper:parallax_slider_block:*:*:*:*:*:wordpress:*:*

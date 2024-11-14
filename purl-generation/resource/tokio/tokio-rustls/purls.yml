@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/tokio-rs/tls
-  - pkg:rpm/fedora/rust-tokio-rustls
-  - pkg:rpm/opensuse/rust-tokio-rustls

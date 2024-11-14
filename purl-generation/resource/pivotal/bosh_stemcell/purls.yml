@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/cloudfoundry/bosh-linux-stemcell-builder
-  - pkg:github/cloudfoundry/bosh-windows-stemcell-builder

@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/bomberclone
-  - pkg:deb/ubuntu/bomberclone
-  - pkg:github/promi/bomberclone
-  - pkg:rpm/opensuse/bomberclone
-  - pkg:sourceforge/bomberclone

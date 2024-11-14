@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:debian:apt-listchanges:-:*:*:*:*:*:*:*
-  - cpe:2.3:a:debian:apt-listchanges:2.81:*:*:*:*:*:*:*

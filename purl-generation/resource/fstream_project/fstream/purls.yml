@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/libxstream-java
-  - pkg:deb/ubuntu/libxstream-java
-  - pkg:github/x-stream/xstream

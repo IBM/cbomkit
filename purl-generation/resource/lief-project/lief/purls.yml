@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/lief
-  - pkg:deb/ubuntu/lief
-  - pkg:github/ipasimulator/lief
-  - pkg:github/lief-project/lief
-  - pkg:rpm/opensuse/lief

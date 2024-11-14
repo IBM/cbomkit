@@ -1,5 +1,0 @@
-cpes:
-  - cpe:2.3:a:emqx:nanomq:0.15.0:*:*:*:*:*:*:*
-  - cpe:2.3:a:emqx:nanomq:0.16.5:*:*:*:*:*:*:*
-  - cpe:2.3:a:emqx:nanomq:0.17.2:*:*:*:*:*:*:*
-  - cpe:2.3:a:emqx:nanomq:0.17.5:*:*:*:*:*:*:*

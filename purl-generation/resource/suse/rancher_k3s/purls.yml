@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/rancher/k3s
-  - pkg:github/suse/manager-rancher-auto

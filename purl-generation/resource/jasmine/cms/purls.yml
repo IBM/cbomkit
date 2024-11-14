@@ -1,5 +1,0 @@
-purls:
-  - pkg:composer/jasminecms/jasmine
-  - pkg:github/jasminecms/jasmine
-  - pkg:maven/org.webjars.npm/jasmine
-  - pkg:npm/jasmine

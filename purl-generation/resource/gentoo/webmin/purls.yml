@@ -1,5 +1,0 @@
-purls:
-  - pkg:bitbucket/dilos/webmin
-  - pkg:github/webmin/webmin
-  - pkg:rpm/opensuse/webmin
-  - pkg:sourceforge/webadmin

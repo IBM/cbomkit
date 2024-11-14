@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/xdm
-  - pkg:deb/ubuntu/xdm
-  - pkg:github/freedesktop/xdm
-  - pkg:github/freedesktop/xorg-xdm
-  - pkg:rpm/opensuse/xdm

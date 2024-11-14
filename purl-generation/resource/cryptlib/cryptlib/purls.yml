@@ -1,5 +1,0 @@
-purls:
-  - pkg:bitbucket/ciyingsoft/cryptlib
-  - pkg:github/deflomu/cryptlib
-  - pkg:github/ryankurte/cryptlib
-  - pkg:rpm/fedora/cryptlib

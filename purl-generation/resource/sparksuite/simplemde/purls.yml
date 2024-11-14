@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/simplemde-markdown-editor
-  - pkg:deb/ubuntu/simplemde-markdown-editor
-  - pkg:github/sparksuite/simplemde-markdown-editor

@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/projectdiscovery/nuclei
-  - pkg:golang/github.com/projectdiscovery/nuclei

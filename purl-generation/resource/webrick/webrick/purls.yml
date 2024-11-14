@@ -1,3 +1,0 @@
-purls:
-  - pkg:gem/webrick
-  - pkg:github/ruby/webrick

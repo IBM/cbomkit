@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/bbossgroups/bboss
-  - pkg:maven/com.bbossgroups/bboss-persistent

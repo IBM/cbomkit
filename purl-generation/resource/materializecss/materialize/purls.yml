@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/dogfalo/materialize
-  - pkg:maven/org.webjars.npm/materialize-css
-  - pkg:npm/materialize-css
-  - pkg:nuget/materialize

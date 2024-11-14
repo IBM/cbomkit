@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/aio-libs/aiohttp
-  - pkg:pypi/aiohttp

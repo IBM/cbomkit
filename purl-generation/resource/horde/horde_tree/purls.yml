@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/php-horde-tree
-  - pkg:deb/ubuntu/php-horde-tree
-  - pkg:github/horde/tree
-  - pkg:rpm/fedora/php-horde-horde-tree
-  - pkg:rpm/opensuse/php-horde-horde-tree

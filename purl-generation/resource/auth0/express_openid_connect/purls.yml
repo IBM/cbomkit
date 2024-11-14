@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/auth0/express-openid-connect
-  - pkg:npm/express-openid-connect

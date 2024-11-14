@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/libtpms
-  - pkg:deb/ubuntu/libtpms
-  - pkg:github/stefanberger/libtpms
-  - pkg:rpm/fedora/libtpms
-  - pkg:rpm/opensuse/libtpms

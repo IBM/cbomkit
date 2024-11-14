@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/pallets/jinja
-  - pkg:pypi/jinja
-  - pkg:sourceforge/jinja.mirror

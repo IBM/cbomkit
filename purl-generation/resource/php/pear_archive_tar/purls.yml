@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/pear/archive_tar
-  - pkg:rpm/opensuse/php7-pear-archive_tar

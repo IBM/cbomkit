@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/compiz
-  - pkg:deb/ubuntu/compiz
-  - pkg:github/compiz-reloaded/compiz
-  - pkg:rpm/fedora/compiz
-  - pkg:rpm/opensuse/compiz

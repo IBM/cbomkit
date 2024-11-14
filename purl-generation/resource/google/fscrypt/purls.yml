@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/fscrypt
-  - pkg:deb/ubuntu/fscrypt
-  - pkg:github/google/fscrypt
-  - pkg:rpm/opensuse/fscrypt

@@ -1,4 +1,0 @@
-cpes:
-  - cpe:2.3:a:debian:most:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:debian:most:5.0.0a-2.2:*:*:*:*:*:*:*
-  - cpe:2.3:a:debian:most:5.0.0a-2.3:*:*:*:*:*:*:*

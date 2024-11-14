@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/thinkgem/jeesite
-  - pkg:maven/com.github.wywuzh/commons-static-jeesite4
-  - pkg:sourceforge/jeesite.mirror

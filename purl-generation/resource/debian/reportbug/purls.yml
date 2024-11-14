@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/reportbug
-  - pkg:deb/ubuntu/reportbug
-  - pkg:github/davesteele/reportbug
-  - pkg:github/debiancn/reportbug
-  - pkg:rpm/opensuse/python-reportbug

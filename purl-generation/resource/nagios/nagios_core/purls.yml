@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/nagiosenterprises/nagioscore
-  - pkg:github/nagiosenterprises/nagioscore

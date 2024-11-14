@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/openstack/python-glanceclient
-  - pkg:pypi/python-glanceclient

@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:docker:memcached_docker_image:-:*:*:*:*:*:*:*
-  - cpe:2.3:a:docker:memcached_docker_image:1.5.11:*:*:*:*:*:*:*

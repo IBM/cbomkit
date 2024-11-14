@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/libspf2-2
-  - pkg:deb/ubuntu/libspf2-2
-  - pkg:github/shevek/libspf2
-  - pkg:rpm/fedora/libspf2
-  - pkg:rpm/opensuse/libspf2
-  - pkg:sourceforge/libspf2

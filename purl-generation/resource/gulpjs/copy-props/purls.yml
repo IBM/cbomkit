@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/gulpjs/copy-props
-  - pkg:maven/org.webjars.npm/copy-props
-  - pkg:npm/copy-props

@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/gnubiff
-  - pkg:deb/ubuntu/gnubiff
-  - pkg:sourceforge/gnubiff

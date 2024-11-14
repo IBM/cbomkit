@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/inetutils
-  - pkg:deb/ubuntu/inetutils
-  - pkg:github/distrotech/inetutils
-  - pkg:github/gnu-mirror-unofficial/inetutils
-  - pkg:github/qunixorg/inetutils
-  - pkg:gnu/inetutils

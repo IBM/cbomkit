@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:theforeman:foreman_ansible:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:theforeman:foreman_ansible:*:*:*:*:*:ruby:*:*

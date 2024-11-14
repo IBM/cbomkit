@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/delgan/loguru
-  - pkg:golang/github.com/delgan/loguru
-  - pkg:pypi/loguru

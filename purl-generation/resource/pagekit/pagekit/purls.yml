@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/pagekit/pagekit
-  - pkg:github/pagekit/pagekit
-  - pkg:sourceforge/pagekit.mirror

@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/anchore/anchore-engine
-  - pkg:github/anchore/anchore-engine

@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/igniterealtime/smack
-  - pkg:maven/org.igniterealtime.smack/smack-core

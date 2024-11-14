@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/rust-tar
-  - pkg:deb/ubuntu/rust-tar
-  - pkg:github/alexcrichton/tar-rs
-  - pkg:rpm/fedora/rust-tar
-  - pkg:rpm/opensuse/rust-tar

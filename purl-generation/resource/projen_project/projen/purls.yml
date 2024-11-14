@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/projen/projen
-  - pkg:maven/com.github.eladb/projen
-  - pkg:maven/io.github.cdklabs/projen
-  - pkg:npm/projen

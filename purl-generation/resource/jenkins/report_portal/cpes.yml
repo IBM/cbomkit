@@ -1,6 +1,0 @@
-cpes:
-  - cpe:2.3:a:jenkins:report_portal:0.2:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:report_portal:0.3:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:report_portal:0.4:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:report_portal:0.5:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:report_portal:*:*:*:*:*:jenkins:*:*

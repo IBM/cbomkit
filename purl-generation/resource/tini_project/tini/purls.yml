@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/tini
-  - pkg:deb/ubuntu/tini
-  - pkg:github/krallin/tini
-  - pkg:rpm/fedora/tini
-  - pkg:rpm/opensuse/tini

@@ -1,4 +1,0 @@
-cpes:
-  - cpe:2.3:a:protocol:go-bitfield:1.0.0:*:*:*:*:go:*:*
-  - cpe:2.3:a:protocol:go-bitfield:*:*:*:*:*:go:*:*
-  - cpe:2.3:a:protocol:go-bitfield:-:*:*:*:*:go:*:*

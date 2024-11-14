@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/toybox
-  - pkg:deb/ubuntu/toybox
-  - pkg:github/landley/toybox

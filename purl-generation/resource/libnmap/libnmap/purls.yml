@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/python-libnmap
-  - pkg:deb/ubuntu/python-libnmap
-  - pkg:github/savon-noir/python-libnmap
-  - pkg:gitlab/kalilinux/python-libnmap
-  - pkg:pypi/python-libnmap

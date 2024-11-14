@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/dpkg
-  - pkg:deb/ubuntu/dpkg
-  - pkg:github/davidben/dpkg
-  - pkg:github/guillemj/dpkg
-  - pkg:rpm/fedora/dpkg
-  - pkg:rpm/opensuse/dpkg

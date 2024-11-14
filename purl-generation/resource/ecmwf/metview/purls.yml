@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/metview
-  - pkg:deb/ubuntu/metview
-  - pkg:github/ecmwf/metview-python
-  - pkg:pypi/metview
-  - pkg:rpm/opensuse/metview

@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/libtommath
-  - pkg:deb/ubuntu/libtommath
-  - pkg:github/libtom/libtommath
-  - pkg:gitlab/redhat/libtommath
-  - pkg:rpm/fedora/libtommath
-  - pkg:rpm/opensuse/libtommath

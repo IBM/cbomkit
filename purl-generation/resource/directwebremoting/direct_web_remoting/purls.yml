@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/directwebremoting/dwr
-  - pkg:maven/org.directwebremoting/dwr
-  - pkg:rpm/opensuse/dwr
-  - pkg:sourceforge/dwr

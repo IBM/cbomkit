@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/hydralabs/pyamf
-  - pkg:pypi/pyamf
-  - pkg:rpm/opensuse/python-pyamf
-  - pkg:sourceforge/pyamf

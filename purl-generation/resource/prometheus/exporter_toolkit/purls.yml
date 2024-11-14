@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/prometheus/exporter-toolkit
-  - pkg:golang/github.com/prometheus/exporter-toolkit

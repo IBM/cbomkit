@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/libguestfs
-  - pkg:deb/ubuntu/libguestfs
-  - pkg:github/libguestfs/libguestfs

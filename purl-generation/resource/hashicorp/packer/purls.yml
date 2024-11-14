@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/packer
-  - pkg:deb/ubuntu/packer
-  - pkg:github/hashicorp/packer
-  - pkg:sourceforge/packer.mirror

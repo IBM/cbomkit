@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/realityripple/squirrelmail
-  - pkg:rpm/fedora/squirrelmail
-  - pkg:rpm/opensuse/squirrelmail
-  - pkg:sourceforge/squirrelmail

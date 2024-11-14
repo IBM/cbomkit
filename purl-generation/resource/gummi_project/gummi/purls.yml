@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/gummi
-  - pkg:deb/ubuntu/gummi
-  - pkg:github/alexandervdm/gummi
-  - pkg:rpm/fedora/gummi
-  - pkg:rpm/opensuse/gummi

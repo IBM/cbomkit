@@ -1,5 +1,0 @@
-cpes:
-  - cpe:2.3:a:openssh:openssh:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:openssh:openssh:-:*:*:*:*:*:*:*
-  - cpe:2.3:a:openssh:openssh:4.6:*:*:*:*:*:*:*
-  - cpe:2.3:a:openssh:openssh:9.1:*:*:*:*:*:*:*

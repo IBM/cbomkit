@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/fbmuck/fbmuck
-  - pkg:github/fuzzball-muck/fuzzball
-  - pkg:sourceforge/fbmuck

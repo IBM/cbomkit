@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/nut
-  - pkg:deb/ubuntu/nut
-  - pkg:github/networkupstools/nut

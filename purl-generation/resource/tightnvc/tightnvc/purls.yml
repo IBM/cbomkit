@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/turbovnc/tightvnc
-  - pkg:rpm/fedora/tightvnc
-  - pkg:rpm/opensuse/tightvnc

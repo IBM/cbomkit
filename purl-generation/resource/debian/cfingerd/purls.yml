@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/cfingerd
-  - pkg:deb/ubuntu/cfingerd
-  - pkg:github/pld-linux/cfingerd

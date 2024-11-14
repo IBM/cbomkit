@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/libinfinity
-  - pkg:deb/ubuntu/libinfinity
-  - pkg:github/gobby/libinfinity

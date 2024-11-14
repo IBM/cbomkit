@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/ubuntu/hostapd
-  - pkg:github/latelee/hostapd
-  - pkg:rpm/fedora/hostapd
-  - pkg:rpm/opensuse/hostapd

@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/ubuntu/shibboleth-sp
-  - pkg:docker/villevaltonen/shibboleth-sp
-  - pkg:rpm/opensuse/shibboleth-sp

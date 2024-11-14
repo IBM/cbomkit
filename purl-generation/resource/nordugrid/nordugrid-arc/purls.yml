@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/nordugrid-arc
-  - pkg:deb/ubuntu/nordugrid-arc
-  - pkg:github/nordugrid/arc
-  - pkg:rpm/fedora/nordugrid-arc

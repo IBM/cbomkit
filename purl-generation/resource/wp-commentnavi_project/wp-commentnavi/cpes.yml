@@ -1,8 +1,0 @@
-cpes:
-  - cpe:2.3:a:wp-commentnavi_project:wp-commentnavi:1.00:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:wp-commentnavi_project:wp-commentnavi:1.10:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:wp-commentnavi_project:wp-commentnavi:1.11:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:wp-commentnavi_project:wp-commentnavi:1.12.1:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:wp-commentnavi_project:wp-commentnavi:1.12:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:wp-commentnavi_project:wp-commentnavi:*:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:wp-commentnavi_project:wp-commentnavi:-:*:*:*:*:wordpress:*:*

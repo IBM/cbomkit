@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/fluent-plugins-nursery/fluent-package-builder
-  - pkg:github/kenhys/td-agent-builder

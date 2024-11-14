@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/triplea
-  - pkg:deb/ubuntu/triplea
-  - pkg:github/triplea-game/triplea

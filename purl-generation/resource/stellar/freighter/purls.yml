@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/stellar/freighter
-  - pkg:npm/%40stellar/freighter-api

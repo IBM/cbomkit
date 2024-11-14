@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/rust-cargo
-  - pkg:deb/ubuntu/rust-cargo
-  - pkg:github/rust-lang/cargo
-  - pkg:rpm/fedora/rust-cargo
-  - pkg:rpm/opensuse/rust-cargo

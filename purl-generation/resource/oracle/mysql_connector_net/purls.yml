@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/ubuntu/mysql-connector-net
-  - pkg:github/mysql/mysql-connector-net
-  - pkg:rpm/fedora/mysql-connector-net

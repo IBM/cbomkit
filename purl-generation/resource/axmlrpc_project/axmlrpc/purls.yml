@@ -1,8 +1,0 @@
-purls:
-  - pkg:deb/debian/axmlrpc
-  - pkg:deb/debian/libaxmlrpc-java
-  - pkg:deb/ubuntu/axmlrpc
-  - pkg:github/gturri/axmlrpc
-  - pkg:github/timroes/axmlrpc
-  - pkg:maven/de.timroes/axmlrpc
-  - pkg:maven/fr.turri/axmlrpc

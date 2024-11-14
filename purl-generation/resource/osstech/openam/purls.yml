@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/osstech-jp/openam
-  - pkg:maven/org.forgerock.ce.openam/openam-core

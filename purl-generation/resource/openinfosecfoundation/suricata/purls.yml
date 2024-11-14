@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/suricata
-  - pkg:deb/ubuntu/suricata
-  - pkg:github/oisf/suricata
-  - pkg:rpm/fedora/suricata
-  - pkg:rpm/opensuse/suricata

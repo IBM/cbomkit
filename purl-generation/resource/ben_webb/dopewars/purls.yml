@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/dopewars
-  - pkg:deb/ubuntu/dopewars
-  - pkg:github/benmwebb/dopewars
-  - pkg:rpm/opensuse/dopewars
-  - pkg:sourceforge/dopewars

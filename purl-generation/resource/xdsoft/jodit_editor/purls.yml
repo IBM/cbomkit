@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/xdan/jodit
-  - pkg:maven/org.webjars.npm/jodit
-  - pkg:npm/jodit

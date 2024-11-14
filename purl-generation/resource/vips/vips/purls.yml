@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/vips
-  - pkg:deb/ubuntu/vips
-  - pkg:github/libvips/libvips
-  - pkg:rpm/fedora/vips
-  - pkg:rpm/opensuse/vips

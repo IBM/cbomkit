@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/vimagick/openrefine
-  - pkg:github/openrefine/openrefine
-  - pkg:rpm/fedora/openrefine
-  - pkg:sourceforge/openrefine.mirror

@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/nats-io/nats.ws
-  - pkg:npm/nats.ws

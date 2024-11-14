@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/rust-vmm/vm-memory
-  - pkg:rpm/fedora/rust-vm-memory

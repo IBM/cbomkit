@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/fwsnort
-  - pkg:deb/ubuntu/fwsnort
-  - pkg:github/mrash/fwsnort
-  - pkg:rpm/fedora/fwsnort

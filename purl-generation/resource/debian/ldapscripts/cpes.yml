@@ -1,4 +1,0 @@
-cpes:
-  - cpe:2.3:a:debian:ldapscripts:-:*:*:*:*:*:*:*
-  - cpe:2.3:a:debian:ldapscripts:1.4:*:*:*:*:*:*:*
-  - cpe:2.3:a:debian:ldapscripts:1.7:*:*:*:*:*:*:*

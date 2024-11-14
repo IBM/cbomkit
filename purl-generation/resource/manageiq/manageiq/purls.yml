@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/manageiq/manageiq
-  - pkg:github/manageiq/manageiq
-  - pkg:maven/io.fabric8.devops.apps/manageiq

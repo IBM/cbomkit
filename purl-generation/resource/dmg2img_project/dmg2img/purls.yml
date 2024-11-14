@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/dmg2img
-  - pkg:deb/ubuntu/dmg2img
-  - pkg:github/lekensteyn/dmg2img
-  - pkg:rpm/fedora/dmg2img
-  - pkg:rpm/opensuse/dmg2img

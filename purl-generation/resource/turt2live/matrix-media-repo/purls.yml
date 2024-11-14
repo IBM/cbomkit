@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/turt2live/matrix-media-repo
-  - pkg:github/turt2live/matrix-media-repo
-  - pkg:golang/github.com/turt2live/matrix-media-repo

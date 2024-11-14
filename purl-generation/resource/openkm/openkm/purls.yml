@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/openkm/openkm-ce
-  - pkg:github/openkm/document-management-system
-  - pkg:pypi/django-openkm
-  - pkg:sourceforge/openkm

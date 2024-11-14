@@ -1,4 +1,0 @@
-cpes:
-  - cpe:2.3:a:uptime_kuma_project:uptime_kuma:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:uptime_kuma_project:uptime_kuma:-:*:*:*:*:*:*:*
-  - cpe:2.3:a:uptime_kuma_project:uptime_kuma:1.19.6:*:*:*:*:*:*:*

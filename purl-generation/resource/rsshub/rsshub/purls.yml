@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/diygod/rsshub
-  - pkg:github/diygod/rsshub
-  - pkg:npm/rsshub
-  - pkg:sourceforge/rsshub.mirror

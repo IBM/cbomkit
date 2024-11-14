@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/libjbcrypt-java
-  - pkg:deb/ubuntu/libjbcrypt-java
-  - pkg:github/jeremyh/jbcrypt

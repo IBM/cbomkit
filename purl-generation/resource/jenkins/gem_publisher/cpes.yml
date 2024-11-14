@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:jenkins:gem_publisher:1.0:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:gem_publisher:-:*:*:*:*:jenkins:*:*

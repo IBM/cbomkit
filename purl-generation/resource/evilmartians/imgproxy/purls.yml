@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/imgproxy/imgproxy
-  - pkg:golang/github.com/imgproxy/imgproxy

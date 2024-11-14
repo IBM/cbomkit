@@ -1,5 +1,0 @@
-purls:
-  - pkg:bitbucket/itamux/sails
-  - pkg:github/balderdashy/sails
-  - pkg:npm/sails
-  - pkg:sourceforge/sails.mirror

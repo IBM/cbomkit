@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/ocsinventory-server
-  - pkg:deb/ubuntu/ocsinventory-server
-  - pkg:github/ocsinventory-ng/ocsinventory-server

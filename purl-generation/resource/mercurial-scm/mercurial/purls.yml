@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/mercurial
-  - pkg:deb/ubuntu/mercurial
-  - pkg:rpm/opensuse/mercurial

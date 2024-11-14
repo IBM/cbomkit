@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/projectcontour/contour
-  - pkg:github/projectcontour/contour

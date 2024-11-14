@@ -1,3 +1,0 @@
-purls:
-  - pkg:cpan/dist/digest-md5
-  - pkg:github/gisle/digest-md5

@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/freecol
-  - pkg:deb/ubuntu/freecol
-  - pkg:github/freecol/freecol
-  - pkg:rpm/fedora/freecol
-  - pkg:rpm/opensuse/freecol
-  - pkg:sourceforge/freecol

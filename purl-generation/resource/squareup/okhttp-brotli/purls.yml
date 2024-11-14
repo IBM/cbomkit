@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/square/okhttp
-  - pkg:maven/com.squareup.okhttp3/okhttp

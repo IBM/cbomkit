@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/matteocollina/mosca
-  - pkg:github/moscajs/mosca
-  - pkg:npm/mosca

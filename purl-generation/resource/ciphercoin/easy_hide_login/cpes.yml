@@ -1,5 +1,0 @@
-cpes:
-  - cpe:2.3:a:ciphercoin:easy_hide_login:1.0.0:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:ciphercoin:easy_hide_login:1.0.8:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:ciphercoin:easy_hide_login:*:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:ciphercoin:easy_hide_login:-:*:*:*:*:wordpress:*:*

@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/jwbenson/statichttpserver
-  - pkg:npm/statichttpserver

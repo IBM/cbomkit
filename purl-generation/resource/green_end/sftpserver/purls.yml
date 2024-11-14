@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/gesftpserver
-  - pkg:deb/ubuntu/gesftpserver
-  - pkg:github/ewxrjk/sftpserver

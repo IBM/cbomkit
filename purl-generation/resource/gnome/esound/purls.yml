@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/distrotech/esound
-  - pkg:gnome/esound
-  - pkg:rpm/fedora/esound
-  - pkg:rpm/opensuse/esound

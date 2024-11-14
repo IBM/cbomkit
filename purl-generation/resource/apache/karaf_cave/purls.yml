@@ -1,5 +1,0 @@
-purls:
-  - pkg:apache/karaf
-  - pkg:github/apache/karaf-cave
-  - pkg:maven/org.apache.karaf/cave
-  - pkg:maven/org.apache.karaf.cave/apache-karaf-cave

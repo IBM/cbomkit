@@ -1,5 +1,0 @@
-purls:
-  - pkg:bitbucket/wilhelmy/sthttpd
-  - pkg:github/blueness/sthttpd
-  - pkg:github/nikdoof/docker-sthttpd
-  - pkg:sourceforge/sthttpd

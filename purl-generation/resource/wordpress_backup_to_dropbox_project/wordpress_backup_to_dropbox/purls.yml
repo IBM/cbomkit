@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/justliam/wordpress-backup-to-dropbox
-  - pkg:github/wp-plugins/wordpress-backup-to-dropbox
-  - pkg:github/wpplugins/wordpress-backup-to-dropbox

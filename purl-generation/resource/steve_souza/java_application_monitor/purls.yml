@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/stevensouza/jamonapi
-  - pkg:maven/com.jamonapi/jamon
-  - pkg:maven/com.jamonapi/jamon-parent
-  - pkg:sourceforge/jamonapi

@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/weborf
-  - pkg:deb/ubuntu/weborf
-  - pkg:github/ltworf/weborf

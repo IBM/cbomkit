@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/libxmpp
-  - pkg:deb/ubuntu/libxmp
-  - pkg:github/bithoarder/libxmp
-  - pkg:rpm/fedora/libxmp
-  - pkg:rpm/opensuse/libxmp

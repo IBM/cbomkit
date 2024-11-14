@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/formio/formio
-  - pkg:maven/org.webjars.npm/formio
-  - pkg:npm/formio

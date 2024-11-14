@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/directus/directus
-  - pkg:github/directus/directus
-  - pkg:npm/directus

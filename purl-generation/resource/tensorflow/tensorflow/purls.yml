@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/tensorflow/tensorflow
-  - pkg:github/tensorflow/tensorflow
-  - pkg:pypi/tensorflow

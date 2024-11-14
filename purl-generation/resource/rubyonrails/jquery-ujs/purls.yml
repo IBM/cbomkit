@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/node-jquery-ujs
-  - pkg:deb/ubuntu/node-jquery-ujs
-  - pkg:gem/jquery-rails
-  - pkg:github/rails/jquery-rails
-  - pkg:maven/org.webjars.npm/jquery-ujs

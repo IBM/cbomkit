@@ -1,4 +1,0 @@
-purls:
-  - pkg:apache/vcl
-  - pkg:github/apache/vcl
-  - pkg:rpm/fedora/

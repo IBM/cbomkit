@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/rubenv/node-apk-parser
-  - pkg:npm/apk-parser

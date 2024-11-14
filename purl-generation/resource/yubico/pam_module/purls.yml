@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/yubico-pam
-  - pkg:deb/ubuntu/yubico-pam
-  - pkg:github/yubico/yubico-pam

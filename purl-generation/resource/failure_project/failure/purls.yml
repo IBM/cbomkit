@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/rust-failure
-  - pkg:deb/ubuntu/rust-failure
-  - pkg:github/rust-lang-deprecated/failure
-  - pkg:rpm/fedora/rust-failure
-  - pkg:rpm/opensuse/rust-failure

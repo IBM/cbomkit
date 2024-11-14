@@ -1,5 +1,0 @@
-purls:
-  - pkg:composer/pagekit/pagekit
-  - pkg:docker/pagekit/pagekit
-  - pkg:github/pagekit/pagekit
-  - pkg:golang/github.com/pagekit/pagekit

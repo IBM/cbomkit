@@ -1,8 +1,0 @@
-purls:
-  - pkg:deb/debian/ddd
-  - pkg:deb/ubuntu/ddd
-  - pkg:github/bluewww/ddd
-  - pkg:github/uyar/ddd
-  - pkg:gnu/ddd
-  - pkg:rpm/fedora/ddd
-  - pkg:rpm/opensuse/ddd

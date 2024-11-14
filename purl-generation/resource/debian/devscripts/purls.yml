@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/devscripts
-  - pkg:deb/ubuntu/devscripts
-  - pkg:github/debian/devscripts
-  - pkg:rpm/fedora/devscripts
-  - pkg:rpm/opensuse/devscripts

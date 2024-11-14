@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/jshttp/forwarded
-  - pkg:maven/org.webjars.bowergithub.jshttp/forwarded
-  - pkg:maven/org.webjars.npm/forwarded
-  - pkg:npm/forwarded

@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/crossplane/crossplane-runtime
-  - pkg:golang/github.com/crossplane/crossplane-runtime

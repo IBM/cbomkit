@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/fastify/fastify-passport
-  - pkg:npm/fastify-passport

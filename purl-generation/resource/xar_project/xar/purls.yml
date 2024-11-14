@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/mackyle/xar
-  - pkg:rpm/fedora/xar
-  - pkg:rpm/opensuse/xar

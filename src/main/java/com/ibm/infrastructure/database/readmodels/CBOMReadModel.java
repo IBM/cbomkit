@@ -1,0 +1,102 @@
+/*
+ * CBOMkit
+ * Copyright (C) 2024 IBM
+ *
+ * Licensed to the Apache Software Foundation (ASF) under one or more
+ * contributor license agreements.  See the NOTICE file distributed with
+ * this work for additional information regarding copyright ownership.
+ * The ASF licenses this file to you under the Apache License, Version 2.0
+ * (the "License"); you may not use this file except in compliance with
+ * the License.  You may obtain a copy of the License at
+ *
+ *      https://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+package com.ibm.infrastructure.database.readmodels;
+
+import app.bootstrap.core.cqrs.IReadModel;
+import com.fasterxml.jackson.annotation.JsonInclude;
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.databind.JsonNode;
+import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
+import jakarta.annotation.Nonnull;
+import jakarta.annotation.Nullable;
+import jakarta.persistence.Cacheable;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import java.sql.Timestamp;
+import java.util.UUID;
+import org.hibernate.annotations.JdbcTypeCode;
+import org.hibernate.type.SqlTypes;
+import org.jetbrains.annotations.NotNull;
+
+@Entity
+@Cacheable
+@JsonInclude(JsonInclude.Include.NON_NULL)
+public class CBOMReadModel extends PanacheEntityBase implements IReadModel<UUID> {
+    @Id @Nonnull public UUID id;
+
+    @JsonProperty("gitUrl")
+    @Nonnull
+    protected String repository;
+
+    @JsonProperty("branch")
+    @Nullable protected String revision;
+
+    @Nullable protected String commit;
+    @Nonnull protected Timestamp createdAt;
+
+    @Nonnull
+    @JdbcTypeCode(SqlTypes.JSON)
+    protected JsonNode bom;
+
+    public CBOMReadModel(
+            @Nonnull UUID id,
+            @Nonnull String repository,
+            @Nullable String revision,
+            @Nullable String commit,
+            @Nonnull Timestamp createdAt,
+            @Nonnull JsonNode bom) {
+        this.id = id;
+        this.repository = repository;
+        this.revision = revision;
+        this.commit = commit;
+        this.createdAt = createdAt;
+        this.bom = bom;
+    }
+
+    protected CBOMReadModel() {}
+
+    @Override
+    public @NotNull UUID getId() {
+        return this.id;
+    }
+
+    @Nonnull
+    public String getRepository() {
+        return repository;
+    }
+
+    @Nullable public String getRevision() {
+        return revision;
+    }
+
+    @Nullable public String getCommit() {
+        return commit;
+    }
+
+    @Nonnull
+    public Timestamp getCreatedAt() {
+        return createdAt;
+    }
+
+    @Nonnull
+    public JsonNode getBom() {
+        return bom;
+    }
+}

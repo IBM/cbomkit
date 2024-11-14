@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/fillzpp/sys-info-rs
-  - pkg:rpm/fedora/rust-sys-info
-  - pkg:rpm/opensuse/rust-sys-info

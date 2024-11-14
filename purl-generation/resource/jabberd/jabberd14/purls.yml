@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/mawis/jabberd
-  - pkg:gitlab/jabberd/jabberd
-  - pkg:rpm/fedora/jabberd
-  - pkg:rpm/opensuse/jabberd

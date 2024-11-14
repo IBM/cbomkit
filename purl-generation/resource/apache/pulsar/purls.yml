@@ -1,5 +1,0 @@
-purls:
-  - pkg:apache/pulsar
-  - pkg:docker/apachepulsar/pulsar
-  - pkg:github/apache/pulsar
-  - pkg:maven/org.apache.pulsar/pulsar

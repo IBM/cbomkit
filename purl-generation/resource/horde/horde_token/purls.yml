@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/php-horde-token
-  - pkg:deb/ubuntu/php-horde-token
-  - pkg:github/horde/token
-  - pkg:rpm/fedora/php-horde-horde-token

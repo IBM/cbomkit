@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/kubernetes/kube-state-metrics
-  - pkg:rpm/opensuse/kube-state-metrics

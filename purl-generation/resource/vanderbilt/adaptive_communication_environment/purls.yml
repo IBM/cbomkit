@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/ace
-  - pkg:deb/ubuntu/ace
-  - pkg:github/psigen/ace
-  - pkg:rpm/opensuse/ace

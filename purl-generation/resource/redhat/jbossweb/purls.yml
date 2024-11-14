@@ -1,3 +1,0 @@
-purls:
-  - pkg:maven/jboss.web/jbossweb
-  - pkg:maven/org.jboss.web/jbossweb

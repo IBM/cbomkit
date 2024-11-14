@@ -1,3 +1,0 @@
-purls:
-  - pkg:apache/sling
-  - pkg:maven/org.apache.sling/org.apache.sling.xss.compat

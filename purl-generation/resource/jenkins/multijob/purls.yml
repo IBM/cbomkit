@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/jenkinsci/tikal-multijob-plugin
-  - pkg:maven/org.hudsonci.plugins/jenkins-multijob-plugin

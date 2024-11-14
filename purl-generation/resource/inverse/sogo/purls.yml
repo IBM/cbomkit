@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/sogo
-  - pkg:deb/ubuntu/sogo
-  - pkg:github/inverse-inc/sogo

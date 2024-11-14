@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/caolan/async
-  - pkg:maven/org.webjars.bowergithub.caolan/async
-  - pkg:maven/org.webjars.npm/async
-  - pkg:npm/async

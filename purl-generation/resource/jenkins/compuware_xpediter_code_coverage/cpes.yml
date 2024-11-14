@@ -1,8 +1,0 @@
-cpes:
-  - cpe:2.3:a:jenkins:compuware_xpediter_code_coverage:1.0.0:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:compuware_xpediter_code_coverage:1.0.2:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:compuware_xpediter_code_coverage:1.0.3:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:compuware_xpediter_code_coverage:1.0.4:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:compuware_xpediter_code_coverage:1.0.5:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:compuware_xpediter_code_coverage:1.0.7:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:compuware_xpediter_code_coverage:-:*:*:*:*:jenkins:*:*

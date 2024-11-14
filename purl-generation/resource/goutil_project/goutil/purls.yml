@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/gookit/goutil
-  - pkg:golang/gitee.com/gookit/goutil
-  - pkg:golang/github.com/gookit/goutil

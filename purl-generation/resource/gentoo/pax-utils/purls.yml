@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/pax-utils
-  - pkg:deb/ubuntu/pax-utils
-  - pkg:github/gentoo/pax-utils
-  - pkg:rpm/fedora/pax-utils
-  - pkg:rpm/opensuse/pax-utils

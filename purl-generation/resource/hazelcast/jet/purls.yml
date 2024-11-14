@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/hazelcast/hazelcast-jet
-  - pkg:github/hazelcast/hazelcast-jet
-  - pkg:golang/github.com/hazelcast/hazelcast-jet

@@ -1,9 +1,0 @@
-cpes:
-  - cpe:2.3:a:ubi_reader_project:ubi_reader:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:ubi_reader_project:ubi_reader:-:*:*:*:*:*:*:*
-  - cpe:2.3:a:ubi_reader_project:ubi_reader:0.5.0:*:*:*:*:*:*:*
-  - cpe:2.3:a:ubi_reader_project:ubi_reader:0.6.2:*:*:*:*:*:*:*
-  - cpe:2.3:a:ubi_reader_project:ubi_reader:0.6.3:*:*:*:*:*:*:*
-  - cpe:2.3:a:ubi_reader_project:ubi_reader:0.7.1:*:*:*:*:*:*:*
-  - cpe:2.3:a:ubi_reader_project:ubi_reader:0.7.2:*:*:*:*:*:*:*
-  - cpe:2.3:a:ubi_reader_project:ubi_reader:0.8.0:*:*:*:*:*:*:*

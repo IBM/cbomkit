@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/kde-runtime
-  - pkg:deb/ubuntu/kde-runtime
-  - pkg:docker/silvavlis/kde-runtime
-  - pkg:github/kde/kde-runtime
-  - pkg:rpm/fedora/kde-runtime

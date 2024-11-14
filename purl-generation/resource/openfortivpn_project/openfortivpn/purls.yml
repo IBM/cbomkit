@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/openfortivpn
-  - pkg:deb/ubuntu/openfortivpn
-  - pkg:github/adrienverge/openfortivpn
-  - pkg:rpm/fedora/openfortivpn
-  - pkg:rpm/opensuse/openfortivpn

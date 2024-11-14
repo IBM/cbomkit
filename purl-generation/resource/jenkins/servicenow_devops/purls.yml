@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/jenkinsci/servicenow-devops-plugin
-  - pkg:maven/io.jenkins.plugins/servicenow-devops

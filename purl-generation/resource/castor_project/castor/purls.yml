@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/castor
-  - pkg:deb/ubuntu/castor
-  - pkg:github/castor-data-binding/castor
-  - pkg:rpm/opensuse/castor

@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/s390-tools
-  - pkg:deb/ubuntu/s390-tools
-  - pkg:github/ibm-s390-linux/s390-tools
-  - pkg:rpm/opensuse/s390-tools

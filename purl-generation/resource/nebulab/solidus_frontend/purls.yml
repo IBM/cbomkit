@@ -1,4 +1,0 @@
-purls:
-  - pkg:gem/solidus
-  - pkg:github/nebulab/solidus
-  - pkg:github/solidusio/solidus

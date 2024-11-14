@@ -1,5 +1,0 @@
-purls:
-  - pkg:bitbucket/anthill-farm/zlog
-  - pkg:github/hardysimpson/zlog
-  - pkg:github/pythonfucku/zlog
-  - pkg:rpm/opensuse/zlog

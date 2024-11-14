@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/saltstack/salt
-  - pkg:rpm/fedora/salt
-  - pkg:rpm/opensuse/salt

@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/nuitka
-  - pkg:deb/ubuntu/nuitka
-  - pkg:docker/cdrx/nuitka
-  - pkg:github/nuitka/nuitka
-  - pkg:pypi/nuitka
-  - pkg:rpm/opensuse/python-nuitka

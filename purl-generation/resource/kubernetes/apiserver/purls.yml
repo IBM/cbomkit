@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/kubernetes/apiserver
-  - pkg:golang/github.com/kubernetes/apiserver

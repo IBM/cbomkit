@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:syracom:secure_login:*:*:*:*:*:jira:*:*
-  - cpe:2.3:a:syracom:secure_login:-:*:*:*:*:jira:*:*

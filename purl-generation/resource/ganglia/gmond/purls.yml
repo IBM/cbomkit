@@ -1,4 +1,0 @@
-purls:
-  - pkg:rpm/fedora/ganglia
-  - pkg:rpm/opensuse/ganglia
-  - pkg:sourceforge/ganglia

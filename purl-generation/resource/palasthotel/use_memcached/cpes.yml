@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:palasthotel:use_memcached:1.0.4:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:palasthotel:use_memcached:*:*:*:*:*:wordpress:*:*

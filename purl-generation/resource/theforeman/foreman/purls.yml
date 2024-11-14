@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/ruby-foreman
-  - pkg:deb/ubuntu/ruby-foreman
-  - pkg:gem/foreman
-  - pkg:github/theforeman/foreman
-  - pkg:rpm/opensuse/rubygem-foreman

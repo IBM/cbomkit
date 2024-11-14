@@ -1,3 +1,0 @@
-purls:
-  - pkg:gem/logrotate
-  - pkg:github/gentoo/puppet-logrotate

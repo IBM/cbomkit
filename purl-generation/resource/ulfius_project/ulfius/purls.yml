@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/ulfius
-  - pkg:deb/ubuntu/ulfius
-  - pkg:github/babelouest/ulfius
-  - pkg:rpm/opensuse/ulfius

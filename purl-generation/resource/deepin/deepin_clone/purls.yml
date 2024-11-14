@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/linuxdeepin/deepin-clone
-  - pkg:rpm/fedora/deepin-clone
-  - pkg:rpm/opensuse/deepin-clone

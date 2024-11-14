@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/robo-code/robocode
-  - pkg:maven/net.sf.robocode/robocode.core

@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/libavif
-  - pkg:deb/ubuntu/libavif
-  - pkg:github/aomediacodec/libavif
-  - pkg:rpm/fedora/libavif

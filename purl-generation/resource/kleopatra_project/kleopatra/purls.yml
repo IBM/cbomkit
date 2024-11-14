@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/kleopatra
-  - pkg:deb/ubuntu/kleopatra
-  - pkg:github/kde/kleopatra
-  - pkg:rpm/fedora/kleopatra
-  - pkg:rpm/opensuse/kleopatra

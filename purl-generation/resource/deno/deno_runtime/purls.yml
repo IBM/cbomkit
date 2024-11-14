@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/denoland/deno
-  - pkg:golang/github.com/denoland/deno

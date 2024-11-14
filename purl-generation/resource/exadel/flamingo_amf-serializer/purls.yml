@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/xhly/amf-serializer
-  - pkg:github/zerksud/amf-serializer
-  - pkg:maven/com.exadel.flamingo.flex/amf-serializer

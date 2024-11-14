@@ -1,5 +1,0 @@
-purls:
-  - pkg:bitbucket/veracrypt/veracrypt
-  - pkg:github/veracrypt/veracrypt
-  - pkg:rpm/opensuse/veracrypt
-  - pkg:sourceforge/veracrypt

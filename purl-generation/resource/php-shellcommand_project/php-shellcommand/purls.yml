@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/php-shellcommand
-  - pkg:deb/ubuntu/php-shellcommand
-  - pkg:github/mikehaertl/php-shellcommand

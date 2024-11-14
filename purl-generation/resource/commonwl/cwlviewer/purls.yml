@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/commonworkflowlanguage/cwlviewer
-  - pkg:github/common-workflow-language/cwlviewer

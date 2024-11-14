@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/kde/kde-workspace
-  - pkg:rpm/centos/kde-workspace
-  - pkg:rpm/fedora/kde-workspace
-  - pkg:rpm/opensuse/kde-workspace

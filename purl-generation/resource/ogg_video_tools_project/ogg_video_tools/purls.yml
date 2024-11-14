@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/oggvideotools
-  - pkg:deb/ubuntu/oggvideotools
-  - pkg:rpm/fedora/oggvideotools
-  - pkg:sourceforge/oggvideotools

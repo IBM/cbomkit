@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/rauc
-  - pkg:deb/ubuntu/rauc
-  - pkg:github/rauc/rauc

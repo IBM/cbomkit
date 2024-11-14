@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/epiphany-browser
-  - pkg:deb/ubuntu/epiphany-browser
-  - pkg:github/gnome/epiphany
-  - pkg:rpm/fedora/epiphany
-  - pkg:rpm/opensuse/epiphany

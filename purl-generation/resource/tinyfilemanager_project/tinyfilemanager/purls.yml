@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/tinyfilemanager/tinyfilemanager
-  - pkg:github/prasathmani/tinyfilemanager
-  - pkg:sourceforge/tinyphpfilemanager

@@ -1,5 +1,0 @@
-purls:
-  - pkg:bitbucket/rothpira/beego
-  - pkg:github/astaxie/beego
-  - pkg:github/beego/beego
-  - pkg:sourceforge/beego.mirror

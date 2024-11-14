@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/proj
-  - pkg:deb/ubuntu/proj
-  - pkg:github/osgeo/proj
-  - pkg:rpm/opensuse/proj

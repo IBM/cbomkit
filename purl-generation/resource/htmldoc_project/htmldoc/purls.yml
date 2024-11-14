@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/htmldoc
-  - pkg:deb/ubuntu/htmldoc
-  - pkg:github/michaelrsweet/htmldoc
-  - pkg:rpm/fedora/htmldoc
-  - pkg:rpm/opensuse/htmldoc

@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/swiftmailer/swiftmailer
-  - pkg:rpm/fedora/php-swiftmailer

@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/vde2
-  - pkg:deb/ubuntu/vde2
-  - pkg:github/virtualsquare/vde-2
-  - pkg:sourceforge/vde

@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/keepassx
-  - pkg:deb/ubuntu/keepassx
-  - pkg:github/keepassx/keepassx
-  - pkg:rpm/fedora/keepassx
-  - pkg:rpm/opensuse/keepassx

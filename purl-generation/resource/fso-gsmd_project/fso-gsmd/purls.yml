@@ -1,3 +1,0 @@
-purls:
-  - pkg:deb/debian/fso-gsmd
-  - pkg:github/slyon/debian-fso-gsmd

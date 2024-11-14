@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/strapi/strapi
-  - pkg:github/strapi/strapi
-  - pkg:npm/strapi

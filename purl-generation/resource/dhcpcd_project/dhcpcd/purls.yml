@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/dhcpcd5
-  - pkg:deb/ubuntu/dhcpcd5
-  - pkg:github/networkconfiguration/dhcpcd
-  - pkg:rpm/fedora/dhcpcd

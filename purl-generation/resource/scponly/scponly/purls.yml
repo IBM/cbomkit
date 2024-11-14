@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/scponly/scponly
-  - pkg:rpm/fedora/scponly
-  - pkg:rpm/opensuse/scponly
-  - pkg:sourceforge/scponly

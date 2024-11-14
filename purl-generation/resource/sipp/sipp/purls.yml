@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/ctaloi/sipp
-  - pkg:github/sipp/sipp
-  - pkg:sourceforge/sipp

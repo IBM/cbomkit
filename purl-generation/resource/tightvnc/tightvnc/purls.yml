@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/chenall/tightvnc
-  - pkg:github/landv/tightvnc
-  - pkg:github/markjandrews/tightvnc
-  - pkg:sourceforge/vnc-tight

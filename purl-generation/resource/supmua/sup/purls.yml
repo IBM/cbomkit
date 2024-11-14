@@ -1,5 +1,0 @@
-purls:
-  - pkg:gem/sup
-  - pkg:github/sup-heliotrope/sup
-  - pkg:rpm/fedora/rubygem-sup
-  - pkg:rpm/opensuse/rubygem-sup

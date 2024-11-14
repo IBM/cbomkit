@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/qemu
-  - pkg:deb/ubuntu/qemu
-  - pkg:github/opensuse/qemu
-  - pkg:github/xen-project/qemu-xen
-  - pkg:rpm/fedora/qemu

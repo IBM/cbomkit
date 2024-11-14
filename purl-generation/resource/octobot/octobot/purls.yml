@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/drakkarsoftware/octobot
-  - pkg:github/drakkar-software/octobot
-  - pkg:pypi/octobot
-  - pkg:sourceforge/octobot.mirror

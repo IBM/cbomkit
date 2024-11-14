@@ -1,6 +1,0 @@
-purls:
-  - pkg:github/distrotech/sysvinit
-  - pkg:github/qunixorg/sysvinit
-  - pkg:github/slicer69/sysvinit
-  - pkg:gitlab/kalilinux/sysvinit
-  - pkg:gnu/sysvinit

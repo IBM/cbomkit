@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/parallax/jspdf
-  - pkg:maven/org.webjars.npm/jspdf
-  - pkg:npm/jspdf
-  - pkg:sourceforge/jspdf.mirror

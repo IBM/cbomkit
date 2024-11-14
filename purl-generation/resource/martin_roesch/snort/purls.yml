@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/snort
-  - pkg:deb/ubuntu/snort
-  - pkg:github/threatstream/snort
-  - pkg:sourceforge/snort

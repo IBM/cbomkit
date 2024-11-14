@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/typestack/class-validator
-  - pkg:maven/org.webjars.npm/class-validator
-  - pkg:npm/class-validator

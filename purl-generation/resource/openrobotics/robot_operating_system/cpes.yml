@@ -1,9 +1,0 @@
-cpes:
-  - cpe:2.3:a:openrobotics:robot_operating_system:1:kinetic:*:*:*:*:*:*
-  - cpe:2.3:a:openrobotics:robot_operating_system:1:melodic:*:*:*:*:*:*
-  - cpe:2.3:a:openrobotics:robot_operating_system:1:noetic:*:*:*:*:*:*
-  - cpe:2.3:a:openrobotics:robot_operating_system:2:*:*:*:*:*:*:*
-  - cpe:2.3:a:openrobotics:robot_operating_system:2:dashing:*:*:*:*:*:*
-  - cpe:2.3:a:openrobotics:robot_operating_system:2:eloquent:*:*:*:*:*:*
-  - cpe:2.3:a:openrobotics:robot_operating_system:2:foxy:*:*:*:*:*:*
-  - cpe:2.3:o:openrobotics:robot_operating_system:-:*:*:*:*:*:*:*

@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/i2p
-  - pkg:deb/ubuntu/i2p
-  - pkg:github/i2p/i2p.i2p
-  - pkg:maven/net.i2p/i2p

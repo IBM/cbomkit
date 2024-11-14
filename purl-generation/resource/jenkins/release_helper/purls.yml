@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/inspectit-labs/release-plugin
-  - pkg:github/jenkinsci/release-helper-plugin

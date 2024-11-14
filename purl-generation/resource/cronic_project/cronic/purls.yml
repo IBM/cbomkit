@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/cronic
-  - pkg:deb/ubuntu/cronic
-  - pkg:github/dismantl/cronic
-  - pkg:rpm/opensuse/cronic

@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/shopify/koa-shopify-auth
-  - pkg:npm/%40shopify/koa-shopify-auth

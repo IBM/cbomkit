@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/ubuntu/virtualbmc
-  - pkg:github/openstack/virtualbmc
-  - pkg:pypi/virtualbmc
-  - pkg:rpm/fedora/python-virtualbmc
-  - pkg:rpm/opensuse/python-virtualbmc

@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/latexdraw
-  - pkg:deb/ubuntu/latexdraw
-  - pkg:github/latexdraw/latexdraw
-  - pkg:sourceforge/latexdraw

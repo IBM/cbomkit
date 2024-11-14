@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/kopano-webapp
-  - pkg:deb/ubuntu/kopano-webapp
-  - pkg:github/kopano-dev/kopano-webapp
-  - pkg:rpm/opensuse/kopano-webapp

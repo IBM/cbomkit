@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/tethik/flask-session-captcha
-  - pkg:pypi/flask-session-captcha

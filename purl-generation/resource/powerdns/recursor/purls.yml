@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/pdns-recursor
-  - pkg:deb/ubuntu/pdns-recursor
-  - pkg:github/powerdns/pdns
-  - pkg:rpm/fedora/pdns-recursor
-  - pkg:rpm/opensuse/pdns-recursor

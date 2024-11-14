@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/xgalaga
-  - pkg:deb/ubuntu/xgalaga
-  - pkg:rpm/opensuse/xgalaga
-  - pkg:sourceforge/xgalaga

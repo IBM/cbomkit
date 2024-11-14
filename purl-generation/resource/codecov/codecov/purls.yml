@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/codecov/codecov-node
-  - pkg:npm/codecov

@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/istio/istio
-  - pkg:googlesource/istio
-  - pkg:sourceforge/istio.mirror

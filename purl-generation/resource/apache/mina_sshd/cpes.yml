@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:apache:mina_sshd:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:apache:mina_sshd:2.2.0:*:*:*:*:*:*:*

@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/mongooseim/mongooseim
-  - pkg:github/esl/mongooseim

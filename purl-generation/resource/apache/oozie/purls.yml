@@ -1,4 +1,0 @@
-purls:
-  - pkg:apache/oozie
-  - pkg:github/apache/oozie
-  - pkg:maven/org.apache.oozie/oozie-core

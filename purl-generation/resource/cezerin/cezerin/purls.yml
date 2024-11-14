@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/cezerin/cezerin
-  - pkg:github/cezerin/cezerin
-  - pkg:npm/cezerin

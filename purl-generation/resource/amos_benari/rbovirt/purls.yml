@@ -1,4 +1,0 @@
-purls:
-  - pkg:gem/rbovirt
-  - pkg:github/abenari/rbovirt
-  - pkg:rpm/opensuse/rubygem-rbovirt

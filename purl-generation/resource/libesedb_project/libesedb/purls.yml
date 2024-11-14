@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/libesedb
-  - pkg:deb/ubuntu/libesedb
-  - pkg:github/libyal/libesedb
-  - pkg:rpm/fedora/libesedb
-  - pkg:rpm/opensuse/libesedb

@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/blueman
-  - pkg:deb/ubuntu/blueman
-  - pkg:github/blueman-project/blueman
-  - pkg:rpm/fedora/blueman
-  - pkg:rpm/opensuse/blueman

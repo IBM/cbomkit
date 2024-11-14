@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/ftpsync
-  - pkg:deb/ubuntu/ftpsync
-  - pkg:github/jeffwelling/ftpsync
-  - pkg:github/rgeissert/ftpsync

@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/jamesbarwell/rpi-gpio.js
-  - pkg:npm/rpi-gpio

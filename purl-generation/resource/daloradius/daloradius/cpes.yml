@@ -1,9 +1,0 @@
-cpes:
-  - cpe:2.3:a:daloradius:daloradius:-:*:*:*:*:*:*:*
-  - cpe:2.3:a:daloradius:daloradius:1.1-2:*:*:*:*:*:*:*
-  - cpe:2.3:a:daloradius:daloradius:1.1-3:*:*:*:*:*:*:*
-  - cpe:2.3:a:daloradius:daloradius:1.1-4:*:*:*:*:*:*:*
-  - cpe:2.3:a:daloradius:daloradius:1.1-5:*:*:*:*:*:*:*
-  - cpe:2.3:a:daloradius:daloradius:1.2:*:*:*:*:*:*:*
-  - cpe:2.3:a:daloradius:daloradius:1.3:*:*:*:*:*:*:*
-  - cpe:2.3:a:daloradius:daloradius:2023-01-17:*:*:*:*:*:*:*

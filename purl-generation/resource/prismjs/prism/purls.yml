@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/node-prismjs
-  - pkg:deb/ubuntu/node-prismjs
-  - pkg:github/prismjs/prism
-  - pkg:maven/org.webjars.bowergithub.prismjs/prism
-  - pkg:npm/prismjs

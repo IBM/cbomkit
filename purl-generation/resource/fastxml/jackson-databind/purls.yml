@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/fasterxml/jackson-databind
-  - pkg:maven/com.fasterxml.jackson.core/jackson-databind

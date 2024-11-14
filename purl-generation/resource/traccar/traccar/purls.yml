@@ -1,6 +1,0 @@
-purls:
-  - pkg:bitbucket/josedaudi/traccar
-  - pkg:docker/traccar/traccar
-  - pkg:github/traccar/traccar
-  - pkg:rpm/opensuse/traccar
-  - pkg:sourceforge/traccar

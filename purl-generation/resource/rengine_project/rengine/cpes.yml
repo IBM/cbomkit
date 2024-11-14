@@ -1,9 +1,0 @@
-cpes:
-  - cpe:2.3:a:rengine_project:rengine:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:rengine_project:rengine:-:*:*:*:*:*:*:*
-  - cpe:2.3:a:rengine_project:rengine:0.1:*:*:*:*:*:*:*
-  - cpe:2.3:a:rengine_project:rengine:0.2:*:*:*:*:*:*:*
-  - cpe:2.3:a:rengine_project:rengine:0.3:*:*:*:*:*:*:*
-  - cpe:2.3:a:rengine_project:rengine:0.5:*:*:*:*:*:*:*
-  - cpe:2.3:a:rengine_project:rengine:1.0.2:*:*:*:*:*:*:*
-  - cpe:2.3:a:rengine_project:rengine:1.3.0:*:*:*:*:*:*:*

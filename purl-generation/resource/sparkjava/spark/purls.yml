@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/perwendel/spark
-  - pkg:maven/com.sparkjava/spark-core

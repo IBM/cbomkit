@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/firefox-esr
-  - pkg:github/plasmazilla/firefox-esr
-  - pkg:npm/firefox-binary
-  - pkg:rpm/opensuse/firefox-esr

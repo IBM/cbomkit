@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/zopefoundation/zope
-  - pkg:pypi/zope
-  - pkg:sourceforge/zope

@@ -1,6 +1,0 @@
-cpes:
-  - cpe:2.3:a:jpeg:libjpeg:-:*:*:*:*:*:*:*
-  - cpe:2.3:a:jpeg:libjpeg:1.63:*:*:*:*:*:*:*
-  - cpe:2.3:a:jpeg:libjpeg:1.66:*:*:*:*:*:*:*
-  - cpe:2.3:a:jpeg:libjpeg:2020-02-01:*:*:*:*:*:*:*
-  - cpe:2.3:a:jpeg:libjpeg:2022-06-15:*:*:*:*:*:*:*

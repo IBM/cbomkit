@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/adamcin/crx-content-package-deployer
-  - pkg:github/jenkinsci/crx-content-package-deployer-plugin

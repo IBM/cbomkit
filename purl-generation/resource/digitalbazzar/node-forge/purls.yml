@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/digitalbazaar/forge
-  - pkg:golang/github.com/digitalbazaar/forge
-  - pkg:maven/org.webjars.bowergithub.digitalbazaar/forge
-  - pkg:npm/node-forge

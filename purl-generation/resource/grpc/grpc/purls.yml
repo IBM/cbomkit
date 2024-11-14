@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/grpc/grpc
-  - pkg:github/grpc/grpc-node
-  - pkg:maven/org.webjars.npm/grpc
-  - pkg:npm/%40grpc/grpc-js

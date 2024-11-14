@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/maradns
-  - pkg:deb/ubuntu/maradns
-  - pkg:github/samboy/maradns
-  - pkg:rpm/fedora/maradns
-  - pkg:sourceforge/maradns

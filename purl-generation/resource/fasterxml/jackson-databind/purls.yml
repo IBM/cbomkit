@@ -1,6 +1,0 @@
-purls:
-  - pkg:github/fasterxml/jackson-databind
-  - pkg:maven/com.fasterxml.jackson.core/jackson-databind
-  - pkg:maven/org.apache.fasterxml.jackson.core/jackson-databind
-  - pkg:rpm/fedora/jackson-databind
-  - pkg:rpm/opensuse/jackson-databind

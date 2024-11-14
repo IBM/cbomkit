@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/opensuse/leap
-  - pkg:opensuse/leap
-  - pkg:rpm/opensuse/leap-release

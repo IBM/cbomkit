@@ -1,6 +1,0 @@
-cpes:
-  - cpe:2.3:a:sonicjs:sonicjs:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:sonicjs:sonicjs:0.5.4:*:*:*:*:*:*:*
-  - cpe:2.3:a:sonicjs:sonicjs:0.6.0:*:*:*:*:*:*:*
-  - cpe:2.3:a:sonicjs:sonicjs:0.7.0:*:*:*:*:*:*:*
-  - cpe:2.3:a:sonicjs:sonicjs:*:*:*:*:*:node.js:*:*

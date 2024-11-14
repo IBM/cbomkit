@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/gnat-gps
-  - pkg:deb/ubuntu/gnat-gps
-  - pkg:github/adacore/gps
-  - pkg:sourceforge/gnat-gps

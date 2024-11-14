@@ -1,4 +1,0 @@
-purls:
-  - pkg:composer/dolibarr/dolibarr
-  - pkg:github/dolibarr/dolibarr
-  - pkg:sourceforge/dolibarr

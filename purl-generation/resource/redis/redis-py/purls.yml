@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/redis/redis-py
-  - pkg:pypi/redis-py

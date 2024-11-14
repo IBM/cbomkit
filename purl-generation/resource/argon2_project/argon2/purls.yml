@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/argon2
-  - pkg:deb/ubuntu/argon2
-  - pkg:github/p-h-c/phc-winner-argon2
-  - pkg:rpm/fedora/argon2

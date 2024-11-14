@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/woocommerce/woocommerce-gateway-stripe
-  - pkg:github/wp-plugins/stripe-for-woocommerce

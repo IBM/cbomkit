@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/jitsi/jitsi-meet
-  - pkg:rpm/opensuse/jitsi-meet
-  - pkg:sourceforge/jitsi-meet.mirror

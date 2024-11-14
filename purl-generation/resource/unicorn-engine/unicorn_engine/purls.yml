@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/google/oss-fuzz-vulns
-  - pkg:github/unicorn-engine/unicorn
-  - pkg:pypi/unicorn
-  - pkg:rpm/fedora/unicorn

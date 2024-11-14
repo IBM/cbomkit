@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/hyperledger/indy-node
-  - pkg:pypi/indy-node

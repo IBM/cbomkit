@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/mbixtech/observium
-  - pkg:maven/be.atbash.ee.security/octopus-server

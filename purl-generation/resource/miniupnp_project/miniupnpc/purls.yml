@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/miniupnpc
-  - pkg:deb/ubuntu/miniupnpc
-  - pkg:github/miniupnp/miniupnp
-  - pkg:rpm/fedora/miniupnpc
-  - pkg:rpm/opensuse/miniupnpc

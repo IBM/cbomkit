@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/ubuntu/python3-joblib
-  - pkg:github/joblib/joblib
-  - pkg:pypi/joblib
-  - pkg:rpm/fedora/python-joblib
-  - pkg:rpm/opensuse/python-joblib

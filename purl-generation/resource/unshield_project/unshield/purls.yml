@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/unshield
-  - pkg:deb/ubuntu/unshield
-  - pkg:github/twogood/unshield
-  - pkg:rpm/fedora/unshield
-  - pkg:rpm/opensuse/unshield

@@ -1,6 +1,0 @@
-cpes:
-  - cpe:2.3:a:twmap_project:twmap:-:*:*:*:*:*:*:*
-  - cpe:2.3:a:twmap_project:twmap:2.91_4.31:*:*:*:*:*:*:*
-  - cpe:2.3:a:twmap_project:twmap:2.91_4.33:*:*:*:*:*:*:*
-  - cpe:2.3:a:twmap_project:twmap:2.91_v4.33:*:*:*:*:*:*:*
-  - cpe:2.3:a:twmap_project:twmap:4.33:*:*:*:*:*:*:*

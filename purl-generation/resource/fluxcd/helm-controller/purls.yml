@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/fluxcd/helm-controller
-  - pkg:github/fluxcd/helm-controller

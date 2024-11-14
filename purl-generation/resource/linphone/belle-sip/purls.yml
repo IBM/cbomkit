@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/belle-sip
-  - pkg:deb/ubuntu/belle-sip
-  - pkg:github/belledonnecommunications/belle-sip
-  - pkg:rpm/fedora/belle-sip
-  - pkg:rpm/opensuse/belle-sip

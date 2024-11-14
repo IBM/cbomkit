@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/gephi/gephi
-  - pkg:maven/org.gephi/gephi
-  - pkg:maven/org.gephi/gephi-parent
-  - pkg:sourceforge/gephi.mirror

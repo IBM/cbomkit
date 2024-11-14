@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/libgc
-  - pkg:deb/ubuntu/libgc
-  - pkg:github/ivmai/bdwgc
-  - pkg:rpm/opensuse/libgc1

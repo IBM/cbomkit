@@ -1,3 +1,0 @@
-purls:
-  - pkg:gem/update_by_case
-  - pkg:github/camilova/activerecord-update-by-case

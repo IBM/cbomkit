@@ -1,5 +1,0 @@
-purls:
-  - pkg:cpan/flif
-  - pkg:deb/debian/flif
-  - pkg:github/flif-hub/flif
-  - pkg:rpm/opensuse/flif

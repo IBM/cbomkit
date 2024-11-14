@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/nestjs/nest
-  - pkg:npm/@nestjs/core

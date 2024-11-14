@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/pagure
-  - pkg:deb/ubuntu/pagure
-  - pkg:github/pagure/pagure
-  - pkg:rpm/fedora/pagure
-  - pkg:rpm/opensuse/pagure

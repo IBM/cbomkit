@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/dgen
-  - pkg:deb/ubuntu/dgen
-  - pkg:github/clbr/dgen
-  - pkg:sourceforge/dgen

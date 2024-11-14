@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/boostorg/regex
-  - pkg:golang/github.com/boostorg/regex

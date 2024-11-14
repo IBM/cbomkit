@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/webrecorder/pywb
-  - pkg:github/webrecorder/pywb
-  - pkg:pypi/pywb

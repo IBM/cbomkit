@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/tianon/signal-desktop
-  - pkg:github/signalapp/signal-desktop
-  - pkg:sourceforge/signal-desktop.mirror

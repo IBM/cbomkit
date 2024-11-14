@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/kgb
-  - pkg:deb/ubuntu/kgb
-  - pkg:github/randallflagg/kgbarchiver
-  - pkg:sourceforge/kgbarchiver

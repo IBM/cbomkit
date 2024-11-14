@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/codenameone/codenameone
-  - pkg:golang/github.com/codenameone/codenameone
-  - pkg:maven/com.codenameone/codenameone

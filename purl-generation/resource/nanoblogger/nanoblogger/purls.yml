@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/nanoblogger
-  - pkg:deb/ubuntu/nanoblogger
-  - pkg:github/milki/nanoblogger
-  - pkg:rpm/opensuse/nanoblogger
-  - pkg:sourceforge/nanoblogger

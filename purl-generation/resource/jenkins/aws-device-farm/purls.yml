@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/awslabs/aws-device-farm-jenkins-plugin
-  - pkg:github/jenkinsci/aws-device-farm-plugin

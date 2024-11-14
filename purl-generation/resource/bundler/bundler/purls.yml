@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/bundler
-  - pkg:deb/ubuntu/bundler
-  - pkg:gem/bundler
-  - pkg:github/rubygems/bundler
-  - pkg:rpm/fedora/rubygem-bundler

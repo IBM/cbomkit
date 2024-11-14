@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/flakrat/repo_epel
-  - pkg:rpm/fedora/epel-release

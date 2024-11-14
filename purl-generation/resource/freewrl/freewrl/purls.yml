@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/christian-sahlmann/freewrl
-  - pkg:rpm/fedora/freewrl
-  - pkg:rpm/opensuse/freewrl
-  - pkg:sourceforge/freewrl

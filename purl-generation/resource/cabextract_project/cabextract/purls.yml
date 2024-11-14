@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/cabextract
-  - pkg:deb/ubuntu/cabextract
-  - pkg:github/kyz/libmspack
-  - pkg:rpm/fedora/cabextract
-  - pkg:rpm/opensuse/cabextract

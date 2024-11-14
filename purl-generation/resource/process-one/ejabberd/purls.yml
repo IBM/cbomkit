@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/ejabberd
-  - pkg:deb/ubuntu/ejabberd
-  - pkg:github/processone/ejabberd
-  - pkg:rpm/fedora/ejabberd
-  - pkg:rpm/opensuse/ejabberd

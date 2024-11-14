@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/ppetr/xlockmore
-  - pkg:github/zevlg/xlockmore
-  - pkg:rpm/fedora/xlockmore
-  - pkg:rpm/opensuse/xlockmore

@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/riscv-software-src/riscv-isa-sim
-  - pkg:rpm/opensuse/riscv-isa-sim

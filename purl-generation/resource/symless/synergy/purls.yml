@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/synergy
-  - pkg:deb/ubuntu/synergy
-  - pkg:github/symless/synergy-core
-  - pkg:rpm/fedora/synergy
-  - pkg:rpm/opensuse/synergy
-  - pkg:sourceforge/synergy-core.mirror

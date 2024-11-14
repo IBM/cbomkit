@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/enhavo/enhavo
-  - pkg:github/enhavo/enhavo
-  - pkg:npm/%40enhavo/core

@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/centreon/centreon
-  - pkg:rpm/opensuse/centreon-web

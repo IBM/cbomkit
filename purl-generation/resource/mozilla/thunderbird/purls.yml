@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/thunderbird
-  - pkg:mozilla/comm-central
-  - pkg:rpm/fedora/thunderbird
-  - pkg:rpm/opensuse/mozillathunderbird

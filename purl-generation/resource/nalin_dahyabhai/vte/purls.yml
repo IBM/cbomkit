@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/vte
-  - pkg:deb/ubuntu/vte
-  - pkg:github/gnome/vte
-  - pkg:rpm/fedora/vte
-  - pkg:rpm/opensuse/vte

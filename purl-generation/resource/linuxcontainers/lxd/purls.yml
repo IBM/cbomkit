@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/lxd
-  - pkg:deb/ubuntu/lxd
-  - pkg:github/lxc/lxd
-  - pkg:rpm/opensuse/lxd

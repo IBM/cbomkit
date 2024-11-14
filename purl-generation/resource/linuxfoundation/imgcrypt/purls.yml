@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/containerd/imgcrypt
-  - pkg:golang/github.com/containerd/imgcrypt

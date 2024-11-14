@@ -1,8 +1,0 @@
-purls:
-  - pkg:deb/debian/make-dfsg
-  - pkg:deb/ubuntu/make-dfsg
-  - pkg:github/mirror/make
-  - pkg:gnu/make
-  - pkg:rpm/centos/make
-  - pkg:rpm/fedora/make
-  - pkg:rpm/opensuse/make

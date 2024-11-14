@@ -1,4 +1,0 @@
-cpes:
-  - cpe:2.3:a:twitter:recommendation_algorithm:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:twitter:recommendation_algorithm:-:*:*:*:*:*:*:*
-  - cpe:2.3:a:twitter:recommendation_algorithm:2023-03-31:*:*:*:*:*:*:*

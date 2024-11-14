@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/php-horde-view
-  - pkg:deb/ubuntu/php-horde-view
-  - pkg:github/horde/view
-  - pkg:rpm/fedora/php-horde-horde-view

@@ -1,4 +1,0 @@
-purls:
-  - pkg:pypi/pyxml
-  - pkg:rpm/fedora/pyxml
-  - pkg:sourceforge/pyxml

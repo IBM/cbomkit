@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/nodejs
-  - pkg:deb/ubuntu/nodejs
-  - pkg:github/nodejs/node
-  - pkg:rpm/fedora/nodejs

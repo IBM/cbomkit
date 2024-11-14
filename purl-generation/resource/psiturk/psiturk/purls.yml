@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/adamliter/psiturk
-  - pkg:github/nyuccl/psiturk
-  - pkg:pypi/psiturk

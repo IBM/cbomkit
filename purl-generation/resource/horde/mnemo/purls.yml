@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/php-horde-mnemo
-  - pkg:deb/ubuntu/php-horde-mnemo
-  - pkg:github/horde/mnemo
-  - pkg:rpm/fedora/php-horde-mnemo
-  - pkg:rpm/opensuse/php-horde-mnemo

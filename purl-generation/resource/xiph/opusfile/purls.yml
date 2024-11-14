@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/xiph/opusfile
-  - pkg:golang/github.com/xiph/opusfile
-  - pkg:rpm/fedora/opusfile
-  - pkg:rpm/opensuse/opusfile

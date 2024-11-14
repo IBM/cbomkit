@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/jeremie-koenig/hurd
-  - pkg:github/joshumax/hurd
-  - pkg:github/projectgnu/hurd
-  - pkg:gnu/hurd

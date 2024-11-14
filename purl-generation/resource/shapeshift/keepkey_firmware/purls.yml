@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/greatwoif/keepkey-firmware
-  - pkg:github/greatwolf/keepkey-firmware
-  - pkg:github/keepkey/keepkey-firmware

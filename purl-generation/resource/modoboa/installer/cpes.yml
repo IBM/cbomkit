@@ -1,4 +1,0 @@
-cpes:
-  - cpe:2.3:a:modoboa:installer:2.0.3:*:*:*:*:modoboa:*:*
-  - cpe:2.3:a:modoboa:installer:*:*:*:*:*:modoboa:*:*
-  - cpe:2.3:a:modoboa:installer:-:*:*:*:*:modoboa:*:*

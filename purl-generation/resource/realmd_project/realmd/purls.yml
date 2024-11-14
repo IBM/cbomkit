@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/realmd
-  - pkg:deb/ubuntu/realmd
-  - pkg:gitlab/redhat/realmd
-  - pkg:rpm/fedora/realmd
-  - pkg:rpm/opensuse/realmd

@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/mbentley/omada-controller
-  - pkg:github/mbentley/docker-omada-controller

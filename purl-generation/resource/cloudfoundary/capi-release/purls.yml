@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/cloudfoundry/capi-release
-  - pkg:golang/github.com/cloudfoundry/capi-release

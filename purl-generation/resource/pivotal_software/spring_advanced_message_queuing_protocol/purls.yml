@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/spring-projects/spring-amqp
-  - pkg:maven/org.springframework.amqp/spring-amqp

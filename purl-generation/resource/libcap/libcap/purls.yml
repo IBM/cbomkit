@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/mhiramat/libcap
-  - pkg:gitlab/redhat/libcap
-  - pkg:rpm/fedora/libcap
-  - pkg:rpm/opensuse/libcap

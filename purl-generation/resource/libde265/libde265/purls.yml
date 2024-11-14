@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/strukturag/libde265
-  - pkg:golang/github.com/strukturag/libde265
-  - pkg:rpm/opensuse/libde265

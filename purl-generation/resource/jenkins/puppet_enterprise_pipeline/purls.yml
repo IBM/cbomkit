@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/jenkinsci/puppet-enterprise-pipeline-plugin
-  - pkg:github/puppetlabs/jenkins-pipeline-puppet-enterprise-plugin

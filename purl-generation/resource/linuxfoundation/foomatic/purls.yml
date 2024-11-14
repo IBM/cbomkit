@@ -1,5 +1,0 @@
-purls:
-  - pkg:gitlab/redhat/foomatic
-  - pkg:rpm/centos/foomatic
-  - pkg:rpm/fedora/foomatic
-  - pkg:rpm/opensuse/foomatic

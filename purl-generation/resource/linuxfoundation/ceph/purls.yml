@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/ceph
-  - pkg:deb/ubuntu/ceph
-  - pkg:github/ceph/ceph
-  - pkg:rpm/fedora/ceph
-  - pkg:rpm/opensuse/ceph

@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/node-object-path
-  - pkg:deb/ubuntu/node-object-path
-  - pkg:github/mariocasciaro/object-path
-  - pkg:maven/org.webjars.npm/object-path
-  - pkg:npm/object-path

@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/tafia/calamine
-  - pkg:rpm/opensuse/rust-calamine

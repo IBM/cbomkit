@@ -1,4 +1,0 @@
-cpes:
-  - cpe:2.3:a:riscv:spike_risc-v_isa_simulator:-:*:*:*:*:*:*:*
-  - cpe:2.3:a:riscv:spike_risc-v_isa_simulator:1.0.0:*:*:*:*:*:*:*
-  - cpe:2.3:a:riscv:spike_risc-v_isa_simulator:1.1.0:*:*:*:*:*:*:*

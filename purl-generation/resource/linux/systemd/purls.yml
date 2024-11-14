@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/systemd
-  - pkg:deb/ubuntu/systemd
-  - pkg:github/systemd/systemd
-  - pkg:rpm/opensuse/systemd
-  - pkg:sourceforge/systemd.mirror

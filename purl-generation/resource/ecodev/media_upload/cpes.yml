@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:ecodev:media_upload:*:*:*:*:*:typo3:*:*
-  - cpe:2.3:a:ecodev:media_upload:-:*:*:*:*:typo3:*:*

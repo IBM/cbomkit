@@ -1,7 +1,0 @@
-cpes:
-  - cpe:2.3:a:unzip_project:unzip:1.0.3-0.20200308084313-2adbaa4891b9:*:*:*:*:go:*:*
-  - cpe:2.3:a:unzip_project:unzip:5.51:*:*:*:*:*:*:*
-  - cpe:2.3:a:unzip_project:unzip:5.52:*:*:*:*:*:*:*
-  - cpe:2.3:a:unzip_project:unzip:6.0:*:*:*:*:*:*:*
-  - cpe:2.3:a:unzip_project:unzip:*:*:*:*:*:go:*:*
-  - cpe:2.3:a:unzip_project:unzip:-:*:*:*:*:go:*:*

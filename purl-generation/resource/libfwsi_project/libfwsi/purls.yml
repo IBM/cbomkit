@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/libfwsi
-  - pkg:deb/ubuntu/libfwsi
-  - pkg:github/libyal/libfwsi
-  - pkg:pypi/libfwsi
-  - pkg:rpm/opensuse/libfwsi

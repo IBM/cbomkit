@@ -1,4 +1,0 @@
-purls:
-  - pkg:bitbucket/tmbridge/backdrop
-  - pkg:docker/backdrop
-  - pkg:github/backdrop/backdrop

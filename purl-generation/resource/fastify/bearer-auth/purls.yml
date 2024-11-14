@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/fastify/fastify-bearer-auth
-  - pkg:npm/%40fastify/bearer-auth

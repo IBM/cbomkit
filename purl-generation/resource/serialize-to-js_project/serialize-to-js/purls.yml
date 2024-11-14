@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/commenthol/serialize-to-js
-  - pkg:maven/org.webjars.npm/serialize-to-js
-  - pkg:npm/serialize-to-js

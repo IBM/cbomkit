@@ -1,4 +1,0 @@
-purls:
-  - pkg:composer/pagekit/pagekit
-  - pkg:docker/pagekit/pagekit
-  - pkg:github/pagekit/pagekit

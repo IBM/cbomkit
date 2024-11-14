@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/ruby-extlib
-  - pkg:deb/ubuntu/ruby-extlib
-  - pkg:gem/extlib
-  - pkg:github/datamapper/extlib
-  - pkg:rpm/opensuse/rubygem-extlib

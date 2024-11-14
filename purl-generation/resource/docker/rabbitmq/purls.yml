@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/rabbitmq
-  - pkg:github/docker-library/rabbitmq
-  - pkg:golang/github.com/docker-library/rabbitmq

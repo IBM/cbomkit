@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/okta/okta-oidc-middleware
-  - pkg:npm/@okta/oidc-middleware

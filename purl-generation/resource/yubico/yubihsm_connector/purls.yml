@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/yubico/yubihsm-connector
-  - pkg:rpm/fedora/yubihsm-connector

@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/svgsalamander
-  - pkg:deb/ubuntu/svgsalamander
-  - pkg:github/blackears/svgsalamander
-  - pkg:rpm/fedora/svgsalamander

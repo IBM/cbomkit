@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/drothlis/gstreamer
-  - pkg:rpm/centos/gstreamer
-  - pkg:rpm/Fedora/gstreamer1
-  - pkg:rpm/opensuse/gstreamer

@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/rust-vmm/crate-template
-  - pkg:github/rust-vmm/vm-superio

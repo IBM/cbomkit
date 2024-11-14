@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/mdadm
-  - pkg:deb/ubuntu/mdadm
-  - pkg:github/neilbrown/mdadm
-  - pkg:rpm/fedora/mdadm
-  - pkg:rpm/opensuse/mdadm

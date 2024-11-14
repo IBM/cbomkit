@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/nvbn/thefuck
-  - pkg:golang/github.com/nvbn/thefuck
-  - pkg:pypi/thefuck

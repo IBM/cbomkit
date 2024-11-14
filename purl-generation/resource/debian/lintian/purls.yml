@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/lintian
-  - pkg:deb/ubuntu/lintian
-  - pkg:github/debian/lintian

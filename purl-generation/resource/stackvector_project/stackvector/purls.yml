@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/rust-stackvector
-  - pkg:deb/ubuntu/rust-stackvector
-  - pkg:github/Alexhuszagh/rust-stackvector

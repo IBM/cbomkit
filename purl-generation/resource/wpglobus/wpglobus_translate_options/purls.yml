@@ -1,4 +1,0 @@
-purls:
-  - pkg:composer/wpglobus/wpglobus-translate-options
-  - pkg:github/wpglobus/wpglobus-translate-options
-  - pkg:github/wp-plugins/wpglobus-translate-options

@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/estebanmonge/nagiosql
-  - pkg:github/luckfbo/nagiosql
-  - pkg:rpm/opensuse/nagiosql
-  - pkg:sourceforge/nagiosql

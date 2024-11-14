@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/snapcore/snapcraft
-  - pkg:golang/github.com/snapcore/snapcraft
-  - pkg:pypi/snapcraft

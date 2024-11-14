@@ -1,4 +1,0 @@
-purls:
-  - pkg:gem/jubatus
-  - pkg:github/jubatus/jubatus
-  - pkg:pypi/jubatus

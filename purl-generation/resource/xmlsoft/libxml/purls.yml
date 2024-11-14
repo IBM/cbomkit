@@ -1,8 +1,0 @@
-purls:
-  - pkg:deb/debian/libxml++2.6
-  - pkg:deb/ubuntu/libxml++2.6
-  - pkg:gitlab/gnome/libxml2
-  - pkg:maven/com.viliussutkus89.licenseonly/libxml
-  - pkg:nuget/libxml2
-  - pkg:rpm/opensuse/libxml++
-  - pkg:sourceforge/libxml26wrapper

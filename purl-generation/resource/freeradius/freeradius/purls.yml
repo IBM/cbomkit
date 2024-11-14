@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/freeradius
-  - pkg:deb/ubuntu/freeradius
-  - pkg:github/freeradius/freeradius-server
-  - pkg:gitlab/redhat/freeradius
-  - pkg:rpm/fedora/freeradius

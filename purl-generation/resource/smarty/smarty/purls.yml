@@ -1,5 +1,0 @@
-purls:
-  - pkg:composer/smarty/smarty
-  - pkg:github/smarty-php/smarty
-  - pkg:rpm/fedora/smarty
-  - pkg:rpm/opensuse/smarty

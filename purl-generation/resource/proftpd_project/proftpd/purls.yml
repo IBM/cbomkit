@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/proftpd/proftpd
-  - pkg:golang/github.com/proftpd/proftpd

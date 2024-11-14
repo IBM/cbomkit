@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/python-bugzilla
-  - pkg:deb/ubuntu/python-bugzilla
-  - pkg:github/python-bugzilla/python-bugzilla
-  - pkg:pypi/python-bugzilla
-  - pkg:rpm/fedora/python-bugzilla
-  - pkg:rpm/opensuse/python-bugzilla

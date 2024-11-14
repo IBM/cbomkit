@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/snowflakedb/snowflake-connector-python
-  - pkg:pypi/snowflake-connector-python

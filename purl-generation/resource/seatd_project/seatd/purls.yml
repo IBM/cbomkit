@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/seatd
-  - pkg:deb/ubuntu/seatd
-  - pkg:github/kennylevinsen/seatd
-  - pkg:rpm/fedora/seatd
-  - pkg:rpm/opensuse/seatd

@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/hapijs/cryptiles
-  - pkg:github/vadimdemedes/secure-compare
-  - pkg:npm/secure-compare

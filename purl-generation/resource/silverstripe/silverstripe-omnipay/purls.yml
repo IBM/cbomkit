@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/silverstripe/silverstripe-omnipay
-  - pkg:github/thephpleague/omnipay
-  - pkg:sourceforge/omnipay.mirror

@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/pyjwt
-  - pkg:deb/ubuntu/pyjwt
-  - pkg:github/jpadilla/pyjwt
-  - pkg:pypi/pyjwt
-  - pkg:rpm/opensuse/python-pyjwt

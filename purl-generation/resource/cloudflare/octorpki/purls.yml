@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/cfrpki
-  - pkg:deb/ubuntu/cfrpki
-  - pkg:github/cloudflare/cfrpki

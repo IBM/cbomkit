@@ -1,4 +1,0 @@
-cpes:
-  - cpe:2.3:a:django-cms:django_cms:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:django-cms:django_cms:3.0.13:*:*:*:*:*:*:*
-  - cpe:2.3:a:django-cms:django_cms:3.1:*:*:*:*:*:*:*

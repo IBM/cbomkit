@@ -1,4 +1,0 @@
-cpes:
-  - cpe:2.3:a:webbax:myinventory:1.6.6:*:*:*:*:prestashop:*:*
-  - cpe:2.3:a:webbax:myinventory:*:*:*:*:*:prestashop:*:*
-  - cpe:2.3:a:webbax:myinventory:-:*:*:*:*:prestashop:*:*

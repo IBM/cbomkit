@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/needrestart
-  - pkg:deb/ubuntu/needrestart
-  - pkg:github/liske/needrestart
-  - pkg:rpm/fedora/needrestart
-  - pkg:rpm/opensuse/needrestart

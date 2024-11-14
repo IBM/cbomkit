@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/hexpm/hex_core
-  - pkg:rpm/fedora/erlang-hex_core

@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/puppet-module-puppetlabs-apache
-  - pkg:deb/ubuntu/puppet-module-puppetlabs-apache
-  - pkg:github/puppetlabs/puppetlabs-apache
-  - pkg:gitlab/simp/puppetlabs-apache

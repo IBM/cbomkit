@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/cyberark/conjur-credentials-plugin
-  - pkg:github/jenkinsci/conjur-credentials-plugin

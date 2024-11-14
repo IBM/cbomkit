@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/jortel/gofer
-  - pkg:rpm/fedora/gofer
-  - pkg:rpm/opensuse/gofer

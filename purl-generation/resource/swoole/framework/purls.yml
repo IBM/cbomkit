@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/phpswoole/swoole
-  - pkg:gitee/swoole/swoole_framework
-  - pkg:github/swoole/swoole-src
-  - pkg:sourceforge/swoole.mirror

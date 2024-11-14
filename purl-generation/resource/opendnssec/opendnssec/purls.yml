@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/opendnssec/opendnssec
-  - pkg:gitlab/redhat/opendnssec
-  - pkg:rpm/fedora/opendnssec
-  - pkg:rpm/opensuse/opendnssec

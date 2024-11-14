@@ -1,3 +1,0 @@
-purls:
-  - pkg:deb/debian/libav-tools
-  - pkg:github/libav/libav

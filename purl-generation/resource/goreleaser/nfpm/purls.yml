@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/goreleaser/nfpm
-  - pkg:golang/github.com/goreleaser/nfpm

@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/caribou
-  - pkg:deb/ubuntu/caribou
-  - pkg:github/gnome/caribou
-  - pkg:rpm/fedora/caribou
-  - pkg:rpm/opensuse/caribou

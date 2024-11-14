@@ -1,4 +1,0 @@
-purls:
-  - pkg:apache/continuum
-  - pkg:github/apache/continuum
-  - pkg:maven/org.apache.continuum/continuum

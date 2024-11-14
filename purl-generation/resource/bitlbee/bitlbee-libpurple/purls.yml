@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/bitlbee
-  - pkg:deb/ubuntu/bitlbee
-  - pkg:docker/ezkrg/bitlbee-libpurple
-  - pkg:github/ezkrg/docker-bitlbee-libpurple

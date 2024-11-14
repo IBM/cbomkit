@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/ihatemoney/ihatemoney
-  - pkg:github/spiral-project/ihatemoney
-  - pkg:pypi/ihatemoney

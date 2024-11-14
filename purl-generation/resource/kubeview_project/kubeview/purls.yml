@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/benc-uk/kubeview
-  - pkg:golang/github.com/benc-uk/kubeview

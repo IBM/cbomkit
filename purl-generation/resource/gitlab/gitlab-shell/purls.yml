@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/gitlab-shell
-  - pkg:deb/ubuntu/gitlab-shell
-  - pkg:github/gitlabhq/gitlab-shell
-  - pkg:gitlab/gitlab-org/gitlab-shell
-  - pkg:rpm/opensuse/gitlab-shell

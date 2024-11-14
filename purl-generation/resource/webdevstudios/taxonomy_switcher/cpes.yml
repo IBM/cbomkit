@@ -1,6 +1,0 @@
-cpes:
-  - cpe:2.3:a:webdevstudios:taxonomy_switcher:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:webdevstudios:taxonomy_switcher:1.0.0:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:webdevstudios:taxonomy_switcher:1.0.1:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:webdevstudios:taxonomy_switcher:*:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:webdevstudios:taxonomy_switcher:-:*:*:*:*:wordpress:*:*

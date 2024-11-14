@@ -1,5 +1,0 @@
-cpes:
-  - cpe:2.3:a:oneidentity:syslog-ng_store_box:*:*:*:*:-:*:*:*
-  - cpe:2.3:a:oneidentity:syslog-ng_store_box:-:*:*:*:-:*:*:*
-  - cpe:2.3:a:oneidentity:syslog-ng_store_box:*:*:*:*:lts:*:*:*
-  - cpe:2.3:a:oneidentity:syslog-ng_store_box:-:*:*:*:lts:*:*:*

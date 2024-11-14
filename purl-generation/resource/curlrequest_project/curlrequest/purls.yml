@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/node-js-libs/curlrequest
-  - pkg:npm/curlrequest

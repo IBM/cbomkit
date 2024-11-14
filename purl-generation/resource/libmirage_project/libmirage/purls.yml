@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/cdemu/cdemu
-  - pkg:rpm/fedora/libmirage
-  - pkg:rpm/opensuse/libmirage
-  - pkg:sourceforge/cdemu

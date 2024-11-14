@@ -1,4 +1,0 @@
-cpes:
-  - cpe:2.3:a:debian:mit_kerberos:-:*:*:*:*:*:*:*
-  - cpe:2.3:a:debian:mit_kerberos:4:*:*:*:*:*:*:*
-  - cpe:2.3:a:debian:mit_kerberos:5.1.2.4:*:*:*:*:*:*:*

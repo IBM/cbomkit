@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/ircd-hybrid
-  - pkg:deb/ubuntu/ircd-hybrid
-  - pkg:github/ircd-hybrid/ircd-hybrid

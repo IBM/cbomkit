@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:jenkins:docker_swarm:1.11:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:docker_swarm:*:*:*:*:*:jenkins:*:*

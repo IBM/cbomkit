@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/cgroupfs-mount
-  - pkg:deb/ubuntu/cgroupfs-mount
-  - pkg:github/tianon/cgroupfs-mount

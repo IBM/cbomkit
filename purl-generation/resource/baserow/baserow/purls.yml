@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/baserow/baserow
-  - pkg:github/bram2w/baserow
-  - pkg:gitlab/bramw/baserow

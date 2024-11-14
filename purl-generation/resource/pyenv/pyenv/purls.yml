@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/pyenv/pyenv
-  - pkg:pypi/pyenv
-  - pkg:rpm/opensuse/pyenv
-  - pkg:sourceforge/pyenv.mirror

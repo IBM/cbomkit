@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/hashicorp/waypoint
-  - pkg:github/hashicorp/waypoint
