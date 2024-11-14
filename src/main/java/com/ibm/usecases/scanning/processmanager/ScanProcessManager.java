@@ -48,7 +48,6 @@ import com.ibm.usecases.scanning.errors.GitCloneResultNotAvailable;
 import com.ibm.usecases.scanning.errors.NoCommitProvided;
 import com.ibm.usecases.scanning.errors.NoIndexForProject;
 import com.ibm.usecases.scanning.errors.NoProjectDirectoryProvided;
-import com.ibm.usecases.scanning.errors.ScanCleanUpOnErrorFailed;
 import com.ibm.usecases.scanning.services.git.CloneResultDTO;
 import com.ibm.usecases.scanning.services.git.GitService;
 import com.ibm.usecases.scanning.services.indexing.JavaIndexService;
@@ -103,11 +102,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
     }
 
     private void handleCloneGitRepositoryCommand(@Nonnull CloneGitRepositoryCommand command)
-            throws EntityNotFoundById,
-                    GitCloneFailed,
-                    CommitHashAlreadyExists,
-                    ScanCleanUpOnErrorFailed,
-                    ClientDisconnected {
+            throws EntityNotFoundById, GitCloneFailed, CommitHashAlreadyExists, ClientDisconnected {
         if (this.scanId != command.id()) {
             return;
         }
@@ -151,10 +146,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
     }
 
     private void handleIndexModulesCommand(@Nonnull IndexModulesCommand command)
-            throws EntityNotFoundById,
-                    GitCloneResultNotAvailable,
-                    ScanCleanUpOnErrorFailed,
-                    ClientDisconnected {
+            throws EntityNotFoundById, GitCloneResultNotAvailable, ClientDisconnected {
         if (this.scanId != command.id()) {
             return;
         }
@@ -193,7 +185,6 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                     NoIndexForProject,
                     NoCommitProvided,
                     ScanResultForLanguageAlreadyExists,
-                    ScanCleanUpOnErrorFailed,
                     ClientDisconnected,
                     CBOMSerializationFailed {
         if (this.scanId != command.id()) {
@@ -320,14 +311,18 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
     }
 
     @Override
-    public void compensate(@Nonnull ScanId id) throws ScanCleanUpOnErrorFailed {
-        try {
-            // unregister process manager
-            this.commandBus.remove(this);
-            // remove cloned repo
-            FileUtils.deleteDirectory(Optional.ofNullable(this.projectDirectory).orElseThrow());
-        } catch (Exception e) {
-            throw new ScanCleanUpOnErrorFailed(e);
-        }
+    public void compensate(@Nonnull ScanId id) {
+        // unregister process manager
+        this.commandBus.remove(this);
+        // remove cloned repo
+        Optional.ofNullable(this.projectDirectory)
+                .ifPresent(
+                        dir -> {
+                            try {
+                                FileUtils.deleteDirectory(dir);
+                            } catch (Exception ignored) {
+                                // ignore
+                            }
+                        });
     }
 }
