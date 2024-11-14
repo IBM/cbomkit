@@ -4,7 +4,7 @@ import { checkValidComplianceResults, createLocalComplianceReport, isViewerOnly 
 
 
 export function fetchLastCboms(number) {
-  let apiUrl = `${API_LAST_CBOM_URL}?limit=${number}`;
+  let apiUrl = `${API_LAST_CBOM_URL}/${number}`;
   fetchDataFromApi(apiUrl, null)
     .then((jsonData) => {
       model.lastCboms = jsonData;

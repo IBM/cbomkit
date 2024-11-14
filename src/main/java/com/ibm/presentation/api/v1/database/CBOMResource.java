@@ -32,7 +32,7 @@ import jakarta.ws.rs.core.MediaType;
 import jakarta.ws.rs.core.Response;
 import java.util.concurrent.ExecutionException;
 import org.eclipse.microprofile.openapi.annotations.Operation;
-import org.jboss.resteasy.reactive.RestQuery;
+import org.jboss.resteasy.reactive.RestPath;
 
 @Path("/api/v1/cbom")
 @ApplicationScoped
@@ -45,7 +45,7 @@ public class CBOMResource {
     }
 
     @GET
-    @Path("/lastn")
+    @Path("/last/{limit}")
     @Produces(MediaType.APPLICATION_JSON)
     @Operation(
             summary = "Return recently generated CBOMs from the repository",
@@ -53,7 +53,7 @@ public class CBOMResource {
                     "Returns a list of the most recently generated CBOMs. "
                             + "The length of the list can by specified via the optional 'limit' "
                             + "parameter.")
-    public Response getLastCBOMs(@RestQuery @Nullable Integer limit)
+    public Response getLastCBOMs(@RestPath @Nullable Integer limit)
             throws ExecutionException, InterruptedException {
         return this.queryBus
                 .send(new ListStoredCBOMsQuery(limit))
@@ -62,15 +62,15 @@ public class CBOMResource {
     }
 
     @GET
-    @Path("/byIdentifier")
+    @Path("/{projectIdentifier}")
     @Produces(MediaType.APPLICATION_JSON)
-    public Response getCBOM(@RestQuery @Nullable String identifier)
+    public Response getCBOM(@RestPath @Nullable String projectIdentifier)
             throws ExecutionException, InterruptedException {
-        if (identifier == null) {
+        if (projectIdentifier == null) {
             return Response.status(Response.Status.BAD_REQUEST).build();
         }
         return this.queryBus
-                .send(new GetCBOMByProjectIdentifierQuery(identifier))
+                .send(new GetCBOMByProjectIdentifierQuery(projectIdentifier))
                 .thenApply(readModel -> Response.ok(readModel).build())
                 .get();
     }

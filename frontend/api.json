@@ -1,5 +1,5 @@
 {
   "SCAN": "v1/scan",
-  "LAST_CBOMS": "api/v1/cbom/lastn",
+  "LAST_CBOMS": "api/v1/cbom/last",
   "CHECK_POLICY": "api/v1/compliance/check"
 }
