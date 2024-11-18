@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/sonatype/nexus
-  - pkg:github/sonatype/nexus-public
-  - pkg:maven/org.sonatype.nexus/nexus

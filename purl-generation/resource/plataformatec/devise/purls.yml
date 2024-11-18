@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/ruby-devise
-  - pkg:deb/ubuntu/ruby-devise
-  - pkg:gem/devise
-  - pkg:github/plataformatec/devise
-  - pkg:rpm/opensuse/rubygem-devise

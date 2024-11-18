@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/sqlite
-  - pkg:deb/ubuntu/sqlite
-  - pkg:github/sqlite/sqlite

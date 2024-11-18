@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/node-serve-static
-  - pkg:deb/ubuntu/node-serve-static
-  - pkg:github/expressjs/serve-static
-  - pkg:maven/org.webjars.npm/serve-static
-  - pkg:npm/serve-static

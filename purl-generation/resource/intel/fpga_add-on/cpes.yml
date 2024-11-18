@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:intel:fpga_add-on:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:intel:fpga_add-on:-:*:*:*:*:*:*:*

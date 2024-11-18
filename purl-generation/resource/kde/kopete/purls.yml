@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/kopete
-  - pkg:github/kde/kopete
-  - pkg:rpm/fedora/kopete
-  - pkg:rpm/opensuse/kopete

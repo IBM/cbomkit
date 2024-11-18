@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/logicaldoc/logicaldoc
-  - pkg:github/wodin/logicaldoc
-  - pkg:sourceforge/logicaldoc

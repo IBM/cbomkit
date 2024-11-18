@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/keyfactor/ejbca-ce
-  - pkg:github/keyfactor/ejbca-ce

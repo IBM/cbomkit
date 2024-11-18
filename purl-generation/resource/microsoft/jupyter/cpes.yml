@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:microsoft:jupyter:2022.9.110:*:*:*:*:visual_studio_code:*:*
-  - cpe:2.3:a:microsoft:jupyter:-:*:*:*:*:visual_studio_code:*:*

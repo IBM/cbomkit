@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/httrack
-  - pkg:deb/ubuntu/httrack
-  - pkg:github/xroche/httrack
-  - pkg:rpm/fedora/httrack
-  - pkg:rpm/opensuse/httrack

@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/py-lmdb
-  - pkg:deb/ubuntu/py-lmdb
-  - pkg:github/jnwatson/py-lmdb

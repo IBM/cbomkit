@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/fabric8io/kubernetes-client
-  - pkg:maven/io.fabric8/kubernetes-client

@@ -1,3 +1,0 @@
-purls:
-  - pkg:cpan/io-socket-ssl
-  - pkg:github/noxxi/p5-io-socket-ssl

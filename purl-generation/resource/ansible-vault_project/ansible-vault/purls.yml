@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/tomoh1r/ansible-vault
-  - pkg:pypi/ansible-vault

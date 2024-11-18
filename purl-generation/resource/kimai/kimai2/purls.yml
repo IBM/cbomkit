@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/kimai/kimai2
-  - pkg:github/kimai/kimai
-  - pkg:pypi/kimai-python
-  - pkg:sourceforge/kimai

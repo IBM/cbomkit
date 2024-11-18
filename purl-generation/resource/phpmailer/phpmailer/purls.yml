@@ -1,5 +1,0 @@
-purls:
-  - pkg:composer/phpmailer/phpmailer
-  - pkg:github/phpmailer/phpmailer
-  - pkg:golang/github.com/phpmailer/phpmailer
-  - pkg:sourceforge/phpmailer

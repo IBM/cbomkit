@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/rudderlabs/rudder-server
-  - pkg:golang/github.com/rudderlabs/rudder-server

@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/cactus4docker/go-camo
-  - pkg:github/cactus/go-camo

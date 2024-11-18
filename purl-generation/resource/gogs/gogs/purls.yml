@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/gogs/gogs
-  - pkg:github/gogs/gogs
-  - pkg:sourceforge/gogs.mirror

@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/lwip
-  - pkg:deb/ubuntu/lwip
-  - pkg:github/lwip-tcpip/lwip
-  - pkg:gnu/lwip

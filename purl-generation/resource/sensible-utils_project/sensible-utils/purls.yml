@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/sensible-utils
-  - pkg:deb/ubuntu/sensible-utils
-  - pkg:rpm/fedora/sensible-utils
-  - pkg:rpm/opensuse/sensible-utils

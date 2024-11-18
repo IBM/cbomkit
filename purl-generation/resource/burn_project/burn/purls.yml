@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/burn
-  - pkg:deb/ubuntu/burn
-  - pkg:pypi/burn

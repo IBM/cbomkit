@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/danielfm/jshamcrest
-  - pkg:maven/org.webjars.npm/jshamcrest
-  - pkg:npm/jshamcrest

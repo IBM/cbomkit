@@ -1,8 +1,0 @@
-cpes:
-  - cpe:2.3:a:woo-popup_project:woo-popup:1.0:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:woo-popup_project:woo-popup:1.1:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:woo-popup_project:woo-popup:1.2.1:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:woo-popup_project:woo-popup:1.2.2:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:woo-popup_project:woo-popup:1.2:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:woo-popup_project:woo-popup:*:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:woo-popup_project:woo-popup:-:*:*:*:*:wordpress:*:*

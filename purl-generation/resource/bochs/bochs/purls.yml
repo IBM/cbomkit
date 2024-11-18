@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/bochs
-  - pkg:deb/ubuntu/bochs
-  - pkg:github/bochs-emu/bochs
-  - pkg:rpm/fedora/bochs
-  - pkg:rpm/opensuse/bochs
-  - pkg:sourceforge/bochs

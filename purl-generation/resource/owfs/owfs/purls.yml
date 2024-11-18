@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/owfs
-  - pkg:deb/ubuntu/owfs
-  - pkg:github/owfs/owfs
-  - pkg:rpm/fedora/owfs
-  - pkg:rpm/opensuse/owfs
-  - pkg:sourceforge/owfs

@@ -1,5 +1,0 @@
-purls:
-  - pkg:apache/kudu
-  - pkg:github/apache/kudu
-  - pkg:github/bharathv/kudu
-  - pkg:maven/org.apache.kudu/kudu-parent

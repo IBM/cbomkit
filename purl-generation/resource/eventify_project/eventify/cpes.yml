@@ -1,4 +1,0 @@
-cpes:
-  - cpe:2.3:a:eventify_project:eventify:2.1:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:eventify_project:eventify:*:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:eventify_project:eventify:-:*:*:*:*:wordpress:*:*

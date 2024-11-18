@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:microsoft:c_sdk_for_azure_iot:-:*:*:*:*:*:*:*
-  - cpe:2.3:a:microsoft:c_sdk_for_azure_iot:lts_07_2020_ref02:*:*:*:*:*:*:*

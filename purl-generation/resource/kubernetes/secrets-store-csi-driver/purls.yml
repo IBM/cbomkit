@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/kubernetes-sigs/secrets-store-csi-driver
-  - pkg:golang/github.com/kubernetes-sigs/secrets-store-csi-driver

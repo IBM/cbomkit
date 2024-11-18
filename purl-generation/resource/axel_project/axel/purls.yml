@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/axel
-  - pkg:deb/ubuntu/axel
-  - pkg:github/axel-download-accelerator/axel
-  - pkg:rpm/fedora/axel
-  - pkg:rpm/opensuse/axel

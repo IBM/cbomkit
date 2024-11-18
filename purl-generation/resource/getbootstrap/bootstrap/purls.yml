@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/twbs/bootstrap
-  - pkg:npm/bootstrap
-  - pkg:nuget/bootstrap
-  - pkg:sourceforge/bootstrap.mirror

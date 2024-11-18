@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/graphhopper/graphhopper
-  - pkg:maven/com.graphhopper/graphhopper-parent

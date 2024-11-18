@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/adguard/adguardhome
-  - pkg:github/adguardteam/adguardhome
-  - pkg:rpm/opensuse/adguardhome
-  - pkg:sourceforge/adguardhome.mirror

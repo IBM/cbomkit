@@ -1,4 +1,0 @@
-purls:
-  - pkg:apache/karaf
-  - pkg:github/apache/karaf-cellar
-  - pkg:maven/org.apache.karaf/cellar

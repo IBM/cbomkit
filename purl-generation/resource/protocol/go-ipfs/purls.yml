@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/ipfs/go-ipfs
-  - pkg:github/ipfs/go-ipfs
-  - pkg:rpm/opensuse/go-ipfs

@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:graphql-upload_project:graphql-upload:13.0.0:*:*:*:*:node.js:*:*
-  - cpe:2.3:a:graphql-upload_project:graphql-upload:13.0.0:*:*:*:*:npmjs:*:*

@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/roundcube/roundcubemail
-  - pkg:github/roundcube/roundcubemail
-  - pkg:rpm/fedora/roundcubemail
-  - pkg:rpm/opensuse/roundcubemail

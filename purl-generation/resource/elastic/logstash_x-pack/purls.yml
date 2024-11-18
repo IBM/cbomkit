@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/elastic/logstash
-  - pkg:sourceforge/logstash.mirror

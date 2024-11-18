@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/pierrecdn/floodlight
-  - pkg:github/floodlight/floodlight
-  - pkg:sourceforge/floodlight

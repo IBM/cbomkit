@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/psd-tools/psd-tools
-  - pkg:github/sfneal/psd-tools3
-  - pkg:pypi/psd-tools
-  - pkg:pypi/psd-tools3

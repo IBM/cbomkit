@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/python-future
-  - pkg:deb/ubuntu/python-future
-  - pkg:github/pythoncharmers/python-future
-  - pkg:rpm/opensuse/python-future

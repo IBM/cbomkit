@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/tlslite-ng
-  - pkg:deb/ubuntu/tlslite-ng
-  - pkg:github/tlsfuzzer/tlslite-ng
-  - pkg:pypi/tlslite-ng
-  - pkg:rpm/opensuse/python-tlslite-ng

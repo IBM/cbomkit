@@ -1,5 +1,0 @@
-purls:
-  - pkg:bitbucket/aquatek/arduinojson
-  - pkg:bitbucket/mcissek/arduinojson
-  - pkg:github/bblanchon/arduinojson
-  - pkg:sourceforge/arduinojson.mirror

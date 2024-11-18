@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/ruby-omniauth-facebook
-  - pkg:deb/ubuntu/ruby-omniauth-facebook
-  - pkg:gem/omniauth-facebook
-  - pkg:github/simi/omniauth-facebook
-  - pkg:rpm/opensuse/rubygem-omniauth-facebook

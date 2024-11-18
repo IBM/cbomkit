@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/grafana/grafana
-  - pkg:github/grafana/grafana
-  - pkg:rpm/fedora/grafana
-  - pkg:rpm/opensuse/grafana

@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/reportbug
-  - pkg:deb/ubuntu/reportbug
-  - pkg:github/progval/reportbug

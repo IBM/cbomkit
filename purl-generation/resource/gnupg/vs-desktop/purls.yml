@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/gpg/gnupg
-  - pkg:golang/github.com/gpg/gnupg

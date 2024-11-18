@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/tkabber
-  - pkg:deb/ubuntu/tkabber
-  - pkg:rpm/fedora/tkabber
-  - pkg:rpm/opensuse/tkabber

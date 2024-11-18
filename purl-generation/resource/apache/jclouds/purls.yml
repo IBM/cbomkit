@@ -1,5 +1,0 @@
-purls:
-  - pkg:apache/jclouds
-  - pkg:github/apache/jclouds
-  - pkg:github/jclouds/jclouds
-  - pkg:maven/org.apache.jclouds/jclouds

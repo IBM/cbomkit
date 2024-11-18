@@ -1,4 +1,0 @@
-purls:
-  - pkg:gem/pdf_info
-  - pkg:gem/pdfinfo
-  - pkg:npm/pdfinfo

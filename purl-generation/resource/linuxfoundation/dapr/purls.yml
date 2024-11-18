@@ -1,5 +1,0 @@
-purls:
-  - pkg:gitee/dapr/dapr
-  - pkg:github/dapr/dapr
-  - pkg:golang/github.com/dapr/dapr
-  - pkg:maven/io.dapr/dapr-sdk

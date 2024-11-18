@@ -1,5 +1,0 @@
-cpes:
-  - cpe:2.3:a:marmelab:react-admin:4.0.0:*:*:*:*:node.js:*:*
-  - cpe:2.3:a:marmelab:react-admin:4.7.5:*:*:*:*:node.js:*:*
-  - cpe:2.3:a:marmelab:react-admin:*:*:*:*:*:node.js:*:*
-  - cpe:2.3:a:marmelab:react-admin:-:*:*:*:*:node.js:*:*

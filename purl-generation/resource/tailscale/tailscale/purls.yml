@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/tailscale/tailscale
-  - pkg:github/tailscale/tailscale

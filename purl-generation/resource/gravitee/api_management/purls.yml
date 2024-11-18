@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/gravitee-io/gravitee-api-management
-  - pkg:maven/io.gravitee.apim/gravitee-api-management

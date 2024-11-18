@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/pdns-server
-  - pkg:deb/ubuntu/pdns-server
-  - pkg:github/powerdns/pdns
-  - pkg:rpm/fedora/pdns
-  - pkg:rpm/opensuse/pdns

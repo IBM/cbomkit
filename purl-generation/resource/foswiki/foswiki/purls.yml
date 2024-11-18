@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/foswiki/distro
-  - pkg:rpm/opensuse/foswiki
-  - pkg:sourceforge/foswiki

@@ -1,7 +1,0 @@
-cpes:
-  - cpe:2.3:a:dd-plist_project:dd-plist:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:dd-plist_project:dd-plist:-:*:*:*:*:*:*:*
-  - cpe:2.3:a:dd-plist_project:dd-plist:1.0:*:*:*:*:*:*:*
-  - cpe:2.3:a:dd-plist_project:dd-plist:1.16:*:*:*:*:*:*:*
-  - cpe:2.3:a:dd-plist_project:dd-plist:1.17:*:*:*:*:*:*:*
-  - cpe:2.3:a:dd-plist_project:dd-plist:1.3:*:*:*:*:*:*:*

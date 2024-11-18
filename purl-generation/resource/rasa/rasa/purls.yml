@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/rasa/rasa
-  - pkg:github/rasahq/rasa
-  - pkg:pypi/rasa

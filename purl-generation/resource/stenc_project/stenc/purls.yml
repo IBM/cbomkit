@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/stenc
-  - pkg:deb/ubuntu/stenc
-  - pkg:github/scsitape/stenc
-  - pkg:rpm/opensuse/stenc
-  - pkg:sourceforge/stenc

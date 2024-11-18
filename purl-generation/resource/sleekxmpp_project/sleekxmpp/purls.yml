@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/sleekxmpp
-  - pkg:deb/ubuntu/sleekxmpp
-  - pkg:github/fritzy/sleekxmpp
-  - pkg:pypi/sleekxmpp
-  - pkg:rpm/opensuse/python-sleekxmpp

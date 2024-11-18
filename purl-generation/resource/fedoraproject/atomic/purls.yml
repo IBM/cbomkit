@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/projectatomic/atomic
-  - pkg:rpm/centos/atomic

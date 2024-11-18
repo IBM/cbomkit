@@ -1,4 +1,0 @@
-cpes:
-  - cpe:2.3:a:plainviewplugins:plainview_protect_passwords:1.4:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:plainviewplugins:plainview_protect_passwords:*:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:plainviewplugins:plainview_protect_passwords:-:*:*:*:*:wordpress:*:*

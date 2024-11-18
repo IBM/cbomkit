@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:crossplane:crossplane-runtime:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:crossplane:crossplane-runtime:0.16.0:*:*:*:*:*:*:*

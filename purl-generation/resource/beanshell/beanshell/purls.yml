@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/beanshell/beanshell
-  - pkg:maven/org.beanshell/beanshell
-  - pkg:sourceforge/beanshell

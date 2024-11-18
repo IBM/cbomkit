@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/joeattardi/emoji-button
-  - pkg:maven/org.webjars.npm/github-com-joeattardi-emoji-button
-  - pkg:maven/org.webjars.npm/joeattardi__emoji-button
-  - pkg:npm/%40joeattardi/emoji-button

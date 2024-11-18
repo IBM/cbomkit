@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/quarkusio/gizmo
-  - pkg:maven/io.quarkus.gizmo/gizmo

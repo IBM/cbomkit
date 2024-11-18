@@ -1,4 +1,0 @@
-purls:
-  - pkg:bitbucket/joycodex/libpdfium
-  - pkg:github/pdfium/pdfium
-  - pkg:googlesource/pdfium

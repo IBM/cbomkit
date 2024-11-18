@@ -1,4 +1,0 @@
-purls:
-  - pkg:cpan/file-extattr
-  - pkg:github/richdawe/file-extattr
-  - pkg:sourceforge/file-extattr

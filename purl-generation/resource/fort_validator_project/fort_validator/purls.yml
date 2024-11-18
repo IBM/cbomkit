@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/fort-validator
-  - pkg:deb/ubuntu/fort-validator
-  - pkg:github/nicmx/fort-validator

@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/nabeelio/phpvms
-  - pkg:github/nabeelio/phpvms
-  - pkg:github/phpvms/phpvms_v2

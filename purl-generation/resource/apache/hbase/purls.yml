@@ -1,4 +1,0 @@
-purls:
-  - pkg:apache/hbase
-  - pkg:github/apache/hbase
-  - pkg:maven/org.apache.hbase/hbase

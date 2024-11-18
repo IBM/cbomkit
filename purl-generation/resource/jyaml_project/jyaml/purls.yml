@@ -1,3 +1,0 @@
-purls:
-  - pkg:maven/org.jyaml/jyaml
-  - pkg:sourceforge/jyaml

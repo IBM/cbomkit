@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/shundhammer/qdirstat
-  - pkg:github/softace/kdirstat
-  - pkg:rpm/opensuse/kdirstat

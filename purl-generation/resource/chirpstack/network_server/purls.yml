@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/chirpstack/chirpstack-network-server
-  - pkg:github/brocaar/chirpstack-network-server

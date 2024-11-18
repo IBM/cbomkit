@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/ubuntu/ceph-deploy
-  - pkg:github/ceph/ceph-deploy
-  - pkg:pypi/ceph-deploy
-  - pkg:rpm/fedora/ceph-deploy
-  - pkg:rpm/opensuse/ceph-deploy

@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/fastify/fastify-websocket
-  - pkg:npm/%40fastify/websocket

@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:jenkins:caliper_ci:2.3:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:caliper_ci:-:*:*:*:*:jenkins:*:*

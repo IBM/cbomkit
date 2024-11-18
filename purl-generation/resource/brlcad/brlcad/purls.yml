@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/brl-cad/brlcad
-  - pkg:github/kanzure/brlcad
-  - pkg:rpm/opensuse/brlcad
-  - pkg:sourceforge/brlcad

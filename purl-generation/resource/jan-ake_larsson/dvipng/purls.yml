@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/dvipng
-  - pkg:deb/ubuntu/dvipng
-  - pkg:gnu/dvipng
-  - pkg:rpm/opensuse/dvipng
-  - pkg:sourceforge/dvipng

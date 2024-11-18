@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/swfmill
-  - pkg:deb/ubuntu/swfmill
-  - pkg:github/djcsdy/swfmill

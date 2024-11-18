@@ -1,4 +1,0 @@
-purls:
-  - pkg:bitbucket/goplat/ttssh2
-  - pkg:github/goplat/ttssh2
-  - pkg:github/testato/teraterm

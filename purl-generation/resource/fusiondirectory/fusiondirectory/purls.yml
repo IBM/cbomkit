@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/fusiondirectory
-  - pkg:deb/ubuntu/fusiondirectory
-  - pkg:github/fusiondirectory/fusiondirectory
-  - pkg:rpm/opensuse/fusiondirectory

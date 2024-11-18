@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/ericsson/codechecker
-  - pkg:github/vabridgers/codechecker
-  - pkg:pypi/codechecker

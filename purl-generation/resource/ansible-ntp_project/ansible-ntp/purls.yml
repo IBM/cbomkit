@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/drybjed/ansible-ntp
-  - pkg:gitlab/guardianproject-ops/ansible-ntp

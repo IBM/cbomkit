@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/hs-web/hsweb-framework
-  - pkg:maven/org.hswebframework.web/hsweb-framework

@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/dar
-  - pkg:github/edrusb/dar
-  - pkg:rpm/fedora/dar
-  - pkg:sourceforge/dar

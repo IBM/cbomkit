@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/intel/intel-device-plugins-for-kubernetes
-  - pkg:golang/github.com/intel/intel-device-plugins-for-kubernetes

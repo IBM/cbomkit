@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/libredwg/libredwg
-  - pkg:gitlab/libredwg/libredwg
-  - pkg:gnu/libredwg
-  - pkg:rpm/opensuse/libredwg

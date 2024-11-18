@@ -1,5 +1,0 @@
-purls:
-  - pkg:apache/commons
-  - pkg:deb/debian/commons-httpclient
-  - pkg:deb/ubuntu/commons-httpclient
-  - pkg:rpm/opensuse/apache-commons-httpclient

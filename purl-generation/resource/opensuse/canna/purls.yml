@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/canna
-  - pkg:deb/ubuntu/canna
-  - pkg:rpm/fedora/canna
-  - pkg:rpm/opensuse/canna

@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/rust-kamadak-exif
-  - pkg:deb/ubuntu/rust-kamadak-exif
-  - pkg:github/kamadak/exif-rs

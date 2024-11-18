@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/containernetworking/cni
-  - pkg:rpm/fedora/golang-github-containernetworking-cni

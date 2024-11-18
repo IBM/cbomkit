@@ -1,4 +1,0 @@
-purls:
-  - pkg:bitbucket/guymatz/katello
-  - pkg:gem/katello
-  - pkg:github/katello/katello

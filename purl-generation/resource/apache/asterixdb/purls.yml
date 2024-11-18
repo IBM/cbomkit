@@ -1,5 +1,0 @@
-purls:
-  - pkg:apache/asterixdb
-  - pkg:github/apache/asterixdb
-  - pkg:maven/org.apache.apache-asterixdb
-  - pkg:maven/org.apache.asterix/apache-asterixdb

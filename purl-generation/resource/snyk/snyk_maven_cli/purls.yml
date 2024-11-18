@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/snyk/snyk-mvn-plugin
-  - pkg:maven/org.webjars.npm/snyk-mvn-plugin
-  - pkg:npm/snyk-mvn-plugin

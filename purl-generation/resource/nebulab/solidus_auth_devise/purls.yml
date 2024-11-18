@@ -1,3 +1,0 @@
-purls:
-  - pkg:gem/solidus_auth_devise
-  - pkg:github/solidusio/solidus_auth_devise

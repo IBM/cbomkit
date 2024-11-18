@@ -1,5 +1,0 @@
-purls:
-  - pkg:composer/phpmyfaq/phpmyfaq
-  - pkg:docker/phpmyfaq/phpmyfaq
-  - pkg:github/thorsten/phpmyfaq
-  - pkg:rpm/opensuse/phpmyfaq

@@ -1,5 +1,0 @@
-purls:
-  - pkg:apache/perl
-  - pkg:github/apache/mod_perl
-  - pkg:rpm/fedora/mod_perl
-  - pkg:rpm/opensuse/mod_perl

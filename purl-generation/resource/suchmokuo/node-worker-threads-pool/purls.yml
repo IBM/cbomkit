@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/suchmokuo/node-worker-threads-pool
-  - pkg:npm/node-worker-threads-pool

@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/teeworlds
-  - pkg:deb/ubuntu/teeworlds
-  - pkg:github/teeworlds/teeworlds
-  - pkg:rpm/fedora/teeworlds
-  - pkg:rpm/opensuse/teeworlds

@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/nagstamon
-  - pkg:deb/ubuntu/nagstamon
-  - pkg:github/henriwahl/nagstamon
-  - pkg:rpm/opensuse/nagstamon

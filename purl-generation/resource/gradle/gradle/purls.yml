@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/gradle
-  - pkg:deb/ubuntu/gradle
-  - pkg:docker/gradle
-  - pkg:github/gradle/gradle
-  - pkg:rpm/opensuse/gradle

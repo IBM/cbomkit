@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/mruby
-  - pkg:deb/ubuntu/mruby
-  - pkg:github/mruby/mruby
-  - pkg:rpm/opensuse/mruby

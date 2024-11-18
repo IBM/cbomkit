@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/links2
-  - pkg:deb/ubuntu/links2
-  - pkg:rpm/fedora/links
-  - pkg:rpm/opensuse/links

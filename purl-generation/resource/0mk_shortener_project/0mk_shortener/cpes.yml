@@ -1,4 +1,0 @@
-cpes:
-  - cpe:2.3:a:0mk_shortener_project:0mk_shortener:0.2:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:0mk_shortener_project:0mk_shortener:*:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:0mk_shortener_project:0mk_shortener:-:*:*:*:*:wordpress:*:*

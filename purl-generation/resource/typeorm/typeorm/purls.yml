@@ -1,4 +1,0 @@
-purls:
-  - pkg:bitbucket/saveonsp/typeorm
-  - pkg:github/typeorm/typeorm
-  - pkg:npm/typeorm

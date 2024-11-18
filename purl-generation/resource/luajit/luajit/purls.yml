@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/luajit
-  - pkg:deb/ubuntu/luajit
-  - pkg:github/luajit/luajit
-  - pkg:rpm/fedora/luajit
-  - pkg:rpm/opensuse/luajit

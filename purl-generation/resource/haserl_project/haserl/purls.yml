@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/haserl
-  - pkg:deb/ubuntu/haserl
-  - pkg:github/ms13sp-zz/haserl
-  - pkg:rpm/opensuse/haserl
-  - pkg:sourceforge/haserl

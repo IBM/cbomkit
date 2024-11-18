@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/kontena/cli
-  - pkg:gem/kontena-cli
-  - pkg:github/kontena/kontena

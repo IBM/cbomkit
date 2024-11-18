@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/libvirt/libvirt
-  - pkg:gitlab/libvirt/libvirt
-  - pkg:rpm/fedora/libvirt
-  - pkg:rpm/opensuse/libvirt

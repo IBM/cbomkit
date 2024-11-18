@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/mjwwit/node-xmlhttprequest
-  - pkg:maven/org.webjars.npm/xmlhttprequest
-  - pkg:npm/xmlhttprequest

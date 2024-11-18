@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/ompl
-  - pkg:deb/ubuntu/ompl
-  - pkg:github/ompl/ompl
-  - pkg:rpm/fedora/ompl

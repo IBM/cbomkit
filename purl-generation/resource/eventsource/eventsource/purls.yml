@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/node-eventsource
-  - pkg:deb/ubuntu/node-eventsource
-  - pkg:github/eventsource/eventsource
-  - pkg:npm/eventsource

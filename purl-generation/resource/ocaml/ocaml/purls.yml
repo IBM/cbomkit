@@ -1,9 +1,0 @@
-purls:
-  - pkg:deb/debian/ocaml
-  - pkg:deb/ubuntu/ocaml
-  - pkg:docker/ocaml/ocaml.org
-  - pkg:github/esy-ocaml/ocaml
-  - pkg:github/npm-opam/ocaml
-  - pkg:github/ocaml/ocaml
-  - pkg:npm/ocaml
-  - pkg:rpm/fedora/ocaml

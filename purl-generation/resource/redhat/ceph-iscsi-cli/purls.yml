@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/ceph/ceph-iscsi
-  - pkg:rpm/opensuse/ceph-iscsi-cli

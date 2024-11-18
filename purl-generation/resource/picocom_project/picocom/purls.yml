@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/picocom
-  - pkg:deb/ubuntu/picocom
-  - pkg:github/npat-efault/picocom
-  - pkg:rpm/fedora/picocom
-  - pkg:rpm/opensuse/picocom

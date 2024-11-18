@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/phplist/phplist
-  - pkg:github/phplist/phplist3
-  - pkg:github/phpList/phplist-docker
-  - pkg:sourceforge/phplist

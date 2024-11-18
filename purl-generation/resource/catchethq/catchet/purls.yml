@@ -1,4 +1,0 @@
-purls:
-  - pkg:composer/cachethq/cachet
-  - pkg:github/cachethq/cachet
-  - pkg:golang/github.com/cachethq/cachet

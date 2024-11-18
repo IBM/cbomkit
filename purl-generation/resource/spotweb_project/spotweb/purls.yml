@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/spotweb
-  - pkg:deb/ubuntu/spotweb
-  - pkg:github/spotweb/spotweb

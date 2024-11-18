@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/louisveblen/openswan
-  - pkg:github/qianguozheng/openswan
-  - pkg:github/xelerance/openswan
-  - pkg:rpm/opensuse/openswan

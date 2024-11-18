@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/pxz
-  - pkg:deb/ubuntu/pxz
-  - pkg:github/yenforyang/debian-pxz
-  - pkg:rpm/fedora/pxz
-  - pkg:rpm/opensuse/pxz

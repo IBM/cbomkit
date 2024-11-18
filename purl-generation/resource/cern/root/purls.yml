@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/rootproject/root
-  - pkg:github/root-project/root
-  - pkg:nuget/ROOT
-  - pkg:rpm/fedora/root

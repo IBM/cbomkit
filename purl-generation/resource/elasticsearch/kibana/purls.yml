@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/kibana
-  - pkg:github/elastic/elasticsearch
-  - pkg:rpm/opensuse/kibana
-  - pkg:sourceforge/kibana.mirror

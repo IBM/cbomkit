@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/cilium/cilium-cli
-  - pkg:golang/github.com/cilium/cilium-cli

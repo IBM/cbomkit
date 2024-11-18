@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/googlechrome/rendertron
-  - pkg:npm/rendertron
-  - pkg:sourceforge/rendertron.mirror

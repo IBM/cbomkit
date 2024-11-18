@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/chocolate-doom
-  - pkg:deb/ubuntu/chocolate-doom
-  - pkg:github/chocolate-doom/chocolate-doom
-  - pkg:rpm/fedora/chocolate-doom
-  - pkg:rpm/opensuse/chocolate-doom

@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/libgrss
-  - pkg:deb/ubuntu/libgrss
-  - pkg:github/gnome/libgrss
-  - pkg:rpm/fedora/libgrss
-  - pkg:rpm/opensuse/libgrss

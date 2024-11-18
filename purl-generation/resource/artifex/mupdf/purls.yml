@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/mupdf
-  - pkg:deb/ubuntu/mupdf
-  - pkg:github/artifexsoftware/mupdf
-  - pkg:rpm/fedora/mupdf
-  - pkg:rpm/opensuse/mupdf

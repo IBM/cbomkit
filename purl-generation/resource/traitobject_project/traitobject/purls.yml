@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/reem/rust-traitobject
-  - pkg:rpm/fedora/rust-traitobject
-  - pkg:rpm/opensuse/rust-traitobject

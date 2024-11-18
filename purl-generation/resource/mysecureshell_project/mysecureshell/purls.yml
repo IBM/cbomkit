@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/mysecureshell
-  - pkg:deb/ubuntu/mysecureshell
-  - pkg:github/mysecureshell/mysecureshell
-  - pkg:sourceforge/mysecureshell

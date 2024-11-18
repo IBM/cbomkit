@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/fava
-  - pkg:deb/ubuntu/fava
-  - pkg:github/beancount/fava
-  - pkg:rpm/opensuse/python3-fava

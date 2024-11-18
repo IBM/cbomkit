@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/xinetd
-  - pkg:deb/ubuntu/xinetd
-  - pkg:github/opensuse/xinetd
-  - pkg:github/xinetd-org/xinetd
-  - pkg:rpm/opensuse/xinetd

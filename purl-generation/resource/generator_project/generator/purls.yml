@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/rust-generator
-  - pkg:deb/ubuntu/rust-generator
-  - pkg:githubxudong-huang/generator-rs

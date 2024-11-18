@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/ramseyk/httpserver
-  - pkg:npm/http_server

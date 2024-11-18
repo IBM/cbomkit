@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/msys2/msys2
-  - pkg:golang/github.com/msys2/msys2

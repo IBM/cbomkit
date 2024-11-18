@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/hivex
-  - pkg:deb/ubuntu/hivex
-  - pkg:github/libguestfs/hivex
-  - pkg:gitlab/redhat/hivex
-  - pkg:rpm/fedora/hivex
-  - pkg:rpm/opensuse/hivex

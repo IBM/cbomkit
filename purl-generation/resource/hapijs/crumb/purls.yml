@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/hapijs/crumb
-  - pkg:npm/%40hapi/crumb

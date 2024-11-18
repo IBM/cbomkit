@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/spring-cloud/spring-cloud-task
-  - pkg:maven/org.springframework.cloud/spring-cloud-task-parent

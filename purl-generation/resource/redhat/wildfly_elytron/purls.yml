@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/wildfly-security/wildfly-elytron
-  - pkg:maven/org.wildfly.security/wildfly-elytron

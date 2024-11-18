@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/fkei/rollup-plugin-server
-  - pkg:npm/rollup-plugin-server

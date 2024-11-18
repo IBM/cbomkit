@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/fcitx
-  - pkg:deb/ubuntu/fcitx
-  - pkg:github/fcitx/fcitx
-  - pkg:rpm/fedora/fcitx

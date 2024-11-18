@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/modcluster/mod_proxy_cluster
-  - pkg:rpm/fedora/mod_proxy_cluster

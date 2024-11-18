@@ -1,5 +1,0 @@
-purls:
-  - pkg:gitee/tencent/vconsole
-  - pkg:github/tencent/vconsole
-  - pkg:golang/github.com/tencent/vconsole
-  - pkg:npm/vconsole

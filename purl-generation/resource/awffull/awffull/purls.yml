@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/awffull
-  - pkg:deb/ubuntu/awffull
-  - pkg:github/pld-linux/awffull

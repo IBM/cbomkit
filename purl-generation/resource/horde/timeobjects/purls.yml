@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/php-horde-timeobjects
-  - pkg:deb/ubuntu/php-horde-timeobjects
-  - pkg:github/horde/timeobjects

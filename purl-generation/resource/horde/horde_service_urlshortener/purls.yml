@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/php-horde-service-urlshortener
-  - pkg:deb/ubuntu/php-horde-service-urlshortener
-  - pkg:github/horde/service_urlshortener

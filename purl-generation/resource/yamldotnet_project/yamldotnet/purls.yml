@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/aaubry/yamldotnet
-  - pkg:github/aaubry/yamldotnet
-  - pkg:nuget/YamlDotNet
-  - pkg:sourceforge/yamldotnet

@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/mpdavis/python-jose
-  - pkg:pypi/python-jose
-  - pkg:rpm/fedora/python-jose
-  - pkg:rpm/opensuse/python-python-jose

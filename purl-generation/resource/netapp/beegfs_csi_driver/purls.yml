@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/netapp/beegfs-csi-driver
-  - pkg:github/netapp/beegfs-csi-driver

@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/argoproj/argo-workflows
-  - pkg:golang/github.com/argoproj/argo-workflows

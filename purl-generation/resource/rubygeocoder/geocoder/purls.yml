@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debianl/ruby-geocoder
-  - pkg:deb/ubuntul/ruby-geocoder
-  - pkg:gem/geocoder
-  - pkg:github/alexreisner/geocoder

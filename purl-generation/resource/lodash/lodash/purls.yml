@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/node-lodash
-  - pkg:deb/ubuntu/node-lodash
-  - pkg:github/lodash/lodash
-  - pkg:npm/lodash
-  - pkg:nugget/lodash

@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/rpm
-  - pkg:deb/ubuntu/rpm
-  - pkg:github/rpm-software-management/rpm
-  - pkg:gitlab/redhat/rpm
-  - pkg:rpm/rpm

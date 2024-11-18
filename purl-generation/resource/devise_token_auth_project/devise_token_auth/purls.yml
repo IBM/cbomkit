@@ -1,3 +1,0 @@
-purls:
-  - pkg:gem/devise-token-auth
-  - pkg:github/lynndylanhurley/devise-token-auth

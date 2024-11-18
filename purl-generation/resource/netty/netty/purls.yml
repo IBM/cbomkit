@@ -1,6 +1,0 @@
-purls:
-  - pkg:github/netty/netty
-  - pkg:maven/io.netty/netty
-  - pkg:maven/io.netty/netty-all
-  - pkg:rpm/opensuse/netty
-  - pkg:sonatype/netty

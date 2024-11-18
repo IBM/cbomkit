@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/pypi/djblets
-  - pkg:github/djblets/djblets
-  - pkg:pypi/djblets

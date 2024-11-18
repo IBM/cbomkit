@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/fdkaac
-  - pkg:deb/ubuntu/fdkaac
-  - pkg:github/nu774/fdkaac
-  - pkg:rpm/opensuse/fdkaac

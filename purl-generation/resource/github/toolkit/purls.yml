@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/actions/toolkit
-  - pkg:npm/%40actions/core

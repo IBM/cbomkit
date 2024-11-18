@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/spip
-  - pkg:deb/ubuntu/spip
-  - pkg:github/spip/spip

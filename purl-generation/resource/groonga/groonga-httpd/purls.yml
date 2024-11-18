@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/groonga
-  - pkg:deb/ubuntu/groonga
-  - pkg:github/groonga/groonga
-  - pkg:rpm/fedora/groonga

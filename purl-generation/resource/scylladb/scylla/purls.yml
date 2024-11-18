@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/scylladb/scylla
-  - pkg:github/scylladb/scylladb
-  - pkg:golang/github.com/scylladb/scylladb

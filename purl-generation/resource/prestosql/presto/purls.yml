@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/trinodb/trino
-  - pkg:github/trinodb/trino
-  - pkg:maven/io.trino/trino-root

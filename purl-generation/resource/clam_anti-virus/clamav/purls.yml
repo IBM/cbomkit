@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/clamav
-  - pkg:deb/ubuntu/clamav
-  - pkg:docker/clamav/clamav
-  - pkg:github/cisco-talos/clamav
-  - pkg:rpm/opensuse/clamav

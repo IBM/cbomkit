@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/paxtest
-  - pkg:deb/ubuntu/paxtest
-  - pkg:github/opntr/paxtest-freebsd

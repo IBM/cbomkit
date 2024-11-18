@@ -1,4 +1,0 @@
-purls:
-  - pkg:apache/ode
-  - pkg:github/apache/ode
-  - pkg:maven/org.apache.ode/ode

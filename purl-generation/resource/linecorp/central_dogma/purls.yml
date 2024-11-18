@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/line/centraldogma
-  - pkg:github/line/centraldogma
-  - pkg:maven/com.linecorp.centraldogma/centraldogma-common

@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/umatrix
-  - pkg:deb/ubuntu/umatrix
-  - pkg:github/gorhill/umatrix

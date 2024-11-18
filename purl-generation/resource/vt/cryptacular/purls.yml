@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/vt-middleware/cryptacular
-  - pkg:maven/org.cryptacular/cryptacular

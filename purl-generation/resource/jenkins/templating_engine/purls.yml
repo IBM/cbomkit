@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/boozallen/jenkins-templating-engine
-  - pkg:github/jenkinsci/templating-engine-plugin

@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/privoxy
-  - pkg:deb/ubuntu/privoxy
-  - pkg:rpm/fedora/privoxy
-  - pkg:rpm/opensuse/privoxy
-  - pkg:sourceforge/ijbswa

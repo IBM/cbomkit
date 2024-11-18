@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/inn
-  - pkg:deb/ubuntu/inn
-  - pkg:github/internetnews/inn
-  - pkg:rpm/fedora/inn
-  - pkg:rpm/opensuse/inn

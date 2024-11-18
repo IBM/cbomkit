@@ -1,5 +1,0 @@
-cpes:
-  - cpe:2.3:a:epiph:form_block:1.0.0:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:epiph:form_block:1.0.1:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:epiph:form_block:*:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:epiph:form_block:-:*:*:*:*:wordpress:*:*

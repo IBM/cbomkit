@@ -1,3 +1,0 @@
-purls:
-  - pkg:gem/elastic-apm
-  - pkg:github/elastic/apm-agent-ruby

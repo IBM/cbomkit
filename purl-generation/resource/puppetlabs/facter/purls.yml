@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/facter
-  - pkg:gem/facter
-  - pkg:github/puppetlabs/facter
-  - pkg:gitlab/Clevon/facter
-  - pkg:rpm/fedora/facter

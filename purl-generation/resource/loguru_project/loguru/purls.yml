@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/loguru
-  - pkg:deb/ubuntu/loguru
-  - pkg:github/delgan/loguru
-  - pkg:pypi/loguru
-  - pkg:rpm/opensuse/python-loguru

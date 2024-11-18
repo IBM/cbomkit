@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/node-merge
-  - pkg:deb/ubuntu/node-merge
-  - pkg:github/yeikos/js.merge
-  - pkg:npm/merge

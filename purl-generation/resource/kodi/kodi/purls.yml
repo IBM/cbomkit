@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/kodi
-  - pkg:deb/ubuntu/kodi
-  - pkg:github/xbmc/xbmc
-  - pkg:sourceforge/kodi.mirror

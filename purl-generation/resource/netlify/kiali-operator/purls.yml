@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/kiali/kiali-operator
-  - pkg:golang/github.com/kiali/kiali-operator

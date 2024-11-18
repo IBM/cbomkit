@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/osslsigncode
-  - pkg:deb/ubuntu/osslsigncode
-  - pkg:github/mtrojnar/osslsigncode
-  - pkg:rpm/fedora/osslsigncode
-  - pkg:rpm/opensuse/osslsigncode

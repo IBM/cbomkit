@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/elastic/fleet-server
-  - pkg:golang/github.com/elastic/fleet-server

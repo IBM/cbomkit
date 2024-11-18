@@ -1,5 +1,0 @@
-purls:
-  - pkg:bitbucket/bertramtruong/phpipam
-  - pkg:github/phpipam/phpipam
-  - pkg:rpm/opensuse/phpipam
-  - pkg:sourceforge/phpipam

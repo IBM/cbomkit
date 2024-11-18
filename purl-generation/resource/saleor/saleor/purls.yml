@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/saleor/saleor
-  - pkg:pypi/saleor
-  - pkg:sourceforge/saleor.mirror

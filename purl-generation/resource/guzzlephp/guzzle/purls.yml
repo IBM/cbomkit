@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/guzzle
-  - pkg:docker/guzzle/guzzle
-  - pkg:github/guzzle/guzzle
-  - pkg:sourceforge/guzzle.mirror

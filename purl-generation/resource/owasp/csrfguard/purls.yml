@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/owasp/www-project-csrfguard
-  - pkg:maven/org.owasp/csrfguard

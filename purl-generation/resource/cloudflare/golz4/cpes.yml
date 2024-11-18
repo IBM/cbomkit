@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:cloudflare:golz4:*:*:*:*:*:go:*:*
-  - cpe:2.3:a:cloudflare:golz4:-:*:*:*:*:go:*:*

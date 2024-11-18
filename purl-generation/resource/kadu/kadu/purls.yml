@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/vogel/kadu
-  - pkg:gitlab/kadu/kadu
-  - pkg:rpm/opensuse/kadu
-  - pkg:sourceforge/kadu

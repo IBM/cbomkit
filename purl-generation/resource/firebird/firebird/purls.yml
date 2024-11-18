@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/firebird
-  - pkg:Deb/ubuntu/firebird
-  - pkg:github/firebirdsql/firebird
-  - pkg:rpm/fedora/firebird
-  - pkg:rpm/opensuse/firebird
-  - pkg:sourceforge/firebird.mirror

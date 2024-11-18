@@ -1,3 +1,0 @@
-purls:
-  - pkg:apache/myfaces
-  - pkg:maven/org.apache.myfaces.tomahawk/tomahawk

@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/maif/izanami
-  - pkg:github/maif/izanami
-  - pkg:maven/fr.maif/izanami-client
-  - pkg:maven/fr.maif/izanami-spring

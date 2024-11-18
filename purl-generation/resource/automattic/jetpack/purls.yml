@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/automattic/jetpack-wordpress-dev
-  - pkg:github/automattic/jetpack

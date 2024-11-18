@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/zapping
-  - pkg:deb/ubuntu/zapping
-  - pkg:gnome/zapping
-  - pkg:sourceforge/zapping

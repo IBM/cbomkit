@@ -1,5 +1,0 @@
-purls:
-  - pkg:bitbucket/v0rts/zcash
-  - pkg:github/zcash/zcash
-  - pkg:rpm/opensuse/zcash
-  - pkg:sourceforge/zcash.mirror

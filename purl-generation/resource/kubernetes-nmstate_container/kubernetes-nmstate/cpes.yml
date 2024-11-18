@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:kubernetes-nmstate_container:kubernetes-nmstate:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:kubernetes-nmstate_container:kubernetes-nmstate:2.3.0:*:*:*:*:*:*:*

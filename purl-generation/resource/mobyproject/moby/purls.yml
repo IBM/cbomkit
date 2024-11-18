@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/moby/moby
-  - pkg:rpm/fedora/moby-engine

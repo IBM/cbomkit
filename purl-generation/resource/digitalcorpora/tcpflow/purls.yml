@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/tcpflow
-  - pkg:deb/ubuntu/tcpflow
-  - pkg:github/simsong/tcpflow
-  - pkg:rpm/fedora/tcpflow
-  - pkg:rpm/opensuse/tcpflow

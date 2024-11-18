@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/illumio/terraform-provider-illumio-core
-  - pkg:golang/github.com/illumio/terraform-provider-illumio-core

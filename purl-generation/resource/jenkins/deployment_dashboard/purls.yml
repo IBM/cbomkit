@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/codecentric/jenkins-deployment-dashboard-plugin
-  - pkg:github/jenkinsci/ec2-deployment-dashboard

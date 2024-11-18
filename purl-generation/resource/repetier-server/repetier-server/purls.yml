@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/yadomi/repetier-server
-  - pkg:github/brokenstuff/repetier-server

@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/cakephp
-  - pkg:deb/ubuntu/cakephp
-  - pkg:github/cakephp/cakephp
-  - pkg:sourceforge/cakephp.mirror

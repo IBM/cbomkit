@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/btrfsmaintenance
-  - pkg:deb/ubuntu/btrfsmaintenance
-  - pkg:github/kdave/btrfsmaintenance
-  - pkg:rpm/fedora/btrfsmaintenance
-  - pkg:rpm/opensuse/btrfsmaintenance

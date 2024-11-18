@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:sass_lint_project:sass_lint:*:*:*:*:*:node.js:*:*
-  - cpe:2.3:a:sass_lint_project:sass_lint:*:*:*:*:*:visual_studio_code:*:*

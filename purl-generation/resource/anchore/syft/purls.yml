@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/anchore/syft
-  - pkg:golang/github.com/anchore/syft

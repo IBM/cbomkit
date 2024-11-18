@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/voxpelli/node-connect-pg-simple
-  - pkg:npm/connect-pg-simple

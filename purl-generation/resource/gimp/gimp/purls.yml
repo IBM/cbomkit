@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/gimp
-  - pkg:deb/ubuntu/gimp
-  - pkg:docker/gimp/gimp
-  - pkg:github/gnome/gimp
-  - pkg:gnome/gimp
-  - pkg:rpm/fedora/gimp

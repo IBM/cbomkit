@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/manuskript
-  - pkg:deb/ubuntu/manuskript
-  - pkg:github/olivierkes/manuskript
-  - pkg:rpm/opensuse/manuskript
-  - pkg:sourceforge/manuskript

@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/libcoap2
-  - pkg:deb/ubuntu/libcoap2
-  - pkg:github/obgm/libcoap
-  - pkg:rpm/fedora/libcoap

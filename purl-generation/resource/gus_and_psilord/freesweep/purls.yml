@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/freesweep
-  - pkg:deb/ubuntu/freesweep
-  - pkg:github/rwestlund/freesweep
-  - pkg:sourceforge/freesweep

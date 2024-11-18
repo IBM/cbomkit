@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/pvpgn
-  - pkg:deb/ubuntu/pvpgn
-  - pkg:github/pvpgn/pvpgn-server
-  - pkg:sourceforge/pvpgn.berlios

@@ -1,3 +1,0 @@
-purls:
-  - pkg:apache/airflow
-  - pkg:github/apache/airflow

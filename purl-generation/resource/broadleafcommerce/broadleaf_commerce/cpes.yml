@@ -1,7 +1,0 @@
-cpes:
-  - cpe:2.3:a:broadleafcommerce:broadleaf_commerce:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:broadleafcommerce:broadleaf_commerce:5.0:*:*:*:*:*:*:*
-  - cpe:2.3:a:broadleafcommerce:broadleaf_commerce:5.1.14-ga:*:*:*:*:*:*:*
-  - cpe:2.3:a:broadleafcommerce:broadleaf_commerce:5.2.25-ga:*:*:*:*:*:*:*
-  - cpe:2.3:a:broadleafcommerce:broadleaf_commerce:6.0:*:*:*:*:*:*:*
-  - cpe:2.3:a:broadleafcommerce:broadleaf_commerce:6.2.6-ga:*:*:*:*:*:*:*

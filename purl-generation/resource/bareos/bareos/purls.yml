@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/bareos
-  - pkg:github/bareos/bareos
-  - pkg:rpm/opensuse/bareos

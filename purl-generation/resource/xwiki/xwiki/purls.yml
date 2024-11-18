@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/xwiki/xwiki
-  - pkg:github/xwiki/xwiki-platform
-  - pkg:gitlab/q-phillips/xwiki-platform
-  - pkg:xwiki/xwiki

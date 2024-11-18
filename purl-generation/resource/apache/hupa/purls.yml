@@ -1,4 +1,0 @@
-purls:
-  - pkg:apache/james
-  - pkg:github/apache/james-hupa
-  - pkg:maven/org.apache.james.hupa/hupa

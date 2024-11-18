@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/rubygem/deplate
-  - pkg:gem/deplate
-  - pkg:github/tomtom/deplate
-  - pkg:sourceforge/deplate

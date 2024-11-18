@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/mysql/mysql-server
-  - pkg:rpm/opensuse/mysql-server

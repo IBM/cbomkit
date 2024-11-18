@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/c-icap
-  - pkg:deb/ubuntu/c-icap
-  - pkg:github/c-icap/c-icap-server
-  - pkg:rpm/opensuse/c-icap
-  - pkg:sourceforge/c-icap

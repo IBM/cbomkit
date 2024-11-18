@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/kubernetes-csi/csi-proxy
-  - pkg:golang/github.com/kubernetes-csi/csi-proxy

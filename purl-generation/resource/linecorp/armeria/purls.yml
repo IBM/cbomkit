@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/line/armeria
-  - pkg:maven/com.linecorp.armeria/armeria

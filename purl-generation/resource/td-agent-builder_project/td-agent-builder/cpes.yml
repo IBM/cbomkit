@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:td-agent-builder_project:td-agent-builder:2020-12-18:*:*:*:*:fluentd:*:*
-  - cpe:2.3:a:td-agent-builder_project:td-agent-builder:-:*:*:*:*:fluentd:*:*

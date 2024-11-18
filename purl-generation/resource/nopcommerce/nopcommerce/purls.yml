@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/nopcommerceteam/nopcommerce
-  - pkg:github/nopsolutions/nopcommerce
-  - pkg:nuget/NopCommerce.Core
-  - pkg:sourceforge/nopcommerce.mirror

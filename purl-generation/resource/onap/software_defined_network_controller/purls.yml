@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/onap/archive-sdnc-core
-  - pkg:maven/org.onap.sdnc.northbound/sdnc-vnftools

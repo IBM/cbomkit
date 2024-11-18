@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/containerd
-  - pkg:deb/ubuntu/containerd
-  - pkg:github/containerd/containerd
-  - pkg:rpm/fedora/containerd

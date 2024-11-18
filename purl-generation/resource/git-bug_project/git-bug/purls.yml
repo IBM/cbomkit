@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/glancingmind/git-bug
-  - pkg:github/glancingmind/git-bug
-  - pkg:github/michaelmure/git-bug
-  - pkg:rpm/opensuse/git-bug

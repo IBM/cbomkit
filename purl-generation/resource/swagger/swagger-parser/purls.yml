@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/swagger-api/swagger-parser
-  - pkg:maven/io.swagger.parser.v3/swagger-parser-project

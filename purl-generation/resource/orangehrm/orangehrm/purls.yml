@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/orangehrm/orangehrm
-  - pkg:github/orangehrm/orangehrm
-  - pkg:rpm/opensuse/orangehrm
-  - pkg:sourceforge/orangehrm

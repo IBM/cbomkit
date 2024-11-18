@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/pyblosxom
-  - pkg:deb/ubuntu/pyblosxomu
-  - pkg:github/pyblosxom/pyblosxom
-  - pkg:pypi/pyblosxom
-  - pkg:sourceforge/pyblosxom

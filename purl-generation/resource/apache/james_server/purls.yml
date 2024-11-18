@@ -1,3 +1,0 @@
-purls:
-  - pkg:apache/james
-  - pkg:maven/org.apache.james/james-server

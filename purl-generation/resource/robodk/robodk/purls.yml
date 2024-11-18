@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/robodk/robodk
-  - pkg:github/robodk/robodk-api
-  - pkg:nuget/robodkapi
-  - pkg:pypi/robodk

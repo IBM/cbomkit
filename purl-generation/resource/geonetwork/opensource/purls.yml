@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/geonetwork/core-geonetwork
-  - pkg:maven/org.gcube.spatial.data/geonetwork

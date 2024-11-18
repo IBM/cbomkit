@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/typespeed
-  - pkg:deb/ubuntu/typespeed
-  - pkg:rpm/fedora/typespeed

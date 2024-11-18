@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/pouchdb/pouchdb
-  - pkg:maven/cljsjs/pouchdb
-  - pkg:npm/pouchdb
-  - pkg:sourceforge/pouchdb.mirror

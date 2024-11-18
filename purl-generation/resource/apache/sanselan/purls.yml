@@ -1,4 +1,0 @@
-purls:
-  - pkg:apache/commons
-  - pkg:github/apache/sanselan
-  - pkg:maven/org.apache.sanselan/sanselan

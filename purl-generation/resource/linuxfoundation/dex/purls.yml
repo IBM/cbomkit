@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/dexidp/dex
-  - pkg:github/dexidp/dex

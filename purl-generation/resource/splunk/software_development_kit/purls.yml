@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/splunk/splunk-sdk-python
-  - pkg:pypi/splunk-sdk

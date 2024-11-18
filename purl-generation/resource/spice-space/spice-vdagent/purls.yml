@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/spice-vdagent
-  - pkg:deb/ubuntu/spice-vdagent
-  - pkg:gitlab/redhat/spice-vdagent
-  - pkg:rpm/fedora/spice-vdagent
-  - pkg:rpm/opensuse/spice-vdagent

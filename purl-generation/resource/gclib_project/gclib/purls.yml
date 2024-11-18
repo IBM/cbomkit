@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/libgclib
-  - pkg:deb/ubuntu/libgclib
-  - pkg:github/gpertea/gclib

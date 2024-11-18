@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/libressl-portable/openbsd
-  - pkg:github/libressl-portable/portable
-  - pkg:rpm/opensuse/libressl
-  - pkg:sourceforge/libressl-3-2-0-for-windows

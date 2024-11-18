@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/fig2dev
-  - pkg:deb/ubuntu/fig2dev
-  - pkg:github/delabrcd/fig2dev
-  - pkg:github/getlarky/fig2dev
-  - pkg:sourceforge/mcj

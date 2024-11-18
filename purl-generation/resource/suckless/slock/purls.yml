@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/nntq/slock
-  - pkg:github/khuedoan/slock
-  - pkg:rpm/fedora/slock
-  - pkg:rpm/opensuse/slock

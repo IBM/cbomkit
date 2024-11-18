@@ -1,3 +1,0 @@
-purls:
-  - pkg:cargo/phonenumber
-  - pkg:github/whisperfish/rust-phonenumber

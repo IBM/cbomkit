@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/nix
-  - pkg:deb/ubuntu/nix
-  - pkg:docker/nixos/nix
-  - pkg:github/nixos/nix

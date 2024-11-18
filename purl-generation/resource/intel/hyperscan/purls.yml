@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/hyperscan
-  - pkg:deb/ubuntu/hyperscan
-  - pkg:github/intel/hyperscan
-  - pkg:rpm/fedora/hyperscan
-  - pkg:rpm/opensuse/hyperscan

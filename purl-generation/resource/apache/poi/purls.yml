@@ -1,5 +1,0 @@
-purls:
-  - pkg:apache/poi
-  - pkg:github/apache/poi
-  - pkg:maven/org.apache.poi/poi
-  - pkg:sourceforge/poi.mirror

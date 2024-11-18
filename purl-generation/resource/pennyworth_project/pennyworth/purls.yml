@@ -1,5 +1,0 @@
-purls:
-  - pkg:gem/pennyworth
-  - pkg:github/karimsa/pennyworth
-  - pkg:npm/pennyworth
-  - pkg:pypi/pennyworth

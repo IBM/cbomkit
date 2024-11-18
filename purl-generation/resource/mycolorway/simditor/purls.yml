@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/mycolorway/simditor
-  - pkg:maven/org.webjars.npm/simditor
-  - pkg:npm/simditor
-  - pkg:sourceforge/simditor.mirror

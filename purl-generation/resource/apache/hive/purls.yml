@@ -1,4 +1,0 @@
-purls:
-  - pkg:apache/hive
-  - pkg:github/apache/hive
-  - pkg:maven/org.apache.hive/hive

@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/vtfk/robot-stats
-  - pkg:github/telemark/robot-stats
-  - pkg:github/vtfk/robot-stats

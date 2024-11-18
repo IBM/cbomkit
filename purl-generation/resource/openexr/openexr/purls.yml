@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/openexr
-  - pkg:deb/ubuntu/openexr
-  - pkg:github/academysoftwarefoundation/openexr
-  - pkg:rpmfind/fedora/openexr
-  - pkg:rpm/opensuse/openexr

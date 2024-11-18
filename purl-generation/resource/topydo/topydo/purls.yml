@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/topydo
-  - pkg:deb/ubuntu/topydo
-  - pkg:github/topydo/topydo
-  - pkg:pypi/topydo

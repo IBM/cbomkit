@@ -1,3 +1,0 @@
-purls:
-  - pkg:deb/debian/apt-cacher
-  - pkg:deb/ubuntu/apt-cacher

@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/libunivalue
-  - pkg:deb/ubuntu/libunivalue
-  - pkg:github/jgarzik/univalue
-  - pkg:rpm/opensuse/libunivalue

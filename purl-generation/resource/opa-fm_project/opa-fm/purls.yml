@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/opa-fm
-  - pkg:deb/ubuntu/opa-fm
-  - pkg:github/cornelisnetworks/opa-fm
-  - pkg:gitlab/redhat/opa-fm
-  - pkg:rpm/opensuse/opa-fm

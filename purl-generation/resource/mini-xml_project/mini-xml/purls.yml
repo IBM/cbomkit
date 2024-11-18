@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/mxml
-  - pkg:deb/ubuntu/mxml
-  - pkg:github/michaelrsweet/mxml
-  - pkg:rpm/fedora/mxml
-  - pkg:rpm/opensuse/mxml

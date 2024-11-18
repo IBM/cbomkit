@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/jasoncrease/redgatesqlci
-  - pkg:github/jenkinsci/redgate-sql-ci-plugin

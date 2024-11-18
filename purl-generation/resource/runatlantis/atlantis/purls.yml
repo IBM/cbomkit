@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/runatlantis/atlantis
-  - pkg:github/hootsuite/atlantis
-  - pkg:github/runatlantis/atlantis

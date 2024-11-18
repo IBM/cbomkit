@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/golang-github-kardianos-service-dev
-  - pkg:deb/ubuntu/golang-github-kardianos-service-dev
-  - pkg:github/kardianos/service
-  - pkg:opensuse/golang-github-kardianos-service
-  - pkg:rpm/fedora/golang-github-kardianos-service

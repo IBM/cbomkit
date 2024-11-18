@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/havp
-  - pkg:rpm/opensuse/havp
-  - pkg:sourceforge/havp

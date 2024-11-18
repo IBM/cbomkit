@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/golang-github-containers-psgo
-  - pkg:deb/ubuntu/golang-github-containers-psgo
-  - pkg:github/containers/psgo

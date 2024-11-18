@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/zendframework
-  - pkg:deb/ubuntu/zendframework
-  - pkg:github/zendframework/zendframework
-  - pkg:rpm/opensuse/php-zendframework

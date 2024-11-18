@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/node-cross-fetch
-  - pkg:deb/ubuntu/node-cross-fetch
-  - pkg:github/lquixada/cross-fetch
-  - pkg:maven/org.webjars.npm/cross-fetch
-  - pkg:npm/cross-fetch

@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/iproute2
-  - pkg:deb/ubuntu/iproute2
-  - pkg:github/shemminger/iproute2
-  - pkg:rpm/opensusee/iproute2

@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/libpam-mount
-  - pkg:deb/ubuntu/libpam-mount
-  - pkg:github/ojford/pam-mount
-  - pkg:gnome/libpam-mount
-  - pkg:sourceforge/pam-mount

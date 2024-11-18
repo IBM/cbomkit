@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/admidio/admidio
-  - pkg:github/admidio/admidio
-  - pkg:sourceforge/admidio

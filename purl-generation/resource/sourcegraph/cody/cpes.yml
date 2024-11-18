@@ -1,4 +1,0 @@
-cpes:
-  - cpe:2.3:a:sourcegraph:cody:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:sourcegraph:cody:0.10.0:*:*:*:*:*:*:*
-  - cpe:2.3:a:sourcegraph:cody:0.14.0:*:*:*:*:*:*:*

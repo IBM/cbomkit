@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/nlohmann/json
-  - pkg:gitlab/cleveron/json
-  - pkg:rpm/fedora/json-devel

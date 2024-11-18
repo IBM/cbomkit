@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/jquery-jplayer
-  - pkg:deb/ubuntu/jquery-jplayer
-  - pkg:github/jplayer/jplayer
-  - pkg:maven/org.webjars.npm/jplayer
-  - pkg:npm/jplayer

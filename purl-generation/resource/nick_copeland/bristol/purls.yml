@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/bristol
-  - pkg:deb/ubuntu/bristol
-  - pkg:github/nomadbyte/bristol-fixes
-  - pkg:rpm/fedora/bristol
-  - pkg:sourceforge/bristol

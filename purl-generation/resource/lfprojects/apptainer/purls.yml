@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/apptainer/apptainer
-  - pkg:golang/github.com/apptainer/apptainer
-  - pkg:rpm/fedora/apptainer
-  - pkg:rpm/opensuse/apptainer

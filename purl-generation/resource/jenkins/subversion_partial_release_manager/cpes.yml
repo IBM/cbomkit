@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:jenkins:subversion_partial_release_manager:1.0.1:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:subversion_partial_release_manager:-:*:*:*:*:jenkins:*:*

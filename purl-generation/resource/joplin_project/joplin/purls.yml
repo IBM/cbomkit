@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/laurent22/joplin
-  - pkg:gitlab/kalilinux/joplin
-  - pkg:npm/joplin
-  - pkg:sourceforge/joplin.mirror

@@ -1,3 +1,0 @@
-purls:
-  - pkg:gem/protocol-http1
-  - pkg:github/socketry/protocol-http1

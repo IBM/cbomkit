@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/rusqlite/rusqlite
-  - pkg:rpm/fedora/rust-rusqlite

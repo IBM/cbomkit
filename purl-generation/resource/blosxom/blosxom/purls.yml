@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/blosxom
-  - pkg:deb/ubuntu/blosxom
-  - pkg:github/zakame/blosxom

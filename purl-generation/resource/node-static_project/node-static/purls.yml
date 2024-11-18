@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/node-static
-  - pkg:deb/ubuntu/node-static
-  - pkg:deb/ubuntu/node-static-eval
-  - pkg:github/cloudhead/node-static
-  - pkg:npm/node-static

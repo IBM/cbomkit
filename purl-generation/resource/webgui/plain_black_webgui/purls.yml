@@ -1,4 +1,0 @@
-purls:
-  - pkg:cpan/task-webgui
-  - pkg:github/plainblack/webgui
-  - pkg:sourceforge/pbwebgui

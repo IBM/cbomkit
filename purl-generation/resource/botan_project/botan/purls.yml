@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/botan
-  - pkg:deb/ubuntu/botan
-  - pkg:github/randombit/botan
-  - pkg:rpm/fedora/botan
-  - pkg:rpm/opensuse/botan

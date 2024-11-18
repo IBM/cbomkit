@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/puppet
-  - pkg:deb/ubuntu/puppet
-  - pkg:github/puppetlabs/puppet
-  - pkg:puppet/open-source-puppet
-  - pkg:rpm/fedora/puppet
-  - pkg:rpm/opensuse/puppet

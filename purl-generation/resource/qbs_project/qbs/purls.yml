@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/qbs/qbs
-  - pkg:npm/qbs
-  - pkg:rpm/fedora/qbs
-  - pkg:rpm/opensuse/qbs

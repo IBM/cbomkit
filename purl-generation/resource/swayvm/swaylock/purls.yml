@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/swaylock
-  - pkg:deb/ubuntu/swaylock
-  - pkg:github/swaywm/swaylock
-  - pkg:rpm/fedora/swaylock
-  - pkg:rpm/opensuse/swaylock

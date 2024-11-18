@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/echoping
-  - pkg:deb/ubuntu/echoping
-  - pkg:rpm/opensuse/echoping
-  - pkg:sourceforge/echoping

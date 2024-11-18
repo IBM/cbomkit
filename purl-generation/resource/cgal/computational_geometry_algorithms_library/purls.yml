@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/cgal
-  - pkg:deb/ubuntu/cgal
-  - pkg:github/cgal/cgal
-  - pkg:rpm/fedora/cgal
-  - pkg:rpm/opensuse/cgal
-  - pkg:sourceforge/cgal.mirror

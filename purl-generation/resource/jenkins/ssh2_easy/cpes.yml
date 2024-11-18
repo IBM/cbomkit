@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:jenkins:ssh2_easy:1.4:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:ssh2_easy:*:*:*:*:*:jenkins:*:*

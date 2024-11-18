@@ -1,7 +1,0 @@
-cpes:
-  - cpe:2.3:a:skylark:skylark:6.2.13:*:*:*:*:android:*:*
-  - cpe:2.3:a:skylark:skylark:6.2.13:*:*:*:*:iphone_os:*:*
-  - cpe:2.3:a:skylark:skylark:*:*:*:*:*:android:*:*
-  - cpe:2.3:a:skylark:skylark:-:*:*:*:*:android:*:*
-  - cpe:2.3:a:skylark:skylark:*:*:*:*:*:iphone_os:*:*
-  - cpe:2.3:a:skylark:skylark:-:*:*:*:*:iphone_os:*:*

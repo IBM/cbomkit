@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/frostming/pdm
-  - pkg:github/frostming/pdm-packer

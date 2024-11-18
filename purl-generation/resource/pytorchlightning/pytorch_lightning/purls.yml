@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/pytorchlightning/pytorch-lightning
-  - pkg:pypi/pytorch-lightning

@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/identityserver/identityserver4
-  - pkg:nuget/IdentityServer4

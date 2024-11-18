@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/matomo
-  - pkg:github/matomo-org/docker

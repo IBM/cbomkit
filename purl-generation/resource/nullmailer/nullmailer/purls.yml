@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/nullmailer
-  - pkg:deb/ubuntu/nullmailer
-  - pkg:github/bruceg/nullmailer

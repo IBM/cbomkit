@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/timeshift
-  - pkg:deb/ubuntu/timeshift
-  - pkg:github/teejee2008/timeshift
-  - pkg:rpm/fedora/timeshift
-  - pkg:rpm/opensuse/timeshift

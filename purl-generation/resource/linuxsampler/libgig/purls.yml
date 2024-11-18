@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/libgig
-  - pkg:deb/ubuntu/libgig
-  - pkg:github/drbye78/libgig
-  - pkg:rpm/opensuse/libgig

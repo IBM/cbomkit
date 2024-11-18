@@ -1,9 +1,0 @@
-cpes:
-  - cpe:2.3:a:arm:midguard_gpu_kernel_driver:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:arm:midguard_gpu_kernel_driver:-:*:*:*:*:*:*:*
-  - cpe:2.3:a:arm:midguard_gpu_kernel_driver:r0p0:*:*:*:*:*:*:*
-  - cpe:2.3:a:arm:midguard_gpu_kernel_driver:r26p0:*:*:*:*:*:*:*
-  - cpe:2.3:a:arm:midguard_gpu_kernel_driver:r30p0:*:*:*:*:*:*:*
-  - cpe:2.3:a:arm:midguard_gpu_kernel_driver:r31p0:*:*:*:*:*:*:*
-  - cpe:2.3:a:arm:midguard_gpu_kernel_driver:r32p0:*:*:*:*:*:*:*
-  - cpe:2.3:a:arm:midguard_gpu_kernel_driver:r4p0:*:*:*:*:*:*:*

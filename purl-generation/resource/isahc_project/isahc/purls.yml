@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/sagebind/isahc
-  - pkg:rpm/fedora/rust-isahc
-  - pkg:rpm/opensuse/rust-isahc

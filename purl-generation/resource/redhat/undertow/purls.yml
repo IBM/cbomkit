@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/libundertow-java
-  - pkg:deb/ubuntu/libundertow-java
-  - pkg:github/undertow-io/undertow

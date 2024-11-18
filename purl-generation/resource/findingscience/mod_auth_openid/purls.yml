@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/bmuller/mod_auth_openid
-  - pkg:rpm/fedora/mod_auth_openid

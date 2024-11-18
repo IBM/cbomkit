@@ -1,4 +1,0 @@
-purls:
-  - pkg:gem/backup-agoddard
-  - pkg:github/agoddard/backup
-  - pkg:github/backup/backup

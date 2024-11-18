@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/containernetworking/cni
-  - pkg:golang/github.com/containernetworking/cni

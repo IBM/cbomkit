@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/htdig
-  - pkg:deb/ubuntu/htdig
-  - pkg:github/roklein/htdig
-  - pkg:rpm/fedora/htdig
-  - pkg:rpm/opensuse/htdig

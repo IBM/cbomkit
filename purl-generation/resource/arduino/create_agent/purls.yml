@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/arduino/arduino-create-agent
-  - pkg:golang/github.com/arduino/arduino-create-agent

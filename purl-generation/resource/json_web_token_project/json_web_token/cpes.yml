@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:json_web_token_project:json_web_token:*:*:*:*:*:go:*:*
-  - cpe:2.3:a:json_web_token_project:json_web_token:-:*:*:*:*:go:*:*

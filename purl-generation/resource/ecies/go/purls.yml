@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/ecies/go
-  - pkg:golang/github.com/ecies/go

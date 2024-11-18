@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/xorg
-  - pkg:deb/ubuntu/xorg
-  - pkg:rpm/opensuse/x11-common

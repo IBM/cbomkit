@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/pasdoc
-  - pkg:deb/ubuntu/pasdoc
-  - pkg:github/pasdoc/pasdoc
-  - pkg:sourceforge/pasdoc

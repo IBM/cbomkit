@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/hoteldruid
-  - pkg:deb/ubuntu/hoteldruid
-  - pkg:github/digital-druid/hoteldruid
-  - pkg:sourceforge/hoteldruid

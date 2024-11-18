@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/loganalyzer
-  - pkg:deb/ubuntu/loganalyzer
-  - pkg:github/rsyslog/loganalyzer

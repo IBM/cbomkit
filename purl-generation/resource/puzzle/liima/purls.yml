@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/liimaorg/liima
-  - pkg:github/liimaorg/liimactl
-  - pkg:golang/github.com/liimaorg/liimactl

@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/rkt
-  - pkg:deb/ubuntu/rkt
-  - pkg:github/rkt/rkt

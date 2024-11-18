@@ -1,2 +1,0 @@
-cpes:
-  - cpe:2.3:a:elasticsearch:csv_output_plugin:2.1.1:*:*:*:*:logstash:*:*

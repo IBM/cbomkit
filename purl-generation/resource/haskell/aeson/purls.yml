@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/haskell-aeson
-  - pkg:deb/ubuntu/haskell-aeson
-  - pkg:github/haskell/aeson
-  - pkg:rpm/fedora/ghc-aeson
-  - pkg:rpm/opensuse/ghc-aeson

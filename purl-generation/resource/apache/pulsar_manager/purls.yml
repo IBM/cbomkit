@@ -1,3 +1,0 @@
-purls:
-  - pkg:apache/pulsar
-  - pkg:github/apache/pulsar-manager

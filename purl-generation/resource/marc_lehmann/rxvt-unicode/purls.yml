@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/rxvt-unicode
-  - pkg:deb/ubuntu/rxvt-unicode
-  - pkg:github/jjk-jacky/rxvt-unicode
-  - pkg:rpm/fedora/rxvt-unicode
-  - pkg:rpm/opensuse/rxvt-unicode

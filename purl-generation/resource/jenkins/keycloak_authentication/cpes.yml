@@ -1,4 +1,0 @@
-cpes:
-  - cpe:2.3:a:jenkins:keycloak_authentication:2.3.0:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:keycloak_authentication:*:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:keycloak_authentication:-:*:*:*:*:jenkins:*:*

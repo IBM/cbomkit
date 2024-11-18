@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/rust-miow
-  - pkg:deb/ubuntu/rust-miow
-  - pkg:github/yoshuawuyts/miow

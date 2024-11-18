@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/rtpproxy
-  - pkg:deb/ubuntu/rtpproxy
-  - pkg:github/sippy/rtpproxy
-  - pkg:rpm/fedora/rtpproxy
-  - pkg:rpm/opensuse/rtpproxy

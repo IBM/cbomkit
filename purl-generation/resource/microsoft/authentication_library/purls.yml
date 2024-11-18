@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/azuread/microsoft-authentication-library-for-android
-  - pkg:maven/com.microsoft.identity.client/msal

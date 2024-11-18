@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/python-pyo
-  - pkg:deb/ubuntu/python-pyo
-  - pkg:github/belangeo/pyo
-  - pkg:pypi/pyo
-  - pkg:rpm/opensuse/python-pyo

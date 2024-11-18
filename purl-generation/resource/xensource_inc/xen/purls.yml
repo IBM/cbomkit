@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/xen-project/xen
-  - pkg:gitlab/xen-project/xen
-  - pkg:rpm/fedora/xen

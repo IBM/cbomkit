@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/irrlicht
-  - pkg:deb/ubuntu/irrlicht
-  - pkg:github/kas1e/irrlicht
-  - pkg:rpm/fedora/irrlicht
-  - pkg:rpm/opensuse/irrlicht
-  - pkg:sourceforge/irrlicht

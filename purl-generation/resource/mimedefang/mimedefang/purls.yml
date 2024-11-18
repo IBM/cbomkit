@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/mimedefang
-  - pkg:deb/ubuntu/mimedefang
-  - pkg:github/the-mcgrail-foundation/mimedefang
-  - pkg:rpm/fedora/mimedefang
-  - pkg:rpm/opensuse/mimedefang

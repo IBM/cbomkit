@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/gifsicle
-  - pkg:deb/ubuntu/gifsicle
-  - pkg:github/kohler/gifsicle
-  - pkg:rpm/fedora/gifsicle
-  - pkg:rpm/opensuse/gifsicle

@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/eclipse/xtext
-  - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.xtext

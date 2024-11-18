@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/unetworking/uwebsockets
-  - pkg:github/unetworking/uwebsockets.js
-  - pkg:golang/github.com/unetworking/uwebsockets.js

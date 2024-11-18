@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/pcf2bdf
-  - pkg:deb/ubuntu/pcf2bdf
-  - pkg:github/ganaware/pcf2bdf

@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:jenkins:cluster_statistics:0.4.6:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:cluster_statistics:-:*:*:*:*:jenkins:*:*

@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/esphome/esphome
-  - pkg:github/esphome/esphome
-  - pkg:pypi/esphome

@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/cacti
-  - pkg:deb/ubuntu/cacti
-  - pkg:github/cacti/cacti
-  - pkg:rpm/fedora/cacti
-  - pkg:rpm/opensuse/cacti

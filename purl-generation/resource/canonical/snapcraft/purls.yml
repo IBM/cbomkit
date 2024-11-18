@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/ubuntu/snapcraft
-  - pkg:github/snapcore/snapcraft
-  - pkg:pypi/snapcraft

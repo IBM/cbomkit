@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/tikv/tikv
-  - pkg:github/tikv/tikv

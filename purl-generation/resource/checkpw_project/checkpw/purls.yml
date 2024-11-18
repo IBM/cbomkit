@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/checkpw
-  - pkg:deb/ubuntu/checkpw
-  - pkg:sourceforge/checkpw

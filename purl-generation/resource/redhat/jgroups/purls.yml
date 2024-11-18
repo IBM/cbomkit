@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/belaban/jgroups
-  - pkg:maven/org.jgroups/jgroups

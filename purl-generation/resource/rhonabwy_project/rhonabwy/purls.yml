@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/rhonabwy
-  - pkg:deb/ubuntu/rhonabwy
-  - pkg:github/babelouest/rhonabwy

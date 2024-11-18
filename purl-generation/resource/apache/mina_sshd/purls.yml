@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/apache/mina-sshd
-  - pkg:maven/org.apache.sshd/sshd-core

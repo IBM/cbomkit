@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/system-config-printer
-  - pkg:deb/ubuntu/system-config-printer
-  - pkg:github/openprinting/system-config-printer
-  - pkg:rpm/fedora/system-config-printer
-  - pkg:rpm/opensuse/system-config-printer

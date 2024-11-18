@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/kubewarden/kubewarden-controller
-  - pkg:golang/github.com/kubewarden/kubewarden-controller

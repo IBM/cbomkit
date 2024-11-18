@@ -1,4 +1,0 @@
-cpes:
-  - cpe:2.3:a:discourse:discourse_jira:2023-10-01:*:*:*:*:discourse:*:*
-  - cpe:2.3:a:discourse:discourse_jira:*:*:*:*:*:discourse:*:*
-  - cpe:2.3:a:discourse:discourse_jira:-:*:*:*:*:discourse:*:*

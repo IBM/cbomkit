@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/hapijs/hapijs.com
-  - pkg:github/hapijs/hapi
-  - pkg:npm/%40hapi/hapi
-  - pkg:sourceforge/hapi.mirror

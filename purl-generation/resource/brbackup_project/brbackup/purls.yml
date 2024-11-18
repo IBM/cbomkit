@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/rubygem/brbackup
-  - pkg:gem/brbackup
-  - pkg:github/tongueroo/brbackup

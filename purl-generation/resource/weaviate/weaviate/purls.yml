@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/weaviate/weaviate
-  - pkg:golang/github.com/weaviate/weaviate

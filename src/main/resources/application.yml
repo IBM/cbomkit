@@ -20,19 +20,9 @@ quarkus:
     dispatch-to-worker: true
   smallrye-openapi:
     info-title: CBOMkit API
-    info-version: 1.0.0
     info-description: Service for generating and retrieving CBOMs
-service:
-  clone-dir: ${CBOMKIT_CLONEDIR:/home/user/.cbomkit} # specifies the directory in which the cloned Git repositories are stored (temporary)
+
+cbomkit:
+  clone-dir: ${CBOMKIT_CLONEDIR} # specifies the directory in which the cloned Git repositories are stored (temporary)
   scanning:
     java-jar-dir: ${CBOMKIT_JAVA_JAR_DIR:src/main/resources/java/scan/}
-    ibm-qs-explorer:  # if the ibm qs explorer should be used as the service to scan, enable it here and provide the url
-      enabled: false
-      url: ${CBOMKIT_QS_EXPLORER_API_BASE:http://localhost:8000/api/v1/scan"}
-  compliance:
-    regulator:
-      enabled: false
-      url: ${CBOMKIT_REGULATOR_API_BASE:http://localhost:8080}
-
-
-

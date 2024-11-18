@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/babel/babel
-  - pkg:npm/@babel/plugin-transform-runtime

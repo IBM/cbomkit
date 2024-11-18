@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/golang-github-hashicorp-go-getter
-  - pkg:deb/ubuntu/golang-github-hashicorp-go-getter
-  - pkg:github/hashicorp/go-getter

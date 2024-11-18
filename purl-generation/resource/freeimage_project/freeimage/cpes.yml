@@ -1,6 +1,0 @@
-cpes:
-  - cpe:2.3:a:freeimage_project:freeimage:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:freeimage_project:freeimage:1.18.0:*:*:*:*:*:*:*
-  - cpe:2.3:a:freeimage_project:freeimage:3.17.0:*:*:*:*:*:*:*
-  - cpe:2.3:a:freeimage_project:freeimage:3.18.0:*:*:*:*:*:*:*
-  - cpe:2.3:a:freeimage_project:freeimage:3.19.0:*:*:*:*:*:*:*

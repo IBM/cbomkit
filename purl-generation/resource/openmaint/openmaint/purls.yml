@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/rsilva4/openmaint
-  - pkg:github/rsilva4/docker-openmaint
-  - pkg:sourceforge/openmaint

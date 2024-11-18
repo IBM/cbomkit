@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/fastify/csrf-protection
-  - pkg:npm/%40fastify/csrf-protection

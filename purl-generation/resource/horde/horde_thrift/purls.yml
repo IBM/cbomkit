@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/php-horde-thrift
-  - pkg:deb/ubuntu/php-horde-thrift
-  - pkg:github/horde/thrift
-  - pkg:rpm/fedora/php-horde-horde-thrift
-  - pkg:rpm/opensuse/php-horde-horde-thrift

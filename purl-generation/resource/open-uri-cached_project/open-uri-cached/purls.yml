@@ -1,3 +1,0 @@
-purls:
-  - pkg:gem/open-uri-cached
-  - pkg:github/tigris/open-uri-cached

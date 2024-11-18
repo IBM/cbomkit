@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/htmlunit
-  - pkg:deb/ubuntu/htmlunit
-  - pkg:github/htmlunit/htmlunit
-  - pkg:maven/net.sourceforge.htmlunit/htmlunit
-  - pkg:sourceforge/htmlunit

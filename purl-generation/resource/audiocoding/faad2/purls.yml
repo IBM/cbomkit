@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/faad2
-  - pkg:github/opendigitalradio/faad2
-  - pkg:rpm/opensuse/faad2

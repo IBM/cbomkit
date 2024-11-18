@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/nusoap
-  - pkg:deb/ubuntu/nusoap
-  - pkg:github/f00b4r/nusoap
-  - pkg:sourceforge/nusoap

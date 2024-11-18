@@ -1,7 +1,0 @@
-purls:
-  - pkg:bitbucket/eliteraspberries/tor
-  - pkg:deb/debian/tor
-  - pkg:deb/ubuntu/tor
-  - pkg:github/torproject/tor
-  - pkg:rpm/fedora/tor
-  - pkg:rpm/opensuse/tor

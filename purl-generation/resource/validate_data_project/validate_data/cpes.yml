@@ -1,7 +1,0 @@
-cpes:
-  - cpe:2.3:a:validate_data_project:validate_data:0.0.1:*:*:*:*:node.js:*:*
-  - cpe:2.3:a:validate_data_project:validate_data:0.0.2:*:*:*:*:node.js:*:*
-  - cpe:2.3:a:validate_data_project:validate_data:0.0.3:*:*:*:*:node.js:*:*
-  - cpe:2.3:a:validate_data_project:validate_data:0.0.4:*:*:*:*:node.js:*:*
-  - cpe:2.3:a:validate_data_project:validate_data:0.1.0:*:*:*:*:node.js:*:*
-  - cpe:2.3:a:validate_data_project:validate_data:0.1.1:*:*:*:*:node.js:*:*

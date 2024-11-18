@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/aerospike/aerospike-client-nodejs
-  - pkg:npm/aerospike

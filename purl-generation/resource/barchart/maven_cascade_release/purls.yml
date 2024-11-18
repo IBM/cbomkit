@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/barchart/barchart-jenkins-cascade-plugin
-  - pkg:github/jenkinsci/maven-release-cascade-plugin

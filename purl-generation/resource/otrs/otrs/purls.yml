@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/otrs
-  - pkg:deb/ubuntu/otrs
-  - pkg:github/otrs/otrs
-  - pkg:rpm/fedora/otrs
-  - pkg:rpm/opensuse/otrs

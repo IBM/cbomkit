@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/mcabber
-  - pkg:deb/ubuntu/mcabber
-  - pkg:github/mckael/mcabber
-  - pkg:rpm/fedora/mcabber
-  - pkg:rpm/opensuse/mcabber

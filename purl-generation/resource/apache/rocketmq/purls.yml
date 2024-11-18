@@ -1,5 +1,0 @@
-purls:
-  - pkg:apache/rocketmq
-  - pkg:docker/apache/rocketmq
-  - pkg:github/apache/rocketmq
-  - pkg:maven/org.apache.rocketmq/rocketmq-all

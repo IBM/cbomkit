@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/swagger-api/swagger-codegen
-  - pkg:maven/io.swagger/swagger-codegen-project

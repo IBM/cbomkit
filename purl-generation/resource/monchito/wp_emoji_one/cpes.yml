@@ -1,5 +1,0 @@
-cpes:
-  - cpe:2.3:a:monchito:wp_emoji_one:0.5.0:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:monchito:wp_emoji_one:0.6.0:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:monchito:wp_emoji_one:*:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:monchito:wp_emoji_one:-:*:*:*:*:wordpress:*:*

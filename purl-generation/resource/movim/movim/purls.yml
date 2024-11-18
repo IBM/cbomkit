@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/movim
-  - pkg:deb/ubuntu/movim
-  - pkg:github/movim/movim

@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/checkbot
-  - pkg:deb/ubuntu/checkbot
-  - pkg:github/gitpan/checkbot
-  - pkg:rpm/opensuse/perl-checkbot
-  - pkg:sourceforge/checkbot

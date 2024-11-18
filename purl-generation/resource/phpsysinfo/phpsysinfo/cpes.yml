@@ -1,9 +1,0 @@
-cpes:
-  - cpe:2.3:a:phpsysinfo:phpsysinfo:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:phpsysinfo:phpsysinfo:-:*:*:*:*:*:*:*
-  - cpe:2.3:a:phpsysinfo:phpsysinfo:2.0:*:*:*:*:*:*:*
-  - cpe:2.3:a:phpsysinfo:phpsysinfo:2.1:*:*:*:*:*:*:*
-  - cpe:2.3:a:phpsysinfo:phpsysinfo:2.3:*:*:*:*:*:*:*
-  - cpe:2.3:a:phpsysinfo:phpsysinfo:2.4:*:*:*:*:*:*:*
-  - cpe:2.3:a:phpsysinfo:phpsysinfo:2.5.1:*:*:*:*:*:*:*
-  - cpe:2.3:a:phpsysinfo:phpsysinfo:3.4.3:*:*:*:*:*:*:*

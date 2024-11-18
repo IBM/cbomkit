@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/luajit/luajit
-  - pkg:github/moonjit/moonjit
-  - pkg:rpm/opensuse/moonjit

@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/snyk/snyk-hex-plugin
-  - pkg:npm/%snyk/snyk-hex-plugin

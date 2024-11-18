@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/opa-ff
-  - pkg:deb/ubuntu/opa-ff
-  - pkg:github/cornelisnetworks/opa-ff
-  - pkg:rpm/opensuse/opa-ff

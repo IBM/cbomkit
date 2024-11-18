@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/dexie/dexie.js
-  - pkg:maven/org.webjars.npm/dexie
-  - pkg:npm/dexie
-  - pkg:sourceforge/dexie-js.mirror

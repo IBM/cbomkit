@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/ruby-netaddr
-  - pkg:deb/ubuntu/ruby-netaddr
-  - pkg:gem/netaddr
-  - pkg:github/dspinhirne/netaddr-rb
-  - pkg:rpm/opensuse/rubygem-netaddr

@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/quagga
-  - pkg:deb/ubuntu/quagga
-  - pkg:github/quagga/quagga
-  - pkg:rpm/opensuse/quagga

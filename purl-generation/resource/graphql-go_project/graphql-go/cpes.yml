@@ -1,5 +1,0 @@
-cpes:
-  - cpe:2.3:a:graphql-go_project:graphql-go:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:graphql-go_project:graphql-go:1.0.0:*:*:*:*:*:*:*
-  - cpe:2.3:a:graphql-go_project:graphql-go:1.1.0:*:*:*:*:*:*:*
-  - cpe:2.3:a:graphql-go_project:graphql-go:1.2.0:*:*:*:*:*:*:*

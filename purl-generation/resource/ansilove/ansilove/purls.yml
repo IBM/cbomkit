@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/ansilove
-  - pkg:deb/ubuntu/ansilove
-  - pkg:github/ansilove/ansilove
-  - pkg:rpm/opensuse/ansilove
-  - pkg:sourceforge/ansilove

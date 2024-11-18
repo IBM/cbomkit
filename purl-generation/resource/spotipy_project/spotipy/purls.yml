@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/spotipy-dev/spotipy
-  - pkg:pypi/spotipy
-  - pkg:rpm/opensuse/python-spotipy

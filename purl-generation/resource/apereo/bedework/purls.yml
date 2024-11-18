@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/bedework/bw-webdav
-  - pkg:maven/org.bedework/bw-caldav

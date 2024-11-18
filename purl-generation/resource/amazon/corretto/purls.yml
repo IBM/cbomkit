@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/amazoncorretto
-  - pkg:github/corretto/corretto-11
-  - pkg:github/corretto/corretto-8

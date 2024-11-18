@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/gcamerli/sgminer
-  - pkg:github/genesismining/sgminer-gm
-  - pkg:github/sgminer-dev/sgminer

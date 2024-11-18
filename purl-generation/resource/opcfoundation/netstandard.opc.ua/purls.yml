@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/opcfoundation/ua-.netstandard
-  - pkg:nuget/OPCFoundation.NetStandard.Opc.Ua

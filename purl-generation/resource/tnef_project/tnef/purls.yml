@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/tnef
-  - pkg:deb/ubuntu/tnef
-  - pkg:github/verdammelt/tnef
-  - pkg:rpm/fedora/tnef
-  - pkg:sourceforge/tnef

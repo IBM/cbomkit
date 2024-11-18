@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/trinity
-  - pkg:deb/ubuntu/trinity
-  - pkg:github/kernelslacker/trinity
-  - pkg:rpm/opensuse/trinity

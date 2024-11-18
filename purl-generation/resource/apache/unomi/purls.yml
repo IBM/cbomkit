@@ -1,5 +1,0 @@
-purls:
-  - pkg:apache/unomi
-  - pkg:docker/apache/unomi
-  - pkg:github/apache/unomi
-  - pkg:maven/org.apache.unomi/unomi

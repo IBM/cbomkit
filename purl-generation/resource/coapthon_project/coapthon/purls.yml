@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/mcfreis/coapthon
-  - pkg:github/tanganelli/coapthon
-  - pkg:github/tanganelli/coapthon3
-  - pkg:pypi/coapthon

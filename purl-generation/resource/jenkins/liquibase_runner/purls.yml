@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/jenkinsci/liquibase-runner-plugin
-  - pkg:github/prospero238/liquibase-runner

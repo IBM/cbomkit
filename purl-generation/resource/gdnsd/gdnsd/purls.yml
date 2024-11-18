@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/gdnsd
-  - pkg:deb/ubuntu/gdnsd
-  - pkg:github/gdnsd/gdnsd

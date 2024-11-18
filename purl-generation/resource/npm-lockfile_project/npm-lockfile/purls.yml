@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/ljharb/npm-lockfile
-  - pkg:npm/npm-lockfile

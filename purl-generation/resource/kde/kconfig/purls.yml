@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/kconfig
-  - pkg:deb/ubuntu/kconfig
-  - pkg:github/kde/kconfig
-  - pkg:rpm/opensuse/kconfig

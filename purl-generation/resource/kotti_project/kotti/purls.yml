@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/kotti/kotti
-  - pkg:github/kotti/kotti
-  - pkg:pypi/kotti

@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/libsixel
-  - pkg:deb/ubuntu/libsixel
-  - pkg:github/saitoha/libsixel
-  - pkg:rpm/opensuse/libsixel

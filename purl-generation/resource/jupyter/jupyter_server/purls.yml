@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/jupyter-server/jupyter_server
-  - pkg:pypi/jupyter-server

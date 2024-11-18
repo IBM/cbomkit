@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/javamelody/javamelody
-  - pkg:maven/net.bull.javamelody/javamelody-core

@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/rsyslog
-  - pkg:deb/ubuntu/rsyslog
-  - pkg:github/rsyslog/rsyslog
-  - pkg:rpm/fedora/rsyslog
-  - pkg:rpm/opensuse/rsyslog

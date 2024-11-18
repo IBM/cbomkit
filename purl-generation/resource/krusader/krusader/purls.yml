@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/krusader
-  - pkg:deb/ubuntu/krusader
-  - pkg:github/kde/krusader
-  - pkg:rpm/fedora/krusader
-  - pkg:rpm/opensuse/krusader

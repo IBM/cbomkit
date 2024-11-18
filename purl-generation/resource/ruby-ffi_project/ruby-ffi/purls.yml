@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/ruby-ffi
-  - pkg:deb/ubuntu/ruby-ffi
-  - pkg:gem/ffi
-  - pkg:github/ffi/ffi
-  - pkg:gitlab/kalilinux/ruby-ffi

@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/neuecc/messagepack-csharp
-  - pkg:nuget/MessagePack

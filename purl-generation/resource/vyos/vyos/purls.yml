@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/vyos/vyos-build
-  - pkg:github/vyos/vyos-build

@@ -1,3 +1,0 @@
-purls:
-  - pkg:rpm/fedora/net-snmp
-  - pkg:sourceforge/net-snmp

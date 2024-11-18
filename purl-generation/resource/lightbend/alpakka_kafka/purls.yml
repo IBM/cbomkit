@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/akka/alpakka-kafka
-  - pkg:golang/github.com/akka/alpakka-kafka

@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/yugabytedb/yugabyte
-  - pkg:github/yugabyte/yugabyte-db
-  - pkg:golang/github.com/yugabyte/yugabyte-db
-  - pkg:sourceforge/yugabytedb.mirror

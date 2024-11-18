@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/jpilot
-  - pkg:github/juddmon/jpilot
-  - pkg:rpm/fedora/jpilot
-  - pkg:rpm/opensuse/jpilot

@@ -1,8 +1,0 @@
-cpes:
-  - cpe:2.3:a:jenkins:scriptler:3.1:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:scriptler:3.2:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:scriptler:3.3:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:scriptler:342.v6a_89fd40f466:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:scriptler:3.4:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:scriptler:3.5:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:scriptler:-:*:*:*:*:jenkins:*:*

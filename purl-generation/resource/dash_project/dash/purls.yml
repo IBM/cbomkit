@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/dash
-  - pkg:deb/ubuntu/dash
-  - pkg:github/mgree/libdash
-  - pkg:rpm/fedora/dash
-  - pkg:rpm/opensuse/dash

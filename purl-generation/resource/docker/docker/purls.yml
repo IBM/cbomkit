@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/docker
-  - pkg:deb/ubuntu/docker
-  - pkg:github/docker/docker-install

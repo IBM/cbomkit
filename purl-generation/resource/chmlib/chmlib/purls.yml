@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/chmlib
-  - pkg:deb/ubuntu/chmlib
-  - pkg:github/jedwing/chmlib
-  - pkg:rpm/fedora/chmlib
-  - pkg:rpm/opensuse/chmlib

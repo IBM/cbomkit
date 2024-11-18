@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/lepton
-  - pkg:deb/ubuntu/lepton
-  - pkg:github/dropbox/lepton
-  - pkg:rpm/opensuse/lepton
-  - pkg:sourceforge/dropbox-lepton.mirror

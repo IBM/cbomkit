@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/garycourt/uri-js
-  - pkg:maven/org.webjars.npm/uri-js
-  - pkg:npm/uri-js

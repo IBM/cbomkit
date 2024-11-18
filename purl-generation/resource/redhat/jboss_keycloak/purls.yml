@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/boss/keycloak
-  - pkg:github/keycloak/keycloak-containers

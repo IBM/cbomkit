@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/openstack/devstack
-  - pkg:pypi/devstack-tools

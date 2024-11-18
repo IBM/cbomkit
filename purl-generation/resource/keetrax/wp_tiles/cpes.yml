@@ -1,4 +1,0 @@
-cpes:
-  - cpe:2.3:a:keetrax:wp_tiles:1.1.2:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:keetrax:wp_tiles:*:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:keetrax:wp_tiles:-:*:*:*:*:wordpress:*:*

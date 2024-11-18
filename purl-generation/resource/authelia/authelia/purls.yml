@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/authelia/authelia
-  - pkg:github/authelia/authelia
-  - pkg:npm/authelia

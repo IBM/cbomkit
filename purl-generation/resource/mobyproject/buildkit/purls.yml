@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/moby/buildkit
-  - pkg:golang/github.com/moby/buildkit

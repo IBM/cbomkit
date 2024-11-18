@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/satori/go.uuid
-  - pkg:golang/github.com/satori/go.uuid

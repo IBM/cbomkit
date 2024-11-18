@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/Debian/postsrsd
-  - pkg:deb/ubuntu/postsrsd
-  - pkg:github/roehling/postsrsd
-  - pkg:rpm/fedora/postsrsd
-  - pkg:rpm/opensuse/postsrsd

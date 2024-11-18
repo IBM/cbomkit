@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/ldm
-  - pkg:deb/ubuntu/ldm
-  - pkg:github/ltsp/ltsp

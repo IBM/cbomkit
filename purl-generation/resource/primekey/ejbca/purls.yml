@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/bitnami/ejbca
-  - pkg:github/rgorosito/ejbca
-  - pkg:sourceforge/ejbca

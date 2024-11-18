@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/ubuntu/smplayer
-  - pkg:github/smplayer-dev/smplayer
-  - pkg:rpm/opensuse/smplayer
-  - pkg:sourceforge/smplayer

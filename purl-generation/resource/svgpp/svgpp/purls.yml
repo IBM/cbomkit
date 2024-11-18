@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/svgpp
-  - pkg:deb/ubuntu/svgpp
-  - pkg:github/svgpp/svgpp

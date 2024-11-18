@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/supervisor
-  - pkg:deb/ubuntu/supervisor
-  - pkg:github/supervisor/supervisor
-  - pkg:pypi/supervisor
-  - pkg:rpm/fedora/supervisor
-  - pkg:rpm/opensuse/supervisor

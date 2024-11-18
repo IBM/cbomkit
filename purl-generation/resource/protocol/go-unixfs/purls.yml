@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/ipfs/go-unixfs
-  - pkg:golang/github.com/ipfs/go-unixfs

@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/gnome-shell
-  - pkg:deb/ubuntu/gnome-shell
-  - pkg:github/gnome/gnome-shell
-  - pkg:rpm/fedora/gnome-shell
-  - pkg:rpm/opensuse/gnome-shell

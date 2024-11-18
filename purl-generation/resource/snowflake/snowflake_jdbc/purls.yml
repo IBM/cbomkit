@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/snowflakedb/snowflake-jdbc
-  - pkg:maven/net.snowflake/snowflake-jdbc

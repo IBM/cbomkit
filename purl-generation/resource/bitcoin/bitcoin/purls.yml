@@ -1,5 +1,0 @@
-purls:
-  - pkg:bitcoin/bitcoin
-  - pkg:bitcoincore/bitcoin
-  - pkg:github/bitcoin/bitcoin
-  - pkg:sourceforge/bitcoin

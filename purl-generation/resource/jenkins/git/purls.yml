@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/jenkinsci/git-plugin
-  - pkg:maven/org.jenkins-ci.plugins/git

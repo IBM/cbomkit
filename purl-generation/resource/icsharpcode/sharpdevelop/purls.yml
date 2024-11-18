@@ -1,5 +1,0 @@
-purls:
-  - pkg:bitbucket/saydulk/sharpdevelop
-  - pkg:github/icsharpcode/sharpdevelop
-  - pkg:nuget/SharpZipLib
-  - pkg:sourceforge/sharpdevelop

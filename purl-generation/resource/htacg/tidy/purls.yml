@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/tidy-html5
-  - pkg:deb/ubuntu/tidy-html5
-  - pkg:github/htacg/tidy-html5
-  - pkg:rpm/fedora/tidy
-  - pkg:rpm/opensuse/tidy

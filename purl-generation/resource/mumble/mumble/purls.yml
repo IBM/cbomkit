@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/mumble
-  - pkg:deb/ubuntu/mumble
-  - pkg:github/mumble-voip/mumble
-  - pkg:rpm/fedora/mumble
-  - pkg:rpm/opensuse/mumble
-  - pkg:sourceforge/mumble

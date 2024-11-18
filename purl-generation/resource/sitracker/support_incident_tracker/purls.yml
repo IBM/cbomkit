@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/turnkeylinux/sitracker
-  - pkg:github/sitracker/sitracker
-  - pkg:github/turnkeylinux-apps/sitracker
-  - pkg:sourceforge/sitracker

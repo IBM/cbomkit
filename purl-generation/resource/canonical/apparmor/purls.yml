@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/apparmor
-  - pkg:deb/ubuntu/apparmor
-  - pkg:github/oxagast/apparmor
-  - pkg:gitlab/apparmor/apparmor
-  - pkg:rpm/opensuse/apparmor

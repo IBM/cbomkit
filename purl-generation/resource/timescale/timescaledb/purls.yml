@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/timescale/timescaledb
-  - pkg:github/rohankumardubey/timescaledb
-  - pkg:github/timescale/timescaledb
-  - pkg:rpm/fedora/timescaledb

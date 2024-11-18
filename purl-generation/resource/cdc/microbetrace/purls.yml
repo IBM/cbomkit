@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/aaboyles/microbetrace
-  - pkg:github/aaboyles/microbetrace
-  - pkg:github/cdcgov/microbetrace

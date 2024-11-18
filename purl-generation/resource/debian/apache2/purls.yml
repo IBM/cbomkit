@@ -1,3 +1,0 @@
-purls:
-  - pkg:deb/debian/apache2
-  - pkg:deb/ubuntu/apache2

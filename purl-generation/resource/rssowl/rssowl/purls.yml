@@ -1,5 +1,0 @@
-purls:
-  - pkg:github/rssowl/rssowl
-  - pkg:gitlab/crockchartering/rssowl
-  - pkg:rpm/fedora/rssowl
-  - pkg:sourceforge/rssowl

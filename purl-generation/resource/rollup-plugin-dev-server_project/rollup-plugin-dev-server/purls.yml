@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/genie88/rollup-plugin-server
-  - pkg:npm/rollup-plugin-dev-server

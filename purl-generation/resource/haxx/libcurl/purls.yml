@@ -1,7 +1,0 @@
-purls:
-  - pkg:curl/libcurl
-  - pkg:deb/debian/curl
-  - pkg:deb/ubuntu/curl
-  - pkg:github/curl/curl
-  - pkg:rpm/fedora/curl
-  - pkg:rpm/opensuse/curl

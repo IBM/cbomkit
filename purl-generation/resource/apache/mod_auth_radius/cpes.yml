@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:apache:mod_auth_radius:-:*:*:*:*:*:*:*
-  - cpe:2.3:a:apache:mod_auth_radius:1.5.4:*:*:*:*:*:*:*

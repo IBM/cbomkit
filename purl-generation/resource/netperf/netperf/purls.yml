@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/netperf
-  - pkg:deb/ubuntu/netperf
-  - pkg:github/hewlettpackard/netperf
-  - pkg:rpm/fedora/netperf
-  - pkg:rpm/opensuse/netperf

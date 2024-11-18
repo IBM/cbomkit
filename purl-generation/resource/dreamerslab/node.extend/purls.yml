@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/dreamerslab/node.extend
-  - pkg:maven/org.webjars.npm/node.extend
-  - pkg:npm/node.extend

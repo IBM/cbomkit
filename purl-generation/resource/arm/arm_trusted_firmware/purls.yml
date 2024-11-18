@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/arm-trusted-firmware
-  - pkg:deb/ubuntu/arm-trusted-firmware
-  - pkg:github/arm-software/arm-trusted-firmware
-  - pkg:github/renesas-rcar/arm-trusted-firmware
-  - pkg:rpm/fedora/arm-trusted-firmware
-  - pkg:rpm/opensuse/arm-trusted-firmware

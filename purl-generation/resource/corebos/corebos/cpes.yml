@@ -1,6 +1,0 @@
-cpes:
-  - cpe:2.3:a:corebos:corebos:-:*:*:*:*:*:*:*
-  - cpe:2.3:a:corebos:corebos:5.4:*:*:*:*:*:*:*
-  - cpe:2.3:a:corebos:corebos:5.5:*:*:*:*:*:*:*
-  - cpe:2.3:a:corebos:corebos:7.0:*:*:*:*:*:*:*
-  - cpe:2.3:a:corebos:corebos:8.0:*:*:*:*:*:*:*

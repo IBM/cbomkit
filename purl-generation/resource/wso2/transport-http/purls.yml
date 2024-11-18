@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/wso2/transport-http
-  - pkg:maven/org.wso2.transport.http/http-parent

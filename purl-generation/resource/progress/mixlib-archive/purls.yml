@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/ruby-mixlib-archive
-  - pkg:deb/ubuntu/ruby-mixlib-archive
-  - pkg:gem/mixlib-archive
-  - pkg:github/chef/mixlib-archive
-  - pkg:rpm/opensuse/rubygem-mixlib-archive

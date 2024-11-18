@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/lsiocommunity/shout-irc
-  - pkg:github/erming/shout
-  - pkg:npm/shout

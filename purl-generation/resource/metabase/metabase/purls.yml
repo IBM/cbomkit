@@ -1,5 +1,0 @@
-purls:
-  - pkg:docker/metabase/metabase
-  - pkg:github/metabase/metabase
-  - pkg:gitlab/herakles-erp/metabase
-  - pkg:sourceforge/metabase.mirror

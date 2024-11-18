@@ -1,5 +1,0 @@
-purls:
-  - pkg:composer/kellan/magpierss
-  - pkg:deb/ubuntu/magpierss
-  - pkg:github/kellan/magpierss
-  - pkg:sourceforge/magpierss

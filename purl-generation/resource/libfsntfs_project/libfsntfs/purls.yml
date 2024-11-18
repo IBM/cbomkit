@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/libfsntfs
-  - pkg:deb/ubuntu/libfsntfs
-  - pkg:github/libyal/libfsntfs
-  - pkg:nuget/libfsntfs
-  - pkg:rpm/opensuse/libfsntfs

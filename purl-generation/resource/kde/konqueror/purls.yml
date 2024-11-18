@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/konqueror
-  - pkg:deb/ubuntu/konqueror
-  - pkg:github/kde/konqueror
-  - pkg:rpm/fedora/konqueror
-  - pkg:rpm/opensuse/konqueror

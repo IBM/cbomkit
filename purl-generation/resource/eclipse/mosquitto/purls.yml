@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/mosquitto
-  - pkg:deb/ubuntu/mosquitto
-  - pkg:github/eclipse/mosquitto
-  - pkg:rpm/fedora/mosquitto
-  - pkg:rpm/opensuse/mosquitto

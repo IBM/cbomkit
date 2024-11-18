@@ -1,3 +1,0 @@
-purls:
-  - pkg:docker/bblfsh/bblfshd
-  - pkg:github/bblfsh/bblfshd

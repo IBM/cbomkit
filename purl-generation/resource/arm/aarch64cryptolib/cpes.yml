@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:arm:aarch64cryptolib:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:arm:aarch64cryptolib:-:*:*:*:*:*:*:*

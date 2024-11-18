@@ -1,8 +1,0 @@
-cpes:
-  - cpe:2.3:a:nzbget:nzbget:*:*:*:*:*:*:*:*
-  - cpe:2.3:a:nzbget:nzbget:0.1.0a:*:*:*:*:*:*:*
-  - cpe:2.3:a:nzbget:nzbget:0.1.1:*:*:*:*:*:*:*
-  - cpe:2.3:a:nzbget:nzbget:0.1.2:*:*:*:*:*:*:*
-  - cpe:2.3:a:nzbget:nzbget:0.2.0:*:*:*:*:*:*:*
-  - cpe:2.3:a:nzbget:nzbget:0.2.1:*:*:*:*:*:*:*
-  - cpe:2.3:a:nzbget:nzbget:21.1:*:*:*:*:*:*:*

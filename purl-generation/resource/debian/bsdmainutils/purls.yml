@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/bsdmainutils
-  - pkg:deb/ubuntu/bsdmainutils
-  - pkg:github/kit-ty-kate/bsdmainutils

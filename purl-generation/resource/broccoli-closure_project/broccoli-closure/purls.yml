@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/markuskobler/broccoli-closure-plugin
-  - pkg:npm/broccoli-closure

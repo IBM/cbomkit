@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/xcftools
-  - pkg:deb/ubuntu/xcftools
-  - pkg:docker/think/xcftools
-  - pkg:github/j-jorge/xcftools

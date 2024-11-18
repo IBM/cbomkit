@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/micronaut-projects/micronaut-core
-  - pkg:maven/io.micronaut/micronaut-parent

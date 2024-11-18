@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/node-ua-parser-js
-  - pkg:deb/ubuntu/node-ua-parser-js
-  - pkg:github/faisalman/ua-parser-js
-  - pkg:maven/org.webjars.npm/ua-parser-js
-  - pkg:npm/ua-parser-js

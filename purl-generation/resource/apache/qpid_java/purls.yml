@@ -1,3 +1,0 @@
-purls:
-  - pkg:apache/qpid
-  - pkg:maven/org.apache.qpid/qpid-java-build

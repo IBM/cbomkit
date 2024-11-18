@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/milkytracker
-  - pkg:deb/ubuntu/milkytracker
-  - pkg:github/milkytracker/milkytracker
-  - pkg:rpm/fedora/milkytracker
-  - pkg:rpm/opensuse/milkytracker

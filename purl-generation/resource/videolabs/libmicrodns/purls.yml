@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/ubuntu/libmicrodns
-  - pkg:github/videolabs/libmicrodns
-  - pkg:rpm/fedora/libmicrodns

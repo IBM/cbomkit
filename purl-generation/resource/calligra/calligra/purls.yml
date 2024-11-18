@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/calligra
-  - pkg:deb/ubuntu/calligra
-  - pkg:github/kde/calligra
-  - pkg:rpm/fedora/calligra
-  - pkg:rpm/opensuse/calligra

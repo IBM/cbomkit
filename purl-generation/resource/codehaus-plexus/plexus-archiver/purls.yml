@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/codehaus-plexus/plexus-archiver
-  - pkg:maven/org.codehaus.plexus/plexus-archiver

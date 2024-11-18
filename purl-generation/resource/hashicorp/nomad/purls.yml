@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/nomad
-  - pkg:deb/ubuntu/nomad
-  - pkg:github/hashicorp/nomad

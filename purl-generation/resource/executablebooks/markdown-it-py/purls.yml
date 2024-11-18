@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/python3-markdown-it
-  - pkg:deb/ubuntu/python3-markdown-it
-  - pkg:github/executablebooks/markdown-it-py
-  - pkg:pypi/markdown-it-py

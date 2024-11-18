@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/horovod/horovod
-  - pkg:github/horovod/horovod
-  - pkg:pypi/horovod

@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/parted
-  - pkg:deb/ubuntu/parted
-  - pkg:gnu/parted
-  - pkg:rpm/fedora/parted
-  - pkg:rpm/opensuse/parted

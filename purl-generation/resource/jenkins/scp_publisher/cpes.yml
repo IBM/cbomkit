@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:jenkins:scp_publisher:1.8:*:*:*:*:jenkins:*:*
-  - cpe:2.3:a:jenkins:scp_publisher:-:*:*:*:*:jenkins:*:*

@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:karma-runner:karma:6.3.14:*:*:*:*:node.js:*:*
-  - cpe:2.3:a:karma-runner:karma:*:*:*:*:*:node.js:*:*

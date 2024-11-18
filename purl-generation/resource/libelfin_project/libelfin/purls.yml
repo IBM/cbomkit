@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/libelfin
-  - pkg:deb/ubuntu/libelfin
-  - pkg:github/aclements/libelfin
-  - pkg:rpm/opensuse/libelfin

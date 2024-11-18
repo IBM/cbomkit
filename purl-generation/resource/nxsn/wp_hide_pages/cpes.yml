@@ -1,4 +1,0 @@
-cpes:
-  - cpe:2.3:a:nxsn:wp_hide_pages:1.0:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:nxsn:wp_hide_pages:*:*:*:*:*:wordpress:*:*
-  - cpe:2.3:a:nxsn:wp_hide_pages:-:*:*:*:*:wordpress:*:*

@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/libansilove
-  - pkg:deb/ubuntu/libansilove
-  - pkg:github/ansilove/libansilove
-  - pkg:rpm/opensuse/libansilove

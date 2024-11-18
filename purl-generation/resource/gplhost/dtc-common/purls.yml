@@ -1,3 +1,0 @@
-purls:
-  - pkg:deb/debian/dtc
-  - pkg:github/zba/dtc

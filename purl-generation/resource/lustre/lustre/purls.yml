@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/llnl/lustre
-  - pkg:github/lustre/lustre-release
-  - pkg:github/rread/lustre

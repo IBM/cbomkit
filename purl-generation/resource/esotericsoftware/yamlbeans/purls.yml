@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/esotericsoftware/yamlbeans
-  - pkg:maven/com.esotericsoftware.yamlbeans/yamlbeans
-  - pkg:sourceforge/yamlbeans

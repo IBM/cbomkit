@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/cloudflare/circl
-  - pkg:golang/github.com/cloudflare/circl

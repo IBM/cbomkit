@@ -1,5 +1,0 @@
-purls:
-  - pkg:apache/mesos
-  - pkg:github/apache/mesos
-  - pkg:maven/org.apache.mesos/mesos
-  - pkg:rpm/opensuse/mesos

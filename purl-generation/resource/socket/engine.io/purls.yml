@@ -1,6 +1,0 @@
-purls:
-  - pkg:github/socketio/engine.io
-  - pkg:maven/org.webjars.npm/engine.io
-  - pkg:npm/engine.io
-  - pkg:rpm/opensuse/nodejs-engine.io
-  - pkg:sourceforge/engine-io.mirror

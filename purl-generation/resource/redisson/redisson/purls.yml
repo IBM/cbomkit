@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/redisson/redisson
-  - pkg:maven/org.redisson/redisson

@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/vmware-tanzu/velero
-  - pkg:rpm/opensuse/velero

@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/bedita/bedita
-  - pkg:github/bedita/bedita
-  - pkg:sourceforge/bedita

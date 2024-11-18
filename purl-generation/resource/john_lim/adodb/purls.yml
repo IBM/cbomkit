@@ -1,4 +1,0 @@
-purls:
-  - pkg:composer/adodb/adodb-php
-  - pkg:github/adodb/adodb
-  - pkg:sourceforge/adodb

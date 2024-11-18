@@ -1,4 +1,0 @@
-purls:
-  - pkg:docker/moscajs/aedes
-  - pkg:github/moscajs/aedes
-  - pkg:npm/aedes

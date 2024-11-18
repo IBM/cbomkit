@@ -1,9 +1,0 @@
-purls:
-  - pkg:deb/debian/eog
-  - pkg:deb/ubuntu/eog
-  - pkg:github/gnome/eog
-  - pkg:gitlab/gnome/eog
-  - pkg:gitlab/redhat/eog
-  - pkg:gnome/eog
-  - pkg:rpm/fedora/eog
-  - pkg:rpm/opensuse/eog

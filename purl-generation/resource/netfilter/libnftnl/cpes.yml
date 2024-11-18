@@ -1,3 +1,0 @@
-cpes:
-  - cpe:2.3:a:netfilter:libnftnl:-:*:*:*:*:*:*:*
-  - cpe:2.3:a:netfilter:libnftnl:1.1.4:*:*:*:*:*:*:*

@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/json-c/json-c
-  - pkg:rpm/fedora/json-c
-  - pkg:rpm/opensuse/json-c

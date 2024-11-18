@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/mali-midgard-driver
-  - pkg:deb/ubuntu/mali-midgard-driver
-  - pkg:github/libreelec/mali-midgard

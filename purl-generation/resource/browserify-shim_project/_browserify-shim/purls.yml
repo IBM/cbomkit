@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/thlorenz/browserify-shim
-  - pkg:npm/browserify-shim

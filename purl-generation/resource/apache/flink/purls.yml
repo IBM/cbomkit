@@ -1,5 +1,0 @@
-purls:
-  - pkg:apache/flink
-  - pkg:docker/apache/flink
-  - pkg:github/apache/flink
-  - pkg:maven/org.apache.flink/flink-core

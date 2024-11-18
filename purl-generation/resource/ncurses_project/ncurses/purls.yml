@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/rust-ncurses
-  - pkg:deb/ubuntu/rust-ncurses
-  - pkg:github/jeaye/ncurses-rs
-  - pkg:rpm/fedora/rust-ncurses

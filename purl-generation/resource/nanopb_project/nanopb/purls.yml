@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/nanopb
-  - pkg:deb/ubuntu/nanopb
-  - pkg:github/nanopb/nanopb
-  - pkg:rpm/opensuse/nanopb

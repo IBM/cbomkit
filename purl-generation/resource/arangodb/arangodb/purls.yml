@@ -1,5 +1,0 @@
-purls:
-  - pkg:bitbucket/hartmarken349/arangodb
-  - pkg:docker/arangodb
-  - pkg:github/arangodb/arangodb
-  - pkg:rpm/opensuse/arangodb

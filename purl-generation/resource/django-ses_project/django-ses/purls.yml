@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/django-ses/django-ses
-  - pkg:pypi/django-ses

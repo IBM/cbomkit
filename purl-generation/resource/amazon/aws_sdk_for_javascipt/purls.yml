@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/aws/aws-sdk-js
-  - pkg:npm/aws-sdk

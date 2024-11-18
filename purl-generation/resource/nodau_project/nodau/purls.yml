@@ -1,4 +1,0 @@
-purls:
-  - pkg:deb/debian/nodau
-  - pkg:deb/ubuntu/nodau
-  - pkg:github/ticklishhoneybee/nodau

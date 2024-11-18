@@ -1,4 +1,0 @@
-purls:
-  - pkg:github/ultrajson/ultrajson
-  - pkg:golang/github.com/ultrajson/ultrajson
-  - pkg:pypi/ujson

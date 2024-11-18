@@ -1,3 +1,0 @@
-purls:
-  - pkg:github/jenkinsci/publish-over-ssh-plugin
-  - pkg:maven/org.jenkins-ci.plugins/publish-over-ssh

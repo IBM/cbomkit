@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/xzgv
-  - pkg:deb/ubuntu/xzgv
-  - pkg:rpm/fedora/xzgv
-  - pkg:rpm/opensuse/xzgv
-  - pkg:sourceforge/xzgv

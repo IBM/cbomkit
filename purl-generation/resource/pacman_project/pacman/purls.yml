@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/pacman
-  - pkg:deb/ubuntu/pacman
-  - pkg:pypi/python-pacman
-  - pkg:rpm/fedora/pacman
-  - pkg:rpm/opensuse/pacman

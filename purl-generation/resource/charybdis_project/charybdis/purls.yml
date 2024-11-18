@@ -1,5 +1,0 @@
-purls:
-  - pkg:deb/debian/charybdis
-  - pkg:deb/ubuntu/charybdis
-  - pkg:github/charybdis-ircd/charybdis
-  - pkg:rpm/opensuse/charybdis

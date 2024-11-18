@@ -1,7 +1,0 @@
-purls:
-  - pkg:deb/debian/libcaca
-  - pkg:deb/ubuntu/libcaca
-  - pkg:github/cacalabs/libcaca
-  - pkg:gitlab/redhat/libcaca
-  - pkg:rpm/fedora/libcaca
-  - pkg:rpm/opensuse/libcaca

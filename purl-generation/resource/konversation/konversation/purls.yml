@@ -1,6 +1,0 @@
-purls:
-  - pkg:deb/debian/konversation
-  - pkg:deb/ubuntu/konversation
-  - pkg:github/kde/konversation
-  - pkg:rpm/fedora/konversation
-  - pkg:rpm/opensuse/konversation
