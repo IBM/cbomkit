@@ -56,6 +56,11 @@ jobs:
                 <username>${{ github.actor }}</username>
                 <password>${{ secrets.GITHUB_TOKEN }}</password>
               </server>
+              <server>
+                <id>app-bootstrap</id>
+                <username>${{ github.actor }}</username>
+                <password>${{ secrets.GITHUB_TOKEN }}</password>
+              </server>
             </servers>
           </settings>" > ~/.m2/settings.xml
       - name: Build with Maven
