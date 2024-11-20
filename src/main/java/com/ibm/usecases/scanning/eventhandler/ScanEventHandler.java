@@ -52,6 +52,7 @@ public final class ScanEventHandler extends DomainEventHandler {
 
     private void handleScanRequested(@Nonnull ScanRequestedEvent scanRequestedEvent) {
         final ScanId scanId = scanRequestedEvent.getScanId();
-        this.commandBus.send(new CloneGitRepositoryCommand(scanId));
+        this.commandBus.send(
+                new CloneGitRepositoryCommand(scanId, scanRequestedEvent.getCredentials()));
     }
 }

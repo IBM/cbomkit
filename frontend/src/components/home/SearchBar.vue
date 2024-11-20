@@ -6,12 +6,12 @@
         class="search-bar"
         placeholder="Enter the Git URL to scan"
         v-model="model.codeOrigin.gitLink"
-        @keyup.enter="connectAndScan(gitInfo()[0], gitInfo()[1])"
+        @keyup.enter="connectAndScan(advancedOptions()[0], advancedOptions()[1], advancedOptions()[2])"
       />
       <cv-button
         class="search-button"
         :icon="ArrowRight24"
-        @click="connectAndScan(gitInfo()[0], gitInfo()[1])"
+        @click="connectAndScan(advancedOptions()[0], advancedOptions()[1], advancedOptions()[2])"
         :disabled="!model.codeOrigin.gitLink"
         >Scan</cv-button
       >
@@ -26,18 +26,37 @@
     </div>
     <Transition name="filters">
       <div v-show="filterOpen">
-        <cv-text-input
-          class="filter-input"
-          label="Branch"
-          placeholder="Specify a specific branch"
-          v-model="gitBranch"
-        />
-        <cv-text-input
-          class="filter-input"
-          label="Subfolder"
-          placeholder="Specify a specific subfolder to scan"
-          v-model="gitSubfolder"
-        />
+        <cv-tabs style="padding-top: 15px; padding-bottom: 10px">
+          <cv-tab label="Scan">
+            <cv-text-input
+              class="filter-input"
+              label="Branch"
+              placeholder="Specify a specific branch"
+              v-model="gitBranch"
+            />
+            <cv-text-input
+              class="filter-input"
+              label="Subfolder"
+              placeholder="Specify a specific subfolder to scan"
+              v-model="gitSubfolder"
+            />
+          </cv-tab>
+          <cv-tab label="Authentication">
+            <cv-text-input
+                class="filter-input"
+                label="Username"
+                placeholder="Leave black if you use an Access Token (PAT)"
+                v-model="username"
+            />
+            <cv-text-input
+                type="password"
+                class="filter-input"
+                label="Password / Access Token (PAT)"
+                placeholder="The password for the username or an Access Token (PAT) to authenticate"
+                v-model="passwordOrPAT"
+            />
+          </cv-tab>
+        </cv-tabs>
       </div>
     </Transition>
   </div>
@@ -58,14 +77,16 @@ export default {
       filterOpen: false,
       gitBranch: null,
       gitSubfolder: null,
+      username: null,
+      passwordOrPAT: null,
     };
   },
   methods: {
-    gitInfo: function () {
+    advancedOptions: function () {
       if (this.filterOpen) {
-        return [this.gitBranch, this.gitSubfolder];
+        return [this.gitBranch, this.gitSubfolder, { username: this.username, passwordOrPAT: this.passwordOrPAT }];
       } else {
-        return [null, null];
+        return [null, null, null];
       }
     },
   },
@@ -92,11 +113,11 @@ export default {
 .filters-leave-active {
   transition: all 0.4s;
   /* max-height should be larger than the tallest element: https://stackoverflow.com/questions/42591331/animate-height-on-v-if-in-vuejs-using-transition */
-  max-height: 150px;
+  max-height: 250px;
 }
 .filters-enter,
 .filters-leave-to {
   opacity: 0;
-  max-height: 0px;
+  max-height: 0;
 }
 </style>

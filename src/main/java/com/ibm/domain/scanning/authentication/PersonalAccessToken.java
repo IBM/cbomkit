@@ -17,28 +17,8 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.ibm.usecases.scanning.commands;
+package com.ibm.domain.scanning.authentication;
 
-import app.bootstrap.core.cqrs.ICommand;
-import com.ibm.domain.scanning.ScanId;
-import com.ibm.domain.scanning.authentication.ICredentials;
 import jakarta.annotation.Nonnull;
-import jakarta.annotation.Nullable;
-import java.util.Optional;
 
-public record CloneGitRepositoryCommand(@Nonnull ScanId id, @Nullable ICredentials credentials)
-        implements ICommand {
-
-    @Nonnull
-    @Override
-    public String toString() {
-        return this.getClass().getSimpleName()
-                + "[id="
-                + id
-                + ", credentials="
-                + Optional.ofNullable(credentials)
-                        .map(c -> c.getClass().getSimpleName())
-                        .orElse("none")
-                + "]";
-    }
-}
+public record PersonalAccessToken(@Nonnull String token) implements ICredentials {}

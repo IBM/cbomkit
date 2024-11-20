@@ -28,6 +28,7 @@ import com.ibm.domain.scanning.Revision;
 import com.ibm.domain.scanning.ScanAggregate;
 import com.ibm.domain.scanning.ScanId;
 import com.ibm.domain.scanning.ScanRequest;
+import com.ibm.domain.scanning.authentication.ICredentials;
 import com.ibm.domain.scanning.errors.InvalidGitUrl;
 import io.quarkus.runtime.StartupEvent;
 import jakarta.annotation.Nonnull;
@@ -57,7 +58,8 @@ public final class RequestScanCommandHandler extends CommandHandler<ScanId, Scan
                         @Nonnull ScanId scanId,
                         @Nonnull String gitUrl,
                         @Nullable String branch,
-                        @Nullable String subfolder)) {
+                        @Nullable String subfolder,
+                        @Nullable ICredentials credentials)) {
             final ScanRequest scanRequest =
                     new ScanRequest(
                             new GitUrl(gitUrl),
@@ -65,7 +67,8 @@ public final class RequestScanCommandHandler extends CommandHandler<ScanId, Scan
                             subfolder);
             // create Aggregate and start scan
             // it will emit a domain event that the scan is requested
-            final ScanAggregate scanAggregate = ScanAggregate.requestScan(scanId, scanRequest);
+            final ScanAggregate scanAggregate =
+                    ScanAggregate.requestScan(scanId, scanRequest, credentials);
             this.repository.save(scanAggregate);
         }
     }

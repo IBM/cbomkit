@@ -33,7 +33,6 @@ import java.util.Collection;
 import java.util.List;
 import java.util.Optional;
 import java.util.UUID;
-import org.jetbrains.annotations.NotNull;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -76,7 +75,7 @@ public final class CBOMReadRepository extends ReadRepository<UUID, CBOMReadModel
     }
 
     @Override
-    public @NotNull Optional<CBOMReadModel> findBy(@NotNull GitUrl gitUrl) {
+    public @Nonnull Optional<CBOMReadModel> findBy(@Nonnull GitUrl gitUrl) {
         final EntityManager entityManager = CBOMReadModel.getEntityManager();
         final ArcContainer container = Arc.container();
         container.requestContext().activate();

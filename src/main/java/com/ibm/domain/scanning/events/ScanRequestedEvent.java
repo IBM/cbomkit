@@ -21,13 +21,18 @@ package com.ibm.domain.scanning.events;
 
 import app.bootstrap.core.ddd.DomainEvent;
 import com.ibm.domain.scanning.ScanId;
+import com.ibm.domain.scanning.authentication.ICredentials;
 import jakarta.annotation.Nonnull;
+import jakarta.annotation.Nullable;
+import java.util.Optional;
 
 public final class ScanRequestedEvent extends DomainEvent {
     @Nonnull private final ScanId scanId;
+    @Nullable private final ICredentials credentials;
 
-    public ScanRequestedEvent(@Nonnull ScanId scanId) {
+    public ScanRequestedEvent(@Nonnull ScanId scanId, @Nullable ICredentials credentials) {
         this.scanId = scanId;
+        this.credentials = credentials;
     }
 
     @Nonnull
@@ -35,9 +40,20 @@ public final class ScanRequestedEvent extends DomainEvent {
         return scanId;
     }
 
+    @Nullable public ICredentials getCredentials() {
+        return credentials;
+    }
+
     @Nonnull
     @Override
     public String toString() {
-        return this.getClass().getSimpleName() + "[scanId=" + scanId + "]";
+        return this.getClass().getSimpleName()
+                + "[scanId="
+                + scanId
+                + ", credentials="
+                + Optional.ofNullable(credentials)
+                        .map(c -> c.getClass().getSimpleName())
+                        .orElse("none")
+                + "]";
     }
 }

@@ -23,6 +23,9 @@ import app.bootstrap.core.cqrs.ICommandBus;
 import app.bootstrap.core.ddd.IDomainEventBus;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.ibm.domain.scanning.ScanId;
+import com.ibm.domain.scanning.authentication.ICredentials;
+import com.ibm.domain.scanning.authentication.PersonalAccessToken;
+import com.ibm.domain.scanning.authentication.UsernameAndPasswordCredentials;
 import com.ibm.infrastructure.progress.ProgressMessage;
 import com.ibm.infrastructure.progress.ProgressMessageType;
 import com.ibm.infrastructure.progress.WebSocketProgressDispatcher;
@@ -31,6 +34,7 @@ import com.ibm.infrastructure.scanning.repositories.ScanRepository;
 import com.ibm.usecases.scanning.commands.RequestScanCommand;
 import com.ibm.usecases.scanning.processmanager.ScanProcessManager;
 import jakarta.annotation.Nonnull;
+import jakarta.annotation.Nullable;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.websocket.OnClose;
 import jakarta.websocket.OnError;
@@ -84,9 +88,10 @@ public class ScanningResource {
     }
 
     @OnMessage
-    public void onMessage(String requestJSONString, @PathParam("clientId") String clientId) {
+    public void onMessage(
+            @Nullable String requestJSONString, @Nullable @PathParam("clientId") String clientId) {
         try {
-            LOGGER.info("Received {} from {}", requestJSONString, clientId);
+            LOGGER.info("Received from {}", clientId);
             final Session session = Optional.ofNullable(sessions.get(clientId)).orElseThrow();
             final WebSocketProgressDispatcher webSocketProgressDispatcher =
                     new WebSocketProgressDispatcher(session);
@@ -105,6 +110,8 @@ public class ScanningResource {
                             this.configuration);
             this.commandBus.register(scanProcessManager);
 
+            final ICredentials authCredentials = getCredentials(scanRequest);
+
             webSocketProgressDispatcher.send(
                     new ProgressMessage(ProgressMessageType.LABEL, "Starting..."));
             commandBus.send(
@@ -112,10 +119,26 @@ public class ScanningResource {
                             scanId,
                             scanRequest.getGitUrl(),
                             scanRequest.getBranch(),
-                            scanRequest.getSubfolder()));
+                            scanRequest.getSubfolder(),
+                            authCredentials));
 
         } catch (Exception e) {
             LOGGER.error("Error processing request", e);
         }
+    }
+
+    @Nullable private static ICredentials getCredentials(@Nonnull ScanRequest scanRequest) {
+        @Nullable ICredentials authCredentials = null;
+        final Credentials credentials = scanRequest.getCredentials();
+        if (credentials != null) {
+            if (credentials.username() != null && credentials.password() != null) {
+                authCredentials =
+                        new UsernameAndPasswordCredentials(
+                                credentials.username(), credentials.password());
+            } else if (credentials.pat() != null) {
+                authCredentials = new PersonalAccessToken(credentials.pat());
+            }
+        }
+        return authCredentials;
     }
 }

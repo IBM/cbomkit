@@ -44,7 +44,7 @@ function startWebSocket(socketURL) {
       // In safari, manually closing the connection creates an error:
       // Do not display an error when the connection is manually closed by the user
       console.warn(
-        "The connection was closed by the client. An connection error occured, but has NOT been notified in the UI."
+        "The connection was closed by the client. An connection error occurred, but has NOT been notified in the UI."
       );
     } else {
       console.error("WebSocket error:", error);
@@ -68,9 +68,10 @@ export function stopWebSocket() {
   // }
 }
 
-export function connectAndScan(gitBranch, gitSubfolder) {
+export function connectAndScan(gitBranch, gitSubfolder, credentials) {
   model.resetScanningInfo();
-  setAndCleanCodeOrigin(gitBranch, gitSubfolder);
+  setCodeOrigin(gitBranch, gitSubfolder);
+  setCredentials(credentials)
   let clientId = uuid4();
   let socketURL = `${API_SCAN_URL}/${clientId}`;
   startWebSocket(socketURL);
@@ -81,19 +82,30 @@ function scan() {
     model.addError(ErrorStatus.NoConnection);
     console.log("No socket in model");
   } else if (!model.codeOrigin.gitLink) {
-    // TODO: Should I validate the look of the Git link in the frontend?
     model.addError(ErrorStatus.InvalidRepo);
     console.log("Git URL not valid");
   } else {
-    var request = {};
-    request["gitUrl"] = model.codeOrigin.gitLink;
+    // build scan request
+    const scanRequest = {};
+    // set scan options
+    scanRequest["gitUrl"] = model.codeOrigin.gitLink;
     if (model.codeOrigin.gitBranch) {
-      request["branch"] = model.codeOrigin.gitBranch;
+      scanRequest["branch"] = model.codeOrigin.gitBranch;
     }
     if (model.codeOrigin.gitSubfolder) {
-      request["subfolder"] = model.codeOrigin.gitSubfolder;
+      scanRequest["subfolder"] = model.codeOrigin.gitSubfolder;
     }
-    model.scanning.socket.send(JSON.stringify(request));
+    // set credentials
+    if (model.credentials.pat) {
+      scanRequest["credentials"] = {}
+      scanRequest["credentials"]["pat"] = model.credentials.pat;
+    } else if (model.credentials.username && model.credentials.password) {
+      scanRequest["credentials"] = {}
+      scanRequest["credentials"]["username"] = model.credentials.username;
+      scanRequest["credentials"]["password"] = model.credentials.password;
+    }
+
+    model.scanning.socket.send(JSON.stringify(scanRequest));
     // this.filterOpen = false
     model.scanning.isScanning = true;
     model.scanning.scanningStatus = STATES.LOADING;
@@ -118,11 +130,13 @@ function handleMessage(messageJson) {
       ); // Time in seconds
     }
   } else if (obj["type"] === "ERROR") {
-    model.addError(ErrorStatus.BranchNotSpecified); // TODO: When several different error messages will exist, this will have to be changed
+    model.addError(ErrorStatus.ScanError, model.scanning.scanningStatusMessage = obj["message"]); //
+    // update state
     model.scanning.scanningStatusMessage = obj["message"];
-    console.error("Error from backend:", model.scanning.scanningStatusMessage);
     model.scanning.scanningStatus = STATES.ERROR;
     model.scanning.isScanning = false;
+    // log
+    console.error("Error from backend:", model.scanning.scanningStatusMessage);
   } else if (obj["type"] === "PURL") {
     model.codeOrigin.gitPurls = obj["purls"];
     // This is not strictly necessary anymore now that I read PURLs from the CBOM, but it arrives before the CBOM so I leave it
@@ -150,7 +164,7 @@ function handleMessage(messageJson) {
   }
 }
 
-function setAndCleanCodeOrigin(gitBranch, gitSubfolder) {
+function setCodeOrigin(gitBranch, gitSubfolder) {
   if (model.codeOrigin.gitLink) {
     model.codeOrigin.gitLink = model.codeOrigin.gitLink.trim();
   }
@@ -159,5 +173,18 @@ function setAndCleanCodeOrigin(gitBranch, gitSubfolder) {
   }
   if (gitSubfolder) {
     model.codeOrigin.gitSubfolder = gitSubfolder.trim();
+  }
+}
+
+function setCredentials(credentials) {
+  if (credentials === null) {
+    return
+  }
+
+  if (credentials.username && credentials.passwordOrPAT) {
+    model.credentials.username = credentials.username;
+    model.credentials.password = credentials.passwordOrPAT;
+  } else if (credentials.passwordOrPAT) {
+    model.credentials.pat = credentials.passwordOrPAT;
   }
 }

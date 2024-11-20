@@ -28,6 +28,11 @@ export const model = reactive({
     gitPurls: [],
     uploadedFileName: null,
   },
+  credentials: {
+    username: null,
+    password: null,
+    pat: null,
+  },
   policyCheckResult: null,
   errors: [],
   lastCboms: [],
@@ -62,8 +67,13 @@ export const model = reactive({
     model.codeOrigin.gitPurls = [];
     model.codeOrigin.uploadedFileName = null;
   },
-  addError(error) {
-    this.errors.push(error);
+  resetCredentials() {
+    model.credentials.username = null;
+    model.credentials.password = null;
+    model.credentials.pat = null;
+  },
+  addError(errorStatus, message) {
+    this.errors.push({status: errorStatus, message: message});
   },
   closeError(index) {
     this.errors.splice(index, 1);
@@ -73,7 +83,7 @@ export const model = reactive({
 export const ErrorStatus = {
   NoConnection: "NoConnection",
   InvalidRepo: "InvalidRepo",
-  BranchNotSpecified: "BranchNotSpecified",
+  ScanError: "ScanError",
   JsonParsing: "JsonParsing",
   InvalidCbom: "InvalidCbom",
   IgnoredComponent: "IgnoredComponent",
