@@ -45,14 +45,14 @@
             <cv-text-input
                 class="filter-input"
                 label="Username"
-                placeholder="Leave black if you use an Access Token (PAT)"
+                placeholder="If using an access Token (PAT), leave blank"
                 v-model="username"
             />
             <cv-text-input
                 type="password"
                 class="filter-input"
                 label="Password / Access Token (PAT)"
-                placeholder="The password for the username or an Access Token (PAT) to authenticate"
+                placeholder="The password for the user or anccess token (PAT) for authentication"
                 v-model="passwordOrPAT"
             />
           </cv-tab>
