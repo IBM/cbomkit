@@ -31,47 +31,42 @@ export default {
       var kind = "error";
       var title = "Unknown error";
       var description = "An unknown error has occured.";
-      if (error == ErrorStatus.NoConnection) {
+      if (error.status === ErrorStatus.NoConnection) {
         kind = "error";
         title = "No connection";
         description =
           "Connection to the server has failed. Please try again later.";
-      } else if (error == ErrorStatus.InvalidRepo) {
+      } else if (error.status === ErrorStatus.InvalidRepo) {
         kind = "error";
         title = "Invalid repository";
         description =
           "The provided address does not lead to a readable repository.";
-      } else if (error == ErrorStatus.JsonParsing) {
+      } else if (error.status === ErrorStatus.JsonParsing) {
         kind = "error";
         title = "Parsing error";
         description = "An incorrect JSON file cannot be parsed.";
-      } else if (error == ErrorStatus.B64Decoding) {
+      } else if (error.status === ErrorStatus.ScanError) {
         kind = "error";
-        title = "Decoding error";
-        description = "An incorrect base 64 file cannot be decoded.";
-      } else if (error == ErrorStatus.BranchNotSpecified) {
-        kind = "error";
-        title = "Clone fail";
-        description =
-          "Could not clone git repo branch 'main' or 'master'. Try to specify the branch.";
-      } else if (error == ErrorStatus.InvalidCbom) {
+        title = "Error while scanning";
+        description = error.message;
+      } else if (error.status === ErrorStatus.InvalidCbom) {
         kind = "error";
         title = "Invalid CBOM";
         description = "The provided CBOM does not respect the expected format.";
-      } else if (error == ErrorStatus.IgnoredComponent) {
+      } else if (error.status === ErrorStatus.IgnoredComponent) {
         kind = "info";
         title = "Some components are not shown";
         description = "The provided CBOM contains one or several components that are not cryptographic assets. They are not displayed here.";
-      } else if (error == ErrorStatus.MultiUpload) {
+      } else if (error.status === ErrorStatus.MultiUpload) {
         kind = "error";
         title = "Multiple upload";
         description = "Please only upload a single CBOM file.";
-      } else if (error == ErrorStatus.EmptyDatabase) {
+      } else if (error.status === ErrorStatus.EmptyDatabase) {
         kind = "warning";
         title = "Empty database";
         description =
           "Connection to the server was successful, but the CBOM database is empty.";
-      } else if (error == ErrorStatus.FallBackLocalComplianceReport) {
+      } else if (error.status === ErrorStatus.FallBackLocalComplianceReport) {
         kind = "warning";
         title = "Limited compliance results";
         description =

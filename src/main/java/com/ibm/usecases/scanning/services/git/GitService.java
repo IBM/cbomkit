@@ -20,14 +20,17 @@
 package com.ibm.usecases.scanning.services.git;
 
 import com.ibm.domain.scanning.Commit;
-import com.ibm.domain.scanning.ScanId;
 import com.ibm.domain.scanning.ScanRequest;
+import com.ibm.domain.scanning.authentication.ICredentials;
+import com.ibm.domain.scanning.authentication.PersonalAccessToken;
+import com.ibm.domain.scanning.authentication.UsernameAndPasswordCredentials;
 import com.ibm.infrastructure.errors.ClientDisconnected;
 import com.ibm.infrastructure.progress.IProgressDispatcher;
 import com.ibm.infrastructure.progress.ProgressMessage;
 import com.ibm.infrastructure.progress.ProgressMessageType;
 import com.ibm.usecases.scanning.errors.GitCloneFailed;
 import jakarta.annotation.Nonnull;
+import jakarta.annotation.Nullable;
 import java.io.File;
 import java.io.IOException;
 import java.util.UUID;
@@ -35,6 +38,8 @@ import org.eclipse.jgit.api.Git;
 import org.eclipse.jgit.api.errors.GitAPIException;
 import org.eclipse.jgit.lib.ObjectId;
 import org.eclipse.jgit.lib.Ref;
+import org.eclipse.jgit.transport.CredentialsProvider;
+import org.eclipse.jgit.transport.UsernamePasswordCredentialsProvider;
 
 public final class GitService {
     @Nonnull private final IProgressDispatcher progressDispatcher;
@@ -47,11 +52,12 @@ public final class GitService {
     }
 
     @Nonnull
-    public CloneResultDTO clone(@Nonnull ScanId scanId, @Nonnull ScanRequest scanRequest)
+    public CloneResultDTO clone(
+            @Nonnull ScanRequest scanRequest, @Nullable ICredentials credentials)
             throws GitCloneFailed, ClientDisconnected {
         try {
             // create directory
-            final String folderId = UUID.randomUUID().toString().replaceAll("-", "");
+            final String folderId = UUID.randomUUID().toString().replace("-", "");
             final String scanClonePath = this.baseCloneDirPath + File.separator + folderId;
             final File scanCloneFile = new File(scanClonePath);
             if (scanCloneFile.exists()) {
@@ -72,12 +78,14 @@ public final class GitService {
                                     // nothing
                                 }
                             });
+
             final Git clonedRepo =
                     Git.cloneRepository()
                             .setProgressMonitor(gitProgressMonitor)
                             .setURI(scanRequest.gitUrl().value())
                             .setBranch(scanRequest.revision().value())
                             .setDirectory(scanCloneFile)
+                            .setCredentialsProvider(getCredentialsProvider(credentials))
                             .call();
             Ref revisionRef = clonedRepo.getRepository().findRef(scanRequest.revision().value());
             if (revisionRef == null) {
@@ -100,5 +108,18 @@ public final class GitService {
         } catch (GitAPIException | GitCloneFailed | IOException e) {
             throw new GitCloneFailed("Git clone failed: " + e.getMessage());
         }
+    }
+
+    @Nullable private CredentialsProvider getCredentialsProvider(@Nullable ICredentials credentials) {
+        if (credentials
+                instanceof
+                UsernameAndPasswordCredentials(
+                        @Nonnull String username,
+                        @Nonnull String password)) {
+            return new UsernamePasswordCredentialsProvider(username, password);
+        } else if (credentials instanceof PersonalAccessToken(@Nonnull String token)) {
+            return new UsernamePasswordCredentialsProvider(token, "");
+        }
+        return null;
     }
 }

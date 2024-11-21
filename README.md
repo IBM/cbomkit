@@ -4,7 +4,7 @@
 [![Current Release](https://img.shields.io/github/release/IBM/cbomkit.svg?logo=IBM)](https://github.com/IBM/cbomkit/releases)
 
 CBOMkit is a toolset for dealing with Cryptography Bill of Materials (CBOM). CBOMkit includes a
-- **CBOM Generation** ([CBOMkit-hyperion](https://github.com/IBM/sonar-cryptography), [CBOMkit-theia](https://github.com/IBM/cbomkit-theia)): Generate CBOMs from source code by scanning git repositories to find the used cryptography.
+- **CBOM Generation** ([CBOMkit-hyperion](https://github.com/IBM/sonar-cryptography), [CBOMkit-theia](https://github.com/IBM/cbomkit-theia)): Generate CBOMs from source code by scanning private and public git repositories to find the used cryptography.
 - **CBOM Viewer ([CBOMkit-coeus](https://github.com/IBM/cbomkit?tab=readme-ov-file#cbomkit-coeus))**: Visualize a generated or uploaded CBOM and access comprehensive statistics.
 - **CBOM Compliance Check**: Evaluate CBOMs created or uploaded against specified compliance policies and receive detailed compliance status reports.
 - **CBOM Database**: Collect and store CBOMs into the database and expose this data through a RESTful API.
@@ -80,15 +80,14 @@ The API server functions as the central component of the CBOMkit, offering a com
 
 #### Features
 - Retrieve the most recent generated CBOMs
-- Access stored CBOMs from the database using Package URLs (PURL)
-- Execute targeted searches for scanned Git repositories utilizing specific algorithms (by name and Oid)
+- Access stored CBOMs from the database
 - Perform compliance checks for user-provided CBOMs against specified policies 
 - Conduct compliance assessments for stored or generated CBOMs against defined policies
 
-*Sample Query to Retrieve CBOM by Package URL*
+*Sample Query to Retrieve CBOM project identifier*
 ```shell
 curl --request GET \
-  --url 'http://localhost:8081/api/v1/cbom?purls=pkg:github/OddSource/java-license-manager'
+  --url 'http://localhost:8081/api/v1/cbom/github.com%2Fkeycloak%2Fkeycloak'
 ```
 
 In addition to the RESTful API, the server incorporates WebSocket integration, enabling:

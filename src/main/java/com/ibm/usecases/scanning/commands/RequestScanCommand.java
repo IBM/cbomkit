@@ -21,12 +21,36 @@ package com.ibm.usecases.scanning.commands;
 
 import app.bootstrap.core.cqrs.ICommand;
 import com.ibm.domain.scanning.ScanId;
+import com.ibm.domain.scanning.authentication.ICredentials;
 import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
+import java.util.Optional;
 
 public record RequestScanCommand(
         @Nonnull ScanId scanId,
         @Nonnull String gitUrl,
         @Nullable String branch,
-        @Nullable String subfolder)
-        implements ICommand {}
+        @Nullable String subfolder,
+        // authentication
+        @Nullable ICredentials credentials)
+        implements ICommand {
+
+    @Nonnull
+    @Override
+    public String toString() {
+        return this.getClass().getSimpleName()
+                + "[scanId="
+                + scanId
+                + ", gitUrl="
+                + gitUrl
+                + ", branch="
+                + branch
+                + ", subfolder="
+                + subfolder
+                + ", credentials="
+                + Optional.ofNullable(credentials)
+                        .map(c -> c.getClass().getSimpleName())
+                        .orElse("none")
+                + "]";
+    }
+}

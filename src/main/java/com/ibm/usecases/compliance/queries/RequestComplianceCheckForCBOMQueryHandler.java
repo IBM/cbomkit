@@ -34,7 +34,6 @@ import jakarta.annotation.Nonnull;
 import jakarta.enterprise.event.Observes;
 import jakarta.inject.Singleton;
 import java.util.Collection;
-import org.jetbrains.annotations.NotNull;
 
 @Singleton
 public final class RequestComplianceCheckForCBOMQueryHandler
@@ -53,8 +52,8 @@ public final class RequestComplianceCheckForCBOMQueryHandler
     }
 
     @Override
-    public @NotNull ComplianceResult handle(
-            @NotNull RequestComplianceCheckForCBOMQuery requestComplianceCheckForCBOMQuery)
+    public @Nonnull ComplianceResult handle(
+            @Nonnull RequestComplianceCheckForCBOMQuery requestComplianceCheckForCBOMQuery)
             throws Exception {
         final CompliancePreparationService compliancePreparationService =
                 new CompliancePreparationService();

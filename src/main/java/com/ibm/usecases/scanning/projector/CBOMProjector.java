@@ -41,7 +41,6 @@ import jakarta.inject.Singleton;
 import java.util.List;
 import java.util.Optional;
 import java.util.UUID;
-import org.jetbrains.annotations.NotNull;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -63,7 +62,7 @@ public class CBOMProjector extends Projector<UUID, CBOMReadModel> {
     }
 
     @Override
-    public void handleEvent(@NotNull IDomainEvent event) throws Exception {
+    public void handleEvent(@Nonnull IDomainEvent event) throws Exception {
         if (event instanceof ScanFinishedEvent scanFinishedEvent) {
             this.handleLanguageScanDoneEvent(scanFinishedEvent);
         }

@@ -20,6 +20,7 @@
 package com.ibm.domain.scanning;
 
 import app.bootstrap.core.ddd.AggregateRoot;
+import com.ibm.domain.scanning.authentication.ICredentials;
 import com.ibm.domain.scanning.errors.CommitHashAlreadyExists;
 import com.ibm.domain.scanning.errors.InvalidGitUrl;
 import com.ibm.domain.scanning.errors.ScanResultForLanguageAlreadyExists;
@@ -34,7 +35,6 @@ import java.util.EnumMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
-import org.jetbrains.annotations.NotNull;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -51,7 +51,7 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
     }
 
     private ScanAggregate(
-            @NotNull ScanId id,
+            @Nonnull ScanId id,
             @Nonnull ScanRequest scanRequest,
             @Nullable Commit commit,
             @Nullable Map<Language, LanguageScan> languageScans) {
@@ -63,14 +63,17 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
 
     @Nonnull
     public static ScanAggregate requestScan(
-            @Nonnull ScanId scanId, @Nonnull final ScanRequest scanRequest) throws InvalidGitUrl {
+            @Nonnull ScanId scanId,
+            @Nonnull final ScanRequest scanRequest,
+            @Nullable ICredentials credentials)
+            throws InvalidGitUrl {
         // validate value object
         scanRequest.validate();
         // create aggregate
         final ScanAggregate aggregate =
                 new ScanAggregate(scanId, scanRequest); // change state: start a scan
         // add domain event, uncommited!
-        aggregate.apply(new ScanRequestedEvent(aggregate.getId()));
+        aggregate.apply(new ScanRequestedEvent(aggregate.getId(), credentials));
         return aggregate;
     }
 
@@ -138,7 +141,7 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
      */
     @Nonnull
     public static ScanAggregate reconstruct(
-            @NotNull ScanId id,
+            @Nonnull ScanId id,
             @Nonnull ScanRequest scanRequest,
             @Nullable Commit commit,
             @Nullable Map<Language, LanguageScan> languageScans) {

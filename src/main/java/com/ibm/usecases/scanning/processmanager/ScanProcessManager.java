@@ -114,7 +114,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
             final GitService gitService =
                     new GitService(this.progressDispatcher, this.baseCloneDirPath);
             final CloneResultDTO cloneResultDTO =
-                    gitService.clone(this.scanId, scanAggregate.getScanRequest());
+                    gitService.clone(scanAggregate.getScanRequest(), command.credentials());
             this.projectDirectory = cloneResultDTO.directory();
             // update aggregate
             scanAggregate.setCommitHash(cloneResultDTO.commit());
@@ -134,12 +134,18 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                                 this.scanId,
                                 scanAggregate.getScanRequest().gitUrl().value(),
                                 "master",
-                                scanAggregate.getScanRequest().subFolder()));
+                                scanAggregate.getScanRequest().subFolder(),
+                                command.credentials()));
             } else {
+                this.progressDispatcher.send(
+                        new ProgressMessage(
+                                ProgressMessageType.ERROR, gitCloneFailed.getMessage()));
                 this.compensate(command.id());
                 throw gitCloneFailed;
             }
-        } catch (ClientDisconnected | CommitHashAlreadyExists e) {
+        } catch (Exception e) {
+            this.progressDispatcher.send(
+                    new ProgressMessage(ProgressMessageType.ERROR, e.getMessage()));
             this.compensate(command.id());
             throw e;
         }
@@ -174,6 +180,8 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
             // continue with scan
             this.commandBus.send(new ScanCommand(command.id()));
         } catch (Exception e) {
+            this.progressDispatcher.send(
+                    new ProgressMessage(ProgressMessageType.ERROR, e.getMessage()));
             this.compensate(command.id());
             throw e;
         }
@@ -303,6 +311,8 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
             this.progressDispatcher.send(
                     new ProgressMessage(ProgressMessageType.LABEL, "Finished"));
         } catch (Exception e) {
+            this.progressDispatcher.send(
+                    new ProgressMessage(ProgressMessageType.ERROR, e.getMessage()));
             this.compensate(command.id());
             throw e;
         } finally {

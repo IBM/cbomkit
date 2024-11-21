@@ -35,7 +35,6 @@ import java.sql.Timestamp;
 import java.util.UUID;
 import org.hibernate.annotations.JdbcTypeCode;
 import org.hibernate.type.SqlTypes;
-import org.jetbrains.annotations.NotNull;
 
 @Entity
 @Cacheable
@@ -80,7 +79,7 @@ public class CBOMReadModel extends PanacheEntityBase implements IReadModel<UUID>
     protected CBOMReadModel() {}
 
     @Override
-    public @NotNull UUID getId() {
+    public @Nonnull UUID getId() {
         return this.id;
     }
 

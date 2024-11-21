@@ -1,0 +1,95 @@
+---
+openapi: 3.0.3
+info:
+  title: CBOMkit API
+  description: Service for generating and retrieving CBOMs
+  version: 1.2.0
+paths:
+  /api:
+    get:
+      tags:
+      - Status
+      summary: Health test
+      description: Health test endpoint
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                example:
+                  status: ok
+  /api/v1/cbom/last/{limit}:
+    get:
+      tags:
+      - CBOM Resource
+      summary: Return recently generated CBOMs from the repository
+      description: Returns a list of the most recently generated CBOMs. The length
+        of the list can by specified via the optional 'limit' parameter.
+      parameters:
+      - name: limit
+        in: path
+        required: true
+        schema:
+          format: int32
+          type: integer
+      responses:
+        "200":
+          description: OK
+  /api/v1/cbom/{projectIdentifier}:
+    get:
+      tags:
+      - CBOM Resource
+      description: Get CBOM
+      parameters:
+      - name: projectIdentifier
+        in: path
+        required: true
+        schema:
+          type: string
+      responses:
+        "200":
+          description: OK
+  /api/v1/compliance/check:
+    get:
+      tags:
+      - Compliance Resource
+      summary: Verify the compliance of a stored CBOM identified by it's PURL against
+        a policy
+      description: "Returns the JSON sent by the Regulator API, containing various\
+        \ information about the compliance of the CBOM for a set policy."
+      parameters:
+      - name: commit
+        in: query
+        schema:
+          type: string
+      - name: gitUrl
+        in: query
+        schema:
+          type: string
+      - name: policyIdentifier
+        in: query
+        schema:
+          type: string
+      responses:
+        "200":
+          description: OK
+    post:
+      tags:
+      - Compliance Resource
+      summary: Verify the compliance of a provided CBOM against a policy
+      description: "Returns the JSON sent by the Regulator API, containing various\
+        \ information about the compliance of the CBOM for a set policy."
+      parameters:
+      - name: policyIdentifier
+        in: query
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: string
+      responses:
+        "200":
+          description: OK

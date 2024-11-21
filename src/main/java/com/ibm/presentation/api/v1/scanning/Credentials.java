@@ -20,41 +20,9 @@
 package com.ibm.presentation.api.v1.scanning;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
 
-public class ScanRequest {
-    private String gitUrl;
-    private @Nullable String branch;
-    private @Nullable String subfolder;
-    private @Nullable Credentials credentials;
-
-    protected ScanRequest() {}
-
-    public ScanRequest(
-            @Nonnull @JsonProperty("gitUrl") String gitUrl,
-            @Nullable @JsonProperty("branch") String branch,
-            @Nullable @JsonProperty("subfolder") String subfolder,
-            @Nullable @JsonProperty("credentials") Credentials credentials) {
-        this.gitUrl = gitUrl;
-        this.branch = branch;
-        this.subfolder = subfolder;
-        this.credentials = credentials;
-    }
-
-    public String getGitUrl() {
-        return gitUrl;
-    }
-
-    @Nullable public String getBranch() {
-        return branch;
-    }
-
-    @Nullable public String getSubfolder() {
-        return subfolder;
-    }
-
-    @Nullable public Credentials getCredentials() {
-        return credentials;
-    }
-}
+public record Credentials(
+        @Nullable @JsonProperty("username") String username,
+        @Nullable @JsonProperty("password") String password,
+        @Nullable @JsonProperty("pat") String pat) {}
