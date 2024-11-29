@@ -31,7 +31,7 @@
     <sonar.plugin.api.version>10.14.0.2599</sonar.plugin.api.version>
     <sonar.plugin.api.impl.version>10.7.0.96327</sonar.plugin.api.impl.version>
 
-    <cyclonedx-maven-plugin.version>2.9.0</cyclonedx-maven-plugin.version>
+    <cyclonedx-maven-plugin.version>2.9.1</cyclonedx-maven-plugin.version>
     <surefire-plugin.version>3.5.2</surefire-plugin.version>
     <google-java-format.version>1.25.0</google-java-format.version>
   </properties>
