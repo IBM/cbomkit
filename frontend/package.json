@@ -8,18 +8,18 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@carbon/charts-vue": "^1.11.0",
+    "@carbon/charts-vue": "^1.22.0",
     "@carbon/ibmdotcom-web-components": "^2.10.0",
     "@carbon/icons-vue": "^10.71.1",
     "@carbon/type": "^11.20.1",
-    "@carbon/vue": "^2.45.1",
+    "@carbon/vue": "^3.0.22",
     "core-js": "^3.8.3",
     "normalize.css": "^8.0.1",
     "normalizecss": "^3.0.0",
     "sass": "^1.63.6",
     "sass-loader": "^14.0.0",
     "uuid4": "^2.0.3",
-    "vue": "^2.7.16",
+    "vue": "^3.5.12",
     "vue-simple-progress": "^1.1.1"
   },
   "devDependencies": {
