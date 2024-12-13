@@ -22,7 +22,7 @@ package com.ibm.infrastructure.database.readmodels;
 import app.bootstrap.core.ddd.IDomainEventBus;
 import app.bootstrap.core.ddd.ReadRepository;
 import com.ibm.domain.scanning.Commit;
-import com.ibm.domain.scanning.GitUrl;
+import com.ibm.domain.scanning.ScanUrl;
 import io.quarkus.arc.Arc;
 import io.quarkus.arc.ArcContainer;
 import io.quarkus.narayana.jta.QuarkusTransaction;
@@ -46,7 +46,8 @@ public final class CBOMReadRepository extends ReadRepository<UUID, CBOMReadModel
     }
 
     @Override
-    public @Nonnull Optional<CBOMReadModel> findBy(@Nonnull GitUrl gitUrl, @Nonnull Commit commit) {
+    public @Nonnull Optional<CBOMReadModel> findBy(
+            @Nonnull ScanUrl gitUrl, @Nonnull Commit commit) {
         final EntityManager entityManager = CBOMReadModel.getEntityManager();
         final ArcContainer container = Arc.container();
         container.requestContext().activate();
@@ -75,7 +76,7 @@ public final class CBOMReadRepository extends ReadRepository<UUID, CBOMReadModel
     }
 
     @Override
-    public @Nonnull Optional<CBOMReadModel> findBy(@Nonnull GitUrl gitUrl) {
+    public @Nonnull Optional<CBOMReadModel> findBy(@Nonnull ScanUrl gitUrl) {
         final EntityManager entityManager = CBOMReadModel.getEntityManager();
         final ArcContainer container = Arc.container();
         container.requestContext().activate();

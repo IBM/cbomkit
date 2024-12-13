@@ -20,16 +20,42 @@
 package com.ibm.domain.scanning;
 
 import app.bootstrap.core.ddd.IValueObject;
+import com.github.packageurl.MalformedPackageURLException;
+import com.github.packageurl.PackageURL;
 import com.ibm.domain.scanning.errors.InvalidScanUrl;
 import jakarta.annotation.Nonnull;
-import jakarta.annotation.Nullable;
+import java.net.MalformedURLException;
+import java.net.URI;
 
-public record ScanRequest(
-        @Nonnull ScanUrl scanUrl, @Nonnull Revision revision, @Nullable String subFolder)
-        implements IValueObject {
+public record ScanUrl(@Nonnull String value) implements IValueObject {
 
+    @SuppressWarnings("all")
     @Override
     public void validate() throws InvalidScanUrl {
-        scanUrl.validate();
+        if (value.startsWith("pkg:")) {
+            try {
+                PackageURL purl = new PackageURL(value);
+                if (purl.getVersion() == null) {
+                    throw new InvalidScanUrl(value);
+                }
+            } catch (MalformedPackageURLException mpe) {
+                throw new InvalidScanUrl("Invalid purl " + value);
+            }
+        } else {
+            try {
+                URI.create(value).toURL();
+            } catch (MalformedURLException | IllegalArgumentException e) {
+                throw new InvalidScanUrl(value);
+            }
+        }
+    }
+
+    @Nonnull
+    public String getIdentifier() {
+        return value.replace("https://", "").replace("http://", "");
+    }
+
+    public boolean isPurl() {
+        return value.startsWith("pkg:");
     }
 }

@@ -21,8 +21,8 @@ package com.ibm.usecases.scanning.services.scan.java;
 
 import com.ibm.domain.scanning.CBOM;
 import com.ibm.domain.scanning.Commit;
-import com.ibm.domain.scanning.GitUrl;
 import com.ibm.domain.scanning.Revision;
+import com.ibm.domain.scanning.ScanUrl;
 import com.ibm.infrastructure.errors.ClientDisconnected;
 import com.ibm.infrastructure.progress.IProgressDispatcher;
 import com.ibm.infrastructure.progress.ProgressMessage;
@@ -63,7 +63,7 @@ public final class JavaScannerService extends ScannerService {
     @Override
     @Nonnull
     public synchronized ScanResultDTO scan(
-            @Nonnull GitUrl gitUrl,
+            @Nonnull ScanUrl gitUrl,
             @Nonnull Revision revision,
             @Nonnull Commit commit,
             @Nullable String subFolder,

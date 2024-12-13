@@ -22,9 +22,9 @@ package com.ibm.usecases.compliance.service;
 import com.ibm.domain.compliance.CryptographicAsset;
 import com.ibm.domain.scanning.CBOM;
 import com.ibm.domain.scanning.Commit;
-import com.ibm.domain.scanning.GitUrl;
+import com.ibm.domain.scanning.ScanUrl;
 import com.ibm.domain.scanning.errors.CBOMSerializationFailed;
-import com.ibm.domain.scanning.errors.InvalidGitUrl;
+import com.ibm.domain.scanning.errors.InvalidScanUrl;
 import com.ibm.infrastructure.database.readmodels.CBOMReadModel;
 import com.ibm.infrastructure.database.readmodels.ICBOMReadRepository;
 import com.ibm.usecases.compliance.errors.CouldNotFindCBOMForGitRepository;
@@ -42,9 +42,9 @@ public final class CompliancePreparationService {
 
     public Collection<CryptographicAsset> receiveCryptographicAssets(
             @Nonnull ICBOMReadRepository readRepository,
-            @Nonnull GitUrl gitUrl,
+            @Nonnull ScanUrl gitUrl,
             @Nullable Commit commit)
-            throws CBOMSerializationFailed, CouldNotFindCBOMForGitRepository, InvalidGitUrl {
+            throws CBOMSerializationFailed, CouldNotFindCBOMForGitRepository, InvalidScanUrl {
         // validate
         gitUrl.validate();
 

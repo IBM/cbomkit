@@ -24,12 +24,47 @@ import com.ibm.domain.scanning.errors.InvalidScanUrl;
 import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
 
-public record ScanRequest(
-        @Nonnull ScanUrl scanUrl, @Nonnull Revision revision, @Nullable String subFolder)
-        implements IValueObject {
+public class ResolvedScanRequest implements IValueObject {
+    @Nullable ScanUrl gitUrl;
+    @Nonnull ScanUrl scanUrl;
+    @Nonnull Revision revision;
+    @Nullable String subFolder;
+
+    public ScanUrl getGitUrl() {
+        return gitUrl;
+    }
+
+    public void setGitUrl(ScanUrl gitUrl) {
+        this.gitUrl = gitUrl;
+    }
+
+    public ScanUrl getScanUrl() {
+        return scanUrl;
+    }
+
+    public Revision getRevision() {
+        return revision;
+    }
+
+    public void setRevision(Revision revision) {
+        this.revision = revision;
+    }
+
+    public String getSubFolder() {
+        return subFolder;
+    }
 
     @Override
     public void validate() throws InvalidScanUrl {
         scanUrl.validate();
+        if (gitUrl != null) {
+            gitUrl.validate();
+        }
+    }
+
+    public ResolvedScanRequest(ScanRequest scanRequest) {
+        this.scanUrl = scanRequest.scanUrl();
+        this.revision = scanRequest.revision();
+        this.subFolder = scanRequest.subFolder();
     }
 }

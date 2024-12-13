@@ -17,33 +17,14 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.ibm.infrastructure.database.readmodels;
+package com.ibm.domain.scanning.errors;
 
-import app.bootstrap.core.ddd.IReadRepository;
-import com.ibm.domain.scanning.Commit;
-import com.ibm.domain.scanning.ScanUrl;
+import app.bootstrap.core.ddd.DomainException;
+import com.ibm.domain.scanning.ScanId;
 import jakarta.annotation.Nonnull;
-import java.util.Collection;
-import java.util.Optional;
-import java.util.UUID;
 
-public interface ICBOMReadRepository extends IReadRepository<UUID, CBOMReadModel> {
-
-    @Nonnull
-    Optional<CBOMReadModel> findBy(@Nonnull ScanUrl gitUrl, @Nonnull Commit commit);
-
-    /**
-     * Returns latest CBOM related to the git url.
-     *
-     * @param gitUrl the git url that identifies the CBOM.
-     * @return CBOM read model.
-     */
-    @Nonnull
-    Optional<CBOMReadModel> findBy(@Nonnull ScanUrl gitUrl);
-
-    @Nonnull
-    Optional<CBOMReadModel> findBy(@Nonnull String projectIdentifier);
-
-    @Nonnull
-    Collection<CBOMReadModel> getAll(int limit);
+public class GitUrlAlreadyResolved extends DomainException {
+    public GitUrlAlreadyResolved(@Nonnull ScanId scanId) {
+        super("Source repo already exists in scan " + scanId);
+    }
 }
