@@ -20,12 +20,17 @@
 package com.ibm.domain.scanning;
 
 import app.bootstrap.core.ddd.AggregateRoot;
+import com.github.packageurl.MalformedPackageURLException;
+import com.github.packageurl.PackageURL;
 import com.ibm.domain.scanning.authentication.ICredentials;
 import com.ibm.domain.scanning.errors.CommitHashAlreadyExists;
-import com.ibm.domain.scanning.errors.InvalidGitUrl;
+import com.ibm.domain.scanning.errors.GitUrlAlreadyResolved;
+import com.ibm.domain.scanning.errors.InvalidScanUrl;
 import com.ibm.domain.scanning.errors.ScanResultForLanguageAlreadyExists;
 import com.ibm.domain.scanning.events.CommitHashIdentifiedEvent;
+import com.ibm.domain.scanning.events.GitUrlResolvedEvent;
 import com.ibm.domain.scanning.events.LanguageScanDoneEvent;
+import com.ibm.domain.scanning.events.PurlScanRequestedEvent;
 import com.ibm.domain.scanning.events.ScanFinishedEvent;
 import com.ibm.domain.scanning.events.ScanRequestedEvent;
 import jakarta.annotation.Nonnull;
@@ -35,30 +40,51 @@ import java.util.EnumMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 public final class ScanAggregate extends AggregateRoot<ScanId> {
-    private static final Logger LOGGER = LoggerFactory.getLogger(ScanAggregate.class);
+    // private static final Logger LOGGER = LoggerFactory.getLogger(ScanAggregate.class);
 
-    @Nonnull private final ScanRequest scanRequest;
+    @Nonnull private ResolvedScanRequest request;
     @Nullable private Commit commit;
     @Nullable private Map<Language, LanguageScan> languageScans;
 
     private ScanAggregate(@Nonnull final ScanId id, @Nonnull final ScanRequest scanRequest) {
         super(id, new ArrayList<>());
-        this.scanRequest = scanRequest;
+        this.request = new ResolvedScanRequest(scanRequest);
+        if (request.scanUrl.isPurl()) {
+            try {
+                PackageURL purl = new PackageURL(request.scanUrl.value());
+                if (purl.getVersion() != null) {
+                    this.request.setRevision(new Revision(purl.getVersion()));
+                }
+            } catch (MalformedPackageURLException e) {
+                // ignore: scanRequest ha been validated
+            }
+        } else {
+            request.setGitUrl(request.scanUrl);
+        }
     }
 
     private ScanAggregate(
             @Nonnull ScanId id,
             @Nonnull ScanRequest scanRequest,
+            @Nullable ScanUrl gitUrl,
             @Nullable Commit commit,
             @Nullable Map<Language, LanguageScan> languageScans) {
-        super(id, new ArrayList<>());
-        this.scanRequest = scanRequest;
+        this(id, scanRequest);
+        if (gitUrl != null) {
+            this.request.setGitUrl(gitUrl);
+        }
         this.commit = commit;
         this.languageScans = languageScans;
+    }
+
+    public void setResolvedGitUrl(@Nonnull String gitUrl) throws GitUrlAlreadyResolved {
+        if (this.request.gitUrl != null && this.request.gitUrl.value() != null) {
+            throw new GitUrlAlreadyResolved(this.getId());
+        }
+        this.request.gitUrl = new ScanUrl(gitUrl);
+        this.apply(new GitUrlResolvedEvent(this.getId()));
     }
 
     @Nonnull
@@ -66,14 +92,18 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
             @Nonnull ScanId scanId,
             @Nonnull final ScanRequest scanRequest,
             @Nullable ICredentials credentials)
-            throws InvalidGitUrl {
+            throws InvalidScanUrl {
         // validate value object
         scanRequest.validate();
         // create aggregate
         final ScanAggregate aggregate =
                 new ScanAggregate(scanId, scanRequest); // change state: start a scan
         // add domain event, uncommited!
-        aggregate.apply(new ScanRequestedEvent(aggregate.getId(), credentials));
+        if (scanRequest.scanUrl().isPurl()) {
+            aggregate.apply(new PurlScanRequestedEvent(aggregate.getId(), credentials));
+        } else {
+            aggregate.apply(new ScanRequestedEvent(aggregate.getId(), credentials));
+        }
         return aggregate;
     }
 
@@ -103,8 +133,8 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
     }
 
     @Nonnull
-    public ScanRequest getScanRequest() {
-        return scanRequest;
+    public ResolvedScanRequest getScanRequest() {
+        return request;
     }
 
     @Nonnull
@@ -143,8 +173,9 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
     public static ScanAggregate reconstruct(
             @Nonnull ScanId id,
             @Nonnull ScanRequest scanRequest,
+            @Nullable ScanUrl gitUrl,
             @Nullable Commit commit,
             @Nullable Map<Language, LanguageScan> languageScans) {
-        return new ScanAggregate(id, scanRequest, commit, languageScans);
+        return new ScanAggregate(id, scanRequest, gitUrl, commit, languageScans);
     }
 }

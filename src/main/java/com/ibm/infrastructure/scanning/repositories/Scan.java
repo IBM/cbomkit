@@ -21,14 +21,15 @@ package com.ibm.infrastructure.scanning.repositories;
 
 import com.ibm.domain.scanning.CBOM;
 import com.ibm.domain.scanning.Commit;
-import com.ibm.domain.scanning.GitUrl;
 import com.ibm.domain.scanning.Language;
 import com.ibm.domain.scanning.LanguageScan;
+import com.ibm.domain.scanning.ResolvedScanRequest;
 import com.ibm.domain.scanning.Revision;
 import com.ibm.domain.scanning.ScanAggregate;
 import com.ibm.domain.scanning.ScanId;
 import com.ibm.domain.scanning.ScanMetadata;
 import com.ibm.domain.scanning.ScanRequest;
+import com.ibm.domain.scanning.ScanUrl;
 import com.ibm.domain.scanning.errors.CBOMSerializationFailed;
 import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
 import jakarta.annotation.Nonnull;
@@ -60,6 +61,8 @@ class Scan extends PanacheEntityBase {
     @Nonnull public String revision;
     @Nullable public String commitHash;
     @Nullable public String subFolder;
+    @Nullable public String purl;
+    @Nullable public String tag;
 
     @OneToMany(cascade = CascadeType.ALL, fetch = FetchType.EAGER)
     @Nonnull
@@ -69,10 +72,20 @@ class Scan extends PanacheEntityBase {
 
     Scan(@Nonnull ScanAggregate aggregate) {
         this.id = aggregate.getId().getUuid();
-        this.gitUrl = aggregate.getScanRequest().gitUrl().value();
-        this.revision = aggregate.getScanRequest().revision().value();
+        ResolvedScanRequest scanRequest = aggregate.getScanRequest();
+        if (scanRequest.getScanUrl().isPurl()) {
+            this.purl = scanRequest.getScanUrl().value();
+            if (scanRequest.getGitUrl() != null) {
+                // Null if request hasn't been resolved yet
+                this.gitUrl = scanRequest.getGitUrl().value();
+            }
+            this.revision = scanRequest.getRevision().value();
+        } else {
+            this.gitUrl = scanRequest.getGitUrl().value();
+            this.subFolder = scanRequest.getSubFolder();
+        }
+        this.revision = scanRequest.getRevision().value();
         this.commitHash = aggregate.getCommit().map(Commit::hash).orElse(null);
-        this.subFolder = aggregate.getScanRequest().subFolder();
 
         final Optional<List<LanguageScan>> languageScans = aggregate.getLanguageScans();
         if (languageScans.isEmpty()) {
@@ -118,10 +131,17 @@ class Scan extends PanacheEntityBase {
                 LOGGER.error(e.getMessage());
             }
         }
+
         return ScanAggregate.reconstruct(
                 new ScanId(this.id),
-                new ScanRequest(
-                        new GitUrl(this.gitUrl), new Revision(this.revision), this.subFolder),
+                (this.purl != null
+                        ? new ScanRequest(
+                                new ScanUrl(this.purl), new Revision(this.revision), this.subFolder)
+                        : new ScanRequest(
+                                new ScanUrl(this.gitUrl),
+                                new Revision(this.revision),
+                                this.subFolder)),
+                new ScanUrl(this.gitUrl),
                 Optional.ofNullable(this.commitHash).map(Commit::new).orElse(null),
                 languageScans);
     }
