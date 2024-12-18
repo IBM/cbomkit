@@ -4,7 +4,7 @@
       <cv-search
         :light="true"
         class="search-bar"
-        placeholder="Enter the Git URL to scan"
+        placeholder="Enter Git URL or Package URL to scan"
         v-model="model.codeOrigin.gitLink"
         @keyup.enter="connectAndScan(advancedOptions()[0], advancedOptions()[1], advancedOptions()[2])"
       />

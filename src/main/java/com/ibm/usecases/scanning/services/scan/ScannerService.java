@@ -22,8 +22,8 @@ package com.ibm.usecases.scanning.services.scan;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.ibm.domain.scanning.Commit;
+import com.ibm.domain.scanning.GitUrl;
 import com.ibm.domain.scanning.Revision;
-import com.ibm.domain.scanning.ScanUrl;
 import com.ibm.infrastructure.errors.ClientDisconnected;
 import com.ibm.infrastructure.progress.IProgressDispatcher;
 import com.ibm.infrastructure.progress.ProgressMessage;
@@ -89,7 +89,7 @@ public abstract class ScannerService implements IScannerService {
     @Nonnull
     protected synchronized Optional<Bom> receiveBom(
             @Nonnull File projectDirectory,
-            @Nonnull ScanUrl gitUrl,
+            @Nonnull GitUrl gitUrl,
             @Nonnull Revision revision,
             @Nonnull Commit commit,
             @Nullable String subFolder) {

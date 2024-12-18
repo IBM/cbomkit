@@ -11,7 +11,7 @@
         <cv-data-table-row v-for="scan in model.lastCboms" :key="scan.id">
           <cv-data-table-cell>
             <div class="container">
-              {{ scan.gitUrl }}
+              {{ scan.projectIdentifier }}
               <cv-icon-button
                 @click="openGitRepo(scan.gitUrl)"
                 kind="ghost"

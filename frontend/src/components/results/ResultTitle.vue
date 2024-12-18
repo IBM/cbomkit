@@ -7,6 +7,7 @@
             {{ dataTableTitle }}
           </h3>
           <h4 style="padding-bottom: 8px" v-html="dataTableSubtitle"></h4>
+          <cv-tag v-if="showLink" :label="linkLabel" />
           <cv-tag v-if="showBranch" :label="branchLabel" />
           <cv-tag v-if="showCommitID" :label="commitIDLabel" />
           <cv-tag v-if="showSubfolder" :label="subfolderLabel" />
@@ -46,6 +47,9 @@ export default {
     showLink() {
       return model.codeOrigin.gitLink != null;
     },
+    linkLabel() {
+      return "gitUrl: " + model.codeOrigin.gitLink;
+    },
     showBranch() {
       return model.codeOrigin.gitBranch != null;
     },
@@ -69,7 +73,9 @@ export default {
       if (model.codeOrigin.uploadedFileName != null) {
         title = model.codeOrigin.uploadedFileName + " (uploaded)";
       }
-      if (model.codeOrigin.gitLink != null) {
+      if (model.codeOrigin.projectId != null) {
+        title = model.codeOrigin.projectId;
+      } else {
         title = model.codeOrigin.gitLink.replace("https://", "");
       }
       return title;

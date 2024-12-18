@@ -44,46 +44,44 @@ import java.util.Optional;
 public final class ScanAggregate extends AggregateRoot<ScanId> {
     // private static final Logger LOGGER = LoggerFactory.getLogger(ScanAggregate.class);
 
-    @Nonnull private ResolvedScanRequest request;
+    @Nonnull private ScanRequest scanRequest;
+    @Nullable private GitUrl gitUrl;
+    @Nullable private PackageURL purl;
+    @Nonnull private Revision revision;
     @Nullable private Commit commit;
     @Nullable private Map<Language, LanguageScan> languageScans;
 
     private ScanAggregate(@Nonnull final ScanId id, @Nonnull final ScanRequest scanRequest) {
         super(id, new ArrayList<>());
-        this.request = new ResolvedScanRequest(scanRequest);
-        if (request.scanUrl.isPurl()) {
-            try {
-                PackageURL purl = new PackageURL(request.scanUrl.value());
-                if (purl.getVersion() != null) {
-                    this.request.setRevision(new Revision(purl.getVersion()));
-                }
-            } catch (MalformedPackageURLException e) {
-                // ignore: scanRequest ha been validated
-            }
-        } else {
-            request.setGitUrl(request.scanUrl);
+        this.scanRequest = scanRequest;
+        try {
+            this.purl = new PackageURL(scanRequest.scanUrl().value());
+            this.revision = new Revision(this.purl.getVersion());
+        } catch (MalformedPackageURLException e) {
+            this.gitUrl = new GitUrl(scanRequest.scanUrl().value());
+            this.revision = scanRequest.revision();
         }
     }
 
     private ScanAggregate(
             @Nonnull ScanId id,
             @Nonnull ScanRequest scanRequest,
-            @Nullable ScanUrl gitUrl,
+            @Nullable GitUrl gitUrl,
             @Nullable Commit commit,
             @Nullable Map<Language, LanguageScan> languageScans) {
         this(id, scanRequest);
         if (gitUrl != null) {
-            this.request.setGitUrl(gitUrl);
+            this.gitUrl = gitUrl;
         }
         this.commit = commit;
         this.languageScans = languageScans;
     }
 
     public void setResolvedGitUrl(@Nonnull String gitUrl) throws GitUrlAlreadyResolved {
-        if (this.request.gitUrl != null && this.request.gitUrl.value() != null) {
+        if (this.gitUrl != null && this.gitUrl.value() != null) {
             throw new GitUrlAlreadyResolved(this.getId());
         }
-        this.request.gitUrl = new ScanUrl(gitUrl);
+        this.gitUrl = new GitUrl(gitUrl);
         this.apply(new GitUrlResolvedEvent(this.getId()));
     }
 
@@ -99,7 +97,7 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
         final ScanAggregate aggregate =
                 new ScanAggregate(scanId, scanRequest); // change state: start a scan
         // add domain event, uncommited!
-        if (scanRequest.scanUrl().isPurl()) {
+        if (aggregate.getPurl() != null) {
             aggregate.apply(new PurlScanRequestedEvent(aggregate.getId(), credentials));
         } else {
             aggregate.apply(new ScanRequestedEvent(aggregate.getId(), credentials));
@@ -133,13 +131,27 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
     }
 
     @Nonnull
-    public ResolvedScanRequest getScanRequest() {
-        return request;
+    public ScanRequest getScanRequest() {
+        return scanRequest;
     }
 
     @Nonnull
     public Optional<Commit> getCommit() {
         return Optional.ofNullable(commit);
+    }
+
+    @Nullable public PackageURL getPurl() {
+        return purl;
+    }
+
+    @Nonnull
+    public GitUrl getGitUrl() {
+        return gitUrl;
+    }
+
+    @Nonnull
+    public Revision getRevision() {
+        return revision;
     }
 
     @Nonnull
@@ -173,7 +185,7 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
     public static ScanAggregate reconstruct(
             @Nonnull ScanId id,
             @Nonnull ScanRequest scanRequest,
-            @Nullable ScanUrl gitUrl,
+            @Nullable GitUrl gitUrl,
             @Nullable Commit commit,
             @Nullable Map<Language, LanguageScan> languageScans) {
         return new ScanAggregate(id, scanRequest, gitUrl, commit, languageScans);
