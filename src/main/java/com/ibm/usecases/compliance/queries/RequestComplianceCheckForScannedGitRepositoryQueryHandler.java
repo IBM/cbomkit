@@ -24,7 +24,7 @@ import app.bootstrap.core.cqrs.QueryHandler;
 import com.ibm.domain.compliance.CryptographicAsset;
 import com.ibm.domain.compliance.PolicyIdentifier;
 import com.ibm.domain.scanning.Commit;
-import com.ibm.domain.scanning.ScanUrl;
+import com.ibm.domain.scanning.GitUrl;
 import com.ibm.infrastructure.compliance.ComplianceFinding;
 import com.ibm.infrastructure.compliance.ComplianceResult;
 import com.ibm.infrastructure.compliance.IComplianceConfiguration;
@@ -69,7 +69,7 @@ public final class RequestComplianceCheckForScannedGitRepositoryQueryHandler
         final Collection<CryptographicAsset> cryptographicAssets =
                 compliancePreparationService.receiveCryptographicAssets(
                         this.readRepository,
-                        new ScanUrl(requestComplianceCheckForScannedGitRepositoryQuery.gitUrl()),
+                        new GitUrl(requestComplianceCheckForScannedGitRepositoryQuery.gitUrl()),
                         Optional.ofNullable(
                                         requestComplianceCheckForScannedGitRepositoryQuery.commit())
                                 .map(Commit::new)

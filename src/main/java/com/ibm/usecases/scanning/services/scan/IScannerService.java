@@ -20,8 +20,8 @@
 package com.ibm.usecases.scanning.services.scan;
 
 import com.ibm.domain.scanning.Commit;
+import com.ibm.domain.scanning.GitUrl;
 import com.ibm.domain.scanning.Revision;
-import com.ibm.domain.scanning.ScanUrl;
 import com.ibm.mapper.model.INode;
 import com.ibm.usecases.scanning.services.indexing.ProjectModule;
 import jakarta.annotation.Nonnull;
@@ -33,7 +33,7 @@ public interface IScannerService extends Consumer<List<INode>> {
 
     @Nonnull
     ScanResultDTO scan(
-            @Nonnull ScanUrl gitUrl,
+            @Nonnull GitUrl gitUrl,
             @Nonnull Revision revision,
             @Nonnull Commit commit,
             @Nullable String subFolder,

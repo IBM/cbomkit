@@ -291,6 +291,7 @@ export function showResultFromApi(cbomApi) {
   let cbom = getCbomFromScan(cbomApi);
   setCbom(cbom);
   setDependenciesMap(cbom)
+  model.codeOrigin.projectId = cbomApi.projectIdentifier
   model.codeOrigin.gitLink = cbomApi.gitUrl;
   model.codeOrigin.gitBranch = cbomApi.branch;
   model.showResults = true;
@@ -303,7 +304,7 @@ export function showResultFromUpload(cbom, name) {
   model.showResults = true;
 }
 
-// Takes a Scab object as returned by the API and returns the CBOM as an Object.
+// Takes a Scan object as returned by the API and returns the CBOM as an Object.
 export function getCbomFromScan(scan) {
   if (scan && scan.bom) {
     return scan.bom

@@ -28,10 +28,10 @@ import com.ibm.domain.scanning.CBOM;
 import com.ibm.domain.scanning.Commit;
 import com.ibm.domain.scanning.Language;
 import com.ibm.domain.scanning.LanguageScan;
-import com.ibm.domain.scanning.ResolvedScanRequest;
 import com.ibm.domain.scanning.ScanAggregate;
 import com.ibm.domain.scanning.ScanId;
 import com.ibm.domain.scanning.ScanMetadata;
+import com.ibm.domain.scanning.ScanRequest;
 import com.ibm.domain.scanning.errors.CBOMSerializationFailed;
 import com.ibm.domain.scanning.errors.CommitHashAlreadyExists;
 import com.ibm.domain.scanning.errors.GitUrlAlreadyResolved;
@@ -123,12 +123,11 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
         final Optional<ScanAggregate> possibleScanAggregate = this.repository.read(command.id());
         final ScanAggregate scanAggregate =
                 possibleScanAggregate.orElseThrow(() -> new EntityNotFoundById(command.id()));
-        final ResolvedScanRequest scanRequest = scanAggregate.getScanRequest();
-        if (scanRequest.getScanUrl().isPurl()) {
+        if (scanAggregate.getPurl() != null) {
             try {
                 // Fetch source repo from deps.dev
                 final SourceRepoService depsDev = new SourceRepoService();
-                String sourceRepo = depsDev.fetch(scanRequest.getScanUrl().value());
+                String sourceRepo = depsDev.fetch(scanAggregate.getPurl().canonicalize());
                 // update aggregate
                 scanAggregate.setResolvedGitUrl(sourceRepo);
                 this.repository.save(scanAggregate);
@@ -159,13 +158,12 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
         final Optional<ScanAggregate> possibleScanAggregate = this.repository.read(command.id());
         final ScanAggregate scanAggregate =
                 possibleScanAggregate.orElseThrow(() -> new EntityNotFoundById(command.id()));
-        final ResolvedScanRequest scanRequest = scanAggregate.getScanRequest();
         try {
             // clone git repository
             final GitService gitService =
                     new GitService(this.progressDispatcher, this.baseCloneDirPath);
             final CloneResultDTO cloneResultDTO =
-                    gitService.clone(scanRequest, command.credentials());
+                    gitService.clone(scanAggregate, command.credentials());
             this.projectDirectory = cloneResultDTO.directory();
 
             // update aggregate
@@ -178,16 +176,17 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
             this.commandBus.send(new IndexModulesCommand(command.id()));
         } catch (GitCloneFailed gitCloneFailed) {
             // if previous attempted failed with `main`, try `master`
-            if (scanRequest.getRevision().value().equalsIgnoreCase("main")) {
+            if (scanAggregate.getPurl() == null
+                    && scanAggregate.getScanRequest().revision().value().equalsIgnoreCase("main")) {
                 // delete old aggregate
                 this.repository.delete(scanId);
                 // emit new scan command with `master` branch
                 this.commandBus.send(
                         new RequestScanCommand(
                                 this.scanId,
-                                scanRequest.getGitUrl().value(),
+                                scanAggregate.getGitUrl().value(),
                                 "master",
-                                scanRequest.getSubFolder(),
+                                scanAggregate.getScanRequest().subFolder(),
                                 command.credentials()));
             } else {
                 this.progressDispatcher.send(
@@ -215,7 +214,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                     this.repository.read(command.id());
             final ScanAggregate scanAggregate =
                     possibleScanAggregate.orElseThrow(() -> new EntityNotFoundById(command.id()));
-            final ResolvedScanRequest scanRequest = scanAggregate.getScanRequest();
+            final ScanRequest scanRequest = scanAggregate.getScanRequest();
             this.index = new EnumMap<>(Language.class);
             // java
             final JavaIndexService javaIndexService = new JavaIndexService(this.progressDispatcher);
@@ -223,13 +222,13 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                     Optional.ofNullable(this.projectDirectory)
                             .orElseThrow(GitCloneResultNotAvailable::new);
             final List<ProjectModule> javaIndex =
-                    javaIndexService.index(dir, scanRequest.getSubFolder());
+                    javaIndexService.index(dir, scanRequest.subFolder());
             this.index.put(Language.JAVA, javaIndex);
             // python
             final PythonIndexService pythonIndexService =
                     new PythonIndexService(this.progressDispatcher);
             final List<ProjectModule> pythonIndex =
-                    pythonIndexService.index(dir, scanRequest.getSubFolder());
+                    pythonIndexService.index(dir, scanRequest.subFolder());
             this.index.put(Language.PYTHON, pythonIndex);
             // continue with scan
             this.commandBus.send(new ScanCommand(command.id()));
@@ -258,7 +257,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                     this.repository.read(command.id());
             final ScanAggregate scanAggregate =
                     possibleScanAggregate.orElseThrow(() -> new EntityNotFoundById(command.id()));
-            final ResolvedScanRequest scanRequest = scanAggregate.getScanRequest();
+            final ScanRequest scanRequest = scanAggregate.getScanRequest();
             final Commit commit = scanAggregate.getCommit().orElseThrow(NoCommitProvided::new);
 
             // progress scan statistics
@@ -276,10 +275,10 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                                     .orElseThrow(NoProjectDirectoryProvided::new));
             final ScanResultDTO javaScanResultDTO =
                     javaScannerService.scan(
-                            scanRequest.getGitUrl(),
-                            scanRequest.getRevision(),
+                            scanAggregate.getGitUrl(),
+                            scanAggregate.getRevision(),
                             commit,
-                            scanRequest.getSubFolder(),
+                            scanRequest.subFolder(),
                             Optional.ofNullable(this.index)
                                     .map(i -> i.get(Language.JAVA))
                                     .orElseThrow(NoIndexForProject::new));
@@ -310,10 +309,10 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                                     .orElseThrow(NoProjectDirectoryProvided::new));
             final ScanResultDTO pythonScanResultDTO =
                     pythonScannerService.scan(
-                            scanRequest.getGitUrl(),
-                            scanRequest.getRevision(),
+                            scanAggregate.getGitUrl(),
+                            scanAggregate.getRevision(),
                             commit,
-                            scanRequest.getSubFolder(),
+                            scanRequest.subFolder(),
                             Optional.ofNullable(this.index)
                                     .map(i -> i.get(Language.PYTHON))
                                     .orElseThrow(NoIndexForProject::new));

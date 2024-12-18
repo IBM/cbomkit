@@ -22,49 +22,23 @@ package com.ibm.domain.scanning;
 import app.bootstrap.core.ddd.IValueObject;
 import com.ibm.domain.scanning.errors.InvalidScanUrl;
 import jakarta.annotation.Nonnull;
-import jakarta.annotation.Nullable;
+import java.net.MalformedURLException;
+import java.net.URI;
 
-public class ResolvedScanRequest implements IValueObject {
-    @Nullable ScanUrl gitUrl;
-    @Nonnull ScanUrl scanUrl;
-    @Nonnull Revision revision;
-    @Nullable String subFolder;
+public record GitUrl(@Nonnull String value) implements IValueObject {
 
-    public ScanUrl getGitUrl() {
-        return gitUrl;
-    }
-
-    public void setGitUrl(ScanUrl gitUrl) {
-        this.gitUrl = gitUrl;
-    }
-
-    public ScanUrl getScanUrl() {
-        return scanUrl;
-    }
-
-    public Revision getRevision() {
-        return revision;
-    }
-
-    public void setRevision(Revision revision) {
-        this.revision = revision;
-    }
-
-    public String getSubFolder() {
-        return subFolder;
-    }
-
+    @SuppressWarnings("all")
     @Override
     public void validate() throws InvalidScanUrl {
-        scanUrl.validate();
-        if (gitUrl != null) {
-            gitUrl.validate();
+        try {
+            URI.create(value).toURL();
+        } catch (MalformedURLException | IllegalArgumentException e) {
+            throw new InvalidScanUrl(value);
         }
     }
 
-    public ResolvedScanRequest(ScanRequest scanRequest) {
-        this.scanUrl = scanRequest.scanUrl();
-        this.revision = scanRequest.revision();
-        this.subFolder = scanRequest.subFolder();
+    @Nonnull
+    public String getIdentifier() {
+        return value.replace("https://", "").replace("http://", "");
     }
 }

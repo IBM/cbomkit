@@ -61,6 +61,7 @@ export const model = reactive({
     model.dependencies = null;
   },
   resetCodeOriginInfo() {
+    model.codeOrigin.projectId = null
     model.codeOrigin.gitLink = null;
     model.codeOrigin.gitBranch = null;
     model.codeOrigin.gitSubfolder = null;

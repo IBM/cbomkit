@@ -36,10 +36,10 @@ public record ScanUrl(@Nonnull String value) implements IValueObject {
             try {
                 PackageURL purl = new PackageURL(value);
                 if (purl.getVersion() == null) {
-                    throw new InvalidScanUrl(value);
+                    throw new InvalidScanUrl("Missing @version in " + value);
                 }
             } catch (MalformedPackageURLException mpe) {
-                throw new InvalidScanUrl("Invalid purl " + value);
+                throw new InvalidScanUrl(value);
             }
         } else {
             try {
@@ -53,9 +53,5 @@ public record ScanUrl(@Nonnull String value) implements IValueObject {
     @Nonnull
     public String getIdentifier() {
         return value.replace("https://", "").replace("http://", "");
-    }
-
-    public boolean isPurl() {
-        return value.startsWith("pkg:");
     }
 }

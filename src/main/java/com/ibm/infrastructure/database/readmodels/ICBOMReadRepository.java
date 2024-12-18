@@ -20,8 +20,9 @@
 package com.ibm.infrastructure.database.readmodels;
 
 import app.bootstrap.core.ddd.IReadRepository;
+import com.github.packageurl.PackageURL;
 import com.ibm.domain.scanning.Commit;
-import com.ibm.domain.scanning.ScanUrl;
+import com.ibm.domain.scanning.GitUrl;
 import jakarta.annotation.Nonnull;
 import java.util.Collection;
 import java.util.Optional;
@@ -30,7 +31,7 @@ import java.util.UUID;
 public interface ICBOMReadRepository extends IReadRepository<UUID, CBOMReadModel> {
 
     @Nonnull
-    Optional<CBOMReadModel> findBy(@Nonnull ScanUrl gitUrl, @Nonnull Commit commit);
+    Optional<CBOMReadModel> findBy(@Nonnull GitUrl gitUrl, @Nonnull Commit commit);
 
     /**
      * Returns latest CBOM related to the git url.
@@ -39,7 +40,13 @@ public interface ICBOMReadRepository extends IReadRepository<UUID, CBOMReadModel
      * @return CBOM read model.
      */
     @Nonnull
-    Optional<CBOMReadModel> findBy(@Nonnull ScanUrl gitUrl);
+    Optional<CBOMReadModel> findBy(@Nonnull GitUrl gitUrl);
+
+    @Nonnull
+    Optional<CBOMReadModel> findBy(@Nonnull PackageURL purl, @Nonnull Commit commit);
+
+    @Nonnull
+    Optional<CBOMReadModel> findBy(@Nonnull PackageURL purl);
 
     @Nonnull
     Optional<CBOMReadModel> findBy(@Nonnull String projectIdentifier);

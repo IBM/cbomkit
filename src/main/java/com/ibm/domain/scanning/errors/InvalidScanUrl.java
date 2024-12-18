@@ -24,6 +24,6 @@ import jakarta.annotation.Nonnull;
 
 public class InvalidScanUrl extends DomainException {
     public InvalidScanUrl(@Nonnull String url) {
-        super("Invalid Git URL: " + url);
+        super("Invalid Scan URL: " + url);
     }
 }
