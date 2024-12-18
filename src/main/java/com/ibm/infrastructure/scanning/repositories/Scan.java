@@ -29,6 +29,7 @@ import com.ibm.domain.scanning.ScanAggregate;
 import com.ibm.domain.scanning.ScanId;
 import com.ibm.domain.scanning.ScanMetadata;
 import com.ibm.domain.scanning.ScanRequest;
+import com.ibm.domain.scanning.ScanUrl;
 import com.ibm.domain.scanning.errors.CBOMSerializationFailed;
 import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
 import jakarta.annotation.Nonnull;
@@ -60,6 +61,7 @@ class Scan extends PanacheEntityBase {
     @Nonnull public String revision;
     @Nullable public String commitHash;
     @Nullable public String subFolder;
+    @Nullable public String purl;
 
     @OneToMany(cascade = CascadeType.ALL, fetch = FetchType.EAGER)
     @Nonnull
@@ -69,10 +71,17 @@ class Scan extends PanacheEntityBase {
 
     Scan(@Nonnull ScanAggregate aggregate) {
         this.id = aggregate.getId().getUuid();
-        this.gitUrl = aggregate.getScanRequest().gitUrl().value();
-        this.revision = aggregate.getScanRequest().revision().value();
+        ScanRequest scanRequest = aggregate.getScanRequest();
+        if (aggregate.getPurl() != null) {
+            this.purl = aggregate.getPurl().canonicalize();
+            this.revision = aggregate.getPurl().getVersion();
+        } else {
+            this.revision = scanRequest.revision().value();
+        }
+        if (aggregate.getGitUrl() != null) {
+            this.gitUrl = aggregate.getGitUrl().value();
+        }
         this.commitHash = aggregate.getCommit().map(Commit::hash).orElse(null);
-        this.subFolder = aggregate.getScanRequest().subFolder();
 
         final Optional<List<LanguageScan>> languageScans = aggregate.getLanguageScans();
         if (languageScans.isEmpty()) {
@@ -118,10 +127,14 @@ class Scan extends PanacheEntityBase {
                 LOGGER.error(e.getMessage());
             }
         }
+
         return ScanAggregate.reconstruct(
                 new ScanId(this.id),
                 new ScanRequest(
-                        new GitUrl(this.gitUrl), new Revision(this.revision), this.subFolder),
+                        new ScanUrl(this.purl != null ? this.purl : this.gitUrl),
+                        new Revision(this.revision),
+                        this.subFolder),
+                new GitUrl(this.gitUrl),
                 Optional.ofNullable(this.commitHash).map(Commit::new).orElse(null),
                 languageScans);
     }

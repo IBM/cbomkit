@@ -20,7 +20,7 @@
 package com.ibm.usecases.scanning.services.git;
 
 import com.ibm.domain.scanning.Commit;
-import com.ibm.domain.scanning.ScanRequest;
+import com.ibm.domain.scanning.ScanAggregate;
 import com.ibm.domain.scanning.authentication.ICredentials;
 import com.ibm.domain.scanning.authentication.PersonalAccessToken;
 import com.ibm.domain.scanning.authentication.UsernameAndPasswordCredentials;
@@ -34,6 +34,7 @@ import jakarta.annotation.Nullable;
 import java.io.File;
 import java.io.IOException;
 import java.util.UUID;
+import org.eclipse.jgit.api.CloneCommand;
 import org.eclipse.jgit.api.Git;
 import org.eclipse.jgit.api.errors.GitAPIException;
 import org.eclipse.jgit.lib.ObjectId;
@@ -53,7 +54,7 @@ public final class GitService {
 
     @Nonnull
     public CloneResultDTO clone(
-            @Nonnull ScanRequest scanRequest, @Nullable ICredentials credentials)
+            @Nonnull ScanAggregate scanAggregate, @Nullable ICredentials credentials)
             throws GitCloneFailed, ClientDisconnected {
         try {
             // create directory
@@ -79,29 +80,46 @@ public final class GitService {
                                 }
                             });
 
-            final Git clonedRepo =
+            CloneCommand cloneCommand =
                     Git.cloneRepository()
                             .setProgressMonitor(gitProgressMonitor)
-                            .setURI(scanRequest.gitUrl().value())
-                            .setBranch(scanRequest.revision().value())
+                            .setURI(scanAggregate.getGitUrl().value())
                             .setDirectory(scanCloneFile)
-                            .setCredentialsProvider(getCredentialsProvider(credentials))
-                            .call();
-            Ref revisionRef = clonedRepo.getRepository().findRef(scanRequest.revision().value());
+                            .setCredentialsProvider(getCredentialsProvider(credentials));
+            if (scanAggregate.getPurl() == null) {
+                cloneCommand.setBranch(scanAggregate.getRevision().value());
+            }
+
+            final Git clonedRepo = cloneCommand.call();
+
+            Ref revisionRef = null;
+            if (scanAggregate.getPurl() == null) {
+                revisionRef =
+                        clonedRepo.getRepository().findRef(scanAggregate.getRevision().value());
+            } else {
+                // Purl case: try using tag that ends with revision
+                for (Ref ref : clonedRepo.tagList().call()) {
+                    if (ref.getName().endsWith(scanAggregate.getRevision().value())) {
+                        revisionRef = clonedRepo.getRepository().findRef(ref.getName());
+                        break;
+                    }
+                }
+            }
             if (revisionRef == null) {
-                throw new GitCloneFailed("Revision not found: " + scanRequest.revision().value());
+                throw new GitCloneFailed(
+                        "Revision not found: " + scanAggregate.getRevision().value());
             }
 
             ObjectId commitHash = revisionRef.getObjectId();
             if (commitHash == null) {
                 throw new GitCloneFailed(
-                        "Commit not found for revision: " + scanRequest.revision().value());
+                        "Commit not found for revision: " + scanAggregate.getRevision().value());
             }
 
             final Commit commit = new Commit(commitHash.getName());
             this.progressDispatcher.send(
                     new ProgressMessage(
-                            ProgressMessageType.BRANCH, scanRequest.revision().value()));
+                            ProgressMessageType.BRANCH, scanAggregate.getRevision().value()));
             this.progressDispatcher.send(
                     new ProgressMessage(ProgressMessageType.REVISION_HASH, commit.hash()));
             return new CloneResultDTO(commit, scanCloneFile);

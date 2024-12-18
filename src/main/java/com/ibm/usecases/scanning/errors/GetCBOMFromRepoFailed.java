@@ -17,13 +17,10 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.ibm.domain.scanning.errors;
+package com.ibm.usecases.scanning.errors;
 
-import app.bootstrap.core.ddd.DomainException;
-import jakarta.annotation.Nonnull;
-
-public class InvalidGitUrl extends DomainException {
-    public InvalidGitUrl(@Nonnull String url) {
-        super("Invalid Git URL: " + url);
+public class GetCBOMFromRepoFailed extends Exception {
+    public GetCBOMFromRepoFailed(String message) {
+        super(message);
     }
 }

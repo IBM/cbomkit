@@ -20,7 +20,7 @@
 package com.ibm.domain.scanning;
 
 import app.bootstrap.core.ddd.IValueObject;
-import com.ibm.domain.scanning.errors.InvalidGitUrl;
+import com.ibm.domain.scanning.errors.InvalidScanUrl;
 import jakarta.annotation.Nonnull;
 import java.net.MalformedURLException;
 import java.net.URI;
@@ -29,11 +29,11 @@ public record GitUrl(@Nonnull String value) implements IValueObject {
 
     @SuppressWarnings("all")
     @Override
-    public void validate() throws InvalidGitUrl {
+    public void validate() throws InvalidScanUrl {
         try {
             URI.create(value).toURL();
         } catch (MalformedURLException | IllegalArgumentException e) {
-            throw new InvalidGitUrl(value);
+            throw new InvalidScanUrl(value);
         }
     }
 
