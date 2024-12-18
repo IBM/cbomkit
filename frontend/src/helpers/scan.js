@@ -167,6 +167,12 @@ function handleMessage(messageJson) {
 function setCodeOrigin(gitBranch, gitSubfolder) {
   if (model.codeOrigin.gitLink) {
     model.codeOrigin.gitLink = model.codeOrigin.gitLink.trim();
+    if (!model.codeOrigin.gitLink.startsWith("pkg:")) {
+      model.codeOrigin.gitLink = model.codeOrigin.gitLink.replace("http://", "")
+      if (!model.codeOrigin.gitLink.startsWith("https://")) {
+        model.codeOrigin.gitLink = "https://" + model.codeOrigin.gitLink;
+      }
+    }
   }
   if (gitBranch) {
     model.codeOrigin.gitBranch = gitBranch.trim();
