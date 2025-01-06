@@ -19,6 +19,9 @@
  */
 package com.ibm.infrastructure.scanning.repositories;
 
+import com.github.packageurl.MalformedPackageURLException;
+import com.github.packageurl.PackageURL;
+import com.google.googlejavaformat.Op;
 import com.ibm.domain.scanning.CBOM;
 import com.ibm.domain.scanning.Commit;
 import com.ibm.domain.scanning.GitUrl;
@@ -31,6 +34,7 @@ import com.ibm.domain.scanning.ScanMetadata;
 import com.ibm.domain.scanning.ScanRequest;
 import com.ibm.domain.scanning.ScanUrl;
 import com.ibm.domain.scanning.errors.CBOMSerializationFailed;
+import com.ibm.infrastructure.errors.AggregateReconstructionFailed;
 import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
 import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
@@ -57,7 +61,8 @@ class Scan extends PanacheEntityBase {
 
     @Id @Nonnull public UUID id;
 
-    @Nonnull public String gitUrl;
+    @Nonnull public String scanUrl;
+    @Nullable public String gitUrl;
     @Nonnull public String revision;
     @Nullable public String commitHash;
     @Nullable public String subFolder;
@@ -71,15 +76,13 @@ class Scan extends PanacheEntityBase {
 
     Scan(@Nonnull ScanAggregate aggregate) {
         this.id = aggregate.getId().getUuid();
-        ScanRequest scanRequest = aggregate.getScanRequest();
-        if (aggregate.getPurl() != null) {
-            this.purl = aggregate.getPurl().canonicalize();
+        this.scanUrl = aggregate.getScanRequest().scanUrl().value();
+        this.gitUrl = Optional.ofNullable(aggregate.getGitUrl()).map(GitUrl::value).orElse(null);
+        this.purl = Optional.ofNullable(aggregate.getPurl()).map(PackageURL::canonicalize).orElse(null);
+        if (this.purl != null) {
             this.revision = aggregate.getPurl().getVersion();
         } else {
-            this.revision = scanRequest.revision().value();
-        }
-        if (aggregate.getGitUrl() != null) {
-            this.gitUrl = aggregate.getGitUrl().value();
+            this.revision = aggregate.getScanRequest().revision().value();
         }
         this.commitHash = aggregate.getCommit().map(Commit::hash).orElse(null);
 
@@ -109,10 +112,10 @@ class Scan extends PanacheEntityBase {
     }
 
     @Nonnull
-    protected ScanAggregate asAggregate() {
-        final Map<Language, LanguageScan> languageScans = new EnumMap<>(Language.class);
-        for (ScanResult scanResult : scanResults) {
-            try {
+    protected ScanAggregate asAggregate() throws AggregateReconstructionFailed {
+        try {
+            final Map<Language, LanguageScan> languageScans = new EnumMap<>(Language.class);
+            for (ScanResult scanResult : scanResults) {
                 final LanguageScan languageScan =
                         new LanguageScan(
                                 scanResult.language,
@@ -123,19 +126,25 @@ class Scan extends PanacheEntityBase {
                                         scanResult.numberOfScannedFiles),
                                 CBOM.formJSON(scanResult.cbom));
                 languageScans.put(languageScan.language(), languageScan);
-            } catch (CBOMSerializationFailed e) {
-                LOGGER.error(e.getMessage());
             }
-        }
 
-        return ScanAggregate.reconstruct(
-                new ScanId(this.id),
-                new ScanRequest(
-                        new ScanUrl(this.purl != null ? this.purl : this.gitUrl),
-                        new Revision(this.revision),
-                        this.subFolder),
-                new GitUrl(this.gitUrl),
-                Optional.ofNullable(this.commitHash).map(Commit::new).orElse(null),
-                languageScans);
+            Optional<PackageURL> optionalPackageURL = Optional.empty();
+            if (this.purl != null) {
+               optionalPackageURL = Optional.of(new PackageURL(purl));
+            }
+
+            return ScanAggregate.reconstruct(
+                    new ScanId(this.id),
+                    new ScanRequest(
+                            new ScanUrl(this.scanUrl),
+                            new Revision(this.revision),
+                            this.subFolder),
+                    Optional.ofNullable(this.gitUrl).map(GitUrl::new).orElse(null),
+                    optionalPackageURL.orElse(null),
+                    Optional.ofNullable(this.commitHash).map(Commit::new).orElse(null),
+                    languageScans);
+        } catch (MalformedPackageURLException | CBOMSerializationFailed e) {
+            throw new AggregateReconstructionFailed(e);
+        }
     }
 }

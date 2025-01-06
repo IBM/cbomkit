@@ -42,9 +42,7 @@ import java.util.Map;
 import java.util.Optional;
 
 public final class ScanAggregate extends AggregateRoot<ScanId> {
-    // private static final Logger LOGGER = LoggerFactory.getLogger(ScanAggregate.class);
-
-    @Nonnull private ScanRequest scanRequest;
+    @Nonnull private final ScanRequest scanRequest;
     @Nullable private GitUrl gitUrl;
     @Nullable private PackageURL purl;
     @Nonnull private Revision revision;
@@ -67,22 +65,14 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
             @Nonnull ScanId id,
             @Nonnull ScanRequest scanRequest,
             @Nullable GitUrl gitUrl,
+            @Nullable PackageURL purl,
             @Nullable Commit commit,
             @Nullable Map<Language, LanguageScan> languageScans) {
         this(id, scanRequest);
-        if (gitUrl != null) {
-            this.gitUrl = gitUrl;
-        }
+        this.gitUrl = gitUrl;
+        this.purl = purl;
         this.commit = commit;
         this.languageScans = languageScans;
-    }
-
-    public void setResolvedGitUrl(@Nonnull String gitUrl) throws GitUrlAlreadyResolved {
-        if (this.gitUrl != null && this.gitUrl.value() != null) {
-            throw new GitUrlAlreadyResolved(this.getId());
-        }
-        this.gitUrl = new GitUrl(gitUrl);
-        this.apply(new GitUrlResolvedEvent(this.getId()));
     }
 
     @Nonnull
@@ -103,6 +93,14 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
             aggregate.apply(new ScanRequestedEvent(aggregate.getId(), credentials));
         }
         return aggregate;
+    }
+
+    public void setResolvedGitUrl(@Nonnull String gitUrl) throws GitUrlAlreadyResolved {
+        if (this.gitUrl != null) {
+            throw new GitUrlAlreadyResolved(this.getId());
+        }
+        this.gitUrl = new GitUrl(gitUrl);
+        this.apply(new GitUrlResolvedEvent(this.getId()));
     }
 
     public void setCommitHash(@Nonnull Commit commit) throws CommitHashAlreadyExists {
@@ -144,7 +142,7 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
         return purl;
     }
 
-    @Nonnull
+    @Nullable
     public GitUrl getGitUrl() {
         return gitUrl;
     }
@@ -186,8 +184,9 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
             @Nonnull ScanId id,
             @Nonnull ScanRequest scanRequest,
             @Nullable GitUrl gitUrl,
+            @Nullable PackageURL purl,
             @Nullable Commit commit,
             @Nullable Map<Language, LanguageScan> languageScans) {
-        return new ScanAggregate(id, scanRequest, gitUrl, commit, languageScans);
+        return new ScanAggregate(id, scanRequest, gitUrl, purl, commit, languageScans);
     }
 }
