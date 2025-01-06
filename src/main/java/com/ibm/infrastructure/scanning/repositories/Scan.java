@@ -21,7 +21,6 @@ package com.ibm.infrastructure.scanning.repositories;
 
 import com.github.packageurl.MalformedPackageURLException;
 import com.github.packageurl.PackageURL;
-import com.google.googlejavaformat.Op;
 import com.ibm.domain.scanning.CBOM;
 import com.ibm.domain.scanning.Commit;
 import com.ibm.domain.scanning.GitUrl;
