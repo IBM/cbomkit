@@ -19,8 +19,10 @@
  */
 package com.ibm.usecases.scanning.errors;
 
-public class GetCBOMFromRepoFailed extends Exception {
-    public GetCBOMFromRepoFailed(String message) {
-        super(message);
+import jakarta.annotation.Nonnull;
+
+public class NoDataAvailableInDepsDevForPurl extends Exception {
+    public NoDataAvailableInDepsDevForPurl(@Nonnull String purl, @Nonnull String additional) {
+        super("No data available in deps.dev for PURL: " + purl + "; " + additional);
     }
 }

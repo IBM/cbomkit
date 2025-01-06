@@ -63,10 +63,12 @@ export const model = reactive({
     model.dependencies = null;
   },
   resetCodeOriginInfo() {
-    model.codeOrigin.projectId = null
+    model.codeOrigin.projectIdentifier = null
     model.codeOrigin.scanUrl = null;
+    model.codeOrigin.gitUrl = null;
     model.codeOrigin.revision = null;
     model.codeOrigin.subfolder = null;
+    model.codeOrigin.commitID = null;
     model.codeOrigin.purls = [];
     model.codeOrigin.uploadedFileName = null;
   },

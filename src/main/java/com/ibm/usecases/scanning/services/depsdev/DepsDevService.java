@@ -22,14 +22,12 @@ package com.ibm.usecases.scanning.services.depsdev;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;
-import com.ibm.usecases.scanning.errors.GetSourceRepoFailed;
+import com.ibm.usecases.scanning.errors.NoDataAvailableInDepsDevForPurl;
 import jakarta.annotation.Nonnull;
-import jakarta.annotation.Nullable;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
-import java.util.Iterator;
 import org.apache.http.StatusLine;
 import org.apache.http.client.methods.CloseableHttpResponse;
 import org.apache.http.client.methods.HttpGet;
@@ -37,53 +35,46 @@ import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClientBuilder;
 import org.jboss.logging.Logger;
 
-public class SourceRepoService {
-    public SourceRepoService() {}
-
-    private static final Logger LOGGER = Logger.getLogger(SourceRepoService.class);
+public class DepsDevService {
+    private static final Logger LOGGER = Logger.getLogger(DepsDevService.class);
     private static final String DEPS_DEV_URI = "https://api.deps.dev/v3alpha/purl/";
     private static final String SOURCE_REPO = "SOURCE_REPO";
 
-    @Nullable public String fetch(@Nonnull String purl) throws GetSourceRepoFailed {
+    @Nonnull
+    public String fetch(@Nonnull String purl) throws NoDataAvailableInDepsDevForPurl {
         LOGGER.info("Sending DepsDev request for " + purl);
         final HttpGet request =
                 new HttpGet(DEPS_DEV_URI + URLEncoder.encode(purl, StandardCharsets.UTF_8));
-        // final RequestConfig requestConfig =
-        //         RequestConfig.custom().setSocketTimeout(600 * 1000).build();
-        // request.setConfig(requestConfig);
 
         try (final CloseableHttpClient httpClient = HttpClientBuilder.create().build();
                 final CloseableHttpResponse response = httpClient.execute(request); ) {
             final StatusLine status = response.getStatusLine();
-            if (status.getStatusCode() == 200) {
-                InputStream in = response.getEntity().getContent();
-                return extractSourceRepo(in);
-            } else {
-                LOGGER.error("DepsDev response status:" + status.getStatusCode());
+            if (status.getStatusCode() != 200) {
+                throw new NoDataAvailableInDepsDevForPurl(
+                        purl, "bad status code: " + status.getStatusCode());
             }
+            final InputStream in = response.getEntity().getContent();
+            return extractSourceRepo(in);
         } catch (IOException ioe) {
-            LOGGER.error("DepsDev request failed : " + ioe.getMessage());
-            throw new GetSourceRepoFailed(ioe.getMessage());
+            throw new NoDataAvailableInDepsDevForPurl(purl, ioe.getMessage());
         }
-        throw new GetSourceRepoFailed("Could find soure repo for purl: " + purl);
     }
 
-    @Nullable public String extractSourceRepo(InputStream in) throws IOException {
+    @Nonnull
+    public String extractSourceRepo(InputStream in) throws IOException {
         ObjectMapper objectMapper = new ObjectMapper();
         JsonNode rootNode = objectMapper.readTree(in);
         JsonNode version = rootNode.get("version");
         if (version != null) {
             ArrayNode links = (ArrayNode) version.get("links");
             if (links != null) {
-                Iterator<JsonNode> it = links.iterator();
-                while (it.hasNext()) {
-                    JsonNode link = it.next();
+                for (JsonNode link : links) {
                     if (SOURCE_REPO.equals(link.get("label").textValue())) {
                         return link.get("url").textValue();
                     }
                 }
             }
         }
-        return null;
+        throw new IOException();
     }
 }

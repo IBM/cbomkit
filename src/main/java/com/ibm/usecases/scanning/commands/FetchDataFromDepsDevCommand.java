@@ -23,6 +23,7 @@ import app.bootstrap.core.cqrs.ICommand;
 import com.ibm.domain.scanning.ScanId;
 import com.ibm.domain.scanning.authentication.ICredentials;
 import jakarta.annotation.Nonnull;
+import jakarta.annotation.Nullable;
 
-public record GetSourceRepoCommand(@Nonnull ScanId id, @Nonnull ICredentials credentials)
+public record FetchDataFromDepsDevCommand(@Nonnull ScanId id, @Nullable ICredentials credentials)
         implements ICommand {}

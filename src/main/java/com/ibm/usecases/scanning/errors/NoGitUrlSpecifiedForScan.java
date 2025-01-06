@@ -1,6 +1,6 @@
 /*
  * CBOMkit
- * Copyright (C) 2024 IBM
+ * Copyright (C) 2025 IBM
  *
  * Licensed to the Apache Software Foundation (ASF) under one or more
  * contributor license agreements.  See the NOTICE file distributed with
@@ -19,8 +19,11 @@
  */
 package com.ibm.usecases.scanning.errors;
 
-public class GetSourceRepoFailed extends Exception {
-    public GetSourceRepoFailed(String message) {
-        super(message);
+import com.ibm.domain.scanning.ScanId;
+import jakarta.annotation.Nonnull;
+
+public class NoGitUrlSpecifiedForScan extends Exception {
+    public NoGitUrlSpecifiedForScan(@Nonnull ScanId scanId) {
+        super("No Git URL specified for scan: " + scanId);
     }
 }

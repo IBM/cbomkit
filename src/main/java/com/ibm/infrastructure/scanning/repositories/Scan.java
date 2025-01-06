@@ -76,10 +76,11 @@ class Scan extends PanacheEntityBase {
     Scan(@Nonnull ScanAggregate aggregate) {
         this.id = aggregate.getId().getUuid();
         this.scanUrl = aggregate.getScanRequest().scanUrl().value();
-        this.gitUrl = Optional.ofNullable(aggregate.getGitUrl()).map(GitUrl::value).orElse(null);
-        this.purl = Optional.ofNullable(aggregate.getPurl()).map(PackageURL::canonicalize).orElse(null);
-        if (this.purl != null) {
-            this.revision = aggregate.getPurl().getVersion();
+        this.gitUrl = aggregate.getGitUrl().map(GitUrl::value).orElse(null);
+        final PackageURL packageURL = aggregate.getPurl().orElse(null);
+        this.purl = Optional.ofNullable(packageURL).map(PackageURL::canonicalize).orElse(null);
+        if (packageURL != null) {
+            this.revision = packageURL.getVersion();
         } else {
             this.revision = aggregate.getScanRequest().revision().value();
         }
@@ -129,15 +130,13 @@ class Scan extends PanacheEntityBase {
 
             Optional<PackageURL> optionalPackageURL = Optional.empty();
             if (this.purl != null) {
-               optionalPackageURL = Optional.of(new PackageURL(purl));
+                optionalPackageURL = Optional.of(new PackageURL(purl));
             }
 
             return ScanAggregate.reconstruct(
                     new ScanId(this.id),
                     new ScanRequest(
-                            new ScanUrl(this.scanUrl),
-                            new Revision(this.revision),
-                            this.subFolder),
+                            new ScanUrl(this.scanUrl), new Revision(this.revision), this.subFolder),
                     Optional.ofNullable(this.gitUrl).map(GitUrl::new).orElse(null),
                     optionalPackageURL.orElse(null),
                     Optional.ofNullable(this.commitHash).map(Commit::new).orElse(null),

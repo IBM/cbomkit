@@ -25,6 +25,7 @@ import app.bootstrap.core.ddd.IDomainEventBus;
 import app.bootstrap.core.ddd.IRepository;
 import com.ibm.domain.scanning.CBOM;
 import com.ibm.domain.scanning.Commit;
+import com.ibm.domain.scanning.GitUrl;
 import com.ibm.domain.scanning.LanguageScan;
 import com.ibm.domain.scanning.ScanAggregate;
 import com.ibm.domain.scanning.ScanId;
@@ -35,6 +36,7 @@ import com.ibm.infrastructure.database.readmodels.CBOMReadModel;
 import com.ibm.infrastructure.database.readmodels.ICBOMReadRepository;
 import com.ibm.infrastructure.errors.EntityNotFoundById;
 import com.ibm.usecases.scanning.errors.NoCBOMForScan;
+import com.ibm.usecases.scanning.errors.NoGitUrlSpecifiedForScan;
 import io.quarkus.runtime.StartupEvent;
 import jakarta.annotation.Nonnull;
 import jakarta.enterprise.event.Observes;
@@ -70,7 +72,10 @@ public class CBOMProjector extends Projector<UUID, CBOMReadModel> {
     }
 
     private void handleScanFinishedEvent(@Nonnull ScanFinishedEvent scanFinishedEvent)
-            throws CBOMSerializationFailed, NoCBOMForScan, EntityNotFoundById {
+            throws CBOMSerializationFailed,
+                    NoCBOMForScan,
+                    EntityNotFoundById,
+                    NoGitUrlSpecifiedForScan {
         final ScanId scanId = scanFinishedEvent.getScanId();
         // fetch scan aggregate
         final Optional<ScanAggregate> possibleScanAggregate = this.sourceRepository.read(scanId);
@@ -81,7 +86,9 @@ public class CBOMProjector extends Projector<UUID, CBOMReadModel> {
         if (this.repository instanceof ICBOMReadRepository cbomReadRepository) {
             final Optional<CBOMReadModel> possibleCBOMReadModel =
                     cbomReadRepository.findBy(
-                            scanAggregate.getGitUrl(),
+                            scanAggregate
+                                    .getGitUrl()
+                                    .orElseThrow(() -> new NoGitUrlSpecifiedForScan(scanId)),
                             scanAggregate.getCommit().orElseThrow(NoCBOMForScan::new));
             if (possibleCBOMReadModel.isPresent()) {
                 LOGGER.info(
@@ -114,7 +121,10 @@ public class CBOMProjector extends Projector<UUID, CBOMReadModel> {
                 new CBOMReadModel(
                         scanAggregate.getId().getUuid(),
                         scanRequest.scanUrl().getIdentifier(),
-                        scanAggregate.getGitUrl().value(),
+                        scanAggregate
+                                .getGitUrl()
+                                .map(GitUrl::value)
+                                .orElseThrow(() -> new NoGitUrlSpecifiedForScan(scanId)),
                         scanAggregate.getRevision().value(),
                         scanAggregate.getCommit().map(Commit::hash).orElse(null),
                         scanFinishedEvent.getTimestamp(),

@@ -87,7 +87,7 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
         final ScanAggregate aggregate =
                 new ScanAggregate(scanId, scanRequest); // change state: start a scan
         // add domain event, uncommited!
-        if (aggregate.getPurl() != null) {
+        if (aggregate.getPurl().isPresent()) {
             aggregate.apply(new PurlScanRequestedEvent(aggregate.getId(), credentials));
         } else {
             aggregate.apply(new ScanRequestedEvent(aggregate.getId(), credentials));
@@ -138,13 +138,14 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
         return Optional.ofNullable(commit);
     }
 
-    @Nullable public PackageURL getPurl() {
-        return purl;
+    @Nonnull
+    public Optional<PackageURL> getPurl() {
+        return Optional.ofNullable(purl);
     }
 
-    @Nullable
-    public GitUrl getGitUrl() {
-        return gitUrl;
+    @Nonnull
+    public Optional<GitUrl> getGitUrl() {
+        return Optional.ofNullable(gitUrl);
     }
 
     @Nonnull
@@ -173,6 +174,14 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
     @Override
     public int hashCode() {
         return super.hashCode();
+    }
+
+    public boolean hasPurl() {
+        return purl != null;
+    }
+
+    public boolean hasGitUrl() {
+        return gitUrl != null;
     }
 
     /**

@@ -48,100 +48,30 @@ public final class CBOMReadRepository extends ReadRepository<UUID, CBOMReadModel
         super(domainEventBus);
     }
 
-    private @Nonnull Optional<CBOMReadModel> queryByRepo(
-            @Nonnull String repo, @Nullable Commit commit) {
-        final EntityManager entityManager = CBOMReadModel.getEntityManager();
-        final ArcContainer container = Arc.container();
-        container.requestContext().activate();
-        try {
-            QuarkusTransaction.begin();
-            String qString =
-                    commit != null
-                            ? "SELECT read FROM CBOMReadModel read WHERE read.commit = :commit AND read.repository = :repository"
-                            : "SELECT read FROM CBOMReadModel read WHERE read.repository = :repository";
-            qString += " ORDER BY createdAt desc";
-
-            TypedQuery<CBOMReadModel> query =
-                    entityManager
-                            .createQuery(qString, CBOMReadModel.class)
-                            .setParameter("repository", repo);
-
-            if (commit != null) {
-                query.setParameter("commit", commit.hash());
-            }
-            Optional<CBOMReadModel> match = query.getResultStream().findFirst();
-            QuarkusTransaction.commit();
-            return match;
-        } catch (Exception e) {
-            LOGGER.error(e.getMessage(), e);
-            if (QuarkusTransaction.isActive()) {
-                QuarkusTransaction.rollback();
-            }
-        } finally {
-            container.requestContext().terminate();
-        }
-        return Optional.empty();
-    }
-
-    private @Nonnull Optional<CBOMReadModel> queryByProjectIdentifier(
-            @Nonnull String projectId, @Nullable Commit commit) {
-        final EntityManager entityManager = CBOMReadModel.getEntityManager();
-        final ArcContainer container = Arc.container();
-        container.requestContext().activate();
-        try {
-            QuarkusTransaction.begin();
-            String qString =
-                    commit != null
-                            ? "SELECT read FROM CBOMReadModel read WHERE read.commit = :commit AND read.projectIdentifier = :projectIdentifier"
-                            : "SELECT read FROM CBOMReadModel read WHERE read.projectIdentifier = :projectIdentifier";
-            qString += " ORDER BY createdAt desc";
-
-            TypedQuery<CBOMReadModel> query =
-                    entityManager
-                            .createQuery(qString, CBOMReadModel.class)
-                            .setParameter("projectIdentifier", projectId);
-
-            if (commit != null) {
-                query.setParameter("commit", commit.hash());
-            }
-            Optional<CBOMReadModel> match = query.getResultStream().findFirst();
-            QuarkusTransaction.commit();
-            return match;
-        } catch (Exception e) {
-            LOGGER.error(e.getMessage(), e);
-            if (QuarkusTransaction.isActive()) {
-                QuarkusTransaction.rollback();
-            }
-        } finally {
-            container.requestContext().terminate();
-        }
-        return Optional.empty();
-    }
-
     @Override
     public @Nonnull Optional<CBOMReadModel> findBy(@Nonnull GitUrl gitUrl, @Nonnull Commit commit) {
-        return queryByRepo(gitUrl.value(), commit);
+        return findByRepository(gitUrl.value(), commit);
     }
 
     @Override
     public @Nonnull Optional<CBOMReadModel> findBy(@Nonnull GitUrl gitUrl) {
-        return queryByRepo(gitUrl.value(), null);
+        return findByRepository(gitUrl.value(), null);
     }
 
     @Override
     public @Nonnull Optional<CBOMReadModel> findBy(
             @Nonnull PackageURL purl, @Nonnull Commit commit) {
-        return queryByProjectIdentifier(purl.canonicalize(), commit);
+        return findByProjectIdentifier(purl.canonicalize(), commit);
     }
 
     @Override
     public @Nonnull Optional<CBOMReadModel> findBy(@Nonnull PackageURL purl) {
-        return queryByProjectIdentifier(purl.canonicalize(), null);
+        return findByProjectIdentifier(purl.canonicalize(), null);
     }
 
     @Override
     public @Nonnull Optional<CBOMReadModel> findBy(@Nonnull String projectIdentifier) {
-        return queryByProjectIdentifier(projectIdentifier, null);
+        return findByProjectIdentifier(projectIdentifier, null);
     }
 
     @Override
@@ -237,5 +167,75 @@ public final class CBOMReadRepository extends ReadRepository<UUID, CBOMReadModel
         } finally {
             container.requestContext().terminate();
         }
+    }
+
+    private @Nonnull Optional<CBOMReadModel> findByRepository(
+            @Nonnull String repository, @Nullable Commit commit) {
+        final EntityManager entityManager = CBOMReadModel.getEntityManager();
+        final ArcContainer container = Arc.container();
+        container.requestContext().activate();
+        try {
+            QuarkusTransaction.begin();
+            String qString =
+                    commit != null
+                            ? "SELECT read FROM CBOMReadModel read WHERE read.commit = :commit AND read.repository = :repository"
+                            : "SELECT read FROM CBOMReadModel read WHERE read.repository = :repository";
+            qString += " ORDER BY createdAt desc";
+
+            TypedQuery<CBOMReadModel> query =
+                    entityManager
+                            .createQuery(qString, CBOMReadModel.class)
+                            .setParameter("repository", repository);
+
+            if (commit != null) {
+                query.setParameter("commit", commit.hash());
+            }
+            Optional<CBOMReadModel> match = query.getResultStream().findFirst();
+            QuarkusTransaction.commit();
+            return match;
+        } catch (Exception e) {
+            LOGGER.error(e.getMessage(), e);
+            if (QuarkusTransaction.isActive()) {
+                QuarkusTransaction.rollback();
+            }
+        } finally {
+            container.requestContext().terminate();
+        }
+        return Optional.empty();
+    }
+
+    private @Nonnull Optional<CBOMReadModel> findByProjectIdentifier(
+            @Nonnull String projectIdentifier, @Nullable Commit commit) {
+        final EntityManager entityManager = CBOMReadModel.getEntityManager();
+        final ArcContainer container = Arc.container();
+        container.requestContext().activate();
+        try {
+            QuarkusTransaction.begin();
+            String qString =
+                    commit != null
+                            ? "SELECT read FROM CBOMReadModel read WHERE read.commit = :commit AND read.projectIdentifier = :projectIdentifier"
+                            : "SELECT read FROM CBOMReadModel read WHERE read.projectIdentifier = :projectIdentifier";
+            qString += " ORDER BY createdAt desc";
+
+            TypedQuery<CBOMReadModel> query =
+                    entityManager
+                            .createQuery(qString, CBOMReadModel.class)
+                            .setParameter("projectIdentifier", projectIdentifier);
+
+            if (commit != null) {
+                query.setParameter("commit", commit.hash());
+            }
+            Optional<CBOMReadModel> match = query.getResultStream().findFirst();
+            QuarkusTransaction.commit();
+            return match;
+        } catch (Exception e) {
+            LOGGER.error(e.getMessage(), e);
+            if (QuarkusTransaction.isActive()) {
+                QuarkusTransaction.rollback();
+            }
+        } finally {
+            container.requestContext().terminate();
+        }
+        return Optional.empty();
     }
 }

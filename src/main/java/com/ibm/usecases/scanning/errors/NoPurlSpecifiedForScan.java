@@ -1,6 +1,6 @@
 /*
  * CBOMkit
- * Copyright (C) 2024 IBM
+ * Copyright (C) 2025 IBM
  *
  * Licensed to the Apache Software Foundation (ASF) under one or more
  * contributor license agreements.  See the NOTICE file distributed with
@@ -17,12 +17,13 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.ibm.usecases.scanning.commands;
+package com.ibm.usecases.scanning.errors;
 
-import app.bootstrap.core.cqrs.ICommand;
 import com.ibm.domain.scanning.ScanId;
-import com.ibm.domain.scanning.authentication.ICredentials;
 import jakarta.annotation.Nonnull;
 
-public record GetCBOMFromRepoCommand(@Nonnull ScanId id, @Nonnull ICredentials credentials)
-        implements ICommand {}
+public class NoPurlSpecifiedForScan extends Exception {
+    public NoPurlSpecifiedForScan(@Nonnull ScanId scanId) {
+        super("No PURL specified for scan: " + scanId);
+    }
+}
