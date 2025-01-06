@@ -81,19 +81,19 @@ function scan() {
   if (!model.scanning.socket) {
     model.addError(ErrorStatus.NoConnection);
     console.log("No socket in model");
-  } else if (!model.codeOrigin.gitLink) {
+  } else if (!model.codeOrigin.scanUrl) {
     model.addError(ErrorStatus.InvalidRepo);
-    console.log("Git URL not valid");
+    console.log("Not valid Git URL or Package URL");
   } else {
     // build scan request
     const scanRequest = {};
     // set scan options
-    scanRequest["gitUrl"] = model.codeOrigin.gitLink;
-    if (model.codeOrigin.gitBranch) {
-      scanRequest["branch"] = model.codeOrigin.gitBranch;
+    scanRequest["scanUrl"] = model.codeOrigin.scanUrl;
+    if (model.codeOrigin.revision) {
+      scanRequest["branch"] = model.codeOrigin.revision;
     }
-    if (model.codeOrigin.gitSubfolder) {
-      scanRequest["subfolder"] = model.codeOrigin.gitSubfolder;
+    if (model.codeOrigin.subfolder) {
+      scanRequest["subfolder"] = model.codeOrigin.subfolder;
     }
     // set credentials
     if (model.credentials.pat) {
@@ -137,9 +137,6 @@ function handleMessage(messageJson) {
     model.scanning.isScanning = false;
     // log
     console.error("Error from backend:", model.scanning.scanningStatusMessage);
-  } else if (obj["type"] === "PURL") {
-    model.codeOrigin.gitPurls = obj["purls"];
-    // This is not strictly necessary anymore now that I read PURLs from the CBOM, but it arrives before the CBOM so I leave it
   } else if (obj["type"] === "DETECTION") {
     let cryptoAssetJson = obj["message"];
     const cryptoAsset = JSON.parse(cryptoAssetJson);
@@ -150,7 +147,7 @@ function handleMessage(messageJson) {
     setCbom(JSON.parse(cbomString));
     console.log("Received CBOM from scanning:", model.cbom);
   } else if (obj["type"] === "BRANCH") {
-    model.codeOrigin.gitBranch = obj["message"];
+    model.codeOrigin.revision = obj["message"];
   } else if (obj["type"] === "SCANNED_FILE_COUNT") {
     model.scanning.numberOfFiles = obj["message"];
   } else if (obj["type"] === "SCANNED_NUMBER_OF_LINES") {
@@ -165,20 +162,22 @@ function handleMessage(messageJson) {
 }
 
 function setCodeOrigin(gitBranch, gitSubfolder) {
-  if (model.codeOrigin.gitLink) {
-    model.codeOrigin.gitLink = model.codeOrigin.gitLink.trim();
-    if (!model.codeOrigin.gitLink.startsWith("pkg:")) {
-      model.codeOrigin.gitLink = model.codeOrigin.gitLink.replace("http://", "")
-      if (!model.codeOrigin.gitLink.startsWith("https://")) {
-        model.codeOrigin.gitLink = "https://" + model.codeOrigin.gitLink;
+  if (model.codeOrigin.scanUrl) {
+    model.codeOrigin.scanUrl = model.codeOrigin.scanUrl.trim();
+    // if it's not a package url
+    if (!model.codeOrigin.scanUrl.startsWith("pkg:")) {
+      // remove http if there, to make sure the request uses https
+      model.codeOrigin.scanUrl = model.codeOrigin.scanUrl.replace("http://", "")
+      if (!model.codeOrigin.scanUrl.startsWith("https://")) {
+        model.codeOrigin.scanUrl = "https://" + model.codeOrigin.scanUrl;
       }
     }
   }
   if (gitBranch) {
-    model.codeOrigin.gitBranch = gitBranch.trim();
+    model.codeOrigin.revision = gitBranch.trim();
   }
   if (gitSubfolder) {
-    model.codeOrigin.gitSubfolder = gitSubfolder.trim();
+    model.codeOrigin.subfolder = gitSubfolder.trim();
   }
 }
 

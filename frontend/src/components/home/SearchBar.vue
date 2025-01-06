@@ -5,14 +5,14 @@
         :light="true"
         class="search-bar"
         placeholder="Enter Git URL or Package URL to scan"
-        v-model="model.codeOrigin.gitLink"
+        v-model="model.codeOrigin.scanUrl"
         @keyup.enter="connectAndScan(advancedOptions()[0], advancedOptions()[1], advancedOptions()[2])"
       />
       <cv-button
         class="search-button"
         :icon="ArrowRight24"
         @click="connectAndScan(advancedOptions()[0], advancedOptions()[1], advancedOptions()[2])"
-        :disabled="!model.codeOrigin.gitLink"
+        :disabled="!model.codeOrigin.scanUrl"
         >Scan</cv-button
       >
     </div>

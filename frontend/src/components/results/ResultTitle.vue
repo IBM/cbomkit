@@ -12,7 +12,7 @@
           <cv-tag v-if="showCommitID" :label="commitIDLabel" />
           <cv-tag v-if="showSubfolder" :label="subfolderLabel" />
           <cv-tag
-            v-for="purl in model.codeOrigin.gitPurls"
+            v-for="purl in model.codeOrigin.purls"
             :key="purl"
             :label="purl"
           ></cv-tag>
@@ -45,16 +45,16 @@ export default {
   },
   computed: {
     showLink() {
-      return model.codeOrigin.gitLink != null;
+      return model.codeOrigin.gitUrl != null;
     },
     linkLabel() {
-      return "gitUrl: " + model.codeOrigin.gitLink;
+      return "gitUrl: " + model.codeOrigin.gitUrl;
     },
     showBranch() {
-      return model.codeOrigin.gitBranch != null;
+      return model.codeOrigin.revision != null;
     },
     branchLabel() {
-      return "branch: " + model.codeOrigin.gitBranch;
+      return "revision: " + model.codeOrigin.revision;
     },
     showCommitID() {
       return model.codeOrigin.commitID != null;
@@ -63,20 +63,20 @@ export default {
       return "commit: " + model.codeOrigin.commitID.slice(0, 7) + "...";
     },
     showSubfolder() {
-      return model.codeOrigin.gitSubfolder != null;
+      return model.codeOrigin.subfolder != null;
     },
     subfolderLabel() {
-      return "subfolder: " + model.codeOrigin.gitSubfolder;
+      return "subfolder: " + model.codeOrigin.subfolder;
     },
     dataTableTitle() {
       var title = "Unknown CBOM";
       if (model.codeOrigin.uploadedFileName != null) {
         title = model.codeOrigin.uploadedFileName + " (uploaded)";
       }
-      if (model.codeOrigin.projectId != null) {
-        title = model.codeOrigin.projectId;
+      if (model.codeOrigin.projectIdentifier != null) {
+        title = model.codeOrigin.projectIdentifier;
       } else {
-        title = model.codeOrigin.gitLink.replace("https://", "");
+        title = model.codeOrigin.scanUrl.replace("https://", "");
       }
       return title;
     },

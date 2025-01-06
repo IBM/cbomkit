@@ -28,7 +28,7 @@ import java.util.Optional;
 
 public record RequestScanCommand(
         @Nonnull ScanId scanId,
-        @Nonnull String gitUrl,
+        @Nonnull String scanUrl,
         @Nullable String branch,
         @Nullable String subfolder,
         // authentication
@@ -41,8 +41,8 @@ public record RequestScanCommand(
         return this.getClass().getSimpleName()
                 + "[scanId="
                 + scanId
-                + ", gitUrl="
-                + gitUrl
+                + ", scanUrl="
+                + scanUrl
                 + ", branch="
                 + branch
                 + ", subfolder="

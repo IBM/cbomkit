@@ -24,7 +24,7 @@ import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
 
 public class ScanRequest {
-    private String gitUrl;
+    private String scanUrl;
     private @Nullable String branch;
     private @Nullable String subfolder;
     private @Nullable Credentials credentials;
@@ -32,18 +32,18 @@ public class ScanRequest {
     protected ScanRequest() {}
 
     public ScanRequest(
-            @Nonnull @JsonProperty("gitUrl") String gitUrl,
+            @Nonnull @JsonProperty("scanUrl") String scanUrl,
             @Nullable @JsonProperty("branch") String branch,
             @Nullable @JsonProperty("subfolder") String subfolder,
             @Nullable @JsonProperty("credentials") Credentials credentials) {
-        this.gitUrl = gitUrl;
+        this.scanUrl = scanUrl;
         this.branch = branch;
         this.subfolder = subfolder;
         this.credentials = credentials;
     }
 
-    public String getGitUrl() {
-        return gitUrl;
+    public String getScanUrl() {
+        return scanUrl;
     }
 
     @Nullable public String getBranch() {

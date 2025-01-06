@@ -21,11 +21,13 @@ export const model = reactive({
     totalDuration: null,
   },
   codeOrigin: {
-    gitLink: null,
-    gitBranch: null,
-    gitSubfolder: null,
+    projectIdentifier: null,
+    scanUrl: null,
+    gitUrl: null,
+    revision: null,
+    subfolder: null,
     commitID: null,
-    gitPurls: [],
+    purls: [],
     uploadedFileName: null,
   },
   credentials: {
@@ -62,10 +64,10 @@ export const model = reactive({
   },
   resetCodeOriginInfo() {
     model.codeOrigin.projectId = null
-    model.codeOrigin.gitLink = null;
-    model.codeOrigin.gitBranch = null;
-    model.codeOrigin.gitSubfolder = null;
-    model.codeOrigin.gitPurls = [];
+    model.codeOrigin.scanUrl = null;
+    model.codeOrigin.revision = null;
+    model.codeOrigin.subfolder = null;
+    model.codeOrigin.purls = [];
     model.codeOrigin.uploadedFileName = null;
   },
   resetCredentials() {

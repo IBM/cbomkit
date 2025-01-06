@@ -56,13 +56,13 @@ public final class RequestScanCommandHandler extends CommandHandler<ScanId, Scan
                 instanceof
                 RequestScanCommand(
                         @Nonnull ScanId scanId,
-                        @Nonnull String gitUrl,
+                        @Nonnull String scanUrl,
                         @Nullable String branch,
                         @Nullable String subfolder,
                         @Nullable ICredentials credentials)) {
             final ScanRequest scanRequest =
                     new ScanRequest(
-                            new ScanUrl(gitUrl),
+                            new ScanUrl(scanUrl),
                             new Revision(Objects.requireNonNullElse(branch, "main")),
                             subfolder);
             // create Aggregate and start scan

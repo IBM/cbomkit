@@ -262,21 +262,21 @@ export function setCbom(cbom) {
 
   if (Object.hasOwn(cbom, "metadata")) {
     if (Object.hasOwn(cbom.metadata, "properties") && Array.isArray(cbom.metadata.properties)) {
-      model.codeOrigin.gitPurls = []
+      model.codeOrigin.purls = []
       cbom.metadata.properties.forEach(function (prop) {
         if (Object.hasOwn(prop, "name") && Object.hasOwn(prop, "value")) {
           switch (prop.name) {
-            case "git-url":
-              model.codeOrigin.gitLink = prop.value;
+            case "gitUrl":
+              model.codeOrigin.gitUrl = prop.value;
               break;
-            case "git-branch":
-              model.codeOrigin.gitBranch = prop.value;
+            case "revision":
+              model.codeOrigin.revision = prop.value;
               break;
-            case "git-subfolder":
-              model.codeOrigin.gitSubfolder = prop.value
+            case "subfolder":
+              model.codeOrigin.subfolder = prop.value
               break;
             case "purl":
-              model.codeOrigin.gitPurls.push(prop.value)
+              model.codeOrigin.purls.push(prop.value)
               break;
             case "commit":
               model.codeOrigin.commitID = prop.value
@@ -291,9 +291,9 @@ export function showResultFromApi(cbomApi) {
   let cbom = getCbomFromScan(cbomApi);
   setCbom(cbom);
   setDependenciesMap(cbom)
-  model.codeOrigin.projectId = cbomApi.projectIdentifier
-  model.codeOrigin.gitLink = cbomApi.gitUrl;
-  model.codeOrigin.gitBranch = cbomApi.branch;
+  model.codeOrigin.projectIdentifier = cbomApi.projectIdentifier
+  model.codeOrigin.gitUrl = cbomApi.gitUrl;
+  model.codeOrigin.revision = cbomApi.branch;
   model.showResults = true;
 }
 

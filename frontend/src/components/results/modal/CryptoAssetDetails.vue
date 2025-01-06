@@ -218,7 +218,7 @@ export default {
       return this.propertyPaths.filter(property => this.getPropertyValues(property.path));
     },
     getBomRef() {
-      if (this.asset == undefined || this.asset === null) {
+      if (this.asset === undefined || this.asset === null) {
         return
       }
       let values = this.getPropertyValues("bom-ref");

@@ -67,21 +67,21 @@ export default {
   methods: {
     confirm: function () {
       if (this.gitLink && (this.gitBranch || this.commitID)) {
-        model.codeOrigin.gitLink = this.gitLink;
+        model.codeOrigin.gitUrl = this.gitLink;
         if (this.selectedOption === "branch") {
-          model.codeOrigin.gitBranch = this.gitBranch;
+          model.codeOrigin.revision = this.gitBranch;
           model.codeOrigin.commitID = null; // remove the commit ID
         }
         if (this.selectedOption === "commitID") {
           model.codeOrigin.commitID = this.commitID;
-          model.codeOrigin.gitBranch = null; // remove the branch
+          model.codeOrigin.revision = null; // remove the branch
         }
         this.$emit("confirm-prompt");
       }
     },
     resetModal: function () {
-      this.gitLink = model.codeOrigin.gitLink;
-      this.gitBranch = model.codeOrigin.gitBranch;
+      this.gitLink = model.codeOrigin.scanUrl;
+      this.gitBranch = model.codeOrigin.revision;
       this.commitID = model.codeOrigin.commitID;
 
       // If the CBOM contains a branch but not a commit ID, show the branch by default
