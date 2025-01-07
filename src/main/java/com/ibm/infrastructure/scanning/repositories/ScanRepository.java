@@ -23,6 +23,7 @@ import app.bootstrap.core.ddd.IDomainEventBus;
 import app.bootstrap.core.ddd.Repository;
 import com.ibm.domain.scanning.ScanAggregate;
 import com.ibm.domain.scanning.ScanId;
+import com.ibm.infrastructure.errors.EntityNotFoundById;
 import io.quarkus.arc.Arc;
 import io.quarkus.arc.ArcContainer;
 import io.quarkus.hibernate.orm.panache.PanacheRepository;
@@ -54,7 +55,11 @@ public final class ScanRepository extends Repository<ScanId, ScanAggregate>
             final Optional<Scan> scan =
                     Optional.ofNullable(entityManager.find(Scan.class, id.getUuid()));
             QuarkusTransaction.commit();
-            return scan.map(Scan::asAggregate);
+            if (scan.isEmpty()) {
+                throw new EntityNotFoundById(id);
+            }
+            final ScanAggregate scanAggregate = scan.get().asAggregate();
+            return Optional.of(scanAggregate);
         } catch (Exception e) {
             LOGGER.error(e.getMessage(), e);
             if (QuarkusTransaction.isActive()) {

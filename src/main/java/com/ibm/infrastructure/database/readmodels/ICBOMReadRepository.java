@@ -20,6 +20,7 @@
 package com.ibm.infrastructure.database.readmodels;
 
 import app.bootstrap.core.ddd.IReadRepository;
+import com.github.packageurl.PackageURL;
 import com.ibm.domain.scanning.Commit;
 import com.ibm.domain.scanning.GitUrl;
 import jakarta.annotation.Nonnull;
@@ -40,6 +41,12 @@ public interface ICBOMReadRepository extends IReadRepository<UUID, CBOMReadModel
      */
     @Nonnull
     Optional<CBOMReadModel> findBy(@Nonnull GitUrl gitUrl);
+
+    @Nonnull
+    Optional<CBOMReadModel> findBy(@Nonnull PackageURL purl, @Nonnull Commit commit);
+
+    @Nonnull
+    Optional<CBOMReadModel> findBy(@Nonnull PackageURL purl);
 
     @Nonnull
     Optional<CBOMReadModel> findBy(@Nonnull String projectIdentifier);

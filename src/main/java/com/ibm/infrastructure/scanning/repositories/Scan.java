@@ -19,6 +19,8 @@
  */
 package com.ibm.infrastructure.scanning.repositories;
 
+import com.github.packageurl.MalformedPackageURLException;
+import com.github.packageurl.PackageURL;
 import com.ibm.domain.scanning.CBOM;
 import com.ibm.domain.scanning.Commit;
 import com.ibm.domain.scanning.GitUrl;
@@ -29,7 +31,9 @@ import com.ibm.domain.scanning.ScanAggregate;
 import com.ibm.domain.scanning.ScanId;
 import com.ibm.domain.scanning.ScanMetadata;
 import com.ibm.domain.scanning.ScanRequest;
+import com.ibm.domain.scanning.ScanUrl;
 import com.ibm.domain.scanning.errors.CBOMSerializationFailed;
+import com.ibm.infrastructure.errors.AggregateReconstructionFailed;
 import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
 import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
@@ -56,10 +60,12 @@ class Scan extends PanacheEntityBase {
 
     @Id @Nonnull public UUID id;
 
-    @Nonnull public String gitUrl;
+    @Nonnull public String scanUrl;
+    @Nullable public String gitUrl;
     @Nonnull public String revision;
     @Nullable public String commitHash;
     @Nullable public String subFolder;
+    @Nullable public String purl;
 
     @OneToMany(cascade = CascadeType.ALL, fetch = FetchType.EAGER)
     @Nonnull
@@ -69,10 +75,16 @@ class Scan extends PanacheEntityBase {
 
     Scan(@Nonnull ScanAggregate aggregate) {
         this.id = aggregate.getId().getUuid();
-        this.gitUrl = aggregate.getScanRequest().gitUrl().value();
-        this.revision = aggregate.getScanRequest().revision().value();
+        this.scanUrl = aggregate.getScanRequest().scanUrl().value();
+        this.gitUrl = aggregate.getGitUrl().map(GitUrl::value).orElse(null);
+        final PackageURL packageURL = aggregate.getPurl().orElse(null);
+        this.purl = Optional.ofNullable(packageURL).map(PackageURL::canonicalize).orElse(null);
+        if (packageURL != null) {
+            this.revision = packageURL.getVersion();
+        } else {
+            this.revision = aggregate.getScanRequest().revision().value();
+        }
         this.commitHash = aggregate.getCommit().map(Commit::hash).orElse(null);
-        this.subFolder = aggregate.getScanRequest().subFolder();
 
         final Optional<List<LanguageScan>> languageScans = aggregate.getLanguageScans();
         if (languageScans.isEmpty()) {
@@ -100,10 +112,10 @@ class Scan extends PanacheEntityBase {
     }
 
     @Nonnull
-    protected ScanAggregate asAggregate() {
-        final Map<Language, LanguageScan> languageScans = new EnumMap<>(Language.class);
-        for (ScanResult scanResult : scanResults) {
-            try {
+    protected ScanAggregate asAggregate() throws AggregateReconstructionFailed {
+        try {
+            final Map<Language, LanguageScan> languageScans = new EnumMap<>(Language.class);
+            for (ScanResult scanResult : scanResults) {
                 final LanguageScan languageScan =
                         new LanguageScan(
                                 scanResult.language,
@@ -114,15 +126,23 @@ class Scan extends PanacheEntityBase {
                                         scanResult.numberOfScannedFiles),
                                 CBOM.formJSON(scanResult.cbom));
                 languageScans.put(languageScan.language(), languageScan);
-            } catch (CBOMSerializationFailed e) {
-                LOGGER.error(e.getMessage());
             }
+
+            Optional<PackageURL> optionalPackageURL = Optional.empty();
+            if (this.purl != null) {
+                optionalPackageURL = Optional.of(new PackageURL(purl));
+            }
+
+            return ScanAggregate.reconstruct(
+                    new ScanId(this.id),
+                    new ScanRequest(
+                            new ScanUrl(this.scanUrl), new Revision(this.revision), this.subFolder),
+                    Optional.ofNullable(this.gitUrl).map(GitUrl::new).orElse(null),
+                    optionalPackageURL.orElse(null),
+                    Optional.ofNullable(this.commitHash).map(Commit::new).orElse(null),
+                    languageScans);
+        } catch (MalformedPackageURLException | CBOMSerializationFailed e) {
+            throw new AggregateReconstructionFailed(e);
         }
-        return ScanAggregate.reconstruct(
-                new ScanId(this.id),
-                new ScanRequest(
-                        new GitUrl(this.gitUrl), new Revision(this.revision), this.subFolder),
-                Optional.ofNullable(this.commitHash).map(Commit::new).orElse(null),
-                languageScans);
     }
 }

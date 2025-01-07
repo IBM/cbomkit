@@ -17,13 +17,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.ibm.domain.scanning.errors;
+package com.ibm.usecases.scanning.errors;
 
-import app.bootstrap.core.ddd.DomainException;
 import jakarta.annotation.Nonnull;
 
-public class InvalidGitUrl extends DomainException {
-    public InvalidGitUrl(@Nonnull String url) {
-        super("Invalid Git URL: " + url);
+public class NoDataAvailableInDepsDevForPurl extends Exception {
+    public NoDataAvailableInDepsDevForPurl(@Nonnull String purl, @Nonnull String additional) {
+        super("No data available in deps.dev for PURL: " + purl + "; " + additional);
     }
 }

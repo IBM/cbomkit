@@ -17,23 +17,32 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.ibm.usecases.scanning.commands;
+package com.ibm.domain.scanning.events;
 
-import app.bootstrap.core.cqrs.ICommand;
+import app.bootstrap.core.ddd.DomainEvent;
 import com.ibm.domain.scanning.ScanId;
 import com.ibm.domain.scanning.authentication.ICredentials;
 import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
 import java.util.Optional;
 
-public record RequestScanCommand(
-        @Nonnull ScanId scanId,
-        @Nonnull String scanUrl,
-        @Nullable String branch,
-        @Nullable String subfolder,
-        // authentication
-        @Nullable ICredentials credentials)
-        implements ICommand {
+public final class PurlScanRequestedEvent extends DomainEvent {
+    @Nonnull private final ScanId scanId;
+    @Nullable private final ICredentials credentials;
+
+    public PurlScanRequestedEvent(@Nonnull ScanId scanId, @Nullable ICredentials credentials) {
+        this.scanId = scanId;
+        this.credentials = credentials;
+    }
+
+    @Nonnull
+    public ScanId getScanId() {
+        return scanId;
+    }
+
+    @Nullable public ICredentials getCredentials() {
+        return credentials;
+    }
 
     @Nonnull
     @Override
@@ -41,12 +50,6 @@ public record RequestScanCommand(
         return this.getClass().getSimpleName()
                 + "[scanId="
                 + scanId
-                + ", scanUrl="
-                + scanUrl
-                + ", branch="
-                + branch
-                + ", subfolder="
-                + subfolder
                 + ", credentials="
                 + Optional.ofNullable(credentials)
                         .map(c -> c.getClass().getSimpleName())

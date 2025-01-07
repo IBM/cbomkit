@@ -17,19 +17,27 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.ibm.domain.scanning;
+package com.ibm.domain.scanning.events;
 
-import app.bootstrap.core.ddd.IValueObject;
-import com.ibm.domain.scanning.errors.InvalidScanUrl;
+import app.bootstrap.core.ddd.DomainEvent;
+import com.ibm.domain.scanning.ScanId;
 import jakarta.annotation.Nonnull;
-import jakarta.annotation.Nullable;
 
-public record ScanRequest(
-        @Nonnull ScanUrl scanUrl, @Nonnull Revision revision, @Nullable String subFolder)
-        implements IValueObject {
+public final class GitUrlResolvedEvent extends DomainEvent {
+    @Nonnull private final ScanId scanId;
 
+    public GitUrlResolvedEvent(@Nonnull ScanId scanId) {
+        this.scanId = scanId;
+    }
+
+    @Nonnull
+    public ScanId getScanId() {
+        return scanId;
+    }
+
+    @Nonnull
     @Override
-    public void validate() throws InvalidScanUrl {
-        scanUrl.validate();
+    public String toString() {
+        return this.getClass().getSimpleName() + "[id=" + scanId + "]";
     }
 }

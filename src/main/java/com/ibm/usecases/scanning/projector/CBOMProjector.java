@@ -25,15 +25,18 @@ import app.bootstrap.core.ddd.IDomainEventBus;
 import app.bootstrap.core.ddd.IRepository;
 import com.ibm.domain.scanning.CBOM;
 import com.ibm.domain.scanning.Commit;
+import com.ibm.domain.scanning.GitUrl;
 import com.ibm.domain.scanning.LanguageScan;
 import com.ibm.domain.scanning.ScanAggregate;
 import com.ibm.domain.scanning.ScanId;
+import com.ibm.domain.scanning.ScanRequest;
 import com.ibm.domain.scanning.errors.CBOMSerializationFailed;
 import com.ibm.domain.scanning.events.ScanFinishedEvent;
 import com.ibm.infrastructure.database.readmodels.CBOMReadModel;
 import com.ibm.infrastructure.database.readmodels.ICBOMReadRepository;
 import com.ibm.infrastructure.errors.EntityNotFoundById;
 import com.ibm.usecases.scanning.errors.NoCBOMForScan;
+import com.ibm.usecases.scanning.errors.NoGitUrlSpecifiedForScan;
 import io.quarkus.runtime.StartupEvent;
 import jakarta.annotation.Nonnull;
 import jakarta.enterprise.event.Observes;
@@ -64,22 +67,28 @@ public class CBOMProjector extends Projector<UUID, CBOMReadModel> {
     @Override
     public void handleEvent(@Nonnull IDomainEvent event) throws Exception {
         if (event instanceof ScanFinishedEvent scanFinishedEvent) {
-            this.handleLanguageScanDoneEvent(scanFinishedEvent);
+            this.handleScanFinishedEvent(scanFinishedEvent);
         }
     }
 
-    private void handleLanguageScanDoneEvent(@Nonnull ScanFinishedEvent scanFinishedEvent)
-            throws CBOMSerializationFailed, NoCBOMForScan, EntityNotFoundById {
+    private void handleScanFinishedEvent(@Nonnull ScanFinishedEvent scanFinishedEvent)
+            throws CBOMSerializationFailed,
+                    NoCBOMForScan,
+                    EntityNotFoundById,
+                    NoGitUrlSpecifiedForScan {
         final ScanId scanId = scanFinishedEvent.getScanId();
         // fetch scan aggregate
         final Optional<ScanAggregate> possibleScanAggregate = this.sourceRepository.read(scanId);
         final ScanAggregate scanAggregate =
                 possibleScanAggregate.orElseThrow(() -> new EntityNotFoundById(scanId));
+        final ScanRequest scanRequest = scanAggregate.getScanRequest();
         // check for existing read model
         if (this.repository instanceof ICBOMReadRepository cbomReadRepository) {
             final Optional<CBOMReadModel> possibleCBOMReadModel =
                     cbomReadRepository.findBy(
-                            scanAggregate.getScanRequest().gitUrl(),
+                            scanAggregate
+                                    .getGitUrl()
+                                    .orElseThrow(() -> new NoGitUrlSpecifiedForScan(scanId)),
                             scanAggregate.getCommit().orElseThrow(NoCBOMForScan::new));
             if (possibleCBOMReadModel.isPresent()) {
                 LOGGER.info(
@@ -111,9 +120,12 @@ public class CBOMProjector extends Projector<UUID, CBOMReadModel> {
         final CBOMReadModel cbomReadModel =
                 new CBOMReadModel(
                         scanAggregate.getId().getUuid(),
-                        scanAggregate.getScanRequest().gitUrl().getIdentifier(),
-                        scanAggregate.getScanRequest().gitUrl().value(),
-                        scanAggregate.getScanRequest().revision().value(),
+                        scanRequest.scanUrl().getIdentifier(),
+                        scanAggregate
+                                .getGitUrl()
+                                .map(GitUrl::value)
+                                .orElseThrow(() -> new NoGitUrlSpecifiedForScan(scanId)),
+                        scanAggregate.getRevision().value(),
                         scanAggregate.getCommit().map(Commit::hash).orElse(null),
                         scanFinishedEvent.getTimestamp(),
                         mergedCBOM.toJSON());

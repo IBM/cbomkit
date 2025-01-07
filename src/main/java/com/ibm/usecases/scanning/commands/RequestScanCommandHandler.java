@@ -23,13 +23,13 @@ import app.bootstrap.core.cqrs.CommandHandler;
 import app.bootstrap.core.cqrs.ICommand;
 import app.bootstrap.core.cqrs.ICommandBus;
 import app.bootstrap.core.ddd.IRepository;
-import com.ibm.domain.scanning.GitUrl;
 import com.ibm.domain.scanning.Revision;
 import com.ibm.domain.scanning.ScanAggregate;
 import com.ibm.domain.scanning.ScanId;
 import com.ibm.domain.scanning.ScanRequest;
+import com.ibm.domain.scanning.ScanUrl;
 import com.ibm.domain.scanning.authentication.ICredentials;
-import com.ibm.domain.scanning.errors.InvalidGitUrl;
+import com.ibm.domain.scanning.errors.InvalidScanUrl;
 import io.quarkus.runtime.StartupEvent;
 import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
@@ -51,18 +51,18 @@ public final class RequestScanCommandHandler extends CommandHandler<ScanId, Scan
     }
 
     @Override
-    public void handle(@Nonnull ICommand command) throws InvalidGitUrl {
+    public void handle(@Nonnull ICommand command) throws InvalidScanUrl {
         if (command
                 instanceof
                 RequestScanCommand(
                         @Nonnull ScanId scanId,
-                        @Nonnull String gitUrl,
+                        @Nonnull String scanUrl,
                         @Nullable String branch,
                         @Nullable String subfolder,
                         @Nullable ICredentials credentials)) {
             final ScanRequest scanRequest =
                     new ScanRequest(
-                            new GitUrl(gitUrl),
+                            new ScanUrl(scanUrl),
                             new Revision(Objects.requireNonNullElse(branch, "main")),
                             subfolder);
             // create Aggregate and start scan

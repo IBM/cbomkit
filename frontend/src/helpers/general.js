@@ -51,8 +51,8 @@ export function openGitRepo(gitUrl) {
 }
 
 export function canOpenOnline() {
-  let gitUrl = model.codeOrigin.gitLink;
-  let branch = model.codeOrigin.gitBranch;
+  let gitUrl = model.codeOrigin.scanUrl;
+  let branch = model.codeOrigin.revision;
   let commitID = model.codeOrigin.commitID;
 
   if (gitUrl === undefined || gitUrl === null) {
@@ -75,8 +75,8 @@ export function getCodeLink(component, numberOfLinesBeforeAfter = 0) {
     return;
   }
 
-  let gitUrl = model.codeOrigin.gitLink;
-  let branch = model.codeOrigin.gitBranch;
+  let gitUrl = model.codeOrigin.gitUrl;
+  let branch = model.codeOrigin.revision;
   let commitID = model.codeOrigin.commitID;
 
   const occurrences = component.evidence.occurrences;

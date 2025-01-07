@@ -21,14 +21,17 @@ package com.ibm.infrastructure.database.readmodels;
 
 import app.bootstrap.core.ddd.IDomainEventBus;
 import app.bootstrap.core.ddd.ReadRepository;
+import com.github.packageurl.PackageURL;
 import com.ibm.domain.scanning.Commit;
 import com.ibm.domain.scanning.GitUrl;
 import io.quarkus.arc.Arc;
 import io.quarkus.arc.ArcContainer;
 import io.quarkus.narayana.jta.QuarkusTransaction;
 import jakarta.annotation.Nonnull;
+import jakarta.annotation.Nullable;
 import jakarta.inject.Singleton;
 import jakarta.persistence.EntityManager;
+import jakarta.persistence.TypedQuery;
 import java.util.Collection;
 import java.util.List;
 import java.util.Optional;
@@ -47,87 +50,28 @@ public final class CBOMReadRepository extends ReadRepository<UUID, CBOMReadModel
 
     @Override
     public @Nonnull Optional<CBOMReadModel> findBy(@Nonnull GitUrl gitUrl, @Nonnull Commit commit) {
-        final EntityManager entityManager = CBOMReadModel.getEntityManager();
-        final ArcContainer container = Arc.container();
-        container.requestContext().activate();
-        try {
-            QuarkusTransaction.begin();
-            Optional<CBOMReadModel> match =
-                    entityManager
-                            .createQuery(
-                                    "SELECT read FROM CBOMReadModel read WHERE read.commit = :commit AND read.repository = :repository",
-                                    CBOMReadModel.class)
-                            .setParameter("commit", commit.hash())
-                            .setParameter("repository", gitUrl.value())
-                            .getResultStream()
-                            .findFirst();
-            QuarkusTransaction.commit();
-            return match;
-        } catch (Exception e) {
-            LOGGER.error(e.getMessage(), e);
-            if (QuarkusTransaction.isActive()) {
-                QuarkusTransaction.rollback();
-            }
-        } finally {
-            container.requestContext().terminate();
-        }
-        return Optional.empty();
+        return findByRepository(gitUrl.value(), commit);
     }
 
     @Override
     public @Nonnull Optional<CBOMReadModel> findBy(@Nonnull GitUrl gitUrl) {
-        final EntityManager entityManager = CBOMReadModel.getEntityManager();
-        final ArcContainer container = Arc.container();
-        container.requestContext().activate();
-        try {
-            QuarkusTransaction.begin();
-            Optional<CBOMReadModel> match =
-                    entityManager
-                            .createQuery(
-                                    "SELECT read FROM CBOMReadModel read WHERE read.repository = :repository ORDER BY createdAt desc",
-                                    CBOMReadModel.class)
-                            .setParameter("repository", gitUrl.value())
-                            .getResultStream()
-                            .findFirst();
-            QuarkusTransaction.commit();
-            return match;
-        } catch (Exception e) {
-            LOGGER.error(e.getMessage(), e);
-            if (QuarkusTransaction.isActive()) {
-                QuarkusTransaction.rollback();
-            }
-        } finally {
-            container.requestContext().terminate();
-        }
-        return Optional.empty();
+        return findByRepository(gitUrl.value(), null);
+    }
+
+    @Override
+    public @Nonnull Optional<CBOMReadModel> findBy(
+            @Nonnull PackageURL purl, @Nonnull Commit commit) {
+        return findByProjectIdentifier(purl.canonicalize(), commit);
+    }
+
+    @Override
+    public @Nonnull Optional<CBOMReadModel> findBy(@Nonnull PackageURL purl) {
+        return findByProjectIdentifier(purl.canonicalize(), null);
     }
 
     @Override
     public @Nonnull Optional<CBOMReadModel> findBy(@Nonnull String projectIdentifier) {
-        final EntityManager entityManager = CBOMReadModel.getEntityManager();
-        final ArcContainer container = Arc.container();
-        container.requestContext().activate();
-        try {
-            QuarkusTransaction.begin();
-            Optional<CBOMReadModel> match =
-                    entityManager
-                            .createQuery(
-                                    "SELECT read FROM CBOMReadModel read WHERE read.projectIdentifier = :projectIdentifier ORDER BY createdAt desc",
-                                    CBOMReadModel.class)
-                            .setParameter("projectIdentifier", projectIdentifier)
-                            .getResultStream()
-                            .findFirst();
-            QuarkusTransaction.commit();
-            return match;
-        } catch (Exception e) {
-            LOGGER.error(e.getMessage(), e);
-            if (QuarkusTransaction.isActive()) {
-                QuarkusTransaction.rollback();
-            }
-        } finally {
-            container.requestContext().terminate();
-        }
-        return Optional.empty();
+        return findByProjectIdentifier(projectIdentifier, null);
     }
 
     @Override
@@ -223,5 +167,75 @@ public final class CBOMReadRepository extends ReadRepository<UUID, CBOMReadModel
         } finally {
             container.requestContext().terminate();
         }
+    }
+
+    private @Nonnull Optional<CBOMReadModel> findByRepository(
+            @Nonnull String repository, @Nullable Commit commit) {
+        final EntityManager entityManager = CBOMReadModel.getEntityManager();
+        final ArcContainer container = Arc.container();
+        container.requestContext().activate();
+        try {
+            QuarkusTransaction.begin();
+            String qString =
+                    commit != null
+                            ? "SELECT read FROM CBOMReadModel read WHERE read.commit = :commit AND read.repository = :repository"
+                            : "SELECT read FROM CBOMReadModel read WHERE read.repository = :repository";
+            qString += " ORDER BY createdAt desc";
+
+            TypedQuery<CBOMReadModel> query =
+                    entityManager
+                            .createQuery(qString, CBOMReadModel.class)
+                            .setParameter("repository", repository);
+
+            if (commit != null) {
+                query.setParameter("commit", commit.hash());
+            }
+            Optional<CBOMReadModel> match = query.getResultStream().findFirst();
+            QuarkusTransaction.commit();
+            return match;
+        } catch (Exception e) {
+            LOGGER.error(e.getMessage(), e);
+            if (QuarkusTransaction.isActive()) {
+                QuarkusTransaction.rollback();
+            }
+        } finally {
+            container.requestContext().terminate();
+        }
+        return Optional.empty();
+    }
+
+    private @Nonnull Optional<CBOMReadModel> findByProjectIdentifier(
+            @Nonnull String projectIdentifier, @Nullable Commit commit) {
+        final EntityManager entityManager = CBOMReadModel.getEntityManager();
+        final ArcContainer container = Arc.container();
+        container.requestContext().activate();
+        try {
+            QuarkusTransaction.begin();
+            String qString =
+                    commit != null
+                            ? "SELECT read FROM CBOMReadModel read WHERE read.commit = :commit AND read.projectIdentifier = :projectIdentifier"
+                            : "SELECT read FROM CBOMReadModel read WHERE read.projectIdentifier = :projectIdentifier";
+            qString += " ORDER BY createdAt desc";
+
+            TypedQuery<CBOMReadModel> query =
+                    entityManager
+                            .createQuery(qString, CBOMReadModel.class)
+                            .setParameter("projectIdentifier", projectIdentifier);
+
+            if (commit != null) {
+                query.setParameter("commit", commit.hash());
+            }
+            Optional<CBOMReadModel> match = query.getResultStream().findFirst();
+            QuarkusTransaction.commit();
+            return match;
+        } catch (Exception e) {
+            LOGGER.error(e.getMessage(), e);
+            if (QuarkusTransaction.isActive()) {
+                QuarkusTransaction.rollback();
+            }
+        } finally {
+            container.requestContext().terminate();
+        }
+        return Optional.empty();
     }
 }

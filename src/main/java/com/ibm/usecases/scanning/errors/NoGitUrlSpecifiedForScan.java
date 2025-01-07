@@ -1,6 +1,6 @@
 /*
  * CBOMkit
- * Copyright (C) 2024 IBM
+ * Copyright (C) 2025 IBM
  *
  * Licensed to the Apache Software Foundation (ASF) under one or more
  * contributor license agreements.  See the NOTICE file distributed with
@@ -17,19 +17,13 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.ibm.domain.scanning;
+package com.ibm.usecases.scanning.errors;
 
-import app.bootstrap.core.ddd.IValueObject;
-import com.ibm.domain.scanning.errors.InvalidScanUrl;
+import com.ibm.domain.scanning.ScanId;
 import jakarta.annotation.Nonnull;
-import jakarta.annotation.Nullable;
 
-public record ScanRequest(
-        @Nonnull ScanUrl scanUrl, @Nonnull Revision revision, @Nullable String subFolder)
-        implements IValueObject {
-
-    @Override
-    public void validate() throws InvalidScanUrl {
-        scanUrl.validate();
+public class NoGitUrlSpecifiedForScan extends Exception {
+    public NoGitUrlSpecifiedForScan(@Nonnull ScanId scanId) {
+        super("No Git URL specified for scan: " + scanId);
     }
 }

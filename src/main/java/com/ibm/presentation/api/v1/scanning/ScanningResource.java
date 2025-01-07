@@ -117,7 +117,7 @@ public class ScanningResource {
             commandBus.send(
                     new RequestScanCommand(
                             scanId,
-                            scanRequest.getGitUrl(),
+                            scanRequest.getScanUrl(),
                             scanRequest.getBranch(),
                             scanRequest.getSubfolder(),
                             authCredentials));
