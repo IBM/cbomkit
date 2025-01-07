@@ -28,15 +28,15 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
-import org.apache.http.StatusLine;
-import org.apache.http.client.methods.CloseableHttpResponse;
-import org.apache.http.client.methods.HttpGet;
-import org.apache.http.impl.client.CloseableHttpClient;
-import org.apache.http.impl.client.HttpClientBuilder;
-import org.jboss.logging.Logger;
+import org.apache.hc.client5.http.classic.methods.HttpGet;
+import org.apache.hc.client5.http.impl.classic.CloseableHttpClient;
+import org.apache.hc.client5.http.impl.classic.CloseableHttpResponse;
+import org.apache.hc.client5.http.impl.classic.HttpClientBuilder;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public class DepsDevService {
-    private static final Logger LOGGER = Logger.getLogger(DepsDevService.class);
+    private static final Logger LOGGER = LoggerFactory.getLogger(DepsDevService.class);
     private static final String DEPS_DEV_URI = "https://api.deps.dev/v3alpha/purl/";
     private static final String SOURCE_REPO = "SOURCE_REPO";
 
@@ -48,10 +48,9 @@ public class DepsDevService {
 
         try (final CloseableHttpClient httpClient = HttpClientBuilder.create().build();
                 final CloseableHttpResponse response = httpClient.execute(request); ) {
-            final StatusLine status = response.getStatusLine();
-            if (status.getStatusCode() != 200) {
+            if (response.getCode() != 200) {
                 throw new NoDataAvailableInDepsDevForPurl(
-                        purl, "bad status code: " + status.getStatusCode());
+                        purl, "bad status code: " + response.getCode());
             }
             final InputStream in = response.getEntity().getContent();
             return extractSourceRepo(in);

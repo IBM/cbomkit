@@ -24,7 +24,7 @@ import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
 
 public class ScanRequest {
-    private String scanUrl;
+    private @Nonnull String scanUrl;
     private @Nullable String branch;
     private @Nullable String subfolder;
     private @Nullable Credentials credentials;
