@@ -80,7 +80,7 @@ export default {
       }
     },
     resetModal: function () {
-      this.gitLink = model.codeOrigin.scanUrl;
+      this.gitLink = model.codeOrigin.gitUrl;
       this.gitBranch = model.codeOrigin.revision;
       this.commitID = model.codeOrigin.commitID;
 

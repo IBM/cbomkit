@@ -1,6 +1,6 @@
 /*
  * CBOMkit
- * Copyright (C) 2024 IBM
+ * Copyright (C) 2025 IBM
  *
  * Licensed to the Apache Software Foundation (ASF) under one or more
  * contributor license agreements.  See the NOTICE file distributed with
@@ -17,27 +17,27 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.ibm.usecases.scanning.services.scan;
+package com.ibm.usecases.scanning.services.pkg;
 
-import com.ibm.domain.scanning.Commit;
-import com.ibm.domain.scanning.GitUrl;
-import com.ibm.domain.scanning.Revision;
-import com.ibm.mapper.model.INode;
-import com.ibm.usecases.scanning.services.indexing.ProjectModule;
 import jakarta.annotation.Nonnull;
-import jakarta.annotation.Nullable;
 import java.nio.file.Path;
-import java.util.List;
-import java.util.function.Consumer;
+import org.tomlj.Toml;
+import org.tomlj.TomlParseResult;
 
-public interface IScannerService extends Consumer<List<INode>> {
+public class PythonPackageFinderService extends PackageFinderService {
 
-    @Nonnull
-    ScanResultDTO scan(
-            @Nonnull GitUrl gitUrl,
-            @Nonnull Revision revision,
-            @Nonnull Commit commit,
-            @Nullable Path subFolder,
-            @Nonnull List<ProjectModule> index)
-            throws Exception;
+    public PythonPackageFinderService(@Nonnull Path root) throws IllegalArgumentException {
+        super(root);
+    }
+
+    @Override
+    public boolean isBuildFile(Path file) {
+        return file.endsWith("pyproject.toml");
+    }
+
+    @Override
+    public String getPackageName(Path buildFile) throws Exception {
+        TomlParseResult result = Toml.parse(buildFile);
+        return result.getString(("project.name"));
+    }
 }

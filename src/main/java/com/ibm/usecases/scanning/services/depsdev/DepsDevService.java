@@ -28,10 +28,13 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
+import org.apache.hc.client5.http.ClientProtocolException;
 import org.apache.hc.client5.http.classic.methods.HttpGet;
 import org.apache.hc.client5.http.impl.classic.CloseableHttpClient;
-import org.apache.hc.client5.http.impl.classic.CloseableHttpResponse;
 import org.apache.hc.client5.http.impl.classic.HttpClientBuilder;
+import org.apache.hc.core5.http.ClassicHttpResponse;
+import org.apache.hc.core5.http.HttpStatus;
+import org.apache.hc.core5.http.io.HttpClientResponseHandler;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -40,40 +43,47 @@ public class DepsDevService {
     private static final String DEPS_DEV_URI = "https://api.deps.dev/v3alpha/purl/";
     private static final String SOURCE_REPO = "SOURCE_REPO";
 
-    @Nonnull
-    public String fetch(@Nonnull String purl) throws NoDataAvailableInDepsDevForPurl {
-        LOGGER.info("Sending DepsDev request for " + purl);
-        final HttpGet request =
-                new HttpGet(DEPS_DEV_URI + URLEncoder.encode(purl, StandardCharsets.UTF_8));
-
-        try (final CloseableHttpClient httpClient = HttpClientBuilder.create().build();
-                final CloseableHttpResponse response = httpClient.execute(request); ) {
-            if (response.getCode() != 200) {
-                throw new NoDataAvailableInDepsDevForPurl(
-                        purl, "bad status code: " + response.getCode());
+    private final class DepsDevResponseHandler implements HttpClientResponseHandler<String> {
+        @Override
+        public String handleResponse(ClassicHttpResponse httpResponse)
+                throws ClientProtocolException, IOException {
+            if (httpResponse.getCode() != HttpStatus.SC_OK) {
+                return null;
             }
-            final InputStream in = response.getEntity().getContent();
-            return extractSourceRepo(in);
-        } catch (IOException ioe) {
-            throw new NoDataAvailableInDepsDevForPurl(purl, ioe.getMessage());
+            return extractSourceRepo(httpResponse.getEntity().getContent());
+        }
+
+        @Nonnull
+        public String extractSourceRepo(InputStream in) throws IOException {
+            ObjectMapper objectMapper = new ObjectMapper();
+            JsonNode rootNode = objectMapper.readTree(in);
+            JsonNode version = rootNode.get("version");
+            if (version != null) {
+                ArrayNode links = (ArrayNode) version.get("links");
+                if (links != null) {
+                    for (JsonNode link : links) {
+                        if (SOURCE_REPO.equals(link.get("label").textValue())) {
+                            return link.get("url").textValue();
+                        }
+                    }
+                }
+            }
+            throw new IOException("Invalid deps.dev response");
         }
     }
 
     @Nonnull
-    public String extractSourceRepo(InputStream in) throws IOException {
-        ObjectMapper objectMapper = new ObjectMapper();
-        JsonNode rootNode = objectMapper.readTree(in);
-        JsonNode version = rootNode.get("version");
-        if (version != null) {
-            ArrayNode links = (ArrayNode) version.get("links");
-            if (links != null) {
-                for (JsonNode link : links) {
-                    if (SOURCE_REPO.equals(link.get("label").textValue())) {
-                        return link.get("url").textValue();
-                    }
-                }
-            }
+    public String getSourceRepo(@Nonnull String purl) throws NoDataAvailableInDepsDevForPurl {
+        LOGGER.info("Sending DepsDev request for " + purl);
+        final HttpGet request =
+                new HttpGet(DEPS_DEV_URI + URLEncoder.encode(purl, StandardCharsets.UTF_8));
+
+        try (final CloseableHttpClient httpClient = HttpClientBuilder.create().build()) {
+            final String srcRepo = httpClient.execute(request, new DepsDevResponseHandler());
+            LOGGER.info("Source code repository: {}", srcRepo);
+            return srcRepo;
+        } catch (IOException ioe) {
+            throw new NoDataAvailableInDepsDevForPurl(purl, ioe.getMessage());
         }
-        throw new IOException();
     }
 }

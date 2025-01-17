@@ -27,7 +27,6 @@ export const model = reactive({
     revision: null,
     subfolder: null,
     commitID: null,
-    purls: [],
     uploadedFileName: null,
   },
   credentials: {
@@ -69,7 +68,6 @@ export const model = reactive({
     model.codeOrigin.revision = null;
     model.codeOrigin.subfolder = null;
     model.codeOrigin.commitID = null;
-    model.codeOrigin.purls = [];
     model.codeOrigin.uploadedFileName = null;
   },
   resetCredentials() {

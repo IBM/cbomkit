@@ -146,8 +146,12 @@ function handleMessage(messageJson) {
     let cbomString = obj["message"];
     setCbom(JSON.parse(cbomString));
     console.log("Received CBOM from scanning:", model.cbom);
+  } else if (obj["type"] === "GITURL") {
+    model.codeOrigin.gitUrl = obj["message"];
   } else if (obj["type"] === "BRANCH") {
     model.codeOrigin.revision = obj["message"];
+  } else if (obj["type"] === "FOLDER") {
+    model.codeOrigin.subfolder = obj["message"];
   } else if (obj["type"] === "SCANNED_FILE_COUNT") {
     model.scanning.numberOfFiles = obj["message"];
   } else if (obj["type"] === "SCANNED_NUMBER_OF_LINES") {

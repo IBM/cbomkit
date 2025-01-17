@@ -32,10 +32,10 @@ import com.ibm.domain.scanning.LanguageScan;
 import com.ibm.domain.scanning.ScanAggregate;
 import com.ibm.domain.scanning.ScanId;
 import com.ibm.domain.scanning.ScanMetadata;
-import com.ibm.domain.scanning.ScanRequest;
 import com.ibm.domain.scanning.errors.CBOMSerializationFailed;
 import com.ibm.domain.scanning.errors.CommitHashAlreadyExists;
 import com.ibm.domain.scanning.errors.GitUrlAlreadyResolved;
+import com.ibm.domain.scanning.errors.PackageFolderAlreadyExists;
 import com.ibm.domain.scanning.errors.ScanResultForLanguageAlreadyExists;
 import com.ibm.infrastructure.errors.ClientDisconnected;
 import com.ibm.infrastructure.errors.EntityNotFoundById;
@@ -48,6 +48,7 @@ import com.ibm.usecases.scanning.commands.FetchDataFromDepsDevCommand;
 import com.ibm.usecases.scanning.commands.IndexModulesCommand;
 import com.ibm.usecases.scanning.commands.RequestScanCommand;
 import com.ibm.usecases.scanning.commands.ScanCommand;
+import com.ibm.usecases.scanning.commands.SetPackageFolderCommand;
 import com.ibm.usecases.scanning.errors.GitCloneFailed;
 import com.ibm.usecases.scanning.errors.GitCloneResultNotAvailable;
 import com.ibm.usecases.scanning.errors.NoCommitProvided;
@@ -62,12 +63,16 @@ import com.ibm.usecases.scanning.services.git.GitService;
 import com.ibm.usecases.scanning.services.indexing.JavaIndexService;
 import com.ibm.usecases.scanning.services.indexing.ProjectModule;
 import com.ibm.usecases.scanning.services.indexing.PythonIndexService;
+import com.ibm.usecases.scanning.services.pkg.JavaPackageFinderService;
+import com.ibm.usecases.scanning.services.pkg.PythonPackageFinderService;
 import com.ibm.usecases.scanning.services.scan.ScanResultDTO;
 import com.ibm.usecases.scanning.services.scan.java.JavaScannerService;
 import com.ibm.usecases.scanning.services.scan.python.PythonScannerService;
 import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
 import java.io.File;
+import java.io.IOException;
+import java.nio.file.Path;
 import java.util.EnumMap;
 import java.util.List;
 import java.util.Map;
@@ -103,6 +108,8 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                     this.handleFetchDataFromDepsDevCommand(fetchDataFromDepsDevCommand);
             case CloneGitRepositoryCommand cloneGitRepositoryCommand ->
                     this.handleCloneGitRepositoryCommand(cloneGitRepositoryCommand);
+            case SetPackageFolderCommand setPackageFolderCommmand ->
+                    this.handleSetPackageFolderCommand(setPackageFolderCommmand);
             case IndexModulesCommand indexModulesCommand ->
                     this.handleIndexModulesCommand(indexModulesCommand);
             case ScanCommand scanCommand -> this.handleScanCommand(scanCommand);
@@ -116,7 +123,8 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
             throws EntityNotFoundById,
                     NoDataAvailableInDepsDevForPurl,
                     GitUrlAlreadyResolved,
-                    NoPurlSpecifiedForScan {
+                    NoPurlSpecifiedForScan,
+                    ClientDisconnected {
         if (this.scanId != command.id()) {
             return;
         }
@@ -127,13 +135,17 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
             // Fetch source repo from deps.dev
             final DepsDevService depsDev = new DepsDevService();
             final String gitUrl =
-                    depsDev.fetch(
+                    depsDev.getSourceRepo(
                             scanAggregate
                                     .getPurl()
                                     .map(PackageURL::canonicalize)
                                     .orElseThrow(() -> new NoPurlSpecifiedForScan(scanId)));
             // update aggregate
             scanAggregate.setResolvedGitUrl(gitUrl);
+            if (gitUrl != null) {
+                this.progressDispatcher.send(
+                        new ProgressMessage(ProgressMessageType.GITURL, gitUrl));
+            }
             this.repository.save(scanAggregate);
 
             this.commandBus.send(
@@ -176,8 +188,8 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
             // update aggregate
             scanAggregate.setCommitHash(cloneResultDTO.commit());
             this.repository.save(scanAggregate);
-            // start indexing
-            this.commandBus.send(new IndexModulesCommand(command.id()));
+            // set subfolder
+            this.commandBus.send(new SetPackageFolderCommand(command.id()));
         } catch (GitCloneFailed gitCloneFailed) {
             // if previous attempted failed with `main`, try `master`
             if (scanAggregate.getScanRequest().revision().value().equalsIgnoreCase("main")) {
@@ -206,6 +218,54 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
         }
     }
 
+    private void handleSetPackageFolderCommand(@Nonnull SetPackageFolderCommand command)
+            throws EntityNotFoundById, IOException, PackageFolderAlreadyExists, ClientDisconnected {
+        if (this.scanId != command.id()) {
+            return;
+        }
+
+        try {
+            final Optional<ScanAggregate> possibleScanAggregate =
+                    this.repository.read(command.id());
+            final ScanAggregate scanAggregate =
+                    possibleScanAggregate.orElseThrow(() -> new EntityNotFoundById(command.id()));
+
+            // Initialize packagePath from subFolder
+            Optional<Path> packagePath =
+                    Optional.ofNullable(scanAggregate.getScanRequest().subFolder()).map(Path::of);
+
+            // Extract packagePath from purl and overwrite
+            if (scanAggregate.getPurl().isPresent()) {
+                PackageURL purl = scanAggregate.getPurl().get();
+                if (purl.getType().equals("maven")) {
+                    JavaPackageFinderService jpfs =
+                            new JavaPackageFinderService(this.projectDirectory.toPath());
+                    packagePath = jpfs.findPackage(purl);
+                    // TODO: find gradle package
+                } else if (purl.getType().equals("pypi")) {
+                    PythonPackageFinderService ppfs =
+                            new PythonPackageFinderService(this.projectDirectory.toPath());
+                    packagePath = ppfs.findPackage(purl);
+                }
+            }
+            if (packagePath.isPresent()) {
+                scanAggregate.setPackageFolder(packagePath.get());
+                this.progressDispatcher.send(
+                        new ProgressMessage(
+                                ProgressMessageType.FOLDER, packagePath.get().toString()));
+            }
+
+            this.repository.save(scanAggregate);
+            // start indexing
+            this.commandBus.send(new IndexModulesCommand(command.id()));
+        } catch (Exception e) {
+            this.progressDispatcher.send(
+                    new ProgressMessage(ProgressMessageType.ERROR, e.getMessage()));
+            this.compensate(command.id());
+            throw e;
+        }
+    }
+
     private void handleIndexModulesCommand(@Nonnull IndexModulesCommand command)
             throws EntityNotFoundById, GitCloneResultNotAvailable, ClientDisconnected {
         if (this.scanId != command.id()) {
@@ -217,7 +277,6 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                     this.repository.read(command.id());
             final ScanAggregate scanAggregate =
                     possibleScanAggregate.orElseThrow(() -> new EntityNotFoundById(command.id()));
-            final ScanRequest scanRequest = scanAggregate.getScanRequest();
             this.index = new EnumMap<>(Language.class);
             // java
             final JavaIndexService javaIndexService = new JavaIndexService(this.progressDispatcher);
@@ -225,13 +284,13 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                     Optional.ofNullable(this.projectDirectory)
                             .orElseThrow(GitCloneResultNotAvailable::new);
             final List<ProjectModule> javaIndex =
-                    javaIndexService.index(dir, scanRequest.subFolder());
+                    javaIndexService.index(dir, scanAggregate.getPackageFolder());
             this.index.put(Language.JAVA, javaIndex);
             // python
             final PythonIndexService pythonIndexService =
                     new PythonIndexService(this.progressDispatcher);
             final List<ProjectModule> pythonIndex =
-                    pythonIndexService.index(dir, scanRequest.subFolder());
+                    pythonIndexService.index(dir, scanAggregate.getPackageFolder());
             this.index.put(Language.PYTHON, pythonIndex);
             // continue with scan
             this.commandBus.send(new ScanCommand(command.id()));
@@ -261,7 +320,6 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                     this.repository.read(command.id());
             final ScanAggregate scanAggregate =
                     possibleScanAggregate.orElseThrow(() -> new EntityNotFoundById(command.id()));
-            final ScanRequest scanRequest = scanAggregate.getScanRequest();
             final Commit commit = scanAggregate.getCommit().orElseThrow(NoCommitProvided::new);
 
             // progress scan statistics
@@ -284,7 +342,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                                     .orElseThrow(() -> new NoGitUrlSpecifiedForScan(scanId)),
                             scanAggregate.getRevision(),
                             commit,
-                            scanRequest.subFolder(),
+                            scanAggregate.getPackageFolder(),
                             Optional.ofNullable(this.index)
                                     .map(i -> i.get(Language.JAVA))
                                     .orElseThrow(NoIndexForProject::new));
@@ -320,7 +378,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                                     .orElseThrow(() -> new NoGitUrlSpecifiedForScan(scanId)),
                             scanAggregate.getRevision(),
                             commit,
-                            scanRequest.subFolder(),
+                            scanAggregate.getPackageFolder(),
                             Optional.ofNullable(this.index)
                                     .map(i -> i.get(Language.PYTHON))
                                     .orElseThrow(NoIndexForProject::new));

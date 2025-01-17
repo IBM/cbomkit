@@ -26,15 +26,18 @@ import com.ibm.domain.scanning.authentication.ICredentials;
 import com.ibm.domain.scanning.errors.CommitHashAlreadyExists;
 import com.ibm.domain.scanning.errors.GitUrlAlreadyResolved;
 import com.ibm.domain.scanning.errors.InvalidScanUrl;
+import com.ibm.domain.scanning.errors.PackageFolderAlreadyExists;
 import com.ibm.domain.scanning.errors.ScanResultForLanguageAlreadyExists;
 import com.ibm.domain.scanning.events.CommitHashIdentifiedEvent;
 import com.ibm.domain.scanning.events.GitUrlResolvedEvent;
 import com.ibm.domain.scanning.events.LanguageScanDoneEvent;
+import com.ibm.domain.scanning.events.PackageFolderResolvedEvent;
 import com.ibm.domain.scanning.events.PurlScanRequestedEvent;
 import com.ibm.domain.scanning.events.ScanFinishedEvent;
 import com.ibm.domain.scanning.events.ScanRequestedEvent;
 import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
+import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.EnumMap;
 import java.util.List;
@@ -46,6 +49,7 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
     @Nullable private GitUrl gitUrl;
     @Nullable private PackageURL purl;
     @Nonnull private Revision revision;
+    @Nullable private Path packageFolder;
     @Nullable private Commit commit;
     @Nullable private Map<Language, LanguageScan> languageScans;
 
@@ -66,11 +70,13 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
             @Nonnull ScanRequest scanRequest,
             @Nullable GitUrl gitUrl,
             @Nullable PackageURL purl,
+            @Nullable Path packageFolder,
             @Nullable Commit commit,
             @Nullable Map<Language, LanguageScan> languageScans) {
         this(id, scanRequest);
         this.gitUrl = gitUrl;
         this.purl = purl;
+        this.packageFolder = packageFolder;
         this.commit = commit;
         this.languageScans = languageScans;
     }
@@ -109,6 +115,14 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
         }
         this.commit = commit;
         this.apply(new CommitHashIdentifiedEvent(this.getId()));
+    }
+
+    public void setPackageFolder(@Nonnull Path packageFolder) throws PackageFolderAlreadyExists {
+        if (this.packageFolder != null) {
+            throw new PackageFolderAlreadyExists(this.getId());
+        }
+        this.packageFolder = packageFolder;
+        this.apply(new PackageFolderResolvedEvent(this.getId()));
     }
 
     public void reportScanResults(@Nonnull LanguageScan scan)
@@ -153,6 +167,10 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
         return revision;
     }
 
+    @Nullable public Path getPackageFolder() {
+        return packageFolder;
+    }
+
     @Nonnull
     public Optional<List<LanguageScan>> getLanguageScans() {
         return Optional.ofNullable(languageScans).map(Map::values).map(ArrayList::new);
@@ -194,8 +212,10 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
             @Nonnull ScanRequest scanRequest,
             @Nullable GitUrl gitUrl,
             @Nullable PackageURL purl,
+            @Nullable Path packageFolder,
             @Nullable Commit commit,
             @Nullable Map<Language, LanguageScan> languageScans) {
-        return new ScanAggregate(id, scanRequest, gitUrl, purl, commit, languageScans);
+        return new ScanAggregate(
+                id, scanRequest, gitUrl, purl, packageFolder, commit, languageScans);
     }
 }

@@ -35,6 +35,7 @@ import com.ibm.output.cyclondx.CBOMOutputFileFactory;
 import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
 import java.io.File;
+import java.nio.file.Path;
 import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
@@ -92,7 +93,7 @@ public abstract class ScannerService implements IScannerService {
             @Nonnull GitUrl gitUrl,
             @Nonnull Revision revision,
             @Nonnull Commit commit,
-            @Nullable String subFolder) {
+            @Nullable Path subFolder) {
 
         final Bom bom = this.cbomOutputFile.getBom();
         // sanitizeOccurrence
@@ -118,7 +119,7 @@ public abstract class ScannerService implements IScannerService {
         if (subFolder != null) {
             final Property subFolderProperty = new Property();
             subFolderProperty.setName("subfolder");
-            subFolderProperty.setValue(subFolder);
+            subFolderProperty.setValue(subFolder.toString());
             metadata.addProperty(subFolderProperty);
         }
 

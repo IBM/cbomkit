@@ -17,27 +17,27 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.ibm.usecases.scanning.services.scan;
+package com.ibm.domain.scanning.events;
 
-import com.ibm.domain.scanning.Commit;
-import com.ibm.domain.scanning.GitUrl;
-import com.ibm.domain.scanning.Revision;
-import com.ibm.mapper.model.INode;
-import com.ibm.usecases.scanning.services.indexing.ProjectModule;
+import app.bootstrap.core.ddd.DomainEvent;
+import com.ibm.domain.scanning.ScanId;
 import jakarta.annotation.Nonnull;
-import jakarta.annotation.Nullable;
-import java.nio.file.Path;
-import java.util.List;
-import java.util.function.Consumer;
 
-public interface IScannerService extends Consumer<List<INode>> {
+public final class PackageFolderResolvedEvent extends DomainEvent {
+    @Nonnull private final ScanId scanId;
+
+    public PackageFolderResolvedEvent(@Nonnull ScanId scanId) {
+        this.scanId = scanId;
+    }
 
     @Nonnull
-    ScanResultDTO scan(
-            @Nonnull GitUrl gitUrl,
-            @Nonnull Revision revision,
-            @Nonnull Commit commit,
-            @Nullable Path subFolder,
-            @Nonnull List<ProjectModule> index)
-            throws Exception;
+    public ScanId getScanId() {
+        return scanId;
+    }
+
+    @Nonnull
+    @Override
+    public String toString() {
+        return this.getClass().getSimpleName() + "[id=" + scanId + "]";
+    }
 }

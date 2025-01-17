@@ -11,11 +11,6 @@
           <cv-tag v-if="showBranch" :label="branchLabel" />
           <cv-tag v-if="showCommitID" :label="commitIDLabel" />
           <cv-tag v-if="showSubfolder" :label="subfolderLabel" />
-          <cv-tag
-            v-for="purl in model.codeOrigin.purls"
-            :key="purl"
-            :label="purl"
-          ></cv-tag>
         </div>
       </div>
       <div v-if="getDetections().length > 0 || model.scanning.isScanning">

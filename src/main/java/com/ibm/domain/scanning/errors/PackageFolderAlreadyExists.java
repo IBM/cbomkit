@@ -17,27 +17,14 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.ibm.usecases.scanning.services.scan;
+package com.ibm.domain.scanning.errors;
 
-import com.ibm.domain.scanning.Commit;
-import com.ibm.domain.scanning.GitUrl;
-import com.ibm.domain.scanning.Revision;
-import com.ibm.mapper.model.INode;
-import com.ibm.usecases.scanning.services.indexing.ProjectModule;
+import app.bootstrap.core.ddd.DomainException;
+import com.ibm.domain.scanning.ScanId;
 import jakarta.annotation.Nonnull;
-import jakarta.annotation.Nullable;
-import java.nio.file.Path;
-import java.util.List;
-import java.util.function.Consumer;
 
-public interface IScannerService extends Consumer<List<INode>> {
-
-    @Nonnull
-    ScanResultDTO scan(
-            @Nonnull GitUrl gitUrl,
-            @Nonnull Revision revision,
-            @Nonnull Commit commit,
-            @Nullable Path subFolder,
-            @Nonnull List<ProjectModule> index)
-            throws Exception;
+public class PackageFolderAlreadyExists extends DomainException {
+    public PackageFolderAlreadyExists(@Nonnull ScanId scanId) {
+        super("Subfolder already exists in scan " + scanId);
+    }
 }

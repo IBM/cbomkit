@@ -151,6 +151,17 @@
       <artifactId>google-java-format</artifactId>
       <version>${google-java-format.version}</version>
     </dependency>
+
+    <dependency>
+      <groupId>org.apache.maven</groupId>
+      <artifactId>maven-model</artifactId>
+      <version>3.9.9</version>
+    </dependency>
+    <dependency>
+      <groupId>org.tomlj</groupId>
+      <artifactId>tomlj</artifactId>
+      <version>1.1.1</version>
+    </dependency>
   </dependencies>
 
   <build>

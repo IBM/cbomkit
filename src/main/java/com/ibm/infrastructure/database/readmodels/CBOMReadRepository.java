@@ -32,6 +32,7 @@ import jakarta.annotation.Nullable;
 import jakarta.inject.Singleton;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.TypedQuery;
+import java.nio.file.Path;
 import java.util.Collection;
 import java.util.List;
 import java.util.Optional;
@@ -49,24 +50,15 @@ public final class CBOMReadRepository extends ReadRepository<UUID, CBOMReadModel
     }
 
     @Override
-    public @Nonnull Optional<CBOMReadModel> findBy(@Nonnull GitUrl gitUrl, @Nonnull Commit commit) {
-        return findByRepository(gitUrl.value(), commit);
-    }
-
-    @Override
-    public @Nonnull Optional<CBOMReadModel> findBy(@Nonnull GitUrl gitUrl) {
-        return findByRepository(gitUrl.value(), null);
+    public @Nonnull Optional<CBOMReadModel> findBy(
+            @Nonnull GitUrl gitUrl, @Nullable Commit commit, @Nullable Path packageFolder) {
+        return findByRepository(gitUrl.value(), commit, packageFolder);
     }
 
     @Override
     public @Nonnull Optional<CBOMReadModel> findBy(
-            @Nonnull PackageURL purl, @Nonnull Commit commit) {
+            @Nonnull PackageURL purl, @Nullable Commit commit) {
         return findByProjectIdentifier(purl.canonicalize(), commit);
-    }
-
-    @Override
-    public @Nonnull Optional<CBOMReadModel> findBy(@Nonnull PackageURL purl) {
-        return findByProjectIdentifier(purl.canonicalize(), null);
     }
 
     @Override
@@ -170,16 +162,21 @@ public final class CBOMReadRepository extends ReadRepository<UUID, CBOMReadModel
     }
 
     private @Nonnull Optional<CBOMReadModel> findByRepository(
-            @Nonnull String repository, @Nullable Commit commit) {
+            @Nonnull String repository, @Nullable Commit commit, @Nullable Path packageFolder) {
         final EntityManager entityManager = CBOMReadModel.getEntityManager();
         final ArcContainer container = Arc.container();
         container.requestContext().activate();
         try {
             QuarkusTransaction.begin();
             String qString =
-                    commit != null
-                            ? "SELECT read FROM CBOMReadModel read WHERE read.commit = :commit AND read.repository = :repository"
-                            : "SELECT read FROM CBOMReadModel read WHERE read.repository = :repository";
+                    "SELECT read FROM CBOMReadModel read WHERE read.repository = :repository";
+
+            if (commit != null) {
+                qString += " AND read.commit = :commit";
+            }
+            if (packageFolder != null) {
+                qString += " AND read.packageFolder = :packageFolder";
+            }
             qString += " ORDER BY createdAt desc";
 
             TypedQuery<CBOMReadModel> query =
@@ -189,6 +186,9 @@ public final class CBOMReadRepository extends ReadRepository<UUID, CBOMReadModel
 
             if (commit != null) {
                 query.setParameter("commit", commit.hash());
+            }
+            if (packageFolder != null) {
+                query.setParameter("packageFolder", packageFolder.toString());
             }
             Optional<CBOMReadModel> match = query.getResultStream().findFirst();
             QuarkusTransaction.commit();

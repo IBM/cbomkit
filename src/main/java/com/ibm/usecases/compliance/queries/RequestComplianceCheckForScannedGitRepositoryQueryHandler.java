@@ -36,6 +36,7 @@ import io.quarkus.runtime.StartupEvent;
 import jakarta.annotation.Nonnull;
 import jakarta.enterprise.event.Observes;
 import jakarta.inject.Singleton;
+import java.nio.file.Path;
 import java.util.Collection;
 import java.util.Optional;
 
@@ -73,6 +74,11 @@ public final class RequestComplianceCheckForScannedGitRepositoryQueryHandler
                         Optional.ofNullable(
                                         requestComplianceCheckForScannedGitRepositoryQuery.commit())
                                 .map(Commit::new)
+                                .orElse(null),
+                        Optional.ofNullable(
+                                        requestComplianceCheckForScannedGitRepositoryQuery
+                                                .packageFolder())
+                                .map(Path::of)
                                 .orElse(null));
 
         final PolicyIdentifier policyIdentifier =

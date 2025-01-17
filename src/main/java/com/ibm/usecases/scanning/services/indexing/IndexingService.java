@@ -29,6 +29,7 @@ import jakarta.annotation.Nonnull;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
+import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -55,10 +56,10 @@ public abstract class IndexingService {
     }
 
     @Nonnull
-    public List<ProjectModule> index(@Nonnull File projectDirectory, @Nullable String subFolder)
+    public List<ProjectModule> index(@Nonnull File projectDirectory, @Nullable Path packageFolder)
             throws ClientDisconnected {
-        if (subFolder != null) {
-            projectDirectory = new File(projectDirectory.getPath() + File.separator + subFolder);
+        if (packageFolder != null) {
+            projectDirectory = projectDirectory.toPath().resolve(packageFolder).toFile();
         }
         this.progressDispatcher.send(
                 new ProgressMessage(ProgressMessageType.LABEL, "Indexing projects ..."));

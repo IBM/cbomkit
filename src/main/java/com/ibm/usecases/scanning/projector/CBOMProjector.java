@@ -29,7 +29,6 @@ import com.ibm.domain.scanning.GitUrl;
 import com.ibm.domain.scanning.LanguageScan;
 import com.ibm.domain.scanning.ScanAggregate;
 import com.ibm.domain.scanning.ScanId;
-import com.ibm.domain.scanning.ScanRequest;
 import com.ibm.domain.scanning.errors.CBOMSerializationFailed;
 import com.ibm.domain.scanning.events.ScanFinishedEvent;
 import com.ibm.infrastructure.database.readmodels.CBOMReadModel;
@@ -41,6 +40,7 @@ import io.quarkus.runtime.StartupEvent;
 import jakarta.annotation.Nonnull;
 import jakarta.enterprise.event.Observes;
 import jakarta.inject.Singleton;
+import java.nio.file.Path;
 import java.util.List;
 import java.util.Optional;
 import java.util.UUID;
@@ -81,7 +81,6 @@ public class CBOMProjector extends Projector<UUID, CBOMReadModel> {
         final Optional<ScanAggregate> possibleScanAggregate = this.sourceRepository.read(scanId);
         final ScanAggregate scanAggregate =
                 possibleScanAggregate.orElseThrow(() -> new EntityNotFoundById(scanId));
-        final ScanRequest scanRequest = scanAggregate.getScanRequest();
         // check for existing read model
         if (this.repository instanceof ICBOMReadRepository cbomReadRepository) {
             final Optional<CBOMReadModel> possibleCBOMReadModel =
@@ -89,7 +88,8 @@ public class CBOMProjector extends Projector<UUID, CBOMReadModel> {
                             scanAggregate
                                     .getGitUrl()
                                     .orElseThrow(() -> new NoGitUrlSpecifiedForScan(scanId)),
-                            scanAggregate.getCommit().orElseThrow(NoCBOMForScan::new));
+                            scanAggregate.getCommit().orElseThrow(NoCBOMForScan::new),
+                            scanAggregate.getPackageFolder());
             if (possibleCBOMReadModel.isPresent()) {
                 LOGGER.info(
                         "No need to update CBOM read model, since scan request didn't change for {}",
@@ -120,12 +120,15 @@ public class CBOMProjector extends Projector<UUID, CBOMReadModel> {
         final CBOMReadModel cbomReadModel =
                 new CBOMReadModel(
                         scanAggregate.getId().getUuid(),
-                        scanRequest.scanUrl().getIdentifier(),
+                        scanAggregate.getScanRequest().scanUrl().getIdentifier(),
                         scanAggregate
                                 .getGitUrl()
                                 .map(GitUrl::value)
                                 .orElseThrow(() -> new NoGitUrlSpecifiedForScan(scanId)),
                         scanAggregate.getRevision().value(),
+                        Optional.ofNullable(scanAggregate.getPackageFolder())
+                                .map(Path::toString)
+                                .orElse(null),
                         scanAggregate.getCommit().map(Commit::hash).orElse(null),
                         scanFinishedEvent.getTimestamp(),
                         mergedCBOM.toJSON());
