@@ -38,7 +38,7 @@ public abstract class PackageFinderService {
 
     protected Path root;
 
-    public PackageFinderService(@Nonnull Path root) throws IllegalArgumentException {
+    protected PackageFinderService(@Nonnull Path root) throws IllegalArgumentException {
         if (!Files.isDirectory(root)) {
             throw new IllegalArgumentException("Path must be a directory!");
         }

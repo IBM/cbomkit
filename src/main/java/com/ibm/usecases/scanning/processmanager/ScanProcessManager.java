@@ -64,7 +64,9 @@ import com.ibm.usecases.scanning.services.indexing.JavaIndexService;
 import com.ibm.usecases.scanning.services.indexing.ProjectModule;
 import com.ibm.usecases.scanning.services.indexing.PythonIndexService;
 import com.ibm.usecases.scanning.services.pkg.JavaPackageFinderService;
+import com.ibm.usecases.scanning.services.pkg.PackageFinderService;
 import com.ibm.usecases.scanning.services.pkg.PythonPackageFinderService;
+import com.ibm.usecases.scanning.services.pkg.SetupPackageFinderService;
 import com.ibm.usecases.scanning.services.scan.ScanResultDTO;
 import com.ibm.usecases.scanning.services.scan.java.JavaScannerService;
 import com.ibm.usecases.scanning.services.scan.python.PythonScannerService;
@@ -238,14 +240,18 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
             if (scanAggregate.getPurl().isPresent()) {
                 PackageURL purl = scanAggregate.getPurl().get();
                 if (purl.getType().equals("maven")) {
-                    JavaPackageFinderService jpfs =
+                    PackageFinderService pfs =
                             new JavaPackageFinderService(this.projectDirectory.toPath());
-                    packagePath = jpfs.findPackage(purl);
+                    packagePath = pfs.findPackage(purl);
                     // TODO: find gradle package
                 } else if (purl.getType().equals("pypi")) {
-                    PythonPackageFinderService ppfs =
+                    PackageFinderService pfs =
                             new PythonPackageFinderService(this.projectDirectory.toPath());
-                    packagePath = ppfs.findPackage(purl);
+                    packagePath = pfs.findPackage(purl);
+                    if (!packagePath.isPresent()) {
+                        pfs = new SetupPackageFinderService(this.projectDirectory.toPath());
+                        packagePath = pfs.findPackage(purl);
+                    }
                 }
             }
             if (packagePath.isPresent()) {
