@@ -75,7 +75,7 @@ public abstract class IndexingService {
         for (File file : filesInDir) {
             if (isModule(filesInDir)) {
                 if (file.isDirectory() && !".git".equals(file.getName())) {
-                    LOGGER.debug("Extracting files from project: {}", file.getPath());
+                    LOGGER.debug("Extracting projects from module: {}", file.getPath());
                     this.detectModules(file, projectModules);
                 }
             } else {
@@ -97,6 +97,7 @@ public abstract class IndexingService {
         if (filesInDir != null) {
             for (File file : filesInDir) {
                 if (file.isDirectory() && !".git".equals(file.getName())) {
+                    LOGGER.debug("Extracting files from directory: {}", file.getPath());
                     getFiles(new File(directory + File.separator + file.getName()), inputFiles);
                 } else if (file.isFile()
                         && file.getName().endsWith(this.languageFileExtension)
