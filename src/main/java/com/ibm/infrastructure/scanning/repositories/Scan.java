@@ -43,6 +43,7 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
 import jakarta.persistence.Id;
 import jakarta.persistence.OneToMany;
+import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.EnumMap;
@@ -65,6 +66,7 @@ class Scan extends PanacheEntityBase {
     @Nonnull public String revision;
     @Nullable public String commitHash;
     @Nullable public String subFolder;
+    @Nullable public String packageFolder;
     @Nullable public String purl;
 
     @OneToMany(cascade = CascadeType.ALL, fetch = FetchType.EAGER)
@@ -84,6 +86,9 @@ class Scan extends PanacheEntityBase {
         } else {
             this.revision = aggregate.getScanRequest().revision().value();
         }
+        this.subFolder = aggregate.getScanRequest().subFolder();
+        this.packageFolder =
+                Optional.ofNullable(aggregate.getPackageFolder()).map(Path::toString).orElse(null);
         this.commitHash = aggregate.getCommit().map(Commit::hash).orElse(null);
 
         final Optional<List<LanguageScan>> languageScans = aggregate.getLanguageScans();
@@ -139,6 +144,7 @@ class Scan extends PanacheEntityBase {
                             new ScanUrl(this.scanUrl), new Revision(this.revision), this.subFolder),
                     Optional.ofNullable(this.gitUrl).map(GitUrl::new).orElse(null),
                     optionalPackageURL.orElse(null),
+                    Optional.ofNullable(this.packageFolder).map(Path::of).orElse(null),
                     Optional.ofNullable(this.commitHash).map(Commit::new).orElse(null),
                     languageScans);
         } catch (MalformedPackageURLException | CBOMSerializationFailed e) {

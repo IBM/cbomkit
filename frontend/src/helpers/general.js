@@ -51,7 +51,7 @@ export function openGitRepo(gitUrl) {
 }
 
 export function canOpenOnline() {
-  let gitUrl = model.codeOrigin.scanUrl;
+  let gitUrl = model.codeOrigin.gitUrl;
   let branch = model.codeOrigin.revision;
   let commitID = model.codeOrigin.commitID;
 

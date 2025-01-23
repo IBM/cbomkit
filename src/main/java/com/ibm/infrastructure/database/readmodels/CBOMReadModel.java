@@ -39,7 +39,15 @@ import org.hibernate.type.SqlTypes;
 @Entity
 @Cacheable
 @JsonInclude(JsonInclude.Include.NON_NULL)
-@JsonPropertyOrder({"projectIdentifier", "gitUrl", "branch", "commit", "createdAt", "bom"})
+@JsonPropertyOrder({
+    "projectIdentifier",
+    "gitUrl",
+    "branch",
+    "folder",
+    "commit",
+    "createdAt",
+    "bom"
+})
 public class CBOMReadModel extends PanacheEntityBase implements IReadModel<UUID> {
     @JsonIgnore @Id @Nonnull public UUID id;
 
@@ -51,6 +59,9 @@ public class CBOMReadModel extends PanacheEntityBase implements IReadModel<UUID>
 
     @JsonProperty("branch")
     @Nullable protected String revision;
+
+    @JsonProperty("folder")
+    @Nullable protected String packageFolder;
 
     @Nullable protected String commit;
     @Nonnull protected Timestamp createdAt;
@@ -64,6 +75,7 @@ public class CBOMReadModel extends PanacheEntityBase implements IReadModel<UUID>
             @Nonnull String projectIdentifier,
             @Nonnull String repository,
             @Nullable String revision,
+            @Nullable String packageFolder,
             @Nullable String commit,
             @Nonnull Timestamp createdAt,
             @Nonnull JsonNode bom) {
@@ -71,6 +83,7 @@ public class CBOMReadModel extends PanacheEntityBase implements IReadModel<UUID>
         this.projectIdentifier = projectIdentifier;
         this.repository = repository;
         this.revision = revision;
+        this.packageFolder = packageFolder;
         this.commit = commit;
         this.createdAt = createdAt;
         this.bom = bom;
@@ -95,6 +108,10 @@ public class CBOMReadModel extends PanacheEntityBase implements IReadModel<UUID>
 
     @Nullable public String getRevision() {
         return revision;
+    }
+
+    @Nullable public String getPackageFolder() {
+        return packageFolder;
     }
 
     @Nullable public String getCommit() {

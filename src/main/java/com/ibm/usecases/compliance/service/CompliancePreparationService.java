@@ -32,6 +32,7 @@ import com.ibm.usecases.compliance.errors.ErrorWhileParsingStringToCBOM;
 import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
 import java.nio.charset.StandardCharsets;
+import java.nio.file.Path;
 import java.util.Collection;
 import org.cyclonedx.exception.ParseException;
 import org.cyclonedx.model.Bom;
@@ -43,25 +44,17 @@ public final class CompliancePreparationService {
     public Collection<CryptographicAsset> receiveCryptographicAssets(
             @Nonnull ICBOMReadRepository readRepository,
             @Nonnull GitUrl gitUrl,
-            @Nullable Commit commit)
+            @Nullable Commit commit,
+            @Nullable Path packageFolder)
             throws CBOMSerializationFailed, CouldNotFindCBOMForGitRepository, InvalidScanUrl {
         // validate
         gitUrl.validate();
 
-        final CBOMReadModel cbomReadModel;
-        if (commit != null) {
-            cbomReadModel =
-                    readRepository
-                            .findBy(gitUrl, commit)
-                            .orElseThrow(
-                                    () -> new CouldNotFindCBOMForGitRepository(gitUrl.value()));
-        } else {
-            cbomReadModel =
-                    readRepository
-                            .findBy(gitUrl)
-                            .orElseThrow(
-                                    () -> new CouldNotFindCBOMForGitRepository(gitUrl.value()));
-        }
+        final CBOMReadModel cbomReadModel =
+                readRepository
+                        .findBy(gitUrl, commit, packageFolder)
+                        .orElseThrow(() -> new CouldNotFindCBOMForGitRepository(gitUrl.value()));
+
         final CBOM cbom = CBOM.formJSON(cbomReadModel.getBom());
         return cbom.cycloneDXbom().getComponents().stream()
                 .map(component -> new CryptographicAsset(component.getBomRef(), component))

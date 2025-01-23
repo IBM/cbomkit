@@ -262,7 +262,6 @@ export function setCbom(cbom) {
 
   if (Object.hasOwn(cbom, "metadata")) {
     if (Object.hasOwn(cbom.metadata, "properties") && Array.isArray(cbom.metadata.properties)) {
-      model.codeOrigin.purls = []
       cbom.metadata.properties.forEach(function (prop) {
         if (Object.hasOwn(prop, "name") && Object.hasOwn(prop, "value")) {
           switch (prop.name) {
@@ -274,9 +273,6 @@ export function setCbom(cbom) {
               break;
             case "subfolder":
               model.codeOrigin.subfolder = prop.value
-              break;
-            case "purl":
-              model.codeOrigin.purls.push(prop.value)
               break;
             case "commit":
               model.codeOrigin.commitID = prop.value

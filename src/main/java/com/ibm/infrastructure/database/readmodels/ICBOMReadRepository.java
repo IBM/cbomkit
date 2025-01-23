@@ -24,29 +24,28 @@ import com.github.packageurl.PackageURL;
 import com.ibm.domain.scanning.Commit;
 import com.ibm.domain.scanning.GitUrl;
 import jakarta.annotation.Nonnull;
+import jakarta.annotation.Nullable;
+import java.nio.file.Path;
 import java.util.Collection;
 import java.util.Optional;
 import java.util.UUID;
 
 public interface ICBOMReadRepository extends IReadRepository<UUID, CBOMReadModel> {
 
-    @Nonnull
-    Optional<CBOMReadModel> findBy(@Nonnull GitUrl gitUrl, @Nonnull Commit commit);
-
     /**
-     * Returns latest CBOM related to the git url.
+     * Returns latest CBOM related to the git url, commit and packageFolder.
      *
      * @param gitUrl the git url that identifies the CBOM.
+     * @param commit the commit id (optional)
+     * @param packageFolder the packageFolder (optional)
      * @return CBOM read model.
      */
     @Nonnull
-    Optional<CBOMReadModel> findBy(@Nonnull GitUrl gitUrl);
+    Optional<CBOMReadModel> findBy(
+            @Nonnull GitUrl gitUrl, @Nullable Commit commit, @Nullable Path packageFolder);
 
     @Nonnull
-    Optional<CBOMReadModel> findBy(@Nonnull PackageURL purl, @Nonnull Commit commit);
-
-    @Nonnull
-    Optional<CBOMReadModel> findBy(@Nonnull PackageURL purl);
+    Optional<CBOMReadModel> findBy(@Nonnull PackageURL purl, @Nullable Commit commit);
 
     @Nonnull
     Optional<CBOMReadModel> findBy(@Nonnull String projectIdentifier);

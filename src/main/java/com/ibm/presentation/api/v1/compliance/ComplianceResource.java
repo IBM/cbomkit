@@ -56,7 +56,8 @@ public class ComplianceResource {
     public Response checkStored(
             @Nullable @RestQuery("policyIdentifier") String policyIdentifier,
             @Nullable @RestQuery("gitUrl") String gitUrl,
-            @Nullable @RestQuery("commit") String commit)
+            @Nullable @RestQuery("commit") String commit,
+            @Nullable @RestQuery("folder") String folder)
             throws ExecutionException, InterruptedException {
         if (policyIdentifier == null) {
             return Response.status(Response.Status.BAD_REQUEST).build();
@@ -69,7 +70,7 @@ public class ComplianceResource {
         return this.queryBus
                 .send(
                         new RequestComplianceCheckForScannedGitRepositoryQuery(
-                                policyIdentifier, gitUrl, commit))
+                                policyIdentifier, gitUrl, commit, folder))
                 .thenApply(res -> Response.ok(res).build())
                 .get();
     }

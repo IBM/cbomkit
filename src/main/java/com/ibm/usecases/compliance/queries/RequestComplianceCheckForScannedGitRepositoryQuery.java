@@ -25,5 +25,8 @@ import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
 
 public record RequestComplianceCheckForScannedGitRepositoryQuery(
-        @Nonnull String policyIdentifier, @Nonnull String gitUrl, @Nullable String commit)
+        @Nonnull String policyIdentifier,
+        @Nonnull String gitUrl,
+        @Nullable String commit,
+        @Nullable String packageFolder)
         implements IQuery<ComplianceResult> {}

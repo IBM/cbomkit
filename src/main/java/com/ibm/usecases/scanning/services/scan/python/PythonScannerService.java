@@ -33,6 +33,7 @@ import com.ibm.usecases.scanning.services.scan.ScannerService;
 import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
 import java.io.File;
+import java.nio.file.Path;
 import java.util.List;
 import org.sonar.api.batch.fs.InputFile;
 import org.sonar.plugins.python.api.PythonCheck;
@@ -51,7 +52,7 @@ public final class PythonScannerService extends ScannerService {
             @Nonnull GitUrl gitUrl,
             @Nonnull Revision revision,
             @Nonnull Commit commit,
-            @Nullable String subFolder,
+            @Nullable Path subFolder,
             @Nonnull List<ProjectModule> index)
             throws ClientDisconnected {
         final PythonCheck visitor = new PythonDetectionCollectionRule(this);
@@ -72,6 +73,7 @@ public final class PythonScannerService extends ScannerService {
                             ProgressMessageType.LABEL, "Scanning project " + projectStr));
 
             for (InputFile inputFile : project.inputFileList()) {
+                LOGGER.info("Scanning file: {}", inputFile.filename());
                 final PythonScannableFile pythonScannableFile = new PythonScannableFile(inputFile);
                 final FileInput parsedFile = pythonScannableFile.parse();
                 final PythonVisitorContext context =
