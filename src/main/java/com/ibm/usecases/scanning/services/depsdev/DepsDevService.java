@@ -28,7 +28,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
-import org.apache.hc.client5.http.ClientProtocolException;
+import javax.annotation.Nullable;
 import org.apache.hc.client5.http.classic.methods.HttpGet;
 import org.apache.hc.client5.http.impl.classic.CloseableHttpClient;
 import org.apache.hc.client5.http.impl.classic.HttpClientBuilder;
@@ -43,10 +43,9 @@ public class DepsDevService {
     private static final String DEPS_DEV_URI = "https://api.deps.dev/v3alpha/purl/";
     private static final String SOURCE_REPO = "SOURCE_REPO";
 
-    private final class DepsDevResponseHandler implements HttpClientResponseHandler<String> {
-        @Override
-        public String handleResponse(ClassicHttpResponse httpResponse)
-                throws ClientProtocolException, IOException {
+    private static final class DepsDevResponseHandler implements HttpClientResponseHandler<String> {
+        @Nullable @Override
+        public String handleResponse(@Nonnull ClassicHttpResponse httpResponse) throws IOException {
             if (httpResponse.getCode() != HttpStatus.SC_OK) {
                 return null;
             }
@@ -73,14 +72,14 @@ public class DepsDevService {
     }
 
     @Nonnull
-    public String getSourceRepo(@Nonnull String purl) throws NoDataAvailableInDepsDevForPurl {
-        LOGGER.info("Sending DepsDev request for " + purl);
+    public String getRepository(@Nonnull String purl) throws NoDataAvailableInDepsDevForPurl {
+        LOGGER.info("Sending DepsDev request for {}", purl);
         final HttpGet request =
                 new HttpGet(DEPS_DEV_URI + URLEncoder.encode(purl, StandardCharsets.UTF_8));
 
         try (final CloseableHttpClient httpClient = HttpClientBuilder.create().build()) {
             final String srcRepo = httpClient.execute(request, new DepsDevResponseHandler());
-            LOGGER.info("Source code repository: {}", srcRepo);
+            LOGGER.info("Identified git repository {} for purl {}", srcRepo, purl);
             return srcRepo;
         } catch (IOException ioe) {
             throw new NoDataAvailableInDepsDevForPurl(purl, ioe.getMessage());

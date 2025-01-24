@@ -93,7 +93,7 @@ public abstract class ScannerService implements IScannerService {
             @Nonnull GitUrl gitUrl,
             @Nonnull Revision revision,
             @Nonnull Commit commit,
-            @Nullable Path subFolder) {
+            @Nullable Path packageFolder) {
 
         final Bom bom = this.cbomOutputFile.getBom();
         // sanitizeOccurrence
@@ -116,11 +116,11 @@ public abstract class ScannerService implements IScannerService {
         commitProperty.setValue(commit.hash());
         metadata.addProperty(commitProperty);
 
-        if (subFolder != null) {
-            final Property subFolderProperty = new Property();
-            subFolderProperty.setName("subfolder");
-            subFolderProperty.setValue(subFolder.toString());
-            metadata.addProperty(subFolderProperty);
+        if (packageFolder != null) {
+            final Property packageFolderProperty = new Property();
+            packageFolderProperty.setName("packageFolder");
+            packageFolderProperty.setValue(packageFolder.toString());
+            metadata.addProperty(packageFolderProperty);
         }
 
         bom.setMetadata(metadata);

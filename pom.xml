@@ -103,7 +103,7 @@
     <dependency>
       <groupId>app.bootstrap.core</groupId>
       <artifactId>app-bootstrap-core</artifactId>
-      <version>0.1.12</version>
+      <version>0.1.14</version>
     </dependency>
     <dependency>
       <groupId>org.eclipse.jgit</groupId>
@@ -114,7 +114,21 @@
       <artifactId>httpclient5</artifactId>
       <version>5.4.1</version>
     </dependency>
-
+    <dependency>
+      <groupId>org.apache.maven</groupId>
+      <artifactId>maven-model</artifactId>
+      <version>3.9.9</version>
+    </dependency>
+    <dependency>
+      <groupId>org.tomlj</groupId>
+      <artifactId>tomlj</artifactId>
+      <version>1.1.1</version>
+    </dependency>
+    <dependency>
+      <groupId>org.ini4j</groupId>
+      <artifactId>ini4j</artifactId>
+      <version>0.5.4</version>
+    </dependency>
 
     <dependency>
       <groupId>com.ibm</groupId>
@@ -150,22 +164,6 @@
       <groupId>com.google.googlejavaformat</groupId>
       <artifactId>google-java-format</artifactId>
       <version>${google-java-format.version}</version>
-    </dependency>
-
-    <dependency>
-      <groupId>org.apache.maven</groupId>
-      <artifactId>maven-model</artifactId>
-      <version>3.9.9</version>
-    </dependency>
-    <dependency>
-      <groupId>org.tomlj</groupId>
-      <artifactId>tomlj</artifactId>
-      <version>1.1.1</version>
-    </dependency>
-    <dependency>
-      <groupId>org.ini4j</groupId>
-      <artifactId>ini4j</artifactId>
-      <version>0.5.4</version>
     </dependency>
   </dependencies>
 

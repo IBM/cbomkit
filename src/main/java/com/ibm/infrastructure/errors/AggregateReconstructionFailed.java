@@ -19,8 +19,14 @@
  */
 package com.ibm.infrastructure.errors;
 
+import jakarta.annotation.Nonnull;
+
 public class AggregateReconstructionFailed extends Exception {
     public AggregateReconstructionFailed(Exception e) {
         super("Aggregate reconstruction failed due to ", e);
+    }
+
+    public AggregateReconstructionFailed(@Nonnull String reason) {
+        super("Aggregate reconstruction failed due to " + reason);
     }
 }

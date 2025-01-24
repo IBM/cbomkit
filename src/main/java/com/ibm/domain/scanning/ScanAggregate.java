@@ -22,10 +22,12 @@ package com.ibm.domain.scanning;
 import app.bootstrap.core.ddd.AggregateRoot;
 import com.github.packageurl.MalformedPackageURLException;
 import com.github.packageurl.PackageURL;
+import com.github.packageurl.PackageURLBuilder;
 import com.ibm.domain.scanning.authentication.ICredentials;
 import com.ibm.domain.scanning.errors.CommitHashAlreadyExists;
 import com.ibm.domain.scanning.errors.GitUrlAlreadyResolved;
 import com.ibm.domain.scanning.errors.InvalidScanUrl;
+import com.ibm.domain.scanning.errors.NoValidProjectIdentifierForScan;
 import com.ibm.domain.scanning.errors.PackageFolderAlreadyExists;
 import com.ibm.domain.scanning.errors.ScanResultForLanguageAlreadyExists;
 import com.ibm.domain.scanning.events.CommitHashIdentifiedEvent;
@@ -37,6 +39,7 @@ import com.ibm.domain.scanning.events.ScanFinishedEvent;
 import com.ibm.domain.scanning.events.ScanRequestedEvent;
 import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
+import java.net.URI;
 import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.EnumMap;
@@ -45,7 +48,6 @@ import java.util.Map;
 import java.util.Optional;
 
 public final class ScanAggregate extends AggregateRoot<ScanId> {
-    @Nonnull private final ScanRequest scanRequest;
     @Nullable private GitUrl gitUrl;
     @Nullable private PackageURL purl;
     @Nonnull private Revision revision;
@@ -55,7 +57,6 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
 
     private ScanAggregate(@Nonnull final ScanId id, @Nonnull final ScanRequest scanRequest) {
         super(id, new ArrayList<>());
-        this.scanRequest = scanRequest;
         try {
             this.purl = new PackageURL(scanRequest.scanUrl().value());
             this.revision = new Revision(this.purl.getVersion());
@@ -63,19 +64,22 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
             this.gitUrl = new GitUrl(scanRequest.scanUrl().value());
             this.revision = scanRequest.revision();
         }
+        this.packageFolder =
+                Optional.ofNullable(scanRequest.subFolder()).map(Path::of).orElse(null);
     }
 
     private ScanAggregate(
             @Nonnull ScanId id,
-            @Nonnull ScanRequest scanRequest,
             @Nullable GitUrl gitUrl,
             @Nullable PackageURL purl,
+            @Nonnull Revision revision,
             @Nullable Path packageFolder,
             @Nullable Commit commit,
             @Nullable Map<Language, LanguageScan> languageScans) {
-        this(id, scanRequest);
+        super(id, new ArrayList<>());
         this.gitUrl = gitUrl;
         this.purl = purl;
+        this.revision = revision;
         this.packageFolder = packageFolder;
         this.commit = commit;
         this.languageScans = languageScans;
@@ -143,11 +147,6 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
     }
 
     @Nonnull
-    public ScanRequest getScanRequest() {
-        return scanRequest;
-    }
-
-    @Nonnull
     public Optional<Commit> getCommit() {
         return Optional.ofNullable(commit);
     }
@@ -167,8 +166,9 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
         return revision;
     }
 
-    @Nullable public Path getPackageFolder() {
-        return packageFolder;
+    @Nonnull
+    public Optional<Path> getPackageFolder() {
+        return Optional.ofNullable(packageFolder);
     }
 
     @Nonnull
@@ -184,6 +184,46 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
         return Optional.ofNullable(this.languageScans.get(language));
     }
 
+    @Nonnull
+    public String getProjectIdentifier() throws NoValidProjectIdentifierForScan {
+        if (this.purl == null && this.gitUrl == null) {
+            throw new NoValidProjectIdentifierForScan(this.getId());
+        }
+
+        if (this.purl != null) {
+            return this.purl.toString();
+        }
+
+        try {
+            final URI uri = new URI(this.gitUrl.value());
+            final String[] pathSegments = uri.getPath().split("/");
+
+            if (pathSegments.length < 3) {
+                throw new IllegalArgumentException("Invalid Git URL format");
+            }
+
+            final String namespace = pathSegments[1];
+            final String name = pathSegments[2].replaceAll("\\.git$", "");
+
+            final PackageURL buildPurl =
+                    PackageURLBuilder.aPackageURL()
+                            .withType(uri.getHost())
+                            .withNamespace(namespace)
+                            .withName(name)
+                            .withVersion(
+                                    Optional.ofNullable(this.commit).map(Commit::hash).orElse(null))
+                            /*.withQualifier("revision", this.revision.value())
+                            .withSubpath(
+                                    Optional.ofNullable(this.packageFolder)
+                                            .map(Path::toString)
+                                            .orElse(null))*/
+                            .build();
+            return buildPurl.toString();
+        } catch (Exception e) {
+            throw new NoValidProjectIdentifierForScan(this.getId());
+        }
+    }
+
     @Override
     public boolean equals(Object o) {
         return super.equals(o);
@@ -194,14 +234,6 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
         return super.hashCode();
     }
 
-    public boolean hasPurl() {
-        return purl != null;
-    }
-
-    public boolean hasGitUrl() {
-        return gitUrl != null;
-    }
-
     /**
      * This function should only be used by the repository to restore the aggregate from the data
      * source.
@@ -209,13 +241,12 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
     @Nonnull
     public static ScanAggregate reconstruct(
             @Nonnull ScanId id,
-            @Nonnull ScanRequest scanRequest,
             @Nullable GitUrl gitUrl,
             @Nullable PackageURL purl,
+            @Nonnull Revision revision,
             @Nullable Path packageFolder,
             @Nullable Commit commit,
             @Nullable Map<Language, LanguageScan> languageScans) {
-        return new ScanAggregate(
-                id, scanRequest, gitUrl, purl, packageFolder, commit, languageScans);
+        return new ScanAggregate(id, gitUrl, purl, revision, packageFolder, commit, languageScans);
     }
 }

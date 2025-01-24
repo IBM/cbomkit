@@ -21,14 +21,13 @@ package com.ibm.usecases.scanning.services.pkg;
 
 import com.github.packageurl.PackageURL;
 import jakarta.annotation.Nonnull;
-import jakarta.annotation.Nullable;
+import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.List;
 import java.util.Optional;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -38,45 +37,43 @@ public abstract class PackageFinderService {
 
     protected Path root;
 
-    protected PackageFinderService(@Nonnull Path root) throws IllegalArgumentException {
-        if (!Files.isDirectory(root)) {
+    protected PackageFinderService(@Nonnull File rootFile) throws IllegalArgumentException {
+        if (!rootFile.isDirectory()) {
             throw new IllegalArgumentException("Path must be a directory!");
         }
-        this.root = root;
+        this.root = rootFile.toPath();
     }
 
-    @Nullable public Optional<Path> findPackage(@Nonnull PackageURL purl) throws IOException {
-        List<Path> poms;
-
-        LOGGER.info("Trying to find package path for purl {}", purl);
-
+    @Nonnull
+    public Optional<Path> findPackage(@Nonnull PackageURL purl) {
+        LOGGER.info("Trying to find package folder for purl {} in gir repository", purl);
         try (Stream<Path> walk = Files.walk(this.root)) {
-            poms =
-                    walk.filter(p -> !Files.isDirectory(p))
-                            // .map(p -> p.toString().toLowerCase())
-                            // .filter(p -> p.endsWith(getBuildFileName()))
-                            .filter(p -> isBuildFile(p))
-                            .collect(Collectors.toList());
-        }
-
-        for (Path pom : poms) {
-            try {
-                if (purl.getName().equals(getPackageName(pom))) {
-                    Path pkgPath = this.root.relativize(pom.getParent());
-                    LOGGER.info(
-                            "Package path: {}", pkgPath.equals(Paths.get("")) ? "<root>" : pkgPath);
-                    return Optional.of(pkgPath);
+            final List<Path> poms =
+                    walk.filter(p -> !Files.isDirectory(p)).filter(this::isBuildFile).toList();
+            for (final Path pomPath : poms) {
+                final Optional<String> possiblePackageName = getPackageName(pomPath);
+                if (possiblePackageName.isEmpty()) {
+                    continue;
                 }
-            } catch (Exception e) {
-                continue;
-            }
-        }
+                final String packageName = possiblePackageName.get();
 
-        LOGGER.warn("Package path not found");
+                if (!purl.getName().equals(packageName)) {
+                    continue;
+                }
+
+                final Path pkgPath = this.root.relativize(pomPath.getParent());
+                LOGGER.info("Identified package folder {}", pkgPath.equals(Paths.get("")) ? "<root>" : pkgPath);
+                return Optional.of(pkgPath);
+            }
+        } catch (IOException e) {
+            LOGGER.warn("Package folder not found");
+            return Optional.empty();
+        }
+        LOGGER.warn("Package folder not found");
         return Optional.empty();
     }
 
     public abstract boolean isBuildFile(@Nonnull Path file);
 
-    public abstract String getPackageName(@Nonnull Path buildFile) throws Exception;
+    public abstract Optional<String> getPackageName(@Nonnull Path buildFile);
 }

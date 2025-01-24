@@ -43,7 +43,7 @@ import org.hibernate.type.SqlTypes;
     "projectIdentifier",
     "gitUrl",
     "branch",
-    "folder",
+    "packageFolder",
     "commit",
     "createdAt",
     "bom"
@@ -60,7 +60,7 @@ public class CBOMReadModel extends PanacheEntityBase implements IReadModel<UUID>
     @JsonProperty("branch")
     @Nullable protected String revision;
 
-    @JsonProperty("folder")
+    @JsonProperty("packageFolder")
     @Nullable protected String packageFolder;
 
     @Nullable protected String commit;
@@ -70,6 +70,7 @@ public class CBOMReadModel extends PanacheEntityBase implements IReadModel<UUID>
     @JdbcTypeCode(SqlTypes.JSON)
     protected JsonNode bom;
 
+    @SuppressWarnings("java:S107")
     public CBOMReadModel(
             @Nonnull UUID id,
             @Nonnull String projectIdentifier,

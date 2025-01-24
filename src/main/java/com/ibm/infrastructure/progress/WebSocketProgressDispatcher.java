@@ -49,9 +49,6 @@ public final class WebSocketProgressDispatcher implements IProgressDispatcher {
                             progressMessage.asJSONString(),
                             sendResult -> {
                                 if (sendResult.getException() != null) {
-                                    LOGGER.error(
-                                            sendResult.getException().getLocalizedMessage(),
-                                            sendResult.getException());
                                     errOccurred.set(true);
                                     errorLatch.countDown();
                                     try {

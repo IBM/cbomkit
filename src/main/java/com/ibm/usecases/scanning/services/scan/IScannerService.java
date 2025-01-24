@@ -37,7 +37,7 @@ public interface IScannerService extends Consumer<List<INode>> {
             @Nonnull GitUrl gitUrl,
             @Nonnull Revision revision,
             @Nonnull Commit commit,
-            @Nullable Path subFolder,
+            @Nullable Path packageFolder,
             @Nonnull List<ProjectModule> index)
             throws Exception;
 }

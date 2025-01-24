@@ -36,9 +36,4 @@ public record GitUrl(@Nonnull String value) implements IValueObject {
             throw new InvalidScanUrl(value);
         }
     }
-
-    @Nonnull
-    public String getIdentifier() {
-        return value.replace("https://", "").replace("http://", "");
-    }
 }

@@ -30,6 +30,7 @@ import com.ibm.domain.scanning.LanguageScan;
 import com.ibm.domain.scanning.ScanAggregate;
 import com.ibm.domain.scanning.ScanId;
 import com.ibm.domain.scanning.errors.CBOMSerializationFailed;
+import com.ibm.domain.scanning.errors.NoValidProjectIdentifierForScan;
 import com.ibm.domain.scanning.events.ScanFinishedEvent;
 import com.ibm.infrastructure.database.readmodels.CBOMReadModel;
 import com.ibm.infrastructure.database.readmodels.ICBOMReadRepository;
@@ -75,7 +76,8 @@ public class CBOMProjector extends Projector<UUID, CBOMReadModel> {
             throws CBOMSerializationFailed,
                     NoCBOMForScan,
                     EntityNotFoundById,
-                    NoGitUrlSpecifiedForScan {
+                    NoGitUrlSpecifiedForScan,
+                    NoValidProjectIdentifierForScan {
         final ScanId scanId = scanFinishedEvent.getScanId();
         // fetch scan aggregate
         final Optional<ScanAggregate> possibleScanAggregate = this.sourceRepository.read(scanId);
@@ -89,7 +91,7 @@ public class CBOMProjector extends Projector<UUID, CBOMReadModel> {
                                     .getGitUrl()
                                     .orElseThrow(() -> new NoGitUrlSpecifiedForScan(scanId)),
                             scanAggregate.getCommit().orElseThrow(NoCBOMForScan::new),
-                            scanAggregate.getPackageFolder());
+                            scanAggregate.getPackageFolder().orElse(null));
             if (possibleCBOMReadModel.isPresent()) {
                 LOGGER.info(
                         "No need to update CBOM read model, since scan request didn't change for {}",
@@ -120,15 +122,13 @@ public class CBOMProjector extends Projector<UUID, CBOMReadModel> {
         final CBOMReadModel cbomReadModel =
                 new CBOMReadModel(
                         scanAggregate.getId().getUuid(),
-                        scanAggregate.getScanRequest().scanUrl().getIdentifier(),
+                        scanAggregate.getProjectIdentifier(),
                         scanAggregate
                                 .getGitUrl()
                                 .map(GitUrl::value)
                                 .orElseThrow(() -> new NoGitUrlSpecifiedForScan(scanId)),
                         scanAggregate.getRevision().value(),
-                        Optional.ofNullable(scanAggregate.getPackageFolder())
-                                .map(Path::toString)
-                                .orElse(null),
+                        scanAggregate.getPackageFolder().map(Path::toString).orElse(null),
                         scanAggregate.getCommit().map(Commit::hash).orElse(null),
                         scanFinishedEvent.getTimestamp(),
                         mergedCBOM.toJSON());
