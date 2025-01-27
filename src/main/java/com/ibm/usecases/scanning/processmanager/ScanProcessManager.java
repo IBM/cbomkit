@@ -284,19 +284,20 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
             final ScanAggregate scanAggregate =
                     possibleScanAggregate.orElseThrow(() -> new EntityNotFoundById(command.id()));
             this.index = new EnumMap<>(Language.class);
-            // java
-            final JavaIndexService javaIndexService = new JavaIndexService(this.progressDispatcher);
             final File dir =
                     Optional.ofNullable(this.projectDirectory)
                             .orElseThrow(GitCloneResultNotAvailable::new);
+            // java
+            final JavaIndexService javaIndexService =
+                    new JavaIndexService(this.progressDispatcher, dir);
             final List<ProjectModule> javaIndex =
-                    javaIndexService.index(dir, scanAggregate.getPackageFolder());
+                    javaIndexService.index(scanAggregate.getPackageFolder());
             this.index.put(Language.JAVA, javaIndex);
             // python
             final PythonIndexService pythonIndexService =
-                    new PythonIndexService(this.progressDispatcher);
+                    new PythonIndexService(this.progressDispatcher, dir);
             final List<ProjectModule> pythonIndex =
-                    pythonIndexService.index(dir, scanAggregate.getPackageFolder());
+                    pythonIndexService.index(scanAggregate.getPackageFolder());
             this.index.put(Language.PYTHON, pythonIndex);
             // continue with scan
             this.commandBus.send(new ScanCommand(command.id()));
