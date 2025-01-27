@@ -19,15 +19,14 @@
  */
 package com.ibm.usecases.scanning.services.indexing;
 
+import static java.nio.charset.StandardCharsets.ISO_8859_1;
+import static java.nio.charset.StandardCharsets.UTF_8;
+
 import com.ibm.infrastructure.errors.ClientDisconnected;
 import com.ibm.infrastructure.progress.IProgressDispatcher;
 import com.ibm.infrastructure.progress.ProgressMessage;
 import com.ibm.infrastructure.progress.ProgressMessageType;
 import jakarta.annotation.Nonnull;
-
-import static java.nio.charset.StandardCharsets.ISO_8859_1;
-import static java.nio.charset.StandardCharsets.UTF_8;
-
 import java.io.File;
 import java.io.IOException;
 import java.nio.charset.Charset;
@@ -132,8 +131,6 @@ public abstract class IndexingService {
     protected String getProjectIdentifier(@Nonnull File directory) {
         return baseDirectory.toPath().relativize(directory.toPath()).toString();
     }
-
-    abstract boolean isModule(@Nonnull File[] files);
 
     abstract boolean excludeFromIndexing(@Nonnull File file);
 }
