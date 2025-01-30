@@ -19,6 +19,7 @@
  */
 package com.ibm.usecases.scanning.services.indexing;
 
+import static java.nio.charset.StandardCharsets.ISO_8859_1;
 import static java.nio.charset.StandardCharsets.UTF_8;
 
 import com.ibm.infrastructure.errors.ClientDisconnected;
@@ -28,12 +29,13 @@ import com.ibm.infrastructure.progress.ProgressMessageType;
 import jakarta.annotation.Nonnull;
 import java.io.File;
 import java.io.IOException;
+import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import javax.annotation.Nullable;
+import java.util.Optional;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.sonar.api.batch.fs.InputFile;
@@ -45,25 +47,27 @@ public abstract class IndexingService {
     @Nonnull private final IProgressDispatcher progressDispatcher;
     private final String languageIdentifier;
     private final String languageFileExtension;
+    @Nonnull private File baseDirectory;
 
     protected IndexingService(
             @Nonnull IProgressDispatcher progressDispatcher,
+            @Nonnull File baseDirectory,
             @Nonnull String languageIdentifier,
             @Nonnull String languageFileExtension) {
         this.progressDispatcher = progressDispatcher;
+        this.baseDirectory = baseDirectory;
         this.languageIdentifier = languageIdentifier;
         this.languageFileExtension = languageFileExtension;
     }
 
     @Nonnull
-    public List<ProjectModule> index(@Nonnull File projectDirectory, @Nullable Path packageFolder)
-            throws ClientDisconnected {
-        if (packageFolder != null) {
-            projectDirectory = projectDirectory.toPath().resolve(packageFolder).toFile();
+    public List<ProjectModule> index(Optional<Path> packageFolder) throws ClientDisconnected {
+        if (packageFolder.isPresent()) {
+            baseDirectory = baseDirectory.toPath().resolve(packageFolder.get()).toFile();
         }
         this.progressDispatcher.send(
                 new ProgressMessage(ProgressMessageType.LABEL, "Indexing projects ..."));
-        return detectModules(projectDirectory, new ArrayList<>());
+        return detectModules(baseDirectory, new ArrayList<>());
     }
 
     private List<ProjectModule> detectModules(
@@ -72,19 +76,24 @@ public abstract class IndexingService {
         if (filesInDir == null) {
             return Collections.emptyList();
         }
-        for (File file : filesInDir) {
-            if (isModule(filesInDir)) {
-                if (file.isDirectory() && !".git".equals(file.getName())) {
-                    LOGGER.debug("Extracting projects from module: {}", file.getPath());
+
+        if (isModule(filesInDir)) {
+            LOGGER.debug("Extracting projects from module: {}", projectDirectory.getPath());
+            for (File file : filesInDir) {
+                if (file.isDirectory()
+                        && !".git".equals(file.getName())
+                        && !excludeFromIndexing(file)) {
                     this.detectModules(file, projectModules);
                 }
-            } else {
-                List<InputFile> files = getFiles(file, new ArrayList<>());
-                if (!files.isEmpty()) {
-                    ProjectModule project =
-                            new ProjectModule(getProjectIdentifier(projectDirectory, file), files);
-                    projectModules.add(project);
-                }
+            }
+        } else {
+            List<InputFile> files = getFiles(projectDirectory, new ArrayList<>());
+            if (!files.isEmpty()) {
+                String projectIdentifier = getProjectIdentifier(projectDirectory);
+                LOGGER.info(
+                        "Created project module '{}' [{} files]", projectIdentifier, files.size());
+                ProjectModule project = new ProjectModule(projectIdentifier, files);
+                projectModules.add(project);
             }
         }
         return projectModules;
@@ -94,22 +103,25 @@ public abstract class IndexingService {
     public List<InputFile> getFiles(
             @Nonnull File directory, @Nonnull final List<InputFile> inputFiles) {
         File[] filesInDir = directory.listFiles();
-        if (filesInDir != null) {
-            for (File file : filesInDir) {
-                if (file.isDirectory() && !".git".equals(file.getName())) {
-                    LOGGER.debug("Extracting files from directory: {}", file.getPath());
-                    getFiles(new File(directory + File.separator + file.getName()), inputFiles);
-                } else if (file.isFile()
-                        && file.getName().endsWith(this.languageFileExtension)
-                        && !excludeFromIndexing(file)) {
-                    LOGGER.debug("Found file: {}", file.getPath());
-                    try {
-                        TestInputFileBuilder builder = createTestFileBuilder(directory, file);
-                        builder.setLanguage(this.languageIdentifier);
-                        inputFiles.add(builder.build());
-                    } catch (IOException iox) {
-                        // ignore file
-                    }
+        if (filesInDir == null) {
+            return Collections.emptyList();
+        }
+        LOGGER.debug("Extracting files from directory: {}", directory.getPath());
+
+        for (File file : filesInDir) {
+            if (excludeFromIndexing(file)) {
+                continue;
+            }
+            if (file.isDirectory() && !".git".equals(file.getName())) {
+                getFiles(new File(directory + File.separator + file.getName()), inputFiles);
+            } else if (file.isFile() && file.getName().endsWith(this.languageFileExtension)) {
+                LOGGER.debug("Found file: {}", file.getPath());
+                try {
+                    TestInputFileBuilder builder = createTestFileBuilder(directory, file);
+                    builder.setLanguage(this.languageIdentifier);
+                    inputFiles.add(builder.build());
+                } catch (IOException iox) {
+                    // ignore file
                 }
             }
         }
@@ -119,28 +131,31 @@ public abstract class IndexingService {
     @Nonnull
     protected TestInputFileBuilder createTestFileBuilder(
             @Nonnull File projectDirectory, @Nonnull File file) throws IOException {
+        Charset encoding = null;
+        String contents = null;
+        for (Charset cs : List.of(UTF_8, ISO_8859_1)) {
+            try {
+                contents = Files.readString(file.toPath(), cs);
+                encoding = cs;
+                break;
+            } catch (Exception e) {
+                continue;
+            }
+        }
+        if (contents == null || encoding == null) {
+            throw new IOException(String.format("Invalid encoding of file {}", file.getPath()));
+        }
+
         return new TestInputFileBuilder("", file.getPath())
                 .setProjectBaseDir(projectDirectory.toPath())
-                .setContents(Files.readString(file.toPath()))
-                .setCharset(UTF_8)
+                .setContents(contents)
+                .setCharset(encoding)
                 .setType(InputFile.Type.MAIN);
     }
 
     @Nonnull
-    protected String getProjectIdentifier(@Nonnull File projectDirectory, @Nonnull File file) {
-        String path = file.getPath();
-        path = path.substring(projectDirectory.getPath().length() + 1);
-        // remove repo dir
-        int slashIdx = path.indexOf('/');
-        if (slashIdx < 0) {
-            return "";
-        }
-        path = path.substring(slashIdx + 1);
-
-        if (path.contains("/src")) {
-            path = path.replace("/src", "");
-        }
-        return path;
+    protected String getProjectIdentifier(@Nonnull File directory) {
+        return baseDirectory.toPath().relativize(directory.toPath()).toString();
     }
 
     abstract boolean isModule(@Nonnull File[] files);

@@ -26,14 +26,19 @@ import java.util.Arrays;
 
 public final class JavaIndexService extends IndexingService {
 
-    public JavaIndexService(@Nonnull IProgressDispatcher progressDispatcher) {
-        super(progressDispatcher, "java", ".java");
+    public JavaIndexService(
+            @Nonnull IProgressDispatcher progressDispatcher, @Nonnull File baseDirectory) {
+        super(progressDispatcher, baseDirectory, "java", ".java");
     }
 
     @Override
     boolean isModule(@Nonnull File[] files) {
         return Arrays.stream(files)
-                .anyMatch(f -> f.getName().equals("pom.xml") || f.getName().equals("build.gradle"));
+                .anyMatch(
+                        f ->
+                                f.getName().equals("pom.xml")
+                                        || f.getName().equals("build.gradle")
+                                        || f.getName().equals("build.gradle.kts"));
     }
 
     @Override
