@@ -11,7 +11,7 @@
         <cv-data-table-row v-for="scan in model.lastCboms" :key="scan.id">
           <cv-data-table-cell>
             <div class="container">
-              {{ scan.projectIdentifier }}
+              {{ limitString(scan.projectIdentifier, 65) }}
               <cv-icon-button
                 @click="openGitRepo(scan.gitUrl)"
                 kind="ghost"
@@ -46,7 +46,14 @@
 
 <script>
 import {model} from "@/model";
-import {fetchLastCboms, getCbomFromScan, getDetectionsFromCbom, openGitRepo, showResultFromApi,} from "@/helpers";
+import {
+  fetchLastCboms,
+  getCbomFromScan,
+  getDetectionsFromCbom,
+  limitString,
+  openGitRepo,
+  showResultFromApi,
+} from "@/helpers";
 import {ArrowRight24, Launch16} from "@carbon/icons-vue";
 
 export default {
@@ -61,6 +68,7 @@ export default {
     };
   },
   methods: {
+    limitString,
     showResultFromApi,
     getDetectionsFromCbom,
     countComponents: function (scan) {

@@ -67,7 +67,7 @@ public final class JavaScannerService extends ScannerService {
             @Nonnull GitUrl gitUrl,
             @Nonnull Revision revision,
             @Nonnull Commit commit,
-            @Nullable Path subFolder,
+            @Nullable Path packageFolder,
             @Nonnull List<ProjectModule> index)
             throws ClientDisconnected {
         final List<JavaCheck> visitors = List.of(new JavaDetectionCollectionRule(this));
@@ -119,7 +119,7 @@ public final class JavaScannerService extends ScannerService {
                 System.currentTimeMillis(),
                 numberOfScannedLines,
                 numberOfScannedFiles,
-                this.receiveBom(projectDirectory, gitUrl, revision, commit, subFolder)
+                this.receiveBom(projectDirectory, gitUrl, revision, commit, packageFolder)
                         .map(CBOM::new)
                         .orElse(null));
     }

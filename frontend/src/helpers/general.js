@@ -116,3 +116,10 @@ export function openOnline(component) {
   }
 }
 
+export function limitString(str, limit) {
+  if (str.length <= limit) {
+    return str;
+  }
+  return str.slice(0, limit) + '...';
+}
+

@@ -16,6 +16,7 @@ quarkus:
   hibernate-orm:
     database:
       generation: "update"
+      # generation: "drop-and-create"
   websocket:
     dispatch-to-worker: true
   smallrye-openapi:

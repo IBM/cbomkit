@@ -52,7 +52,7 @@ public final class PythonScannerService extends ScannerService {
             @Nonnull GitUrl gitUrl,
             @Nonnull Revision revision,
             @Nonnull Commit commit,
-            @Nullable Path subFolder,
+            @Nullable Path packageFolder,
             @Nonnull List<ProjectModule> index)
             throws ClientDisconnected {
         final PythonCheck visitor = new PythonDetectionCollectionRule(this);
@@ -92,7 +92,7 @@ public final class PythonScannerService extends ScannerService {
                 System.currentTimeMillis(),
                 numberOfScannedLines,
                 numberOfScannedFiles,
-                this.receiveBom(projectDirectory, gitUrl, revision, commit, subFolder)
+                this.receiveBom(projectDirectory, gitUrl, revision, commit, packageFolder)
                         .map(CBOM::new)
                         .orElse(null));
     }

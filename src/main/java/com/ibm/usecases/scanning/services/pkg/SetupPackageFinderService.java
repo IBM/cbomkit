@@ -21,41 +21,53 @@ package com.ibm.usecases.scanning.services.pkg;
 
 import jakarta.annotation.Nonnull;
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.FileReader;
 import java.nio.file.Path;
+import java.util.Optional;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import org.ini4j.Ini;
 
 public class SetupPackageFinderService extends PackageFinderService {
 
-    public SetupPackageFinderService(@Nonnull Path root) throws IllegalArgumentException {
-        super(root);
+    public SetupPackageFinderService(@Nonnull File rootFile) throws IllegalArgumentException {
+        super(rootFile);
     }
 
     @Override
-    public boolean isBuildFile(Path file) {
+    public boolean isBuildFile(@Nonnull Path file) {
         return file.endsWith("setup.cfg") || file.endsWith("setup.py");
     }
 
     @Override
-    public String getPackageName(Path buildFile) throws Exception {
-        if (buildFile.endsWith("cfg")) {
-            Ini cfg = new Ini(buildFile.toFile());
-            return cfg.get("metadata", "name");
-        } else {
-            try (BufferedReader reader = new BufferedReader(new FileReader(buildFile.toFile()))) {
-                String line;
-                Pattern pattern = Pattern.compile("name\\s*=\\s*['\"]([^'\"]*)['\"]");
+    public Optional<String> getPackageName(@Nonnull Path buildFile) {
+        try {
+            if (buildFile.endsWith("cfg")) {
+                final Ini cfg = new Ini(buildFile.toFile());
+                return Optional.ofNullable(cfg.get("metadata", "name"));
+            }
+            return findPackageNameUsingRegex(buildFile);
+        } catch (Exception e) {
+            return Optional.empty();
+        }
+    }
 
-                while ((line = reader.readLine()) != null) {
-                    Matcher matcher = pattern.matcher(line);
-                    if (matcher.find()) {
-                        return matcher.group(1);
-                    }
+    @Nonnull
+    private Optional<String> findPackageNameUsingRegex(@Nonnull Path buildFile) {
+        try (BufferedReader reader = new BufferedReader(new FileReader(buildFile.toFile()))) {
+            final Pattern pattern = Pattern.compile("name\\s*=\\s*['\"]([^'\"]*)['\"]");
+            String line;
+
+            while ((line = reader.readLine()) != null) {
+                final Matcher matcher = pattern.matcher(line);
+                if (matcher.find()) {
+                    return Optional.ofNullable(matcher.group(1));
                 }
             }
-            return null;
+        } catch (Exception e) {
+            return Optional.empty();
         }
+        return Optional.empty();
     }
 }

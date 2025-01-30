@@ -62,12 +62,12 @@ public final class CommandBus implements ICommandBus {
                             try {
                                 iCommandHandler.handle(command);
                             } catch (Exception e) {
-                                LOGGER.error(e.getMessage(), e);
+                                LOGGER.error(e.getLocalizedMessage());
                             }
                         });
             }
         } catch (Exception e) {
-            LOGGER.error(e.getMessage());
+            LOGGER.error(e.getLocalizedMessage());
         }
     }
 }

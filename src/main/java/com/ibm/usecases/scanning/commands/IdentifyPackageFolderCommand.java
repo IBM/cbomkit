@@ -17,13 +17,10 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.ibm.usecases.compliance.queries;
+package com.ibm.usecases.scanning.commands;
 
-import app.bootstrap.core.cqrs.IQuery;
-import com.ibm.infrastructure.compliance.ComplianceResult;
+import app.bootstrap.core.cqrs.ICommand;
+import com.ibm.domain.scanning.ScanId;
 import jakarta.annotation.Nonnull;
-import jakarta.annotation.Nullable;
 
-public record RequestComplianceCheckForScannedGitRepositoryQuery(
-        @Nonnull String policyIdentifier, @Nonnull String gitUrl, @Nullable String commit)
-        implements IQuery<ComplianceResult> {}
+public record IdentifyPackageFolderCommand(@Nonnull ScanId id) implements ICommand {}

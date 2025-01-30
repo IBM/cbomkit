@@ -168,20 +168,24 @@ public final class CBOMReadRepository extends ReadRepository<UUID, CBOMReadModel
         container.requestContext().activate();
         try {
             QuarkusTransaction.begin();
-            String qString =
+
+            final StringBuilder queryBuilder = new StringBuilder();
+            final String baseQuery =
                     "SELECT read FROM CBOMReadModel read WHERE read.repository = :repository";
+            queryBuilder.append(baseQuery);
 
             if (commit != null) {
-                qString += " AND read.commit = :commit";
+                queryBuilder.append(" AND read.commit = :commit");
             }
             if (packageFolder != null) {
-                qString += " AND read.packageFolder = :packageFolder";
+                queryBuilder.append(" AND read.packageFolder = :packageFolder");
             }
-            qString += " ORDER BY createdAt desc";
+            // set order
+            queryBuilder.append(" ORDER BY createdAt desc");
 
-            TypedQuery<CBOMReadModel> query =
+            final TypedQuery<CBOMReadModel> query =
                     entityManager
-                            .createQuery(qString, CBOMReadModel.class)
+                            .createQuery(queryBuilder.toString(), CBOMReadModel.class)
                             .setParameter("repository", repository);
 
             if (commit != null) {
@@ -190,7 +194,7 @@ public final class CBOMReadRepository extends ReadRepository<UUID, CBOMReadModel
             if (packageFolder != null) {
                 query.setParameter("packageFolder", packageFolder.toString());
             }
-            Optional<CBOMReadModel> match = query.getResultStream().findFirst();
+            final Optional<CBOMReadModel> match = query.getResultStream().findFirst();
             QuarkusTransaction.commit();
             return match;
         } catch (Exception e) {

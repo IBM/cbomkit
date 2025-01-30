@@ -33,9 +33,6 @@ import com.ibm.domain.scanning.ScanAggregate;
 import com.ibm.domain.scanning.ScanId;
 import com.ibm.domain.scanning.ScanMetadata;
 import com.ibm.domain.scanning.errors.CBOMSerializationFailed;
-import com.ibm.domain.scanning.errors.CommitHashAlreadyExists;
-import com.ibm.domain.scanning.errors.GitUrlAlreadyResolved;
-import com.ibm.domain.scanning.errors.PackageFolderAlreadyExists;
 import com.ibm.domain.scanning.errors.ScanResultForLanguageAlreadyExists;
 import com.ibm.infrastructure.errors.ClientDisconnected;
 import com.ibm.infrastructure.errors.EntityNotFoundById;
@@ -45,14 +42,13 @@ import com.ibm.infrastructure.progress.ProgressMessageType;
 import com.ibm.infrastructure.scanning.IScanConfiguration;
 import com.ibm.usecases.scanning.commands.CloneGitRepositoryCommand;
 import com.ibm.usecases.scanning.commands.FetchDataFromDepsDevCommand;
+import com.ibm.usecases.scanning.commands.IdentifyPackageFolderCommand;
 import com.ibm.usecases.scanning.commands.IndexModulesCommand;
 import com.ibm.usecases.scanning.commands.RequestScanCommand;
 import com.ibm.usecases.scanning.commands.ScanCommand;
-import com.ibm.usecases.scanning.commands.SetPackageFolderCommand;
 import com.ibm.usecases.scanning.errors.GitCloneFailed;
 import com.ibm.usecases.scanning.errors.GitCloneResultNotAvailable;
 import com.ibm.usecases.scanning.errors.NoCommitProvided;
-import com.ibm.usecases.scanning.errors.NoDataAvailableInDepsDevForPurl;
 import com.ibm.usecases.scanning.errors.NoGitUrlSpecifiedForScan;
 import com.ibm.usecases.scanning.errors.NoIndexForProject;
 import com.ibm.usecases.scanning.errors.NoProjectDirectoryProvided;
@@ -64,7 +60,6 @@ import com.ibm.usecases.scanning.services.indexing.JavaIndexService;
 import com.ibm.usecases.scanning.services.indexing.ProjectModule;
 import com.ibm.usecases.scanning.services.indexing.PythonIndexService;
 import com.ibm.usecases.scanning.services.pkg.JavaPackageFinderService;
-import com.ibm.usecases.scanning.services.pkg.PackageFinderService;
 import com.ibm.usecases.scanning.services.pkg.PythonPackageFinderService;
 import com.ibm.usecases.scanning.services.pkg.SetupPackageFinderService;
 import com.ibm.usecases.scanning.services.scan.ScanResultDTO;
@@ -73,7 +68,6 @@ import com.ibm.usecases.scanning.services.scan.python.PythonScannerService;
 import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
 import java.io.File;
-import java.io.IOException;
 import java.nio.file.Path;
 import java.util.EnumMap;
 import java.util.List;
@@ -110,8 +104,8 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                     this.handleFetchDataFromDepsDevCommand(fetchDataFromDepsDevCommand);
             case CloneGitRepositoryCommand cloneGitRepositoryCommand ->
                     this.handleCloneGitRepositoryCommand(cloneGitRepositoryCommand);
-            case SetPackageFolderCommand setPackageFolderCommmand ->
-                    this.handleSetPackageFolderCommand(setPackageFolderCommmand);
+            case IdentifyPackageFolderCommand identifyPackageFolderCommand ->
+                    this.handleSetPackageFolderCommand(identifyPackageFolderCommand);
             case IndexModulesCommand indexModulesCommand ->
                     this.handleIndexModulesCommand(indexModulesCommand);
             case ScanCommand scanCommand -> this.handleScanCommand(scanCommand);
@@ -122,11 +116,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
     }
 
     private void handleFetchDataFromDepsDevCommand(@Nonnull FetchDataFromDepsDevCommand command)
-            throws EntityNotFoundById,
-                    NoDataAvailableInDepsDevForPurl,
-                    GitUrlAlreadyResolved,
-                    NoPurlSpecifiedForScan,
-                    ClientDisconnected {
+            throws Exception {
         if (this.scanId != command.id()) {
             return;
         }
@@ -137,17 +127,14 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
             // Fetch source repo from deps.dev
             final DepsDevService depsDev = new DepsDevService();
             final String gitUrl =
-                    depsDev.getSourceRepo(
+                    depsDev.getRepository(
                             scanAggregate
                                     .getPurl()
                                     .map(PackageURL::canonicalize)
                                     .orElseThrow(() -> new NoPurlSpecifiedForScan(scanId)));
             // update aggregate
             scanAggregate.setResolvedGitUrl(gitUrl);
-            if (gitUrl != null) {
-                this.progressDispatcher.send(
-                        new ProgressMessage(ProgressMessageType.GITURL, gitUrl));
-            }
+            this.progressDispatcher.send(new ProgressMessage(ProgressMessageType.GITURL, gitUrl));
             this.repository.save(scanAggregate);
 
             this.commandBus.send(
@@ -159,11 +146,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
     }
 
     private void handleCloneGitRepositoryCommand(@Nonnull CloneGitRepositoryCommand command)
-            throws EntityNotFoundById,
-                    GitCloneFailed,
-                    CommitHashAlreadyExists,
-                    ClientDisconnected,
-                    NoGitUrlSpecifiedForScan {
+            throws Exception {
         if (this.scanId != command.id()) {
             return;
         }
@@ -191,10 +174,10 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
             scanAggregate.setCommitHash(cloneResultDTO.commit());
             this.repository.save(scanAggregate);
             // set subfolder
-            this.commandBus.send(new SetPackageFolderCommand(command.id()));
+            this.commandBus.send(new IdentifyPackageFolderCommand(command.id()));
         } catch (GitCloneFailed gitCloneFailed) {
             // if previous attempted failed with `main`, try `master`
-            if (scanAggregate.getScanRequest().revision().value().equalsIgnoreCase("main")) {
+            if (scanAggregate.getRevision().value().equalsIgnoreCase("main")) {
                 // delete old aggregate
                 this.repository.delete(scanId);
                 // emit new scan command with `master` branch
@@ -203,7 +186,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                                 this.scanId,
                                 gitUrl.value(),
                                 "master",
-                                scanAggregate.getScanRequest().subFolder(),
+                                scanAggregate.getPackageFolder().toString(),
                                 command.credentials()));
             } else {
                 this.progressDispatcher.send(
@@ -220,8 +203,8 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
         }
     }
 
-    private void handleSetPackageFolderCommand(@Nonnull SetPackageFolderCommand command)
-            throws EntityNotFoundById, IOException, PackageFolderAlreadyExists, ClientDisconnected {
+    private void handleSetPackageFolderCommand(@Nonnull IdentifyPackageFolderCommand command)
+            throws Exception {
         if (this.scanId != command.id()) {
             return;
         }
@@ -231,37 +214,37 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                     this.repository.read(command.id());
             final ScanAggregate scanAggregate =
                     possibleScanAggregate.orElseThrow(() -> new EntityNotFoundById(command.id()));
+            final File dir =
+                    Optional.ofNullable(this.projectDirectory)
+                            .orElseThrow(GitCloneResultNotAvailable::new);
+            // Determine source code location related to PURL in a repository with multiple
+            // projects/packages/modules
+            final Optional<PackageURL> optionalPackageURL = scanAggregate.getPurl();
+            if (optionalPackageURL.isPresent()) {
+                final PackageURL purl = optionalPackageURL.get();
 
-            // Initialize packagePath from subFolder
-            Optional<Path> packagePath =
-                    Optional.ofNullable(scanAggregate.getScanRequest().subFolder()).map(Path::of);
-
-            // Extract packagePath from purl and overwrite
-            if (scanAggregate.getPurl().isPresent()) {
-                PackageURL purl = scanAggregate.getPurl().get();
+                Optional<Path> packagePath = Optional.empty();
+                // java
                 if (purl.getType().equals("maven")) {
-                    PackageFinderService pfs =
-                            new JavaPackageFinderService(this.projectDirectory.toPath());
-                    packagePath = pfs.findPackage(purl);
+                    packagePath = new JavaPackageFinderService(dir).findPackage(purl);
                     // TODO: find gradle package
+                    // python
                 } else if (purl.getType().equals("pypi")) {
-                    PackageFinderService pfs =
-                            new PythonPackageFinderService(this.projectDirectory.toPath());
-                    packagePath = pfs.findPackage(purl);
-                    if (!packagePath.isPresent()) {
-                        pfs = new SetupPackageFinderService(this.projectDirectory.toPath());
-                        packagePath = pfs.findPackage(purl);
+                    packagePath = new PythonPackageFinderService(dir).findPackage(purl);
+                    if (packagePath.isEmpty()) {
+                        packagePath = new SetupPackageFinderService(dir).findPackage(purl);
                     }
                 }
+                // update aggregate
+                if (packagePath.isPresent()) {
+                    scanAggregate.setPackageFolder(packagePath.get());
+                    this.repository.save(scanAggregate);
+                    // send data to frontend
+                    this.progressDispatcher.send(
+                            new ProgressMessage(
+                                    ProgressMessageType.FOLDER, packagePath.get().toString()));
+                }
             }
-            if (packagePath.isPresent()) {
-                scanAggregate.setPackageFolder(packagePath.get());
-                this.progressDispatcher.send(
-                        new ProgressMessage(
-                                ProgressMessageType.FOLDER, packagePath.get().toString()));
-            }
-
-            this.repository.save(scanAggregate);
             // start indexing
             this.commandBus.send(new IndexModulesCommand(command.id()));
         } catch (Exception e) {
@@ -272,8 +255,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
         }
     }
 
-    private void handleIndexModulesCommand(@Nonnull IndexModulesCommand command)
-            throws EntityNotFoundById, GitCloneResultNotAvailable, ClientDisconnected {
+    private void handleIndexModulesCommand(@Nonnull IndexModulesCommand command) throws Exception {
         if (this.scanId != command.id()) {
             return;
         }
@@ -290,13 +272,13 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                     Optional.ofNullable(this.projectDirectory)
                             .orElseThrow(GitCloneResultNotAvailable::new);
             final List<ProjectModule> javaIndex =
-                    javaIndexService.index(dir, scanAggregate.getPackageFolder());
+                    javaIndexService.index(dir, scanAggregate.getPackageFolder().orElse(null));
             this.index.put(Language.JAVA, javaIndex);
             // python
             final PythonIndexService pythonIndexService =
                     new PythonIndexService(this.progressDispatcher);
             final List<ProjectModule> pythonIndex =
-                    pythonIndexService.index(dir, scanAggregate.getPackageFolder());
+                    pythonIndexService.index(dir, scanAggregate.getPackageFolder().orElse(null));
             this.index.put(Language.PYTHON, pythonIndex);
             // continue with scan
             this.commandBus.send(new ScanCommand(command.id()));
@@ -348,7 +330,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                                     .orElseThrow(() -> new NoGitUrlSpecifiedForScan(scanId)),
                             scanAggregate.getRevision(),
                             commit,
-                            scanAggregate.getPackageFolder(),
+                            scanAggregate.getPackageFolder().orElse(null),
                             Optional.ofNullable(this.index)
                                     .map(i -> i.get(Language.JAVA))
                                     .orElseThrow(NoIndexForProject::new));
@@ -384,7 +366,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                                     .orElseThrow(() -> new NoGitUrlSpecifiedForScan(scanId)),
                             scanAggregate.getRevision(),
                             commit,
-                            scanAggregate.getPackageFolder(),
+                            scanAggregate.getPackageFolder().orElse(null),
                             Optional.ofNullable(this.index)
                                     .map(i -> i.get(Language.PYTHON))
                                     .orElseThrow(NoIndexForProject::new));

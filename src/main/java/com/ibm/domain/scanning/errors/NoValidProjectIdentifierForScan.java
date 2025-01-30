@@ -1,6 +1,6 @@
 /*
  * CBOMkit
- * Copyright (C) 2024 IBM
+ * Copyright (C) 2025 IBM
  *
  * Licensed to the Apache Software Foundation (ASF) under one or more
  * contributor license agreements.  See the NOTICE file distributed with
@@ -17,10 +17,14 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.ibm.usecases.scanning.commands;
+package com.ibm.domain.scanning.errors;
 
-import app.bootstrap.core.cqrs.ICommand;
+import app.bootstrap.core.ddd.DomainException;
 import com.ibm.domain.scanning.ScanId;
-import jakarta.annotation.Nonnull;
+import javax.annotation.Nonnull;
 
-public record SetPackageFolderCommand(@Nonnull ScanId id) implements ICommand {}
+public class NoValidProjectIdentifierForScan extends DomainException {
+    public NoValidProjectIdentifierForScan(@Nonnull ScanId id) {
+        super("Could not determine valid project identifier for scan with id " + id);
+    }
+}
