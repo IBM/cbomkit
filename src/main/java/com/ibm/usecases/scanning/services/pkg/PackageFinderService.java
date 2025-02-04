@@ -62,7 +62,9 @@ public abstract class PackageFinderService {
                 }
 
                 final Path pkgPath = this.root.relativize(pomPath.getParent());
-                LOGGER.info("Identified package folder {}", pkgPath.equals(Paths.get("")) ? "<root>" : pkgPath);
+                LOGGER.info(
+                        "Identified package folder {}",
+                        pkgPath.equals(Paths.get("")) ? "<root>" : pkgPath);
                 return Optional.of(pkgPath);
             }
         } catch (IOException e) {
