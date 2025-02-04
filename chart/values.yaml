@@ -3,11 +3,11 @@ common:
 backend:
   name: cbomkit
   image: ghcr.io/ibm/cbomkit
-  tag: 1.0.0
+  tag: latest
 frontend:
   name: cbomkit-frontend
   image: ghcr.io/ibm/cbomkit-frontend
-  tag: 1.0.0
+  tag: latest
 regulator:
   enabled: false
   name: cbomkit-regulator
