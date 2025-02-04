@@ -31,7 +31,7 @@ make production ENGINE=podman
 (This requires podman-compose to have been installed via `pip3 install podman-compose`).
 
 Next steps:
-- Enter a git url like [https://github.com/keycloak/keycloak](https://github.com/keycloak/keycloak) to generate a CBOM
+- Enter a git url like [https://github.com/keycloak/keycloak](https://github.com/keycloak/keycloak) or a package url (PURL) like `pkg:maven/io.quarkus/quarkus-core@3.18.1` to generate a CBOM
 - View your generated CBOM by selecting your previously scanned CBOM
 - Drag and drop CBOM from the [examples](example) into the dropbox to view it
 
