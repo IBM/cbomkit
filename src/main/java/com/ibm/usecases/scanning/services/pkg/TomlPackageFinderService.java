@@ -21,15 +21,14 @@ package com.ibm.usecases.scanning.services.pkg;
 
 import jakarta.annotation.Nonnull;
 import java.io.File;
-import java.io.IOException;
 import java.nio.file.Path;
 import java.util.Optional;
 import org.tomlj.Toml;
 import org.tomlj.TomlParseResult;
 
-public class PythonPackageFinderService extends PackageFinderService {
+public class TomlPackageFinderService extends PackageFinderService {
 
-    public PythonPackageFinderService(@Nonnull File rootFile) throws IllegalArgumentException {
+    public TomlPackageFinderService(@Nonnull File rootFile) throws IllegalArgumentException {
         super(rootFile);
     }
 
@@ -39,12 +38,8 @@ public class PythonPackageFinderService extends PackageFinderService {
     }
 
     @Override
-    public Optional<String> getPackageName(@Nonnull Path buildFile) {
-        try {
-            TomlParseResult result = Toml.parse(buildFile);
-            return Optional.ofNullable(result.getString(("project.name")));
-        } catch (IOException e) {
-            return Optional.empty();
-        }
+    public Optional<String> getPackageName(@Nonnull Path buildFile) throws Exception {
+        TomlParseResult result = Toml.parse(buildFile);
+        return Optional.ofNullable(result.getString("project.name"));
     }
 }

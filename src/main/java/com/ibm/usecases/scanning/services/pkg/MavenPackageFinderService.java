@@ -22,17 +22,15 @@ package com.ibm.usecases.scanning.services.pkg;
 import jakarta.annotation.Nonnull;
 import java.io.File;
 import java.io.FileReader;
-import java.io.IOException;
 import java.nio.file.Path;
 import java.util.Optional;
 import org.apache.maven.model.Model;
 import org.apache.maven.model.io.xpp3.MavenXpp3Reader;
-import org.codehaus.plexus.util.xml.pull.XmlPullParserException;
 
-public class JavaPackageFinderService extends PackageFinderService {
+public class MavenPackageFinderService extends PackageFinderService {
     @Nonnull private final MavenXpp3Reader reader;
 
-    public JavaPackageFinderService(@Nonnull File rootFile) throws IllegalArgumentException {
+    public MavenPackageFinderService(@Nonnull File rootFile) throws IllegalArgumentException {
         super(rootFile);
         this.reader = new MavenXpp3Reader();
     }
@@ -43,12 +41,8 @@ public class JavaPackageFinderService extends PackageFinderService {
     }
 
     @Override
-    public Optional<String> getPackageName(@Nonnull Path buildFile) {
-        try {
-            final Model model = reader.read(new FileReader(buildFile.toFile()));
-            return Optional.ofNullable(model.getArtifactId());
-        } catch (IOException | XmlPullParserException e) {
-            return Optional.empty();
-        }
+    public Optional<String> getPackageName(@Nonnull Path buildFile) throws Exception {
+        final Model model = reader.read(new FileReader(buildFile.toFile()));
+        return Optional.ofNullable(model.getArtifactId());
     }
 }
