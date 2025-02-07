@@ -22,7 +22,6 @@ package com.ibm.usecases.scanning.services.pkg;
 import com.github.packageurl.PackageURL;
 import jakarta.annotation.Nonnull;
 import java.io.File;
-import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -46,7 +45,7 @@ public abstract class PackageFinderService {
 
     @Nonnull
     public Optional<Path> findPackage(@Nonnull PackageURL purl) {
-        LOGGER.info("Trying to find package folder for purl {} in gir repository", purl);
+        LOGGER.info("Searching package folder for purl {}", purl);
         try (Stream<Path> walk = Files.walk(this.root)) {
             final List<Path> poms =
                     walk.filter(p -> !Files.isDirectory(p)).filter(this::isBuildFile).toList();
@@ -67,15 +66,13 @@ public abstract class PackageFinderService {
                         pkgPath.equals(Paths.get("")) ? "<root>" : pkgPath);
                 return Optional.of(pkgPath);
             }
-        } catch (IOException e) {
-            LOGGER.warn("Package folder not found");
-            return Optional.empty();
+        } catch (Exception e) {
+            LOGGER.error("Failed to find package folder: " + e.getLocalizedMessage());
         }
-        LOGGER.warn("Package folder not found");
         return Optional.empty();
     }
 
     public abstract boolean isBuildFile(@Nonnull Path file);
 
-    public abstract Optional<String> getPackageName(@Nonnull Path buildFile);
+    public abstract Optional<String> getPackageName(@Nonnull Path buildFile) throws Exception;
 }

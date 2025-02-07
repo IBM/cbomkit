@@ -59,9 +59,10 @@ import com.ibm.usecases.scanning.services.git.GitService;
 import com.ibm.usecases.scanning.services.indexing.JavaIndexService;
 import com.ibm.usecases.scanning.services.indexing.ProjectModule;
 import com.ibm.usecases.scanning.services.indexing.PythonIndexService;
-import com.ibm.usecases.scanning.services.pkg.JavaPackageFinderService;
-import com.ibm.usecases.scanning.services.pkg.PythonPackageFinderService;
+import com.ibm.usecases.scanning.services.pkg.GradlePackageFinderService;
+import com.ibm.usecases.scanning.services.pkg.MavenPackageFinderService;
 import com.ibm.usecases.scanning.services.pkg.SetupPackageFinderService;
+import com.ibm.usecases.scanning.services.pkg.TomlPackageFinderService;
 import com.ibm.usecases.scanning.services.scan.ScanResultDTO;
 import com.ibm.usecases.scanning.services.scan.java.JavaScannerService;
 import com.ibm.usecases.scanning.services.scan.python.PythonScannerService;
@@ -224,13 +225,13 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                 final PackageURL purl = optionalPackageURL.get();
 
                 Optional<Path> packagePath = Optional.empty();
-                // java
                 if (purl.getType().equals("maven")) {
-                    packagePath = new JavaPackageFinderService(dir).findPackage(purl);
-                    // TODO: find gradle package
-                    // python
+                    packagePath = new MavenPackageFinderService(dir).findPackage(purl);
+                    if (packagePath.isEmpty()) {
+                        packagePath = new GradlePackageFinderService(dir).findPackage(purl);
+                    }
                 } else if (purl.getType().equals("pypi")) {
-                    packagePath = new PythonPackageFinderService(dir).findPackage(purl);
+                    packagePath = new TomlPackageFinderService(dir).findPackage(purl);
                     if (packagePath.isEmpty()) {
                         packagePath = new SetupPackageFinderService(dir).findPackage(purl);
                     }

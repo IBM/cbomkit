@@ -54,7 +54,7 @@ public class SetupPackageFinderService extends PackageFinderService {
     }
 
     @Nonnull
-    private Optional<String> findPackageNameUsingRegex(@Nonnull Path buildFile) {
+    private Optional<String> findPackageNameUsingRegex(@Nonnull Path buildFile) throws Exception {
         try (BufferedReader reader = new BufferedReader(new FileReader(buildFile.toFile()))) {
             final Pattern pattern = Pattern.compile("name\\s*=\\s*['\"]([^'\"]*)['\"]");
             String line;
@@ -65,8 +65,6 @@ public class SetupPackageFinderService extends PackageFinderService {
                     return Optional.ofNullable(matcher.group(1));
                 }
             }
-        } catch (Exception e) {
-            return Optional.empty();
         }
         return Optional.empty();
     }
