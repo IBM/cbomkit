@@ -35,7 +35,7 @@ import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
 import jakarta.enterprise.event.Observes;
 import jakarta.inject.Singleton;
-import java.util.Objects;
+import java.util.Optional;
 
 @Singleton
 public final class RequestScanCommandHandler extends CommandHandler<ScanId, ScanAggregate> {
@@ -63,7 +63,9 @@ public final class RequestScanCommandHandler extends CommandHandler<ScanId, Scan
             final ScanRequest scanRequest =
                     new ScanRequest(
                             new ScanUrl(scanUrl),
-                            new Revision(Objects.requireNonNullElse(branch, "main")),
+                            Optional.ofNullable(branch)
+                                    .map(Revision::new)
+                                    .orElse(ScanAggregate.REVISION_MAIN),
                             subfolder);
             // create Aggregate and start scan
             // it will emit a domain event that the scan is requested

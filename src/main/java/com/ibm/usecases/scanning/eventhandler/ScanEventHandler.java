@@ -27,7 +27,7 @@ import com.ibm.domain.scanning.ScanId;
 import com.ibm.domain.scanning.events.PurlScanRequestedEvent;
 import com.ibm.domain.scanning.events.ScanRequestedEvent;
 import com.ibm.usecases.scanning.commands.CloneGitRepositoryCommand;
-import com.ibm.usecases.scanning.commands.FetchDataFromDepsDevCommand;
+import com.ibm.usecases.scanning.commands.ResolvePurlCommand;
 import io.quarkus.runtime.StartupEvent;
 import jakarta.annotation.Nonnull;
 import jakarta.enterprise.event.Observes;
@@ -69,6 +69,6 @@ public final class ScanEventHandler extends DomainEventHandler {
             throws Exception {
         final ScanId scanId = purlScanRequestedEvent.getScanId();
         this.commandBus.send(
-                new FetchDataFromDepsDevCommand(scanId, purlScanRequestedEvent.getCredentials()));
+                new ResolvePurlCommand(scanId, purlScanRequestedEvent.getCredentials()));
     }
 }

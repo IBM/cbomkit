@@ -24,7 +24,6 @@ import jakarta.annotation.Nonnull;
 import java.io.File;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Stream;
@@ -61,13 +60,11 @@ public abstract class PackageFinderService {
                 }
 
                 final Path pkgPath = this.root.relativize(pomPath.getParent());
-                LOGGER.info(
-                        "Identified package folder {}",
-                        pkgPath.equals(Paths.get("")) ? "<root>" : pkgPath);
+                LOGGER.info("Identified package folder: {}", pkgPath);
                 return Optional.of(pkgPath);
             }
         } catch (Exception e) {
-            LOGGER.error("Failed to find package folder: " + e.getLocalizedMessage());
+            LOGGER.error("Failed to find package folder: {}", e.getLocalizedMessage());
         }
         return Optional.empty();
     }
