@@ -23,7 +23,7 @@
 
 <script>
 import { model } from "@/model.js";
-import { getDetections, numberFormatter, formatSeconds } from "@/helpers";
+import { getDetections, numberFormatter, formatSeconds, limitString } from "@/helpers";
 import RegulatorResults from "@/components/results/RegulatorResults.vue";
 import StatisticsView from "@/components/results/StatisticsView.vue";
 
@@ -55,7 +55,7 @@ export default {
       return model.codeOrigin.commitID != null;
     },
     commitIDLabel() {
-      return "commit: " + model.codeOrigin.commitID.slice(0, 7) + "...";
+      return "commit: " + limitString(model.codeOrigin.commitID, 7);
     },
     showSubfolder() {
       return model.codeOrigin.subfolder != null;
@@ -134,6 +134,7 @@ export default {
     },
   },
   methods: {
+    limitString,
     getDetections,
   },
 };

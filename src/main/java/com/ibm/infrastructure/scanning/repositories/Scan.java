@@ -76,11 +76,7 @@ class Scan extends PanacheEntityBase {
         this.gitUrl = aggregate.getGitUrl().map(GitUrl::value).orElse(null);
         final PackageURL packageURL = aggregate.getPurl().orElse(null);
         this.purl = Optional.ofNullable(packageURL).map(PackageURL::canonicalize).orElse(null);
-        if (packageURL != null) {
-            this.revision = packageURL.getVersion();
-        } else {
-            this.revision = aggregate.getRevision().value();
-        }
+        this.revision = aggregate.getRevision().value();
         this.packageFolder = aggregate.getPackageFolder().map(Path::toString).orElse(null);
         this.commitHash = aggregate.getCommit().map(Commit::hash).orElse(null);
 
@@ -135,7 +131,9 @@ class Scan extends PanacheEntityBase {
                     new ScanId(this.id),
                     Optional.ofNullable(this.gitUrl).map(GitUrl::new).orElse(null),
                     optionalPackageURL.orElse(null),
-                    new Revision(this.revision),
+                    Optional.ofNullable(this.revision)
+                            .map(Revision::new)
+                            .orElse(ScanAggregate.REVISION_MAIN),
                     Optional.ofNullable(this.packageFolder).map(Path::of).orElse(null),
                     Optional.ofNullable(this.commitHash).map(Commit::new).orElse(null),
                     languageScans);

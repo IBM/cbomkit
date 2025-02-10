@@ -17,12 +17,14 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.ibm.usecases.scanning.services.depsdev;
+package com.ibm.usecases.scanning.services.resolve;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;
-import com.ibm.usecases.scanning.errors.NoDataAvailableInDepsDevForPurl;
+import com.github.packageurl.PackageURL;
+import com.ibm.domain.scanning.GitUrl;
+import com.ibm.usecases.scanning.errors.PurlResolutionFailed;
 import jakarta.annotation.Nonnull;
 import java.io.IOException;
 import java.io.InputStream;
@@ -38,7 +40,7 @@ import org.apache.hc.core5.http.io.HttpClientResponseHandler;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class DepsDevService {
+public class DepsDevService implements PurlResolver {
     private static final Logger LOGGER = LoggerFactory.getLogger(DepsDevService.class);
     private static final String DEPS_DEV_URI = "https://api.deps.dev/v3alpha/purl/";
     private static final String SOURCE_REPO = "SOURCE_REPO";
@@ -72,17 +74,19 @@ public class DepsDevService {
     }
 
     @Nonnull
-    public String getRepository(@Nonnull String purl) throws NoDataAvailableInDepsDevForPurl {
-        LOGGER.info("Sending DepsDev request for {}", purl);
+    public GitUrl resolve(@Nonnull PackageURL purl) throws PurlResolutionFailed {
+        String purlStr = purl.canonicalize();
+        LOGGER.info("Sending DepsDev request for {}", purlStr);
+
         final HttpGet request =
-                new HttpGet(DEPS_DEV_URI + URLEncoder.encode(purl, StandardCharsets.UTF_8));
+                new HttpGet(DEPS_DEV_URI + URLEncoder.encode(purlStr, StandardCharsets.UTF_8));
 
         try (final CloseableHttpClient httpClient = HttpClientBuilder.create().build()) {
             final String srcRepo = httpClient.execute(request, new DepsDevResponseHandler());
-            LOGGER.info("Identified git repository {} for purl {}", srcRepo, purl);
-            return srcRepo;
+            LOGGER.info("Identified git repository {} for purl {}", srcRepo, purlStr);
+            return new GitUrl(srcRepo);
         } catch (IOException ioe) {
-            throw new NoDataAvailableInDepsDevForPurl(purl, ioe.getMessage());
+            throw new PurlResolutionFailed(purlStr, ioe.getMessage());
         }
     }
 }

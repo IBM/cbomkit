@@ -84,14 +84,10 @@ public class CBOMProjector extends Projector<UUID, CBOMReadModel> {
         final ScanAggregate scanAggregate =
                 possibleScanAggregate.orElseThrow(() -> new EntityNotFoundById(scanId));
         // check for existing read model
+        String projectIdentifier = scanAggregate.getProjectIdentifier();
         if (this.repository instanceof ICBOMReadRepository cbomReadRepository) {
             final Optional<CBOMReadModel> possibleCBOMReadModel =
-                    cbomReadRepository.findBy(
-                            scanAggregate
-                                    .getGitUrl()
-                                    .orElseThrow(() -> new NoGitUrlSpecifiedForScan(scanId)),
-                            scanAggregate.getCommit().orElseThrow(NoCBOMForScan::new),
-                            scanAggregate.getPackageFolder().orElse(null));
+                    cbomReadRepository.findBy(projectIdentifier);
             if (possibleCBOMReadModel.isPresent()) {
                 LOGGER.info(
                         "No need to update CBOM read model, since scan request didn't change for {}",
@@ -122,7 +118,7 @@ public class CBOMProjector extends Projector<UUID, CBOMReadModel> {
         final CBOMReadModel cbomReadModel =
                 new CBOMReadModel(
                         scanAggregate.getId().getUuid(),
-                        scanAggregate.getProjectIdentifier(),
+                        projectIdentifier,
                         scanAggregate
                                 .getGitUrl()
                                 .map(GitUrl::value)

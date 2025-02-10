@@ -29,12 +29,14 @@ import com.ibm.domain.scanning.errors.GitUrlAlreadyResolved;
 import com.ibm.domain.scanning.errors.InvalidScanUrl;
 import com.ibm.domain.scanning.errors.NoValidProjectIdentifierForScan;
 import com.ibm.domain.scanning.errors.PackageFolderAlreadyExists;
+import com.ibm.domain.scanning.errors.RevisionAlreadyExists;
 import com.ibm.domain.scanning.errors.ScanResultForLanguageAlreadyExists;
 import com.ibm.domain.scanning.events.CommitHashIdentifiedEvent;
 import com.ibm.domain.scanning.events.GitUrlResolvedEvent;
 import com.ibm.domain.scanning.events.LanguageScanDoneEvent;
 import com.ibm.domain.scanning.events.PackageFolderResolvedEvent;
 import com.ibm.domain.scanning.events.PurlScanRequestedEvent;
+import com.ibm.domain.scanning.events.RevisionIdentifiedEvent;
 import com.ibm.domain.scanning.events.ScanFinishedEvent;
 import com.ibm.domain.scanning.events.ScanRequestedEvent;
 import jakarta.annotation.Nonnull;
@@ -55,17 +57,27 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
     @Nullable private Commit commit;
     @Nullable private Map<Language, LanguageScan> languageScans;
 
+    public static final Revision REVISION_MAIN = new Revision("main");
+
     private ScanAggregate(@Nonnull final ScanId id, @Nonnull final ScanRequest scanRequest) {
         super(id, new ArrayList<>());
         try {
             this.purl = new PackageURL(scanRequest.scanUrl().value());
-            this.revision = new Revision(this.purl.getVersion());
+            if (purl.getType().equals(PackageURL.StandardTypes.GITHUB)) {
+                if (purl.getQualifiers() != null && purl.getQualifiers().containsKey("branch")) {
+                    this.revision = new Revision(purl.getQualifiers().get("branch"));
+                } else {
+                    this.revision = REVISION_MAIN;
+                }
+            } else {
+                this.revision = new Revision(purl.getVersion());
+            }
         } catch (MalformedPackageURLException e) {
             this.gitUrl = new GitUrl(scanRequest.scanUrl().value());
             this.revision = scanRequest.revision();
+            this.packageFolder =
+                    Optional.ofNullable(scanRequest.subFolder()).map(Path::of).orElse(null);
         }
-        this.packageFolder =
-                Optional.ofNullable(scanRequest.subFolder()).map(Path::of).orElse(null);
     }
 
     private ScanAggregate(
@@ -105,12 +117,20 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
         return aggregate;
     }
 
-    public void setResolvedGitUrl(@Nonnull String gitUrl) throws GitUrlAlreadyResolved {
+    public void setResolvedGitUrl(@Nonnull GitUrl gitUrl) throws GitUrlAlreadyResolved {
         if (this.gitUrl != null) {
             throw new GitUrlAlreadyResolved(this.getId());
         }
-        this.gitUrl = new GitUrl(gitUrl);
+        this.gitUrl = gitUrl;
         this.apply(new GitUrlResolvedEvent(this.getId()));
+    }
+
+    public void setRevision(@Nonnull String revision) throws RevisionAlreadyExists {
+        if (this.revision != null) {
+            throw new RevisionAlreadyExists(this.getId());
+        }
+        this.revision = new Revision(revision);
+        this.apply(new RevisionIdentifiedEvent(this.getId()));
     }
 
     public void setCommitHash(@Nonnull Commit commit) throws CommitHashAlreadyExists {
@@ -202,23 +222,27 @@ public final class ScanAggregate extends AggregateRoot<ScanId> {
                 throw new IllegalArgumentException("Invalid Git URL format");
             }
 
-            final String namespace = pathSegments[1];
+            final String namespace =
+                    "github.com".equals(uri.getHost())
+                            ? pathSegments[1]
+                            : uri.getHost() + "/" + pathSegments[1];
             final String name = pathSegments[2].replaceAll("\\.git$", "");
 
-            final PackageURL buildPurl =
+            final PackageURLBuilder purlBuilder =
                     PackageURLBuilder.aPackageURL()
-                            .withType(uri.getHost())
+                            .withType("github")
                             .withNamespace(namespace)
                             .withName(name)
                             .withVersion(
                                     Optional.ofNullable(this.commit).map(Commit::hash).orElse(null))
-                            /*.withQualifier("revision", this.revision.value())
                             .withSubpath(
                                     Optional.ofNullable(this.packageFolder)
                                             .map(Path::toString)
-                                            .orElse(null))*/
-                            .build();
-            return buildPurl.toString();
+                                            .orElse(null));
+            if (!this.revision.value().equals("main")) {
+                purlBuilder.withQualifier("branch", this.revision.value());
+            }
+            return purlBuilder.build().toString();
         } catch (Exception e) {
             throw new NoValidProjectIdentifierForScan(this.getId());
         }
