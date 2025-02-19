@@ -58,7 +58,6 @@ import com.ibm.usecases.scanning.services.git.GitService;
 import com.ibm.usecases.scanning.services.indexing.JavaIndexService;
 import com.ibm.usecases.scanning.services.indexing.ProjectModule;
 import com.ibm.usecases.scanning.services.indexing.PythonIndexService;
-import com.ibm.usecases.scanning.services.pkg.GradlePackageFinderService;
 import com.ibm.usecases.scanning.services.pkg.MavenPackageFinderService;
 import com.ibm.usecases.scanning.services.pkg.SetupPackageFinderService;
 import com.ibm.usecases.scanning.services.pkg.TomlPackageFinderService;
@@ -189,6 +188,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
             this.projectDirectory = cloneResultDTO.directory();
             // update aggregate
             if (!scanAggregate.getCommit().isPresent()) {
+                new ProgressMessage(ProgressMessageType.REVISION_HASH, cloneResultDTO.commit().hash());
                 scanAggregate.setCommitHash(cloneResultDTO.commit());
             }
             this.repository.save(scanAggregate);
@@ -245,9 +245,6 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                 Optional<Path> packagePath = Optional.empty();
                 if (purl.getType().equals("maven")) {
                     packagePath = new MavenPackageFinderService(dir).findPackage(purl);
-                    if (packagePath.isEmpty()) {
-                        packagePath = new GradlePackageFinderService(dir).findPackage(purl);
-                    }
                 } else if (purl.getType().equals(PackageURL.StandardTypes.PYPI)) {
                     packagePath = new TomlPackageFinderService(dir).findPackage(purl);
                     if (packagePath.isEmpty()) {

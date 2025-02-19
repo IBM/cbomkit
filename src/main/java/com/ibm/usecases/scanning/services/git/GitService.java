@@ -101,7 +101,10 @@ public final class GitService {
                     throw new GitCloneFailed("Revision not found: " + revision.value());
                 }
 
-                final ObjectId commitHash = ref.getObjectId();
+                ObjectId commitHash = ref.getPeeledObjectId(); // only works for tagged versions
+                if (commitHash == null) {
+                    commitHash = ref.getObjectId();
+                }
                 if (commitHash == null) {
                     throw new GitCloneFailed("Commit not found for revision " + revision.value());
                 }
@@ -113,47 +116,6 @@ public final class GitService {
             throw new GitCloneFailed("Git clone failed: " + e.getMessage());
         }
     }
-
-    // public CloneResultDTO clone(@Nonnull GitUrl gitUrl, @Nonnull PackageURL packageURL)
-    //         throws GitCloneFailed, ClientDisconnected {
-    //     try {
-    //         final File scanCloneFile = createDirectory();
-    //         final CloneCommand cloneCommand =
-    //                 Git.cloneRepository()
-    //                         .setProgressMonitor(getProgressMonitor())
-    //                         .setURI(gitUrl.value())
-    //                         .setDirectory(scanCloneFile)
-    //                         .setCredentialsProvider(getCredentialsProvider(credentials));
-    //         final Git clonedRepo = cloneCommand.call();
-    //         // Purl case: try using tag that ends with revision
-    //         final List<Ref> refs = clonedRepo.tagList().call();
-    //         final Ref revisionRef =
-    //                 refs.stream()
-    //                         .filter(ref -> ref.getName().endsWith(packageURL.getVersion()))
-    //                         .findFirst()
-    //                         .orElseThrow(
-    //                                 () ->
-    //                                         new GitCloneFailed(
-    //                                                 "Revision not found: "
-    //                                                         + packageURL.getVersion()));
-
-    //         final ObjectId commitHash = revisionRef.getObjectId();
-    //         if (commitHash == null) {
-    //             throw new GitCloneFailed("Commit not found for revision: " +
-    // revisionRef.getName());
-    //         }
-
-    //         final Commit commit = new Commit(commitHash.abbreviate(7).name());
-
-    //         this.progressDispatcher.send(
-    //                 new ProgressMessage(ProgressMessageType.BRANCH, revisionRef.getName()));
-    //         this.progressDispatcher.send(
-    //                 new ProgressMessage(ProgressMessageType.REVISION_HASH, commit.hash()));
-    //         return new CloneResultDTO(commit, scanCloneFile);
-    //     } catch (GitAPIException | GitCloneFailed e) {
-    //         throw new GitCloneFailed("Git clone failed: " + e.getMessage());
-    //     }
-    // }
 
     @Nonnull
     private File createDirectory() throws GitCloneFailed {
