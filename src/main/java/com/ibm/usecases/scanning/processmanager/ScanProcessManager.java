@@ -188,7 +188,9 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
             this.projectDirectory = cloneResultDTO.directory();
             // update aggregate
             if (!scanAggregate.getCommit().isPresent()) {
-                new ProgressMessage(ProgressMessageType.REVISION_HASH, cloneResultDTO.commit().hash());
+                this.progressDispatcher.send(
+                        new ProgressMessage(
+                                ProgressMessageType.REVISION_HASH, cloneResultDTO.commit().hash()));
                 scanAggregate.setCommitHash(cloneResultDTO.commit());
             }
             this.repository.save(scanAggregate);
