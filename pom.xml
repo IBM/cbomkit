@@ -121,11 +121,6 @@
       <version>3.9.9</version>
     </dependency>
     <dependency>
-      <groupId>dev.gradleplugins</groupId>
-      <artifactId>gradle-api</artifactId>
-      <version>8.11.1</version>
-    </dependency>
-    <dependency>
       <groupId>org.tomlj</groupId>
       <artifactId>tomlj</artifactId>
       <version>1.1.1</version>
