@@ -70,7 +70,7 @@ export default {
       }
       if (model.codeOrigin.projectIdentifier != null) {
         title = model.codeOrigin.projectIdentifier;
-      } else {
+      } else if (model.codeOrigin.scanUrl != null) {
         title = model.codeOrigin.scanUrl.replace("https://", "");
       }
       return title;
