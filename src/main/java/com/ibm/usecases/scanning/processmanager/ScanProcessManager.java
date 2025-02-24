@@ -207,7 +207,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                                 this.scanId,
                                 gitUrl.value(),
                                 "master",
-                                scanAggregate.getPackageFolder().toString(),
+                                scanAggregate.getPackageFolder().map(Path::toString).orElse(null),
                                 command.credentials()));
             } else {
                 this.progressDispatcher.send(
