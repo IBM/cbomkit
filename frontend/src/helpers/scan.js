@@ -170,8 +170,10 @@ function setCodeOrigin(gitBranch, gitSubfolder) {
     model.codeOrigin.scanUrl = model.codeOrigin.scanUrl.trim();
     // if it's not a package url
     if (!model.codeOrigin.scanUrl.startsWith("pkg:")) {
-      // remove http if there, to make sure the request uses https
-      model.codeOrigin.scanUrl = model.codeOrigin.scanUrl.replace("http://", "")
+      // normalize scanUrl
+      model.codeOrigin.scanUrl = model.codeOrigin.scanUrl
+          .replace(/^http:\/\//, "")
+          .replace(/.git$/, "");
       if (!model.codeOrigin.scanUrl.startsWith("https://")) {
         model.codeOrigin.scanUrl = "https://" + model.codeOrigin.scanUrl;
       }
