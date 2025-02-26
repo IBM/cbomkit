@@ -1,95 +1,37 @@
 {
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.6",
+  "serialNumber": "urn:uuid:056ebfb0-b9e8-4b1f-804f-1c7f814e991a",
   "version": 1,
   "metadata": {
-    "tools": {
-      "services": [
-        {
-          "name": "Sonar Cryptography Plugin",
-          "version": "1.3.2",
-          "provider": {
-            "name": "IBM"
-          }
-        }
-      ]
-    },
-    "timestamp": "2024-10-17T14:56:59Z",
+    "timestamp": "2025-02-26T09:16:34Z",
     "properties": [
       {
-        "name": "git-url",
+        "name": "gitUrl",
         "value": "https://github.com/apache/kafka"
       },
       {
-        "name": "git-branch",
+        "name": "revision",
         "value": "trunk"
       },
       {
         "name": "commit",
-        "value": "05a68986103818a057d488a498698c7eb3185aa3"
-      },
-      {
-        "name": "purl",
-        "value": "pkg:apache/kafka"
-      },
-      {
-        "name": "purl",
-        "value": "pkg:github/apache/kafka"
+        "value": "f20f299"
       }
     ]
   },
-  "bomFormat": "CycloneDX",
   "components": [
     {
-      "name": "secret-key@7b4a0a3c-f2bc-4bf3-ac3a-8f2bb0c49856",
       "type": "cryptographic-asset",
-      "bom-ref": "7b4a0a3c-f2bc-4bf3-ac3a-8f2bb0c49856",
+      "bom-ref": "84a19814-00cb-4203-a290-9b5421280633",
+      "name": "SHA256",
       "evidence": {
         "occurrences": [
           {
-            "line": 133,
-            "offset": 23,
-            "location": "server-common/src/main/java/org/apache/kafka/security/EncryptingPasswordEncoder.java",
-            "additionalContext": "javax.crypto.SecretKeyFactory#getInstance(Ljava/lang/String;)Ljavax/crypto/SecretKeyFactory;"
-          }
-        ]
-      },
-      "cryptoProperties": {
-        "assetType": "related-crypto-material",
-        "relatedCryptoMaterialProperties": {
-          "type": "secret-key"
-        }
-      }
-    },
-    {
-      "name": "key@2887fe5b-1cc0-46f5-b2f3-3f30083a6d57",
-      "type": "cryptographic-asset",
-      "bom-ref": "2887fe5b-1cc0-46f5-b2f3-3f30083a6d57",
-      "evidence": {
-        "occurrences": [
-          {
-            "line": 429,
-            "offset": 27,
-            "location": "clients/src/main/java/org/apache/kafka/common/security/ssl/DefaultSslEngineFactory.java"
-          }
-        ]
-      },
-      "cryptoProperties": {
-        "assetType": "related-crypto-material",
-        "relatedCryptoMaterialProperties": {
-          "type": "secret-key"
-        }
-      }
-    },
-    {
-      "name": "SHA1",
-      "type": "cryptographic-asset",
-      "bom-ref": "30db38de-2690-43ad-9a21-5362fd15ee48",
-      "evidence": {
-        "occurrences": [
-          {
-            "line": 133,
-            "offset": 23,
-            "location": "server-common/src/main/java/org/apache/kafka/security/EncryptingPasswordEncoder.java",
-            "additionalContext": "javax.crypto.SecretKeyFactory#getInstance(Ljava/lang/String;)Ljavax/crypto/SecretKeyFactory;"
+            "location": "clients/src/main/java/org/apache/kafka/common/security/ssl/CommonNameLoggingTrustManagerFactoryWrapper.java",
+            "line": 183,
+            "offset": 21,
+            "additionalContext": "java.security.MessageDigest#getInstance(Ljava/lang/String;)Ljava/security/MessageDigest;"
           }
         ]
       },
@@ -97,44 +39,24 @@
         "assetType": "algorithm",
         "algorithmProperties": {
           "primitive": "hash",
+          "parameterSetIdentifier": "256",
           "cryptoFunctions": [
             "digest"
-          ],
-          "parameterSetIdentifier": "160"
-        }
+          ]
+        },
+        "oid": "2.16.840.1.101.3.4.2.1"
       }
     },
     {
-      "name": "secret-key@4b5d68f5-e8f2-4fe5-9700-0ce6605800dc",
       "type": "cryptographic-asset",
-      "bom-ref": "4b5d68f5-e8f2-4fe5-9700-0ce6605800dc",
+      "bom-ref": "ff11be02-d1ac-4887-ae6e-b4e49f2bc41c",
+      "name": "key@ff11be02-d1ac-4887-ae6e-b4e49f2bc41c",
       "evidence": {
         "occurrences": [
           {
-            "line": 131,
-            "offset": 23,
-            "location": "server-common/src/main/java/org/apache/kafka/security/EncryptingPasswordEncoder.java",
-            "additionalContext": "javax.crypto.SecretKeyFactory#getInstance(Ljava/lang/String;)Ljavax/crypto/SecretKeyFactory;"
-          }
-        ]
-      },
-      "cryptoProperties": {
-        "assetType": "related-crypto-material",
-        "relatedCryptoMaterialProperties": {
-          "type": "secret-key"
-        }
-      }
-    },
-    {
-      "name": "key@4d3a2fa2-fc25-4884-ad60-3a25428f2d0e",
-      "type": "cryptographic-asset",
-      "bom-ref": "4d3a2fa2-fc25-4884-ad60-3a25428f2d0e",
-      "evidence": {
-        "occurrences": [
-          {
+            "location": "clients/src/main/java/org/apache/kafka/common/security/ssl/DefaultSslEngineFactory.java",
             "line": 430,
-            "offset": 27,
-            "location": "clients/src/main/java/org/apache/kafka/common/security/ssl/DefaultSslEngineFactory.java"
+            "offset": 27
           }
         ]
       },
@@ -146,45 +68,112 @@
       }
     },
     {
-      "name": "PBKDF2-HMAC-SHA1",
       "type": "cryptographic-asset",
-      "bom-ref": "225b79e6-d83f-4ec0-9a50-018f07c2cbf5",
+      "bom-ref": "5dc8d1ab-85a2-40a0-a336-351438a620ec",
+      "name": "DSA",
       "evidence": {
         "occurrences": [
           {
-            "line": 133,
-            "offset": 23,
-            "location": "server-common/src/main/java/org/apache/kafka/security/EncryptingPasswordEncoder.java",
-            "additionalContext": "javax.crypto.SecretKeyFactory#getInstance(Ljava/lang/String;)Ljavax/crypto/SecretKeyFactory;"
+            "location": "clients/src/main/java/org/apache/kafka/common/security/ssl/DefaultSslEngineFactory.java",
+            "line": 429,
+            "offset": 27
           }
         ]
       },
       "cryptoProperties": {
         "assetType": "algorithm",
         "algorithmProperties": {
-          "primitive": "kdf",
+          "primitive": "signature",
+          "parameterSetIdentifier": "2048",
           "cryptoFunctions": [
             "keygen"
           ]
+        },
+        "oid": "1.2.840.10040.4.1"
+      }
+    },
+    {
+      "type": "cryptographic-asset",
+      "bom-ref": "65c423f4-6a60-4051-8edc-1a5f782fea48",
+      "name": "secret-key@65c423f4-6a60-4051-8edc-1a5f782fea48",
+      "evidence": {
+        "occurrences": [
+          {
+            "location": "clients/src/main/java/org/apache/kafka/common/security/ssl/DefaultSslEngineFactory.java",
+            "line": 517,
+            "offset": 46,
+            "additionalContext": "javax.crypto.SecretKeyFactory#getInstance(Ljava/lang/String;)Ljavax/crypto/SecretKeyFactory;"
+          }
+        ]
+      },
+      "cryptoProperties": {
+        "assetType": "related-crypto-material",
+        "relatedCryptoMaterialProperties": {
+          "type": "secret-key"
         }
       }
     },
     {
-      "name": "PRIVATE KEY",
       "type": "cryptographic-asset",
-      "bom-ref": "a15f4e84-b0bb-43a6-921c-c485e21e9029",
+      "bom-ref": "e8225c04-dfee-4283-b053-f46c8cdaa1f1",
+      "name": "HMAC-SHA512",
       "evidence": {
         "occurrences": [
           {
+            "location": "metadata/src/main/java/org/apache/kafka/controller/DelegationTokenControlManager.java",
+            "line": 136,
+            "offset": 18,
+            "additionalContext": "javax.crypto.Mac#getInstance(Ljava/lang/String;)Ljavax/crypto/Mac;"
+          }
+        ]
+      },
+      "cryptoProperties": {
+        "assetType": "algorithm",
+        "algorithmProperties": {
+          "primitive": "mac",
+          "cryptoFunctions": [
+            "tag"
+          ]
+        },
+        "oid": "1.2.840.113549.2.11"
+      }
+    },
+    {
+      "type": "cryptographic-asset",
+      "bom-ref": "3e623753-9aac-493b-80ce-21ec2f64de38",
+      "name": "key@3e623753-9aac-493b-80ce-21ec2f64de38",
+      "evidence": {
+        "occurrences": [
+          {
+            "location": "clients/src/main/java/org/apache/kafka/common/security/ssl/DefaultSslEngineFactory.java",
+            "line": 429,
+            "offset": 27
+          }
+        ]
+      },
+      "cryptoProperties": {
+        "assetType": "related-crypto-material",
+        "relatedCryptoMaterialProperties": {
+          "type": "secret-key"
+        }
+      }
+    },
+    {
+      "type": "cryptographic-asset",
+      "bom-ref": "3ebe86a3-4373-4c3e-a32b-6b6dc3baee59",
+      "name": "PRIVATE KEY",
+      "evidence": {
+        "occurrences": [
+          {
+            "location": "clients/src/main/java/org/apache/kafka/common/security/ssl/DefaultSslEngineFactory.java",
             "line": 517,
             "offset": 46,
-            "location": "clients/src/main/java/org/apache/kafka/common/security/ssl/DefaultSslEngineFactory.java",
             "additionalContext": "javax.crypto.SecretKeyFactory#getInstance(Ljava/lang/String;)Ljavax/crypto/SecretKeyFactory;"
           },
           {
+            "location": "clients/src/main/java/org/apache/kafka/common/security/ssl/DefaultSslEngineFactory.java",
             "line": 519,
             "offset": 32,
-            "location": "clients/src/main/java/org/apache/kafka/common/security/ssl/DefaultSslEngineFactory.java",
             "additionalContext": "javax.crypto.Cipher#getInstance(Ljava/lang/String;)Ljavax/crypto/Cipher;"
           }
         ]
@@ -200,242 +189,66 @@
       }
     },
     {
+      "type": "cryptographic-asset",
+      "bom-ref": "f7e5697b-626b-4a71-b057-bd6bd865e2f8",
       "name": "RSA-2048",
-      "type": "cryptographic-asset",
-      "bom-ref": "ee620376-e8ef-4dfb-95d0-1681e3fe3a17",
       "evidence": {
         "occurrences": [
           {
-            "line": 428,
-            "offset": 27,
-            "location": "clients/src/main/java/org/apache/kafka/common/security/ssl/DefaultSslEngineFactory.java"
-          }
-        ]
-      },
-      "cryptoProperties": {
-        "oid": "1.2.840.113549.1.1.1",
-        "assetType": "algorithm",
-        "algorithmProperties": {
-          "primitive": "pke",
-          "cryptoFunctions": [
-            "keygen"
-          ],
-          "parameterSetIdentifier": "2048"
-        }
-      }
-    },
-    {
-      "name": "HMAC-SHA1",
-      "type": "cryptographic-asset",
-      "bom-ref": "ca6e67b2-9831-46b2-ada9-d2f0b1f8bfc2",
-      "evidence": {
-        "occurrences": [
-          {
-            "line": 133,
-            "offset": 23,
-            "location": "server-common/src/main/java/org/apache/kafka/security/EncryptingPasswordEncoder.java",
-            "additionalContext": "javax.crypto.SecretKeyFactory#getInstance(Ljava/lang/String;)Ljavax/crypto/SecretKeyFactory;"
-          }
-        ]
-      },
-      "cryptoProperties": {
-        "assetType": "algorithm",
-        "algorithmProperties": {
-          "primitive": "mac",
-          "cryptoFunctions": [
-            "tag"
-          ]
-        }
-      }
-    },
-    {
-      "name": "SHA256",
-      "type": "cryptographic-asset",
-      "bom-ref": "2a2f1b8f-4a40-4200-8d4d-b59e1ce43595",
-      "evidence": {
-        "occurrences": [
-          {
-            "line": 183,
-            "offset": 21,
-            "location": "clients/src/main/java/org/apache/kafka/common/security/ssl/CommonNameLoggingTrustManagerFactoryWrapper.java",
-            "additionalContext": "java.security.MessageDigest#getInstance(Ljava/lang/String;)Ljava/security/MessageDigest;"
-          }
-        ]
-      },
-      "cryptoProperties": {
-        "oid": "2.16.840.1.101.3.4.2.1",
-        "assetType": "algorithm",
-        "algorithmProperties": {
-          "primitive": "hash",
-          "cryptoFunctions": [
-            "digest"
-          ],
-          "parameterSetIdentifier": "256"
-        }
-      }
-    },
-    {
-      "name": "key@84bb8a2a-034a-4784-bdaa-701c7217d7c1",
-      "type": "cryptographic-asset",
-      "bom-ref": "84bb8a2a-034a-4784-bdaa-701c7217d7c1",
-      "evidence": {
-        "occurrences": [
-          {
-            "line": 428,
-            "offset": 27,
-            "location": "clients/src/main/java/org/apache/kafka/common/security/ssl/DefaultSslEngineFactory.java"
-          }
-        ]
-      },
-      "cryptoProperties": {
-        "assetType": "related-crypto-material",
-        "relatedCryptoMaterialProperties": {
-          "type": "secret-key"
-        }
-      }
-    },
-    {
-      "name": "secret-key@6c1c7fb2-fe3a-4c3f-a856-4c4366da2557",
-      "type": "cryptographic-asset",
-      "bom-ref": "6c1c7fb2-fe3a-4c3f-a856-4c4366da2557",
-      "evidence": {
-        "occurrences": [
-          {
-            "line": 517,
-            "offset": 46,
             "location": "clients/src/main/java/org/apache/kafka/common/security/ssl/DefaultSslEngineFactory.java",
-            "additionalContext": "javax.crypto.SecretKeyFactory#getInstance(Ljava/lang/String;)Ljavax/crypto/SecretKeyFactory;"
+            "line": 428,
+            "offset": 27
           }
         ]
       },
       "cryptoProperties": {
-        "assetType": "related-crypto-material",
-        "relatedCryptoMaterialProperties": {
-          "type": "secret-key"
-        }
-      }
-    },
-    {
-      "name": "DSA",
-      "type": "cryptographic-asset",
-      "bom-ref": "051f45e0-c964-4b91-9d0f-bbb4795c2cba",
-      "evidence": {
-        "occurrences": [
-          {
-            "line": 429,
-            "offset": 27,
-            "location": "clients/src/main/java/org/apache/kafka/common/security/ssl/DefaultSslEngineFactory.java"
-          }
-        ]
-      },
-      "cryptoProperties": {
-        "oid": "1.2.840.10040.4.1",
         "assetType": "algorithm",
         "algorithmProperties": {
-          "primitive": "signature",
+          "primitive": "pke",
+          "parameterSetIdentifier": "2048",
           "cryptoFunctions": [
             "keygen"
-          ],
-          "parameterSetIdentifier": "2048"
-        }
-      }
-    },
-    {
-      "name": "HMAC-SHA512",
-      "type": "cryptographic-asset",
-      "bom-ref": "0780a15b-3652-4528-83ab-f54c4959b7ed",
-      "evidence": {
-        "occurrences": [
-          {
-            "line": 131,
-            "offset": 23,
-            "location": "server-common/src/main/java/org/apache/kafka/security/EncryptingPasswordEncoder.java",
-            "additionalContext": "javax.crypto.SecretKeyFactory#getInstance(Ljava/lang/String;)Ljavax/crypto/SecretKeyFactory;"
-          },
-          {
-            "line": 132,
-            "offset": 18,
-            "location": "metadata/src/main/java/org/apache/kafka/controller/DelegationTokenControlManager.java",
-            "additionalContext": "javax.crypto.Mac#getInstance(Ljava/lang/String;)Ljavax/crypto/Mac;"
-          }
-        ]
-      },
-      "cryptoProperties": {
-        "assetType": "algorithm",
-        "algorithmProperties": {
-          "primitive": "mac",
-          "cryptoFunctions": [
-            "tag"
           ]
-        }
+        },
+        "oid": "1.2.840.113549.1.1.1"
       }
     },
     {
-      "name": "SHA512",
       "type": "cryptographic-asset",
-      "bom-ref": "437e6d00-ddc2-4d0d-b9f2-40c02d8ae4b4",
+      "bom-ref": "f33a8409-6252-4f17-b3ba-18ad1bfba44c",
+      "name": "SHA512",
       "evidence": {
         "occurrences": [
           {
-            "line": 131,
-            "offset": 23,
-            "location": "server-common/src/main/java/org/apache/kafka/security/EncryptingPasswordEncoder.java",
-            "additionalContext": "javax.crypto.SecretKeyFactory#getInstance(Ljava/lang/String;)Ljavax/crypto/SecretKeyFactory;"
-          },
-          {
-            "line": 132,
-            "offset": 18,
             "location": "metadata/src/main/java/org/apache/kafka/controller/DelegationTokenControlManager.java",
+            "line": 136,
+            "offset": 18,
             "additionalContext": "javax.crypto.Mac#getInstance(Ljava/lang/String;)Ljavax/crypto/Mac;"
           }
         ]
       },
       "cryptoProperties": {
-        "oid": "2.16.840.1.101.3.4.2.3",
         "assetType": "algorithm",
         "algorithmProperties": {
           "primitive": "hash",
+          "parameterSetIdentifier": "512",
           "cryptoFunctions": [
             "digest"
-          ],
-          "parameterSetIdentifier": "512"
-        }
-      }
-    },
-    {
-      "name": "PBKDF2-HMAC-SHA512",
-      "type": "cryptographic-asset",
-      "bom-ref": "9326d45e-677a-4697-931a-ca5acb9fcf8a",
-      "evidence": {
-        "occurrences": [
-          {
-            "line": 131,
-            "offset": 23,
-            "location": "server-common/src/main/java/org/apache/kafka/security/EncryptingPasswordEncoder.java",
-            "additionalContext": "javax.crypto.SecretKeyFactory#getInstance(Ljava/lang/String;)Ljavax/crypto/SecretKeyFactory;"
-          }
-        ]
-      },
-      "cryptoProperties": {
-        "assetType": "algorithm",
-        "algorithmProperties": {
-          "primitive": "kdf",
-          "cryptoFunctions": [
-            "keygen"
           ]
-        }
+        },
+        "oid": "2.16.840.1.101.3.4.2.3"
       }
     },
     {
-      "name": "EC",
       "type": "cryptographic-asset",
-      "bom-ref": "6d4a5d66-4599-4b26-b46d-4580530e08b7",
+      "bom-ref": "c730ac20-a820-4337-b501-c2039d8457e1",
+      "name": "EC",
       "evidence": {
         "occurrences": [
           {
+            "location": "clients/src/main/java/org/apache/kafka/common/security/ssl/DefaultSslEngineFactory.java",
             "line": 430,
-            "offset": 27,
-            "location": "clients/src/main/java/org/apache/kafka/common/security/ssl/DefaultSslEngineFactory.java"
+            "offset": 27
           }
         ]
       },
@@ -446,72 +259,60 @@
           "cryptoFunctions": [
             "keygen"
           ]
+        }
+      }
+    },
+    {
+      "type": "cryptographic-asset",
+      "bom-ref": "e249f26f-07b8-4e6e-96ae-e0827f1dc6a6",
+      "name": "key@e249f26f-07b8-4e6e-96ae-e0827f1dc6a6",
+      "evidence": {
+        "occurrences": [
+          {
+            "location": "clients/src/main/java/org/apache/kafka/common/security/ssl/DefaultSslEngineFactory.java",
+            "line": 428,
+            "offset": 27
+          }
+        ]
+      },
+      "cryptoProperties": {
+        "assetType": "related-crypto-material",
+        "relatedCryptoMaterialProperties": {
+          "type": "secret-key"
         }
       }
     }
   ],
-  "specVersion": "1.6",
   "dependencies": [
     {
-      "ref": "225b79e6-d83f-4ec0-9a50-018f07c2cbf5",
+      "ref": "ff11be02-d1ac-4887-ae6e-b4e49f2bc41c",
       "dependsOn": [
-        "ca6e67b2-9831-46b2-ada9-d2f0b1f8bfc2"
+        "c730ac20-a820-4337-b501-c2039d8457e1"
       ]
     },
     {
-      "ref": "ca6e67b2-9831-46b2-ada9-d2f0b1f8bfc2",
+      "ref": "e249f26f-07b8-4e6e-96ae-e0827f1dc6a6",
       "dependsOn": [
-        "30db38de-2690-43ad-9a21-5362fd15ee48"
+        "f7e5697b-626b-4a71-b057-bd6bd865e2f8"
       ]
     },
     {
-      "ref": "84bb8a2a-034a-4784-bdaa-701c7217d7c1",
+      "ref": "65c423f4-6a60-4051-8edc-1a5f782fea48",
       "dependsOn": [
-        "ee620376-e8ef-4dfb-95d0-1681e3fe3a17"
+        "3ebe86a3-4373-4c3e-a32b-6b6dc3baee59"
       ]
     },
     {
-      "ref": "9326d45e-677a-4697-931a-ca5acb9fcf8a",
+      "ref": "3e623753-9aac-493b-80ce-21ec2f64de38",
       "dependsOn": [
-        "0780a15b-3652-4528-83ab-f54c4959b7ed"
+        "5dc8d1ab-85a2-40a0-a336-351438a620ec"
       ]
     },
     {
-      "ref": "6c1c7fb2-fe3a-4c3f-a856-4c4366da2557",
+      "ref": "e8225c04-dfee-4283-b053-f46c8cdaa1f1",
       "dependsOn": [
-        "a15f4e84-b0bb-43a6-921c-c485e21e9029"
-      ]
-    },
-    {
-      "ref": "2887fe5b-1cc0-46f5-b2f3-3f30083a6d57",
-      "dependsOn": [
-        "051f45e0-c964-4b91-9d0f-bbb4795c2cba"
-      ]
-    },
-    {
-      "ref": "0780a15b-3652-4528-83ab-f54c4959b7ed",
-      "dependsOn": [
-        "437e6d00-ddc2-4d0d-b9f2-40c02d8ae4b4"
-      ]
-    },
-    {
-      "ref": "4b5d68f5-e8f2-4fe5-9700-0ce6605800dc",
-      "dependsOn": [
-        "9326d45e-677a-4697-931a-ca5acb9fcf8a"
-      ]
-    },
-    {
-      "ref": "7b4a0a3c-f2bc-4bf3-ac3a-8f2bb0c49856",
-      "dependsOn": [
-        "225b79e6-d83f-4ec0-9a50-018f07c2cbf5"
-      ]
-    },
-    {
-      "ref": "4d3a2fa2-fc25-4884-ad60-3a25428f2d0e",
-      "dependsOn": [
-        "6d4a5d66-4599-4b26-b46d-4580530e08b7"
+        "f33a8409-6252-4f17-b3ba-18ad1bfba44c"
       ]
     }
-  ],
-  "serialNumber": "urn:uuid:6f34a330-0114-404d-b06f-03deb62b8640"
+  ]
 }
