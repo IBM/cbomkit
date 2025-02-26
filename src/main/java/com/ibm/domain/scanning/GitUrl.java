@@ -26,6 +26,13 @@ import java.net.MalformedURLException;
 import java.net.URI;
 
 public record GitUrl(@Nonnull String value) implements IValueObject {
+    // normalize value
+    public GitUrl {
+        value = value.replaceAll(".git$", "").replaceAll("^http://", "");
+        if (!value.startsWith("https://")) {
+            value = "https://" + value;
+        }
+    }
 
     @SuppressWarnings("all")
     @Override

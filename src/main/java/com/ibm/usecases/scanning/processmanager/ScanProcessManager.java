@@ -136,8 +136,6 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
 
             // update aggregate
             scanAggregate.setResolvedGitUrl(gitUrl);
-            this.progressDispatcher.send(
-                    new ProgressMessage(ProgressMessageType.GITURL, gitUrl.value()));
 
             if (purl.getType().equals(PackageURL.StandardTypes.GITHUB)) {
                 scanAggregate.setCommitHash(new Commit(purl.getVersion()));
@@ -172,6 +170,8 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                         .getGitUrl()
                         .orElseThrow(() -> new NoGitUrlSpecifiedForScan(command.id()));
         try {
+            this.progressDispatcher.send(
+                    new ProgressMessage(ProgressMessageType.GITURL, gitUrl.value()));
             this.progressDispatcher.send(
                     new ProgressMessage(
                             ProgressMessageType.BRANCH, scanAggregate.getRevision().value()));
