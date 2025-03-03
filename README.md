@@ -137,7 +137,7 @@ and cryptographic libraries:
 |          | [BouncyCastle](https://github.com/bcgit/bc-java) (*light-weight API*)                         | 100%[^1] |
 | Python   | [pyca/cryptography](https://cryptography.io/en/latest/)                                       | 100%     |
 
-[^1]: We only cover the BouncyCastle *light-weight API* according to [this specification](https://javadoc.io/static/org.bouncycastle/bctls-jdk14/1.75/specifications.html)
+[^1]: We only cover the BouncyCastle *light-weight API* according to [this specification](https://javadoc.io/static/org.bouncycastle/bctls-jdk14/1.80/specifications.html)
 
 While the CBOMkit's scanning capabilities are currently bound to the Sonar Cryptography Plugin, the modular 
 design of this plugin allows for potential expansion to support additional languages and cryptographic libraries in 
