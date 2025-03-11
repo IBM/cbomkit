@@ -117,10 +117,10 @@ public abstract class ScannerService implements IScannerService {
         metadata.addProperty(commitProperty);
 
         if (packageFolder != null) {
-            final Property packageFolderProperty = new Property();
-            packageFolderProperty.setName("packageFolder");
-            packageFolderProperty.setValue(packageFolder.toString());
-            metadata.addProperty(packageFolderProperty);
+            final Property subFolderProperty = new Property();
+            subFolderProperty.setName("subfolder");
+            subFolderProperty.setValue(packageFolder.toString());
+            metadata.addProperty(subFolderProperty);
         }
 
         bom.setMetadata(metadata);

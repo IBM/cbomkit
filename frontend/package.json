@@ -13,6 +13,7 @@
     "@carbon/icons-vue": "^10.71.1",
     "@carbon/type": "^11.20.1",
     "@carbon/vue": "^2.45.1",
+    "caniuse-lite": "^1.0.30001701",
     "core-js": "^3.8.3",
     "normalize.css": "^8.0.1",
     "normalizecss": "^3.0.0",

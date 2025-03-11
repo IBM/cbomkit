@@ -27,7 +27,7 @@
     <quarkus.platform.group-id>io.quarkus.platform</quarkus.platform.group-id>
     <quarkus.platform.version>3.17.8</quarkus.platform.version>
 
-    <sonar.crypto.plugin.version>1.4.2</sonar.crypto.plugin.version>
+    <sonar.crypto.plugin.version>1.4.5</sonar.crypto.plugin.version>
     <sonar.plugin.api.version>11.1.0.2693</sonar.plugin.api.version>
     <sonar.plugin.api.impl.version>25.2.0.102705</sonar.plugin.api.impl.version>
 
