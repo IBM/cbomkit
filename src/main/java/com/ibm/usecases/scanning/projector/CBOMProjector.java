@@ -83,17 +83,12 @@ public class CBOMProjector extends Projector<UUID, CBOMReadModel> {
         final Optional<ScanAggregate> possibleScanAggregate = this.sourceRepository.read(scanId);
         final ScanAggregate scanAggregate =
                 possibleScanAggregate.orElseThrow(() -> new EntityNotFoundById(scanId));
-        // check for existing read model
+        // delete existing read model
         String projectIdentifier = scanAggregate.getProjectIdentifier();
         if (this.repository instanceof ICBOMReadRepository cbomReadRepository) {
-            final Optional<CBOMReadModel> possibleCBOMReadModel =
-                    cbomReadRepository.findBy(projectIdentifier);
-            if (possibleCBOMReadModel.isPresent()) {
-                LOGGER.info(
-                        "No need to update CBOM read model, since scan request didn't change for {}",
-                        scanId);
-                return;
-            }
+            cbomReadRepository
+                    .findBy(projectIdentifier)
+                    .ifPresent(crm -> this.repository.delete(crm.getId()));
         }
         // build merged CBOM
         final List<CBOM> cbomList =
@@ -130,5 +125,6 @@ public class CBOMProjector extends Projector<UUID, CBOMReadModel> {
                         mergedCBOM.toJSON());
         // save read model
         this.repository.save(cbomReadModel);
+        LOGGER.info("Stored CBOM for {}", projectIdentifier);
     }
 }
