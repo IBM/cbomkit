@@ -28,7 +28,7 @@
     <quarkus.platform.version>3.17.8</quarkus.platform.version>
 
     <sonar.crypto.plugin.version>1.4.5</sonar.crypto.plugin.version>
-    <sonar.plugin.api.version>11.2.0.2797</sonar.plugin.api.version>
+    <sonar.plugin.api.version>11.3.0.2824</sonar.plugin.api.version>
     <sonar.plugin.api.impl.version>25.3.0.104237</sonar.plugin.api.impl.version>
 
     <cyclonedx-maven-plugin.version>2.9.1</cyclonedx-maven-plugin.version>
