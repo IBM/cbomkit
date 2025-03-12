@@ -67,7 +67,7 @@ public final class CBOMReadRepository extends ReadRepository<UUID, CBOMReadModel
     }
 
     @Override
-    public @Nonnull Collection<CBOMReadModel> getAll(int limit) {
+    public @Nonnull Collection<CBOMReadModel> getRecent(int limit) {
         final EntityManager entityManager = CBOMReadModel.getEntityManager();
         final ArcContainer container = Arc.container();
         container.requestContext().activate();
@@ -76,7 +76,10 @@ public final class CBOMReadRepository extends ReadRepository<UUID, CBOMReadModel
             final List<CBOMReadModel> match =
                     entityManager
                             .createQuery(
-                                    "SELECT DISTINCT read FROM CBOMReadModel read WHERE read.createdAt = ( SELECT MAX(r.createdAt) FROM CBOMReadModel r WHERE r.repository = read.repository) ORDER BY read.repository LIMIT :limit",
+                                    "SELECT DISTINCT read FROM CBOMReadModel read"
+                                            + " WHERE read.createdAt = ( SELECT MAX(r.createdAt) FROM CBOMReadModel r WHERE r.repository = read.repository )"
+                                            + " ORDER BY read.createdAt DESC"
+                                            + " LIMIT :limit",
                                     CBOMReadModel.class)
                             .setParameter("limit", limit)
                             .getResultList();
