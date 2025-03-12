@@ -48,6 +48,6 @@ public final class ListStoredCBOMsQueryHandler
     @Override
     public @Nonnull Collection<CBOMReadModel> handle(
             @Nonnull ListStoredCBOMsQuery listStoredCBOMsQuery) throws Exception {
-        return this.readRepository.getAll(listStoredCBOMsQuery.limit());
+        return this.readRepository.getRecent(listStoredCBOMsQuery.limit());
     }
 }

@@ -51,5 +51,5 @@ public interface ICBOMReadRepository extends IReadRepository<UUID, CBOMReadModel
     Optional<CBOMReadModel> findBy(@Nonnull String projectIdentifier);
 
     @Nonnull
-    Collection<CBOMReadModel> getAll(int limit);
+    Collection<CBOMReadModel> getRecent(int limit);
 }
