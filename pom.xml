@@ -29,7 +29,7 @@
 
     <sonar.crypto.plugin.version>1.4.5</sonar.crypto.plugin.version>
     <sonar.plugin.api.version>11.1.0.2693</sonar.plugin.api.version>
-    <sonar.plugin.api.impl.version>25.2.0.102705</sonar.plugin.api.impl.version>
+    <sonar.plugin.api.impl.version>25.3.0.104237</sonar.plugin.api.impl.version>
 
     <cyclonedx-maven-plugin.version>2.9.1</cyclonedx-maven-plugin.version>
     <surefire-plugin.version>3.5.2</surefire-plugin.version>
