@@ -57,6 +57,8 @@ public final class PythonScannerService extends ScannerService {
             throws ClientDisconnected {
         final PythonCheck visitor = new PythonDetectionCollectionRule(this);
 
+        LOGGER.info("Start scanning {} python projects", index.size());
+
         long scanTimeStart = System.currentTimeMillis();
         int counter = 1;
         int numberOfScannedLines = 0;
@@ -73,7 +75,6 @@ public final class PythonScannerService extends ScannerService {
                             ProgressMessageType.LABEL, "Scanning project " + projectStr));
 
             for (InputFile inputFile : project.inputFileList()) {
-                LOGGER.info("Scanning file: {}", inputFile.filename());
                 final PythonScannableFile pythonScannableFile = new PythonScannableFile(inputFile);
                 final FileInput parsedFile = pythonScannableFile.parse();
                 final PythonVisitorContext context =

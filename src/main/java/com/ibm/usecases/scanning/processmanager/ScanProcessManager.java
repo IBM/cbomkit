@@ -57,6 +57,7 @@ import com.ibm.usecases.scanning.services.git.CloneResultDTO;
 import com.ibm.usecases.scanning.services.git.GitService;
 import com.ibm.usecases.scanning.services.indexing.JavaIndexService;
 import com.ibm.usecases.scanning.services.indexing.ProjectModule;
+import com.ibm.usecases.scanning.services.indexing.PythonIndexService;
 import com.ibm.usecases.scanning.services.pkg.MavenPackageFinderService;
 import com.ibm.usecases.scanning.services.pkg.SetupPackageFinderService;
 import com.ibm.usecases.scanning.services.pkg.TomlPackageFinderService;
@@ -65,6 +66,7 @@ import com.ibm.usecases.scanning.services.resolve.GithubPurlResolver;
 import com.ibm.usecases.scanning.services.resolve.PurlResolver;
 import com.ibm.usecases.scanning.services.scan.ScanResultDTO;
 import com.ibm.usecases.scanning.services.scan.java.JavaScannerService;
+import com.ibm.usecases.scanning.services.scan.python.PythonScannerService;
 import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
 import java.io.File;
@@ -292,11 +294,11 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                     javaIndexService.index(scanAggregate.getPackageFolder());
             this.index.put(Language.JAVA, javaIndex);
             // python
-            //     final PythonIndexService pythonIndexService =
-            //             new PythonIndexService(this.progressDispatcher, dir);
-            //     final List<ProjectModule> pythonIndex =
-            //             pythonIndexService.index(scanAggregate.getPackageFolder());
-            //     this.index.put(Language.PYTHON, pythonIndex);
+            final PythonIndexService pythonIndexService =
+                    new PythonIndexService(this.progressDispatcher, dir);
+            final List<ProjectModule> pythonIndex =
+                    pythonIndexService.index(scanAggregate.getPackageFolder());
+            this.index.put(Language.PYTHON, pythonIndex);
             // continue with scan
             this.commandBus.send(new ScanCommand(command.id()));
         } catch (Exception e) {
@@ -372,43 +374,43 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                                 javaScanResultDTO.cbom()));
             }
 
-            //     // python
-            //     final PythonScannerService pythonScannerService =
-            //             new PythonScannerService(
-            //                     this.progressDispatcher,
-            //                     Optional.ofNullable(this.projectDirectory)
-            //                             .orElseThrow(NoProjectDirectoryProvided::new));
-            //     final ScanResultDTO pythonScanResultDTO =
-            //             pythonScannerService.scan(
-            //                     gitUrl,
-            //                     scanAggregate.getRevision(),
-            //                     commit,
-            //                     scanAggregate.getPackageFolder().orElse(null),
-            //                     Optional.ofNullable(this.index)
-            //                             .map(i -> i.get(Language.PYTHON))
-            //                             .orElseThrow(NoIndexForProject::new));
-            //     // update statistics
-            //     numberOfScannedLine += pythonScanResultDTO.numberOfScannedLine();
-            //     numberOfScannedFiles += pythonScanResultDTO.numberOfScannedFiles();
+            // python
+            final PythonScannerService pythonScannerService =
+                    new PythonScannerService(
+                            this.progressDispatcher,
+                            Optional.ofNullable(this.projectDirectory)
+                                    .orElseThrow(NoProjectDirectoryProvided::new));
+            final ScanResultDTO pythonScanResultDTO =
+                    pythonScannerService.scan(
+                            gitUrl,
+                            scanAggregate.getRevision(),
+                            commit,
+                            scanAggregate.getPackageFolder().orElse(null),
+                            Optional.ofNullable(this.index)
+                                    .map(i -> i.get(Language.PYTHON))
+                                    .orElseThrow(NoIndexForProject::new));
+            // update statistics
+            numberOfScannedLine += pythonScanResultDTO.numberOfScannedLine();
+            numberOfScannedFiles += pythonScanResultDTO.numberOfScannedFiles();
 
-            //     if (pythonScanResultDTO.cbom() != null) {
-            //         // update statistics
-            //         if (cbom != null) {
-            //             cbom.merge(pythonScanResultDTO.cbom());
-            //         } else {
-            //             cbom = pythonScanResultDTO.cbom();
-            //         }
+            if (pythonScanResultDTO.cbom() != null) {
+                // update statistics
+                if (cbom != null) {
+                    cbom.merge(pythonScanResultDTO.cbom());
+                } else {
+                    cbom = pythonScanResultDTO.cbom();
+                }
 
-            //         scanAggregate.reportScanResults(
-            //                 new LanguageScan(
-            //                         Language.PYTHON,
-            //                         new ScanMetadata(
-            //                                 pythonScanResultDTO.startTime(),
-            //                                 pythonScanResultDTO.endTime(),
-            //                                 pythonScanResultDTO.numberOfScannedLine(),
-            //                                 pythonScanResultDTO.numberOfScannedFiles()),
-            //                         pythonScanResultDTO.cbom()));
-            //     }
+                scanAggregate.reportScanResults(
+                        new LanguageScan(
+                                Language.PYTHON,
+                                new ScanMetadata(
+                                        pythonScanResultDTO.startTime(),
+                                        pythonScanResultDTO.endTime(),
+                                        pythonScanResultDTO.numberOfScannedLine(),
+                                        pythonScanResultDTO.numberOfScannedFiles()),
+                                pythonScanResultDTO.cbom()));
+            }
 
             // publish scan finished and save state
             scanAggregate.scanFinished();
@@ -435,10 +437,9 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                                     .toString()));
             this.progressDispatcher.send(
                     new ProgressMessage(ProgressMessageType.LABEL, "Finished"));
-        } catch (Exception e) {
+        } catch (Exception | NoSuchMethodError e) { // catch NoSuchMethodError: see issue #138
             this.progressDispatcher.send(
                     new ProgressMessage(ProgressMessageType.ERROR, e.getMessage()));
-            this.compensate(command.id());
             throw e;
         } finally {
             this.compensate(command.id());
