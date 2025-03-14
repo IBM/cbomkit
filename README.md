@@ -128,6 +128,10 @@ Cryptography Bills of Materials (CBOMs). This scanning capability is provided by
 
 #### Supported languages and libraries
 
+> [!WARNING]
+> Python scanning is currently unavailable due to an ongoing issue. We are actively investigating a solution. 
+> Please monitor issue [#138](https://github.com/IBM/cbomkit/issues/138) for status updates. Python project scanning has been temporarily disabled.
+
 The current scanning capabilities of the CBOMkit are defined by the Sonar Cryptography Plugin's supported languages 
 and cryptographic libraries:
 
