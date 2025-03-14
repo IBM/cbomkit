@@ -3,7 +3,7 @@ VERSION := $(shell curl -s https://api.github.com/repos/IBM/cbomkit/releases/lat
 # set engine to use for build and compose, default to docker
 ENGINE ?= docker
 # build the backend
-build-backend: dev
+build-backend:
 	./mvnw clean package
 # build the container image for the backend
 build-backend-image: build-backend
@@ -29,6 +29,10 @@ dev-frontend:
 # run the prod setup using $(ENGINE) compose
 production:
 	env CBOMKIT_VERSION=${VERSION} CBOMKIT_VIEWER=false POSTGRESQL_AUTH_USERNAME=cbomkit POSTGRESQL_AUTH_PASSWORD=cbomkit $(ENGINE)-compose --profile prod up
+edge:
+	$(ENGINE) pull ghcr.io/ibm/cbomkit:edge
+	$(ENGINE) pull ghcr.io/ibm/cbomkit-frontend:edge
+	env CBOMKIT_VERSION=edge CBOMKIT_VIEWER=false POSTGRESQL_AUTH_USERNAME=cbomkit POSTGRESQL_AUTH_PASSWORD=cbomkit $(ENGINE)-compose --profile prod up
 coeus:
 	env CBOMKIT_VERSION=${VERSION} CBOMKIT_VIEWER=true $(ENGINE)-compose --profile viewer up
 ext-compliance:
