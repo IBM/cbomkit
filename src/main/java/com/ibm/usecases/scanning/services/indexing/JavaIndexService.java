@@ -22,7 +22,7 @@ package com.ibm.usecases.scanning.services.indexing;
 import com.ibm.infrastructure.progress.IProgressDispatcher;
 import jakarta.annotation.Nonnull;
 import java.io.File;
-import java.util.Arrays;
+import java.util.List;
 
 public final class JavaIndexService extends IndexingService {
 
@@ -32,13 +32,14 @@ public final class JavaIndexService extends IndexingService {
     }
 
     @Override
-    boolean isModule(@Nonnull File[] files) {
-        return Arrays.stream(files)
-                .anyMatch(
-                        f ->
-                                f.getName().equals("pom.xml")
-                                        || f.getName().equals("build.gradle")
-                                        || f.getName().equals("build.gradle.kts"));
+    boolean isModule(@Nonnull File directory) {
+        for (String builFileName : List.of("pom.xml", "build.gradle", "build.gradle.kts")) {
+            File f = new File(directory, builFileName);
+            if (f.exists() && f.isFile()) {
+                return true;
+            }
+        }
+        return false;
     }
 
     @Override

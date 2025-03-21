@@ -22,7 +22,7 @@ package com.ibm.usecases.scanning.services.indexing;
 import com.ibm.infrastructure.progress.IProgressDispatcher;
 import jakarta.annotation.Nonnull;
 import java.io.File;
-import java.util.Arrays;
+import java.util.List;
 
 public final class PythonIndexService extends IndexingService {
 
@@ -32,13 +32,14 @@ public final class PythonIndexService extends IndexingService {
     }
 
     @Override
-    boolean isModule(@Nonnull File[] files) {
-        return Arrays.stream(files)
-                .anyMatch(
-                        f ->
-                                f.getName().equals("pyproject.toml")
-                                        || f.getName().equals("setup.cfg")
-                                        || f.getName().equals("setup.py"));
+    boolean isModule(@Nonnull File directory) {
+        for (String builFileName : List.of("pyproject.toml", "setup.cfg", "setup.py")) {
+            File f = new File(directory, builFileName);
+            if (f.exists() && f.isFile()) {
+                return true;
+            }
+        }
+        return false;
     }
 
     @Override

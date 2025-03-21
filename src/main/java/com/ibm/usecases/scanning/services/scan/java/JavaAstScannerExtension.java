@@ -36,7 +36,8 @@ import java.util.stream.StreamSupport;
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 import org.apache.commons.lang3.exception.ExceptionUtils;
-import org.jboss.logging.Logger;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.sonar.api.batch.fs.InputFile;
 import org.sonar.java.AnalysisException;
 import org.sonar.java.AnalysisProgress;
@@ -49,7 +50,7 @@ import org.sonar.java.model.VisitorsBridge;
 import org.sonar.plugins.java.api.JavaVersion;
 
 public class JavaAstScannerExtension extends JavaAstScanner {
-    private static final Logger LOG = Logger.getLogger(JavaAstScannerExtension.class);
+    private static final Logger LOG = LoggerFactory.getLogger(JavaAstScannerExtension.class);
 
     private static final String LOG_ERROR_STACKOVERFLOW =
             "A stack overflow error occurred while analyzing file: '%s'";
