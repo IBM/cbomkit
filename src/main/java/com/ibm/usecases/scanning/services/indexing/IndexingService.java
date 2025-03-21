@@ -79,9 +79,8 @@ public abstract class IndexingService {
 
     @Nonnull
     public List<ProjectModule> index(Optional<Path> packageFolder) throws ClientDisconnected {
-        if (packageFolder.isPresent()) {
-            baseDirectory = baseDirectory.toPath().resolve(packageFolder.get()).toFile();
-        }
+        packageFolder.ifPresent(
+                path -> baseDirectory = baseDirectory.toPath().resolve(path).toFile());
         this.progressDispatcher.send(
                 new ProgressMessage(ProgressMessageType.LABEL, "Indexing projects ..."));
         return detectModules(baseDirectory, new ArrayList<>());
@@ -171,12 +170,12 @@ public abstract class IndexingService {
                 contents = Files.readString(file.toPath(), cs);
                 encoding = cs;
                 break;
-            } catch (Exception e) {
-                continue;
+            } catch (Exception error) {
+                LOGGER.error("Error reading file {}: {}", file.getPath(), error.getMessage());
             }
         }
-        if (contents == null || encoding == null) {
-            throw new IOException(String.format("Invalid encoding of file {}", file));
+        if (contents == null) {
+            throw new IOException("Invalid encoding of file " + file);
         }
 
         return new TestInputFileBuilder("", file.getPath())
