@@ -48,6 +48,7 @@ public abstract class IndexingService {
     private final String languageIdentifier;
     private final String languageFileExtension;
     @Nonnull private File baseDirectory;
+    @Nullable private IBuildType mainBuildType;
 
     protected IndexingService(
             @Nonnull IProgressDispatcher progressDispatcher,
@@ -79,6 +80,9 @@ public abstract class IndexingService {
         if (isModule(projectDirectory)) {
             // Contains build files that indicates that this should be indexed as a module.
             // This module cannot be composed of more modules
+            if (this.mainBuildType == null) {
+                this.mainBuildType = this.getMainBuildTypeFromModuleDirectory(projectDirectory);
+            }
             projectModules.add(buildProjectModuleFormDirectory(projectDirectory));
         } else {
             // this directory is not a module
@@ -160,11 +164,18 @@ public abstract class IndexingService {
     }
 
     @Nonnull
+    public Optional<IBuildType> getMainBuildType() {
+        return Optional.ofNullable(mainBuildType);
+    }
+
+    @Nonnull
     protected String getProjectIdentifier(@Nonnull File directory) {
         return baseDirectory.toPath().relativize(directory.toPath()).toString();
     }
 
     abstract boolean isModule(@Nonnull File directory);
+
+    @Nullable abstract IBuildType getMainBuildTypeFromModuleDirectory(@Nonnull File directory);
 
     abstract boolean excludeFromIndexing(@Nonnull File file);
 }

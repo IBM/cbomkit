@@ -93,4 +93,5 @@ export const ErrorStatus = {
   MultiUpload: "MultiUpload",
   EmptyDatabase: "EmptyDatabase",
   FallBackLocalComplianceReport: "FallBackLocalComplianceReport",
+  ScanWarning: "ScanWarning",
 };

@@ -73,11 +73,22 @@ public final class JavaScannerService extends ScannerService {
             @Nullable Path packageFolder,
             @Nonnull List<ProjectModule> index)
             throws ClientDisconnected {
+        final File targetJarClasses = new File(this.projectDirectory, "target/classes");
+        if (!targetJarClasses.exists()) {
+            this.progressDispatcher.send(
+                    new ProgressMessage(
+                            ProgressMessageType.WARNING,
+                            "No target folder found in java project. This reduces the accuracy of the findings."));
+        }
+
         final SensorContextTester sensorContext = SensorContextTester.create(this.projectDirectory);
         sensorContext.setSettings(
                 new MapSettings()
                         .setProperty(SonarComponents.SONAR_BATCH_MODE_KEY, true)
                         .setProperty("sonar.java.libraries", this.getJavaDependencyJARSPath)
+                        .setProperty(
+                                "sonar.java.binaries",
+                                new File(this.projectDirectory, "target/classes").toString())
                         .setProperty(SonarComponents.SONAR_AUTOSCAN, false));
         final DefaultFileSystem fileSystem = sensorContext.fileSystem();
         final ClasspathForMain classpathForMain =

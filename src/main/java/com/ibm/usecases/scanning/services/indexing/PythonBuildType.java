@@ -1,6 +1,6 @@
 /*
  * CBOMkit
- * Copyright (C) 2024 IBM
+ * Copyright (C) 2025 IBM
  *
  * Licensed to the Apache Software Foundation (ASF) under one or more
  * contributor license agreements.  See the NOTICE file distributed with
@@ -17,19 +17,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.ibm.infrastructure.progress;
+package com.ibm.usecases.scanning.services.indexing;
 
-public enum ProgressMessageType {
-    LABEL,
-    DETECTION,
-    WARNING,
-    ERROR,
-    CBOM,
-    GITURL,
-    BRANCH,
-    FOLDER,
-    REVISION_HASH,
-    SCANNED_FILE_COUNT,
-    SCANNED_NUMBER_OF_LINES,
-    SCANNED_DURATION
+public enum PythonBuildType implements IBuildType {
+    TOML,
+    SETUP
 }
