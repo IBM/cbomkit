@@ -40,8 +40,13 @@ class JavaIndexServiceTest {
         final JavaIndexService javaIndexService =
                 new JavaIndexService(progressDispatcher, new File("src/test/testdata/keycloak"));
         final List<ProjectModule> projectModules = javaIndexService.index(null);
-        assertThat(projectModules).hasSize(1);
-        final ProjectModule projectModule = projectModules.getFirst();
-        assertThat(projectModule.inputFileList()).hasSize(18);
+        assertThat(projectModules).hasSize(2);
+        for (ProjectModule projectModule : projectModules) {
+            if (projectModule.identifier().equals("crypto/default")) {
+                assertThat(projectModule.inputFileList()).hasSize(13);
+            } else if (projectModule.identifier().equals("services")) {
+                assertThat(projectModule.inputFileList()).hasSize(18);
+            }
+        }
     }
 }
