@@ -33,9 +33,14 @@ public final class JavaIndexService extends IndexingService {
 
     @Override
     boolean isModule(@Nonnull File directory) {
-        for (String builFileName : List.of("pom.xml", "build.gradle", "build.gradle.kts")) {
-            File f = new File(directory, builFileName);
-            if (f.exists() && f.isFile()) {
+        if (!directory.isDirectory()) {
+            return false;
+        }
+        final File srcFolder = new File(directory, "src");
+
+        for (String buildFileName : List.of("pom.xml", "build.gradle", "build.gradle.kts")) {
+            final File file = new File(directory, buildFileName);
+            if (file.exists() && file.isFile() && srcFolder.exists()) {
                 return true;
             }
         }
@@ -44,6 +49,6 @@ public final class JavaIndexService extends IndexingService {
 
     @Override
     boolean excludeFromIndexing(@Nonnull File file) {
-        return file.getPath().contains("src/test/") || file.getName().contains("package-info");
+        return file.getPath().contains("src/test/java") || file.getName().contains("package-info");
     }
 }

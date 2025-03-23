@@ -26,10 +26,6 @@ import com.ibm.infrastructure.scanning.IScanConfiguration;
 import jakarta.annotation.Nonnull;
 import jakarta.enterprise.context.ApplicationScoped;
 import java.io.File;
-import java.io.FileFilter;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Optional;
 import org.eclipse.microprofile.config.ConfigProvider;
 
 @ApplicationScoped
@@ -51,22 +47,13 @@ public final class Configuration implements IScanConfiguration, IComplianceConfi
 
     @Nonnull
     @Override
-    public List<File> getJavaDependencyJARS() {
+    public String getJavaDependencyJARSPath() {
         return ConfigProvider.getConfig()
                 .getOptionalValue("cbomkit.scanning.java-jar-dir", String.class)
-                .flatMap(Configuration::getJarFiles)
-                .map(files -> Arrays.stream(files).toList())
+                .map(relativeDir -> new File(relativeDir).getAbsolutePath())
                 .orElseThrow(
                         () ->
                                 new IllegalStateException(
                                         "Could not load jar dependencies for java scanning")); // Error
-    }
-
-    @Nonnull
-    private static Optional<File[]> getJarFiles(@Nonnull String directoryPath) {
-        final File directory = new File(directoryPath);
-        final FileFilter jarFilter =
-                file -> file.isFile() && file.getName().toLowerCase().endsWith(".jar");
-        return Optional.ofNullable(directory.listFiles(jarFilter));
     }
 }

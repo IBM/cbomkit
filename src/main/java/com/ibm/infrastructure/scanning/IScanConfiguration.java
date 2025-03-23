@@ -20,8 +20,6 @@
 package com.ibm.infrastructure.scanning;
 
 import jakarta.annotation.Nonnull;
-import java.io.File;
-import java.util.List;
 
 public interface IScanConfiguration {
 
@@ -29,5 +27,5 @@ public interface IScanConfiguration {
     String getBaseCloneDirPath();
 
     @Nonnull
-    List<File> getJavaDependencyJARS();
+    String getJavaDependencyJARSPath();
 }

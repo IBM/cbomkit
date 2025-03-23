@@ -81,7 +81,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
     @Nonnull private final ScanId scanId;
     @Nonnull private final IProgressDispatcher progressDispatcher;
     @Nonnull private final String baseCloneDirPath;
-    @Nonnull private final List<File> javaDependencyJARS;
+    @Nonnull private final String javaDependencyJARSPath;
 
     @Nullable private File projectDirectory;
     @Nullable private Map<Language, List<ProjectModule>> index;
@@ -96,7 +96,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
         this.scanId = scanId;
         this.progressDispatcher = progressDispatcher;
         this.baseCloneDirPath = iScanConfiguration.getBaseCloneDirPath();
-        this.javaDependencyJARS = iScanConfiguration.getJavaDependencyJARS();
+        this.javaDependencyJARSPath = iScanConfiguration.getJavaDependencyJARSPath();
     }
 
     @Override
@@ -187,7 +187,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                             scanAggregate.getCommit().orElse(null));
             this.projectDirectory = cloneResultDTO.directory();
             // update aggregate
-            if (!scanAggregate.getCommit().isPresent()) {
+            if (scanAggregate.getCommit().isEmpty()) {
                 this.progressDispatcher.send(
                         new ProgressMessage(
                                 ProgressMessageType.REVISION_HASH, cloneResultDTO.commit().hash()));
@@ -291,13 +291,13 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
             final JavaIndexService javaIndexService =
                     new JavaIndexService(this.progressDispatcher, dir);
             final List<ProjectModule> javaIndex =
-                    javaIndexService.index(scanAggregate.getPackageFolder());
+                    javaIndexService.index(scanAggregate.getPackageFolder().orElse(null));
             this.index.put(Language.JAVA, javaIndex);
             // python
             final PythonIndexService pythonIndexService =
                     new PythonIndexService(this.progressDispatcher, dir);
             final List<ProjectModule> pythonIndex =
-                    pythonIndexService.index(scanAggregate.getPackageFolder());
+                    pythonIndexService.index(scanAggregate.getPackageFolder().orElse(null));
             this.index.put(Language.PYTHON, pythonIndex);
             // continue with scan
             this.commandBus.send(new ScanCommand(command.id()));
@@ -343,7 +343,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
             final JavaScannerService javaScannerService =
                     new JavaScannerService(
                             this.progressDispatcher,
-                            this.javaDependencyJARS,
+                            this.javaDependencyJARSPath,
                             Optional.ofNullable(this.projectDirectory)
                                     .orElseThrow(NoProjectDirectoryProvided::new));
             final ScanResultDTO javaScanResultDTO =
