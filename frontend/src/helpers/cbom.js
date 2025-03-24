@@ -351,7 +351,7 @@ export function getDetectionsFromCbom(cbom) {
             component.evidence.occurrences.forEach(function (
               singleContext
             ) {
-              var detectionWithSingleContext = JSON.parse(
+              let detectionWithSingleContext = JSON.parse(
                 JSON.stringify(component)
               );
               detectionWithSingleContext.evidence.occurrences = [

@@ -22,6 +22,7 @@ package com.ibm.infrastructure.progress;
 public enum ProgressMessageType {
     LABEL,
     DETECTION,
+    WARNING,
     ERROR,
     CBOM,
     GITURL,

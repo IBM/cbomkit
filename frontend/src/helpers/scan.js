@@ -136,7 +136,11 @@ function handleMessage(messageJson) {
     model.scanning.scanningStatus = STATES.ERROR;
     model.scanning.isScanning = false;
     // log
-    console.error("Error from backend:", model.scanning.scanningStatusMessage);
+    console.error("Error:", model.scanning.scanningStatusMessage);
+  } else if (obj["type"] === "WARNING") {
+    model.addError(ErrorStatus.ScanWarning, model.scanning.scanningStatusMessage = obj["message"]); //
+    // log
+    console.warn("Warning:", model.scanning.scanningStatusMessage);
   } else if (obj["type"] === "DETECTION") {
     let cryptoAssetJson = obj["message"];
     const cryptoAsset = JSON.parse(cryptoAssetJson);

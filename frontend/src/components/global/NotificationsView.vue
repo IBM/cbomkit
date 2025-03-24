@@ -71,6 +71,10 @@ export default {
         title = "Limited compliance results";
         description =
           "An error occured with the remote compliance service, we fall back on a local compliance report instead, which may be less detailed.";
+      } else if (error.status === ErrorStatus.ScanWarning) {
+        kind = "warning";
+        title = "Warning while scanning";
+        description = error.message;
       }
       return { kind: kind, title: title, description: description };
     },

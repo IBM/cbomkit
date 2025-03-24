@@ -55,6 +55,7 @@ import com.ibm.usecases.scanning.errors.NoProjectDirectoryProvided;
 import com.ibm.usecases.scanning.errors.NoPurlSpecifiedForScan;
 import com.ibm.usecases.scanning.services.git.CloneResultDTO;
 import com.ibm.usecases.scanning.services.git.GitService;
+import com.ibm.usecases.scanning.services.indexing.IBuildType;
 import com.ibm.usecases.scanning.services.indexing.JavaIndexService;
 import com.ibm.usecases.scanning.services.indexing.ProjectModule;
 import com.ibm.usecases.scanning.services.indexing.PythonIndexService;
@@ -76,15 +77,20 @@ import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 import org.apache.commons.io.FileUtils;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggregate> {
+    private static final Logger LOGGER = LoggerFactory.getLogger(ScanProcessManager.class);
+
     @Nonnull private final ScanId scanId;
     @Nonnull private final IProgressDispatcher progressDispatcher;
     @Nonnull private final String baseCloneDirPath;
-    @Nonnull private final List<File> javaDependencyJARS;
+    @Nonnull private final String javaDependencyJARSPath;
 
     @Nullable private File projectDirectory;
-    @Nullable private Map<Language, List<ProjectModule>> index;
+    @Nonnull private final Map<Language, List<ProjectModule>> index;
+    @Nonnull private final Map<Language, IBuildType> buildTypes;
 
     public ScanProcessManager(
             @Nonnull ScanId scanId,
@@ -96,7 +102,9 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
         this.scanId = scanId;
         this.progressDispatcher = progressDispatcher;
         this.baseCloneDirPath = iScanConfiguration.getBaseCloneDirPath();
-        this.javaDependencyJARS = iScanConfiguration.getJavaDependencyJARS();
+        this.javaDependencyJARSPath = iScanConfiguration.getJavaDependencyJARSPath();
+        this.index = new EnumMap<>(Language.class);
+        this.buildTypes = new EnumMap<>(Language.class);
     }
 
     @Override
@@ -152,6 +160,8 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
             this.commandBus.send(
                     new CloneGitRepositoryCommand(command.id(), command.credentials()));
         } catch (Exception e) {
+            this.progressDispatcher.send(
+                    new ProgressMessage(ProgressMessageType.ERROR, e.getMessage()));
             this.compensate(command.id());
             throw e;
         }
@@ -187,7 +197,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                             scanAggregate.getCommit().orElse(null));
             this.projectDirectory = cloneResultDTO.directory();
             // update aggregate
-            if (!scanAggregate.getCommit().isPresent()) {
+            if (scanAggregate.getCommit().isEmpty()) {
                 this.progressDispatcher.send(
                         new ProgressMessage(
                                 ProgressMessageType.REVISION_HASH, cloneResultDTO.commit().hash()));
@@ -243,11 +253,12 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
             final Optional<PackageURL> optionalPackageURL = scanAggregate.getPurl();
             if (optionalPackageURL.isPresent()) {
                 final PackageURL purl = optionalPackageURL.get();
-
                 Optional<Path> packagePath = Optional.empty();
-                if (purl.getType().equals("maven")) {
+                if (purl.getType().equals(PackageURL.StandardTypes.MAVEN)) {
+                    // java
                     packagePath = new MavenPackageFinderService(dir).findPackage(purl);
                 } else if (purl.getType().equals(PackageURL.StandardTypes.PYPI)) {
+                    // python
                     packagePath = new TomlPackageFinderService(dir).findPackage(purl);
                     if (packagePath.isEmpty()) {
                         packagePath = new SetupPackageFinderService(dir).findPackage(purl);
@@ -283,22 +294,27 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                     this.repository.read(command.id());
             final ScanAggregate scanAggregate =
                     possibleScanAggregate.orElseThrow(() -> new EntityNotFoundById(command.id()));
-            this.index = new EnumMap<>(Language.class);
-            final File dir =
+            final File projectDir =
                     Optional.ofNullable(this.projectDirectory)
                             .orElseThrow(GitCloneResultNotAvailable::new);
             // java
             final JavaIndexService javaIndexService =
-                    new JavaIndexService(this.progressDispatcher, dir);
+                    new JavaIndexService(this.progressDispatcher, projectDir);
             final List<ProjectModule> javaIndex =
-                    javaIndexService.index(scanAggregate.getPackageFolder());
+                    javaIndexService.index(scanAggregate.getPackageFolder().orElse(null));
             this.index.put(Language.JAVA, javaIndex);
+            javaIndexService
+                    .getMainBuildType()
+                    .ifPresent(buildType -> this.buildTypes.put(Language.JAVA, buildType));
             // python
             final PythonIndexService pythonIndexService =
-                    new PythonIndexService(this.progressDispatcher, dir);
+                    new PythonIndexService(this.progressDispatcher, projectDir);
             final List<ProjectModule> pythonIndex =
-                    pythonIndexService.index(scanAggregate.getPackageFolder());
+                    pythonIndexService.index(scanAggregate.getPackageFolder().orElse(null));
             this.index.put(Language.PYTHON, pythonIndex);
+            pythonIndexService
+                    .getMainBuildType()
+                    .ifPresent(buildType -> this.buildTypes.put(Language.PYTHON, buildType));
             // continue with scan
             this.commandBus.send(new ScanCommand(command.id()));
         } catch (Exception e) {
@@ -343,7 +359,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
             final JavaScannerService javaScannerService =
                     new JavaScannerService(
                             this.progressDispatcher,
-                            this.javaDependencyJARS,
+                            this.javaDependencyJARSPath,
                             Optional.ofNullable(this.projectDirectory)
                                     .orElseThrow(NoProjectDirectoryProvided::new));
             final ScanResultDTO javaScanResultDTO =
@@ -352,8 +368,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                             scanAggregate.getRevision(),
                             commit,
                             scanAggregate.getPackageFolder().orElse(null),
-                            Optional.ofNullable(this.index)
-                                    .map(i -> i.get(Language.JAVA))
+                            Optional.ofNullable(this.index.get(Language.JAVA))
                                     .orElseThrow(NoIndexForProject::new));
             // update statistics
             numberOfScannedLine = javaScanResultDTO.numberOfScannedLine();
@@ -386,8 +401,7 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
                             scanAggregate.getRevision(),
                             commit,
                             scanAggregate.getPackageFolder().orElse(null),
-                            Optional.ofNullable(this.index)
-                                    .map(i -> i.get(Language.PYTHON))
+                            Optional.ofNullable(this.index.get(Language.PYTHON))
                                     .orElseThrow(NoIndexForProject::new));
             // update statistics
             numberOfScannedLine += pythonScanResultDTO.numberOfScannedLine();
@@ -440,9 +454,8 @@ public final class ScanProcessManager extends ProcessManager<ScanId, ScanAggrega
         } catch (Exception | NoSuchMethodError e) { // catch NoSuchMethodError: see issue #138
             this.progressDispatcher.send(
                     new ProgressMessage(ProgressMessageType.ERROR, e.getMessage()));
-            throw e;
-        } finally {
             this.compensate(command.id());
+            throw e;
         }
     }
 

@@ -39,26 +39,29 @@ import org.sonar.api.batch.fs.InputFile;
 import org.sonar.api.batch.fs.internal.DefaultFileSystem;
 import org.sonar.api.batch.sensor.internal.SensorContextTester;
 import org.sonar.api.config.internal.MapSettings;
+import org.sonar.api.measures.FileLinesContext;
+import org.sonar.api.measures.FileLinesContextFactory;
+import org.sonar.java.DefaultJavaResourceLocator;
+import org.sonar.java.JavaFrontend;
 import org.sonar.java.SonarComponents;
 import org.sonar.java.classpath.ClasspathForMain;
 import org.sonar.java.classpath.ClasspathForTest;
 import org.sonar.java.model.JavaVersionImpl;
-import org.sonar.java.model.VisitorsBridge;
-import org.sonar.plugins.java.api.JavaCheck;
+import org.sonar.plugins.java.api.JavaResourceLocator;
 import org.sonar.plugins.java.api.JavaVersion;
 
 public final class JavaScannerService extends ScannerService {
     private static final JavaVersion JAVA_VERSION =
             new JavaVersionImpl(JavaVersionImpl.MAX_SUPPORTED);
 
-    @Nonnull private final List<File> getJavaDependencyJARS;
+    @Nonnull private final String getJavaDependencyJARSPath;
 
     public JavaScannerService(
             @Nonnull IProgressDispatcher progressDispatcher,
-            @Nonnull List<File> getJavaDependencyJARS,
+            @Nonnull String getJavaDependencyJARSPath,
             @Nonnull File projectDirectory) {
         super(progressDispatcher, projectDirectory);
-        this.getJavaDependencyJARS = getJavaDependencyJARS;
+        this.getJavaDependencyJARSPath = getJavaDependencyJARSPath;
     }
 
     @Override
@@ -70,11 +73,22 @@ public final class JavaScannerService extends ScannerService {
             @Nullable Path packageFolder,
             @Nonnull List<ProjectModule> index)
             throws ClientDisconnected {
-        final List<JavaCheck> visitors = List.of(new JavaDetectionCollectionRule(this));
-        final SensorContextTester sensorContext = SensorContextTester.create(projectDirectory);
+        final File targetJarClasses = new File(this.projectDirectory, "target/classes");
+        if (!targetJarClasses.exists()) {
+            this.progressDispatcher.send(
+                    new ProgressMessage(
+                            ProgressMessageType.WARNING,
+                            "No target folder found in java project. This reduces the accuracy of the findings."));
+        }
+
+        final SensorContextTester sensorContext = SensorContextTester.create(this.projectDirectory);
         sensorContext.setSettings(
                 new MapSettings()
-                        .setProperty(SonarComponents.FAIL_ON_EXCEPTION_KEY, false)
+                        .setProperty(SonarComponents.SONAR_BATCH_MODE_KEY, true)
+                        .setProperty("sonar.java.libraries", this.getJavaDependencyJARSPath)
+                        .setProperty(
+                                "sonar.java.binaries",
+                                new File(this.projectDirectory, "target/classes").toString())
                         .setProperty(SonarComponents.SONAR_AUTOSCAN, false));
         final DefaultFileSystem fileSystem = sensorContext.fileSystem();
         final ClasspathForMain classpathForMain =
@@ -82,10 +96,8 @@ public final class JavaScannerService extends ScannerService {
         final ClasspathForTest classpathForTest =
                 new ClasspathForTest(sensorContext.config(), fileSystem);
         final SonarComponents sonarComponents =
-                new SonarComponents(
-                        null, fileSystem, classpathForMain, classpathForTest, null, null);
+                getSonarComponents(fileSystem, classpathForMain, classpathForTest);
         sonarComponents.setSensorContext(sensorContext);
-
         LOGGER.info("Start scanning {} java projects", index.size());
 
         long scanTimeStart = System.currentTimeMillis();
@@ -103,14 +115,17 @@ public final class JavaScannerService extends ScannerService {
                     new ProgressMessage(
                             ProgressMessageType.LABEL, "Scanning project " + projectStr));
 
-            final JavaAstScannerExtension jscanner =
-                    new JavaAstScannerExtension(
-                            sonarComponents, this.progressDispatcher, projectStr);
-            VisitorsBridge visitorBridge =
-                    new VisitorsBridge(
-                            visitors, this.getJavaDependencyJARS, sonarComponents, JAVA_VERSION);
-            jscanner.setVisitorBridge(visitorBridge);
-            jscanner.scan(project.inputFileList());
+            final JavaResourceLocator javaResourceLocator =
+                    new DefaultJavaResourceLocator(classpathForMain, classpathForTest);
+            final JavaFrontend javaFrontend =
+                    new JavaFrontend(
+                            JAVA_VERSION,
+                            sonarComponents,
+                            null,
+                            javaResourceLocator,
+                            null,
+                            new JavaDetectionCollectionRule(this));
+            javaFrontend.scan(project.inputFileList(), List.of(), List.of());
             counter++;
         }
 
@@ -122,5 +137,38 @@ public final class JavaScannerService extends ScannerService {
                 this.receiveBom(projectDirectory, gitUrl, revision, commit, packageFolder)
                         .map(CBOM::new)
                         .orElse(null));
+    }
+
+    @Nonnull
+    private static SonarComponents getSonarComponents(
+            DefaultFileSystem fileSystem,
+            ClasspathForMain classpathForMain,
+            ClasspathForTest classpathForTest) {
+        final FileLinesContextFactory fileLinesContextFactory =
+                inputFile ->
+                        new FileLinesContext() {
+                            @Override
+                            public void setIntValue(@Nonnull String s, int i, int i1) {
+                                // nothing
+                            }
+
+                            @Override
+                            public void setStringValue(
+                                    @Nonnull String s, int i, @Nonnull String s1) {
+                                // nothing
+                            }
+
+                            @Override
+                            public void save() {
+                                // nothing
+                            }
+                        };
+        return new SonarComponents(
+                fileLinesContextFactory,
+                fileSystem,
+                classpathForMain,
+                classpathForTest,
+                null,
+                null);
     }
 }

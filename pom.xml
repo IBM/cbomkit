@@ -161,6 +161,12 @@
       <version>3.27.3</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>com.tngtech.archunit</groupId>
+      <artifactId>archunit-junit5</artifactId>
+      <version>1.4.0</version>
+      <scope>test</scope>
+    </dependency>
 
     <dependency>
       <groupId>com.google.googlejavaformat</groupId>
