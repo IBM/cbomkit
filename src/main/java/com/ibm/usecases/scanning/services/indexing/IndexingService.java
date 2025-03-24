@@ -95,6 +95,10 @@ public abstract class IndexingService {
                     this.detectModules(file, projectModules);
                 }
             }
+            // if no models where found just add all files
+            if (projectModules.isEmpty()) {
+                projectModules.add(buildProjectModuleFormDirectory(projectDirectory));
+            }
         }
     }
 

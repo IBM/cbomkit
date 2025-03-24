@@ -37,12 +37,12 @@ import org.junit.jupiter.api.Test;
 class JavaScannerServiceTest {
 
     @Test
-    void keycloakScanTest() throws ClientDisconnected {
+    void test() throws ClientDisconnected {
         final AssetableProgressDispatcher assetableProgressDispatcher =
                 new AssetableProgressDispatcher();
         final Configuration configuration = new Configuration();
 
-        final File projectDirectory = new File("src/test/testdata/keycloak");
+        final File projectDirectory = new File("src/test/testdata/java/keycloak");
         final JavaIndexService javaIndexService =
                 new JavaIndexService(assetableProgressDispatcher, projectDirectory);
         // indexing
@@ -73,98 +73,98 @@ class JavaScannerServiceTest {
         assertThat(
                         assetableProgressDispatcher.hasDetectionWithNameAt(
                                 "AES",
-                                "src/test/testdata/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/BCEcdhEsAlgorithmProvider.java",
+                                "src/test/testdata/java/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/BCEcdhEsAlgorithmProvider.java",
                                 86))
                 .isTrue();
 
         assertThat(
                         assetableProgressDispatcher.hasDetectionWithNameAt(
                                 "AES",
-                                "src/test/testdata/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/BCEcdhEsAlgorithmProvider.java",
+                                "src/test/testdata/java/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/BCEcdhEsAlgorithmProvider.java",
                                 119))
                 .isTrue();
 
         assertThat(
                         assetableProgressDispatcher.hasDetectionWithNameAt(
                                 "key",
-                                "src/test/testdata/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/BCEcdhEsAlgorithmProvider.java",
+                                "src/test/testdata/java/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/BCEcdhEsAlgorithmProvider.java",
                                 132))
                 .isTrue();
 
         assertThat(
                         assetableProgressDispatcher.hasDetectionWithNameAt(
                                 "EC",
-                                "src/test/testdata/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/BCEcdhEsAlgorithmProvider.java",
+                                "src/test/testdata/java/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/BCEcdhEsAlgorithmProvider.java",
                                 132))
                 .isTrue();
 
         assertThat(
                         assetableProgressDispatcher.hasDetectionWithNameAt(
                                 "ConcatenationKDF",
-                                "src/test/testdata/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/BCEcdhEsAlgorithmProvider.java",
+                                "src/test/testdata/java/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/BCEcdhEsAlgorithmProvider.java",
                                 157))
                 .isTrue();
 
         assertThat(
                         assetableProgressDispatcher.hasDetectionWithNameAt(
                                 "public-key",
-                                "src/test/testdata/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/BCEcdhEsAlgorithmProvider.java",
+                                "src/test/testdata/java/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/BCEcdhEsAlgorithmProvider.java",
                                 199))
                 .isTrue();
 
         assertThat(
                         assetableProgressDispatcher.hasDetectionWithNameAt(
                                 "EC",
-                                "src/test/testdata/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/BCEcdhEsAlgorithmProvider.java",
+                                "src/test/testdata/java/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/BCEcdhEsAlgorithmProvider.java",
                                 199))
                 .isTrue();
 
         assertThat(
                         assetableProgressDispatcher.hasDetectionWithNameAt(
                                 "ECDH",
-                                "src/test/testdata/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/BCEcdhEsAlgorithmProvider.java",
+                                "src/test/testdata/java/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/BCEcdhEsAlgorithmProvider.java",
                                 208))
                 .isTrue();
 
         assertThat(
                         assetableProgressDispatcher.hasDetectionWithNameAt(
                                 "public-key",
-                                "src/test/testdata/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/BCECDSACryptoProvider.java",
+                                "src/test/testdata/java/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/BCECDSACryptoProvider.java",
                                 80))
                 .isTrue();
 
         assertThat(
                         assetableProgressDispatcher.hasDetectionWithNameAt(
                                 "EC",
-                                "src/test/testdata/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/BCECDSACryptoProvider.java",
+                                "src/test/testdata/java/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/BCECDSACryptoProvider.java",
                                 80))
                 .isTrue();
 
         assertThat(
                         assetableProgressDispatcher.hasDetectionWithNameAt(
                                 "AES",
-                                "src/test/testdata/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/AesKeyWrapAlgorithmProvider.java",
+                                "src/test/testdata/java/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/AesKeyWrapAlgorithmProvider.java",
                                 38))
                 .isTrue();
 
         assertThat(
                         assetableProgressDispatcher.hasDetectionWithNameAt(
                                 "AES",
-                                "src/test/testdata/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/AesKeyWrapAlgorithmProvider.java",
+                                "src/test/testdata/java/keycloak/crypto/default/src/main/java/org/keycloak/crypto/def/AesKeyWrapAlgorithmProvider.java",
                                 45))
                 .isTrue();
 
         assertThat(
                         assetableProgressDispatcher.hasDetectionWithNameAt(
                                 "TLS",
-                                "src/test/testdata/keycloak/services/src/main/java/org/keycloak/connections/httpclient/HttpClientBuilder.java",
+                                "src/test/testdata/java/keycloak/services/src/main/java/org/keycloak/connections/httpclient/HttpClientBuilder.java",
                                 234))
                 .isTrue();
 
         assertThat(
                         assetableProgressDispatcher.hasDetectionWithNameAt(
                                 "TLS",
-                                "src/test/testdata/keycloak/services/src/main/java/org/keycloak/connections/httpclient/HttpClientBuilder.java",
+                                "src/test/testdata/java/keycloak/services/src/main/java/org/keycloak/connections/httpclient/HttpClientBuilder.java",
                                 245))
                 .isTrue();
     }

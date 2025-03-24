@@ -33,12 +33,12 @@ class JavaIndexServiceTest {
     private static final Logger LOGGER = LoggerFactory.getLogger(JavaIndexServiceTest.class);
 
     @Test
-    void keycloakIndexingTest() throws ClientDisconnected {
+    void test() throws ClientDisconnected {
         final IProgressDispatcher progressDispatcher =
                 progressMessage -> LOGGER.info(progressMessage.toString());
 
         final JavaIndexService javaIndexService =
-                new JavaIndexService(progressDispatcher, new File("src/test/testdata/keycloak"));
+                new JavaIndexService(progressDispatcher, new File("src/test/testdata/java/keycloak"));
         final List<ProjectModule> projectModules = javaIndexService.index(null);
         assertThat(projectModules).hasSize(2);
         for (ProjectModule projectModule : projectModules) {
@@ -48,5 +48,18 @@ class JavaIndexServiceTest {
                 assertThat(projectModule.inputFileList()).hasSize(18);
             }
         }
+    }
+
+    @Test
+    void plain() throws ClientDisconnected {
+        final IProgressDispatcher progressDispatcher =
+                progressMessage -> LOGGER.info(progressMessage.toString());
+
+        final JavaIndexService javaIndexService =
+                new JavaIndexService(progressDispatcher, new File("src/test/testdata/java/plain"));
+        final List<ProjectModule> projectModules = javaIndexService.index(null);
+        assertThat(projectModules).hasSize(1);
+        final ProjectModule projectModule = projectModules.getFirst();
+        assertThat(projectModule.inputFileList()).hasSize(1);
     }
 }
