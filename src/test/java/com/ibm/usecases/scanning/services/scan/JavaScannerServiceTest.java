@@ -24,6 +24,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 import com.ibm.domain.scanning.Commit;
 import com.ibm.domain.scanning.GitUrl;
 import com.ibm.domain.scanning.Revision;
+import com.ibm.infrastructure.Configuration;
 import com.ibm.infrastructure.errors.ClientDisconnected;
 import com.ibm.usecases.scanning.services.indexing.JavaIndexService;
 import com.ibm.usecases.scanning.services.indexing.ProjectModule;
@@ -39,6 +40,7 @@ class JavaScannerServiceTest {
     void keycloakScanTest() throws ClientDisconnected {
         final AssetableProgressDispatcher assetableProgressDispatcher =
                 new AssetableProgressDispatcher();
+        final Configuration configuration = new Configuration();
 
         final File projectDirectory = new File("src/test/testdata/keycloak");
         final JavaIndexService javaIndexService =
@@ -57,7 +59,7 @@ class JavaScannerServiceTest {
         final JavaScannerService javaScannerService =
                 new JavaScannerService(
                         assetableProgressDispatcher,
-                        "/Users/nko/_project/cbomkit/src/main/resources/java/scan",
+                        configuration.getJavaDependencyJARSPath(),
                         projectDirectory);
         javaScannerService.scan(
                 new GitUrl("https://github.com/keycloak/keycloak"),
