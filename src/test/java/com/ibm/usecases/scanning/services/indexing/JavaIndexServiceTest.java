@@ -38,7 +38,8 @@ class JavaIndexServiceTest {
                 progressMessage -> LOGGER.info(progressMessage.toString());
 
         final JavaIndexService javaIndexService =
-                new JavaIndexService(progressDispatcher, new File("src/test/testdata/java/keycloak"));
+                new JavaIndexService(
+                        progressDispatcher, new File("src/test/testdata/java/keycloak"));
         final List<ProjectModule> projectModules = javaIndexService.index(null);
         assertThat(projectModules).hasSize(2);
         for (ProjectModule projectModule : projectModules) {
