@@ -89,7 +89,8 @@ public final class JavaScannerService extends ScannerService {
                         .setProperty(
                                 "sonar.java.binaries",
                                 new File(this.projectDirectory, "target/classes").toString())
-                        .setProperty(SonarComponents.SONAR_AUTOSCAN, false));
+                        .setProperty(SonarComponents.SONAR_AUTOSCAN, false)
+                        .setProperty(SonarComponents.SONAR_BATCH_SIZE_KEY, 8 * 1024 * 1024));
         final DefaultFileSystem fileSystem = sensorContext.fileSystem();
         final ClasspathForMain classpathForMain =
                 new ClasspathForMain(sensorContext.config(), fileSystem);
@@ -99,6 +100,17 @@ public final class JavaScannerService extends ScannerService {
                 getSonarComponents(fileSystem, classpathForMain, classpathForTest);
         sonarComponents.setSensorContext(sensorContext);
         LOGGER.info("Start scanning {} java projects", index.size());
+
+        final JavaResourceLocator javaResourceLocator =
+                new DefaultJavaResourceLocator(classpathForMain, classpathForTest);
+        final JavaFrontend javaFrontend =
+                new JavaFrontend(
+                        JAVA_VERSION,
+                        sonarComponents,
+                        null,
+                        javaResourceLocator,
+                        null,
+                        new JavaDetectionCollectionRule(this));
 
         long scanTimeStart = System.currentTimeMillis();
         int counter = 1;
@@ -115,16 +127,6 @@ public final class JavaScannerService extends ScannerService {
                     new ProgressMessage(
                             ProgressMessageType.LABEL, "Scanning project " + projectStr));
 
-            final JavaResourceLocator javaResourceLocator =
-                    new DefaultJavaResourceLocator(classpathForMain, classpathForTest);
-            final JavaFrontend javaFrontend =
-                    new JavaFrontend(
-                            JAVA_VERSION,
-                            sonarComponents,
-                            null,
-                            javaResourceLocator,
-                            null,
-                            new JavaDetectionCollectionRule(this));
             javaFrontend.scan(project.inputFileList(), List.of(), List.of());
             counter++;
         }

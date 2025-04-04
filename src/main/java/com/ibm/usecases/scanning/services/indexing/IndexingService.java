@@ -83,7 +83,7 @@ public abstract class IndexingService {
             if (this.mainBuildType == null) {
                 this.mainBuildType = this.getMainBuildTypeFromModuleDirectory(projectDirectory);
             }
-            projectModules.add(buildProjectModuleFormDirectory(projectDirectory));
+            addProjectModuleFromDirectory(projectModules, projectDirectory);
         } else {
             // this directory is not a module
             final File[] filesInDir = projectDirectory.listFiles();
@@ -91,29 +91,32 @@ public abstract class IndexingService {
                 return;
             }
             for (File file : filesInDir) {
-                if (file.isDirectory()) {
+                if (file.isDirectory() && !file.getName().equals(".git")) {
                     this.detectModules(file, projectModules);
                 }
             }
             // if no models where found just add all files
             if (projectModules.isEmpty()) {
-                projectModules.add(buildProjectModuleFormDirectory(projectDirectory));
+                addProjectModuleFromDirectory(projectModules, projectDirectory);
             }
         }
     }
 
-    ProjectModule buildProjectModuleFormDirectory(@Nonnull File projectDirectory) {
+    void addProjectModuleFromDirectory(
+            @Nonnull List<ProjectModule> projectModules, @Nonnull File projectDirectory) {
         final String projectIdentifier = getProjectIdentifier(projectDirectory);
         final File[] filesInDirectory = projectDirectory.listFiles();
         final List<InputFile> files = new ArrayList<>();
         collectInputFiles(filesInDirectory, projectDirectory, files);
 
-        LOGGER.info(
-                "Created project module '{}' [{} {} files]",
-                projectIdentifier,
-                files.size(),
-                this.languageFileExtension);
-        return new ProjectModule(projectIdentifier, files);
+        if (!files.isEmpty()) {
+            LOGGER.info(
+                    "Created project module '{}' [{} {} files]",
+                    projectIdentifier,
+                    files.size(),
+                    this.languageFileExtension);
+            projectModules.add(new ProjectModule(projectIdentifier, files));
+        }
     }
 
     void collectInputFiles(
@@ -124,7 +127,7 @@ public abstract class IndexingService {
             return;
         }
         for (File file : fileList) {
-            if (file.isDirectory()) {
+            if (file.isDirectory() && !file.getName().equals(".git")) {
                 collectInputFiles(file.listFiles(), projectDirectory, inputFiles);
                 continue;
             }
