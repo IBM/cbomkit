@@ -107,7 +107,7 @@ public abstract class IndexingService {
         final String projectIdentifier = getProjectIdentifier(projectDirectory);
         final File[] filesInDirectory = projectDirectory.listFiles();
         final List<InputFile> files = new ArrayList<>();
-        collectInputFiles(filesInDirectory, projectDirectory, files);
+        collectInputFiles(filesInDirectory, projectDirectory, projectModules, files);
 
         if (!files.isEmpty()) {
             LOGGER.info(
@@ -122,13 +122,19 @@ public abstract class IndexingService {
     void collectInputFiles(
             @Nullable File[] fileList,
             @Nonnull File projectDirectory,
+            @Nonnull List<ProjectModule> projectModules,
             @Nonnull final List<InputFile> inputFiles) {
         if (fileList == null) {
             return;
         }
         for (File file : fileList) {
             if (file.isDirectory() && !file.getName().equals(".git")) {
-                collectInputFiles(file.listFiles(), projectDirectory, inputFiles);
+                if (isModule(file)) {
+                    addProjectModuleFromDirectory(projectModules, file);
+                } else {
+                    collectInputFiles(
+                            file.listFiles(), projectDirectory, projectModules, inputFiles);
+                }
                 continue;
             }
             // apply filter
@@ -160,10 +166,10 @@ public abstract class IndexingService {
                 LOGGER.error("Error reading file {}: {}", file.getPath(), error.getMessage());
             }
         }
-        if (contents == null) {
+        if (contents == null || encoding == null) {
             throw new IOException("Invalid encoding of file " + file);
         }
-        return new TestInputFileBuilder("", file.getPath())
+        return new TestInputFileBuilder("", projectDirectory, file)
                 .setProjectBaseDir(projectDirectory.toPath())
                 .setContents(contents)
                 .setCharset(encoding)
