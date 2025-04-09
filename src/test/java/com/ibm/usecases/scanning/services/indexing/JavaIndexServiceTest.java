@@ -28,18 +28,18 @@ import java.util.List;
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.sonar.api.batch.fs.InputFile;
+import org.sonar.api.batch.fs.internal.DefaultInputFile;
 
 class JavaIndexServiceTest {
     private static final Logger LOGGER = LoggerFactory.getLogger(JavaIndexServiceTest.class);
 
     @Test
     void test() throws ClientDisconnected {
-        final IProgressDispatcher progressDispatcher =
-                progressMessage -> LOGGER.info(progressMessage.toString());
+        final IProgressDispatcher progressDispatcher = progressMessage -> LOGGER.info(progressMessage.toString());
 
-        final JavaIndexService javaIndexService =
-                new JavaIndexService(
-                        progressDispatcher, new File("src/test/testdata/java/keycloak"));
+        final JavaIndexService javaIndexService = new JavaIndexService(
+                progressDispatcher, new File("src/test/testdata/java/keycloak"));
         final List<ProjectModule> projectModules = javaIndexService.index(null);
         assertThat(projectModules).hasSize(2);
         for (ProjectModule projectModule : projectModules) {
@@ -53,14 +53,32 @@ class JavaIndexServiceTest {
 
     @Test
     void plain() throws ClientDisconnected {
-        final IProgressDispatcher progressDispatcher =
-                progressMessage -> LOGGER.info(progressMessage.toString());
+        final IProgressDispatcher progressDispatcher = progressMessage -> LOGGER.info(progressMessage.toString());
 
-        final JavaIndexService javaIndexService =
-                new JavaIndexService(progressDispatcher, new File("src/test/testdata/java/plain"));
+        final JavaIndexService javaIndexService = new JavaIndexService(progressDispatcher,
+                new File("src/test/testdata/java/plain"));
         final List<ProjectModule> projectModules = javaIndexService.index(null);
         assertThat(projectModules).hasSize(1);
         final ProjectModule projectModule = projectModules.getFirst();
         assertThat(projectModule.inputFileList()).hasSize(1);
+    }
+
+    @Test
+    void nested() throws ClientDisconnected {
+        final IProgressDispatcher progressDispatcher =progressMessage -> LOGGER.info(progressMessage.toString());
+
+        final JavaIndexService javaIndexService = new JavaIndexService(progressDispatcher,
+                new File("src/test/testdata/java/nested"));
+        final List<ProjectModule> projectModules = javaIndexService.index(null);
+        assertThat(projectModules).hasSize(2);
+        final ProjectModule projectModule1 = projectModules.getFirst();
+        List<InputFile> inputFiles1 = projectModule1.inputFileList();
+        assertThat(inputFiles1).hasSize(1);
+        assertThat(inputFiles1.getFirst().filename()).isEqualTo("JavaCryptoInModule.java");
+
+        final ProjectModule projectModule2 = projectModules.getLast();
+        List<InputFile> inputFiles2 = projectModule2.inputFileList();
+        assertThat(inputFiles2).hasSize(1);
+        assertThat(inputFiles2.getFirst().filename()).isEqualTo("JavaCrypto.java");
     }
 }
