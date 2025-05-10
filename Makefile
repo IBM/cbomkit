@@ -30,8 +30,8 @@ dev-frontend:
 production:
 	env CBOMKIT_VERSION=${VERSION} CBOMKIT_VIEWER=false POSTGRESQL_AUTH_USERNAME=cbomkit POSTGRESQL_AUTH_PASSWORD=cbomkit $(ENGINE)-compose --profile prod up
 edge:
-	$(ENGINE) pull ghcr.io/ibm/cbomkit:edge
-	$(ENGINE) pull ghcr.io/ibm/cbomkit-frontend:edge
+	$(ENGINE) pull ghcr.io/PQCA/cbomkit:edge
+	$(ENGINE) pull ghcr.io/PQCA/cbomkit-frontend:edge
 	env CBOMKIT_VERSION=edge CBOMKIT_VIEWER=false POSTGRESQL_AUTH_USERNAME=cbomkit POSTGRESQL_AUTH_PASSWORD=cbomkit $(ENGINE)-compose --profile prod up
 coeus:
 	env CBOMKIT_VERSION=${VERSION} CBOMKIT_VIEWER=true $(ENGINE)-compose --profile viewer up
