@@ -9,7 +9,7 @@
 name: Build Backend
 
 permissions:
-  contents: read
+  contents: write
   packages: write
 
 on:
