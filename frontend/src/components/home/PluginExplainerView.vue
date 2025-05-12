@@ -29,7 +29,7 @@
       return {
         model,
         textPlugin: "CBOMkit is an open source toolset for working with Cryptography Bill of Materials. It can be used to generate CBOMs, visualise them, perform compliance checks and create a CBOM database. In particular, you can use it to scan source code by providing a link to a Git repository, then automatically detect the use of cryptography and generate a CBOM.",
-        url: "https://github.com/IBM/cbomkit",
+        url: "https://github.com/PQCA/cbomkit",
         Launch20,
         LogoGithub20
       };

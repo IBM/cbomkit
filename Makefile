@@ -1,5 +1,5 @@
 # extract cbomkit version tag from pom.xml
-VERSION := $(shell curl -s https://api.github.com/repos/IBM/cbomkit/releases/latest | grep '"tag_name":' | sed -E 's/.*"([^"]+)".*/\1/')
+VERSION := $(shell curl -s https://api.github.com/repos/PQCA/cbomkit/releases/latest | grep '"tag_name":' | sed -E 's/.*"([^"]+)".*/\1/')
 # set engine to use for build and compose, default to docker
 ENGINE ?= docker
 # build the backend

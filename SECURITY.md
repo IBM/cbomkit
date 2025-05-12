@@ -2,7 +2,7 @@
 
 You can privately report a potential security issue via the GitHub security advisory feature. This can be done here:
 
-https://github.com/IBM/cbomkit/security/advisories
+https://github.com/PQCA/cbomkit/security/advisories
 
 Please do **not** open a public issue about a potential security vulnerability.
 
