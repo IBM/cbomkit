@@ -257,7 +257,7 @@
             <licenseHeader> <!-- specify either content or file, but not both -->
               <content>/*
  * CBOMkit
- * Copyright (C) $YEAR IBM
+ * Copyright (C) $YEAR PQCA
  *
  * Licensed to the Apache Software Foundation (ASF) under one or more
  * contributor license agreements.  See the NOTICE file distributed with
