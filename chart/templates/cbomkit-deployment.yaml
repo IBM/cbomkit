@@ -77,7 +77,7 @@ spec:
               memory: 16Gi
             limits:
               cpu: 6000m
-              memory: 22Gi
+              memory: 24Gi
       dnsPolicy: ClusterFirst
       restartPolicy: Always
       securityContext: {}
