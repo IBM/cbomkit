@@ -40,7 +40,7 @@ class PythonIndexServiceTest {
         final PythonIndexService pythonIndexService =
                 new PythonIndexService(
                         progressDispatcher, new File("src/test/testdata/python/pyca"));
-        pythonIndexService.setFileExcluder(new TestFileExcluder());
+        pythonIndexService.setFileExcluder(f -> false);
         final List<ProjectModule> projectModules = pythonIndexService.index(null);
         assertThat(projectModules).hasSize(1);
         final ProjectModule projectModule = projectModules.getFirst();

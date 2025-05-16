@@ -27,7 +27,6 @@ import com.ibm.domain.scanning.Revision;
 import com.ibm.infrastructure.errors.ClientDisconnected;
 import com.ibm.usecases.scanning.services.indexing.ProjectModule;
 import com.ibm.usecases.scanning.services.indexing.PythonIndexService;
-import com.ibm.usecases.scanning.services.indexing.TestFileExcluder;
 import com.ibm.usecases.scanning.services.scan.python.PythonScannerService;
 import com.ibm.utils.AssetableProgressDispatcher;
 import java.io.File;
@@ -44,7 +43,7 @@ class PythonScannerServiceTest {
         final File projectDirectory = new File("src/test/testdata/python/pyca");
         final PythonIndexService pythonIndexService =
                 new PythonIndexService(assetableProgressDispatcher, projectDirectory);
-        pythonIndexService.setFileExcluder(new TestFileExcluder());
+        pythonIndexService.setFileExcluder(f -> false);
         final List<ProjectModule> projectModules = pythonIndexService.index(null);
         assertThat(projectModules).hasSize(1);
         final ProjectModule projectModule = projectModules.getFirst();

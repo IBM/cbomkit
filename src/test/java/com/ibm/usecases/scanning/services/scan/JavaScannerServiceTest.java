@@ -28,7 +28,6 @@ import com.ibm.infrastructure.Configuration;
 import com.ibm.infrastructure.errors.ClientDisconnected;
 import com.ibm.usecases.scanning.services.indexing.JavaIndexService;
 import com.ibm.usecases.scanning.services.indexing.ProjectModule;
-import com.ibm.usecases.scanning.services.indexing.TestFileExcluder;
 import com.ibm.usecases.scanning.services.scan.java.JavaScannerService;
 import com.ibm.utils.AssetableProgressDispatcher;
 import java.io.File;
@@ -46,7 +45,7 @@ class JavaScannerServiceTest {
         final File projectDirectory = new File("src/test/testdata/java/keycloak");
         final JavaIndexService javaIndexService =
                 new JavaIndexService(assetableProgressDispatcher, projectDirectory);
-        javaIndexService.setFileExcluder(new TestFileExcluder());
+        javaIndexService.setFileExcluder(f -> false);
         // indexing
         final List<ProjectModule> projectModules = javaIndexService.index(null);
         assertThat(projectModules).hasSize(2);

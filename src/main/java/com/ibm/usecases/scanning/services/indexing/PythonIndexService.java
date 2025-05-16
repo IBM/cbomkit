@@ -27,17 +27,11 @@ import javax.annotation.Nullable;
 
 public final class PythonIndexService extends IndexingService {
 
-    private final class DefaultPythonFileExcluder implements IFileExcluder {
-        @Override
-        public boolean excludeFromIndexing(File file) {
-            return file.getPath().contains("tests/") || file.getPath().contains("src/test/");
-        }
-    }
-
     public PythonIndexService(
             @Nonnull IProgressDispatcher progressDispatcher, @Nonnull File baseDirectory) {
         super(progressDispatcher, baseDirectory, "python", ".py");
-        setFileExcluder(new DefaultPythonFileExcluder());
+        this.excludeFromIndexing =
+                f -> f.getPath().contains("tests/") || f.getPath().contains("src/test/");
     }
 
     @Override
