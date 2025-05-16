@@ -69,6 +69,6 @@ public final class JavaIndexService extends IndexingService {
 
     @Override
     boolean excludeFromIndexing(@Nonnull File file) {
-        return file.getPath().contains("src/test/java") || file.getName().contains("package-info");
+        return file.getPath().contains("src/test/") || file.getName().contains("package-info");
     }
 }

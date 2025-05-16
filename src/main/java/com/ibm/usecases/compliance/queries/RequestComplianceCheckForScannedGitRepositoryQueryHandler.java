@@ -23,8 +23,6 @@ import app.bootstrap.core.cqrs.IQueryBus;
 import app.bootstrap.core.cqrs.QueryHandler;
 import com.ibm.domain.compliance.CryptographicAsset;
 import com.ibm.domain.compliance.PolicyIdentifier;
-import com.ibm.domain.scanning.Commit;
-import com.ibm.domain.scanning.GitUrl;
 import com.ibm.infrastructure.compliance.ComplianceFinding;
 import com.ibm.infrastructure.compliance.ComplianceResult;
 import com.ibm.infrastructure.compliance.IComplianceConfiguration;
@@ -37,7 +35,6 @@ import jakarta.annotation.Nonnull;
 import jakarta.enterprise.event.Observes;
 import jakarta.inject.Singleton;
 import java.util.Collection;
-import java.util.Optional;
 
 @Singleton
 public final class RequestComplianceCheckForScannedGitRepositoryQueryHandler
@@ -69,11 +66,7 @@ public final class RequestComplianceCheckForScannedGitRepositoryQueryHandler
         final Collection<CryptographicAsset> cryptographicAssets =
                 compliancePreparationService.receiveCryptographicAssets(
                         this.readRepository,
-                        new GitUrl(requestComplianceCheckForScannedGitRepositoryQuery.gitUrl()),
-                        Optional.ofNullable(
-                                        requestComplianceCheckForScannedGitRepositoryQuery.commit())
-                                .map(Commit::new)
-                                .orElse(null));
+                        requestComplianceCheckForScannedGitRepositoryQuery.projectIdentifier());
 
         final PolicyIdentifier policyIdentifier =
                 new PolicyIdentifier(
