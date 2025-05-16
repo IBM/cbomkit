@@ -5,8 +5,8 @@
   <artifactId>cbomkit</artifactId>
   <version>2.0.0-SNAPSHOT</version>
   <organization>
-    <name>IBM</name>
-    <url>https://www.ibm.com</url>
+    <name>PQCA</name>
+    <url>https://github.com/PQCA</url>
   </organization>
   <licenses>
     <license>
@@ -33,7 +33,7 @@
 
     <cyclonedx-maven-plugin.version>2.9.1</cyclonedx-maven-plugin.version>
     <surefire-plugin.version>3.5.3</surefire-plugin.version>
-    <google-java-format.version>1.26.0</google-java-format.version>
+    <google-java-format.version>1.27.0</google-java-format.version>
   </properties>
 
   <repositories>
@@ -164,7 +164,7 @@
     <dependency>
       <groupId>com.tngtech.archunit</groupId>
       <artifactId>archunit-junit5</artifactId>
-      <version>1.4.0</version>
+      <version>1.4.1</version>
       <scope>test</scope>
     </dependency>
 
@@ -257,7 +257,7 @@
             <licenseHeader> <!-- specify either content or file, but not both -->
               <content>/*
  * CBOMkit
- * Copyright (C) $YEAR IBM
+ * Copyright (C) $YEAR PQCA
  *
  * Licensed to the Apache Software Foundation (ASF) under one or more
  * contributor license agreements.  See the NOTICE file distributed with

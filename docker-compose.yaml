@@ -16,7 +16,7 @@
 # Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 services:
   backend:
-    image: ghcr.io/PQCA/cbomkit:${CBOMKIT_VERSION}
+    image: ghcr.io/pqca/cbomkit:${CBOMKIT_VERSION}
     environment:
       CBOMKIT_DB_TYPE: postgresql
       CBOMKIT_DB_JDBC_URL: jdbc:postgresql://db:5432/postgres
@@ -40,7 +40,7 @@ services:
       - ext-compliance
       - dev-frontend
   frontend:
-    image: ghcr.io/PQCA/cbomkit-frontend:${CBOMKIT_VERSION}
+    image: ghcr.io/pqca/cbomkit-frontend:${CBOMKIT_VERSION}
     environment:
       VUE_APP_HTTP_API_BASE: "http://localhost:8081"
       VUE_APP_WS_API_BASE: "ws://localhost:8081"
