@@ -49,6 +49,7 @@ public abstract class IndexingService {
     private final String languageFileExtension;
     @Nonnull private File baseDirectory;
     @Nullable private IBuildType mainBuildType;
+    @Nonnull IFileExcluder fileExcluder;
 
     protected IndexingService(
             @Nonnull IProgressDispatcher progressDispatcher,
@@ -59,6 +60,10 @@ public abstract class IndexingService {
         this.baseDirectory = baseDirectory;
         this.languageIdentifier = languageIdentifier;
         this.languageFileExtension = languageFileExtension;
+    }
+
+    public void setFileExcluder(IFileExcluder excluder) {
+        this.fileExcluder = excluder;
     }
 
     @Nonnull
@@ -138,7 +143,7 @@ public abstract class IndexingService {
                 continue;
             }
             // apply filter
-            if (!this.excludeFromIndexing(file)
+            if (!this.fileExcluder.excludeFromIndexing(file)
                     && file.getName().endsWith(this.languageFileExtension)) {
                 try {
                     final TestInputFileBuilder builder =
@@ -189,6 +194,4 @@ public abstract class IndexingService {
     abstract boolean isModule(@Nonnull File directory);
 
     @Nullable abstract IBuildType getMainBuildTypeFromModuleDirectory(@Nonnull File directory);
-
-    abstract boolean excludeFromIndexing(@Nonnull File file);
 }

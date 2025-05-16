@@ -27,9 +27,17 @@ import javax.annotation.Nullable;
 
 public final class JavaIndexService extends IndexingService {
 
+    private final class JavaFileExcluder implements IFileExcluder {
+        @Override
+        public boolean excludeFromIndexing(File file) {
+            return file.getPath().contains("src/test/") || file.getName().contains("package-info");
+        }
+    }
+
     public JavaIndexService(
             @Nonnull IProgressDispatcher progressDispatcher, @Nonnull File baseDirectory) {
         super(progressDispatcher, baseDirectory, "java", ".java");
+        this.setFileExcluder(new JavaFileExcluder());
     }
 
     @Override
@@ -65,10 +73,5 @@ public final class JavaIndexService extends IndexingService {
             }
         }
         return null;
-    }
-
-    @Override
-    boolean excludeFromIndexing(@Nonnull File file) {
-        return file.getPath().contains("src/test/") || file.getName().contains("package-info");
     }
 }

@@ -32,6 +32,7 @@ import org.sonar.api.batch.fs.InputFile;
 
 class JavaIndexServiceTest {
     private static final Logger LOGGER = LoggerFactory.getLogger(JavaIndexServiceTest.class);
+    private final IFileExcluder testFileExcluder = new TestFileExcluder();
 
     @Test
     void test() throws ClientDisconnected {
@@ -41,6 +42,7 @@ class JavaIndexServiceTest {
         final JavaIndexService javaIndexService =
                 new JavaIndexService(
                         progressDispatcher, new File("src/test/testdata/java/keycloak"));
+        javaIndexService.setFileExcluder(testFileExcluder);
         final List<ProjectModule> projectModules = javaIndexService.index(null);
         assertThat(projectModules).hasSize(2);
         for (ProjectModule projectModule : projectModules) {
@@ -59,6 +61,7 @@ class JavaIndexServiceTest {
 
         final JavaIndexService javaIndexService =
                 new JavaIndexService(progressDispatcher, new File("src/test/testdata/java/plain"));
+        javaIndexService.setFileExcluder(testFileExcluder);
         final List<ProjectModule> projectModules = javaIndexService.index(null);
         assertThat(projectModules).hasSize(1);
         final ProjectModule projectModule = projectModules.getFirst();
@@ -72,6 +75,7 @@ class JavaIndexServiceTest {
 
         final JavaIndexService javaIndexService =
                 new JavaIndexService(progressDispatcher, new File("src/test/testdata/java/nested"));
+        javaIndexService.setFileExcluder(testFileExcluder);
         final List<ProjectModule> projectModules = javaIndexService.index(null);
         assertThat(projectModules).hasSize(2);
         final ProjectModule projectModule1 = projectModules.getFirst();
