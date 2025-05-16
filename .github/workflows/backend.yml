@@ -8,6 +8,10 @@
 
 name: Build Backend
 
+permissions:
+  contents: write
+  packages: write
+
 on:
   push:
     branches: [ "main" ]
@@ -19,7 +23,7 @@ on:
 
 env:
   REGISTRY: "ghcr.io"
-  ORG: "IBM"
+  ORG: "PQCA"
   IMAGE_NAME: "cbomkit"
 
 jobs:
@@ -67,6 +71,17 @@ jobs:
         run: mvn clean package
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create CBOM
+        uses: PQCA/cbomkit-action@v2.0.0
+        id: cbom
+          # Allow you to persist CBOM after a job has completed, and share 
+          # that CBOM with another job in the same workflow.
+      - name: Commit changes to new branch
+        uses: actions/upload-artifact@v4
+        with:
+          name: "CBOM"
+          path: ${{ steps.cbom.outputs.pattern }}
+          if-no-files-found: warn
       - name: Extract metadata (tags, labels) for Docker
         id: meta
         uses: docker/metadata-action@v5

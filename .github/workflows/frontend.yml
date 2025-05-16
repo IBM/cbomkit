@@ -8,6 +8,10 @@
 
 name: Build Frontend
 
+permissions:
+  contents: read
+  packages: write
+
 on:
   push:
     branches: [ "main" ]
@@ -19,7 +23,7 @@ on:
 
 env:
   REGISTRY: "ghcr.io"
-  ORG: "IBM"
+  ORG: "PQCA"
   IMAGE_NAME: "cbomkit-frontend"
 
 jobs:
