@@ -120,6 +120,10 @@ Different deployment configurations utilize distinct sources for compliance veri
 | `production`     | In the standard deployment, a core compliance service is integrated into the backend service. This implementation enables the execution of compliance checks via the RESTful API, providing a scalable and centralized approach to cryptographic policy verification.                                                                                                                                                                |
 | `ext-compliance` | In advanced deployment scenarios, compliance evaluation is delegated to a dedicated external service. This service can invoked by the API server as needed. This configuration maintains the standard user experience for both the frontend and API of the CBOMkit, mirroring the functionality of the `production` configuration while allowing for more sophisticated or specialized compliance checks to be performed externally. |
 
+### Handling of Credentials
+
+When a new scan of a github reopsitory is initiated CBOMKit creates a temporary local clone of the repository. The frontend allows the specification of github credentials (username, password or github personal access token). We do not log or store any of this information, it is passed on as is to JGit for cloning the repo. Once the scan terminates (successfully or with an error). the local clone is deleted.
+
 ### Scanning and CBOM Generation
 
 The CBOMkit leverages advanced scanning technology to identify cryptographic usage within source code and generate 
@@ -142,6 +146,18 @@ and cryptographic libraries:
 While the CBOMkit's scanning capabilities are currently bound to the Sonar Cryptography Plugin, the modular 
 design of this plugin allows for potential expansion to support additional languages and cryptographic libraries in 
 future updates.
+
+### RESTful API
+
+The CBOMKit API server provides a RESTful API with the following endpoints:
+
+- `/api` (GET): Returns a simple health message.
+- `/api/v1/cbom/last/{limit}` (GET): Returns the most recently gnerated CBOMs. The number of CBOMs to retrieve can by specified via the optional 'limit' parameter. The default value is 5.
+- `/api/v1/cbom/{projectIdentifier}` (GET): Returns the CBOM associated to the given purl. CBOMKit stores scan results using unique project identifiers. A project identifier is a package url (purl) that is generated when the scan is started.
+- `/api/v1/compliance/check` (GET): Returns a compliance check result for a stored CBOM, identified by project identifier, against a given policy.
+- `/api/v1/compliance/check` (POST): Returns compliance check result for a given CBOM object against a given policy.
+
+If the API server is started in dev mode it provides a swagger UI via the endpoint `/q/openapi`.
 
 ## Contribution Guidelines
 

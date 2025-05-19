@@ -55,21 +55,20 @@ public class ComplianceResource {
                     "Returns the JSON sent by the Regulator API, containing various information about the compliance of the CBOM for a set policy.")
     public Response checkStored(
             @Nullable @RestQuery("policyIdentifier") String policyIdentifier,
-            @Nullable @RestQuery("gitUrl") String gitUrl,
-            @Nullable @RestQuery("commit") String commit)
+            @Nullable @RestQuery("projectIdentifier") String projectIdentifier)
             throws ExecutionException, InterruptedException {
         if (policyIdentifier == null) {
             return Response.status(Response.Status.BAD_REQUEST).build();
         }
 
-        if (gitUrl == null) {
+        if (projectIdentifier == null) {
             return Response.status(Response.Status.BAD_REQUEST).build();
         }
 
         return this.queryBus
                 .send(
                         new RequestComplianceCheckForScannedGitRepositoryQuery(
-                                policyIdentifier, gitUrl, commit))
+                                policyIdentifier, projectIdentifier))
                 .thenApply(res -> Response.ok(res).build())
                 .get();
     }
