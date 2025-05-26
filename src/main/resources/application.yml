@@ -22,7 +22,7 @@ quarkus:
   smallrye-openapi:
     info-title: CBOMkit API
     info-description: Service for generating and retrieving CBOMs
-
+    store-schema-directory: "./"
 cbomkit:
   clone-dir: ${CBOMKIT_CLONEDIR} # specifies the directory in which the cloned Git repositories are stored (temporary)
   scanning:

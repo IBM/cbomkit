@@ -122,7 +122,13 @@ Different deployment configurations utilize distinct sources for compliance veri
 
 ### Handling of Credentials
 
-When a new scan of a github reopsitory is initiated CBOMKit creates a temporary local clone of the repository. The frontend allows the specification of github credentials (username, password or github personal access token). We do not log or store any of this information, it is passed on as is to JGit for cloning the repo. Once the scan terminates (successfully or with an error). the local clone is deleted.
+When a new scan of a GitHub repository is started, CBOMkit generates a temporary local clone
+of the repository. The frontend enables users to provide GitHub credentials 
+(either a username and password or a personal access token). These credentials are not
+logged or stored; instead, they are directly forwarded 
+to [JGit](https://github.com/eclipse-jgit/jgit) to facilitate the cloning process. 
+After the scan completes - regardless of whether it succeeds or fails - the temporary 
+local clone is deleted.
 
 ### Scanning and CBOM Generation
 
@@ -149,15 +155,12 @@ future updates.
 
 ### RESTful API
 
-The CBOMKit API server provides a RESTful API with the following endpoints:
+The CBOMKit API server exposes a RESTful API, with all available endpoints detailed 
+in the OpenAPI specification file (`openapi.yaml`). 
 
-- `/api` (GET): Returns a simple health message.
-- `/api/v1/cbom/last/{limit}` (GET): Returns the most recently gnerated CBOMs. The number of CBOMs to retrieve can by specified via the optional 'limit' parameter. The default value is 5.
-- `/api/v1/cbom/{projectIdentifier}` (GET): Returns the CBOM associated to the given purl. CBOMKit stores scan results using unique project identifiers. A project identifier is a package url (purl) that is generated when the scan is started.
-- `/api/v1/compliance/check` (GET): Returns a compliance check result for a stored CBOM, identified by project identifier, against a given policy.
-- `/api/v1/compliance/check` (POST): Returns compliance check result for a given CBOM object against a given policy.
-
-If the API server is started in dev mode it provides a swagger UI via the endpoint `/q/openapi`.
+When the server is launched in development mode, it also provides a Swagger UI 
+interface accessible at the `/q/openapi` endpoint, allowing users to interactively 
+explore and test the API.
 
 ## Contribution Guidelines
 

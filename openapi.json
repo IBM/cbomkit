@@ -1,0 +1,130 @@
+{
+  "openapi" : "3.1.0",
+  "paths" : {
+    "/api" : {
+      "get" : {
+        "summary" : "Health test",
+        "description" : "Health test endpoint",
+        "responses" : {
+          "200" : {
+            "description" : "OK",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "examples" : [ {
+                    "status" : "ok"
+                  } ]
+                }
+              }
+            }
+          }
+        },
+        "tags" : [ "Status" ]
+      }
+    },
+    "/api/v1/cbom/last/{limit}" : {
+      "get" : {
+        "summary" : "Return recently generated CBOMs from the repository",
+        "description" : "Returns a list of the most recently generated CBOMs. The length of the list can by specified via the optional 'limit' parameter.",
+        "parameters" : [ {
+          "name" : "limit",
+          "in" : "path",
+          "required" : true,
+          "schema" : {
+            "type" : "integer",
+            "format" : "int32"
+          }
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "OK"
+          }
+        },
+        "tags" : [ "CBOM Resource" ]
+      }
+    },
+    "/api/v1/cbom/{projectIdentifier}" : {
+      "get" : {
+        "parameters" : [ {
+          "name" : "projectIdentifier",
+          "in" : "path",
+          "required" : true,
+          "schema" : {
+            "type" : "string"
+          }
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "OK"
+          }
+        },
+        "summary" : "Get CBOM",
+        "tags" : [ "CBOM Resource" ]
+      }
+    },
+    "/api/v1/compliance/check" : {
+      "get" : {
+        "summary" : "Verify the compliance of a stored CBOM identified by it's PURL against a policy",
+        "description" : "Returns the JSON sent by the Regulator API, containing various information about the compliance of the CBOM for a set policy.",
+        "parameters" : [ {
+          "name" : "policyIdentifier",
+          "in" : "query",
+          "schema" : {
+            "type" : "string"
+          }
+        }, {
+          "name" : "projectIdentifier",
+          "in" : "query",
+          "schema" : {
+            "type" : "string"
+          }
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "OK"
+          }
+        },
+        "tags" : [ "Compliance Resource" ]
+      },
+      "post" : {
+        "summary" : "Verify the compliance of a provided CBOM against a policy",
+        "description" : "Returns the JSON sent by the Regulator API, containing various information about the compliance of the CBOM for a set policy.",
+        "parameters" : [ {
+          "name" : "policyIdentifier",
+          "in" : "query",
+          "schema" : {
+            "type" : "string"
+          }
+        } ],
+        "requestBody" : {
+          "content" : {
+            "application/json" : {
+              "schema" : {
+                "type" : "string"
+              }
+            }
+          },
+          "required" : true
+        },
+        "responses" : {
+          "200" : {
+            "description" : "OK"
+          }
+        },
+        "tags" : [ "Compliance Resource" ]
+      }
+    }
+  },
+  "info" : {
+    "title" : "CBOMkit API",
+    "version" : "2.0.0-SNAPSHOT",
+    "description" : "Service for generating and retrieving CBOMs"
+  },
+  "servers" : [ {
+    "url" : "http://localhost:8081",
+    "description" : "Auto generated value"
+  }, {
+    "url" : "http://0.0.0.0:8081",
+    "description" : "Auto generated value"
+  } ]
+}
