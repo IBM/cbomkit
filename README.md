@@ -153,15 +153,6 @@ While the CBOMkit's scanning capabilities are currently bound to the Sonar Crypt
 design of this plugin allows for potential expansion to support additional languages and cryptographic libraries in 
 future updates.
 
-### RESTful API
-
-The CBOMKit API server exposes a RESTful API, with all available endpoints detailed 
-in the OpenAPI specification file (`openapi.yaml`). 
-
-When the server is launched in development mode, it also provides a Swagger UI 
-interface accessible at the `/q/openapi` endpoint, allowing users to interactively 
-explore and test the API.
-
 ## Contribution Guidelines
 
 If you'd like to contribute to CBOMkit, please take a look at our
