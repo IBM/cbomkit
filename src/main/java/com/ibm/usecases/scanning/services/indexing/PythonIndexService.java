@@ -30,6 +30,8 @@ public final class PythonIndexService extends IndexingService {
     public PythonIndexService(
             @Nonnull IProgressDispatcher progressDispatcher, @Nonnull File baseDirectory) {
         super(progressDispatcher, baseDirectory, "python", ".py");
+        this.excludeFromIndexing =
+                f -> f.getPath().contains("tests/") || f.getPath().contains("src/test/");
     }
 
     @Override
@@ -61,10 +63,5 @@ public final class PythonIndexService extends IndexingService {
             }
         }
         return null;
-    }
-
-    @Override
-    boolean excludeFromIndexing(@Nonnull File file) {
-        return file.getPath().contains("tests/");
     }
 }

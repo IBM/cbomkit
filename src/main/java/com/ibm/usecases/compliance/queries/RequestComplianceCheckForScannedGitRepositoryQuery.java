@@ -22,8 +22,7 @@ package com.ibm.usecases.compliance.queries;
 import app.bootstrap.core.cqrs.IQuery;
 import com.ibm.infrastructure.compliance.ComplianceResult;
 import jakarta.annotation.Nonnull;
-import jakarta.annotation.Nullable;
 
 public record RequestComplianceCheckForScannedGitRepositoryQuery(
-        @Nonnull String policyIdentifier, @Nonnull String gitUrl, @Nullable String commit)
+        @Nonnull String policyIdentifier, @Nonnull String projectIdentifier)
         implements IQuery<ComplianceResult> {}

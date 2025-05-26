@@ -21,16 +21,12 @@ package com.ibm.usecases.compliance.service;
 
 import com.ibm.domain.compliance.CryptographicAsset;
 import com.ibm.domain.scanning.CBOM;
-import com.ibm.domain.scanning.Commit;
-import com.ibm.domain.scanning.GitUrl;
 import com.ibm.domain.scanning.errors.CBOMSerializationFailed;
-import com.ibm.domain.scanning.errors.InvalidScanUrl;
 import com.ibm.infrastructure.database.readmodels.CBOMReadModel;
 import com.ibm.infrastructure.database.readmodels.ICBOMReadRepository;
 import com.ibm.usecases.compliance.errors.CouldNotFindCBOMForGitRepository;
 import com.ibm.usecases.compliance.errors.ErrorWhileParsingStringToCBOM;
 import jakarta.annotation.Nonnull;
-import jakarta.annotation.Nullable;
 import java.nio.charset.StandardCharsets;
 import java.util.Collection;
 import org.cyclonedx.exception.ParseException;
@@ -41,17 +37,12 @@ import org.cyclonedx.parsers.Parser;
 public final class CompliancePreparationService {
 
     public Collection<CryptographicAsset> receiveCryptographicAssets(
-            @Nonnull ICBOMReadRepository readRepository,
-            @Nonnull GitUrl gitUrl,
-            @Nullable Commit commit)
-            throws CBOMSerializationFailed, CouldNotFindCBOMForGitRepository, InvalidScanUrl {
-        // validate
-        gitUrl.validate();
-
+            @Nonnull ICBOMReadRepository readRepository, @Nonnull String projectIdentifier)
+            throws CBOMSerializationFailed, CouldNotFindCBOMForGitRepository {
         final CBOMReadModel cbomReadModel =
                 readRepository
-                        .findBy(gitUrl, commit, null)
-                        .orElseThrow(() -> new CouldNotFindCBOMForGitRepository(gitUrl.value()));
+                        .findBy(projectIdentifier)
+                        .orElseThrow(() -> new CouldNotFindCBOMForGitRepository(projectIdentifier));
 
         final CBOM cbom = CBOM.formJSON(cbomReadModel.getBom());
         return cbom.cycloneDXbom().getComponents().stream()

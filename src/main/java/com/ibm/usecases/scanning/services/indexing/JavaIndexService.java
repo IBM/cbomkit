@@ -30,6 +30,8 @@ public final class JavaIndexService extends IndexingService {
     public JavaIndexService(
             @Nonnull IProgressDispatcher progressDispatcher, @Nonnull File baseDirectory) {
         super(progressDispatcher, baseDirectory, "java", ".java");
+        this.excludeFromIndexing =
+                f -> f.getPath().contains("src/test/") || f.getName().contains("package-info");
     }
 
     @Override
@@ -65,10 +67,5 @@ public final class JavaIndexService extends IndexingService {
             }
         }
         return null;
-    }
-
-    @Override
-    boolean excludeFromIndexing(@Nonnull File file) {
-        return file.getPath().contains("src/test/java") || file.getName().contains("package-info");
     }
 }

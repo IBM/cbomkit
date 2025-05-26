@@ -45,6 +45,7 @@ class JavaScannerServiceTest {
         final File projectDirectory = new File("src/test/testdata/java/keycloak");
         final JavaIndexService javaIndexService =
                 new JavaIndexService(assetableProgressDispatcher, projectDirectory);
+        javaIndexService.setFileExcluder(f -> false);
         // indexing
         final List<ProjectModule> projectModules = javaIndexService.index(null);
         assertThat(projectModules).hasSize(2);

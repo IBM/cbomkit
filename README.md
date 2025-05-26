@@ -120,6 +120,16 @@ Different deployment configurations utilize distinct sources for compliance veri
 | `production`     | In the standard deployment, a core compliance service is integrated into the backend service. This implementation enables the execution of compliance checks via the RESTful API, providing a scalable and centralized approach to cryptographic policy verification.                                                                                                                                                                |
 | `ext-compliance` | In advanced deployment scenarios, compliance evaluation is delegated to a dedicated external service. This service can invoked by the API server as needed. This configuration maintains the standard user experience for both the frontend and API of the CBOMkit, mirroring the functionality of the `production` configuration while allowing for more sophisticated or specialized compliance checks to be performed externally. |
 
+### Handling of Credentials
+
+When a new scan of a GitHub repository is started, CBOMkit generates a temporary local clone
+of the repository. The frontend enables users to provide GitHub credentials 
+(either a username and password or a personal access token). These credentials are not
+logged or stored; instead, they are directly forwarded 
+to [JGit](https://github.com/eclipse-jgit/jgit) to facilitate the cloning process. 
+After the scan completes - regardless of whether it succeeds or fails - the temporary 
+local clone is deleted.
+
 ### Scanning and CBOM Generation
 
 The CBOMkit leverages advanced scanning technology to identify cryptographic usage within source code and generate 
@@ -142,6 +152,15 @@ and cryptographic libraries:
 While the CBOMkit's scanning capabilities are currently bound to the Sonar Cryptography Plugin, the modular 
 design of this plugin allows for potential expansion to support additional languages and cryptographic libraries in 
 future updates.
+
+### RESTful API
+
+The CBOMKit API server exposes a RESTful API, with all available endpoints detailed 
+in the OpenAPI specification file (`openapi.yaml`). 
+
+When the server is launched in development mode, it also provides a Swagger UI 
+interface accessible at the `/q/openapi` endpoint, allowing users to interactively 
+explore and test the API.
 
 ## Contribution Guidelines
 

@@ -36,6 +36,7 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
+import java.util.function.Function;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.sonar.api.batch.fs.InputFile;
@@ -50,6 +51,8 @@ public abstract class IndexingService {
     @Nonnull private File baseDirectory;
     @Nullable private IBuildType mainBuildType;
 
+    protected Function<File, Boolean> excludeFromIndexing = f -> false;
+
     protected IndexingService(
             @Nonnull IProgressDispatcher progressDispatcher,
             @Nonnull File baseDirectory,
@@ -59,6 +62,10 @@ public abstract class IndexingService {
         this.baseDirectory = baseDirectory;
         this.languageIdentifier = languageIdentifier;
         this.languageFileExtension = languageFileExtension;
+    }
+
+    public void setFileExcluder(Function<File, Boolean> excludeFromIndexing) {
+        this.excludeFromIndexing = excludeFromIndexing;
     }
 
     @Nonnull
@@ -138,7 +145,7 @@ public abstract class IndexingService {
                 continue;
             }
             // apply filter
-            if (!this.excludeFromIndexing(file)
+            if (!this.excludeFromIndexing.apply(file)
                     && file.getName().endsWith(this.languageFileExtension)) {
                 try {
                     final TestInputFileBuilder builder =
@@ -189,6 +196,4 @@ public abstract class IndexingService {
     abstract boolean isModule(@Nonnull File directory);
 
     @Nullable abstract IBuildType getMainBuildTypeFromModuleDirectory(@Nonnull File directory);
-
-    abstract boolean excludeFromIndexing(@Nonnull File file);
 }
