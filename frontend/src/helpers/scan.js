@@ -1,8 +1,14 @@
 import { model, ErrorStatus } from "@/model.js";
 import { setCbom } from "@/helpers.js";
 import uuid4 from "uuid4";
-import { STATES } from "@carbon/vue/src/components/cv-inline-loading";
 import { API_SCAN_URL } from "@/app.config";
+
+export const STATES = {
+  LOADED: 'loaded',
+  ERROR: 'error',
+  LOADING: 'loading',
+  ENDING: 'ending',
+};
 
 // This var is set to true when the client closes the socket. It is reinitialized to false when a new socket is created.
 var socketWasManuallyClosed = false;
