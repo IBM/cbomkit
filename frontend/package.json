@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@carbon/charts-vue": "^1.23.7",
-    "@carbon/ibmdotcom-web-components": "^2.10.0",
+    "@carbon/ibmdotcom-web-components": "^2.25.0",
     "@carbon/icons-vue": "^10.71.1",
     "@carbon/type": "^11.20.1",
     "@carbon/vue": "^3.0.25",
