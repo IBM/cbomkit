@@ -153,6 +153,10 @@ While the CBOMkit's scanning capabilities are currently bound to the Sonar Crypt
 design of this plugin allows for potential expansion to support additional languages and cryptographic libraries in 
 future updates.
 
+## Disclaimer
+
+The CBOMkit service does not build any repository prior to scanning. For Java repositories in particular, this means that we cannot rely on any build results (class files, jars) that could improve the scanning result. This potentially reduces completeness and accuracy of the findings since some Java symbols may not be resolved. For better results, use [CBOMkit-action](https://github.com/PQCA/cbomkit-action) embedded in a pipeline definition that builds the code before scanning.
+
 ## Contribution Guidelines
 
 If you'd like to contribute to CBOMkit, please take a look at our
