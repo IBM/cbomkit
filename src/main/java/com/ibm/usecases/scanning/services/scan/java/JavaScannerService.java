@@ -75,10 +75,8 @@ public final class JavaScannerService extends ScannerService {
             throws ClientDisconnected {
         final File targetJarClasses = new File(this.projectDirectory, "target/classes");
         if (!targetJarClasses.exists()) {
-            this.progressDispatcher.send(
-                    new ProgressMessage(
-                            ProgressMessageType.WARNING,
-                            "No target folder found in java project. This reduces the accuracy of the findings."));
+            LOGGER.warn(
+                    "Scanning java source files only. This may reduce the accuracy of the findings.");
         }
 
         final SensorContextTester sensorContext = SensorContextTester.create(this.projectDirectory);
