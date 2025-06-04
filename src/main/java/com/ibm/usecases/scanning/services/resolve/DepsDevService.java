@@ -49,7 +49,8 @@ public class DepsDevService implements PurlResolver {
         @Nullable @Override
         public String handleResponse(@Nonnull ClassicHttpResponse httpResponse) throws IOException {
             if (httpResponse.getCode() != HttpStatus.SC_OK) {
-                return null;
+                throw new IOException(
+                        "Received " + httpResponse.getCode() + " response from " + DEPS_DEV_URI);
             }
             return extractSourceRepo(httpResponse.getEntity().getContent());
         }
@@ -75,7 +76,7 @@ public class DepsDevService implements PurlResolver {
 
     @Nonnull
     public GitUrl resolve(@Nonnull PackageURL purl) throws PurlResolutionFailed {
-        String purlStr = purl.canonicalize();
+        String purlStr = purl.getCoordinates();
         LOGGER.info("Sending DepsDev request for {}", purlStr);
 
         final HttpGet request =
