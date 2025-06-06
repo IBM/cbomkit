@@ -19,12 +19,17 @@
  */
 package com.ibm.presentation.api.v1.database;
 
+import app.bootstrap.core.cqrs.ICommandBus;
 import app.bootstrap.core.cqrs.IQueryBus;
+import com.ibm.usecases.database.commands.StoreCBOMCommand;
+import com.ibm.usecases.database.commands.StoreCBOMCommandHandler;
 import com.ibm.usecases.database.queries.GetCBOMByProjectIdentifierQuery;
 import com.ibm.usecases.database.queries.ListStoredCBOMsQuery;
 import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
 import jakarta.enterprise.context.ApplicationScoped;
+import jakarta.inject.Inject;
+import jakarta.ws.rs.*;
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
 import jakarta.ws.rs.Produces;
@@ -38,6 +43,8 @@ import org.jboss.resteasy.reactive.RestPath;
 @ApplicationScoped
 public class CBOMResource {
 
+    @Inject ICommandBus commandBus;
+    @Inject StoreCBOMCommandHandler dummy;
     @Nonnull protected final IQueryBus queryBus;
 
     public CBOMResource(@Nonnull IQueryBus queryBus) {
@@ -73,5 +80,28 @@ public class CBOMResource {
                 .send(new GetCBOMByProjectIdentifierQuery(projectIdentifier))
                 .thenApply(readModel -> Response.ok(readModel).build())
                 .get();
+    }
+
+    @POST
+    @Path("/{projectIdentifier}")
+    @Consumes(MediaType.APPLICATION_JSON)
+    @Produces(MediaType.APPLICATION_JSON)
+    public Response storeCBOM(
+            @PathParam("projectIdentifier") String projectIdentifier, String cbomJson) {
+        try {
+            commandBus.send(new StoreCBOMCommand(projectIdentifier, cbomJson));
+            return Response.ok("{\"status\":\"CBOM stored\"}").build();
+        } catch (Exception e) {
+            return Response.status(Response.Status.INTERNAL_SERVER_ERROR)
+                    .entity("{\"error\":\"" + e.getMessage() + "\"}")
+                    .build();
+        }
+    }
+
+    @DELETE
+    @Path("/{projectIdentifier}")
+    public Response deleteCBOM(@PathParam("projectIdentifier") String projectIdentifier) {
+        // TODO: Delete CBOM by project identifier
+        return Response.ok("{\"status\":\"CBOM deleted\"}").build();
     }
 }
