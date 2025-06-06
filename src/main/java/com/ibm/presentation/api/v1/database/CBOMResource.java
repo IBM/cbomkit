@@ -23,6 +23,8 @@ import app.bootstrap.core.cqrs.ICommandBus;
 import app.bootstrap.core.cqrs.IQueryBus;
 import com.ibm.usecases.database.commands.StoreCBOMCommand;
 import com.ibm.usecases.database.commands.StoreCBOMCommandHandler;
+import com.ibm.usecases.database.commands.DeleteCBOMCommand;
+import com.ibm.usecases.database.commands.DeleteCBOMCommandHandler;
 import com.ibm.usecases.database.queries.GetCBOMByProjectIdentifierQuery;
 import com.ibm.usecases.database.queries.ListStoredCBOMsQuery;
 import jakarta.annotation.Nonnull;
@@ -44,7 +46,9 @@ import org.jboss.resteasy.reactive.RestPath;
 public class CBOMResource {
 
     @Inject ICommandBus commandBus;
+    // Inject command handlers so they are registered with the command bus
     @Inject StoreCBOMCommandHandler dummy;
+    @Inject DeleteCBOMCommandHandler deleteDummy;
     @Nonnull protected final IQueryBus queryBus;
 
     public CBOMResource(@Nonnull IQueryBus queryBus) {
@@ -101,7 +105,13 @@ public class CBOMResource {
     @DELETE
     @Path("/{projectIdentifier}")
     public Response deleteCBOM(@PathParam("projectIdentifier") String projectIdentifier) {
-        // TODO: Delete CBOM by project identifier
-        return Response.ok("{\"status\":\"CBOM deleted\"}").build();
+        try {
+            commandBus.send(new DeleteCBOMCommand(projectIdentifier));
+            return Response.ok("{\"status\":\"CBOM deleted\"}").build();
+        } catch (Exception e) {
+            return Response.status(Response.Status.INTERNAL_SERVER_ERROR)
+                    .entity("{\"error\":\"" + e.getMessage() + "\"}")
+                    .build();
+        }
     }
 }
