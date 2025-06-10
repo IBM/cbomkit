@@ -30,8 +30,7 @@ import jakarta.inject.Inject;
 import jakarta.inject.Singleton;
 
 /**
- * Handles {@link DeleteCBOMCommand} commands by removing the referenced CBOM
- * from the repository.
+ * Handles {@link DeleteCBOMCommand} commands by removing the referenced CBOM from the repository.
  */
 @Singleton
 public class DeleteCBOMCommandHandler implements ICommandHandler {
