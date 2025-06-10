@@ -68,12 +68,12 @@ public class StoreCBOMCommandHandler implements ICommandHandler {
             readRepository
                     .findBy(projectIdentifier)
                     .ifPresent(existing -> readRepository.delete(existing.getId()));
-
+            UUID cbomUUID = UUID.randomUUID();
             CBOMReadModel model =
                     new CBOMReadModel(
-                            UUID.randomUUID(),
+                            cbomUUID,
                             projectIdentifier,
-                            "manual-upload",
+                            "manual-upload-" + cbomUUID,
                             null,
                             null,
                             null,
