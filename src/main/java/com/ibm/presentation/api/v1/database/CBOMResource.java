@@ -22,9 +22,8 @@ package com.ibm.presentation.api.v1.database;
 import app.bootstrap.core.cqrs.ICommandBus;
 import app.bootstrap.core.cqrs.IQueryBus;
 import com.ibm.usecases.database.commands.DeleteCBOMCommand;
-import com.ibm.usecases.database.commands.DeleteCBOMCommandHandler;
 import com.ibm.usecases.database.commands.StoreCBOMCommand;
-import com.ibm.usecases.database.commands.StoreCBOMCommandHandler;
+import com.ibm.usecases.database.errors.NoCBOMForProjectIdentifierFound;
 import com.ibm.usecases.database.queries.GetCBOMByProjectIdentifierQuery;
 import com.ibm.usecases.database.queries.ListStoredCBOMsQuery;
 import jakarta.annotation.Nonnull;
@@ -46,9 +45,6 @@ import org.jboss.resteasy.reactive.RestPath;
 public class CBOMResource {
 
     @Inject ICommandBus commandBus;
-    // Inject command handlers so they are registered with the command bus
-    @Inject StoreCBOMCommandHandler dummy;
-    @Inject DeleteCBOMCommandHandler deleteDummy;
     @Nonnull protected final IQueryBus queryBus;
 
     public CBOMResource(@Nonnull IQueryBus queryBus) {
@@ -75,15 +71,25 @@ public class CBOMResource {
     @GET
     @Path("/{projectIdentifier}")
     @Produces(MediaType.APPLICATION_JSON)
-    public Response getCBOM(@RestPath @Nullable String projectIdentifier)
-            throws ExecutionException, InterruptedException {
+    public Response getCBOM(@RestPath @Nullable String projectIdentifier) {
         if (projectIdentifier == null) {
             return Response.status(Response.Status.BAD_REQUEST).build();
         }
-        return this.queryBus
-                .send(new GetCBOMByProjectIdentifierQuery(projectIdentifier))
-                .thenApply(readModel -> Response.ok(readModel).build())
-                .get();
+        try {
+            final var readModel =
+                    this.queryBus
+                            .send(new GetCBOMByProjectIdentifierQuery(projectIdentifier))
+                            .get();
+            return Response.ok(readModel).build();
+        } catch (ExecutionException e) {
+            if (e.getCause() instanceof NoCBOMForProjectIdentifierFound) {
+                return Response.status(Response.Status.NOT_FOUND).build();
+            }
+            return Response.status(Response.Status.INTERNAL_SERVER_ERROR).build();
+        } catch (InterruptedException e) {
+            Thread.currentThread().interrupt();
+            return Response.status(Response.Status.INTERNAL_SERVER_ERROR).build();
+        }
     }
 
     @POST
@@ -106,8 +112,19 @@ public class CBOMResource {
     @Path("/{projectIdentifier}")
     public Response deleteCBOM(@PathParam("projectIdentifier") String projectIdentifier) {
         try {
+            try {
+                queryBus.send(new GetCBOMByProjectIdentifierQuery(projectIdentifier)).get();
+            } catch (ExecutionException e) {
+                if (e.getCause() instanceof NoCBOMForProjectIdentifierFound) {
+                    return Response.status(Response.Status.NOT_FOUND).build();
+                }
+                return Response.status(Response.Status.INTERNAL_SERVER_ERROR).build();
+            }
             commandBus.send(new DeleteCBOMCommand(projectIdentifier));
             return Response.ok("{\"status\":\"CBOM deleted\"}").build();
+        } catch (InterruptedException e) {
+            Thread.currentThread().interrupt();
+            return Response.status(Response.Status.INTERNAL_SERVER_ERROR).build();
         } catch (Exception e) {
             return Response.status(Response.Status.INTERNAL_SERVER_ERROR)
                     .entity("{\"error\":\"" + e.getMessage() + "\"}")

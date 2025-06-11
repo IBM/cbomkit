@@ -27,7 +27,8 @@ import com.ibm.infrastructure.database.readmodels.CBOMReadModel;
 import com.ibm.infrastructure.database.readmodels.CBOMReadRepository;
 import io.quarkus.arc.Arc;
 import io.quarkus.arc.ArcContainer;
-import jakarta.annotation.PostConstruct;
+import io.quarkus.runtime.StartupEvent;
+import jakarta.enterprise.event.Observes;
 import jakarta.inject.Inject;
 import jakarta.inject.Singleton;
 import java.sql.Timestamp;
@@ -46,8 +47,7 @@ public class StoreCBOMCommandHandler implements ICommandHandler {
         this.commandBus = commandBus;
     }
 
-    @PostConstruct
-    void register() {
+    void onStart(@Observes StartupEvent event) {
         commandBus.register(this);
     }
 
@@ -55,7 +55,7 @@ public class StoreCBOMCommandHandler implements ICommandHandler {
     public void handle(ICommand command) throws Exception {
 
         if (!(command instanceof StoreCBOMCommand storeCommand)) {
-            throw new IllegalArgumentException("Invalid command type");
+            return;
         }
 
         final ArcContainer container = Arc.container();

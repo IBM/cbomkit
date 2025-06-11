@@ -25,7 +25,8 @@ import app.bootstrap.core.cqrs.ICommandHandler;
 import com.ibm.infrastructure.database.readmodels.CBOMReadRepository;
 import io.quarkus.arc.Arc;
 import io.quarkus.arc.ArcContainer;
-import jakarta.annotation.PostConstruct;
+import io.quarkus.runtime.StartupEvent;
+import jakarta.enterprise.event.Observes;
 import jakarta.inject.Inject;
 import jakarta.inject.Singleton;
 
@@ -44,15 +45,14 @@ public class DeleteCBOMCommandHandler implements ICommandHandler {
         this.commandBus = commandBus;
     }
 
-    @PostConstruct
-    void register() {
+    void onStart(@Observes StartupEvent event) {
         commandBus.register(this);
     }
 
     @Override
     public void handle(ICommand command) throws Exception {
         if (!(command instanceof DeleteCBOMCommand deleteCommand)) {
-            throw new IllegalArgumentException("Invalid command type");
+            return;
         }
 
         final ArcContainer container = Arc.container();
