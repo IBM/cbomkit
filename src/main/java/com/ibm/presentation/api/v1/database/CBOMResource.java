@@ -36,7 +36,11 @@ import jakarta.ws.rs.Path;
 import jakarta.ws.rs.Produces;
 import jakarta.ws.rs.core.MediaType;
 import jakarta.ws.rs.core.Response;
+import java.nio.charset.StandardCharsets;
 import java.util.concurrent.ExecutionException;
+import org.cyclonedx.exception.ParseException;
+import org.cyclonedx.parsers.BomParserFactory;
+import org.cyclonedx.parsers.Parser;
 import org.eclipse.microprofile.openapi.annotations.Operation;
 import org.jboss.resteasy.reactive.RestPath;
 
@@ -98,6 +102,13 @@ public class CBOMResource {
     @Produces(MediaType.APPLICATION_JSON)
     public Response storeCBOM(
             @PathParam("projectIdentifier") String projectIdentifier, String cbomJson) {
+        try {
+            byte[] cbomBytes = cbomJson.getBytes(StandardCharsets.UTF_8);
+            Parser parser = BomParserFactory.createParser(cbomBytes);
+            parser.parse(cbomBytes);
+        } catch (ParseException e) {
+            return Response.status(Response.Status.BAD_REQUEST).build();
+        }
         try {
             commandBus.send(new StoreCBOMCommand(projectIdentifier, cbomJson));
             return Response.ok("{\"status\":\"CBOM stored\"}").build();

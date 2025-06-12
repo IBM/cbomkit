@@ -31,9 +31,15 @@ import io.quarkus.runtime.StartupEvent;
 import jakarta.enterprise.event.Observes;
 import jakarta.inject.Inject;
 import jakarta.inject.Singleton;
+import java.nio.charset.StandardCharsets;
 import java.sql.Timestamp;
 import java.time.Instant;
 import java.util.UUID;
+import org.cyclonedx.exception.ParseException;
+import org.cyclonedx.model.Bom;
+import org.cyclonedx.model.Property;
+import org.cyclonedx.parsers.BomParserFactory;
+import org.cyclonedx.parsers.Parser;
 
 @Singleton
 public class StoreCBOMCommandHandler implements ICommandHandler {
@@ -69,14 +75,37 @@ public class StoreCBOMCommandHandler implements ICommandHandler {
                     .findBy(projectIdentifier)
                     .ifPresent(existing -> readRepository.delete(existing.getId()));
             UUID cbomUUID = UUID.randomUUID();
+            String repository = "manual-upload-" + cbomUUID;
+            String revision = null;
+            String packageFolder = null;
+            String commit = null;
+
+            try {
+                byte[] cbomBytes = storeCommand.cbomJson().getBytes(StandardCharsets.UTF_8);
+                Parser parser = BomParserFactory.createParser(cbomBytes);
+                Bom bom = parser.parse(cbomBytes);
+                if (bom.getMetadata() != null && bom.getMetadata().getProperties() != null) {
+                    for (Property property : bom.getMetadata().getProperties()) {
+                        switch (property.getName()) {
+                            case "gitUrl" -> repository = property.getValue();
+                            case "revision" -> revision = property.getValue();
+                            case "commit" -> commit = property.getValue();
+                            case "subfolder" -> packageFolder = property.getValue();
+                            default -> {}
+                        }
+                    }
+                }
+            } catch (ParseException e) {
+                // already validated in resource, ignore
+            }
             CBOMReadModel model =
                     new CBOMReadModel(
                             cbomUUID,
                             projectIdentifier,
-                            "manual-upload-" + cbomUUID,
-                            null,
-                            null,
-                            null,
+                            repository,
+                            revision,
+                            packageFolder,
+                            commit,
                             Timestamp.from(Instant.now()),
                             mapper.readTree(storeCommand.cbomJson()));
 
