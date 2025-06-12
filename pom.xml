@@ -25,7 +25,7 @@
 
     <quarkus.platform.artifact-id>quarkus-bom</quarkus.platform.artifact-id>
     <quarkus.platform.group-id>io.quarkus.platform</quarkus.platform.group-id>
-    <quarkus.platform.version>3.23.0</quarkus.platform.version>
+    <quarkus.platform.version>3.23.2</quarkus.platform.version>
 
     <sonar.crypto.plugin.version>1.4.5</sonar.crypto.plugin.version>
     <sonar.plugin.api.version>12.0.0.2960</sonar.plugin.api.version>
@@ -102,7 +102,7 @@
     <dependency>
       <groupId>org.eclipse.jgit</groupId>
       <artifactId>org.eclipse.jgit</artifactId>
-      <version>7.2.1.202505142326-r</version>
+      <version>7.3.0.202506031305-r</version>
     </dependency>
     <dependency>
       <groupId>org.apache.httpcomponents.client5</groupId>
@@ -112,7 +112,7 @@
     <dependency>
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-model</artifactId>
-      <version>3.9.9</version>
+      <version>3.9.10</version>
     </dependency>
     <dependency>
       <groupId>org.tomlj</groupId>
