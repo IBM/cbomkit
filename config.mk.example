@@ -1,0 +1,6 @@
+# Template for config.mk — copy this file to config.mk and fill in your values.
+# config.mk is listed in .gitignore and must never be committed.
+
+CLUSTER_DOMAIN      = <your-openshift-cluster-domain>
+POSTGRESQL_USERNAME = <db-username>
+POSTGRESQL_PASSWORD = <db-password>
