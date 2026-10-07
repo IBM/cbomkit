@@ -72,7 +72,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Update dependency graph
-        uses: advanced-security/maven-dependency-submission-action@v5
+        uses: advanced-security/maven-dependency-submission-action@v6
         if: github.event_name != 'pull_request'
       - name: Extract metadata (tags, labels) for Docker
         id: meta
