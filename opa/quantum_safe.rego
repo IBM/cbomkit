@@ -11,7 +11,7 @@ is_algorithm(component) if {
 
 is_asymmetric(component) if {
 	is_algorithm(component)
-	asymmetric_primitives := ["signature", "keyagree", "kem", "pke", "unknown", "other"]
+	asymmetric_primitives := ["signature", "key-agree", "kem", "pke", "unknown", "other"]
 	component.cryptoProperties.algorithmProperties.primitive in asymmetric_primitives
 }
 
