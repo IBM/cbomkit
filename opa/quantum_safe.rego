@@ -115,6 +115,7 @@ quantum_safe.findings contains finding if {
 # Mark symmetric algorithms as "na"
 quantum_safe.findings contains finding if {
 	some component in input.components
+	is_algorithm(component)
 	not is_asymmetric(component)
 
 	finding := {

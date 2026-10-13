@@ -27,6 +27,30 @@ function getLocalComplianceReport(cbom) {
   }
 }
 
+function setRemoteComplianceFailure(cbom) {
+  const totalCryptographicAssets = (cbom.components || []).filter(
+    component => component.type === "cryptographic-asset"
+  ).length;
+  model.addError(ErrorStatus.FallBackLocalComplianceReport);
+  model.policyCheckResult = {
+    error: true,
+    evaluationStatus: "error",
+    globalComplianceStatus: false,
+    findings: [],
+    complianceLevels: [],
+    defaultComplianceLevel: 2,
+    evaluationSummary: {
+      totalCryptographicAssets,
+      applicableAssets: 0,
+      evaluatedAssets: 0,
+      quantumSafeAssets: 0,
+      vulnerableAssets: 0,
+      unknownAssets: 0,
+      notApplicableAssets: 0
+    }
+  };
+}
+
 function getRemoteComplianceReport(cbom, policyIdentifier = API_CHECK_POLICY_NAME) {
   const apiUrl = `${API_CHECK_POLICY}?policyIdentifier=${policyIdentifier}`;
 
@@ -45,16 +69,13 @@ function getRemoteComplianceReport(cbom, policyIdentifier = API_CHECK_POLICY_NAM
       if (checkValidComplianceResults(jsonData)) {
         model.policyCheckResult = jsonData;
       } else {
-        // An error occured in the backend compliance service, we use the local compliance service instead
-        console.warn("Using the local compliance report instead of the remote one")
-        model.addError(ErrorStatus.FallBackLocalComplianceReport)
-        getLocalComplianceReport(cbom)
+        console.warn("Remote compliance evaluation failed or returned an incompatible response")
+        setRemoteComplianceFailure(cbom);
       }
     })
     .catch(() => {
-      console.warn("Using the local compliance report instead of the remote one")
-      model.addError(ErrorStatus.FallBackLocalComplianceReport)
-      getLocalComplianceReport(cbom)
+      console.warn("Remote compliance evaluation failed; refusing a local green fallback")
+      setRemoteComplianceFailure(cbom);
     });
 }
 

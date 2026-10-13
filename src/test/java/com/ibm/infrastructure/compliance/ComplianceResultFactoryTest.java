@@ -21,9 +21,10 @@ package com.ibm.infrastructure.compliance;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-import com.ibm.infrastructure.compliance.service.ComplianceCheckResultDTO;
 import com.ibm.infrastructure.compliance.service.BasicCryptographicAssetPolicyResult;
+import com.ibm.infrastructure.compliance.service.ComplianceCheckResultDTO;
 import java.util.List;
+import java.util.Set;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
@@ -85,16 +86,48 @@ class ComplianceResultFactoryTest {
     void nullPolicyResultsAreError() {
         ComplianceResult result =
                 ComplianceResultFactory.fromServiceResult(
-                        SERVICE,
-                        POLICY,
-                        new ComplianceCheckResultDTO(null, true),
-                        LEVELS,
-                        2,
-                        2);
+                        SERVICE, POLICY, new ComplianceCheckResultDTO(null, true), LEVELS, 2, 2);
 
         assertThat(result.evaluationStatus()).isEqualTo(EvaluationStatus.ERROR);
         assertThat(result.globalComplianceStatus()).isFalse();
         assertThat(result.error()).isTrue();
+        assertThat(result.evaluationSummary().totalCryptographicAssets()).isEqualTo(2);
+    }
+
+    @Test
+    @DisplayName("Findings must identify expected assets to establish full coverage")
+    void findingsMustMatchExpectedAssets() {
+        ComplianceCheckResultDTO dto =
+                new ComplianceCheckResultDTO(
+                        List.of(
+                                new BasicCryptographicAssetPolicyResult(
+                                        "out-of-scope", SAFE, "ignored"),
+                                new BasicCryptographicAssetPolicyResult(
+                                        "expected-a", SAFE, "valid"),
+                                new BasicCryptographicAssetPolicyResult(null, SAFE, "no identity")),
+                        false);
+        ComplianceResult result =
+                ComplianceResultFactory.fromServiceResult(
+                        SERVICE, POLICY, dto, LEVELS, 2, Set.of("expected-a", "expected-b"));
+        assertThat(result.evaluationStatus()).isEqualTo(EvaluationStatus.PARTIAL);
+        assertThat(result.globalComplianceStatus()).isFalse();
+        assertThat(result.evaluationSummary().evaluatedAssets()).isEqualTo(1);
+    }
+
+    @Test
+    @DisplayName("Not-applicable findings do not conceal missing expected assets")
+    void notApplicableWithMissingAssetIsPartial() {
+        ComplianceResult result =
+                ComplianceResultFactory.fromFindings(
+                        SERVICE,
+                        POLICY,
+                        List.of(new ComplianceFinding("aes-1", 4, "symmetric")),
+                        LEVELS,
+                        2,
+                        Set.of("aes-1", "ml-kem-1"));
+        assertThat(result.evaluationStatus()).isEqualTo(EvaluationStatus.PARTIAL);
+        assertThat(result.globalComplianceStatus()).isFalse();
+        assertThat(result.evaluationSummary().totalCryptographicAssets()).isEqualTo(2);
     }
 
     @Test
@@ -112,6 +145,49 @@ class ComplianceResultFactoryTest {
         assertThat(result.evaluationStatus()).isEqualTo(EvaluationStatus.ERROR);
         assertThat(result.globalComplianceStatus()).isFalse();
         assertThat(result.error()).isTrue();
+    }
+
+    @Test
+    @DisplayName("Multiple OPA rules for one bom-ref count as one evaluated asset")
+    void duplicateRuleFindingsDoNotInflateCoverage() {
+        ComplianceCheckResultDTO dto =
+                new ComplianceCheckResultDTO(
+                        List.of(
+                                new BasicCryptographicAssetPolicyResult(
+                                        "ml-kem-1", SAFE, "safe by name"),
+                                new BasicCryptographicAssetPolicyResult(
+                                        "ml-kem-1", SAFE, "safe by OID")),
+                        false);
+
+        ComplianceResult result =
+                ComplianceResultFactory.fromServiceResult(SERVICE, POLICY, dto, LEVELS, 2, 2);
+
+        assertThat(result.evaluationStatus()).isEqualTo(EvaluationStatus.PARTIAL);
+        assertThat(result.globalComplianceStatus()).isFalse();
+        assertThat(result.evaluationSummary().evaluatedAssets()).isEqualTo(1);
+        assertThat(result.evaluationSummary().quantumSafeAssets()).isEqualTo(1);
+    }
+
+    @Test
+    @DisplayName("A vulnerable OPA rule wins over a safe rule for the same bom-ref")
+    void conflictingRuleFindingsFailClosedPerAsset() {
+        ComplianceCheckResultDTO dto =
+                new ComplianceCheckResultDTO(
+                        List.of(
+                                new BasicCryptographicAssetPolicyResult(
+                                        "ambiguous-1", SAFE, "safe by name"),
+                                new BasicCryptographicAssetPolicyResult(
+                                        "ambiguous-1", VULNERABLE, "not in the OID whitelist")),
+                        false);
+
+        ComplianceResult result =
+                ComplianceResultFactory.fromServiceResult(SERVICE, POLICY, dto, LEVELS, 2, 1);
+
+        assertThat(result.evaluationStatus()).isEqualTo(EvaluationStatus.EVALUATED);
+        assertThat(result.globalComplianceStatus()).isFalse();
+        assertThat(result.evaluationSummary().evaluatedAssets()).isEqualTo(1);
+        assertThat(result.evaluationSummary().quantumSafeAssets()).isZero();
+        assertThat(result.evaluationSummary().vulnerableAssets()).isEqualTo(1);
     }
 
     @Test
@@ -144,8 +220,7 @@ class ComplianceResultFactoryTest {
     @Test
     @DisplayName("Incomplete finding coverage is partial, never quantum-safe")
     void incompleteCoverageIsPartial() {
-        List<ComplianceFinding> findings =
-                List.of(new ComplianceFinding("ml-kem-1", 3, "safe"));
+        List<ComplianceFinding> findings = List.of(new ComplianceFinding("ml-kem-1", 3, "safe"));
 
         ComplianceResult result =
                 ComplianceResultFactory.fromFindings(SERVICE, POLICY, findings, LEVELS, 2, 3);

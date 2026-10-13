@@ -32,8 +32,12 @@ import io.quarkus.runtime.StartupEvent;
 import jakarta.annotation.Nonnull;
 import jakarta.enterprise.event.Observes;
 import jakarta.inject.Singleton;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Optional;
+import java.util.Set;
+import java.util.concurrent.atomic.AtomicInteger;
+import org.cyclonedx.model.Component;
 import org.pqca.scanning.CBOM;
 
 @Singleton
@@ -73,12 +77,27 @@ public final class RequestComplianceCheckForCBOMQueryHandler
                 complianceCheckResultDTO,
                 this.complianceService.getComplianceLevels(),
                 this.complianceService.getDefaultComplianceLevel().id(),
-                countCryptographicAssets(cbom));
+                cryptographicAssetIds(cbom));
     }
 
-    private static int countCryptographicAssets(@Nonnull CBOM cbom) {
-        return Optional.ofNullable(cbom.cycloneDXbom().getComponents())
-                .orElseGet(List::of)
-                .size();
+    private static Set<String> cryptographicAssetIds(@Nonnull CBOM cbom) {
+        Set<String> assetIds = new HashSet<>();
+        AtomicInteger invalidBomRef = new AtomicInteger();
+        Optional.ofNullable(cbom.cycloneDXbom().getComponents()).orElseGet(List::of).stream()
+                .filter(component -> component.getType() == Component.Type.CRYPTOGRAPHIC_ASSET)
+                .forEach(
+                        component -> {
+                            String id = component.getBomRef();
+                            if (id == null || id.isBlank() || !assetIds.add(id)) {
+                                // Missing or duplicate identities must not reduce the denominator.
+                                String syntheticId;
+                                do {
+                                    syntheticId =
+                                            "__invalid_input_bom_ref_"
+                                                    + invalidBomRef.getAndIncrement();
+                                } while (!assetIds.add(syntheticId));
+                            }
+                        });
+        return Set.copyOf(assetIds);
     }
 }

@@ -83,7 +83,7 @@ public class OPAComplianceService implements IComplianceService {
         return "{\"input\":" + cbom.toJSON().toString() + "}";
     }
 
-    private List<ICryptographicAssetPolicyResult> getFindings(OPAResponse opaResponse) {
+    static List<ICryptographicAssetPolicyResult> getFindings(OPAResponse opaResponse) {
         // Distinguish "no findings produced" (empty list → NOT_EVALUATED upstream) from
         // transport/parse failures (null results + error=true). Do not invent a green verdict.
         if (opaResponse == null

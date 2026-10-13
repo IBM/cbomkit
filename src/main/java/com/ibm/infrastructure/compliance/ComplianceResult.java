@@ -39,6 +39,12 @@ public record ComplianceResult(
 
     @Nonnull
     public static ComplianceResult error(@Nonnull String complianceServiceName) {
+        return error(complianceServiceName, 0);
+    }
+
+    @Nonnull
+    public static ComplianceResult error(
+            @Nonnull String complianceServiceName, int totalCryptographicAssets) {
         return new ComplianceResult(
                 complianceServiceName,
                 null,
@@ -48,6 +54,7 @@ public record ComplianceResult(
                 false,
                 true,
                 EvaluationStatus.ERROR,
-                ComplianceEvaluationSummary.empty());
+                new ComplianceEvaluationSummary(
+                        Math.max(totalCryptographicAssets, 0), 0, 0, 0, 0, 0, 0));
     }
 }

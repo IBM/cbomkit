@@ -117,7 +117,7 @@ export function createLocalComplianceReport(cbom) {
         });
 
         const cryptoComponents = components.filter(component => component.type === "cryptographic-asset");
-        const totalCryptographicAssets = cryptoComponents.length || components.length;
+        const totalCryptographicAssets = cryptoComponents.length;
         const vulnerableAssets = findings.filter(f => f.levelId === 1).length;
         const unknownAssets = findings.filter(f => f.levelId === 2).length;
         const quantumSafeAssets = findings.filter(f => f.levelId === 3).length;
@@ -132,10 +132,10 @@ export function createLocalComplianceReport(cbom) {
             evaluationStatus = "not_applicable";
         } else if (findings.length === 0) {
             evaluationStatus = "not_evaluated";
-        } else if (applicableAssets <= 0) {
-            evaluationStatus = "not_applicable";
         } else if (evaluatedAssets < totalCryptographicAssets) {
             evaluationStatus = "partial";
+        } else if (applicableAssets <= 0) {
+            evaluationStatus = "not_applicable";
         } else if (vulnerableAssets === 0 && unknownAssets === 0) {
             evaluationStatus = "evaluated";
             globalComplianceStatus = true;
