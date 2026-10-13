@@ -38,9 +38,11 @@ dev-frontend:
 
 # run the prod setup using $(ENGINE) compose
 production:
+	@[ -f .env.production ] || (echo "ERROR: .env.production not found. Copy .env.production.example to .env.production and fill in your values." && exit 1)
 	CBOMKIT_VERSION=${VERSION} $(ENGINE)-compose --env-file .env.production --profile prod up
 
 edge:
+	@[ -f .env.production ] || (echo "ERROR: .env.production not found. Copy .env.production.example to .env.production and fill in your values." && exit 1)
 	$(ENGINE) pull ghcr.io/cbomkit/cbomkit:edge
 	$(ENGINE) pull ghcr.io/cbomkit/cbomkit-frontend:edge
 	CBOMKIT_VERSION=edge $(ENGINE)-compose --env-file .env.production --profile prod up
