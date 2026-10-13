@@ -55,6 +55,7 @@ import { getComplianceReport,
   isLoadingCompliance,
   hasValidComplianceResults,
   globalComplianceResult,
+  getEvaluationStatus,
   getCompliancePolicyName,
   getComplianceServiceName} from "@/helpers";
 import { InProgress16 } from "@carbon/icons-vue";
@@ -74,16 +75,27 @@ export default {
   computed: {
     isLoadingCompliance,
     getComplianceServiceName,
+    evaluationStatus() {
+      return getEvaluationStatus();
+    },
     title() {
       if (isLoadingCompliance()) {
         return "Analyzing compliance...";
       }
       if (hasValidComplianceResults()) {
+        if (this.evaluationStatus === "not_evaluated") {
+          return "Not evaluated –";
+        }
+        if (this.evaluationStatus === "partial") {
+          return "Partial evaluation –";
+        }
+        if (this.evaluationStatus === "not_applicable") {
+          return "Not applicable –";
+        }
         if (globalComplianceResult()) {
           return "Compliant –";
-        } else {
-          return "Not compliant –";
         }
+        return "Not compliant –";
       }
       return "Compliance results unavailable –";
     },
@@ -97,8 +109,17 @@ export default {
         return "";
       }
       if (hasValidComplianceResults()) {
-        const complianceText = globalComplianceResult() 
-          ? "complies with the policy" 
+        if (this.evaluationStatus === "not_evaluated") {
+          return `Compliance policy "${getCompliancePolicyName()}" was not evaluated for this CBOM (missing policy, empty findings, or incomplete OPA response). This is not treated as quantum-safe.` + sourceString;
+        }
+        if (this.evaluationStatus === "partial") {
+          return `Compliance policy "${getCompliancePolicyName()}" only partially covered cryptographic assets in this CBOM. Incomplete evaluation is not treated as quantum-safe.` + sourceString;
+        }
+        if (this.evaluationStatus === "not_applicable") {
+          return `No applicable cryptographic assets were found for policy "${getCompliancePolicyName()}".` + sourceString;
+        }
+        const complianceText = globalComplianceResult()
+          ? "complies with the policy"
           : "does not comply with the policy";
         return `This CBOM ${complianceText} "${getCompliancePolicyName()}".` + sourceString;
       }
@@ -109,11 +130,15 @@ export default {
         if (!hasValidComplianceResults()) {
           return "#2f4c78";
         }
-        else if (globalComplianceResult()) {
-          return "#1B5E20";
-        } else {
-          return "#705b1a";
+        if (this.evaluationStatus === "not_evaluated"
+            || this.evaluationStatus === "partial"
+            || this.evaluationStatus === "not_applicable") {
+          return "#2f4c78";
         }
+        if (globalComplianceResult()) {
+          return "#1B5E20";
+        }
+        return "#705b1a";
       }
       // In light mode, returning an empty string keeps the default background color of the component
       return "";
@@ -127,11 +152,15 @@ export default {
     },
     kind() {
       if (hasValidComplianceResults()) {
+        if (this.evaluationStatus === "not_evaluated"
+            || this.evaluationStatus === "partial"
+            || this.evaluationStatus === "not_applicable") {
+          return "info";
+        }
         if (globalComplianceResult()) {
           return "success";
-        } else {
-          return "warning";
         }
+        return "warning";
       }
       return "info";
     },

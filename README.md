@@ -197,12 +197,24 @@ Every finding object must contain at least the first three mandatory attributes:
 If any mandatory attribute of a finding is missing, the evaluation will fail, and CBOMkit will revert to its internal compliance service. The result value conveys the rule’s outcome. `NA` indicates that the rule does not apply to a certain component (for example, symmetric algorithms in the predefined "quantum_safe" policy). "property" and "value" are optional and used when rendering compliance details in the CBOMkit interface.
 
 ###### Evaluation Results
-A compliance policy acts as a knowledge base defining what is compliant or non-compliant. If a component does not match any rule, no finding is produced; CBOMkit then marks the component as "unknown".
+A compliance policy acts as a knowledge base defining what is compliant or non-compliant. If a component does not match any rule, no finding is produced for that component.
 
-The overall compliance status is considered not quantum-safe if any component is marked "quantum-vulnerable." Conversely, if no "quantum-vulnerable" components are found, or if no rule matches and hence no findings are generated, the CBOM is assumed to be quantum-safe.
+The API response includes an explicit `evaluationStatus` field:
+
+| Status | Meaning |
+|--------|---------|
+| `evaluated` | Policy ran and every cryptographic asset has a finding |
+| `partial` | Policy ran but some assets lack findings |
+| `not_evaluated` | No findings were produced (missing policy, empty/malformed OPA result, or response without a `findings` key) |
+| `not_applicable` | Empty CBOM, or only non-applicable (e.g. symmetric-only) assets |
+| `error` | Evaluation failed (OPA outage, parse failure, unsupported policy) |
+
+`globalComplianceStatus` is `true` **only** when `evaluationStatus` is `evaluated`, at least one applicable asset was checked, every applicable asset is conclusively quantum-safe, and no applicable asset is `quantum-vulnerable` or `unknown`. Missing policies, empty findings, incomplete coverage, and errors never produce a quantum-safe global verdict.
+
+The response also includes `evaluationSummary` counts: `totalCryptographicAssets`, `applicableAssets`, `evaluatedAssets`, `quantumSafeAssets`, `vulnerableAssets`, `unknownAssets`, and `notApplicableAssets`.
 
 > [!NOTE]
-> This same “quantum-safe” result will also occur for a non-empty CBOM if OPA cannot locate the specified policy or if no policy is configured at all.
+> Older versions assumed a CBOM was quantum-safe when OPA returned no findings or could not locate the policy. That fail-open behavior has been removed.
 
 #### Configuration
 

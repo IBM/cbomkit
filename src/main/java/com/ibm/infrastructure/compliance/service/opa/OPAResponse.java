@@ -19,10 +19,12 @@
  */
 package com.ibm.infrastructure.compliance.service.opa;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
 import java.util.List;
 import java.util.Map;
 
 public final class OPAResponse {
+    @JsonProperty("result")
     private Map<String, List<OPAFinding>> result;
 
     private OPAResponse() {}

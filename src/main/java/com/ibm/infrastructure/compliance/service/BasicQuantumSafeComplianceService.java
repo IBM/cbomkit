@@ -152,6 +152,16 @@ public class BasicQuantumSafeComplianceService implements IComplianceService {
                 Optional.ofNullable(cbom.cycloneDXbom().getComponents())
                         .orElseGet(List::of)
                         .stream()
+                        // Keep the Basic service denominator and the OPA policy scope aligned.
+                        .filter(component -> component.getCryptoProperties() != null)
+                        .filter(
+                                component ->
+                                        "algorithm"
+                                                .equalsIgnoreCase(
+                                                        String.valueOf(
+                                                                component
+                                                                        .getCryptoProperties()
+                                                                        .getAssetType())))
                         .map(component -> new CryptographicAsset(component.getBomRef(), component))
                         .toList();
 

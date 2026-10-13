@@ -69,10 +69,11 @@ public class OPAComplianceService implements IComplianceService {
 
         try {
             OPAResponse opaResponse = opaService.evaluate(policyIdentifier.id(), wrapInput(cbom));
-            // LOGGER.debug(opaResponse);
+            // Empty / missing findings must not be treated as quantum-safe by callers.
+            // ComplianceResultFactory maps an empty finding set to NOT_EVALUATED.
             return new ComplianceCheckResultDTO(getFindings(opaResponse), false);
         } catch (Exception e) {
-            LOGGER.error(e.getMessage());
+            LOGGER.error("OPA compliance evaluation failed: {}", e.getMessage());
         }
 
         return new ComplianceCheckResultDTO(null, true);
@@ -82,8 +83,16 @@ public class OPAComplianceService implements IComplianceService {
         return "{\"input\":" + cbom.toJSON().toString() + "}";
     }
 
-    private List<ICryptographicAssetPolicyResult> getFindings(OPAResponse opaResponse) {
-        if (opaResponse.noFindings() || !opaResponse.getResult().containsKey(FINDINGS)) {
+    static List<ICryptographicAssetPolicyResult> getFindings(OPAResponse opaResponse) {
+        // Distinguish "no findings produced" (empty list → NOT_EVALUATED upstream) from
+        // transport/parse failures (null results + error=true). Do not invent a green verdict.
+        if (opaResponse == null
+                || opaResponse.noFindings()
+                || !opaResponse.getResult().containsKey(FINDINGS)) {
+            LOGGER.warn(
+                    "OPA returned no findings for the requested policy (missing policy, empty"
+                            + " result, or response without a '{}' key)",
+                    FINDINGS);
             return Collections.emptyList();
         }
 

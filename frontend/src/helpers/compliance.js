@@ -105,9 +105,19 @@ export function hasValidComplianceResults() {
 }
 
 
-// Returns a boolean indeicating if the CBOM overalls comply with the policy
+// Returns a boolean indicating if the CBOM overall complies with the policy
 export function globalComplianceResult() {
-    return hasValidComplianceResults() && model.policyCheckResult.globalComplianceStatus;
+    return hasValidComplianceResults()
+      && model.policyCheckResult.evaluationStatus === 'evaluated'
+      && model.policyCheckResult.globalComplianceStatus;
+}
+
+// Returns the evaluation status string (evaluated | partial | not_evaluated | not_applicable | error)
+export function getEvaluationStatus() {
+    if (!hasValidComplianceResults()) {
+      return model.policyCheckResult?.evaluationStatus || 'error';
+    }
+    return model.policyCheckResult.evaluationStatus;
 }
 
 // Returns the name of the compliance policy
@@ -148,8 +158,28 @@ export function checkValidComplianceResults(policyCheckResult) {
       !Array.isArray(policyCheckResult.findings) ||
       !Array.isArray(policyCheckResult.complianceLevels) ||
       typeof policyCheckResult.defaultComplianceLevel !== 'number' ||
-      typeof policyCheckResult.globalComplianceStatus !== 'boolean') {
+      typeof policyCheckResult.globalComplianceStatus !== 'boolean' ||
+      typeof policyCheckResult.evaluationStatus !== 'string') {
     console.error("The compliance JSON object does not have the correct format")
+    return false;
+  }
+
+  const validEvaluationStatuses = new Set([
+    'evaluated',
+    'partial',
+    'not_evaluated',
+    'not_applicable',
+    'error'
+  ]);
+  if (!validEvaluationStatuses.has(policyCheckResult.evaluationStatus)) {
+    console.error("The compliance JSON object has an invalid evaluationStatus")
+    return false;
+  }
+
+  // Fail closed: never accept a quantum-safe global verdict without a full evaluation
+  if (policyCheckResult.globalComplianceStatus === true
+      && policyCheckResult.evaluationStatus !== 'evaluated') {
+    console.error("globalComplianceStatus=true is only valid when evaluationStatus is 'evaluated'")
     return false;
   }
 

@@ -23,6 +23,7 @@ import com.ibm.infrastructure.compliance.IComplianceConfiguration;
 import com.ibm.infrastructure.compliance.service.BasicQuantumSafeComplianceService;
 import com.ibm.infrastructure.compliance.service.IComplianceService;
 import com.ibm.infrastructure.compliance.service.opa.OPAComplianceService;
+import com.ibm.infrastructure.compliance.service.opa.UnavailableOPAComplianceService;
 import com.ibm.infrastructure.scanning.IScanConfiguration;
 import jakarta.annotation.Nonnull;
 import jakarta.enterprise.context.ApplicationScoped;
@@ -57,6 +58,8 @@ public final class Configuration implements IScanConfiguration, IComplianceConfi
                 LOGGER.warn(
                         "Failed to connect to external compliance service: Open Policy Agent '{}'",
                         opaApiBase.get());
+                complianceService = new UnavailableOPAComplianceService();
+                return complianceService;
             }
         }
         complianceService = new BasicQuantumSafeComplianceService();

@@ -116,7 +116,30 @@ export function createLocalComplianceReport(cbom) {
             }
         });
 
-        const globalComplianceStatus = findings.every(finding => finding.levelId !== 1 && finding.levelId !== 2);
+        const cryptoComponents = components.filter(component => component.type === "cryptographic-asset");
+        const totalCryptographicAssets = cryptoComponents.length;
+        const vulnerableAssets = findings.filter(f => f.levelId === 1).length;
+        const unknownAssets = findings.filter(f => f.levelId === 2).length;
+        const quantumSafeAssets = findings.filter(f => f.levelId === 3).length;
+        const notApplicableAssets = findings.filter(f => f.levelId === 4).length;
+        const evaluatedAssets = findings.length;
+        const applicableAssets = evaluatedAssets - notApplicableAssets;
+
+        let evaluationStatus = "evaluated";
+        let globalComplianceStatus = false;
+
+        if (totalCryptographicAssets <= 0) {
+            evaluationStatus = "not_applicable";
+        } else if (findings.length === 0) {
+            evaluationStatus = "not_evaluated";
+        } else if (evaluatedAssets < totalCryptographicAssets) {
+            evaluationStatus = "partial";
+        } else if (applicableAssets <= 0) {
+            evaluationStatus = "not_applicable";
+        } else if (vulnerableAssets === 0 && unknownAssets === 0) {
+            evaluationStatus = "evaluated";
+            globalComplianceStatus = true;
+        }
 
         return {
             complianceServiceName: COMPLIANCE_SERVICE_NAME,
@@ -125,10 +148,20 @@ export function createLocalComplianceReport(cbom) {
             complianceLevels: complianceLevels,
             defaultComplianceLevel: 2,
             globalComplianceStatus: globalComplianceStatus,
+            evaluationStatus: evaluationStatus,
+            evaluationSummary: {
+                totalCryptographicAssets,
+                applicableAssets: Math.max(applicableAssets, 0),
+                evaluatedAssets,
+                quantumSafeAssets,
+                vulnerableAssets,
+                unknownAssets,
+                notApplicableAssets
+            },
             error: false
         };
     } catch (e) {
         console.error(e);
-        return { error: true };
+        return { error: true, evaluationStatus: "error" };
     }
 }

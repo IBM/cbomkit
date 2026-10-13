@@ -67,10 +67,10 @@ export default {
         description =
           "Connection to the server was successful, but the CBOM database is empty.";
       } else if (error.status === ErrorStatus.FallBackLocalComplianceReport) {
-        kind = "warning";
-        title = "Limited compliance results";
+        kind = "error";
+        title = "Compliance evaluation unavailable";
         description =
-          "An error occured with the remote compliance service, we fall back on a local compliance report instead, which may be less detailed.";
+          "The remote compliance service failed. No compliance verdict is available; resolve the service issue and rerun the evaluation.";
       } else if (error.status === ErrorStatus.ScanWarning) {
         kind = "warning";
         title = "Warning while scanning";
