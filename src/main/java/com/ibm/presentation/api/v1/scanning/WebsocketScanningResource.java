@@ -38,16 +38,12 @@ import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.websocket.OnClose;
-import jakarta.websocket.OnError;
 import jakarta.websocket.OnMessage;
 import jakarta.websocket.OnOpen;
 import jakarta.websocket.Session;
 import jakarta.websocket.server.PathParam;
 import jakarta.websocket.server.ServerEndpoint;
 import java.util.List;
-import java.util.Map;
-import java.util.Optional;
-import java.util.concurrent.ConcurrentHashMap;
 import org.pqca.progress.ProgressMessage;
 import org.pqca.progress.ProgressMessageType;
 import org.slf4j.Logger;
@@ -58,7 +54,6 @@ import org.slf4j.LoggerFactory;
 public final class WebsocketScanningResource {
     private static final Logger LOGGER = LoggerFactory.getLogger(WebsocketScanningResource.class);
 
-    @Nonnull private final Map<String, Session> sessions;
     @Nonnull private final ICommandBus commandBus;
     @Nonnull private final IDomainEventBus domainEventBus;
     @Nonnull private final IScanConfiguration configuration;
@@ -67,36 +62,28 @@ public final class WebsocketScanningResource {
             @Nonnull ICommandBus commandBus,
             @Nonnull IDomainEventBus domainEventBus,
             @Nonnull IScanConfiguration configuration) {
-        this.sessions = new ConcurrentHashMap<>();
         this.commandBus = commandBus;
         this.domainEventBus = domainEventBus;
         this.configuration = configuration;
     }
 
     @OnOpen
-    public void onOpen(Session session, @PathParam("clientId") String clientId) {
+    public void onOpen(@PathParam("clientId") String clientId) {
         LOGGER.info("Session open for id {}", clientId);
-        sessions.put(clientId, session);
     }
 
     @OnClose
-    public void onClose(Session session, @PathParam("clientId") String clientId) {
+    public void onClose(@PathParam("clientId") String clientId) {
         LOGGER.warn("asking to close: {}", clientId);
-        sessions.remove(clientId);
-    }
-
-    @OnError
-    public void onError(
-            Session session, @PathParam("clientId") String clientId, Throwable throwable) {
-        sessions.remove(clientId);
     }
 
     @OnMessage
     public void onMessage(
-            @Nullable String requestJSONString, @Nullable @PathParam("clientId") String clientId) {
+            @Nullable String requestJSONString,
+            @Nonnull Session session,
+            @Nullable @PathParam("clientId") String clientId) {
         try {
             LOGGER.info("Received from {}", clientId);
-            final Session session = Optional.ofNullable(sessions.get(clientId)).orElseThrow();
             final WebSocketProgressDispatcher webSocketProgressDispatcher =
                     new WebSocketProgressDispatcher(session);
             final ScanRequest scanRequest =
