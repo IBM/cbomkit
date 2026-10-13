@@ -49,9 +49,6 @@ nb-configuration.xml
 .claude/settings.local.json
 .claude/worktrees
 .superpowers
-<<<<<<< HEAD
 
 # Local Git worktrees
 .worktree/
-=======
->>>>>>> 667540017 (Move private config out of Makefile into .env files)
