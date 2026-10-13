@@ -17,15 +17,15 @@
 # limitations under the License.
 services:
   backend:
-    image: ghcr.io/cbomkit/cbomkit:${CBOMKIT_VERSION}
+    image: ghcr.io/cbomkit/cbomkit:${CBOMKIT_VERSION:-latest}
     depends_on:
       - db
     environment:
       CBOMKIT_DB_TYPE: postgresql
       CBOMKIT_DB_JDBC_URL: jdbc:postgresql://db:5432/postgres
       CBOMKIT_PORT: 8081
-      CBOMKIT_DB_USERNAME: ${POSTGRESQL_AUTH_USERNAME}
-      CBOMKIT_DB_PASSWORD: ${POSTGRESQL_AUTH_PASSWORD}
+      CBOMKIT_DB_USERNAME: ${DB_USERNAME:?DB_USERNAME is required}
+      CBOMKIT_DB_PASSWORD: ${DB_PASSWORD:?DB_PASSWORD is required}
       CBOMKIT_FRONTEND_URL_CORS: "http://localhost:8001"
       CBOMKIT_OPA_API_BASE: "http://opa:8181"
     ports:
@@ -44,12 +44,12 @@ services:
       - ext-compliance
       - dev-frontend
   frontend:
-    image: ghcr.io/cbomkit/cbomkit-frontend:${CBOMKIT_VERSION}
+    image: ghcr.io/cbomkit/cbomkit-frontend:${CBOMKIT_VERSION:-latest}
     environment:
       VUE_APP_HTTP_API_BASE: "http://localhost:8081"
       VUE_APP_WS_API_BASE: "ws://localhost:8081"
       VUE_APP_TITLE: "CBOMkit"
-      VUE_APP_VIEWER_ONLY: ${CBOMKIT_VIEWER}
+      VUE_APP_VIEWER_ONLY: ${CBOMKIT_VIEWER:-false}
     ports:
       - "8001:8000"
     restart: always
@@ -63,12 +63,12 @@ services:
     user: postgres
     environment:
       POSTGRES_DB: postgres
-      POSTGRES_USER: ${POSTGRESQL_AUTH_USERNAME}
-      POSTGRES_PASSWORD: ${POSTGRESQL_AUTH_PASSWORD}
+      POSTGRES_USER: ${DB_USERNAME:?DB_USERNAME is required}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:?DB_PASSWORD is required}
     ports:
       - "5432:5432"
     healthcheck:
-      test: [ "CMD", "pg_isready -U ${POSTGRESQL_AUTH_USERNAME} -d postgres" ]
+      test: [ "CMD-SHELL", "pg_isready -U ${DB_USERNAME:?DB_USERNAME is required} -d postgres" ]
       interval: 10s
       timeout: 5s
       retries: 5
