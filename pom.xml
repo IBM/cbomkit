@@ -39,7 +39,7 @@
     <httpclient5.version>5.6.4</httpclient5.version>
     <maven-model.version>3.9.16</maven-model.version>
     <commons-configuration.version>1.10</commons-configuration.version>
-    <protobuf-java.version>4.32.1</protobuf-java.version>
+    <protobuf-java.version>4.36.1</protobuf-java.version>
     <puppycrawl-checkstyle.version>13.11.0</puppycrawl-checkstyle.version>
 
     <assertj.version>3.27.7</assertj.version>
